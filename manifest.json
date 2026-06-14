@@ -1,4 +1,10 @@
 {
-  "weeks": [3, 4],
-  "images": ["angle_types.png", "microscope.png"]
+  "weeks": [1, 2, 3],
+  "images": [
+    "five_senses.png",
+    "angle_types.png",
+    "microscope.png",
+    "regular_polygons.png",
+    "chemical_changes.png"
+  ]
 }
