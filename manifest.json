@@ -1,5 +1,6 @@
 {
   "weeks": [1, 2, 3],
+  "reviews": ["june15"],
   "images": [
     "five_senses.png",
     "angle_types.png",
