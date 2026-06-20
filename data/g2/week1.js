@@ -4458,3 +4458,66 @@ window.WEEK1_ADVANCED_DATA = {
   }
 };
 window.WEEK1_ADVANCED_DATA.reading = window.WEEK1_DATA.reading;
+
+
+// Added weekend readings
+window.WEEK1_DATA.reading.saturday = {
+  "type": "Maikling Kuwento (Short Story)",
+  "title": "Ang Unggoy at ang Pagong",
+  "slides": [
+    {
+      "title": "Kuwento: Ang Unggoy at ang Pagong - Bahagi 1",
+      "text": "Noong araw, may magkaibigang si Pagong at si Matsing. Kilala si Pagong sa pagiging mabagal ngunit napakatalino at mapagkumbaba, habang si Matsing naman ay kilala sa pagiging mabilis ngunit napakatuso at sakim. Isang araw, habang namamasyal sila sa pampang ng ilog, nakakita sila ng isang lumulutang na puno ng saging. 'Sa akin ang itaas na bahagi dahil may mga dahon na ito!' sigaw ni Matsing. Pumayag si Pagong at kinuha ang ibabang bahagi na walang dahon ngunit may mga ugat. Umuwi sila at itinanim ang kani-kanilang bahagi. Makalipas ang ilang linggo, nalanta at namatay ang itinanim ni Matsing dahil walang ugat ang kanyang saging. Samantala, ang saging ni Pagong ay lumago, naging malabay, at namunga ng marami. Nang makita ito ni Matsing, naisip niya na naman na lamangan ang kanyang mabait na kaibigan dahil alam niyang hindi kayang umakyat ni Pagong."
+    },
+    {
+      "title": "Kuwento: Ang Unggoy at ang Pagong - Bahagi 2",
+      "text": "Dahil hindi makapang-akyat si Pagong, nakiusap siya kay Matsing. 'Kaibigang Matsing, maaari mo ba akong tulungang pitasin ang mga hinog na saging? Hahatiin natin ang mga bunga.' Agad na umakyat si Matsing sa puno. Ngunit sa halip na ihulog ang mga saging, kinain niya ang lahat ng masasarap at matatamis na saging sa itaas. Inihulog lamang niya ang mga balat kay Pagong habang tumatawa ng malakas. 'Napakasarap ng mga saging na ito!' biro ni Matsing habang busog na busog. Labis na nalungkot at nagalit si Pagong sa kataksilan ng kanyang kaibigan. Upang makaganti, kumuha si Pagong ng mga matutulis na tinik ng suso at ipinalibot ang mga ito sa puno ng saging. Nang bumaba si Matsing, sumigaw siya sa sakit dahil natusok ang kanyang mga kamay at paa ng matutulis na tinik."
+    },
+    {
+      "title": "Kuwento: Ang Unggoy at ang Pagong - Bahagi 3",
+      "text": "Nagalit si Matsing at hinuli si Pagong. 'Ipapakain kita sa apoy o itatapon kita sa ilog!' sigaw ni Matsing. Nag-isip ng mabilis si Pagong at nagkunwaring takot sa ilog. 'Pakiusap, sunugin mo na lang ako sa apoy, huwag mo lang akong itapon sa malalim na ilog dahil malulunod ako!' pagmamakaawa ni Pagong. Akala ni Matsing ay matatalo niya si Pagong, kaya itinapon niya ito sa ilog. Ngunit laking gulat ni Matsing nang lumalangoy nang maayos si Pagong at tumatawa. 'Salamat, Matsing! Hindi mo ba alam na sa tubig ako nakatira?' sigaw ni Pagong. Natuto ng malaking leksyon si Matsing tungkol sa pagiging sakim at tuso, at mula noon ay hindi na niya niloko ang iba pang hayop sa kagubatan."
+    },
+    {
+      "title": "Talasalitaan at Pag-aaral ng Salita",
+      "text": "Mga Bokabularyo:\n• Sakim - Mapag-imbot o gustong solohin ang lahat.\n• Nalanta - Natuyo ang halaman at namatay.\n• Niloko - Dinaya o ginawan ng masama.\n\nTutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'ng' sa dulo ng mga salitang 'unggoy', 'pagong', at 'saging'."
+    },
+    {
+      "title": "Mga Tanong sa Pag-unawa",
+      "text": "Mga Tanong:\n1. Anong bahagi ng puno ng saging ang pinili ni Matsing, at bakit ito namatay?\n2. Paano dinaya ni Matsing si Pagong nang umakyat siya sa puno?\n3. Paano nakaligtas si Pagong sa parusa ni Matsing?"
+    },
+    {
+      "title": "Mabuting Aral at Pagninilay",
+      "text": "Kaisipan: Ang katapatan at kababaang-loob ay palaging nagtatagumpay.\n\nAng kasakiman at panlilinlang ay nagdadala ng kapahamakan sa sarili. Mas maganda ang maging tapat sa mga kaibigan at magbahagi ng mga biyaya sa kapwa.\n\nTalakayin: Bakit mahalagang ibahagi ang mga bagay sa iyong mga kaibigan?"
+    }
+  ]
+};
+window.WEEK1_DATA.reading.sunday = {
+  "type": "Alamat (Legend)",
+  "title": "Ang Alamat ng Pinya",
+  "slides": [
+    {
+      "title": "Kuwento: Ang Alamat ng Pinya - Bahagi 1",
+      "text": "Noong unang panahon, may isang mag-ina na nakatira sa isang malayong baryo. Sila ay si Aling Rosa at ang kanyang kaisa-isang anak na si Pinang. Mahal na mahal ni Aling Rosa si Pinang, ngunit lumaki si Pinang na tamad at walang ginagawa sa bahay kundi maglaro at matulog. Tuwing tuturuan siya ng kanyang ina na maglinis o magluto, palagi niyang sinasabing alam na niya ito. Ngunit kapag inutusan na siya, marami siyang idinadahilan. Isang araw, nagkasakit ng malubha si Aling Rosa at hindi makabangon sa higaan upang magluto. Nakiusap siya kay Pinang, 'Anak, pakiusap at magluto ka ng lugaw para sa ating tanghalian.' Sumang-ayon si Pinang ngunit nagreklamo pa rin habang naghahanap ng sandok sa kusina."
+    },
+    {
+      "title": "Kuwento: Ang Alamat ng Pinya - Bahagi 2",
+      "text": "Dahil tamad si Pinang, hindi siya naghanap nang mabuti sa kusina. Paulit-ulit siyang nagtatanong sa kanyang maysakit na ina. 'Inay, nasaan po ang sandok?' 'Inay, nasaan po ang bigas?' 'Inay, nasaan po ang posporo?' Dahil sa matinding pagod at yamot ng ina sa paulit-ulit na tanong ni Pinang gayong malapit lang naman ang mga gamit, nasabi ni Aling Rosa: 'Naku, Pinang! Sana ay magkaroon ka ng maraming mata upang makita mo ang lahat ng bagay at hindi ka na paulit-ulit na nagtatanong sa akin!' Natahimik si Pinang at lumabas ng kusina upang maghanap muli. Lumipas ang hapon at gabi, ngunit hindi na bumalik si Pinang sa kuwarto ng ina. Nang gumaling si Aling Rosa, hinanap niya si Pinang sa buong baryo ngunit walang nakakita sa kanya."
+    },
+    {
+      "title": "Kuwento: Ang Alamat ng Pinya - Bahagi 3",
+      "text": "Isang umaga, habang naglilinis si Aling Rosa sa kanilang bakuran, nakita niya ang isang kakaibang halaman na tumubo sa tabi ng kanilang kusina. Hindi pa siya nakakakita ng ganoong uri ng halaman. Mayroon itong prutas na may hugis-ulo ng tao at napapalibutan ng napakaraming parang mata sa buong katawan nito. Biglang naalala ni Aling Rosa ang kanyang huling sinabi sa anak bago ito mawala. Napaiyak siya dahil narealize niyang ang prutas na iyon ay ang kanyang anak na si Pinang na binago ng isang sumpa. Tinawag niya itong 'Pinang' bilang alaalang kanyang anak, at kalaunan ay tinawag itong 'Pinya'. Inalagaan niya ito nang mabuti at pinalaganap ang mga buto nito sa komunidad."
+    },
+    {
+      "title": "Talasalitaan at Pag-aaral ng Salita",
+      "text": "Mga Bokabularyo:\n• Baryo - Isang maliit na komunidad o nayon sa probinsya.\n• Yamot - Pagkainis o kawalan ng pasensya.\n• Sumpa - Isang mahiwagang salita na nagdudulot ng pagbabago.\n\nTutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'p' sa salitang 'pinya', 'pinang', at 'pagod'."
+    },
+    {
+      "title": "Mga Tanong sa Pag-unawa",
+      "text": "Mga Tanong:\n1. Ano ang ugali ni Pinang na nagpahirap sa kanyang ina?\n2. Ano ang nasabi ni Aling Rosa kay Pinang dahil sa kanyang pagkainis?\n3. Ano ang kakaibang halaman na tumubo sa bakuran ni Aling Rosa?"
+    },
+    {
+      "title": "Mabuting Aral at Pagninilay",
+      "text": "Kaisipan: Ang pagsunod sa magulang at pagkusa sa paggawa ay mahalagang katangian.\n\nHuwag maging tamad at matutong maghanap gamit ang sariling lakas bago magtanong sa iba. Ang mga salita ng magulang ay may kapangyarihan kaya dapat maging maingat sa pagsalitang iyon.\n\nTalakayin: Ano ang mga simpleng gawaing-bahay na maaari mong gawin upang makatulong sa iyong mga magulang?"
+    }
+  ]
+};

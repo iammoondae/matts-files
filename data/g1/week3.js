@@ -4458,3 +4458,66 @@ window.WEEK3_ADVANCED_DATA = {
   }
 };
 window.WEEK3_ADVANCED_DATA.reading = window.WEEK3_DATA.reading;
+
+
+// Added weekend readings
+window.WEEK3_DATA.reading.saturday = {
+  "type": "Maikling Kuwento (Short Story)",
+  "title": "Ang Langgam at ang Tipaklong",
+  "slides": [
+    {
+      "title": "Kuwento: Ang Langgam at ang Tipaklong - Bahagi 1",
+      "text": "Noong panahon ng tag-araw, ang buong kagubatan ay napakaganda at puno ng pagkain. Habang si Tipaklong ay masayang kumakanta at sumasayaw sa ilalim ng init ng araw, si Langgam naman ay abalang-abala sa paghahanap at paghahakot ng mga butil ng palay at prutas patungo sa kanyang munting bahay. 'Langgam, halika muna rito at magsaya tayo! Napakaraming pagkain ngayon, bakit ka nagpapapagod?' tanong ni Tipaklong habang tumutugtog ng gitara. Sumagot si Langgam, 'Nag-iipon ako ng pagkain para sa darating na tag-ulan upang hindi kami magutom. Dapat mag-ipon ka na rin, Tipaklong.' Ngunit tinawanan lamang siya ni Tipaklong at nagpatuloy sa paglalaro."
+    },
+    {
+      "title": "Kuwento: Ang Langgam at ang Tipaklong - Bahagi 2",
+      "text": "Mabilis na lumipas ang mga araw at dumating ang panahon ng tag-ulan. Ulan dito, ulan doon, at naging napakalamig ng buong kagubatan. Nabasa ang mga dahon at walang makitang pagkain sa paligid dahil nalubog sa tubig ang mga damo. Ligtas na nanatili si Langgam sa loob ng kanyang tuyo at mainit na tahanan, kasama ang kanyang pamilya habang masayang kumakain ng mga butil na naipon nila noong tag-araw. Samantala, si Tipaklong ay gutom na gutom at nanginginig sa lamig sa labas, walang makitang masisilungan at walang makain."
+    },
+    {
+      "title": "Kuwento: Ang Langgam at ang Tipaklong - Bahagi 3",
+      "text": "Dahil sa matinding gutom, lumapit si Tipaklong sa bahay ni Langgam at kumatok. 'Kaibigang Langgam, pakiusap at bigyan mo ako kahit kaunting pagkain. Nanginginig na ako sa gutom,' pakiusap niya. Nakaramdam ng awa si Langgam, kaya pinapasok niya si Tipaklong at binigyan ng mainit na pagkain at tuyong dahon. 'Salamat, Langgam. Ngayon ay naintindihan ko na kung bakit ka nagtrabaho noong tag-araw habang ako ay naglaro lamang,' wika ni Tipaklong nang may pagsisisi. Nangako si Tipaklong na sa susunod na tag-araw, mag-iipon din siya ng pagkain tulad ng kanyang masipag na kaibigan."
+    },
+    {
+      "title": "Talasalitaan at Pag-aaral ng Salita",
+      "text": "Mga Bokabularyo:\n• Tag-araw - Panahon ng init at sikat ng araw.\n• Paghahakot - Pagsasama-sama o pagdadala ng mga bagay sa isang lugar.\n• Pagsisisi - Pakiramdam ng lungkot dahil sa maling desisyong ginawa.\n\nTutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'l' sa 'langgam', 'lamig', at 'laro'."
+    },
+    {
+      "title": "Mga Tanong sa Pag-unawa",
+      "text": "Mga Tanong:\n1. Ano ang ginagawa ni Langgam habang naglalaro si Tipaklong?\n2. Ano ang nangyari kay Tipaklong nang dumating ang tag-ulan?\n3. Paano tinulungan ni Langgam si Tipaklong sa dulo ng kwento?"
+    },
+    {
+      "title": "Mabuting Aral at Pagninilay",
+      "text": "Kaisipan: Ang pagiging masipag at handa sa hinaharap ay nagliligtas sa atin sa hirap.\n\nMay oras para sa paglalaro at may oras para sa pagtatrabaho. Ang pagiging handa ay nagpapakita ng katalinuhan, habang ang pagtulong sa nangangailangan ay nagpapakita ng kabaitan.\n\nTalakayin: Ano ang mga aralin sa paaralan na maaari mong pag-aralan nang maaga upang maging handa sa pagsusulit?"
+    }
+  ]
+};
+window.WEEK3_DATA.reading.sunday = {
+  "type": "Maikling Kuwento (Short Story)",
+  "title": "Si Juan Tamad",
+  "slides": [
+    {
+      "title": "Kuwento: Si Juan Tamad - Bahagi 1",
+      "text": "Sa isang maliit na baryo, may isang batang lalaki na nagngangalang Juan. Dahil sa kanyang labis na katamaran, binansagan siya ng kanyang mga kapitbahay na si Juan Tamad. Tuwing inuutusan siya ng kanyang ina, lagi siyang nagdadahilan o gumagawa ng paraan upang hindi matapos ang gawain. Isang mainit na hapon, habang naglalakad si Juan sa tabi ng kalsada, nakakita siya ng isang puno ng bayabas na puno ng malalaki at hinog na bunga. Gustong-gusto niyang kumain ng bayabas, ngunit napakataas ng puno at ayaw niyang magkapagod sa pag-akyat."
+    },
+    {
+      "title": "Kuwento: Si Juan Tamad - Bahagi 2",
+      "text": "Sa halip na umakyat o kumuha ng mahabang kawayan upang sungkitin ang bayabas, humiga si Juan sa ilalim ng puno. Tumingala siya at tinitigan ang isang napakahinog na bayabas na nakabitin sa mababang sanga. 'Hihiga na lang ako rito at bubuksan ko ang aking bibig. Hihintayin ko na lang na mahulog ang bayabas sa aking bibig,' sabi ni Juan sa sarili. Nanatili siyang nakahiga sa ilalim ng puno ng ilang oras, habang lumilipas ang araw at nagugutom siya. Ang mga ibon naman ay dumapo sa puno at kinain ang ilang bayabas sa itaas habang pinapanood si Juan."
+    },
+    {
+      "title": "Kuwento: Si Juan Tamad - Bahagi 3",
+      "text": "Nang dumaan ang kanyang ina sa kalsada at nakita si Juan na nakanganga sa ilalim ng puno, napa-iling ito sa lungkot at galit. 'Juan! Bakit ka nakahiga diyan?' tanong ng ina. 'Ina, hinihintay ko pong mahulog ang bayabas sa aking bibig,' sagot ni Juan. Sinabi ng kanyang ina, 'Napakalaking bayabas niyan, Juan! Kung tumayo ka lamang at kinuha ito gamit ang iyong kamay, kanina ka pa busog! Walang pagkain na kusang mahuhulog sa bibig ng taong ayaw gumawa.' Nahiya si Juan at tumayo upang tulungan ang kanyang ina sa pagdadala ng mga kahoy."
+    },
+    {
+      "title": "Talasalitaan at Pag-aaral ng Salita",
+      "text": "Mga Bokabularyo:\n• Binansagan - Binigyan ng palayaw o pangalan batay sa ugali.\n• Sungkitin - Kumuha ng bagay sa itaas gamit ang stick o kawayan.\n• Kusang - Nangyayari nang walang tulong o kusa ng iba.\n\nTutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'j' o 'h' sa 'juan', 'hinog', at 'higa'."
+    },
+    {
+      "title": "Mga Tanong sa Pag-unawa",
+      "text": "Mga Tanong:\n1. Bakit binansagan si Juan na 'Juan Tamad'?\n2. Paano nakuha ni Juan ang bayabas ayon sa kanyang plano?\n3. Ano ang sinabi ng kanyang ina nang makita siyang nakahiga sa ilalim ng puno?"
+    },
+    {
+      "title": "Mabuting Aral at Pagninilay",
+      "text": "Kaisipan: Ang mga pangarap at pangangailangan ay makakamit lamang sa pamamagitan ng pagkilos.\n\nAng katamaran ay nagdadala ng gutom at kawalan ng pag-unlad. Hindi dapat iasa sa tadhana o pagkakataon ang mga bagay na maaari namang pagtrabahuhan.\n\nTalakayin: Ano ang mga layunin mo sa buhay na nangangailangan ng iyong pagsisikap upang maabot?"
+    }
+  ]
+};

@@ -4458,3 +4458,66 @@ window.WEEK2_ADVANCED_DATA = {
   }
 };
 window.WEEK2_ADVANCED_DATA.reading = window.WEEK2_DATA.reading;
+
+
+// Added weekend readings
+window.WEEK2_DATA.reading.saturday = {
+  "type": "Alamat (Legend)",
+  "title": "Si Malakas at si Maganda",
+  "slides": [
+    {
+      "title": "Kuwento: Si Malakas at si Maganda - Bahagi 1",
+      "text": "Noong unang panahon, wala pang lupa at tao sa mundo. Ang mayroon lamang ay ang asul na langit, ang malawak na karagatan, at isang makapangyarihang ibon na lumilipad sa pagitan nito. Isang araw, naging pagod ang ibon sa paglipad at nagpasya na lumikha ng mga isla upang may masilungan. Nang magkaroon ng mga pulo, tumubo ang iba't ibang halaman, kabilang ang isang napakalaking puno ng kawayan sa pampang. Habang namamasyal ang ibon sa tabi ng mga kawayan, narinig niya ang isang kakaibang katok mula sa loob ng isang malaking kawayan. 'Tok! Tok! Tok!' Parang may humihingi ng tulong mula sa loob nito."
+    },
+    {
+      "title": "Kuwento: Si Malakas at si Maganda - Bahagi 2",
+      "text": "Dahil sa kuryusidad, tinuka ng ibon ang makapal na kawayan hanggang sa mabiyak ito sa gitna. Laking gulat ng ibon nang lumabas ang dalawang magagandang nilalang mula sa loob ng kawayan. Ang una ay isang lalaki na matikas, matapang, at may malalaking kalamnan. Tinawag niya ang kanyang sarili na si Malakas. Ang pangalawa ay isang napakagandang babae na may mahabang buhok, mayumi, at mahinhin kumilos. Tinawag niya ang kanyang sarili na si Maganda. Sila ang mga kauna-unahang tao na nanirahan sa mga isla ng Pilipinas. Pinakita nila sa ibon ang kanilang pasasalamat sa pagpapalaya sa kanila sa madilim na kawayan."
+    },
+    {
+      "title": "Kuwento: Si Malakas at si Maganda - Bahagi 3",
+      "text": "Nagtulungan sina Malakas at Maganda upang magtayo ng kanilang tirahan at maghanap ng pagkain. Si Malakas ang nagputol ng mga puno at nagtayo ng matibay na kubo upang maprotektahan sila sa bagyo at init, habang si Maganda naman ang nag-alaga sa kanilang bakuran at nagtanim ng mga halamang-gamot. Nagsimula silang magkaroon ng pamilya at nagturo sa kanilang mga anak ng kahalagahan ng paggawa, respeto, at pagkakaisa sa komunidad. Sila ang pinagmulan ng lahing Pilipino, na kilala sa pagiging matatag tulad ni Malakas at mapagmahal sa sining at kapayapaan tulad ni Maganda."
+    },
+    {
+      "title": "Talasalitaan at Pag-aaral ng Salita",
+      "text": "Mga Bokabularyo:\n• Matikas - Malakas ang pangangatawan at may magandang tindig.\n• Kawayan - Isang matibay na uri ng damo na parang kahoy na ginagamit sa pagtatayo ng bahay.\n• Mayumi - Mahinhin o magandang kumilos.\n\nTutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'm' sa 'malakas', 'maganda', at 'mundo'."
+    },
+    {
+      "title": "Mga Tanong sa Pag-unawa",
+      "text": "Mga Tanong:\n1. Saan nagmula sina Malakas at Maganda ayon sa alamat?\n2. Ano ang mga katangian ni Malakas at Maganda?\n3. Paano sila nagtulungan sa kanilang bagong tahanan?"
+    },
+    {
+      "title": "Mabuting Aral at Pagninilay",
+      "text": "Kaisipan: Ang pagkakaisa ng lakas at kagandahan ay nagdudulot ng magandang komunidad.\n\nAng bawat tao ay may kani-kaniyang talento at lakas na dapat gamitin para sa kabutihan ng pamilya. Ang pagtutulungan ng bawat kasapi ng pamilya ay susi sa masayang tahanan.\n\nDiscuss: Ano ang iyong sariling lakas na maaari mong ibahagi upang makatulong sa pamilya?"
+    }
+  ]
+};
+window.WEEK2_DATA.reading.sunday = {
+  "type": "Maikling Kuwento (Short Story)",
+  "title": "Ang Kuneho at ang Pagong",
+  "slides": [
+    {
+      "title": "Kuwento: Ang Kuneho at ang Pagong - Bahagi 1",
+      "text": "Isang umaga sa kagubatan, nagyabang si Kuneho sa kanyang bilis sa harap ng iba pang mga hayop. 'Walang sinuman sa kagubatan ang makakatalo sa akin sa takbuhan!' sigaw niya habang tumatalon-talon. Nang marinig ito ni Pagong, lumapit siya nang dahan-dahan at sinabi, 'Tinatanggap ko ang iyong hamon, Kuneho. Magpaligsahan tayo sa susunod na Linggo.' Tumawa nang malakas si Kuneho at sinabing, 'Nababaliw ka ba, Pagong? Ang bagal mo kayang maglakad!' Ngunit pumayag pa rin si Kuneho dahil nais niyang ipakita sa lahat ang kanyang bilis. Nagtakda sila ng ruta sa kagubatan patungo sa tuktok ng bundok."
+    },
+    {
+      "title": "Kuwento: Ang Kuneho at ang Pagong - Bahagi 2",
+      "text": "Nagsimula ang karera sa hudyat ng kuwago. Agad na tumakbo nang napakabilis si Kuneho at nawala sa paningin ng mga hayop. Samantala, si Pagong naman ay nagsimulang maglakad nang dahan-dahan, hakbang-hakbang nang walang hinto. Nang malapit na si Kuneho sa dulo, lumingon siya at nakitang napakalayo pa ni Pagong. 'Matutulog muna ako sa ilalim ng punong ito dahil napakabagal ni Pagong,' sabi ni Kuneho sa sarili. Humiga si Kuneho sa malambot na damo at mabilis na nakatulog dahil sa hanging malamig. Samantala, patuloy pa rin sa paglalakad si Pagong sa ilalim ng mainit na araw."
+    },
+    {
+      "title": "Kuwento: Ang Kuneho at ang Pagong - Bahagi 3",
+      "text": "Lumipas ang ilang oras. Nagpatuloy si Pagong sa paglalakad nang walang tigil hanggang sa malagpasan niya ang natutulog na si Kuneho. Nang magising si Kuneho, nagulat siya nang makitang malapit na si Pagong sa dulo ng karera. Tumakbo si Kuneho nang buong lakas, ngunit huli na ang lahat! Naabot na ni Pagong ang linya ng tagumpay at sumigaw sa tuwa ang mga hayop. Nahiya si Kuneho sa kanyang kayabangan at humingi ng paumanhin kay Pagong. Napatunayan ni Pagong na ang tiyaga at determinasyon ay mas mahalaga kaysa sa bilis na walang pagpapakumbaba."
+    },
+    {
+      "title": "Talasalitaan at Pag-aaral ng Salita",
+      "text": "Mga Bokabularyo:\n• Nagyabang - Nagmalaki o ipinakita ang sariling galing nang may kasamang pagmamataas.\n• Ruta - Daanan o direksyon ng paglalakbay.\n• Determinasyon - Katatagan ng loob upang maabot ang layunin.\n\nTutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'k' sa 'kuneho', 'karera', at 'kagubatan'."
+    },
+    {
+      "title": "Mga Tanong sa Pag-unawa",
+      "text": "Mga Tanong:\n1. Bakit tinanggap ni Pagong ang hamon ni Kuneho kahit alam niyang mabagal siya?\n2. Ano ang ginawa ni Kuneho habang tumatakbo sa karera?\n3. Sino ang nanalo sa paligsahan, at paano niya ito nagawa?"
+    },
+    {
+      "title": "Mabuting Aral at Pagninilay",
+      "text": "Kaisipan: Ang tiyaga at pagpapakumbaba ay susi sa tagumpay.\n\nHuwag maliitin ang kakayahan ng iba kahit sa tingin mo ay mas magaling ka. Ang patuloy na pagsisikap nang may katapatan ay nagdadala ng tunay na panalo.\n\nTalakayin: Ano ang gagawin mo kapag nahihirapan ka sa isang aralin sa paaralan?"
+    }
+  ]
+};
