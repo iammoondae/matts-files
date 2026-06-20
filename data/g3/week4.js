@@ -4,25 +4,355 @@ window.WEEK4_DATA.math = {
   "color": "#3b82f6",
   "icon": "🔢",
   "title": "Mathematics",
-  "subtitle": "Week 4: Addition and Subtraction with Regrouping",
+  "subtitle": "Week 4: Angles and Protractor",
   "slides": [
     {
-      "title": "Regrouping in Addition",
-      "text": "Regrouping is carrying over a digit from one place value column to another when the sum is 10 or more. For example, 10 ones make 1 ten, and 10 tens make 1 hundred.",
+      "title": "Introduction to Week 4: Angles and Protractor",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Mathematics.",
       "examples": [
         {
-          "title": "Regrouping Ones",
-          "content": "15 + 8: add 5 + 8 = 13. Regroup 10 ones as 1 ten, leaving 3 ones. The answer is 23."
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 4: Angles and Protractor and apply them in daily situations."
+        },
+        {
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
         }
       ]
     },
     {
-      "title": "Subtraction with Regrouping",
-      "text": "Regrouping in subtraction (borrowing) is taking a group from a larger place value to a smaller one (e.g. 1 ten becomes 10 ones) when the top digit is smaller than the bottom digit.",
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
       "examples": [
         {
-          "title": "Borrowing Ten",
-          "content": "32 - 7: since 2 < 7, borrow 1 ten from 3, changing 2 to 12. 12 - 7 = 5. Left with 2 tens. Answer is 25."
+          "title": "Term 1: Counting",
+          "content": "A foundational concept in Mathematics that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Comparing",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
+    },
+    {
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 4: Angles and Protractor. By looking closely at how these ideas work together, we can build a strong understanding of Mathematics.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 4: Angles and Protractor in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 4: Angles and Protractor. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 4: Angles and Protractor. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 4: Angles and Protractor. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 4: Angles and Protractor. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 4: Angles and Protractor. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 4: Angles and Protractor. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 4: Angles and Protractor. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 4: Angles and Protractor. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 4: Angles and Protractor. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 4: Angles and Protractor. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 4: Angles and Protractor. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 4: Angles and Protractor. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 4: Angles and Protractor. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 4: Angles and Protractor. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 4: Angles and Protractor. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 4: Angles and Protractor to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 4: Angles and Protractor to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 4: Angles and Protractor to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 4: Angles and Protractor to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 4: Angles and Protractor. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
         }
       ]
     }
@@ -30,276 +360,248 @@ window.WEEK4_DATA.math = {
   "standard": [
     {
       "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 1)",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 4: Angles and Protractor?",
       "options": [
-        "223",
-        "213",
-        "225",
-        "123"
+        "Core term: Comparing",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 2)",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 4: Angles and Protractor?",
       "options": [
-        "223",
-        "213",
-        "225",
-        "123"
+        "Core term: Addition",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 3)",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 4: Angles and Protractor?",
       "options": [
-        "223",
-        "213",
-        "225",
-        "123"
+        "Core term: Place value",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 4)",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 4: Angles and Protractor?",
       "options": [
-        "223",
-        "213",
-        "225",
-        "123"
+        "Core term: Numbers",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 4: Angles and Protractor is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Angles and Protractor are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Angles and Protractor are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 5)",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 4: Angles and Protractor?",
       "options": [
-        "223",
-        "213",
-        "225",
-        "123"
+        "Core term: Fractions",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 4: Angles and Protractor is a key topic in the study of ___.",
+      "answer": "Mathematics"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 4: Angles and Protractor?",
+      "options": [
+        "Core term: Perimeter",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 6)",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 4: Angles and Protractor?",
       "options": [
-        "223",
-        "213",
-        "225",
-        "123"
+        "Core term: Area",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 4: Angles and Protractor is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Angles and Protractor are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Angles and Protractor are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 7)",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 4: Angles and Protractor?",
       "options": [
-        "223",
-        "213",
-        "225",
-        "123"
+        "Core term: Comparing",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 8)",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 4: Angles and Protractor?",
       "options": [
-        "223",
-        "213",
-        "225",
-        "123"
+        "Core term: Addition",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 9)",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 4: Angles and Protractor?",
       "options": [
-        "223",
-        "213",
-        "225",
-        "123"
+        "Core term: Place value",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 4: Angles and Protractor is a key topic in the study of ___.",
+      "answer": "Mathematics"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 4: Angles and Protractor is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Angles and Protractor are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Angles and Protractor are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 10)",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 4: Angles and Protractor?",
       "options": [
-        "223",
-        "213",
-        "225",
-        "123"
+        "Core term: Fractions",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 11)",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 4: Angles and Protractor?",
       "options": [
-        "223",
-        "213",
-        "225",
-        "123"
+        "Core term: Multiplication",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 12)",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 4: Angles and Protractor?",
       "options": [
-        "223",
-        "213",
-        "225",
-        "123"
+        "Core term: Perimeter",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 13)",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 4: Angles and Protractor?",
       "options": [
-        "223",
-        "213",
-        "225",
-        "123"
+        "Core term: Area",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 4: Angles and Protractor is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Angles and Protractor are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Angles and Protractor are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 4: Angles and Protractor is a key topic in the study of ___.",
+      "answer": "Mathematics"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 4: Angles and Protractor?",
+      "options": [
+        "Core term: Addition",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 14)",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 4: Angles and Protractor?",
       "options": [
-        "223",
-        "213",
-        "225",
-        "123"
+        "Core term: Place value",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 15)",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 4: Angles and Protractor?",
       "options": [
-        "223",
-        "213",
-        "225",
-        "123"
+        "Core term: Numbers",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 16)",
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 4: Angles and Protractor is correct?",
       "options": [
-        "223",
-        "213",
-        "225",
-        "123"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 17)",
-      "options": [
-        "223",
-        "213",
-        "225",
-        "123"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 18)",
-      "options": [
-        "223",
-        "213",
-        "225",
-        "123"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 19)",
-      "options": [
-        "223",
-        "213",
-        "225",
-        "123"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 20)",
-      "options": [
-        "223",
-        "213",
-        "225",
-        "123"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 21)",
-      "options": [
-        "223",
-        "213",
-        "225",
-        "123"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 22)",
-      "options": [
-        "223",
-        "213",
-        "225",
-        "123"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 23)",
-      "options": [
-        "223",
-        "213",
-        "225",
-        "123"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 24)",
-      "options": [
-        "223",
-        "213",
-        "225",
-        "123"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Solve: 145 + 78 = ? (Question 25)",
-      "options": [
-        "223",
-        "213",
-        "225",
-        "123"
+        "Statement A: The core rules of Week 4: Angles and Protractor are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Angles and Protractor are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -307,73 +609,67 @@ window.WEEK4_DATA.math = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge: If you subtract 189 from 400, what do you get? (Challenge 1)",
+      "q": "Challenge 1: In a complex situation involving Week 4: Angles and Protractor, what is the first priority?",
       "options": [
-        "211",
-        "221",
-        "311",
-        "111"
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge: If you subtract 189 from 400, what do you get? (Challenge 2)",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 4: Angles and Protractor?",
       "options": [
-        "211",
-        "221",
-        "311",
-        "111"
+        "The primary variable: Counting",
+        "An external variable",
+        "No variable",
+        "All variables equally"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Challenge: If you subtract 189 from 400, what do you get? (Challenge 3)",
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 4: Angles and Protractor.",
       "options": [
-        "211",
-        "221",
-        "311",
-        "111"
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Challenge: If you subtract 189 from 400, what do you get? (Challenge 4)",
-      "options": [
-        "211",
-        "221",
-        "311",
-        "111"
-      ],
-      "answer": 0
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 4: Angles and Protractor?",
+      "answer": "comparing"
     },
     {
       "type": "choice",
-      "q": "Challenge: If you subtract 189 from 400, what do you get? (Challenge 5)",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 4: Angles and Protractor?",
       "options": [
-        "211",
-        "221",
-        "311",
-        "111"
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
       ],
       "answer": 0
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Mathematics Task",
-    "desc": "Solve and draw a model explaining Addition and Subtraction with Regrouping. Share with your parent.",
+    "title": "Interactive Task: Week 4: Angles and Protractor",
+    "desc": "Perform a simple observation of Week 4: Angles and Protractor at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
-      "Accuracy",
-      "Drawing neatness",
-      "Explanation"
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                 <h3>Mathematics Review - Week 4</h3>\n                 <p class=\"ws-instruction\">Solve the math problems.</p>\n                 <div class=\"ws-item-row\"><div class=\"ws-q\">1. Answer: <span class=\"ws-answer\">Correct</span></div></div>\n               </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 4: Angles and Protractor</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 4: Angles and Protractor and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Comparing and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 4: Angles and Protractor.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of counting</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 4: Angles and Protractor.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -385,16 +681,352 @@ window.WEEK4_DATA.science = {
   "subtitle": "Week 4: Science Process Skills and Measurement",
   "slides": [
     {
-      "title": "Measuring Length",
-      "text": "Scientists use metric units to measure length accurately. The standard units are millimeters (mm), centimeters (cm), and meters (m). Ten millimeters make one centimeter, and 100 centimeters make one meter.",
+      "title": "Introduction to Week 4: Science Process Skills and Measurement",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Science.",
       "examples": [
         {
-          "title": "Small insect",
-          "content": "Measured in millimeters (e.g. 5 mm long)."
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 4: Science Process Skills and Measurement and apply them in daily situations."
         },
         {
-          "title": "Notebook",
-          "content": "Measured in centimeters (e.g. 20 cm long)."
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+        }
+      ]
+    },
+    {
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
+        {
+          "title": "Term 1: Observation",
+          "content": "A foundational concept in Science that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Prediction",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
+    },
+    {
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 4: Science Process Skills and Measurement. By looking closely at how these ideas work together, we can build a strong understanding of Science.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 4: Science Process Skills and Measurement in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 4: Science Process Skills and Measurement. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 4: Science Process Skills and Measurement. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 4: Science Process Skills and Measurement. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 4: Science Process Skills and Measurement. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 4: Science Process Skills and Measurement. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 4: Science Process Skills and Measurement. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 4: Science Process Skills and Measurement. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 4: Science Process Skills and Measurement. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 4: Science Process Skills and Measurement. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 4: Science Process Skills and Measurement. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 4: Science Process Skills and Measurement. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 4: Science Process Skills and Measurement. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 4: Science Process Skills and Measurement. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 4: Science Process Skills and Measurement. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 4: Science Process Skills and Measurement. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 4: Science Process Skills and Measurement to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 4: Science Process Skills and Measurement to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 4: Science Process Skills and Measurement to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 4: Science Process Skills and Measurement to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 4: Science Process Skills and Measurement. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
         }
       ]
     }
@@ -402,276 +1034,248 @@ window.WEEK4_DATA.science = {
   "standard": [
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 1)",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Prediction",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 2)",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Materials",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 3)",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Body parts",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 4)",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Senses",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 4: Science Process Skills and Measurement is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Science Process Skills and Measurement are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Science Process Skills and Measurement are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 5)",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Safety",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 4: Science Process Skills and Measurement is a key topic in the study of ___.",
+      "answer": "Science"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement?",
+      "options": [
+        "Core term: Liquids",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 6)",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Gases",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 4: Science Process Skills and Measurement is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Science Process Skills and Measurement are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Science Process Skills and Measurement are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 7)",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Prediction",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 8)",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Materials",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 9)",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Body parts",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 4: Science Process Skills and Measurement is a key topic in the study of ___.",
+      "answer": "Science"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 4: Science Process Skills and Measurement is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Science Process Skills and Measurement are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Science Process Skills and Measurement are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 10)",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Safety",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 11)",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Solids",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 12)",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Liquids",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 13)",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Gases",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 4: Science Process Skills and Measurement is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Science Process Skills and Measurement are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Science Process Skills and Measurement are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 4: Science Process Skills and Measurement is a key topic in the study of ___.",
+      "answer": "Science"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement?",
+      "options": [
+        "Core term: Materials",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 14)",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Body parts",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 15)",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Senses",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 16)",
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 4: Science Process Skills and Measurement is correct?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 17)",
-      "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 18)",
-      "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 19)",
-      "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 20)",
-      "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 21)",
-      "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 22)",
-      "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 23)",
-      "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 24)",
-      "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 25)",
-      "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Statement A: The core rules of Week 4: Science Process Skills and Measurement are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Science Process Skills and Measurement are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -679,73 +1283,67 @@ window.WEEK4_DATA.science = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge: If you use a hand lens to focus sunlight on a piece of dark paper, what will happen? (Challenge 1)",
+      "q": "Challenge 1: In a complex situation involving Week 4: Science Process Skills and Measurement, what is the first priority?",
       "options": [
-        "The paper will get hot and may burn",
-        "Nothing will happen",
-        "The paper will turn blue",
-        "The lens will melt"
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge: If you use a hand lens to focus sunlight on a piece of dark paper, what will happen? (Challenge 2)",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 4: Science Process Skills and Measurement?",
       "options": [
-        "The paper will get hot and may burn",
-        "Nothing will happen",
-        "The paper will turn blue",
-        "The lens will melt"
+        "The primary variable: Observation",
+        "An external variable",
+        "No variable",
+        "All variables equally"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Challenge: If you use a hand lens to focus sunlight on a piece of dark paper, what will happen? (Challenge 3)",
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 4: Science Process Skills and Measurement.",
       "options": [
-        "The paper will get hot and may burn",
-        "Nothing will happen",
-        "The paper will turn blue",
-        "The lens will melt"
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Challenge: If you use a hand lens to focus sunlight on a piece of dark paper, what will happen? (Challenge 4)",
-      "options": [
-        "The paper will get hot and may burn",
-        "Nothing will happen",
-        "The paper will turn blue",
-        "The lens will melt"
-      ],
-      "answer": 0
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 4: Science Process Skills and Measurement?",
+      "answer": "prediction"
     },
     {
       "type": "choice",
-      "q": "Challenge: If you use a hand lens to focus sunlight on a piece of dark paper, what will happen? (Challenge 5)",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 4: Science Process Skills and Measurement?",
       "options": [
-        "The paper will get hot and may burn",
-        "Nothing will happen",
-        "The paper will turn blue",
-        "The lens will melt"
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
       ],
       "answer": 0
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Science Activity Task",
-    "desc": "Create an entry in your notebook explaining Science Process Skills and Measurement. Share your work with your parents.",
+    "title": "Interactive Task: Week 4: Science Process Skills and Measurement",
+    "desc": "Perform a simple observation of Week 4: Science Process Skills and Measurement at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
-      "Accuracy and understanding",
-      "Cleanliness and presentation",
-      "Self-expression and effort"
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                 <h3>Science Review - Week 4</h3>\n                 <p class=\"ws-instruction\">Write the correct answer below using your stylus.</p>\n                 <div class=\"ws-item-row\"><div class=\"ws-q\">1. What is the main concept of Science Process Skills and Measurement? <span class=\"ws-answer\">Understanding and applying Science Process Skills and Measurement in real life.</span></div></div>\n               </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 4: Science Process Skills and Measurement</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 4: Science Process Skills and Measurement and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Prediction and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 4: Science Process Skills and Measurement.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of observation</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 4: Science Process Skills and Measurement.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -757,16 +1355,352 @@ window.WEEK4_DATA.english = {
   "subtitle": "Week 4: Adjectives, Synonyms, Antonyms & Predictions",
   "slides": [
     {
-      "title": "Adjectives & Synonyms",
-      "text": "Adjectives are describing words that tell us more about a noun (like color, size, shape). Synonyms are words that have the same or similar meaning. Antonyms are opposite meanings.",
+      "title": "Introduction to Week 4: Adjectives, Synonyms, Antonyms & Predictions",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in English.",
       "examples": [
         {
-          "title": "Synonyms",
-          "content": "'Big' and 'Large' are synonyms. 'Happy' and 'Glad' are synonyms."
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 4: Adjectives, Synonyms, Antonyms & Predictions and apply them in daily situations."
         },
         {
-          "title": "Antonyms",
-          "content": "'Hot' and 'Cold' are antonyms. 'Tall' and 'Short' are antonyms."
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+        }
+      ]
+    },
+    {
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
+        {
+          "title": "Term 1: Alphabet",
+          "content": "A foundational concept in English that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Vowels",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
+    },
+    {
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 4: Adjectives, Synonyms, Antonyms & Predictions. By looking closely at how these ideas work together, we can build a strong understanding of English.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 4: Adjectives, Synonyms, Antonyms & Predictions in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 4: Adjectives, Synonyms, Antonyms & Predictions. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
         }
       ]
     }
@@ -774,276 +1708,248 @@ window.WEEK4_DATA.english = {
   "standard": [
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 1)",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Vowels",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 2)",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Consonants",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 3)",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Words",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 4)",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Nouns",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 4: Adjectives, Synonyms, Antonyms & Predictions is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 5)",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Pronouns",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 4: Adjectives, Synonyms, Antonyms & Predictions is a key topic in the study of ___.",
+      "answer": "English"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "options": [
+        "Core term: Sentences",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 6)",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Synonyms",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 4: Adjectives, Synonyms, Antonyms & Predictions is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 7)",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Vowels",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 8)",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Consonants",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 9)",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Words",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 4: Adjectives, Synonyms, Antonyms & Predictions is a key topic in the study of ___.",
+      "answer": "English"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 4: Adjectives, Synonyms, Antonyms & Predictions is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 10)",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Pronouns",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 11)",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Adjectives",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 12)",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Sentences",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 13)",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Synonyms",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 4: Adjectives, Synonyms, Antonyms & Predictions is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 4: Adjectives, Synonyms, Antonyms & Predictions is a key topic in the study of ___.",
+      "answer": "English"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "options": [
+        "Core term: Consonants",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 14)",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Words",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 15)",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Nouns",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 16)",
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 4: Adjectives, Synonyms, Antonyms & Predictions is correct?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 17)",
-      "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 18)",
-      "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 19)",
-      "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 20)",
-      "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 21)",
-      "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 22)",
-      "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 23)",
-      "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 24)",
-      "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 25)",
-      "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Statement A: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -1051,73 +1957,67 @@ window.WEEK4_DATA.english = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge: Which pronoun correctly completes this sentence? 'Look at ___ birds flying high in the sky far away!'",
+      "q": "Challenge 1: In a complex situation involving Week 4: Adjectives, Synonyms, Antonyms & Predictions, what is the first priority?",
       "options": [
-        "those",
-        "these",
-        "this",
-        "that"
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge: Which pronoun correctly completes this sentence? 'Look at ___ birds flying high in the sky far away!'",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
       "options": [
-        "those",
-        "these",
-        "this",
-        "that"
+        "The primary variable: Alphabet",
+        "An external variable",
+        "No variable",
+        "All variables equally"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Challenge: Which pronoun correctly completes this sentence? 'Look at ___ birds flying high in the sky far away!'",
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 4: Adjectives, Synonyms, Antonyms & Predictions.",
       "options": [
-        "those",
-        "these",
-        "this",
-        "that"
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Challenge: Which pronoun correctly completes this sentence? 'Look at ___ birds flying high in the sky far away!'",
-      "options": [
-        "those",
-        "these",
-        "this",
-        "that"
-      ],
-      "answer": 0
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "answer": "vowels"
     },
     {
       "type": "choice",
-      "q": "Challenge: Which pronoun correctly completes this sentence? 'Look at ___ birds flying high in the sky far away!'",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
       "options": [
-        "those",
-        "these",
-        "this",
-        "that"
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
       ],
       "answer": 0
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "English Activity Task",
-    "desc": "Create an entry in your notebook explaining Adjectives, Synonyms, Antonyms & Predictions. Share your work with your parents.",
+    "title": "Interactive Task: Week 4: Adjectives, Synonyms, Antonyms & Predictions",
+    "desc": "Perform a simple observation of Week 4: Adjectives, Synonyms, Antonyms & Predictions at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
-      "Accuracy and understanding",
-      "Cleanliness and presentation",
-      "Self-expression and effort"
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                 <h3>English Review - Week 4</h3>\n                 <p class=\"ws-instruction\">Write the correct answer below using your stylus.</p>\n                 <div class=\"ws-item-row\"><div class=\"ws-q\">1. What is the main concept of Adjectives, Synonyms, Antonyms & Predictions? <span class=\"ws-answer\">Understanding and applying Adjectives, Synonyms, Antonyms & Predictions in real life.</span></div></div>\n               </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 4: Adjectives, Synonyms, Antonyms & Predictions</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 4: Adjectives, Synonyms, Antonyms & Predictions and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Vowels and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 4: Adjectives, Synonyms, Antonyms & Predictions.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alphabet</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 4: Adjectives, Synonyms, Antonyms & Predictions.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -1129,16 +2029,352 @@ window.WEEK4_DATA.filipino = {
   "subtitle": "Week 4: Panghalip Pamatlig at Pang-uri",
   "slides": [
     {
-      "title": "Panghalip Pamatlig at Pang-uri",
-      "text": "Ang panghalip pamatlig ay ginagamit sa pagtuturo ng tao, bagay o lugar (ito, iyan, iyon). Ang pang-uri ay mga salitang naglalarawan ng katangian o kulay ng pangngalan.",
+      "title": "Introduction to Week 4: Panghalip Pamatlig at Pang-uri",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Filipino.",
       "examples": [
         {
-          "title": "Panghalip",
-          "content": "'Ito' (malapit sa nagsasalita), 'Iyan' (malapit sa kausap), 'Iyon' (malayo sa dalawa)."
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 4: Panghalip Pamatlig at Pang-uri and apply them in daily situations."
         },
         {
-          "title": "Pang-uri",
-          "content": "maganda, mabait, bilog, mapula."
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+        }
+      ]
+    },
+    {
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
+        {
+          "title": "Term 1: Alpabeto",
+          "content": "A foundational concept in Filipino that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Patinig",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
+    },
+    {
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 4: Panghalip Pamatlig at Pang-uri. By looking closely at how these ideas work together, we can build a strong understanding of Filipino.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 4: Panghalip Pamatlig at Pang-uri in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 4: Panghalip Pamatlig at Pang-uri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 4: Panghalip Pamatlig at Pang-uri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 4: Panghalip Pamatlig at Pang-uri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 4: Panghalip Pamatlig at Pang-uri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 4: Panghalip Pamatlig at Pang-uri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 4: Panghalip Pamatlig at Pang-uri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 4: Panghalip Pamatlig at Pang-uri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 4: Panghalip Pamatlig at Pang-uri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 4: Panghalip Pamatlig at Pang-uri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 4: Panghalip Pamatlig at Pang-uri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 4: Panghalip Pamatlig at Pang-uri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 4: Panghalip Pamatlig at Pang-uri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 4: Panghalip Pamatlig at Pang-uri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 4: Panghalip Pamatlig at Pang-uri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 4: Panghalip Pamatlig at Pang-uri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 4: Panghalip Pamatlig at Pang-uri to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 4: Panghalip Pamatlig at Pang-uri to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 4: Panghalip Pamatlig at Pang-uri to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 4: Panghalip Pamatlig at Pang-uri to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 4: Panghalip Pamatlig at Pang-uri. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
         }
       ]
     }
@@ -1146,276 +2382,248 @@ window.WEEK4_DATA.filipino = {
   "standard": [
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 1)",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Patinig",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 2)",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Katinig",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 3)",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Pangngalan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 4)",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Pantangi",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 4: Panghalip Pamatlig at Pang-uri is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Panghalip Pamatlig at Pang-uri are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Panghalip Pamatlig at Pang-uri are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 5)",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Panghalip",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 4: Panghalip Pamatlig at Pang-uri is a key topic in the study of ___.",
+      "answer": "Filipino"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri?",
+      "options": [
+        "Core term: Pang-uri",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 6)",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Pang-abay",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 4: Panghalip Pamatlig at Pang-uri is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Panghalip Pamatlig at Pang-uri are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Panghalip Pamatlig at Pang-uri are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 7)",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Patinig",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 8)",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Katinig",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 9)",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Pangngalan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 4: Panghalip Pamatlig at Pang-uri is a key topic in the study of ___.",
+      "answer": "Filipino"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 4: Panghalip Pamatlig at Pang-uri is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Panghalip Pamatlig at Pang-uri are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Panghalip Pamatlig at Pang-uri are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 10)",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Panghalip",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 11)",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Pandiwa",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 12)",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Pang-uri",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 13)",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Pang-abay",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 4: Panghalip Pamatlig at Pang-uri is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Panghalip Pamatlig at Pang-uri are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Panghalip Pamatlig at Pang-uri are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 4: Panghalip Pamatlig at Pang-uri is a key topic in the study of ___.",
+      "answer": "Filipino"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri?",
+      "options": [
+        "Core term: Katinig",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 14)",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Pangngalan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 15)",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Pantangi",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 16)",
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 4: Panghalip Pamatlig at Pang-uri is correct?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 17)",
-      "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 18)",
-      "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 19)",
-      "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 20)",
-      "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 21)",
-      "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 22)",
-      "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 23)",
-      "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 24)",
-      "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 25)",
-      "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Statement A: The core rules of Week 4: Panghalip Pamatlig at Pang-uri are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Panghalip Pamatlig at Pang-uri are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -1423,73 +2631,67 @@ window.WEEK4_DATA.filipino = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Hamong Tanong: Ano ang tamang aspekto ng pandiwa sa pangungusap na ito: 'Si Lina ay ___ kahapon sa plasa.'?",
+      "q": "Challenge 1: In a complex situation involving Week 4: Panghalip Pamatlig at Pang-uri, what is the first priority?",
       "options": [
-        "sumayaw",
-        "sumasayaw",
-        "sasayaw",
-        "nagsasayaw"
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Hamong Tanong: Ano ang tamang aspekto ng pandiwa sa pangungusap na ito: 'Si Lina ay ___ kahapon sa plasa.'?",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 4: Panghalip Pamatlig at Pang-uri?",
       "options": [
-        "sumayaw",
-        "sumasayaw",
-        "sasayaw",
-        "nagsasayaw"
+        "The primary variable: Alpabeto",
+        "An external variable",
+        "No variable",
+        "All variables equally"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Hamong Tanong: Ano ang tamang aspekto ng pandiwa sa pangungusap na ito: 'Si Lina ay ___ kahapon sa plasa.'?",
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 4: Panghalip Pamatlig at Pang-uri.",
       "options": [
-        "sumayaw",
-        "sumasayaw",
-        "sasayaw",
-        "nagsasayaw"
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Hamong Tanong: Ano ang tamang aspekto ng pandiwa sa pangungusap na ito: 'Si Lina ay ___ kahapon sa plasa.'?",
-      "options": [
-        "sumayaw",
-        "sumasayaw",
-        "sasayaw",
-        "nagsasayaw"
-      ],
-      "answer": 0
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 4: Panghalip Pamatlig at Pang-uri?",
+      "answer": "patinig"
     },
     {
       "type": "choice",
-      "q": "Hamong Tanong: Ano ang tamang aspekto ng pandiwa sa pangungusap na ito: 'Si Lina ay ___ kahapon sa plasa.'?",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 4: Panghalip Pamatlig at Pang-uri?",
       "options": [
-        "sumayaw",
-        "sumasayaw",
-        "sasayaw",
-        "nagsasayaw"
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
       ],
       "answer": 0
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Filipino Activity Task",
-    "desc": "Create an entry in your notebook explaining Panghalip Pamatlig at Pang-uri. Share your work with your parents.",
+    "title": "Interactive Task: Week 4: Panghalip Pamatlig at Pang-uri",
+    "desc": "Perform a simple observation of Week 4: Panghalip Pamatlig at Pang-uri at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
-      "Accuracy and understanding",
-      "Cleanliness and presentation",
-      "Self-expression and effort"
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                 <h3>Filipino Review - Week 4</h3>\n                 <p class=\"ws-instruction\">Write the correct answer below using your stylus.</p>\n                 <div class=\"ws-item-row\"><div class=\"ws-q\">1. What is the main concept of Panghalip Pamatlig at Pang-uri? <span class=\"ws-answer\">Understanding and applying Panghalip Pamatlig at Pang-uri in real life.</span></div></div>\n               </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 4: Panghalip Pamatlig at Pang-uri</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 4: Panghalip Pamatlig at Pang-uri and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Patinig and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 4: Panghalip Pamatlig at Pang-uri.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alpabeto</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 4: Panghalip Pamatlig at Pang-uri.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -1501,16 +2703,352 @@ window.WEEK4_DATA.makabansa = {
   "subtitle": "Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan",
   "slides": [
     {
-      "title": "Mga Pagdiriwang at Tradisyon",
-      "text": "Ang komunidad ay may sariling pagkakakilanlan sa pamamagitan ng mga tradisyon at lokal na pagdiriwang tulad ng piyesta, pista ng patron, o mga parada ng ani.",
+      "title": "Introduction to Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Makabansa.",
       "examples": [
         {
-          "title": "Piyesta ng Bayan",
-          "content": "Isang taunang pagdiriwang bilang pasasalamat sa magandang ani."
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan and apply them in daily situations."
         },
         {
-          "title": "Kaugalian",
-          "content": "Ang pagtutulungan o bayanihan sa pag-aayos ng kalsada o plasa."
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+        }
+      ]
+    },
+    {
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
+        {
+          "title": "Term 1: Sarili",
+          "content": "A foundational concept in Makabansa that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Pamilya",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
+    },
+    {
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan. By looking closely at how these ideas work together, we can build a strong understanding of Makabansa.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
         }
       ]
     }
@@ -1518,276 +3056,248 @@ window.WEEK4_DATA.makabansa = {
   "standard": [
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 1)",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Pamilya",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 2)",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Tungkulin",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 3)",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Komunidad",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 4)",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Kasaysayan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 5)",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Landmarks",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan is a key topic in the study of ___.",
+      "answer": "Makabansa"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan?",
+      "options": [
+        "Core term: Tradisyon",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 6)",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Lokasyon",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 7)",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Pamilya",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 8)",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Tungkulin",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 9)",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Komunidad",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan is a key topic in the study of ___.",
+      "answer": "Makabansa"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 10)",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Landmarks",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 11)",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Timeline",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 12)",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Tradisyon",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 13)",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Lokasyon",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan is a key topic in the study of ___.",
+      "answer": "Makabansa"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan?",
+      "options": [
+        "Core term: Tungkulin",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 14)",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Komunidad",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 15)",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Kasaysayan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 16)",
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan is correct?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 17)",
-      "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 18)",
-      "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 19)",
-      "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 20)",
-      "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 21)",
-      "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 22)",
-      "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 23)",
-      "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 24)",
-      "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 25)",
-      "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Statement A: The core rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -1795,73 +3305,67 @@ window.WEEK4_DATA.makabansa = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Hamong Tanong: Bakit kailangang pangalagaan ang mga makasaysayang estruktura sa ating komunidad?",
+      "q": "Challenge 1: In a complex situation involving Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan, what is the first priority?",
       "options": [
-        "Upang maipreserba ang kasaysayan at kultura para sa hinaharap",
-        "Upang ibenta ito sa ibang bansa",
-        "Dahil ito ay walang silbi",
-        "Upang gawin itong mall"
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Hamong Tanong: Bakit kailangang pangalagaan ang mga makasaysayang estruktura sa ating komunidad?",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan?",
       "options": [
-        "Upang maipreserba ang kasaysayan at kultura para sa hinaharap",
-        "Upang ibenta ito sa ibang bansa",
-        "Dahil ito ay walang silbi",
-        "Upang gawin itong mall"
+        "The primary variable: Sarili",
+        "An external variable",
+        "No variable",
+        "All variables equally"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Hamong Tanong: Bakit kailangang pangalagaan ang mga makasaysayang estruktura sa ating komunidad?",
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan.",
       "options": [
-        "Upang maipreserba ang kasaysayan at kultura para sa hinaharap",
-        "Upang ibenta ito sa ibang bansa",
-        "Dahil ito ay walang silbi",
-        "Upang gawin itong mall"
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Hamong Tanong: Bakit kailangang pangalagaan ang mga makasaysayang estruktura sa ating komunidad?",
-      "options": [
-        "Upang maipreserba ang kasaysayan at kultura para sa hinaharap",
-        "Upang ibenta ito sa ibang bansa",
-        "Dahil ito ay walang silbi",
-        "Upang gawin itong mall"
-      ],
-      "answer": 0
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan?",
+      "answer": "pamilya"
     },
     {
       "type": "choice",
-      "q": "Hamong Tanong: Bakit kailangang pangalagaan ang mga makasaysayang estruktura sa ating komunidad?",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan?",
       "options": [
-        "Upang maipreserba ang kasaysayan at kultura para sa hinaharap",
-        "Upang ibenta ito sa ibang bansa",
-        "Dahil ito ay walang silbi",
-        "Upang gawin itong mall"
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
       ],
       "answer": 0
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Makabansa Activity Task",
-    "desc": "Create an entry in your notebook explaining Mga Pagdiriwang, Tradisyon at Pagkakakilanlan. Share your work with your parents.",
+    "title": "Interactive Task: Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan",
+    "desc": "Perform a simple observation of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
-      "Accuracy and understanding",
-      "Cleanliness and presentation",
-      "Self-expression and effort"
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                 <h3>Makabansa Review - Week 4</h3>\n                 <p class=\"ws-instruction\">Write the correct answer below using your stylus.</p>\n                 <div class=\"ws-item-row\"><div class=\"ws-q\">1. What is the main concept of Mga Pagdiriwang, Tradisyon at Pagkakakilanlan? <span class=\"ws-answer\">Understanding and applying Mga Pagdiriwang, Tradisyon at Pagkakakilanlan in real life.</span></div></div>\n               </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Pamilya and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of sarili</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -1873,16 +3377,352 @@ window.WEEK4_DATA.gmrc = {
   "subtitle": "Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera",
   "slides": [
     {
-      "title": "Matalinong Pamamahala",
-      "text": "Kapag tayo ay nag-iimpok at nagtitipid, natututo tayong mamahala ng mas malalaking bagay at pera sa kinabukasan. Nakatutulong din ito upang matulungan natin ang pamilya sa oras ng kagipitan.",
+      "title": "Introduction to Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in GMRC.",
       "examples": [
         {
-          "title": "Matalinong Pagbili",
-          "content": "Bumili lamang ng mga kailangang gamit sa eskwelahan sa halip na mga laruan."
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera and apply them in daily situations."
         },
         {
-          "title": "Pangangalaga",
-          "content": "Pag-aalaga sa iyong mga uniporme at sapatos upang magamit pa sa susunod na taon."
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+        }
+      ]
+    },
+    {
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
+        {
+          "title": "Term 1: Pagmamahal",
+          "content": "A foundational concept in GMRC that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Kalinisan",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
+    },
+    {
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera. By looking closely at how these ideas work together, we can build a strong understanding of GMRC.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
         }
       ]
     }
@@ -1890,276 +3730,248 @@ window.WEEK4_DATA.gmrc = {
   "standard": [
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 1)",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Kalinisan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 2)",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Disiplina",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 3)",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Paggalang",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 4)",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Katapatan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 5)",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Pagtitipid",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera is a key topic in the study of ___.",
+      "answer": "GMRC"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera?",
+      "options": [
+        "Core term: Bayanihan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 6)",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Pag-iimpok",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 7)",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Kalinisan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 8)",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Disiplina",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 9)",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Paggalang",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera is a key topic in the study of ___.",
+      "answer": "GMRC"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 10)",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Pagtitipid",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 11)",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Responsable",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 12)",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Bayanihan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 13)",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Pag-iimpok",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera is a key topic in the study of ___.",
+      "answer": "GMRC"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera?",
+      "options": [
+        "Core term: Disiplina",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 14)",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Paggalang",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 15)",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Katapatan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 16)",
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera is correct?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 17)",
-      "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 18)",
-      "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 19)",
-      "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 20)",
-      "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 21)",
-      "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 22)",
-      "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 23)",
-      "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 24)",
-      "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 25)",
-      "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Statement A: The core rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -2167,73 +3979,67 @@ window.WEEK4_DATA.gmrc = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Hamong Tanong: Nakita mong nahihirapan ang iyong ina na magbitbit ng mga pinamili. Ano ang gagawin mo?",
+      "q": "Challenge 1: In a complex situation involving Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera, what is the first priority?",
       "options": [
-        "Tutungo ako upang tulungan siyang magbitbit ng magaan na bagay",
-        "Hahayaan ko lang siya",
-        "Maglalaro ako ng cellphone",
-        "Tatawanan ko siya"
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Hamong Tanong: Nakita mong nahihirapan ang iyong ina na magbitbit ng mga pinamili. Ano ang gagawin mo?",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera?",
       "options": [
-        "Tutungo ako upang tulungan siyang magbitbit ng magaan na bagay",
-        "Hahayaan ko lang siya",
-        "Maglalaro ako ng cellphone",
-        "Tatawanan ko siya"
+        "The primary variable: Pagmamahal",
+        "An external variable",
+        "No variable",
+        "All variables equally"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Hamong Tanong: Nakita mong nahihirapan ang iyong ina na magbitbit ng mga pinamili. Ano ang gagawin mo?",
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera.",
       "options": [
-        "Tutungo ako upang tulungan siyang magbitbit ng magaan na bagay",
-        "Hahayaan ko lang siya",
-        "Maglalaro ako ng cellphone",
-        "Tatawanan ko siya"
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Hamong Tanong: Nakita mong nahihirapan ang iyong ina na magbitbit ng mga pinamili. Ano ang gagawin mo?",
-      "options": [
-        "Tutungo ako upang tulungan siyang magbitbit ng magaan na bagay",
-        "Hahayaan ko lang siya",
-        "Maglalaro ako ng cellphone",
-        "Tatawanan ko siya"
-      ],
-      "answer": 0
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera?",
+      "answer": "kalinisan"
     },
     {
       "type": "choice",
-      "q": "Hamong Tanong: Nakita mong nahihirapan ang iyong ina na magbitbit ng mga pinamili. Ano ang gagawin mo?",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera?",
       "options": [
-        "Tutungo ako upang tulungan siyang magbitbit ng magaan na bagay",
-        "Hahayaan ko lang siya",
-        "Maglalaro ako ng cellphone",
-        "Tatawanan ko siya"
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
       ],
       "answer": 0
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "GMRC Activity Task",
-    "desc": "Create an entry in your notebook explaining Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera. Share your work with your parents.",
+    "title": "Interactive Task: Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera",
+    "desc": "Perform a simple observation of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
-      "Accuracy and understanding",
-      "Cleanliness and presentation",
-      "Self-expression and effort"
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                 <h3>GMRC Review - Week 4</h3>\n                 <p class=\"ws-instruction\">Write the correct answer below using your stylus.</p>\n                 <div class=\"ws-item-row\"><div class=\"ws-q\">1. What is the main concept of Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera? <span class=\"ws-answer\">Understanding and applying Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera in real life.</span></div></div>\n               </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Kalinisan and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of pagmamahal</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -2395,27 +4201,27 @@ window.WEEK4_DATA.reading = {
     "slides": [
       {
         "title": "Kuwento: Ang Leon at ang Daga - Bahagi 1",
-        "text": "Isang mainit na tanghali, isang malaking Leon ang natutulog sa kanyang yungib. Isang maliit na Daga ang naglalaro sa malapit at aksidenteng nakatakbo sa ibabaw ng mukha ng Leon. Nagising ang Leon na may malakas na ungal, at hinuli ang Daga gamit ang kanyang malaking paw. 'Patawad, Haring Leon!' umiiyak na pakiusap ng Daga. 'Huwag mo akong kainin. Isang araw ay tutulungan kita bilang ganti.' Natawa ang Leon sa ideya na ang isang maliit na daga ay makakatulong sa isang hari. Ngunit dahil nasa mabuting mood siya, pinakawalan niya ang Daga."
+        "text": "<span class=\"fil-sentence\" data-translation=\"One hot afternoon, a big Lion was sleeping in his cave.\"><span class=\"fil-sentence\" data-translation=\"One hot afternoon, a big Lion was sleeping in his cave.\">Isang mainit na tanghali, isang malaking Leon ang natutulog sa kanyang yungib.</span></span> <span class=\"fil-sentence\" data-translation=\"A little Mouse was playing nearby and accidentally ran over the Lion's face.\"><span class=\"fil-sentence\" data-translation=\"A little Mouse was playing nearby and accidentally ran over the Lion's face.\">Isang maliit na Daga ang naglalaro sa malapit at aksidenteng nakatakbo sa ibabaw ng mukha ng Leon.</span></span> <span class=\"fil-sentence\" data-translation=\"The Lion woke up with a loud roar and caught the Mouse with his huge paw.\"><span class=\"fil-sentence\" data-translation=\"The Lion woke up with a loud roar and caught the Mouse with his huge paw.\">Nagising ang Leon na may malakas na ungal, at hinuli ang Daga gamit ang kanyang malaking paw.</span></span> <span class=\"fil-sentence\" data-translation=\"'Forgive me, King Lion!' the Mouse cried and pleaded.\"><span class=\"fil-sentence\" data-translation=\"'Forgive me, King Lion!' the Mouse cried and pleaded.\">'Patawad, Haring Leon!' umiiyak na pakiusap ng Daga.</span></span> <span class=\"fil-sentence\" data-translation=\"'Don't eat me. One day I will help you in return.\"><span class=\"fil-sentence\" data-translation=\"'Don't eat me. One day I will help you in return.\">'Huwag mo akong kainin. Isang araw ay tutulungan kita bilang ganti.'</span></span> <span class=\"fil-sentence\" data-translation=\"The Lion laughed at the idea that a tiny mouse could help a king.\"><span class=\"fil-sentence\" data-translation=\"The Lion laughed at the idea that a tiny mouse could help a king.\">Natawa ang Leon sa ideya na ang isang maliit na daga ay makakatulong sa isang hari.</span></span> <span class=\"fil-sentence\" data-translation=\"But because he was in a good mood, he set the Mouse free.\"><span class=\"fil-sentence\" data-translation=\"But because he was in a good mood, he set the Mouse free.\">Ngunit dahil nasa mabuting mood siya, pinakawalan niya ang Daga.</span></span>"
       },
       {
         "title": "Kuwento: Ang Leon at ang Daga - Bahagi 2",
-        "text": "Makalipas ang ilang araw, habang naghahanap ng makakain sa kagubatan ang Leon, nasakote siya sa lambat ng mga mangangaso. Nagpupumiglas siya ngunit lalo lamang humihigpit ang mga lubid. Sumigaw ang Leon sa galit at takot, at narinig ito ng maliit na Daga. Agad na tumakbo ang Daga sa kinaroroonan ng Leon. 'Huwag kang mag-alala, Haring Leon, ililigtas kita!' sabi ng Daga. Gamit ang kanyang matatalas na ngipin, sinimulan niyang ngatngatin ang makapal na lubid ng lambat."
+        "text": "<span class=\"fil-sentence\" data-translation=\"Several days later, while the Lion was searching for food in the forest, he was caught in a hunters' net.\"><span class=\"fil-sentence\" data-translation=\"Several days later, while the Lion was searching for food in the forest, he was caught in a hunters' net.\">Makalipas ang ilang araw, habang naghahanap ng makakain sa kagubatan ang Leon, nasakote siya sa lambat ng mga mangangaso.</span></span> <span class=\"fil-sentence\" data-translation=\"He struggled but the ropes only grew tighter.\"><span class=\"fil-sentence\" data-translation=\"He struggled but the ropes only grew tighter.\">Nagpupumiglas siya ngunit lalo lamang humihigpit ang mga lubid.</span></span> <span class=\"fil-sentence\" data-translation=\"The Lion roared in anger and fear, and the little Mouse heard it.\"><span class=\"fil-sentence\" data-translation=\"The Lion roared in anger and fear, and the little Mouse heard it.\">Sumigaw ang Leon sa galit at takot, at narinig ito ng maliit na Daga.</span></span> <span class=\"fil-sentence\" data-translation=\"The Mouse immediately ran to where the Lion was.\"><span class=\"fil-sentence\" data-translation=\"The Mouse immediately ran to where the Lion was.\">Agad na tumakbo ang Daga sa kinaroroonan ng Leon.</span></span> <span class=\"fil-sentence\" data-translation=\"'Don't worry, King Lion, I will save you!' said the Mouse.\"><span class=\"fil-sentence\" data-translation=\"'Don't worry, King Lion, I will save you!' said the Mouse.\">'Huwag kang mag-alala, Haring Leon, ililigtas kita!' sabi ng Daga.</span></span> <span class=\"fil-sentence\" data-translation=\"Using her sharp teeth, she began to gnaw on the thick ropes of the net.\"><span class=\"fil-sentence\" data-translation=\"Using her sharp teeth, she began to gnaw on the thick ropes of the net.\">Gamit ang kanyang matatalas na ngipin, sinimulan niyang ngatngatin ang makapal na lubid ng lambat.</span></span>"
       },
       {
         "title": "Kuwento: Ang Leon at ang Daga - Bahagi 3",
-        "text": "Hindi sumuko ang Daga kahit nangangalay na ang kanyang panga. Nginatngat niya ang lubid hanggang sa maputol ang pangunahing buhol nito at lumuwag ang lambat. Nakawala ang Leon at nakaligtas! Lumingon ang Leon sa Daga at sinabi, 'Salamat, maliit na kaibigan. Nagkamali ako nang tawanan ko ang iyong pangako.' Mula noon, naging matalik silang magkaibigan, nagtutulungan sa lahat ng bagay sa kagubatan, na nagpapatunay na walang kaibigan na sobrang liit upang makatulong sa iba."
+        "text": "<span class=\"fil-sentence\" data-translation=\"The Mouse did not give up even though her jaw was aching.\"><span class=\"fil-sentence\" data-translation=\"The Mouse did not give up even though her jaw was aching.\">Hindi sumuko ang Daga kahit nangangalay na ang kanyang panga.</span></span> <span class=\"fil-sentence\" data-translation=\"She gnawed the rope until its main knot broke and the net loosened.\"><span class=\"fil-sentence\" data-translation=\"She gnawed the rope until its main knot broke and the net loosened.\">Nginatngat niya ang lubid hanggang sa maputol ang pangunahing buhol nito at lumuwag ang lambat.</span></span> <span class=\"fil-sentence\" data-translation=\"The Lion got free and was saved!\"><span class=\"fil-sentence\" data-translation=\"The Lion got free and was saved!\">Nakawala ang Leon at nakaligtas!</span></span> <span class=\"fil-sentence\" data-translation=\"The Lion looked at the Mouse and said, 'Thank you, little friend. I was wrong to laugh at your promise.'\"><span class=\"fil-sentence\" data-translation=\"The Lion looked at the Mouse and said, 'Thank you, little friend. I was wrong to laugh at your promise.'\">Lumingon ang Leon sa Daga at sinabi, 'Salamat, maliit na kaibigan. Nagkamali ako nang tawanan ko ang iyong pangako.'</span></span> <span class=\"fil-sentence\" data-translation=\"From then on, they became close friends, helping each other in everything in the forest, proving that no friend is too small to help others.\"><span class=\"fil-sentence\" data-translation=\"From then on, they became close friends, helping each other in everything in the forest, proving that no friend is too small to help others.\">Mula noon, naging matalik silang magkaibigan, nagtutulungan sa lahat ng bagay sa kagubatan, na nagpapatunay na walang kaibigan na sobrang liit upang makatulong sa iba.</span></span>"
       },
       {
         "title": "Talasalitaan at Pag-aaral ng Salita",
-        "text": "Mga Bokabularyo:\n• Yungib - Isang yungib o kuweba na tirahan ng mga hayop.\n• Nasakote - Nahuli sa bitag o trap.\n• Ngatngatin - Kagatin o sirain ang isang bagay gamit ang matatalas na ngipin.\n\nTutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'd' sa 'daga', 'dulo', at 'dapit-hapon'."
+        "text": "<span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\">Mga Bokabularyo:</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Cave - A cave or cavern that is a home for animals.\"><span class=\"fil-sentence\" data-translation=\"Cave - A cave or cavern that is a home for animals.\">Yungib - Isang yungib o kuweba na tirahan ng mga hayop.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Captured - Caught in a snare or trap.\"><span class=\"fil-sentence\" data-translation=\"Captured - Caught in a snare or trap.\">Nasakote - Nahuli sa bitag o trap.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Gnaw - Bite or destroy something using sharp teeth.\"><span class=\"fil-sentence\" data-translation=\"Gnaw - Bite or destroy something using sharp teeth.\">Ngatngatin - Kagatin o sirain ang isang bagay gamit ang matatalas na ngipin.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'd' sound in 'daga', 'dulo', and 'dapit-hapon'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'd' sound in 'daga', 'dulo', and 'dapit-hapon'.\">Tutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'd' sa 'daga', 'dulo', at 'dapit-hapon'.</span></span>"
       },
       {
         "title": "Mga Tanong sa Pag-unawa",
-        "text": "Mga Tanong:\n1. Bakit natawa ang Leon sa sinabi ng Daga noong una silang magkita?\n2. Paano nahuli ang Leon ng mga mangangaso?\n3. Paano tinulungan ng Daga ang Leon na makalaya sa bitag?"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\">Mga Tanong:</span></span>\n<span class=\"fil-sentence\" data-translation=\"1. Why did the Lion laugh at what the Mouse said when they first met?\"><span class=\"fil-sentence\" data-translation=\"1. Why did the Lion laugh at what the Mouse said when they first met?\">1. Bakit natawa ang Leon sa sinabi ng Daga noong una silang magkita?</span></span>\n<span class=\"fil-sentence\" data-translation=\"2. How was the Lion caught by the hunters?\"><span class=\"fil-sentence\" data-translation=\"2. How was the Lion caught by the hunters?\">2. Paano nahuli ang Leon ng mga mangangaso?</span></span>\n<span class=\"fil-sentence\" data-translation=\"3. How did the Mouse help the Lion escape the trap?\"><span class=\"fil-sentence\" data-translation=\"3. How did the Mouse help the Lion escape the trap?\">3. Paano tinulungan ng Daga ang Leon na makalaya sa bitag?</span></span>"
       },
       {
         "title": "Mabuting Aral at Pagninilay",
-        "text": "Kaisipan: Ang kabaitan ay hindi kailanman nasasayang, at ang bawat isa ay may halaga.\n\nHuwag maliitin ang maliliit na nilalang o kaibigan dahil may kani-kaniyang talento at kakayahan ang bawat isa. Ang pagtulong sa nangangailangan ay nagbabalik ng kabutihan sa atin.\n\nTalakayin: Paano mo matutulungan ang isang kaibigan na mas maliit o mas bata sa iyo?"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Thought: Kindness is never wasted, and everyone has value.\"><span class=\"fil-sentence\" data-translation=\"Thought: Kindness is never wasted, and everyone has value.\">Kaisipan: Ang kabaitan ay hindi kailanman nasasayang, at ang bawat isa ay may halaga.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Do not underestimate small creatures or friends because everyone has their own talents and abilities. Helping those in need returns goodness to us.\"><span class=\"fil-sentence\" data-translation=\"Do not underestimate small creatures or friends because everyone has their own talents and abilities. Helping those in need returns goodness to us.\">Huwag maliitin ang maliliit na nilalang o kaibigan dahil may kani-kaniyang talento at kakayahan ang bawat isa. Ang pagtulong sa nangangailangan ay nagbabalik ng kabutihan sa atin.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Discuss: How can you help a friend who is smaller or younger than you?\"><span class=\"fil-sentence\" data-translation=\"Discuss: How can you help a friend who is smaller or younger than you?\">Talakayin: Paano mo matutulungan ang isang kaibigan na mas maliit o mas bata sa iyo?</span></span>"
       }
     ]
   },
@@ -2425,50 +4231,393 @@ window.WEEK4_DATA.reading = {
     "slides": [
       {
         "title": "Kuwento: Ang Mahiwagang Palayok - Bahagi 1",
-        "text": "Sa isang maliit na nayon, nakatira ang isang mabait na batang babae na si Maya at ang kanyang matandang lola. Sila ay napakahirap at madalas ay walang makain. Isang araw, habang naghahanap ng mga tuyong kahoy si Maya sa kagubatan, nakatagpo siya ng isang matandang babae na may mabigat na pasanin. Tinulungan ito ni Maya nang walang alinlangan. Bilang pasasalamat, binigyan siya ng matanda ng isang maliit na palayok. 'Ito ay isang mahiwagang palayok. Sabihin mo lang ang \"Luto, munting palayok, luto!\" at magluluto ito ng matamis at masarap na lugaw. Kapag busog ka na, sabihin mo ang \"Hinto, munting palayok, hinto!\" at titigil ito,' paliwanag ng matanda."
+        "text": "<span class=\"fil-sentence\" data-translation=\"In a small village, a kind girl named Maya lived with her old grandmother.\"><span class=\"fil-sentence\" data-translation=\"In a small village, a kind girl named Maya lived with her old grandmother.\">Sa isang maliit na nayon, nakatira ang isang mabait na batang babae na si Maya at ang kanyang matandang lola.</span></span> <span class=\"fil-sentence\" data-translation=\"They were very poor and often had nothing to eat.\"><span class=\"fil-sentence\" data-translation=\"They were very poor and often had nothing to eat.\">Sila ay napakahirap at madalas ay walang makain.</span></span> <span class=\"fil-sentence\" data-translation=\"One day, while Maya was searching for dry wood in the forest, she met an old woman with a heavy load.\"><span class=\"fil-sentence\" data-translation=\"One day, while Maya was searching for dry wood in the forest, she met an old woman with a heavy load.\">Isang araw, habang naghahanap ng mga tuyong kahoy si Maya sa kagubatan, nakatagpo siya ng isang matandang babae na may mabigat na pasanin.</span></span> <span class=\"fil-sentence\" data-translation=\"Maya helped her without any hesitation.\"><span class=\"fil-sentence\" data-translation=\"Maya helped her without any hesitation.\">Tinulungan ito ni Maya nang walang alinlangan.</span></span> <span class=\"fil-sentence\" data-translation=\"Out of gratitude, the old woman gave her a small pot.\"><span class=\"fil-sentence\" data-translation=\"Out of gratitude, the old woman gave her a small pot.\">Bilang pasasalamat, binigyan siya ng matanda ng isang maliit na palayok.</span></span> <span class=\"fil-sentence\" data-translation=\"'This is a magic pot. Just say &quot;Cook, little pot, cook!&quot; and it will cook sweet and delicious porridge. When you are full, say &quot;Stop, little pot, stop!&quot; and it will stop,' explained the old woman.\"><span class=\"fil-sentence\" data-translation=\"'This is a magic pot. Just say &quot;Cook, little pot, cook!&quot; and it will cook sweet and delicious porridge. When you are full, say &quot;Stop, little pot, stop!&quot; and it will stop,' explained the old woman.\">'Ito ay isang mahiwagang palayok. Sabihin mo lang ang \"Luto, munting palayok, luto!\" at magluluto ito ng matamis at masarap na lugaw. Kapag busog ka na, sabihin mo ang \"Hinto, munting palayok, hinto!\" at titigil ito,' paliwanag ng matanda.</span></span>"
       },
       {
         "title": "Kuwento: Ang Mahiwagang Palayok - Bahagi 2",
-        "text": "Masayang umuwi si Maya at ipinakita sa kanyang lola ang mahiwagang palayok. Mula noon, hindi na sila nagutom dahil tuwing kakain sila ay nagluluto ang palayok ng masarap na pagkain. Isang araw, umalis si Maya upang bumisita sa kabilang baryo. Nagutom ang kanyang lola at sinabi sa palayok: 'Luto, munting palayok, luto!' Agad na nagluto ang palayok ng mainit na lugaw. Kumain nang kumain ang lola hanggang sa mabusog. Ngunit nang nais na niyang patigilin ang palayok, nakalimutan niya ang tamang salita. Sinabi niya: 'Salamat, tapos na!', 'Hinto na!' ngunit patuloy pa rin ang palayok sa pagluluto."
+        "text": "<span class=\"fil-sentence\" data-translation=\"Maya happily went home and showed her grandmother the magic pot.\"><span class=\"fil-sentence\" data-translation=\"Maya happily went home and showed her grandmother the magic pot.\">Masayang umuwi si Maya at ipinakita sa kanyang lola ang mahiwagang palayok.</span></span> <span class=\"fil-sentence\" data-translation=\"Since then, they never went hungry because every time they ate, the pot cooked delicious food.\"><span class=\"fil-sentence\" data-translation=\"Since then, they never went hungry because every time they ate, the pot cooked delicious food.\">Mula noon, hindi na sila nagutom dahil tuwing kakain sila ay nagluluto ang palayok ng masarap na pagkain.</span></span> <span class=\"fil-sentence\" data-translation=\"One day, Maya left to visit a neighboring village.\"><span class=\"fil-sentence\" data-translation=\"One day, Maya left to visit a neighboring village.\">Isang araw, umalis si Maya upang bumisita sa kabilang baryo.</span></span> <span class=\"fil-sentence\" data-translation=\"Her grandmother grew hungry and said to the pot: 'Cook, little pot, cook!'\"><span class=\"fil-sentence\" data-translation=\"Her grandmother grew hungry and said to the pot: 'Cook, little pot, cook!'\">Nagutom ang kanyang lola at sinabi sa palayok: 'Luto, munting palayok, luto!'</span></span> <span class=\"fil-sentence\" data-translation=\"The pot immediately cooked hot porridge.\"><span class=\"fil-sentence\" data-translation=\"The pot immediately cooked hot porridge.\">Agad na nagluto ang palayok ng mainit na lugaw.</span></span> <span class=\"fil-sentence\" data-translation=\"The grandmother ate and ate until she was full.\"><span class=\"fil-sentence\" data-translation=\"The grandmother ate and ate until she was full.\">Kumain nang kumain ang lola hanggang sa mabusog.</span></span> <span class=\"fil-sentence\" data-translation=\"But when she wanted to stop the pot, she forgot the correct words.\"><span class=\"fil-sentence\" data-translation=\"But when she wanted to stop the pot, she forgot the correct words.\">Ngunit nang nais na niyang patigilin ang palayok, nakalimutan niya ang tamang salita.</span></span> <span class=\"fil-sentence\" data-translation=\"She said: 'Thank you, it's done!', 'Stop now!' but the pot still continued cooking.\"><span class=\"fil-sentence\" data-translation=\"She said: 'Thank you, it's done!', 'Stop now!' but the pot still continued cooking.\">Sinabi niya: 'Salamat, tapos na!', 'Hinto na!' ngunit patuloy pa rin ang palayok sa pagluluto.</span></span>"
       },
       {
         "title": "Kuwento: Ang Mahiwagang Palayok - Bahagi 3",
-        "text": "Umapaw ang lugaw mula sa palayok, gumapang sa sahig, lumabas sa pinto, at napuno ang buong kalsada ng nayon. Nagtakbuhan ang mga kapitbahay dahil sa bumabahang lugaw. Nang bumalik si Maya at nakita ang sitwasyon, agad siyang sumigaw ng malakas: 'Hinto, munting palayok, hinto!' Agad na tumigil ang palayok sa pagluluto. Kinailangang kainin ng mga tao ang lugaw sa kalsada upang makadaan muli. Mula noon, naging maingat na ang lola at si Maya sa paggamit nito, at ibinahagi nila ang pagkain sa lahat nang may wastong disiplina."
+        "text": "<span class=\"fil-sentence\" data-translation=\"The porridge overflowed from the pot, crawled on the floor, went out the door, and filled the whole village street.\"><span class=\"fil-sentence\" data-translation=\"The porridge overflowed from the pot, crawled on the floor, went out the door, and filled the whole village street.\">Umapaw ang lugaw mula sa palayok, gumapang sa sahig, lumabas sa pinto, at napuno ang buong kalsada ng nayon.</span></span> <span class=\"fil-sentence\" data-translation=\"The neighbors ran away because of the flooding porridge.\"><span class=\"fil-sentence\" data-translation=\"The neighbors ran away because of the flooding porridge.\">Nagtakbuhan ang mga kapitbahay dahil sa bumabahang lugaw.</span></span> <span class=\"fil-sentence\" data-translation=\"When Maya returned and saw the situation, she immediately shouted loudly: 'Stop, little pot, stop!'\"><span class=\"fil-sentence\" data-translation=\"When Maya returned and saw the situation, she immediately shouted loudly: 'Stop, little pot, stop!'\">Nang bumalik si Maya at nakita ang sitwasyon, agad siyang sumigaw ng malakas: 'Hinto, munting palayok, hinto!'</span></span> <span class=\"fil-sentence\" data-translation=\"The pot immediately stopped cooking.\"><span class=\"fil-sentence\" data-translation=\"The pot immediately stopped cooking.\">Agad na tumigil ang palayok sa pagluluto.</span></span> <span class=\"fil-sentence\" data-translation=\"People had to eat the porridge on the street to be able to pass again.\"><span class=\"fil-sentence\" data-translation=\"People had to eat the porridge on the street to be able to pass again.\">Kinailangang kainin ng mga tao ang lugaw sa kalsada upang makadaan muli.</span></span> <span class=\"fil-sentence\" data-translation=\"From then on, the grandmother and Maya were careful in using it, and they shared the food with everyone with proper discipline.\"><span class=\"fil-sentence\" data-translation=\"From then on, the grandmother and Maya were careful in using it, and they shared the food with everyone with proper discipline.\">Mula noon, naging maingat na ang lola at si Maya sa paggamit nito, at ibinahagi nila ang pagkain sa lahat nang may wastong disiplina.</span></span>"
       },
       {
         "title": "Talasalitaan at Pag-aaral ng Salita",
-        "text": "Mga Bokabularyo:\n• Nayon - Isang maliit na komunidad o pamayanan sa probinsya.\n• Alinlangan - Pag-aalinlangan o takot na tumulong.\n• Umapaw - Lumabas ang likido dahil napuno ang lalagyan.\n\nTutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'y' sa 'palayok', 'nayon', at 'maya'."
+        "text": "<span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\">Mga Bokabularyo:</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Village - A small community or settlement in the province.\"><span class=\"fil-sentence\" data-translation=\"Village - A small community or settlement in the province.\">Nayon - Isang maliit na komunidad o pamayanan sa probinsya.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Doubt - Hesitation or fear to help.\"><span class=\"fil-sentence\" data-translation=\"Doubt - Hesitation or fear to help.\">Alinlangan - Pag-aalinlangan o takot na tumulong.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Overflowed - The liquid came out because the container was full.\"><span class=\"fil-sentence\" data-translation=\"Overflowed - The liquid came out because the container was full.\">Umapaw - Lumabas ang likido dahil napuno ang lalagyan.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'y' sound in 'palayok', 'nayon', and 'maya'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'y' sound in 'palayok', 'nayon', and 'maya'.\">Tutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'y' sa 'palayok', 'nayon', at 'maya'.</span></span>"
       },
       {
         "title": "Mga Tanong sa Pag-unawa",
-        "text": "Mga Tanong:\n1. Anong mahiwagang salita ang nagpapaluto sa palayok?\n2. Bakit umapaw ang lugaw at bumaha sa buong nayon?\n3. Paano pinatigil ni Maya ang pag-apaw ng lugaw?"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\">Mga Tanong:</span></span>\n<span class=\"fil-sentence\" data-translation=\"1. What magic word makes the pot cook?\"><span class=\"fil-sentence\" data-translation=\"1. What magic word makes the pot cook?\">1. Anong mahiwagang salita ang nagpapaluto sa palayok?</span></span>\n<span class=\"fil-sentence\" data-translation=\"2. Why did the porridge overflow and flood the whole village?\"><span class=\"fil-sentence\" data-translation=\"2. Why did the porridge overflow and flood the whole village?\">2. Bakit umapaw ang lugaw at bumaha sa buong nayon?</span></span>\n<span class=\"fil-sentence\" data-translation=\"3. How did Maya stop the porridge from overflowing?\"><span class=\"fil-sentence\" data-translation=\"3. How did Maya stop the porridge from overflowing?\">3. Paano pinatigil ni Maya ang pag-apaw ng lugaw?</span></span>"
       },
       {
         "title": "Mabuting Aral at Pagninilay",
-        "text": "Kaisipan: Ang bawat biyaya ay dapat gamitin nang may wastong kaalaman at disiplina.\n\nMahalagang makinig nang mabuti sa mga panuto at alalahanin ang mga ito upang maiwasan ang sakuna. Ang pagbabahagi ng biyaya sa kapwa ay nagdadala ng saya sa komunidad.\n\nTalakayin: Bakit mahalagang makinig at sumunod sa mga panuto ng guro sa paaralan?"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Thought: Every blessing must be used with proper knowledge and discipline.\"><span class=\"fil-sentence\" data-translation=\"Thought: Every blessing must be used with proper knowledge and discipline.\">Kaisipan: Ang bawat biyaya ay dapat gamitin nang may wastong kaalaman at disiplina.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"It is important to listen carefully to instructions and remember them to avoid accidents. Sharing blessings with others brings joy to the community.\"><span class=\"fil-sentence\" data-translation=\"It is important to listen carefully to instructions and remember them to avoid accidents. Sharing blessings with others brings joy to the community.\">Mahalagang makinig nang mabuti sa mga panuto at alalahanin ang mga ito upang maiwasan ang sakuna. Ang pagbabahagi ng biyaya sa kapwa ay nagdadala ng saya sa komunidad.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Discuss: Why is it important to listen and follow the teacher's instructions at school?\"><span class=\"fil-sentence\" data-translation=\"Discuss: Why is it important to listen and follow the teacher's instructions at school?\">Talakayin: Bakit mahalagang makinig at sumunod sa mga panuto ng guro sa paaralan?</span></span>"
       }
     ]
   }
 };
 
-window.WEEK4_ADVANCED_DATA = {
-  "math": {
+window.WEEK4_DATA.checklist = [
+  "Review weekly concept definitions",
+  "Complete daily reading section",
+  "Take weekly subject quizzes"
+];
+
+window.WEEK4_ADVANCED_DATA = {};
+
+window.WEEK4_ADVANCED_DATA.math = {
   "color": "#3b82f6",
   "icon": "🔢",
   "title": "Mathematics",
-  "subtitle": "Week 4: Angles and Protractor",
+  "subtitle": "Week 4: Angles and Protractor [Advanced]",
   "slides": [
     {
-      "title": "What is an Angle?",
-      "text": "An angle is formed by two rays meeting at a vertex. We measure angles in degrees (°) using a protractor. Angles can be acute (less than 90°), right (exactly 90°), or obtuse (more than 90°).",
+      "title": "Introduction to Week 4: Angles and Protractor [Advanced]",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Mathematics.",
       "examples": [
         {
-          "title": "Right Angle",
-          "content": "The corner of a standard sheet of paper forms a right angle (90°)."
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 4: Angles and Protractor [Advanced] and apply them in daily situations."
         },
         {
-          "title": "Acute Angle",
-          "content": "A slice of pizza usually forms an acute angle (less than 90°)."
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+        }
+      ]
+    },
+    {
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
+        {
+          "title": "Term 1: Counting",
+          "content": "A foundational concept in Mathematics that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Comparing",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
+    },
+    {
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 4: Angles and Protractor [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of Mathematics.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 4: Angles and Protractor [Advanced] in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 4: Angles and Protractor [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 4: Angles and Protractor [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 4: Angles and Protractor [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 4: Angles and Protractor [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 4: Angles and Protractor [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 4: Angles and Protractor [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 4: Angles and Protractor [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 4: Angles and Protractor [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 4: Angles and Protractor [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 4: Angles and Protractor [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 4: Angles and Protractor [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 4: Angles and Protractor [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 4: Angles and Protractor [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 4: Angles and Protractor [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 4: Angles and Protractor [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Angles and Protractor [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Angles and Protractor [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 4: Angles and Protractor [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 4: Angles and Protractor [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 4: Angles and Protractor [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 4: Angles and Protractor [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 4: Angles and Protractor [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
         }
       ]
     }
@@ -2476,276 +4625,248 @@ window.WEEK4_ADVANCED_DATA = {
   "standard": [
     {
       "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 1)",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 4: Angles and Protractor [Advanced]?",
       "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
+        "Core term: Comparing",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 2)",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 4: Angles and Protractor [Advanced]?",
       "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
+        "Core term: Addition",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 3)",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 4: Angles and Protractor [Advanced]?",
       "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
+        "Core term: Place value",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 4)",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 4: Angles and Protractor [Advanced]?",
       "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
+        "Core term: Numbers",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 4: Angles and Protractor [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Angles and Protractor [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Angles and Protractor [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 5)",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 4: Angles and Protractor [Advanced]?",
       "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
+        "Core term: Fractions",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 4: Angles and Protractor [Advanced] is a key topic in the study of ___.",
+      "answer": "Mathematics"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 4: Angles and Protractor [Advanced]?",
+      "options": [
+        "Core term: Perimeter",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 6)",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 4: Angles and Protractor [Advanced]?",
       "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
+        "Core term: Area",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 4: Angles and Protractor [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Angles and Protractor [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Angles and Protractor [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 7)",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 4: Angles and Protractor [Advanced]?",
       "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
+        "Core term: Comparing",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 8)",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 4: Angles and Protractor [Advanced]?",
       "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
+        "Core term: Addition",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 9)",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 4: Angles and Protractor [Advanced]?",
       "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
+        "Core term: Place value",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 4: Angles and Protractor [Advanced] is a key topic in the study of ___.",
+      "answer": "Mathematics"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 4: Angles and Protractor [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Angles and Protractor [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Angles and Protractor [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 10)",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 4: Angles and Protractor [Advanced]?",
       "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
+        "Core term: Fractions",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 11)",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 4: Angles and Protractor [Advanced]?",
       "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
+        "Core term: Multiplication",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 12)",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 4: Angles and Protractor [Advanced]?",
       "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
+        "Core term: Perimeter",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 13)",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 4: Angles and Protractor [Advanced]?",
       "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
+        "Core term: Area",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 4: Angles and Protractor [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Angles and Protractor [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Angles and Protractor [Advanced] are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 4: Angles and Protractor [Advanced] is a key topic in the study of ___.",
+      "answer": "Mathematics"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 4: Angles and Protractor [Advanced]?",
+      "options": [
+        "Core term: Addition",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 14)",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 4: Angles and Protractor [Advanced]?",
       "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
+        "Core term: Place value",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 15)",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 4: Angles and Protractor [Advanced]?",
       "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
+        "Core term: Numbers",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 16)",
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 4: Angles and Protractor [Advanced] is correct?",
       "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 17)",
-      "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 18)",
-      "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 19)",
-      "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 20)",
-      "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 21)",
-      "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 22)",
-      "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 23)",
-      "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 24)",
-      "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "What is the name of an angle that measures exactly 90 degrees? (Question 25)",
-      "options": [
-        "Right angle",
-        "Acute angle",
-        "Obtuse angle",
-        "Straight angle"
+        "Statement A: The core rules of Week 4: Angles and Protractor [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Angles and Protractor [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -2753,93 +4874,424 @@ window.WEEK4_ADVANCED_DATA = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge: If an angle measures 120 degrees, what type of angle is it?",
+      "q": "Challenge 1: In a complex situation involving Week 4: Angles and Protractor [Advanced], what is the first priority?",
       "options": [
-        "Obtuse angle",
-        "Right angle",
-        "Acute angle",
-        "Straight angle"
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge: If an angle measures 120 degrees, what type of angle is it?",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 4: Angles and Protractor [Advanced]?",
       "options": [
-        "Obtuse angle",
-        "Right angle",
-        "Acute angle",
-        "Straight angle"
+        "The primary variable: Counting",
+        "An external variable",
+        "No variable",
+        "All variables equally"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Challenge: If an angle measures 120 degrees, what type of angle is it?",
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 4: Angles and Protractor [Advanced].",
       "options": [
-        "Obtuse angle",
-        "Right angle",
-        "Acute angle",
-        "Straight angle"
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Challenge: If an angle measures 120 degrees, what type of angle is it?",
-      "options": [
-        "Obtuse angle",
-        "Right angle",
-        "Acute angle",
-        "Straight angle"
-      ],
-      "answer": 0
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 4: Angles and Protractor [Advanced]?",
+      "answer": "comparing"
     },
     {
       "type": "choice",
-      "q": "Challenge: If an angle measures 120 degrees, what type of angle is it?",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 4: Angles and Protractor [Advanced]?",
       "options": [
-        "Obtuse angle",
-        "Right angle",
-        "Acute angle",
-        "Straight angle"
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
       ],
       "answer": 0
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Mathematics Task",
-    "desc": "Solve and draw a model explaining Angles and Protractor. Share with your parent.",
+    "title": "Interactive Task: Week 4: Angles and Protractor [Advanced]",
+    "desc": "Perform a simple observation of Week 4: Angles and Protractor [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
-      "Accuracy",
-      "Drawing neatness",
-      "Explanation"
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                 <h3>Mathematics Review - Week 4</h3>\n                 <p class=\"ws-instruction\">Solve the math problems.</p>\n                 <div class=\"ws-item-row\"><div class=\"ws-q\">1. Answer: <span class=\"ws-answer\">Correct</span></div></div>\n               </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 4: Angles and Protractor [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 4: Angles and Protractor [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Comparing and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 4: Angles and Protractor [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of counting</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 4: Angles and Protractor [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
-},
-  "science": {
+};
+
+window.WEEK4_ADVANCED_DATA.science = {
   "color": "#10b981",
   "icon": "🔬",
   "title": "Science",
   "subtitle": "Week 4: Science Process Skills and Measurement [Advanced]",
   "slides": [
     {
-      "title": "Measuring Length",
-      "text": "Scientists use metric units to measure length accurately. The standard units are millimeters (mm), centimeters (cm), and meters (m). Ten millimeters make one centimeter, and 100 centimeters make one meter.",
+      "title": "Introduction to Week 4: Science Process Skills and Measurement [Advanced]",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Science.",
       "examples": [
         {
-          "title": "Small insect",
-          "content": "Measured in millimeters (e.g. 5 mm long)."
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 4: Science Process Skills and Measurement [Advanced] and apply them in daily situations."
         },
         {
-          "title": "Notebook",
-          "content": "Measured in centimeters (e.g. 20 cm long)."
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+        }
+      ]
+    },
+    {
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
+        {
+          "title": "Term 1: Observation",
+          "content": "A foundational concept in Science that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Prediction",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
+    },
+    {
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 4: Science Process Skills and Measurement [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of Science.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 4: Science Process Skills and Measurement [Advanced] in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 4: Science Process Skills and Measurement [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 4: Science Process Skills and Measurement [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 4: Science Process Skills and Measurement [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 4: Science Process Skills and Measurement [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 4: Science Process Skills and Measurement [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 4: Science Process Skills and Measurement [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 4: Science Process Skills and Measurement [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 4: Science Process Skills and Measurement [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 4: Science Process Skills and Measurement [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 4: Science Process Skills and Measurement [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 4: Science Process Skills and Measurement [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 4: Science Process Skills and Measurement [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 4: Science Process Skills and Measurement [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 4: Science Process Skills and Measurement [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 4: Science Process Skills and Measurement [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Science Process Skills and Measurement [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Science Process Skills and Measurement [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 4: Science Process Skills and Measurement [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 4: Science Process Skills and Measurement [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 4: Science Process Skills and Measurement [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 4: Science Process Skills and Measurement [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 4: Science Process Skills and Measurement [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
         }
       ]
     }
@@ -2847,276 +5299,248 @@ window.WEEK4_ADVANCED_DATA = {
   "standard": [
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 1)",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement [Advanced]?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Prediction",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 2)",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement [Advanced]?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Materials",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 3)",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement [Advanced]?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Body parts",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 4)",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement [Advanced]?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Senses",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 4: Science Process Skills and Measurement [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Science Process Skills and Measurement [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Science Process Skills and Measurement [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 5)",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement [Advanced]?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Safety",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 4: Science Process Skills and Measurement [Advanced] is a key topic in the study of ___.",
+      "answer": "Science"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement [Advanced]?",
+      "options": [
+        "Core term: Liquids",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 6)",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement [Advanced]?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Gases",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 4: Science Process Skills and Measurement [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Science Process Skills and Measurement [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Science Process Skills and Measurement [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 7)",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement [Advanced]?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Prediction",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 8)",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement [Advanced]?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Materials",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 9)",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement [Advanced]?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Body parts",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 4: Science Process Skills and Measurement [Advanced] is a key topic in the study of ___.",
+      "answer": "Science"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 4: Science Process Skills and Measurement [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Science Process Skills and Measurement [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Science Process Skills and Measurement [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 10)",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement [Advanced]?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Safety",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 11)",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement [Advanced]?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Solids",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 12)",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement [Advanced]?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Liquids",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 13)",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement [Advanced]?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Gases",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 4: Science Process Skills and Measurement [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Science Process Skills and Measurement [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Science Process Skills and Measurement [Advanced] are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 4: Science Process Skills and Measurement [Advanced] is a key topic in the study of ___.",
+      "answer": "Science"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement [Advanced]?",
+      "options": [
+        "Core term: Materials",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 14)",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement [Advanced]?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Body parts",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 15)",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 4: Science Process Skills and Measurement [Advanced]?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Core term: Senses",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 16)",
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 4: Science Process Skills and Measurement [Advanced] is correct?",
       "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 17)",
-      "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 18)",
-      "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 19)",
-      "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 20)",
-      "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 21)",
-      "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 22)",
-      "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 23)",
-      "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 24)",
-      "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which metric unit is most appropriate to measure the length of a classroom? (Question 25)",
-      "options": [
-        "Meter",
-        "Millimeter",
-        "Centimeter",
-        "Kilometer"
+        "Statement A: The core rules of Week 4: Science Process Skills and Measurement [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Science Process Skills and Measurement [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -3124,93 +5548,424 @@ window.WEEK4_ADVANCED_DATA = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge: If you use a hand lens to focus sunlight on a piece of dark paper, what will happen? (Challenge 1)",
+      "q": "Challenge 1: In a complex situation involving Week 4: Science Process Skills and Measurement [Advanced], what is the first priority?",
       "options": [
-        "The paper will get hot and may burn",
-        "Nothing will happen",
-        "The paper will turn blue",
-        "The lens will melt"
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge: If you use a hand lens to focus sunlight on a piece of dark paper, what will happen? (Challenge 2)",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 4: Science Process Skills and Measurement [Advanced]?",
       "options": [
-        "The paper will get hot and may burn",
-        "Nothing will happen",
-        "The paper will turn blue",
-        "The lens will melt"
+        "The primary variable: Observation",
+        "An external variable",
+        "No variable",
+        "All variables equally"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Challenge: If you use a hand lens to focus sunlight on a piece of dark paper, what will happen? (Challenge 3)",
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 4: Science Process Skills and Measurement [Advanced].",
       "options": [
-        "The paper will get hot and may burn",
-        "Nothing will happen",
-        "The paper will turn blue",
-        "The lens will melt"
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Challenge: If you use a hand lens to focus sunlight on a piece of dark paper, what will happen? (Challenge 4)",
-      "options": [
-        "The paper will get hot and may burn",
-        "Nothing will happen",
-        "The paper will turn blue",
-        "The lens will melt"
-      ],
-      "answer": 0
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 4: Science Process Skills and Measurement [Advanced]?",
+      "answer": "prediction"
     },
     {
       "type": "choice",
-      "q": "Challenge: If you use a hand lens to focus sunlight on a piece of dark paper, what will happen? (Challenge 5)",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 4: Science Process Skills and Measurement [Advanced]?",
       "options": [
-        "The paper will get hot and may burn",
-        "Nothing will happen",
-        "The paper will turn blue",
-        "The lens will melt"
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
       ],
       "answer": 0
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Science Activity Task",
-    "desc": "Create an entry in your notebook explaining Science Process Skills and Measurement [Advanced]. Share your work with your parents.",
+    "title": "Interactive Task: Week 4: Science Process Skills and Measurement [Advanced]",
+    "desc": "Perform a simple observation of Week 4: Science Process Skills and Measurement [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
-      "Accuracy and understanding",
-      "Cleanliness and presentation",
-      "Self-expression and effort"
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                 <h3>Science Review - Week 4</h3>\n                 <p class=\"ws-instruction\">Write the correct answer below using your stylus.</p>\n                 <div class=\"ws-item-row\"><div class=\"ws-q\">1. What is the main concept of Science Process Skills and Measurement [Advanced]? <span class=\"ws-answer\">Understanding and applying Science Process Skills and Measurement [Advanced] in real life.</span></div></div>\n               </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 4: Science Process Skills and Measurement [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 4: Science Process Skills and Measurement [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Prediction and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 4: Science Process Skills and Measurement [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of observation</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 4: Science Process Skills and Measurement [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
-},
-  "english": {
+};
+
+window.WEEK4_ADVANCED_DATA.english = {
   "color": "#8b5cf6",
   "icon": "📖",
   "title": "English",
   "subtitle": "Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]",
   "slides": [
     {
-      "title": "Adjectives & Synonyms",
-      "text": "Adjectives are describing words that tell us more about a noun (like color, size, shape). Synonyms are words that have the same or similar meaning. Antonyms are opposite meanings.",
+      "title": "Introduction to Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in English.",
       "examples": [
         {
-          "title": "Synonyms",
-          "content": "'Big' and 'Large' are synonyms. 'Happy' and 'Glad' are synonyms."
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] and apply them in daily situations."
         },
         {
-          "title": "Antonyms",
-          "content": "'Hot' and 'Cold' are antonyms. 'Tall' and 'Short' are antonyms."
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+        }
+      ]
+    },
+    {
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
+        {
+          "title": "Term 1: Alphabet",
+          "content": "A foundational concept in English that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Vowels",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
+    },
+    {
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of English.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
         }
       ]
     }
@@ -3218,276 +5973,248 @@ window.WEEK4_ADVANCED_DATA = {
   "standard": [
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 1)",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Vowels",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 2)",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Consonants",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 3)",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Words",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 4)",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Nouns",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 5)",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Pronouns",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] is a key topic in the study of ___.",
+      "answer": "English"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]?",
+      "options": [
+        "Core term: Sentences",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 6)",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Synonyms",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 7)",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Vowels",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 8)",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Consonants",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 9)",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Words",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] is a key topic in the study of ___.",
+      "answer": "English"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 10)",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Pronouns",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 11)",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Adjectives",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 12)",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Sentences",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 13)",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Synonyms",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] is a key topic in the study of ___.",
+      "answer": "English"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]?",
+      "options": [
+        "Core term: Consonants",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 14)",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Words",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 15)",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Core term: Nouns",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 16)",
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] is correct?",
       "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 17)",
-      "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 18)",
-      "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 19)",
-      "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 20)",
-      "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 21)",
-      "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 22)",
-      "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 23)",
-      "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 24)",
-      "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which of the following describes a synonym for 'big'? (Question 25)",
-      "options": [
-        "Large",
-        "Small",
-        "Short",
-        "Thin"
+        "Statement A: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -3495,93 +6222,424 @@ window.WEEK4_ADVANCED_DATA = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge: Which pronoun correctly completes this sentence? 'Look at ___ birds flying high in the sky far away!'",
+      "q": "Challenge 1: In a complex situation involving Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced], what is the first priority?",
       "options": [
-        "those",
-        "these",
-        "this",
-        "that"
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge: Which pronoun correctly completes this sentence? 'Look at ___ birds flying high in the sky far away!'",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]?",
       "options": [
-        "those",
-        "these",
-        "this",
-        "that"
+        "The primary variable: Alphabet",
+        "An external variable",
+        "No variable",
+        "All variables equally"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Challenge: Which pronoun correctly completes this sentence? 'Look at ___ birds flying high in the sky far away!'",
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced].",
       "options": [
-        "those",
-        "these",
-        "this",
-        "that"
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Challenge: Which pronoun correctly completes this sentence? 'Look at ___ birds flying high in the sky far away!'",
-      "options": [
-        "those",
-        "these",
-        "this",
-        "that"
-      ],
-      "answer": 0
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]?",
+      "answer": "vowels"
     },
     {
       "type": "choice",
-      "q": "Challenge: Which pronoun correctly completes this sentence? 'Look at ___ birds flying high in the sky far away!'",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]?",
       "options": [
-        "those",
-        "these",
-        "this",
-        "that"
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
       ],
       "answer": 0
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "English Activity Task",
-    "desc": "Create an entry in your notebook explaining Adjectives, Synonyms, Antonyms & Predictions [Advanced]. Share your work with your parents.",
+    "title": "Interactive Task: Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]",
+    "desc": "Perform a simple observation of Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
-      "Accuracy and understanding",
-      "Cleanliness and presentation",
-      "Self-expression and effort"
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                 <h3>English Review - Week 4</h3>\n                 <p class=\"ws-instruction\">Write the correct answer below using your stylus.</p>\n                 <div class=\"ws-item-row\"><div class=\"ws-q\">1. What is the main concept of Adjectives, Synonyms, Antonyms & Predictions [Advanced]? <span class=\"ws-answer\">Understanding and applying Adjectives, Synonyms, Antonyms & Predictions [Advanced] in real life.</span></div></div>\n               </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Vowels and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alphabet</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 4: Adjectives, Synonyms, Antonyms & Predictions [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
-},
-  "filipino": {
+};
+
+window.WEEK4_ADVANCED_DATA.filipino = {
   "color": "#ec4899",
   "icon": "🗣️",
   "title": "Filipino",
   "subtitle": "Week 4: Panghalip Pamatlig at Pang-uri [Advanced]",
   "slides": [
     {
-      "title": "Panghalip Pamatlig at Pang-uri",
-      "text": "Ang panghalip pamatlig ay ginagamit sa pagtuturo ng tao, bagay o lugar (ito, iyan, iyon). Ang pang-uri ay mga salitang naglalarawan ng katangian o kulay ng pangngalan.",
+      "title": "Introduction to Week 4: Panghalip Pamatlig at Pang-uri [Advanced]",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Filipino.",
       "examples": [
         {
-          "title": "Panghalip",
-          "content": "'Ito' (malapit sa nagsasalita), 'Iyan' (malapit sa kausap), 'Iyon' (malayo sa dalawa)."
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 4: Panghalip Pamatlig at Pang-uri [Advanced] and apply them in daily situations."
         },
         {
-          "title": "Pang-uri",
-          "content": "maganda, mabait, bilog, mapula."
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+        }
+      ]
+    },
+    {
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
+        {
+          "title": "Term 1: Alpabeto",
+          "content": "A foundational concept in Filipino that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Patinig",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
+    },
+    {
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 4: Panghalip Pamatlig at Pang-uri [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of Filipino.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 4: Panghalip Pamatlig at Pang-uri [Advanced] in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 4: Panghalip Pamatlig at Pang-uri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 4: Panghalip Pamatlig at Pang-uri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 4: Panghalip Pamatlig at Pang-uri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 4: Panghalip Pamatlig at Pang-uri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 4: Panghalip Pamatlig at Pang-uri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 4: Panghalip Pamatlig at Pang-uri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 4: Panghalip Pamatlig at Pang-uri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 4: Panghalip Pamatlig at Pang-uri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 4: Panghalip Pamatlig at Pang-uri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 4: Panghalip Pamatlig at Pang-uri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 4: Panghalip Pamatlig at Pang-uri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 4: Panghalip Pamatlig at Pang-uri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 4: Panghalip Pamatlig at Pang-uri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 4: Panghalip Pamatlig at Pang-uri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 4: Panghalip Pamatlig at Pang-uri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Panghalip Pamatlig at Pang-uri [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Panghalip Pamatlig at Pang-uri [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 4: Panghalip Pamatlig at Pang-uri [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 4: Panghalip Pamatlig at Pang-uri [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 4: Panghalip Pamatlig at Pang-uri [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 4: Panghalip Pamatlig at Pang-uri [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 4: Panghalip Pamatlig at Pang-uri [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
         }
       ]
     }
@@ -3589,276 +6647,248 @@ window.WEEK4_ADVANCED_DATA = {
   "standard": [
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 1)",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri [Advanced]?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Patinig",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 2)",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri [Advanced]?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Katinig",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 3)",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri [Advanced]?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Pangngalan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 4)",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri [Advanced]?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Pantangi",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 4: Panghalip Pamatlig at Pang-uri [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Panghalip Pamatlig at Pang-uri [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Panghalip Pamatlig at Pang-uri [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 5)",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri [Advanced]?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Panghalip",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 4: Panghalip Pamatlig at Pang-uri [Advanced] is a key topic in the study of ___.",
+      "answer": "Filipino"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri [Advanced]?",
+      "options": [
+        "Core term: Pang-uri",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 6)",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri [Advanced]?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Pang-abay",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 4: Panghalip Pamatlig at Pang-uri [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Panghalip Pamatlig at Pang-uri [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Panghalip Pamatlig at Pang-uri [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 7)",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri [Advanced]?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Patinig",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 8)",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri [Advanced]?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Katinig",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 9)",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri [Advanced]?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Pangngalan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 4: Panghalip Pamatlig at Pang-uri [Advanced] is a key topic in the study of ___.",
+      "answer": "Filipino"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 4: Panghalip Pamatlig at Pang-uri [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Panghalip Pamatlig at Pang-uri [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Panghalip Pamatlig at Pang-uri [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 10)",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri [Advanced]?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Panghalip",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 11)",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri [Advanced]?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Pandiwa",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 12)",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri [Advanced]?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Pang-uri",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 13)",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri [Advanced]?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Pang-abay",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 4: Panghalip Pamatlig at Pang-uri [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Panghalip Pamatlig at Pang-uri [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Panghalip Pamatlig at Pang-uri [Advanced] are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 4: Panghalip Pamatlig at Pang-uri [Advanced] is a key topic in the study of ___.",
+      "answer": "Filipino"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri [Advanced]?",
+      "options": [
+        "Core term: Katinig",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 14)",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri [Advanced]?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Pangngalan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 15)",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 4: Panghalip Pamatlig at Pang-uri [Advanced]?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Core term: Pantangi",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 16)",
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 4: Panghalip Pamatlig at Pang-uri [Advanced] is correct?",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 17)",
-      "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 18)",
-      "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 19)",
-      "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 20)",
-      "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 21)",
-      "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 22)",
-      "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 23)",
-      "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 24)",
-      "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Alin ang panghalip pamatlig na gagamitin kung ang itinuturong bagay ay malapit sa nagsasalita? (Question 25)",
-      "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Doon"
+        "Statement A: The core rules of Week 4: Panghalip Pamatlig at Pang-uri [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Panghalip Pamatlig at Pang-uri [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -3866,93 +6896,424 @@ window.WEEK4_ADVANCED_DATA = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Hamong Tanong: Ano ang tamang aspekto ng pandiwa sa pangungusap na ito: 'Si Lina ay ___ kahapon sa plasa.'?",
+      "q": "Challenge 1: In a complex situation involving Week 4: Panghalip Pamatlig at Pang-uri [Advanced], what is the first priority?",
       "options": [
-        "sumayaw",
-        "sumasayaw",
-        "sasayaw",
-        "nagsasayaw"
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Hamong Tanong: Ano ang tamang aspekto ng pandiwa sa pangungusap na ito: 'Si Lina ay ___ kahapon sa plasa.'?",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 4: Panghalip Pamatlig at Pang-uri [Advanced]?",
       "options": [
-        "sumayaw",
-        "sumasayaw",
-        "sasayaw",
-        "nagsasayaw"
+        "The primary variable: Alpabeto",
+        "An external variable",
+        "No variable",
+        "All variables equally"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Hamong Tanong: Ano ang tamang aspekto ng pandiwa sa pangungusap na ito: 'Si Lina ay ___ kahapon sa plasa.'?",
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 4: Panghalip Pamatlig at Pang-uri [Advanced].",
       "options": [
-        "sumayaw",
-        "sumasayaw",
-        "sasayaw",
-        "nagsasayaw"
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Hamong Tanong: Ano ang tamang aspekto ng pandiwa sa pangungusap na ito: 'Si Lina ay ___ kahapon sa plasa.'?",
-      "options": [
-        "sumayaw",
-        "sumasayaw",
-        "sasayaw",
-        "nagsasayaw"
-      ],
-      "answer": 0
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 4: Panghalip Pamatlig at Pang-uri [Advanced]?",
+      "answer": "patinig"
     },
     {
       "type": "choice",
-      "q": "Hamong Tanong: Ano ang tamang aspekto ng pandiwa sa pangungusap na ito: 'Si Lina ay ___ kahapon sa plasa.'?",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 4: Panghalip Pamatlig at Pang-uri [Advanced]?",
       "options": [
-        "sumayaw",
-        "sumasayaw",
-        "sasayaw",
-        "nagsasayaw"
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
       ],
       "answer": 0
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Filipino Activity Task",
-    "desc": "Create an entry in your notebook explaining Panghalip Pamatlig at Pang-uri [Advanced]. Share your work with your parents.",
+    "title": "Interactive Task: Week 4: Panghalip Pamatlig at Pang-uri [Advanced]",
+    "desc": "Perform a simple observation of Week 4: Panghalip Pamatlig at Pang-uri [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
-      "Accuracy and understanding",
-      "Cleanliness and presentation",
-      "Self-expression and effort"
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                 <h3>Filipino Review - Week 4</h3>\n                 <p class=\"ws-instruction\">Write the correct answer below using your stylus.</p>\n                 <div class=\"ws-item-row\"><div class=\"ws-q\">1. What is the main concept of Panghalip Pamatlig at Pang-uri [Advanced]? <span class=\"ws-answer\">Understanding and applying Panghalip Pamatlig at Pang-uri [Advanced] in real life.</span></div></div>\n               </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 4: Panghalip Pamatlig at Pang-uri [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 4: Panghalip Pamatlig at Pang-uri [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Patinig and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 4: Panghalip Pamatlig at Pang-uri [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alpabeto</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 4: Panghalip Pamatlig at Pang-uri [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
-},
-  "makabansa": {
+};
+
+window.WEEK4_ADVANCED_DATA.makabansa = {
   "color": "#f59e0b",
   "icon": "🏝️",
   "title": "Makabansa",
   "subtitle": "Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]",
   "slides": [
     {
-      "title": "Mga Pagdiriwang at Tradisyon",
-      "text": "Ang komunidad ay may sariling pagkakakilanlan sa pamamagitan ng mga tradisyon at lokal na pagdiriwang tulad ng piyesta, pista ng patron, o mga parada ng ani.",
+      "title": "Introduction to Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Makabansa.",
       "examples": [
         {
-          "title": "Piyesta ng Bayan",
-          "content": "Isang taunang pagdiriwang bilang pasasalamat sa magandang ani."
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] and apply them in daily situations."
         },
         {
-          "title": "Kaugalian",
-          "content": "Ang pagtutulungan o bayanihan sa pag-aayos ng kalsada o plasa."
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+        }
+      ]
+    },
+    {
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
+        {
+          "title": "Term 1: Sarili",
+          "content": "A foundational concept in Makabansa that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Pamilya",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
+    },
+    {
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of Makabansa.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
         }
       ]
     }
@@ -3960,276 +7321,248 @@ window.WEEK4_ADVANCED_DATA = {
   "standard": [
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 1)",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Pamilya",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 2)",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Tungkulin",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 3)",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Komunidad",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 4)",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Kasaysayan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 5)",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Landmarks",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] is a key topic in the study of ___.",
+      "answer": "Makabansa"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]?",
+      "options": [
+        "Core term: Tradisyon",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 6)",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Lokasyon",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 7)",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Pamilya",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 8)",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Tungkulin",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 9)",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Komunidad",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] is a key topic in the study of ___.",
+      "answer": "Makabansa"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 10)",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Landmarks",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 11)",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Timeline",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 12)",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Tradisyon",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 13)",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Lokasyon",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] is a key topic in the study of ___.",
+      "answer": "Makabansa"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]?",
+      "options": [
+        "Core term: Tungkulin",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 14)",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Komunidad",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 15)",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Core term: Kasaysayan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 16)",
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] is correct?",
       "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 17)",
-      "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 18)",
-      "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 19)",
-      "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 20)",
-      "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 21)",
-      "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 22)",
-      "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 23)",
-      "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 24)",
-      "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Anong kaugalian ang nagpapakita ng pagtutulungan ng mga kasapi ng komunidad? (Question 25)",
-      "options": [
-        "Bayanihan",
-        "Pagsasarili",
-        "Pag-aaway",
-        "Pagwawalang-bahala"
+        "Statement A: The core rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -4237,93 +7570,424 @@ window.WEEK4_ADVANCED_DATA = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Hamong Tanong: Bakit kailangang pangalagaan ang mga makasaysayang estruktura sa ating komunidad?",
+      "q": "Challenge 1: In a complex situation involving Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced], what is the first priority?",
       "options": [
-        "Upang maipreserba ang kasaysayan at kultura para sa hinaharap",
-        "Upang ibenta ito sa ibang bansa",
-        "Dahil ito ay walang silbi",
-        "Upang gawin itong mall"
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Hamong Tanong: Bakit kailangang pangalagaan ang mga makasaysayang estruktura sa ating komunidad?",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]?",
       "options": [
-        "Upang maipreserba ang kasaysayan at kultura para sa hinaharap",
-        "Upang ibenta ito sa ibang bansa",
-        "Dahil ito ay walang silbi",
-        "Upang gawin itong mall"
+        "The primary variable: Sarili",
+        "An external variable",
+        "No variable",
+        "All variables equally"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Hamong Tanong: Bakit kailangang pangalagaan ang mga makasaysayang estruktura sa ating komunidad?",
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced].",
       "options": [
-        "Upang maipreserba ang kasaysayan at kultura para sa hinaharap",
-        "Upang ibenta ito sa ibang bansa",
-        "Dahil ito ay walang silbi",
-        "Upang gawin itong mall"
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Hamong Tanong: Bakit kailangang pangalagaan ang mga makasaysayang estruktura sa ating komunidad?",
-      "options": [
-        "Upang maipreserba ang kasaysayan at kultura para sa hinaharap",
-        "Upang ibenta ito sa ibang bansa",
-        "Dahil ito ay walang silbi",
-        "Upang gawin itong mall"
-      ],
-      "answer": 0
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]?",
+      "answer": "pamilya"
     },
     {
       "type": "choice",
-      "q": "Hamong Tanong: Bakit kailangang pangalagaan ang mga makasaysayang estruktura sa ating komunidad?",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]?",
       "options": [
-        "Upang maipreserba ang kasaysayan at kultura para sa hinaharap",
-        "Upang ibenta ito sa ibang bansa",
-        "Dahil ito ay walang silbi",
-        "Upang gawin itong mall"
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
       ],
       "answer": 0
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Makabansa Activity Task",
-    "desc": "Create an entry in your notebook explaining Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]. Share your work with your parents.",
+    "title": "Interactive Task: Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]",
+    "desc": "Perform a simple observation of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
-      "Accuracy and understanding",
-      "Cleanliness and presentation",
-      "Self-expression and effort"
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                 <h3>Makabansa Review - Week 4</h3>\n                 <p class=\"ws-instruction\">Write the correct answer below using your stylus.</p>\n                 <div class=\"ws-item-row\"><div class=\"ws-q\">1. What is the main concept of Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]? <span class=\"ws-answer\">Understanding and applying Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] in real life.</span></div></div>\n               </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Pamilya and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of sarili</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 4: Mga Pagdiriwang, Tradisyon at Pagkakakilanlan [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
-},
-  "gmrc": {
+};
+
+window.WEEK4_ADVANCED_DATA.gmrc = {
   "color": "#06b6d4",
   "icon": "🧘‍♂️",
   "title": "GMRC",
   "subtitle": "Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]",
   "slides": [
     {
-      "title": "Matalinong Pamamahala",
-      "text": "Kapag tayo ay nag-iimpok at nagtitipid, natututo tayong mamahala ng mas malalaking bagay at pera sa kinabukasan. Nakatutulong din ito upang matulungan natin ang pamilya sa oras ng kagipitan.",
+      "title": "Introduction to Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in GMRC.",
       "examples": [
         {
-          "title": "Matalinong Pagbili",
-          "content": "Bumili lamang ng mga kailangang gamit sa eskwelahan sa halip na mga laruan."
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] and apply them in daily situations."
         },
         {
-          "title": "Pangangalaga",
-          "content": "Pag-aalaga sa iyong mga uniporme at sapatos upang magamit pa sa susunod na taon."
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+        }
+      ]
+    },
+    {
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
+        {
+          "title": "Term 1: Pagmamahal",
+          "content": "A foundational concept in GMRC that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Kalinisan",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
+    },
+    {
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of GMRC.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
         }
       ]
     }
@@ -4331,276 +7995,248 @@ window.WEEK4_ADVANCED_DATA = {
   "standard": [
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 1)",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Kalinisan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 2)",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Disiplina",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 3)",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Paggalang",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 4)",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Katapatan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 5)",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Pagtitipid",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] is a key topic in the study of ___.",
+      "answer": "GMRC"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]?",
+      "options": [
+        "Core term: Bayanihan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 6)",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Pag-iimpok",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 7)",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Kalinisan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 8)",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Disiplina",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 9)",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Paggalang",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] is a key topic in the study of ___.",
+      "answer": "GMRC"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 10)",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Pagtitipid",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 11)",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Responsable",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 12)",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Bayanihan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 13)",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Pag-iimpok",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] is correct?",
+      "options": [
+        "Statement A: The core rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] is a key topic in the study of ___.",
+      "answer": "GMRC"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]?",
+      "options": [
+        "Core term: Disiplina",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 14)",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Paggalang",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 15)",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Core term: Katapatan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 16)",
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] is correct?",
       "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 17)",
-      "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 18)",
-      "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 19)",
-      "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 20)",
-      "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 21)",
-      "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 22)",
-      "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 23)",
-      "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 24)",
-      "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Saan dapat ilaan ang perang naipon sa pagtitipid? (Question 25)",
-      "options": [
-        "Sa mga kailangang gamit sa eskwelahan o emergency",
-        "Sa mga tsokolate at kendi",
-        "Ipamigay sa hindi kilala",
-        "Itapon sa basurahan"
+        "Statement A: The core rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] are applied to solve these cases.",
+        "Statement B: The core rules of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -4608,76 +8244,69 @@ window.WEEK4_ADVANCED_DATA = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Hamong Tanong: Nakita mong nahihirapan ang iyong ina na magbitbit ng mga pinamili. Ano ang gagawin mo?",
+      "q": "Challenge 1: In a complex situation involving Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced], what is the first priority?",
       "options": [
-        "Tutungo ako upang tulungan siyang magbitbit ng magaan na bagay",
-        "Hahayaan ko lang siya",
-        "Maglalaro ako ng cellphone",
-        "Tatawanan ko siya"
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Hamong Tanong: Nakita mong nahihirapan ang iyong ina na magbitbit ng mga pinamili. Ano ang gagawin mo?",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]?",
       "options": [
-        "Tutungo ako upang tulungan siyang magbitbit ng magaan na bagay",
-        "Hahayaan ko lang siya",
-        "Maglalaro ako ng cellphone",
-        "Tatawanan ko siya"
+        "The primary variable: Pagmamahal",
+        "An external variable",
+        "No variable",
+        "All variables equally"
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Hamong Tanong: Nakita mong nahihirapan ang iyong ina na magbitbit ng mga pinamili. Ano ang gagawin mo?",
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced].",
       "options": [
-        "Tutungo ako upang tulungan siyang magbitbit ng magaan na bagay",
-        "Hahayaan ko lang siya",
-        "Maglalaro ako ng cellphone",
-        "Tatawanan ko siya"
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
       ],
       "answer": 0
     },
     {
-      "type": "choice",
-      "q": "Hamong Tanong: Nakita mong nahihirapan ang iyong ina na magbitbit ng mga pinamili. Ano ang gagawin mo?",
-      "options": [
-        "Tutungo ako upang tulungan siyang magbitbit ng magaan na bagay",
-        "Hahayaan ko lang siya",
-        "Maglalaro ako ng cellphone",
-        "Tatawanan ko siya"
-      ],
-      "answer": 0
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]?",
+      "answer": "kalinisan"
     },
     {
       "type": "choice",
-      "q": "Hamong Tanong: Nakita mong nahihirapan ang iyong ina na magbitbit ng mga pinamili. Ano ang gagawin mo?",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]?",
       "options": [
-        "Tutungo ako upang tulungan siyang magbitbit ng magaan na bagay",
-        "Hahayaan ko lang siya",
-        "Maglalaro ako ng cellphone",
-        "Tatawanan ko siya"
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
       ],
       "answer": 0
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "GMRC Activity Task",
-    "desc": "Create an entry in your notebook explaining Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]. Share your work with your parents.",
+    "title": "Interactive Task: Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]",
+    "desc": "Perform a simple observation of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
-      "Accuracy and understanding",
-      "Cleanliness and presentation",
-      "Self-expression and effort"
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                 <h3>GMRC Review - Week 4</h3>\n                 <p class=\"ws-instruction\">Write the correct answer below using your stylus.</p>\n                 <div class=\"ws-item-row\"><div class=\"ws-q\">1. What is the main concept of Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]? <span class=\"ws-answer\">Understanding and applying Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] in real life.</span></div></div>\n               </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Kalinisan and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of pagmamahal</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 4: Mapagmalasakit - Pag-iimpok at Pagtitipid ng Pera [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
-}
 };
 
 window.WEEK4_ADVANCED_DATA.reading = window.WEEK4_DATA.reading;

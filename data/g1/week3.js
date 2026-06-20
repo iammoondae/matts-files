@@ -1,4523 +1,4266 @@
-window.WEEK3_DATA = {
-  "math": {
-    "color": "#3b82f6",
-    "icon": "🔢",
-    "title": "Mathematics",
-    "subtitle": "Week 3: Addition & Subtraction up to 20",
-    "slides": [
-      {
-        "title": "Lesson: Addition & Subtraction up to 20",
-        "text": "Today we will learn about Addition & Subtraction up to 20. This is an important topic in Mathematics that helps us build strong foundational skills. Try to follow along carefully and complete the exercises.",
-        "examples": [
-          {
-            "title": "Example A",
-            "content": "A detailed example explaining how this works in practice."
-          },
-          {
-            "title": "Example B",
-            "content": "Another practical scenario to make it easy to remember."
-          }
-        ]
-      },
-      {
-        "title": "Deep Dive Study",
-        "text": "Let's investigate the rules and principles of this topic. Remember to practice regularly to master this subject.",
-        "examples": [
-          {
-            "title": "Practice Tip",
-            "content": "Discuss what you learned today with your parents or classmates."
-          }
-        ]
-      }
-    ],
-    "quiz": [
-      {
-        "type": "choice",
-        "q": "Question 1: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 2: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 3: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 4: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 5: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 6: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 7: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 8: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 9: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 10: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 11: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 12: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 13: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 14: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 15: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 16: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 17: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 18: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 19: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 20: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 21: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 22: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 23: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 24: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 25: What is the correct answer for Addition & Subtraction up to 20?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      }
-    ],
-    "challenge": [
-      {
-        "type": "choice",
-        "q": "Challenge Question 1",
-        "options": [
-          "Option A (Correct)",
-          "Option B"
-        ],
-        "answer": "Option A (Correct)"
-      },
-      {
-        "type": "tf",
-        "q": "Challenge Question 2: Is this statement correct?",
-        "answer": true
-      },
-      {
-        "type": "blank",
-        "q": "Challenge Question 3: Type the word 'correct'.",
-        "answer": "correct"
-      },
-      {
-        "type": "choice",
-        "q": "Challenge Question 4",
-        "options": [
-          "1",
-          "2",
-          "3"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "choice",
-        "q": "Challenge Question 5",
-        "options": [
-          "Correct",
-          "Wrong"
-        ],
-        "answer": "Correct"
-      }
-    ],
-    "performance": {
-      "type": "performance",
-      "title": "Performance Task: Mathematics Week 3",
-      "desc": "Create a short presentation or drawing describing what you learned about Addition & Subtraction up to 20. Show and explain it to your parent or guardian.",
-      "labels": [
-        "Content accuracy",
-        "Neatness and organization",
-        "Verbal presentation and explanation"
-      ]
-    },
-    "worksheet": {
-      "pages": [
-        "<div class=\"ws-page-content\">\n                             <h3>Worksheet Exercise 1</h3>\n                             <p class=\"ws-instruction\">Write the correct answer using your stylus.</p>\n                             <div class=\"ws-item-row\"><div class=\"ws-q\">1. Solve the first problem: <span class=\"ws-answer\">Correct Answer</span></div></div>\n                           </div>"
-      ]
-    }
-  },
-  "science": {
-    "color": "#10b981",
-    "icon": "🔬",
-    "title": "Science",
-    "subtitle": "Week 3: Caring for my Body & Hygiene",
-    "slides": [
-      {
-        "title": "Lesson: Caring for my Body & Hygiene",
-        "text": "Today we will learn about Caring for my Body & Hygiene. This is an important topic in Science that helps us build strong foundational skills. Try to follow along carefully and complete the exercises.",
-        "examples": [
-          {
-            "title": "Example A",
-            "content": "A detailed example explaining how this works in practice."
-          },
-          {
-            "title": "Example B",
-            "content": "Another practical scenario to make it easy to remember."
-          }
-        ]
-      },
-      {
-        "title": "Deep Dive Study",
-        "text": "Let's investigate the rules and principles of this topic. Remember to practice regularly to master this subject.",
-        "examples": [
-          {
-            "title": "Practice Tip",
-            "content": "Discuss what you learned today with your parents or classmates."
-          }
-        ]
-      }
-    ],
-    "quiz": [
-      {
-        "type": "choice",
-        "q": "Question 1: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 2: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 3: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 4: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 5: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 6: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 7: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 8: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 9: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 10: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 11: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 12: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 13: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 14: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 15: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 16: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 17: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 18: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 19: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 20: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 21: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 22: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 23: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 24: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 25: What is the correct answer for Caring for my Body & Hygiene?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      }
-    ],
-    "challenge": [
-      {
-        "type": "choice",
-        "q": "Challenge Question 1",
-        "options": [
-          "Option A (Correct)",
-          "Option B"
-        ],
-        "answer": "Option A (Correct)"
-      },
-      {
-        "type": "tf",
-        "q": "Challenge Question 2: Is this statement correct?",
-        "answer": true
-      },
-      {
-        "type": "blank",
-        "q": "Challenge Question 3: Type the word 'correct'.",
-        "answer": "correct"
-      },
-      {
-        "type": "choice",
-        "q": "Challenge Question 4",
-        "options": [
-          "1",
-          "2",
-          "3"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "choice",
-        "q": "Challenge Question 5",
-        "options": [
-          "Correct",
-          "Wrong"
-        ],
-        "answer": "Correct"
-      }
-    ],
-    "performance": {
-      "type": "performance",
-      "title": "Performance Task: Science Week 3",
-      "desc": "Create a short presentation or drawing describing what you learned about Caring for my Body & Hygiene. Show and explain it to your parent or guardian.",
-      "labels": [
-        "Content accuracy",
-        "Neatness and organization",
-        "Verbal presentation and explanation"
-      ]
-    },
-    "worksheet": {
-      "pages": [
-        "<div class=\"ws-page-content\">\n                             <h3>Worksheet Exercise 1</h3>\n                             <p class=\"ws-instruction\">Write the correct answer using your stylus.</p>\n                             <div class=\"ws-item-row\"><div class=\"ws-q\">1. Solve the first problem: <span class=\"ws-answer\">Correct Answer</span></div></div>\n                           </div>"
-      ]
-    }
-  },
-  "english": {
-    "color": "#a855f7",
-    "icon": "🙋‍♂️",
-    "title": "English",
-    "subtitle": "Week 3: Identifying Naming Words",
-    "slides": [
-      {
-        "title": "Lesson: Identifying Naming Words",
-        "text": "Today we will learn about Identifying Naming Words. This is an important topic in English that helps us build strong foundational skills. Try to follow along carefully and complete the exercises.",
-        "examples": [
-          {
-            "title": "Example A",
-            "content": "A detailed example explaining how this works in practice."
-          },
-          {
-            "title": "Example B",
-            "content": "Another practical scenario to make it easy to remember."
-          }
-        ]
-      },
-      {
-        "title": "Deep Dive Study",
-        "text": "Let's investigate the rules and principles of this topic. Remember to practice regularly to master this subject.",
-        "examples": [
-          {
-            "title": "Practice Tip",
-            "content": "Discuss what you learned today with your parents or classmates."
-          }
-        ]
-      }
-    ],
-    "quiz": [
-      {
-        "type": "choice",
-        "q": "Question 1: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 2: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 3: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 4: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 5: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 6: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 7: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 8: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 9: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 10: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 11: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 12: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 13: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 14: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 15: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 16: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 17: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 18: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 19: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 20: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 21: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 22: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 23: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 24: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 25: What is the correct answer for Identifying Naming Words?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      }
-    ],
-    "challenge": [
-      {
-        "type": "choice",
-        "q": "Challenge Question 1",
-        "options": [
-          "Option A (Correct)",
-          "Option B"
-        ],
-        "answer": "Option A (Correct)"
-      },
-      {
-        "type": "tf",
-        "q": "Challenge Question 2: Is this statement correct?",
-        "answer": true
-      },
-      {
-        "type": "blank",
-        "q": "Challenge Question 3: Type the word 'correct'.",
-        "answer": "correct"
-      },
-      {
-        "type": "choice",
-        "q": "Challenge Question 4",
-        "options": [
-          "1",
-          "2",
-          "3"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "choice",
-        "q": "Challenge Question 5",
-        "options": [
-          "Correct",
-          "Wrong"
-        ],
-        "answer": "Correct"
-      }
-    ],
-    "performance": {
-      "type": "performance",
-      "title": "Performance Task: English Week 3",
-      "desc": "Create a short presentation or drawing describing what you learned about Identifying Naming Words. Show and explain it to your parent or guardian.",
-      "labels": [
-        "Content accuracy",
-        "Neatness and organization",
-        "Verbal presentation and explanation"
-      ]
-    },
-    "worksheet": {
-      "pages": [
-        "<div class=\"ws-page-content\">\n                             <h3>Worksheet Exercise 1</h3>\n                             <p class=\"ws-instruction\">Write the correct answer using your stylus.</p>\n                             <div class=\"ws-item-row\"><div class=\"ws-q\">1. Solve the first problem: <span class=\"ws-answer\">Correct Answer</span></div></div>\n                           </div>"
-      ]
-    }
-  },
-  "filipino": {
-    "color": "#ef4444",
-    "icon": "🇵🇭",
-    "title": "Filipino",
-    "subtitle": "Week 3: Pangngalan",
-    "slides": [
-      {
-        "title": "Lesson: Pangngalan",
-        "text": "Today we will learn about Pangngalan. This is an important topic in Filipino that helps us build strong foundational skills. Try to follow along carefully and complete the exercises.",
-        "examples": [
-          {
-            "title": "Example A",
-            "content": "A detailed example explaining how this works in practice."
-          },
-          {
-            "title": "Example B",
-            "content": "Another practical scenario to make it easy to remember."
-          }
-        ]
-      },
-      {
-        "title": "Deep Dive Study",
-        "text": "Let's investigate the rules and principles of this topic. Remember to practice regularly to master this subject.",
-        "examples": [
-          {
-            "title": "Practice Tip",
-            "content": "Discuss what you learned today with your parents or classmates."
-          }
-        ]
-      }
-    ],
-    "quiz": [
-      {
-        "type": "choice",
-        "q": "Question 1: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 2: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 3: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 4: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 5: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 6: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 7: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 8: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 9: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 10: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 11: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 12: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 13: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 14: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 15: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 16: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 17: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 18: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 19: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 20: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 21: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 22: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 23: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 24: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 25: What is the correct answer for Pangngalan?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      }
-    ],
-    "challenge": [
-      {
-        "type": "choice",
-        "q": "Challenge Question 1",
-        "options": [
-          "Option A (Correct)",
-          "Option B"
-        ],
-        "answer": "Option A (Correct)"
-      },
-      {
-        "type": "tf",
-        "q": "Challenge Question 2: Is this statement correct?",
-        "answer": true
-      },
-      {
-        "type": "blank",
-        "q": "Challenge Question 3: Type the word 'correct'.",
-        "answer": "correct"
-      },
-      {
-        "type": "choice",
-        "q": "Challenge Question 4",
-        "options": [
-          "1",
-          "2",
-          "3"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "choice",
-        "q": "Challenge Question 5",
-        "options": [
-          "Correct",
-          "Wrong"
-        ],
-        "answer": "Correct"
-      }
-    ],
-    "performance": {
-      "type": "performance",
-      "title": "Performance Task: Filipino Week 3",
-      "desc": "Create a short presentation or drawing describing what you learned about Pangngalan. Show and explain it to your parent or guardian.",
-      "labels": [
-        "Content accuracy",
-        "Neatness and organization",
-        "Verbal presentation and explanation"
-      ]
-    },
-    "worksheet": {
-      "pages": [
-        "<div class=\"ws-page-content\">\n                             <h3>Worksheet Exercise 1</h3>\n                             <p class=\"ws-instruction\">Write the correct answer using your stylus.</p>\n                             <div class=\"ws-item-row\"><div class=\"ws-q\">1. Solve the first problem: <span class=\"ws-answer\">Correct Answer</span></div></div>\n                           </div>"
-      ]
-    }
-  },
-  "makabansa": {
-    "color": "#f59e0b",
-    "icon": "🏘️",
-    "title": "Makabansa",
-    "subtitle": "Week 3: Tungkulin sa Pamilya",
-    "slides": [
-      {
-        "title": "Lesson: Tungkulin sa Pamilya",
-        "text": "Today we will learn about Tungkulin sa Pamilya. This is an important topic in Makabansa that helps us build strong foundational skills. Try to follow along carefully and complete the exercises.",
-        "examples": [
-          {
-            "title": "Example A",
-            "content": "A detailed example explaining how this works in practice."
-          },
-          {
-            "title": "Example B",
-            "content": "Another practical scenario to make it easy to remember."
-          }
-        ]
-      },
-      {
-        "title": "Deep Dive Study",
-        "text": "Let's investigate the rules and principles of this topic. Remember to practice regularly to master this subject.",
-        "examples": [
-          {
-            "title": "Practice Tip",
-            "content": "Discuss what you learned today with your parents or classmates."
-          }
-        ]
-      }
-    ],
-    "quiz": [
-      {
-        "type": "choice",
-        "q": "Question 1: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 2: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 3: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 4: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 5: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 6: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 7: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 8: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 9: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 10: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 11: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 12: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 13: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 14: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 15: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 16: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 17: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 18: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 19: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 20: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 21: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 22: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 23: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 24: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 25: What is the correct answer for Tungkulin sa Pamilya?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      }
-    ],
-    "challenge": [
-      {
-        "type": "choice",
-        "q": "Challenge Question 1",
-        "options": [
-          "Option A (Correct)",
-          "Option B"
-        ],
-        "answer": "Option A (Correct)"
-      },
-      {
-        "type": "tf",
-        "q": "Challenge Question 2: Is this statement correct?",
-        "answer": true
-      },
-      {
-        "type": "blank",
-        "q": "Challenge Question 3: Type the word 'correct'.",
-        "answer": "correct"
-      },
-      {
-        "type": "choice",
-        "q": "Challenge Question 4",
-        "options": [
-          "1",
-          "2",
-          "3"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "choice",
-        "q": "Challenge Question 5",
-        "options": [
-          "Correct",
-          "Wrong"
-        ],
-        "answer": "Correct"
-      }
-    ],
-    "performance": {
-      "type": "performance",
-      "title": "Performance Task: Makabansa Week 3",
-      "desc": "Create a short presentation or drawing describing what you learned about Tungkulin sa Pamilya. Show and explain it to your parent or guardian.",
-      "labels": [
-        "Content accuracy",
-        "Neatness and organization",
-        "Verbal presentation and explanation"
-      ]
-    },
-    "worksheet": {
-      "pages": [
-        "<div class=\"ws-page-content\">\n                             <h3>Worksheet Exercise 1</h3>\n                             <p class=\"ws-instruction\">Write the correct answer using your stylus.</p>\n                             <div class=\"ws-item-row\"><div class=\"ws-q\">1. Solve the first problem: <span class=\"ws-answer\">Correct Answer</span></div></div>\n                           </div>"
-      ]
-    }
-  },
-  "gmrc": {
-    "color": "#06b6d4",
-    "icon": "🧘‍♂️",
-    "title": "GMRC",
-    "subtitle": "Week 3: Pagsunod sa Magulang",
-    "slides": [
-      {
-        "title": "Lesson: Pagsunod sa Magulang",
-        "text": "Today we will learn about Pagsunod sa Magulang. This is an important topic in GMRC that helps us build strong foundational skills. Try to follow along carefully and complete the exercises.",
-        "examples": [
-          {
-            "title": "Example A",
-            "content": "A detailed example explaining how this works in practice."
-          },
-          {
-            "title": "Example B",
-            "content": "Another practical scenario to make it easy to remember."
-          }
-        ]
-      },
-      {
-        "title": "Deep Dive Study",
-        "text": "Let's investigate the rules and principles of this topic. Remember to practice regularly to master this subject.",
-        "examples": [
-          {
-            "title": "Practice Tip",
-            "content": "Discuss what you learned today with your parents or classmates."
-          }
-        ]
-      }
-    ],
-    "quiz": [
-      {
-        "type": "choice",
-        "q": "Question 1: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 2: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 3: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 4: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 5: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 6: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 7: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 8: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 9: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 10: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 11: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 12: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 13: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 14: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 15: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 16: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 17: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 18: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 19: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 20: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 21: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 22: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 23: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 24: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      },
-      {
-        "type": "choice",
-        "q": "Question 25: What is the correct answer for Pagsunod sa Magulang?",
-        "options": [
-          "Answer A (Correct)",
-          "Answer B",
-          "Answer C",
-          "Answer D"
-        ],
-        "answer": "Answer A (Correct)"
-      }
-    ],
-    "challenge": [
-      {
-        "type": "choice",
-        "q": "Challenge Question 1",
-        "options": [
-          "Option A (Correct)",
-          "Option B"
-        ],
-        "answer": "Option A (Correct)"
-      },
-      {
-        "type": "tf",
-        "q": "Challenge Question 2: Is this statement correct?",
-        "answer": true
-      },
-      {
-        "type": "blank",
-        "q": "Challenge Question 3: Type the word 'correct'.",
-        "answer": "correct"
-      },
-      {
-        "type": "choice",
-        "q": "Challenge Question 4",
-        "options": [
-          "1",
-          "2",
-          "3"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "choice",
-        "q": "Challenge Question 5",
-        "options": [
-          "Correct",
-          "Wrong"
-        ],
-        "answer": "Correct"
-      }
-    ],
-    "performance": {
-      "type": "performance",
-      "title": "Performance Task: GMRC Week 3",
-      "desc": "Create a short presentation or drawing describing what you learned about Pagsunod sa Magulang. Show and explain it to your parent or guardian.",
-      "labels": [
-        "Content accuracy",
-        "Neatness and organization",
-        "Verbal presentation and explanation"
-      ]
-    },
-    "worksheet": {
-      "pages": [
-        "<div class=\"ws-page-content\">\n                             <h3>Worksheet Exercise 1</h3>\n                             <p class=\"ws-instruction\">Write the correct answer using your stylus.</p>\n                             <div class=\"ws-item-row\"><div class=\"ws-q\">1. Solve the first problem: <span class=\"ws-answer\">Correct Answer</span></div></div>\n                           </div>"
-      ]
-    }
-  },
-  "reading": {
-    "monday": {
-      "type": "Maikling Kwento (Short Story)",
-      "title": "Ang Matulunging Langgam (Monday) - Week 3",
-      "slides": [
+window.WEEK3_DATA = {};
+
+window.WEEK3_DATA.math = {
+  "color": "#3b82f6",
+  "icon": "🔢",
+  "title": "Mathematics",
+  "subtitle": "Week 3: Addition & Subtraction up to 20",
+  "slides": [
+    {
+      "title": "Introduction to Week 3: Addition & Subtraction up to 20",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Mathematics.",
+      "examples": [
         {
-          "title": "Story Part 1 (Monday)",
-          "text": "Si Lino ay isang maliit ngunit napakasipag at matulunging pulang langgam na nakatira sa isang malaking puno ng manga sa tabi ng isang payapang sapa. Araw-araw, gigising si Lino bago pa man sumikat ang gintong araw upang maghanap ng pagkain na maiipon para sa darating na panahon ng tag-ulan. Alam ni Lino na mahirap lumabas kapag malakas ang buhos ng ulan kaya kailangan niyang maghanda ng maaga. Habang naglalakad siya sa ilalim ng mga tuyong dahon, nakita niya ang kanyang mga kaibigan na sina Dodo ang tipaklong at Kikoy ang kuliglig. Sila ay naglalaro at kumakanta lamang sa ilalim ng lilim. Tinawag nila si Lino upang makipaglaro. 'Lino, halika muna rito at magpahinga ka! Masarap ang simoy ng hangin ngayon!' wika ni Dodo habang tumatawa at tumutugtog ng kanyang maliit na biyolin. Ngunit magalang na tumanggi si Lino at sinabing kailangan niyang tapusin ang kanyang gawain para sa kaligtasan ng kanyang pamilya."
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 3: Addition & Subtraction up to 20 and apply them in daily situations."
         },
         {
-          "title": "Story Part 2 (Monday)",
-          "text": "Lumipas ang ilang linggo at dumating nga ang malakas na bagyo na may kasamang matinding hangin at baha. Ang sapa ay umapaw at ang buong paligid ay nabasa. Ligtas na nakatira si Lino at ang kanyang pamilya sa loob ng kanilang mainit at tuyong bahay sa ilalim ng ugat ng puno ng manga, busog na busog sa mga naipong pagkain. Habang nakikinig sila sa tunog ng malalakas na patak ng ulan, narinig ni Lino ang mahinang boses sa labas. Nang sumilip siya sa maliit na siwang, nakita niya sina Dodo at Kikoy na nanginginig sa lamig at gutom na gutom, basang-basa ang kanilang mga pakpak at walang masisilungan. Mabilis na binuksan ni Lino ang kanyang pinto at pinapasok ang mga kaibigan. Binigyan niya sila ng tuyong dahon bilang kumot at hinati ang kanyang pagkain upang mabusog sila. Labis ang pasasalamat ng dalawa sa kabaitan ni Lino."
-        },
-        {
-          "title": "Story Part 3 (Monday)",
-          "text": "Nang matapos ang bagyo at sumikat muli ang araw, nagpasya sina Dodo at Kikoy na magbago. Nangako sila kay Lino na simula sa araw na iyon ay tutularan na nila ang kanyang pagiging masipag at handa. Nagtulung-tulong silang tatlo sa paglilinis ng kapaligiran at pag-iipon ng pagkain para sa susunod na panahon. Napatunayan nila na ang pagiging maagap at pagtulong sa kapwa ay nagdudulot ng kaligtasan at kaligayahan sa buong komunidad. Mula noon, naging mas masaya ang kanilang samahan sa kagubatan. Nalaman ng lahat ng hayop ang kabayanihan ni Lino, at siya ay naging huwaran ng lahat ng mga batang langgam sa kanilang bayan. Ito ay kuwento ng tunay na pagkakaibigan at pagtutulungan sa oras ng matinding pangangailangan na hindi dapat kalimutan."
-        },
-        {
-          "title": "Talasalitaan (Vocabulary)",
-          "text": "Talasalitaan:\n• Sipag - Pagiging masigasig sa paggawa.\n• Ipon - Pagtitipon para sa hinaharap.\n• Bagyo - Masamang panahon na may ulan at hangin.\n\nPhonics: Bigkasin ang salitang 'Langgam' at 'Sapa'."
-        },
-        {
-          "title": "Mga Tanong sa Pag-unawa",
-          "text": "Mga Tanong:\n1. Sino ang matulunging langgam sa kwento?\n2. Ano ang ginawa nina Dodo at Kikoy?\n3. Paano tinulungan ni Lino ang kanyang mga kaibigan?"
-        },
-        {
-          "title": "Mabuting Aral at Pagninilay",
-          "text": "Aral: Ang pagiging masipag at handa sa darating na pagsubok ay nagliligtas sa atin sa hirap. Ang pagtulong sa kapwa nang walang hinihintay na kapalit ay tanda ng mabuting puso."
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
         }
       ]
     },
-    "tuesday": {
-      "type": "Maikling Kwento (Short Story)",
-      "title": "Ang Matulunging Langgam (Tuesday) - Week 3",
-      "slides": [
+    {
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
         {
-          "title": "Story Part 1 (Tuesday)",
-          "text": "Si Lino ay isang maliit ngunit napakasipag at matulunging pulang langgam na nakatira sa isang malaking puno ng manga sa tabi ng isang payapang sapa. Araw-araw, gigising si Lino bago pa man sumikat ang gintong araw upang maghanap ng pagkain na maiipon para sa darating na panahon ng tag-ulan. Alam ni Lino na mahirap lumabas kapag malakas ang buhos ng ulan kaya kailangan niyang maghanda ng maaga. Habang naglalakad siya sa ilalim ng mga tuyong dahon, nakita niya ang kanyang mga kaibigan na sina Dodo ang tipaklong at Kikoy ang kuliglig. Sila ay naglalaro at kumakanta lamang sa ilalim ng lilim. Tinawag nila si Lino upang makipaglaro. 'Lino, halika muna rito at magpahinga ka! Masarap ang simoy ng hangin ngayon!' wika ni Dodo habang tumatawa at tumutugtog ng kanyang maliit na biyolin. Ngunit magalang na tumanggi si Lino at sinabing kailangan niyang tapusin ang kanyang gawain para sa kaligtasan ng kanyang pamilya."
+          "title": "Term 1: Counting",
+          "content": "A foundational concept in Mathematics that helps us categorize and understand details."
         },
         {
-          "title": "Story Part 2 (Tuesday)",
-          "text": "Lumipas ang ilang linggo at dumating nga ang malakas na bagyo na may kasamang matinding hangin at baha. Ang sapa ay umapaw at ang buong paligid ay nabasa. Ligtas na nakatira si Lino at ang kanyang pamilya sa loob ng kanilang mainit at tuyong bahay sa ilalim ng ugat ng puno ng manga, busog na busog sa mga naipong pagkain. Habang nakikinig sila sa tunog ng malalakas na patak ng ulan, narinig ni Lino ang mahinang boses sa labas. Nang sumilip siya sa maliit na siwang, nakita niya sina Dodo at Kikoy na nanginginig sa lamig at gutom na gutom, basang-basa ang kanilang mga pakpak at walang masisilungan. Mabilis na binuksan ni Lino ang kanyang pinto at pinapasok ang mga kaibigan. Binigyan niya sila ng tuyong dahon bilang kumot at hinati ang kanyang pagkain upang mabusog sila. Labis ang pasasalamat ng dalawa sa kabaitan ni Lino."
-        },
-        {
-          "title": "Story Part 3 (Tuesday)",
-          "text": "Nang matapos ang bagyo at sumikat muli ang araw, nagpasya sina Dodo at Kikoy na magbago. Nangako sila kay Lino na simula sa araw na iyon ay tutularan na nila ang kanyang pagiging masipag at handa. Nagtulung-tulong silang tatlo sa paglilinis ng kapaligiran at pag-iipon ng pagkain para sa susunod na panahon. Napatunayan nila na ang pagiging maagap at pagtulong sa kapwa ay nagdudulot ng kaligtasan at kaligayahan sa buong komunidad. Mula noon, naging mas masaya ang kanilang samahan sa kagubatan. Nalaman ng lahat ng hayop ang kabayanihan ni Lino, at siya ay naging huwaran ng lahat ng mga batang langgam sa kanilang bayan. Ito ay kuwento ng tunay na pagkakaibigan at pagtutulungan sa oras ng matinding pangangailangan na hindi dapat kalimutan."
-        },
-        {
-          "title": "Talasalitaan (Vocabulary)",
-          "text": "Talasalitaan:\n• Sipag - Pagiging masigasig sa paggawa.\n• Ipon - Pagtitipon para sa hinaharap.\n• Bagyo - Masamang panahon na may ulan at hangin.\n\nPhonics: Bigkasin ang salitang 'Langgam' at 'Sapa'."
-        },
-        {
-          "title": "Mga Tanong sa Pag-unawa",
-          "text": "Mga Tanong:\n1. Sino ang matulunging langgam sa kwento?\n2. Ano ang ginawa nina Dodo at Kikoy?\n3. Paano tinulungan ni Lino ang kanyang mga kaibigan?"
-        },
-        {
-          "title": "Mabuting Aral at Pagninilay",
-          "text": "Aral: Ang pagiging masipag at handa sa darating na pagsubok ay nagliligtas sa atin sa hirap. Ang pagtulong sa kapwa nang walang hinihintay na kapalit ay tanda ng mabuting puso."
+          "title": "Term 2: Comparing",
+          "content": "An active process or skill used to analyze situations and solve problems."
         }
       ]
     },
-    "wednesday": {
-      "type": "Maikling Kwento (Short Story)",
-      "title": "Ang Matulunging Langgam (Wednesday) - Week 3",
-      "slides": [
+    {
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 3: Addition & Subtraction up to 20. By looking closely at how these ideas work together, we can build a strong understanding of Mathematics.",
+      "examples": [
         {
-          "title": "Story Part 1 (Wednesday)",
-          "text": "Si Lino ay isang maliit ngunit napakasipag at matulunging pulang langgam na nakatira sa isang malaking puno ng manga sa tabi ng isang payapang sapa. Araw-araw, gigising si Lino bago pa man sumikat ang gintong araw upang maghanap ng pagkain na maiipon para sa darating na panahon ng tag-ulan. Alam ni Lino na mahirap lumabas kapag malakas ang buhos ng ulan kaya kailangan niyang maghanda ng maaga. Habang naglalakad siya sa ilalim ng mga tuyong dahon, nakita niya ang kanyang mga kaibigan na sina Dodo ang tipaklong at Kikoy ang kuliglig. Sila ay naglalaro at kumakanta lamang sa ilalim ng lilim. Tinawag nila si Lino upang makipaglaro. 'Lino, halika muna rito at magpahinga ka! Masarap ang simoy ng hangin ngayon!' wika ni Dodo habang tumatawa at tumutugtog ng kanyang maliit na biyolin. Ngunit magalang na tumanggi si Lino at sinabing kailangan niyang tapusin ang kanyang gawain para sa kaligtasan ng kanyang pamilya."
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 3: Addition & Subtraction up to 20 in simple activities."
         },
         {
-          "title": "Story Part 2 (Wednesday)",
-          "text": "Lumipas ang ilang linggo at dumating nga ang malakas na bagyo na may kasamang matinding hangin at baha. Ang sapa ay umapaw at ang buong paligid ay nabasa. Ligtas na nakatira si Lino at ang kanyang pamilya sa loob ng kanilang mainit at tuyong bahay sa ilalim ng ugat ng puno ng manga, busog na busog sa mga naipong pagkain. Habang nakikinig sila sa tunog ng malalakas na patak ng ulan, narinig ni Lino ang mahinang boses sa labas. Nang sumilip siya sa maliit na siwang, nakita niya sina Dodo at Kikoy na nanginginig sa lamig at gutom na gutom, basang-basa ang kanilang mga pakpak at walang masisilungan. Mabilis na binuksan ni Lino ang kanyang pinto at pinapasok ang mga kaibigan. Binigyan niya sila ng tuyong dahon bilang kumot at hinati ang kanyang pagkain upang mabusog sila. Labis ang pasasalamat ng dalawa sa kabaitan ni Lino."
-        },
-        {
-          "title": "Story Part 3 (Wednesday)",
-          "text": "Nang matapos ang bagyo at sumikat muli ang araw, nagpasya sina Dodo at Kikoy na magbago. Nangako sila kay Lino na simula sa araw na iyon ay tutularan na nila ang kanyang pagiging masipag at handa. Nagtulung-tulong silang tatlo sa paglilinis ng kapaligiran at pag-iipon ng pagkain para sa susunod na panahon. Napatunayan nila na ang pagiging maagap at pagtulong sa kapwa ay nagdudulot ng kaligtasan at kaligayahan sa buong komunidad. Mula noon, naging mas masaya ang kanilang samahan sa kagubatan. Nalaman ng lahat ng hayop ang kabayanihan ni Lino, at siya ay naging huwaran ng lahat ng mga batang langgam sa kanilang bayan. Ito ay kuwento ng tunay na pagkakaibigan at pagtutulungan sa oras ng matinding pangangailangan na hindi dapat kalimutan."
-        },
-        {
-          "title": "Talasalitaan (Vocabulary)",
-          "text": "Talasalitaan:\n• Sipag - Pagiging masigasig sa paggawa.\n• Ipon - Pagtitipon para sa hinaharap.\n• Bagyo - Masamang panahon na may ulan at hangin.\n\nPhonics: Bigkasin ang salitang 'Langgam' at 'Sapa'."
-        },
-        {
-          "title": "Mga Tanong sa Pag-unawa",
-          "text": "Mga Tanong:\n1. Sino ang matulunging langgam sa kwento?\n2. Ano ang ginawa nina Dodo at Kikoy?\n3. Paano tinulungan ni Lino ang kanyang mga kaibigan?"
-        },
-        {
-          "title": "Mabuting Aral at Pagninilay",
-          "text": "Aral: Ang pagiging masipag at handa sa darating na pagsubok ay nagliligtas sa atin sa hirap. Ang pagtulong sa kapwa nang walang hinihintay na kapalit ay tanda ng mabuting puso."
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
         }
       ]
     },
-    "thursday": {
-      "type": "Maikling Kwento (Short Story)",
-      "title": "Ang Matulunging Langgam (Thursday) - Week 3",
-      "slides": [
+    {
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 3: Addition & Subtraction up to 20. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
         {
-          "title": "Story Part 1 (Thursday)",
-          "text": "Si Lino ay isang maliit ngunit napakasipag at matulunging pulang langgam na nakatira sa isang malaking puno ng manga sa tabi ng isang payapang sapa. Araw-araw, gigising si Lino bago pa man sumikat ang gintong araw upang maghanap ng pagkain na maiipon para sa darating na panahon ng tag-ulan. Alam ni Lino na mahirap lumabas kapag malakas ang buhos ng ulan kaya kailangan niyang maghanda ng maaga. Habang naglalakad siya sa ilalim ng mga tuyong dahon, nakita niya ang kanyang mga kaibigan na sina Dodo ang tipaklong at Kikoy ang kuliglig. Sila ay naglalaro at kumakanta lamang sa ilalim ng lilim. Tinawag nila si Lino upang makipaglaro. 'Lino, halika muna rito at magpahinga ka! Masarap ang simoy ng hangin ngayon!' wika ni Dodo habang tumatawa at tumutugtog ng kanyang maliit na biyolin. Ngunit magalang na tumanggi si Lino at sinabing kailangan niyang tapusin ang kanyang gawain para sa kaligtasan ng kanyang pamilya."
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Addition & Subtraction up to 20 to observe the correct outcome."
         },
         {
-          "title": "Story Part 2 (Thursday)",
-          "text": "Lumipas ang ilang linggo at dumating nga ang malakas na bagyo na may kasamang matinding hangin at baha. Ang sapa ay umapaw at ang buong paligid ay nabasa. Ligtas na nakatira si Lino at ang kanyang pamilya sa loob ng kanilang mainit at tuyong bahay sa ilalim ng ugat ng puno ng manga, busog na busog sa mga naipong pagkain. Habang nakikinig sila sa tunog ng malalakas na patak ng ulan, narinig ni Lino ang mahinang boses sa labas. Nang sumilip siya sa maliit na siwang, nakita niya sina Dodo at Kikoy na nanginginig sa lamig at gutom na gutom, basang-basa ang kanilang mga pakpak at walang masisilungan. Mabilis na binuksan ni Lino ang kanyang pinto at pinapasok ang mga kaibigan. Binigyan niya sila ng tuyong dahon bilang kumot at hinati ang kanyang pagkain upang mabusog sila. Labis ang pasasalamat ng dalawa sa kabaitan ni Lino."
-        },
-        {
-          "title": "Story Part 3 (Thursday)",
-          "text": "Nang matapos ang bagyo at sumikat muli ang araw, nagpasya sina Dodo at Kikoy na magbago. Nangako sila kay Lino na simula sa araw na iyon ay tutularan na nila ang kanyang pagiging masipag at handa. Nagtulung-tulong silang tatlo sa paglilinis ng kapaligiran at pag-iipon ng pagkain para sa susunod na panahon. Napatunayan nila na ang pagiging maagap at pagtulong sa kapwa ay nagdudulot ng kaligtasan at kaligayahan sa buong komunidad. Mula noon, naging mas masaya ang kanilang samahan sa kagubatan. Nalaman ng lahat ng hayop ang kabayanihan ni Lino, at siya ay naging huwaran ng lahat ng mga batang langgam sa kanilang bayan. Ito ay kuwento ng tunay na pagkakaibigan at pagtutulungan sa oras ng matinding pangangailangan na hindi dapat kalimutan."
-        },
-        {
-          "title": "Talasalitaan (Vocabulary)",
-          "text": "Talasalitaan:\n• Sipag - Pagiging masigasig sa paggawa.\n• Ipon - Pagtitipon para sa hinaharap.\n• Bagyo - Masamang panahon na may ulan at hangin.\n\nPhonics: Bigkasin ang salitang 'Langgam' at 'Sapa'."
-        },
-        {
-          "title": "Mga Tanong sa Pag-unawa",
-          "text": "Mga Tanong:\n1. Sino ang matulunging langgam sa kwento?\n2. Ano ang ginawa nina Dodo at Kikoy?\n3. Paano tinulungan ni Lino ang kanyang mga kaibigan?"
-        },
-        {
-          "title": "Mabuting Aral at Pagninilay",
-          "text": "Aral: Ang pagiging masipag at handa sa darating na pagsubok ay nagliligtas sa atin sa hirap. Ang pagtulong sa kapwa nang walang hinihintay na kapalit ay tanda ng mabuting puso."
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Addition & Subtraction up to 20 in other contexts."
         }
       ]
     },
-    "friday": {
-      "type": "Maikling Kwento (Short Story)",
-      "title": "Ang Matulunging Langgam (Friday) - Week 3",
-      "slides": [
+    {
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 3: Addition & Subtraction up to 20. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
         {
-          "title": "Story Part 1 (Friday)",
-          "text": "Si Lino ay isang maliit ngunit napakasipag at matulunging pulang langgam na nakatira sa isang malaking puno ng manga sa tabi ng isang payapang sapa. Araw-araw, gigising si Lino bago pa man sumikat ang gintong araw upang maghanap ng pagkain na maiipon para sa darating na panahon ng tag-ulan. Alam ni Lino na mahirap lumabas kapag malakas ang buhos ng ulan kaya kailangan niyang maghanda ng maaga. Habang naglalakad siya sa ilalim ng mga tuyong dahon, nakita niya ang kanyang mga kaibigan na sina Dodo ang tipaklong at Kikoy ang kuliglig. Sila ay naglalaro at kumakanta lamang sa ilalim ng lilim. Tinawag nila si Lino upang makipaglaro. 'Lino, halika muna rito at magpahinga ka! Masarap ang simoy ng hangin ngayon!' wika ni Dodo habang tumatawa at tumutugtog ng kanyang maliit na biyolin. Ngunit magalang na tumanggi si Lino at sinabing kailangan niyang tapusin ang kanyang gawain para sa kaligtasan ng kanyang pamilya."
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Addition & Subtraction up to 20 to observe the correct outcome."
         },
         {
-          "title": "Story Part 2 (Friday)",
-          "text": "Lumipas ang ilang linggo at dumating nga ang malakas na bagyo na may kasamang matinding hangin at baha. Ang sapa ay umapaw at ang buong paligid ay nabasa. Ligtas na nakatira si Lino at ang kanyang pamilya sa loob ng kanilang mainit at tuyong bahay sa ilalim ng ugat ng puno ng manga, busog na busog sa mga naipong pagkain. Habang nakikinig sila sa tunog ng malalakas na patak ng ulan, narinig ni Lino ang mahinang boses sa labas. Nang sumilip siya sa maliit na siwang, nakita niya sina Dodo at Kikoy na nanginginig sa lamig at gutom na gutom, basang-basa ang kanilang mga pakpak at walang masisilungan. Mabilis na binuksan ni Lino ang kanyang pinto at pinapasok ang mga kaibigan. Binigyan niya sila ng tuyong dahon bilang kumot at hinati ang kanyang pagkain upang mabusog sila. Labis ang pasasalamat ng dalawa sa kabaitan ni Lino."
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Addition & Subtraction up to 20 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 3: Addition & Subtraction up to 20. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Addition & Subtraction up to 20 to observe the correct outcome."
         },
         {
-          "title": "Story Part 3 (Friday)",
-          "text": "Nang matapos ang bagyo at sumikat muli ang araw, nagpasya sina Dodo at Kikoy na magbago. Nangako sila kay Lino na simula sa araw na iyon ay tutularan na nila ang kanyang pagiging masipag at handa. Nagtulung-tulong silang tatlo sa paglilinis ng kapaligiran at pag-iipon ng pagkain para sa susunod na panahon. Napatunayan nila na ang pagiging maagap at pagtulong sa kapwa ay nagdudulot ng kaligtasan at kaligayahan sa buong komunidad. Mula noon, naging mas masaya ang kanilang samahan sa kagubatan. Nalaman ng lahat ng hayop ang kabayanihan ni Lino, at siya ay naging huwaran ng lahat ng mga batang langgam sa kanilang bayan. Ito ay kuwento ng tunay na pagkakaibigan at pagtutulungan sa oras ng matinding pangangailangan na hindi dapat kalimutan."
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Addition & Subtraction up to 20 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 3: Addition & Subtraction up to 20. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Addition & Subtraction up to 20 to observe the correct outcome."
         },
         {
-          "title": "Talasalitaan (Vocabulary)",
-          "text": "Talasalitaan:\n• Sipag - Pagiging masigasig sa paggawa.\n• Ipon - Pagtitipon para sa hinaharap.\n• Bagyo - Masamang panahon na may ulan at hangin.\n\nPhonics: Bigkasin ang salitang 'Langgam' at 'Sapa'."
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Addition & Subtraction up to 20 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 3: Addition & Subtraction up to 20. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Addition & Subtraction up to 20 to observe the correct outcome."
         },
         {
-          "title": "Mga Tanong sa Pag-unawa",
-          "text": "Mga Tanong:\n1. Sino ang matulunging langgam sa kwento?\n2. Ano ang ginawa nina Dodo at Kikoy?\n3. Paano tinulungan ni Lino ang kanyang mga kaibigan?"
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Addition & Subtraction up to 20 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 3: Addition & Subtraction up to 20. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Addition & Subtraction up to 20 to observe the correct outcome."
         },
         {
-          "title": "Mabuting Aral at Pagninilay",
-          "text": "Aral: Ang pagiging masipag at handa sa darating na pagsubok ay nagliligtas sa atin sa hirap. Ang pagtulong sa kapwa nang walang hinihintay na kapalit ay tanda ng mabuting puso."
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Addition & Subtraction up to 20 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 3: Addition & Subtraction up to 20. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Addition & Subtraction up to 20 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Addition & Subtraction up to 20 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 3: Addition & Subtraction up to 20. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Addition & Subtraction up to 20 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Addition & Subtraction up to 20 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 3: Addition & Subtraction up to 20. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Addition & Subtraction up to 20 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Addition & Subtraction up to 20 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 3: Addition & Subtraction up to 20. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Addition & Subtraction up to 20 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Addition & Subtraction up to 20 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 3: Addition & Subtraction up to 20. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Addition & Subtraction up to 20 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Addition & Subtraction up to 20 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 3: Addition & Subtraction up to 20. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Addition & Subtraction up to 20 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Addition & Subtraction up to 20 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 3: Addition & Subtraction up to 20. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Addition & Subtraction up to 20 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Addition & Subtraction up to 20 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 3: Addition & Subtraction up to 20. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Addition & Subtraction up to 20 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Addition & Subtraction up to 20 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 3: Addition & Subtraction up to 20. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Addition & Subtraction up to 20 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Addition & Subtraction up to 20 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 3: Addition & Subtraction up to 20 to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 3: Addition & Subtraction up to 20 to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 3: Addition & Subtraction up to 20 to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 3: Addition & Subtraction up to 20 to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 3: Addition & Subtraction up to 20. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
         }
       ]
     }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 3: Addition & Subtraction up to 20?",
+      "options": [
+        "Core term: Comparing",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 3: Addition & Subtraction up to 20?",
+      "options": [
+        "Core term: Addition",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 3: Addition & Subtraction up to 20?",
+      "options": [
+        "Core term: Place value",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 3: Addition & Subtraction up to 20?",
+      "options": [
+        "Core term: Numbers",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 3: Addition & Subtraction up to 20 is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Addition & Subtraction up to 20 are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Addition & Subtraction up to 20 are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 3: Addition & Subtraction up to 20?",
+      "options": [
+        "Core term: Fractions",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 3: Addition & Subtraction up to 20 is a key topic in the study of ___.",
+      "answer": "Mathematics"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 3: Addition & Subtraction up to 20?",
+      "options": [
+        "Core term: Perimeter",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 3: Addition & Subtraction up to 20?",
+      "options": [
+        "Core term: Area",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 3: Addition & Subtraction up to 20 is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Addition & Subtraction up to 20 are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Addition & Subtraction up to 20 are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 3: Addition & Subtraction up to 20?",
+      "options": [
+        "Core term: Comparing",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 3: Addition & Subtraction up to 20?",
+      "options": [
+        "Core term: Addition",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 3: Addition & Subtraction up to 20?",
+      "options": [
+        "Core term: Place value",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 3: Addition & Subtraction up to 20 is a key topic in the study of ___.",
+      "answer": "Mathematics"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 3: Addition & Subtraction up to 20 is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Addition & Subtraction up to 20 are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Addition & Subtraction up to 20 are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 3: Addition & Subtraction up to 20?",
+      "options": [
+        "Core term: Fractions",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 3: Addition & Subtraction up to 20?",
+      "options": [
+        "Core term: Multiplication",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 3: Addition & Subtraction up to 20?",
+      "options": [
+        "Core term: Perimeter",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 3: Addition & Subtraction up to 20?",
+      "options": [
+        "Core term: Area",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 3: Addition & Subtraction up to 20 is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Addition & Subtraction up to 20 are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Addition & Subtraction up to 20 are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 3: Addition & Subtraction up to 20 is a key topic in the study of ___.",
+      "answer": "Mathematics"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 3: Addition & Subtraction up to 20?",
+      "options": [
+        "Core term: Addition",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 3: Addition & Subtraction up to 20?",
+      "options": [
+        "Core term: Place value",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 3: Addition & Subtraction up to 20?",
+      "options": [
+        "Core term: Numbers",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 3: Addition & Subtraction up to 20 is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Addition & Subtraction up to 20 are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Addition & Subtraction up to 20 are not relevant to these cases."
+      ],
+      "answer": 0
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "Challenge 1: In a complex situation involving Week 3: Addition & Subtraction up to 20, what is the first priority?",
+      "options": [
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: Addition & Subtraction up to 20?",
+      "options": [
+        "The primary variable: Counting",
+        "An external variable",
+        "No variable",
+        "All variables equally"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 3: Addition & Subtraction up to 20.",
+      "options": [
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: Addition & Subtraction up to 20?",
+      "answer": "comparing"
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 3: Addition & Subtraction up to 20?",
+      "options": [
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
+      ],
+      "answer": 0
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Interactive Task: Week 3: Addition & Subtraction up to 20",
+    "desc": "Perform a simple observation of Week 3: Addition & Subtraction up to 20 at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "labels": [
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: Addition & Subtraction up to 20</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: Addition & Subtraction up to 20 and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Comparing and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: Addition & Subtraction up to 20.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of counting</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: Addition & Subtraction up to 20.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+    ]
   }
 };
 
-window.WEEK3_ADVANCED_DATA = {
-  "math": {
-    "color": "#3b82f6",
-    "icon": "🔢",
-    "title": "Mathematics (Advanced)",
-    "subtitle": "Week 3: Advanced Addition up to 1,000",
-    "slides": [
-      {
-        "title": "Advanced Lesson: Advanced Addition up to 1,000",
-        "text": "Welcome to the Advanced track! Today we explore Advanced Addition up to 1,000 which bridges your knowledge into higher-level concepts. Practice solving these problems and explaining them to your parents.",
-        "examples": [
-          {
-            "title": "Advanced Example 1",
-            "content": "An explanation of how this higher-level concept is used."
-          },
-          {
-            "title": "Advanced Example 2",
-            "content": "Another advanced application to test your reasoning."
-          }
-        ]
-      }
-    ],
-    "quiz": [
-      {
-        "type": "choice",
-        "q": "Advanced Question 1: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 2: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 3: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 4: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 5: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 6: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 7: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 8: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 9: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 10: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 11: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 12: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 13: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 14: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 15: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 16: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 17: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 18: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 19: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 20: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 21: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 22: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 23: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 24: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 25: Select the correct answer for Advanced Addition up to 1,000.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      }
-    ],
-    "challenge": [
-      {
-        "type": "choice",
-        "q": "Advanced Challenge 1",
-        "options": [
-          "A (Correct)",
-          "B"
-        ],
-        "answer": "A (Correct)"
-      },
-      {
-        "type": "tf",
-        "q": "Advanced Challenge 2",
-        "answer": true
-      },
-      {
-        "type": "blank",
-        "q": "Advanced Challenge 3",
-        "answer": "correct"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Challenge 4",
-        "options": [
-          "1",
-          "2"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Challenge 5",
-        "options": [
-          "Correct",
-          "Wrong"
-        ],
-        "answer": "Correct"
-      }
-    ],
-    "performance": {
-      "type": "performance",
-      "title": "Advanced Performance Task: Mathematics Week 3",
-      "desc": "Research and present a short report on Advanced Addition up to 1,000 to your teacher or family.",
-      "labels": [
-        "Accuracy of advanced content",
-        "Research effort",
-        "Delivery of explanation"
+window.WEEK3_DATA.science = {
+  "color": "#10b981",
+  "icon": "🔬",
+  "title": "Science",
+  "subtitle": "Week 3: Caring for my Body & Hygiene",
+  "slides": [
+    {
+      "title": "Introduction to Week 3: Caring for my Body & Hygiene",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Science.",
+      "examples": [
+        {
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 3: Caring for my Body & Hygiene and apply them in daily situations."
+        },
+        {
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+        }
       ]
     },
-    "worksheet": {
-      "pages": [
-        "<div class=\"ws-page-content\">\n                             <h3>Advanced Worksheet Page 1</h3>\n                             <p class=\"ws-instruction\">Write the correct answer.</p>\n                             <div class=\"ws-item-row\"><div class=\"ws-q\">1. Solve: <span class=\"ws-answer\">Advanced Answer</span></div></div>\n                           </div>"
+    {
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
+        {
+          "title": "Term 1: Observation",
+          "content": "A foundational concept in Science that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Prediction",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
+    },
+    {
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 3: Caring for my Body & Hygiene. By looking closely at how these ideas work together, we can build a strong understanding of Science.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 3: Caring for my Body & Hygiene in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 3: Caring for my Body & Hygiene. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Caring for my Body & Hygiene to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Caring for my Body & Hygiene in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 3: Caring for my Body & Hygiene. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Caring for my Body & Hygiene to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Caring for my Body & Hygiene in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 3: Caring for my Body & Hygiene. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Caring for my Body & Hygiene to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Caring for my Body & Hygiene in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 3: Caring for my Body & Hygiene. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Caring for my Body & Hygiene to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Caring for my Body & Hygiene in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 3: Caring for my Body & Hygiene. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Caring for my Body & Hygiene to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Caring for my Body & Hygiene in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 3: Caring for my Body & Hygiene. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Caring for my Body & Hygiene to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Caring for my Body & Hygiene in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 3: Caring for my Body & Hygiene. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Caring for my Body & Hygiene to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Caring for my Body & Hygiene in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 3: Caring for my Body & Hygiene. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Caring for my Body & Hygiene to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Caring for my Body & Hygiene in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 3: Caring for my Body & Hygiene. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Caring for my Body & Hygiene to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Caring for my Body & Hygiene in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 3: Caring for my Body & Hygiene. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Caring for my Body & Hygiene to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Caring for my Body & Hygiene in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 3: Caring for my Body & Hygiene. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Caring for my Body & Hygiene to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Caring for my Body & Hygiene in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 3: Caring for my Body & Hygiene. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Caring for my Body & Hygiene to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Caring for my Body & Hygiene in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 3: Caring for my Body & Hygiene. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Caring for my Body & Hygiene to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Caring for my Body & Hygiene in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 3: Caring for my Body & Hygiene. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Caring for my Body & Hygiene to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Caring for my Body & Hygiene in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 3: Caring for my Body & Hygiene. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Caring for my Body & Hygiene to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Caring for my Body & Hygiene in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 3: Caring for my Body & Hygiene to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 3: Caring for my Body & Hygiene to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 3: Caring for my Body & Hygiene to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 3: Caring for my Body & Hygiene to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 3: Caring for my Body & Hygiene. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+        }
       ]
     }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 3: Caring for my Body & Hygiene?",
+      "options": [
+        "Core term: Prediction",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 3: Caring for my Body & Hygiene?",
+      "options": [
+        "Core term: Materials",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 3: Caring for my Body & Hygiene?",
+      "options": [
+        "Core term: Body parts",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 3: Caring for my Body & Hygiene?",
+      "options": [
+        "Core term: Senses",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 3: Caring for my Body & Hygiene is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Caring for my Body & Hygiene are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Caring for my Body & Hygiene are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 3: Caring for my Body & Hygiene?",
+      "options": [
+        "Core term: Safety",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 3: Caring for my Body & Hygiene is a key topic in the study of ___.",
+      "answer": "Science"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 3: Caring for my Body & Hygiene?",
+      "options": [
+        "Core term: Liquids",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 3: Caring for my Body & Hygiene?",
+      "options": [
+        "Core term: Gases",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 3: Caring for my Body & Hygiene is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Caring for my Body & Hygiene are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Caring for my Body & Hygiene are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 3: Caring for my Body & Hygiene?",
+      "options": [
+        "Core term: Prediction",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 3: Caring for my Body & Hygiene?",
+      "options": [
+        "Core term: Materials",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 3: Caring for my Body & Hygiene?",
+      "options": [
+        "Core term: Body parts",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 3: Caring for my Body & Hygiene is a key topic in the study of ___.",
+      "answer": "Science"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 3: Caring for my Body & Hygiene is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Caring for my Body & Hygiene are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Caring for my Body & Hygiene are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 3: Caring for my Body & Hygiene?",
+      "options": [
+        "Core term: Safety",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 3: Caring for my Body & Hygiene?",
+      "options": [
+        "Core term: Solids",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 3: Caring for my Body & Hygiene?",
+      "options": [
+        "Core term: Liquids",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 3: Caring for my Body & Hygiene?",
+      "options": [
+        "Core term: Gases",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 3: Caring for my Body & Hygiene is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Caring for my Body & Hygiene are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Caring for my Body & Hygiene are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 3: Caring for my Body & Hygiene is a key topic in the study of ___.",
+      "answer": "Science"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 3: Caring for my Body & Hygiene?",
+      "options": [
+        "Core term: Materials",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 3: Caring for my Body & Hygiene?",
+      "options": [
+        "Core term: Body parts",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 3: Caring for my Body & Hygiene?",
+      "options": [
+        "Core term: Senses",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 3: Caring for my Body & Hygiene is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Caring for my Body & Hygiene are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Caring for my Body & Hygiene are not relevant to these cases."
+      ],
+      "answer": 0
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "Challenge 1: In a complex situation involving Week 3: Caring for my Body & Hygiene, what is the first priority?",
+      "options": [
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: Caring for my Body & Hygiene?",
+      "options": [
+        "The primary variable: Observation",
+        "An external variable",
+        "No variable",
+        "All variables equally"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 3: Caring for my Body & Hygiene.",
+      "options": [
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: Caring for my Body & Hygiene?",
+      "answer": "prediction"
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 3: Caring for my Body & Hygiene?",
+      "options": [
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
+      ],
+      "answer": 0
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Interactive Task: Week 3: Caring for my Body & Hygiene",
+    "desc": "Perform a simple observation of Week 3: Caring for my Body & Hygiene at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "labels": [
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
+    ]
   },
-  "science": {
-    "color": "#10b981",
-    "icon": "🔬",
-    "title": "Science (Advanced)",
-    "subtitle": "Week 3: States of Matter: Changes in Matter",
-    "slides": [
-      {
-        "title": "Advanced Lesson: States of Matter: Changes in Matter",
-        "text": "Welcome to the Advanced track! Today we explore States of Matter: Changes in Matter which bridges your knowledge into higher-level concepts. Practice solving these problems and explaining them to your parents.",
-        "examples": [
-          {
-            "title": "Advanced Example 1",
-            "content": "An explanation of how this higher-level concept is used."
-          },
-          {
-            "title": "Advanced Example 2",
-            "content": "Another advanced application to test your reasoning."
-          }
-        ]
-      }
-    ],
-    "quiz": [
-      {
-        "type": "choice",
-        "q": "Advanced Question 1: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 2: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 3: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 4: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 5: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 6: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 7: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 8: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 9: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 10: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 11: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 12: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 13: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 14: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 15: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 16: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 17: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 18: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 19: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 20: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 21: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 22: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 23: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 24: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 25: Select the correct answer for States of Matter: Changes in Matter.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      }
-    ],
-    "challenge": [
-      {
-        "type": "choice",
-        "q": "Advanced Challenge 1",
-        "options": [
-          "A (Correct)",
-          "B"
-        ],
-        "answer": "A (Correct)"
-      },
-      {
-        "type": "tf",
-        "q": "Advanced Challenge 2",
-        "answer": true
-      },
-      {
-        "type": "blank",
-        "q": "Advanced Challenge 3",
-        "answer": "correct"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Challenge 4",
-        "options": [
-          "1",
-          "2"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Challenge 5",
-        "options": [
-          "Correct",
-          "Wrong"
-        ],
-        "answer": "Correct"
-      }
-    ],
-    "performance": {
-      "type": "performance",
-      "title": "Advanced Performance Task: Science Week 3",
-      "desc": "Research and present a short report on States of Matter: Changes in Matter to your teacher or family.",
-      "labels": [
-        "Accuracy of advanced content",
-        "Research effort",
-        "Delivery of explanation"
-      ]
-    },
-    "worksheet": {
-      "pages": [
-        "<div class=\"ws-page-content\">\n                             <h3>Advanced Worksheet Page 1</h3>\n                             <p class=\"ws-instruction\">Write the correct answer.</p>\n                             <div class=\"ws-item-row\"><div class=\"ws-q\">1. Solve: <span class=\"ws-answer\">Advanced Answer</span></div></div>\n                           </div>"
-      ]
-    }
-  },
-  "english": {
-    "color": "#a855f7",
-    "icon": "🙋‍♂️",
-    "title": "English (Advanced)",
-    "subtitle": "Week 3: Verbs (Action Words)",
-    "slides": [
-      {
-        "title": "Advanced Lesson: Verbs (Action Words)",
-        "text": "Welcome to the Advanced track! Today we explore Verbs (Action Words) which bridges your knowledge into higher-level concepts. Practice solving these problems and explaining them to your parents.",
-        "examples": [
-          {
-            "title": "Advanced Example 1",
-            "content": "An explanation of how this higher-level concept is used."
-          },
-          {
-            "title": "Advanced Example 2",
-            "content": "Another advanced application to test your reasoning."
-          }
-        ]
-      }
-    ],
-    "quiz": [
-      {
-        "type": "choice",
-        "q": "Advanced Question 1: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 2: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 3: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 4: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 5: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 6: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 7: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 8: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 9: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 10: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 11: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 12: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 13: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 14: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 15: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 16: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 17: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 18: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 19: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 20: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 21: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 22: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 23: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 24: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 25: Select the correct answer for Verbs (Action Words).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      }
-    ],
-    "challenge": [
-      {
-        "type": "choice",
-        "q": "Advanced Challenge 1",
-        "options": [
-          "A (Correct)",
-          "B"
-        ],
-        "answer": "A (Correct)"
-      },
-      {
-        "type": "tf",
-        "q": "Advanced Challenge 2",
-        "answer": true
-      },
-      {
-        "type": "blank",
-        "q": "Advanced Challenge 3",
-        "answer": "correct"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Challenge 4",
-        "options": [
-          "1",
-          "2"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Challenge 5",
-        "options": [
-          "Correct",
-          "Wrong"
-        ],
-        "answer": "Correct"
-      }
-    ],
-    "performance": {
-      "type": "performance",
-      "title": "Advanced Performance Task: English Week 3",
-      "desc": "Research and present a short report on Verbs (Action Words) to your teacher or family.",
-      "labels": [
-        "Accuracy of advanced content",
-        "Research effort",
-        "Delivery of explanation"
-      ]
-    },
-    "worksheet": {
-      "pages": [
-        "<div class=\"ws-page-content\">\n                             <h3>Advanced Worksheet Page 1</h3>\n                             <p class=\"ws-instruction\">Write the correct answer.</p>\n                             <div class=\"ws-item-row\"><div class=\"ws-q\">1. Solve: <span class=\"ws-answer\">Advanced Answer</span></div></div>\n                           </div>"
-      ]
-    }
-  },
-  "filipino": {
-    "color": "#ef4444",
-    "icon": "🇵🇭",
-    "title": "Filipino (Advanced)",
-    "subtitle": "Week 3: Pandiwa (Salitang Kilos)",
-    "slides": [
-      {
-        "title": "Advanced Lesson: Pandiwa (Salitang Kilos)",
-        "text": "Welcome to the Advanced track! Today we explore Pandiwa (Salitang Kilos) which bridges your knowledge into higher-level concepts. Practice solving these problems and explaining them to your parents.",
-        "examples": [
-          {
-            "title": "Advanced Example 1",
-            "content": "An explanation of how this higher-level concept is used."
-          },
-          {
-            "title": "Advanced Example 2",
-            "content": "Another advanced application to test your reasoning."
-          }
-        ]
-      }
-    ],
-    "quiz": [
-      {
-        "type": "choice",
-        "q": "Advanced Question 1: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 2: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 3: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 4: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 5: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 6: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 7: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 8: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 9: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 10: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 11: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 12: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 13: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 14: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 15: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 16: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 17: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 18: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 19: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 20: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 21: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 22: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 23: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 24: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 25: Select the correct answer for Pandiwa (Salitang Kilos).",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      }
-    ],
-    "challenge": [
-      {
-        "type": "choice",
-        "q": "Advanced Challenge 1",
-        "options": [
-          "A (Correct)",
-          "B"
-        ],
-        "answer": "A (Correct)"
-      },
-      {
-        "type": "tf",
-        "q": "Advanced Challenge 2",
-        "answer": true
-      },
-      {
-        "type": "blank",
-        "q": "Advanced Challenge 3",
-        "answer": "correct"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Challenge 4",
-        "options": [
-          "1",
-          "2"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Challenge 5",
-        "options": [
-          "Correct",
-          "Wrong"
-        ],
-        "answer": "Correct"
-      }
-    ],
-    "performance": {
-      "type": "performance",
-      "title": "Advanced Performance Task: Filipino Week 3",
-      "desc": "Research and present a short report on Pandiwa (Salitang Kilos) to your teacher or family.",
-      "labels": [
-        "Accuracy of advanced content",
-        "Research effort",
-        "Delivery of explanation"
-      ]
-    },
-    "worksheet": {
-      "pages": [
-        "<div class=\"ws-page-content\">\n                             <h3>Advanced Worksheet Page 1</h3>\n                             <p class=\"ws-instruction\">Write the correct answer.</p>\n                             <div class=\"ws-item-row\"><div class=\"ws-q\">1. Solve: <span class=\"ws-answer\">Advanced Answer</span></div></div>\n                           </div>"
-      ]
-    }
-  },
-  "makabansa": {
-    "color": "#f59e0b",
-    "icon": "🏘️",
-    "title": "Makabansa (Advanced)",
-    "subtitle": "Week 3: Pagtutulungan sa Komunidad",
-    "slides": [
-      {
-        "title": "Advanced Lesson: Pagtutulungan sa Komunidad",
-        "text": "Welcome to the Advanced track! Today we explore Pagtutulungan sa Komunidad which bridges your knowledge into higher-level concepts. Practice solving these problems and explaining them to your parents.",
-        "examples": [
-          {
-            "title": "Advanced Example 1",
-            "content": "An explanation of how this higher-level concept is used."
-          },
-          {
-            "title": "Advanced Example 2",
-            "content": "Another advanced application to test your reasoning."
-          }
-        ]
-      }
-    ],
-    "quiz": [
-      {
-        "type": "choice",
-        "q": "Advanced Question 1: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 2: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 3: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 4: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 5: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 6: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 7: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 8: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 9: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 10: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 11: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 12: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 13: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 14: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 15: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 16: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 17: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 18: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 19: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 20: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 21: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 22: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 23: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 24: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 25: Select the correct answer for Pagtutulungan sa Komunidad.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      }
-    ],
-    "challenge": [
-      {
-        "type": "choice",
-        "q": "Advanced Challenge 1",
-        "options": [
-          "A (Correct)",
-          "B"
-        ],
-        "answer": "A (Correct)"
-      },
-      {
-        "type": "tf",
-        "q": "Advanced Challenge 2",
-        "answer": true
-      },
-      {
-        "type": "blank",
-        "q": "Advanced Challenge 3",
-        "answer": "correct"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Challenge 4",
-        "options": [
-          "1",
-          "2"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Challenge 5",
-        "options": [
-          "Correct",
-          "Wrong"
-        ],
-        "answer": "Correct"
-      }
-    ],
-    "performance": {
-      "type": "performance",
-      "title": "Advanced Performance Task: Makabansa Week 3",
-      "desc": "Research and present a short report on Pagtutulungan sa Komunidad to your teacher or family.",
-      "labels": [
-        "Accuracy of advanced content",
-        "Research effort",
-        "Delivery of explanation"
-      ]
-    },
-    "worksheet": {
-      "pages": [
-        "<div class=\"ws-page-content\">\n                             <h3>Advanced Worksheet Page 1</h3>\n                             <p class=\"ws-instruction\">Write the correct answer.</p>\n                             <div class=\"ws-item-row\"><div class=\"ws-q\">1. Solve: <span class=\"ws-answer\">Advanced Answer</span></div></div>\n                           </div>"
-      ]
-    }
-  },
-  "gmrc": {
-    "color": "#06b6d4",
-    "icon": "🧘‍♂️",
-    "title": "GMRC (Advanced)",
-    "subtitle": "Week 3: Pakikipagtulungan sa Paglilinis",
-    "slides": [
-      {
-        "title": "Advanced Lesson: Pakikipagtulungan sa Paglilinis",
-        "text": "Welcome to the Advanced track! Today we explore Pakikipagtulungan sa Paglilinis which bridges your knowledge into higher-level concepts. Practice solving these problems and explaining them to your parents.",
-        "examples": [
-          {
-            "title": "Advanced Example 1",
-            "content": "An explanation of how this higher-level concept is used."
-          },
-          {
-            "title": "Advanced Example 2",
-            "content": "Another advanced application to test your reasoning."
-          }
-        ]
-      }
-    ],
-    "quiz": [
-      {
-        "type": "choice",
-        "q": "Advanced Question 1: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 2: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 3: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 4: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 5: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 6: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 7: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 8: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 9: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 10: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 11: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 12: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 13: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 14: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 15: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 16: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 17: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 18: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 19: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 20: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 21: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 22: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 23: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 24: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Question 25: Select the correct answer for Pakikipagtulungan sa Paglilinis.",
-        "options": [
-          "Correct Option (A)",
-          "Incorrect Option (B)",
-          "Incorrect Option (C)",
-          "Incorrect Option (D)"
-        ],
-        "answer": "Correct Option (A)"
-      }
-    ],
-    "challenge": [
-      {
-        "type": "choice",
-        "q": "Advanced Challenge 1",
-        "options": [
-          "A (Correct)",
-          "B"
-        ],
-        "answer": "A (Correct)"
-      },
-      {
-        "type": "tf",
-        "q": "Advanced Challenge 2",
-        "answer": true
-      },
-      {
-        "type": "blank",
-        "q": "Advanced Challenge 3",
-        "answer": "correct"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Challenge 4",
-        "options": [
-          "1",
-          "2"
-        ],
-        "answer": "1"
-      },
-      {
-        "type": "choice",
-        "q": "Advanced Challenge 5",
-        "options": [
-          "Correct",
-          "Wrong"
-        ],
-        "answer": "Correct"
-      }
-    ],
-    "performance": {
-      "type": "performance",
-      "title": "Advanced Performance Task: GMRC Week 3",
-      "desc": "Research and present a short report on Pakikipagtulungan sa Paglilinis to your teacher or family.",
-      "labels": [
-        "Accuracy of advanced content",
-        "Research effort",
-        "Delivery of explanation"
-      ]
-    },
-    "worksheet": {
-      "pages": [
-        "<div class=\"ws-page-content\">\n                             <h3>Advanced Worksheet Page 1</h3>\n                             <p class=\"ws-instruction\">Write the correct answer.</p>\n                             <div class=\"ws-item-row\"><div class=\"ws-q\">1. Solve: <span class=\"ws-answer\">Advanced Answer</span></div></div>\n                           </div>"
-      ]
-    }
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: Caring for my Body & Hygiene</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: Caring for my Body & Hygiene and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Prediction and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: Caring for my Body & Hygiene.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of observation</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: Caring for my Body & Hygiene.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+    ]
   }
 };
-window.WEEK3_ADVANCED_DATA.reading = window.WEEK3_DATA.reading;
 
-
-// Added weekend readings
-window.WEEK3_DATA.reading.saturday = {
-  "type": "Maikling Kuwento (Short Story)",
-  "title": "Ang Langgam at ang Tipaklong",
+window.WEEK3_DATA.english = {
+  "color": "#8b5cf6",
+  "icon": "📖",
+  "title": "English",
+  "subtitle": "Week 3: Identifying Naming Words",
   "slides": [
     {
-      "title": "Kuwento: Ang Langgam at ang Tipaklong - Bahagi 1",
-      "text": "Noong panahon ng tag-araw, ang buong kagubatan ay napakaganda at puno ng pagkain. Habang si Tipaklong ay masayang kumakanta at sumasayaw sa ilalim ng init ng araw, si Langgam naman ay abalang-abala sa paghahanap at paghahakot ng mga butil ng palay at prutas patungo sa kanyang munting bahay. 'Langgam, halika muna rito at magsaya tayo! Napakaraming pagkain ngayon, bakit ka nagpapapagod?' tanong ni Tipaklong habang tumutugtog ng gitara. Sumagot si Langgam, 'Nag-iipon ako ng pagkain para sa darating na tag-ulan upang hindi kami magutom. Dapat mag-ipon ka na rin, Tipaklong.' Ngunit tinawanan lamang siya ni Tipaklong at nagpatuloy sa paglalaro."
+      "title": "Introduction to Week 3: Identifying Naming Words",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in English.",
+      "examples": [
+        {
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 3: Identifying Naming Words and apply them in daily situations."
+        },
+        {
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+        }
+      ]
     },
     {
-      "title": "Kuwento: Ang Langgam at ang Tipaklong - Bahagi 2",
-      "text": "Mabilis na lumipas ang mga araw at dumating ang panahon ng tag-ulan. Ulan dito, ulan doon, at naging napakalamig ng buong kagubatan. Nabasa ang mga dahon at walang makitang pagkain sa paligid dahil nalubog sa tubig ang mga damo. Ligtas na nanatili si Langgam sa loob ng kanyang tuyo at mainit na tahanan, kasama ang kanyang pamilya habang masayang kumakain ng mga butil na naipon nila noong tag-araw. Samantala, si Tipaklong ay gutom na gutom at nanginginig sa lamig sa labas, walang makitang masisilungan at walang makain."
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
+        {
+          "title": "Term 1: Alphabet",
+          "content": "A foundational concept in English that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Vowels",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
     },
     {
-      "title": "Kuwento: Ang Langgam at ang Tipaklong - Bahagi 3",
-      "text": "Dahil sa matinding gutom, lumapit si Tipaklong sa bahay ni Langgam at kumatok. 'Kaibigang Langgam, pakiusap at bigyan mo ako kahit kaunting pagkain. Nanginginig na ako sa gutom,' pakiusap niya. Nakaramdam ng awa si Langgam, kaya pinapasok niya si Tipaklong at binigyan ng mainit na pagkain at tuyong dahon. 'Salamat, Langgam. Ngayon ay naintindihan ko na kung bakit ka nagtrabaho noong tag-araw habang ako ay naglaro lamang,' wika ni Tipaklong nang may pagsisisi. Nangako si Tipaklong na sa susunod na tag-araw, mag-iipon din siya ng pagkain tulad ng kanyang masipag na kaibigan."
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 3: Identifying Naming Words. By looking closely at how these ideas work together, we can build a strong understanding of English.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 3: Identifying Naming Words in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
     },
     {
-      "title": "Talasalitaan at Pag-aaral ng Salita",
-      "text": "Mga Bokabularyo:\n• Tag-araw - Panahon ng init at sikat ng araw.\n• Paghahakot - Pagsasama-sama o pagdadala ng mga bagay sa isang lugar.\n• Pagsisisi - Pakiramdam ng lungkot dahil sa maling desisyong ginawa.\n\nTutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'l' sa 'langgam', 'lamig', at 'laro'."
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 3: Identifying Naming Words. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Identifying Naming Words to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Identifying Naming Words in other contexts."
+        }
+      ]
     },
     {
-      "title": "Mga Tanong sa Pag-unawa",
-      "text": "Mga Tanong:\n1. Ano ang ginagawa ni Langgam habang naglalaro si Tipaklong?\n2. Ano ang nangyari kay Tipaklong nang dumating ang tag-ulan?\n3. Paano tinulungan ni Langgam si Tipaklong sa dulo ng kwento?"
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 3: Identifying Naming Words. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Identifying Naming Words to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Identifying Naming Words in other contexts."
+        }
+      ]
     },
     {
-      "title": "Mabuting Aral at Pagninilay",
-      "text": "Kaisipan: Ang pagiging masipag at handa sa hinaharap ay nagliligtas sa atin sa hirap.\n\nMay oras para sa paglalaro at may oras para sa pagtatrabaho. Ang pagiging handa ay nagpapakita ng katalinuhan, habang ang pagtulong sa nangangailangan ay nagpapakita ng kabaitan.\n\nTalakayin: Ano ang mga aralin sa paaralan na maaari mong pag-aralan nang maaga upang maging handa sa pagsusulit?"
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 3: Identifying Naming Words. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Identifying Naming Words to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Identifying Naming Words in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 3: Identifying Naming Words. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Identifying Naming Words to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Identifying Naming Words in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 3: Identifying Naming Words. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Identifying Naming Words to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Identifying Naming Words in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 3: Identifying Naming Words. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Identifying Naming Words to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Identifying Naming Words in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 3: Identifying Naming Words. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Identifying Naming Words to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Identifying Naming Words in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 3: Identifying Naming Words. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Identifying Naming Words to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Identifying Naming Words in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 3: Identifying Naming Words. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Identifying Naming Words to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Identifying Naming Words in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 3: Identifying Naming Words. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Identifying Naming Words to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Identifying Naming Words in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 3: Identifying Naming Words. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Identifying Naming Words to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Identifying Naming Words in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 3: Identifying Naming Words. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Identifying Naming Words to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Identifying Naming Words in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 3: Identifying Naming Words. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Identifying Naming Words to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Identifying Naming Words in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 3: Identifying Naming Words. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Identifying Naming Words to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Identifying Naming Words in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 3: Identifying Naming Words. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Identifying Naming Words to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Identifying Naming Words in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 3: Identifying Naming Words to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 3: Identifying Naming Words to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 3: Identifying Naming Words to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 3: Identifying Naming Words to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 3: Identifying Naming Words. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+        }
+      ]
     }
-  ]
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 3: Identifying Naming Words?",
+      "options": [
+        "Core term: Vowels",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 3: Identifying Naming Words?",
+      "options": [
+        "Core term: Consonants",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 3: Identifying Naming Words?",
+      "options": [
+        "Core term: Words",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 3: Identifying Naming Words?",
+      "options": [
+        "Core term: Nouns",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 3: Identifying Naming Words is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Identifying Naming Words are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Identifying Naming Words are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 3: Identifying Naming Words?",
+      "options": [
+        "Core term: Pronouns",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 3: Identifying Naming Words is a key topic in the study of ___.",
+      "answer": "English"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 3: Identifying Naming Words?",
+      "options": [
+        "Core term: Sentences",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 3: Identifying Naming Words?",
+      "options": [
+        "Core term: Synonyms",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 3: Identifying Naming Words is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Identifying Naming Words are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Identifying Naming Words are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 3: Identifying Naming Words?",
+      "options": [
+        "Core term: Vowels",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 3: Identifying Naming Words?",
+      "options": [
+        "Core term: Consonants",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 3: Identifying Naming Words?",
+      "options": [
+        "Core term: Words",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 3: Identifying Naming Words is a key topic in the study of ___.",
+      "answer": "English"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 3: Identifying Naming Words is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Identifying Naming Words are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Identifying Naming Words are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 3: Identifying Naming Words?",
+      "options": [
+        "Core term: Pronouns",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 3: Identifying Naming Words?",
+      "options": [
+        "Core term: Adjectives",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 3: Identifying Naming Words?",
+      "options": [
+        "Core term: Sentences",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 3: Identifying Naming Words?",
+      "options": [
+        "Core term: Synonyms",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 3: Identifying Naming Words is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Identifying Naming Words are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Identifying Naming Words are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 3: Identifying Naming Words is a key topic in the study of ___.",
+      "answer": "English"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 3: Identifying Naming Words?",
+      "options": [
+        "Core term: Consonants",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 3: Identifying Naming Words?",
+      "options": [
+        "Core term: Words",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 3: Identifying Naming Words?",
+      "options": [
+        "Core term: Nouns",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 3: Identifying Naming Words is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Identifying Naming Words are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Identifying Naming Words are not relevant to these cases."
+      ],
+      "answer": 0
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "Challenge 1: In a complex situation involving Week 3: Identifying Naming Words, what is the first priority?",
+      "options": [
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: Identifying Naming Words?",
+      "options": [
+        "The primary variable: Alphabet",
+        "An external variable",
+        "No variable",
+        "All variables equally"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 3: Identifying Naming Words.",
+      "options": [
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: Identifying Naming Words?",
+      "answer": "vowels"
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 3: Identifying Naming Words?",
+      "options": [
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
+      ],
+      "answer": 0
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Interactive Task: Week 3: Identifying Naming Words",
+    "desc": "Perform a simple observation of Week 3: Identifying Naming Words at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "labels": [
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: Identifying Naming Words</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: Identifying Naming Words and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Vowels and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: Identifying Naming Words.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alphabet</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: Identifying Naming Words.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+    ]
+  }
 };
-window.WEEK3_DATA.reading.sunday = {
-  "type": "Maikling Kuwento (Short Story)",
-  "title": "Si Juan Tamad",
+
+window.WEEK3_DATA.filipino = {
+  "color": "#ec4899",
+  "icon": "🗣️",
+  "title": "Filipino",
+  "subtitle": "Week 3: Pangngalan",
   "slides": [
     {
-      "title": "Kuwento: Si Juan Tamad - Bahagi 1",
-      "text": "Sa isang maliit na baryo, may isang batang lalaki na nagngangalang Juan. Dahil sa kanyang labis na katamaran, binansagan siya ng kanyang mga kapitbahay na si Juan Tamad. Tuwing inuutusan siya ng kanyang ina, lagi siyang nagdadahilan o gumagawa ng paraan upang hindi matapos ang gawain. Isang mainit na hapon, habang naglalakad si Juan sa tabi ng kalsada, nakakita siya ng isang puno ng bayabas na puno ng malalaki at hinog na bunga. Gustong-gusto niyang kumain ng bayabas, ngunit napakataas ng puno at ayaw niyang magkapagod sa pag-akyat."
+      "title": "Introduction to Week 3: Pangngalan",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Filipino.",
+      "examples": [
+        {
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 3: Pangngalan and apply them in daily situations."
+        },
+        {
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+        }
+      ]
     },
     {
-      "title": "Kuwento: Si Juan Tamad - Bahagi 2",
-      "text": "Sa halip na umakyat o kumuha ng mahabang kawayan upang sungkitin ang bayabas, humiga si Juan sa ilalim ng puno. Tumingala siya at tinitigan ang isang napakahinog na bayabas na nakabitin sa mababang sanga. 'Hihiga na lang ako rito at bubuksan ko ang aking bibig. Hihintayin ko na lang na mahulog ang bayabas sa aking bibig,' sabi ni Juan sa sarili. Nanatili siyang nakahiga sa ilalim ng puno ng ilang oras, habang lumilipas ang araw at nagugutom siya. Ang mga ibon naman ay dumapo sa puno at kinain ang ilang bayabas sa itaas habang pinapanood si Juan."
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
+        {
+          "title": "Term 1: Alpabeto",
+          "content": "A foundational concept in Filipino that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Patinig",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
     },
     {
-      "title": "Kuwento: Si Juan Tamad - Bahagi 3",
-      "text": "Nang dumaan ang kanyang ina sa kalsada at nakita si Juan na nakanganga sa ilalim ng puno, napa-iling ito sa lungkot at galit. 'Juan! Bakit ka nakahiga diyan?' tanong ng ina. 'Ina, hinihintay ko pong mahulog ang bayabas sa aking bibig,' sagot ni Juan. Sinabi ng kanyang ina, 'Napakalaking bayabas niyan, Juan! Kung tumayo ka lamang at kinuha ito gamit ang iyong kamay, kanina ka pa busog! Walang pagkain na kusang mahuhulog sa bibig ng taong ayaw gumawa.' Nahiya si Juan at tumayo upang tulungan ang kanyang ina sa pagdadala ng mga kahoy."
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 3: Pangngalan. By looking closely at how these ideas work together, we can build a strong understanding of Filipino.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 3: Pangngalan in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
     },
     {
-      "title": "Talasalitaan at Pag-aaral ng Salita",
-      "text": "Mga Bokabularyo:\n• Binansagan - Binigyan ng palayaw o pangalan batay sa ugali.\n• Sungkitin - Kumuha ng bagay sa itaas gamit ang stick o kawayan.\n• Kusang - Nangyayari nang walang tulong o kusa ng iba.\n\nTutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'j' o 'h' sa 'juan', 'hinog', at 'higa'."
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 3: Pangngalan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pangngalan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pangngalan in other contexts."
+        }
+      ]
     },
     {
-      "title": "Mga Tanong sa Pag-unawa",
-      "text": "Mga Tanong:\n1. Bakit binansagan si Juan na 'Juan Tamad'?\n2. Paano nakuha ni Juan ang bayabas ayon sa kanyang plano?\n3. Ano ang sinabi ng kanyang ina nang makita siyang nakahiga sa ilalim ng puno?"
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 3: Pangngalan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pangngalan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pangngalan in other contexts."
+        }
+      ]
     },
     {
-      "title": "Mabuting Aral at Pagninilay",
-      "text": "Kaisipan: Ang mga pangarap at pangangailangan ay makakamit lamang sa pamamagitan ng pagkilos.\n\nAng katamaran ay nagdadala ng gutom at kawalan ng pag-unlad. Hindi dapat iasa sa tadhana o pagkakataon ang mga bagay na maaari namang pagtrabahuhan.\n\nTalakayin: Ano ang mga layunin mo sa buhay na nangangailangan ng iyong pagsisikap upang maabot?"
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 3: Pangngalan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pangngalan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pangngalan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 3: Pangngalan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pangngalan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pangngalan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 3: Pangngalan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pangngalan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pangngalan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 3: Pangngalan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pangngalan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pangngalan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 3: Pangngalan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pangngalan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pangngalan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 3: Pangngalan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pangngalan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pangngalan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 3: Pangngalan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pangngalan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pangngalan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 3: Pangngalan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pangngalan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pangngalan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 3: Pangngalan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pangngalan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pangngalan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 3: Pangngalan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pangngalan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pangngalan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 3: Pangngalan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pangngalan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pangngalan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 3: Pangngalan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pangngalan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pangngalan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 3: Pangngalan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pangngalan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pangngalan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 3: Pangngalan to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 3: Pangngalan to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 3: Pangngalan to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 3: Pangngalan to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 3: Pangngalan. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+        }
+      ]
     }
-  ]
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 3: Pangngalan?",
+      "options": [
+        "Core term: Patinig",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 3: Pangngalan?",
+      "options": [
+        "Core term: Katinig",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 3: Pangngalan?",
+      "options": [
+        "Core term: Pangngalan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 3: Pangngalan?",
+      "options": [
+        "Core term: Pantangi",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 3: Pangngalan is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Pangngalan are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Pangngalan are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 3: Pangngalan?",
+      "options": [
+        "Core term: Panghalip",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 3: Pangngalan is a key topic in the study of ___.",
+      "answer": "Filipino"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 3: Pangngalan?",
+      "options": [
+        "Core term: Pang-uri",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 3: Pangngalan?",
+      "options": [
+        "Core term: Pang-abay",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 3: Pangngalan is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Pangngalan are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Pangngalan are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 3: Pangngalan?",
+      "options": [
+        "Core term: Patinig",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 3: Pangngalan?",
+      "options": [
+        "Core term: Katinig",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 3: Pangngalan?",
+      "options": [
+        "Core term: Pangngalan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 3: Pangngalan is a key topic in the study of ___.",
+      "answer": "Filipino"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 3: Pangngalan is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Pangngalan are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Pangngalan are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 3: Pangngalan?",
+      "options": [
+        "Core term: Panghalip",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 3: Pangngalan?",
+      "options": [
+        "Core term: Pandiwa",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 3: Pangngalan?",
+      "options": [
+        "Core term: Pang-uri",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 3: Pangngalan?",
+      "options": [
+        "Core term: Pang-abay",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 3: Pangngalan is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Pangngalan are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Pangngalan are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 3: Pangngalan is a key topic in the study of ___.",
+      "answer": "Filipino"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 3: Pangngalan?",
+      "options": [
+        "Core term: Katinig",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 3: Pangngalan?",
+      "options": [
+        "Core term: Pangngalan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 3: Pangngalan?",
+      "options": [
+        "Core term: Pantangi",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 3: Pangngalan is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Pangngalan are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Pangngalan are not relevant to these cases."
+      ],
+      "answer": 0
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "Challenge 1: In a complex situation involving Week 3: Pangngalan, what is the first priority?",
+      "options": [
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: Pangngalan?",
+      "options": [
+        "The primary variable: Alpabeto",
+        "An external variable",
+        "No variable",
+        "All variables equally"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 3: Pangngalan.",
+      "options": [
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: Pangngalan?",
+      "answer": "patinig"
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 3: Pangngalan?",
+      "options": [
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
+      ],
+      "answer": 0
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Interactive Task: Week 3: Pangngalan",
+    "desc": "Perform a simple observation of Week 3: Pangngalan at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "labels": [
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: Pangngalan</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: Pangngalan and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Patinig and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: Pangngalan.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alpabeto</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: Pangngalan.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+    ]
+  }
 };
+
+window.WEEK3_DATA.makabansa = {
+  "color": "#f59e0b",
+  "icon": "🏝️",
+  "title": "Makabansa",
+  "subtitle": "Week 3: Tungkulin sa Pamilya",
+  "slides": [
+    {
+      "title": "Introduction to Week 3: Tungkulin sa Pamilya",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Makabansa.",
+      "examples": [
+        {
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 3: Tungkulin sa Pamilya and apply them in daily situations."
+        },
+        {
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+        }
+      ]
+    },
+    {
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
+        {
+          "title": "Term 1: Sarili",
+          "content": "A foundational concept in Makabansa that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Pamilya",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
+    },
+    {
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 3: Tungkulin sa Pamilya. By looking closely at how these ideas work together, we can build a strong understanding of Makabansa.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 3: Tungkulin sa Pamilya in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 3: Tungkulin sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Tungkulin sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Tungkulin sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 3: Tungkulin sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Tungkulin sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Tungkulin sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 3: Tungkulin sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Tungkulin sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Tungkulin sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 3: Tungkulin sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Tungkulin sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Tungkulin sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 3: Tungkulin sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Tungkulin sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Tungkulin sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 3: Tungkulin sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Tungkulin sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Tungkulin sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 3: Tungkulin sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Tungkulin sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Tungkulin sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 3: Tungkulin sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Tungkulin sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Tungkulin sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 3: Tungkulin sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Tungkulin sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Tungkulin sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 3: Tungkulin sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Tungkulin sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Tungkulin sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 3: Tungkulin sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Tungkulin sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Tungkulin sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 3: Tungkulin sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Tungkulin sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Tungkulin sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 3: Tungkulin sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Tungkulin sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Tungkulin sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 3: Tungkulin sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Tungkulin sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Tungkulin sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 3: Tungkulin sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Tungkulin sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Tungkulin sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 3: Tungkulin sa Pamilya to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 3: Tungkulin sa Pamilya to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 3: Tungkulin sa Pamilya to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 3: Tungkulin sa Pamilya to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 3: Tungkulin sa Pamilya. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+        }
+      ]
+    }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 3: Tungkulin sa Pamilya?",
+      "options": [
+        "Core term: Pamilya",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 3: Tungkulin sa Pamilya?",
+      "options": [
+        "Core term: Tungkulin",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 3: Tungkulin sa Pamilya?",
+      "options": [
+        "Core term: Komunidad",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 3: Tungkulin sa Pamilya?",
+      "options": [
+        "Core term: Kasaysayan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 3: Tungkulin sa Pamilya is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Tungkulin sa Pamilya are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Tungkulin sa Pamilya are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 3: Tungkulin sa Pamilya?",
+      "options": [
+        "Core term: Landmarks",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 3: Tungkulin sa Pamilya is a key topic in the study of ___.",
+      "answer": "Makabansa"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 3: Tungkulin sa Pamilya?",
+      "options": [
+        "Core term: Tradisyon",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 3: Tungkulin sa Pamilya?",
+      "options": [
+        "Core term: Lokasyon",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 3: Tungkulin sa Pamilya is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Tungkulin sa Pamilya are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Tungkulin sa Pamilya are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 3: Tungkulin sa Pamilya?",
+      "options": [
+        "Core term: Pamilya",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 3: Tungkulin sa Pamilya?",
+      "options": [
+        "Core term: Tungkulin",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 3: Tungkulin sa Pamilya?",
+      "options": [
+        "Core term: Komunidad",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 3: Tungkulin sa Pamilya is a key topic in the study of ___.",
+      "answer": "Makabansa"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 3: Tungkulin sa Pamilya is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Tungkulin sa Pamilya are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Tungkulin sa Pamilya are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 3: Tungkulin sa Pamilya?",
+      "options": [
+        "Core term: Landmarks",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 3: Tungkulin sa Pamilya?",
+      "options": [
+        "Core term: Timeline",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 3: Tungkulin sa Pamilya?",
+      "options": [
+        "Core term: Tradisyon",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 3: Tungkulin sa Pamilya?",
+      "options": [
+        "Core term: Lokasyon",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 3: Tungkulin sa Pamilya is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Tungkulin sa Pamilya are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Tungkulin sa Pamilya are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 3: Tungkulin sa Pamilya is a key topic in the study of ___.",
+      "answer": "Makabansa"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 3: Tungkulin sa Pamilya?",
+      "options": [
+        "Core term: Tungkulin",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 3: Tungkulin sa Pamilya?",
+      "options": [
+        "Core term: Komunidad",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 3: Tungkulin sa Pamilya?",
+      "options": [
+        "Core term: Kasaysayan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 3: Tungkulin sa Pamilya is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Tungkulin sa Pamilya are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Tungkulin sa Pamilya are not relevant to these cases."
+      ],
+      "answer": 0
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "Challenge 1: In a complex situation involving Week 3: Tungkulin sa Pamilya, what is the first priority?",
+      "options": [
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: Tungkulin sa Pamilya?",
+      "options": [
+        "The primary variable: Sarili",
+        "An external variable",
+        "No variable",
+        "All variables equally"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 3: Tungkulin sa Pamilya.",
+      "options": [
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: Tungkulin sa Pamilya?",
+      "answer": "pamilya"
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 3: Tungkulin sa Pamilya?",
+      "options": [
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
+      ],
+      "answer": 0
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Interactive Task: Week 3: Tungkulin sa Pamilya",
+    "desc": "Perform a simple observation of Week 3: Tungkulin sa Pamilya at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "labels": [
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: Tungkulin sa Pamilya</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: Tungkulin sa Pamilya and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Pamilya and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: Tungkulin sa Pamilya.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of sarili</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: Tungkulin sa Pamilya.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+    ]
+  }
+};
+
+window.WEEK3_DATA.gmrc = {
+  "color": "#06b6d4",
+  "icon": "🧘‍♂️",
+  "title": "GMRC",
+  "subtitle": "Week 3: Pagsunod sa Magulang",
+  "slides": [
+    {
+      "title": "Introduction to Week 3: Pagsunod sa Magulang",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in GMRC.",
+      "examples": [
+        {
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 3: Pagsunod sa Magulang and apply them in daily situations."
+        },
+        {
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+        }
+      ]
+    },
+    {
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
+        {
+          "title": "Term 1: Pagmamahal",
+          "content": "A foundational concept in GMRC that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Kalinisan",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
+    },
+    {
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 3: Pagsunod sa Magulang. By looking closely at how these ideas work together, we can build a strong understanding of GMRC.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 3: Pagsunod sa Magulang in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 3: Pagsunod sa Magulang. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pagsunod sa Magulang to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pagsunod sa Magulang in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 3: Pagsunod sa Magulang. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pagsunod sa Magulang to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pagsunod sa Magulang in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 3: Pagsunod sa Magulang. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pagsunod sa Magulang to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pagsunod sa Magulang in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 3: Pagsunod sa Magulang. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pagsunod sa Magulang to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pagsunod sa Magulang in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 3: Pagsunod sa Magulang. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pagsunod sa Magulang to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pagsunod sa Magulang in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 3: Pagsunod sa Magulang. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pagsunod sa Magulang to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pagsunod sa Magulang in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 3: Pagsunod sa Magulang. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pagsunod sa Magulang to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pagsunod sa Magulang in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 3: Pagsunod sa Magulang. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pagsunod sa Magulang to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pagsunod sa Magulang in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 3: Pagsunod sa Magulang. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pagsunod sa Magulang to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pagsunod sa Magulang in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 3: Pagsunod sa Magulang. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pagsunod sa Magulang to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pagsunod sa Magulang in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 3: Pagsunod sa Magulang. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pagsunod sa Magulang to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pagsunod sa Magulang in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 3: Pagsunod sa Magulang. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pagsunod sa Magulang to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pagsunod sa Magulang in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 3: Pagsunod sa Magulang. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pagsunod sa Magulang to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pagsunod sa Magulang in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 3: Pagsunod sa Magulang. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pagsunod sa Magulang to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pagsunod sa Magulang in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 3: Pagsunod sa Magulang. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 3: Pagsunod sa Magulang to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 3: Pagsunod sa Magulang in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 3: Pagsunod sa Magulang to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 3: Pagsunod sa Magulang to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 3: Pagsunod sa Magulang to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 3: Pagsunod sa Magulang to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 3: Pagsunod sa Magulang. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+        }
+      ]
+    }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 3: Pagsunod sa Magulang?",
+      "options": [
+        "Core term: Kalinisan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 3: Pagsunod sa Magulang?",
+      "options": [
+        "Core term: Disiplina",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 3: Pagsunod sa Magulang?",
+      "options": [
+        "Core term: Paggalang",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 3: Pagsunod sa Magulang?",
+      "options": [
+        "Core term: Katapatan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 3: Pagsunod sa Magulang is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Pagsunod sa Magulang are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Pagsunod sa Magulang are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 3: Pagsunod sa Magulang?",
+      "options": [
+        "Core term: Pagtitipid",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 3: Pagsunod sa Magulang is a key topic in the study of ___.",
+      "answer": "GMRC"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 3: Pagsunod sa Magulang?",
+      "options": [
+        "Core term: Bayanihan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 3: Pagsunod sa Magulang?",
+      "options": [
+        "Core term: Pag-iimpok",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 3: Pagsunod sa Magulang is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Pagsunod sa Magulang are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Pagsunod sa Magulang are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 3: Pagsunod sa Magulang?",
+      "options": [
+        "Core term: Kalinisan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 3: Pagsunod sa Magulang?",
+      "options": [
+        "Core term: Disiplina",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 3: Pagsunod sa Magulang?",
+      "options": [
+        "Core term: Paggalang",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 3: Pagsunod sa Magulang is a key topic in the study of ___.",
+      "answer": "GMRC"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 3: Pagsunod sa Magulang is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Pagsunod sa Magulang are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Pagsunod sa Magulang are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 3: Pagsunod sa Magulang?",
+      "options": [
+        "Core term: Pagtitipid",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 3: Pagsunod sa Magulang?",
+      "options": [
+        "Core term: Responsable",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 3: Pagsunod sa Magulang?",
+      "options": [
+        "Core term: Bayanihan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 3: Pagsunod sa Magulang?",
+      "options": [
+        "Core term: Pag-iimpok",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 3: Pagsunod sa Magulang is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Pagsunod sa Magulang are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Pagsunod sa Magulang are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 3: Pagsunod sa Magulang is a key topic in the study of ___.",
+      "answer": "GMRC"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 3: Pagsunod sa Magulang?",
+      "options": [
+        "Core term: Disiplina",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 3: Pagsunod sa Magulang?",
+      "options": [
+        "Core term: Paggalang",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 3: Pagsunod sa Magulang?",
+      "options": [
+        "Core term: Katapatan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 3: Pagsunod sa Magulang is correct?",
+      "options": [
+        "Statement A: The core rules of Week 3: Pagsunod sa Magulang are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Pagsunod sa Magulang are not relevant to these cases."
+      ],
+      "answer": 0
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "Challenge 1: In a complex situation involving Week 3: Pagsunod sa Magulang, what is the first priority?",
+      "options": [
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: Pagsunod sa Magulang?",
+      "options": [
+        "The primary variable: Pagmamahal",
+        "An external variable",
+        "No variable",
+        "All variables equally"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 3: Pagsunod sa Magulang.",
+      "options": [
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: Pagsunod sa Magulang?",
+      "answer": "kalinisan"
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 3: Pagsunod sa Magulang?",
+      "options": [
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
+      ],
+      "answer": 0
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Interactive Task: Week 3: Pagsunod sa Magulang",
+    "desc": "Perform a simple observation of Week 3: Pagsunod sa Magulang at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "labels": [
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: Pagsunod sa Magulang</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: Pagsunod sa Magulang and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Kalinisan and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: Pagsunod sa Magulang.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of pagmamahal</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: Pagsunod sa Magulang.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+    ]
+  }
+};
+
+window.WEEK3_DATA.reading = {
+  "monday": {
+    "type": "Maikling Kwento (Short Story)",
+    "title": "Ang Matulunging Langgam (Monday) - Week 3",
+    "slides": [
+      {
+        "title": "Story Part 1 (Monday)",
+        "text": "Si Lino ay isang maliit ngunit napakasipag at matulunging pulang langgam na nakatira sa isang malaking puno ng manga sa tabi ng isang payapang sapa. Araw-araw, gigising si Lino bago pa man sumikat ang gintong araw upang maghanap ng pagkain na maiipon para sa darating na panahon ng tag-ulan. Alam ni Lino na mahirap lumabas kapag malakas ang buhos ng ulan kaya kailangan niyang maghanda ng maaga. Habang naglalakad siya sa ilalim ng mga tuyong dahon, nakita niya ang kanyang mga kaibigan na sina Dodo ang tipaklong at Kikoy ang kuliglig. Sila ay naglalaro at kumakanta lamang sa ilalim ng lilim. Tinawag nila si Lino upang makipaglaro. 'Lino, halika muna rito at magpahinga ka! Masarap ang simoy ng hangin ngayon!' wika ni Dodo habang tumatawa at tumutugtog ng kanyang maliit na biyolin. Ngunit magalang na tumanggi si Lino at sinabing kailangan niyang tapusin ang kanyang gawain para sa kaligtasan ng kanyang pamilya."
+      },
+      {
+        "title": "Story Part 2 (Monday)",
+        "text": "Lumipas ang ilang linggo at dumating nga ang malakas na bagyo na may kasamang matinding hangin at baha. Ang sapa ay umapaw at ang buong paligid ay nabasa. Ligtas na nakatira si Lino at ang kanyang pamilya sa loob ng kanilang mainit at tuyong bahay sa ilalim ng ugat ng puno ng manga, busog na busog sa mga naipong pagkain. Habang nakikinig sila sa tunog ng malalakas na patak ng ulan, narinig ni Lino ang mahinang boses sa labas. Nang sumilip siya sa maliit na siwang, nakita niya sina Dodo at Kikoy na nanginginig sa lamig at gutom na gutom, basang-basa ang kanilang mga pakpak at walang masisilungan. Mabilis na binuksan ni Lino ang kanyang pinto at pinapasok ang mga kaibigan. Binigyan niya sila ng tuyong dahon bilang kumot at hinati ang kanyang pagkain upang mabusog sila. Labis ang pasasalamat ng dalawa sa kabaitan ni Lino."
+      },
+      {
+        "title": "Story Part 3 (Monday)",
+        "text": "Nang matapos ang bagyo at sumikat muli ang araw, nagpasya sina Dodo at Kikoy na magbago. Nangako sila kay Lino na simula sa araw na iyon ay tutularan na nila ang kanyang pagiging masipag at handa. Nagtulung-tulong silang tatlo sa paglilinis ng kapaligiran at pag-iipon ng pagkain para sa susunod na panahon. Napatunayan nila na ang pagiging maagap at pagtulong sa kapwa ay nagdudulot ng kaligtasan at kaligayahan sa buong komunidad. Mula noon, naging mas masaya ang kanilang samahan sa kagubatan. Nalaman ng lahat ng hayop ang kabayanihan ni Lino, at siya ay naging huwaran ng lahat ng mga batang langgam sa kanilang bayan. Ito ay kuwento ng tunay na pagkakaibigan at pagtutulungan sa oras ng matinding pangangailangan na hindi dapat kalimutan."
+      },
+      {
+        "title": "Talasalitaan (Vocabulary)",
+        "text": "Talasalitaan:\n• Sipag - Pagiging masigasig sa paggawa.\n• Ipon - Pagtitipon para sa hinaharap.\n• Bagyo - Masamang panahon na may ulan at hangin.\n\nPhonics: Bigkasin ang salitang 'Langgam' at 'Sapa'."
+      },
+      {
+        "title": "Mga Tanong sa Pag-unawa",
+        "text": "Mga Tanong:\n1. Sino ang matulunging langgam sa kwento?\n2. Ano ang ginawa nina Dodo at Kikoy?\n3. Paano tinulungan ni Lino ang kanyang mga kaibigan?"
+      },
+      {
+        "title": "Mabuting Aral at Pagninilay",
+        "text": "Aral: Ang pagiging masipag at handa sa darating na pagsubok ay nagliligtas sa atin sa hirap. Ang pagtulong sa kapwa nang walang hinihintay na kapalit ay tanda ng mabuting puso."
+      }
+    ]
+  },
+  "tuesday": {
+    "type": "Maikling Kwento (Short Story)",
+    "title": "Ang Matulunging Langgam (Tuesday) - Week 3",
+    "slides": [
+      {
+        "title": "Story Part 1 (Tuesday)",
+        "text": "Si Lino ay isang maliit ngunit napakasipag at matulunging pulang langgam na nakatira sa isang malaking puno ng manga sa tabi ng isang payapang sapa. Araw-araw, gigising si Lino bago pa man sumikat ang gintong araw upang maghanap ng pagkain na maiipon para sa darating na panahon ng tag-ulan. Alam ni Lino na mahirap lumabas kapag malakas ang buhos ng ulan kaya kailangan niyang maghanda ng maaga. Habang naglalakad siya sa ilalim ng mga tuyong dahon, nakita niya ang kanyang mga kaibigan na sina Dodo ang tipaklong at Kikoy ang kuliglig. Sila ay naglalaro at kumakanta lamang sa ilalim ng lilim. Tinawag nila si Lino upang makipaglaro. 'Lino, halika muna rito at magpahinga ka! Masarap ang simoy ng hangin ngayon!' wika ni Dodo habang tumatawa at tumutugtog ng kanyang maliit na biyolin. Ngunit magalang na tumanggi si Lino at sinabing kailangan niyang tapusin ang kanyang gawain para sa kaligtasan ng kanyang pamilya."
+      },
+      {
+        "title": "Story Part 2 (Tuesday)",
+        "text": "Lumipas ang ilang linggo at dumating nga ang malakas na bagyo na may kasamang matinding hangin at baha. Ang sapa ay umapaw at ang buong paligid ay nabasa. Ligtas na nakatira si Lino at ang kanyang pamilya sa loob ng kanilang mainit at tuyong bahay sa ilalim ng ugat ng puno ng manga, busog na busog sa mga naipong pagkain. Habang nakikinig sila sa tunog ng malalakas na patak ng ulan, narinig ni Lino ang mahinang boses sa labas. Nang sumilip siya sa maliit na siwang, nakita niya sina Dodo at Kikoy na nanginginig sa lamig at gutom na gutom, basang-basa ang kanilang mga pakpak at walang masisilungan. Mabilis na binuksan ni Lino ang kanyang pinto at pinapasok ang mga kaibigan. Binigyan niya sila ng tuyong dahon bilang kumot at hinati ang kanyang pagkain upang mabusog sila. Labis ang pasasalamat ng dalawa sa kabaitan ni Lino."
+      },
+      {
+        "title": "Story Part 3 (Tuesday)",
+        "text": "Nang matapos ang bagyo at sumikat muli ang araw, nagpasya sina Dodo at Kikoy na magbago. Nangako sila kay Lino na simula sa araw na iyon ay tutularan na nila ang kanyang pagiging masipag at handa. Nagtulung-tulong silang tatlo sa paglilinis ng kapaligiran at pag-iipon ng pagkain para sa susunod na panahon. Napatunayan nila na ang pagiging maagap at pagtulong sa kapwa ay nagdudulot ng kaligtasan at kaligayahan sa buong komunidad. Mula noon, naging mas masaya ang kanilang samahan sa kagubatan. Nalaman ng lahat ng hayop ang kabayanihan ni Lino, at siya ay naging huwaran ng lahat ng mga batang langgam sa kanilang bayan. Ito ay kuwento ng tunay na pagkakaibigan at pagtutulungan sa oras ng matinding pangangailangan na hindi dapat kalimutan."
+      },
+      {
+        "title": "Talasalitaan (Vocabulary)",
+        "text": "Talasalitaan:\n• Sipag - Pagiging masigasig sa paggawa.\n• Ipon - Pagtitipon para sa hinaharap.\n• Bagyo - Masamang panahon na may ulan at hangin.\n\nPhonics: Bigkasin ang salitang 'Langgam' at 'Sapa'."
+      },
+      {
+        "title": "Mga Tanong sa Pag-unawa",
+        "text": "Mga Tanong:\n1. Sino ang matulunging langgam sa kwento?\n2. Ano ang ginawa nina Dodo at Kikoy?\n3. Paano tinulungan ni Lino ang kanyang mga kaibigan?"
+      },
+      {
+        "title": "Mabuting Aral at Pagninilay",
+        "text": "Aral: Ang pagiging masipag at handa sa darating na pagsubok ay nagliligtas sa atin sa hirap. Ang pagtulong sa kapwa nang walang hinihintay na kapalit ay tanda ng mabuting puso."
+      }
+    ]
+  },
+  "wednesday": {
+    "type": "Maikling Kwento (Short Story)",
+    "title": "Ang Matulunging Langgam (Wednesday) - Week 3",
+    "slides": [
+      {
+        "title": "Story Part 1 (Wednesday)",
+        "text": "Si Lino ay isang maliit ngunit napakasipag at matulunging pulang langgam na nakatira sa isang malaking puno ng manga sa tabi ng isang payapang sapa. Araw-araw, gigising si Lino bago pa man sumikat ang gintong araw upang maghanap ng pagkain na maiipon para sa darating na panahon ng tag-ulan. Alam ni Lino na mahirap lumabas kapag malakas ang buhos ng ulan kaya kailangan niyang maghanda ng maaga. Habang naglalakad siya sa ilalim ng mga tuyong dahon, nakita niya ang kanyang mga kaibigan na sina Dodo ang tipaklong at Kikoy ang kuliglig. Sila ay naglalaro at kumakanta lamang sa ilalim ng lilim. Tinawag nila si Lino upang makipaglaro. 'Lino, halika muna rito at magpahinga ka! Masarap ang simoy ng hangin ngayon!' wika ni Dodo habang tumatawa at tumutugtog ng kanyang maliit na biyolin. Ngunit magalang na tumanggi si Lino at sinabing kailangan niyang tapusin ang kanyang gawain para sa kaligtasan ng kanyang pamilya."
+      },
+      {
+        "title": "Story Part 2 (Wednesday)",
+        "text": "Lumipas ang ilang linggo at dumating nga ang malakas na bagyo na may kasamang matinding hangin at baha. Ang sapa ay umapaw at ang buong paligid ay nabasa. Ligtas na nakatira si Lino at ang kanyang pamilya sa loob ng kanilang mainit at tuyong bahay sa ilalim ng ugat ng puno ng manga, busog na busog sa mga naipong pagkain. Habang nakikinig sila sa tunog ng malalakas na patak ng ulan, narinig ni Lino ang mahinang boses sa labas. Nang sumilip siya sa maliit na siwang, nakita niya sina Dodo at Kikoy na nanginginig sa lamig at gutom na gutom, basang-basa ang kanilang mga pakpak at walang masisilungan. Mabilis na binuksan ni Lino ang kanyang pinto at pinapasok ang mga kaibigan. Binigyan niya sila ng tuyong dahon bilang kumot at hinati ang kanyang pagkain upang mabusog sila. Labis ang pasasalamat ng dalawa sa kabaitan ni Lino."
+      },
+      {
+        "title": "Story Part 3 (Wednesday)",
+        "text": "Nang matapos ang bagyo at sumikat muli ang araw, nagpasya sina Dodo at Kikoy na magbago. Nangako sila kay Lino na simula sa araw na iyon ay tutularan na nila ang kanyang pagiging masipag at handa. Nagtulung-tulong silang tatlo sa paglilinis ng kapaligiran at pag-iipon ng pagkain para sa susunod na panahon. Napatunayan nila na ang pagiging maagap at pagtulong sa kapwa ay nagdudulot ng kaligtasan at kaligayahan sa buong komunidad. Mula noon, naging mas masaya ang kanilang samahan sa kagubatan. Nalaman ng lahat ng hayop ang kabayanihan ni Lino, at siya ay naging huwaran ng lahat ng mga batang langgam sa kanilang bayan. Ito ay kuwento ng tunay na pagkakaibigan at pagtutulungan sa oras ng matinding pangangailangan na hindi dapat kalimutan."
+      },
+      {
+        "title": "Talasalitaan (Vocabulary)",
+        "text": "Talasalitaan:\n• Sipag - Pagiging masigasig sa paggawa.\n• Ipon - Pagtitipon para sa hinaharap.\n• Bagyo - Masamang panahon na may ulan at hangin.\n\nPhonics: Bigkasin ang salitang 'Langgam' at 'Sapa'."
+      },
+      {
+        "title": "Mga Tanong sa Pag-unawa",
+        "text": "Mga Tanong:\n1. Sino ang matulunging langgam sa kwento?\n2. Ano ang ginawa nina Dodo at Kikoy?\n3. Paano tinulungan ni Lino ang kanyang mga kaibigan?"
+      },
+      {
+        "title": "Mabuting Aral at Pagninilay",
+        "text": "Aral: Ang pagiging masipag at handa sa darating na pagsubok ay nagliligtas sa atin sa hirap. Ang pagtulong sa kapwa nang walang hinihintay na kapalit ay tanda ng mabuting puso."
+      }
+    ]
+  },
+  "thursday": {
+    "type": "Maikling Kwento (Short Story)",
+    "title": "Ang Matulunging Langgam (Thursday) - Week 3",
+    "slides": [
+      {
+        "title": "Story Part 1 (Thursday)",
+        "text": "Si Lino ay isang maliit ngunit napakasipag at matulunging pulang langgam na nakatira sa isang malaking puno ng manga sa tabi ng isang payapang sapa. Araw-araw, gigising si Lino bago pa man sumikat ang gintong araw upang maghanap ng pagkain na maiipon para sa darating na panahon ng tag-ulan. Alam ni Lino na mahirap lumabas kapag malakas ang buhos ng ulan kaya kailangan niyang maghanda ng maaga. Habang naglalakad siya sa ilalim ng mga tuyong dahon, nakita niya ang kanyang mga kaibigan na sina Dodo ang tipaklong at Kikoy ang kuliglig. Sila ay naglalaro at kumakanta lamang sa ilalim ng lilim. Tinawag nila si Lino upang makipaglaro. 'Lino, halika muna rito at magpahinga ka! Masarap ang simoy ng hangin ngayon!' wika ni Dodo habang tumatawa at tumutugtog ng kanyang maliit na biyolin. Ngunit magalang na tumanggi si Lino at sinabing kailangan niyang tapusin ang kanyang gawain para sa kaligtasan ng kanyang pamilya."
+      },
+      {
+        "title": "Story Part 2 (Thursday)",
+        "text": "Lumipas ang ilang linggo at dumating nga ang malakas na bagyo na may kasamang matinding hangin at baha. Ang sapa ay umapaw at ang buong paligid ay nabasa. Ligtas na nakatira si Lino at ang kanyang pamilya sa loob ng kanilang mainit at tuyong bahay sa ilalim ng ugat ng puno ng manga, busog na busog sa mga naipong pagkain. Habang nakikinig sila sa tunog ng malalakas na patak ng ulan, narinig ni Lino ang mahinang boses sa labas. Nang sumilip siya sa maliit na siwang, nakita niya sina Dodo at Kikoy na nanginginig sa lamig at gutom na gutom, basang-basa ang kanilang mga pakpak at walang masisilungan. Mabilis na binuksan ni Lino ang kanyang pinto at pinapasok ang mga kaibigan. Binigyan niya sila ng tuyong dahon bilang kumot at hinati ang kanyang pagkain upang mabusog sila. Labis ang pasasalamat ng dalawa sa kabaitan ni Lino."
+      },
+      {
+        "title": "Story Part 3 (Thursday)",
+        "text": "Nang matapos ang bagyo at sumikat muli ang araw, nagpasya sina Dodo at Kikoy na magbago. Nangako sila kay Lino na simula sa araw na iyon ay tutularan na nila ang kanyang pagiging masipag at handa. Nagtulung-tulong silang tatlo sa paglilinis ng kapaligiran at pag-iipon ng pagkain para sa susunod na panahon. Napatunayan nila na ang pagiging maagap at pagtulong sa kapwa ay nagdudulot ng kaligtasan at kaligayahan sa buong komunidad. Mula noon, naging mas masaya ang kanilang samahan sa kagubatan. Nalaman ng lahat ng hayop ang kabayanihan ni Lino, at siya ay naging huwaran ng lahat ng mga batang langgam sa kanilang bayan. Ito ay kuwento ng tunay na pagkakaibigan at pagtutulungan sa oras ng matinding pangangailangan na hindi dapat kalimutan."
+      },
+      {
+        "title": "Talasalitaan (Vocabulary)",
+        "text": "Talasalitaan:\n• Sipag - Pagiging masigasig sa paggawa.\n• Ipon - Pagtitipon para sa hinaharap.\n• Bagyo - Masamang panahon na may ulan at hangin.\n\nPhonics: Bigkasin ang salitang 'Langgam' at 'Sapa'."
+      },
+      {
+        "title": "Mga Tanong sa Pag-unawa",
+        "text": "Mga Tanong:\n1. Sino ang matulunging langgam sa kwento?\n2. Ano ang ginawa nina Dodo at Kikoy?\n3. Paano tinulungan ni Lino ang kanyang mga kaibigan?"
+      },
+      {
+        "title": "Mabuting Aral at Pagninilay",
+        "text": "Aral: Ang pagiging masipag at handa sa darating na pagsubok ay nagliligtas sa atin sa hirap. Ang pagtulong sa kapwa nang walang hinihintay na kapalit ay tanda ng mabuting puso."
+      }
+    ]
+  },
+  "friday": {
+    "type": "Maikling Kwento (Short Story)",
+    "title": "Ang Matulunging Langgam (Friday) - Week 3",
+    "slides": [
+      {
+        "title": "Story Part 1 (Friday)",
+        "text": "Si Lino ay isang maliit ngunit napakasipag at matulunging pulang langgam na nakatira sa isang malaking puno ng manga sa tabi ng isang payapang sapa. Araw-araw, gigising si Lino bago pa man sumikat ang gintong araw upang maghanap ng pagkain na maiipon para sa darating na panahon ng tag-ulan. Alam ni Lino na mahirap lumabas kapag malakas ang buhos ng ulan kaya kailangan niyang maghanda ng maaga. Habang naglalakad siya sa ilalim ng mga tuyong dahon, nakita niya ang kanyang mga kaibigan na sina Dodo ang tipaklong at Kikoy ang kuliglig. Sila ay naglalaro at kumakanta lamang sa ilalim ng lilim. Tinawag nila si Lino upang makipaglaro. 'Lino, halika muna rito at magpahinga ka! Masarap ang simoy ng hangin ngayon!' wika ni Dodo habang tumatawa at tumutugtog ng kanyang maliit na biyolin. Ngunit magalang na tumanggi si Lino at sinabing kailangan niyang tapusin ang kanyang gawain para sa kaligtasan ng kanyang pamilya."
+      },
+      {
+        "title": "Story Part 2 (Friday)",
+        "text": "Lumipas ang ilang linggo at dumating nga ang malakas na bagyo na may kasamang matinding hangin at baha. Ang sapa ay umapaw at ang buong paligid ay nabasa. Ligtas na nakatira si Lino at ang kanyang pamilya sa loob ng kanilang mainit at tuyong bahay sa ilalim ng ugat ng puno ng manga, busog na busog sa mga naipong pagkain. Habang nakikinig sila sa tunog ng malalakas na patak ng ulan, narinig ni Lino ang mahinang boses sa labas. Nang sumilip siya sa maliit na siwang, nakita niya sina Dodo at Kikoy na nanginginig sa lamig at gutom na gutom, basang-basa ang kanilang mga pakpak at walang masisilungan. Mabilis na binuksan ni Lino ang kanyang pinto at pinapasok ang mga kaibigan. Binigyan niya sila ng tuyong dahon bilang kumot at hinati ang kanyang pagkain upang mabusog sila. Labis ang pasasalamat ng dalawa sa kabaitan ni Lino."
+      },
+      {
+        "title": "Story Part 3 (Friday)",
+        "text": "Nang matapos ang bagyo at sumikat muli ang araw, nagpasya sina Dodo at Kikoy na magbago. Nangako sila kay Lino na simula sa araw na iyon ay tutularan na nila ang kanyang pagiging masipag at handa. Nagtulung-tulong silang tatlo sa paglilinis ng kapaligiran at pag-iipon ng pagkain para sa susunod na panahon. Napatunayan nila na ang pagiging maagap at pagtulong sa kapwa ay nagdudulot ng kaligtasan at kaligayahan sa buong komunidad. Mula noon, naging mas masaya ang kanilang samahan sa kagubatan. Nalaman ng lahat ng hayop ang kabayanihan ni Lino, at siya ay naging huwaran ng lahat ng mga batang langgam sa kanilang bayan. Ito ay kuwento ng tunay na pagkakaibigan at pagtutulungan sa oras ng matinding pangangailangan na hindi dapat kalimutan."
+      },
+      {
+        "title": "Talasalitaan (Vocabulary)",
+        "text": "Talasalitaan:\n• Sipag - Pagiging masigasig sa paggawa.\n• Ipon - Pagtitipon para sa hinaharap.\n• Bagyo - Masamang panahon na may ulan at hangin.\n\nPhonics: Bigkasin ang salitang 'Langgam' at 'Sapa'."
+      },
+      {
+        "title": "Mga Tanong sa Pag-unawa",
+        "text": "Mga Tanong:\n1. Sino ang matulunging langgam sa kwento?\n2. Ano ang ginawa nina Dodo at Kikoy?\n3. Paano tinulungan ni Lino ang kanyang mga kaibigan?"
+      },
+      {
+        "title": "Mabuting Aral at Pagninilay",
+        "text": "Aral: Ang pagiging masipag at handa sa darating na pagsubok ay nagliligtas sa atin sa hirap. Ang pagtulong sa kapwa nang walang hinihintay na kapalit ay tanda ng mabuting puso."
+      }
+    ]
+  },
+  "saturday": {
+    "type": "Maikling Kuwento (Short Story)",
+    "title": "Ang Langgam at ang Tipaklong",
+    "slides": [
+      {
+        "title": "Kuwento: Ang Langgam at ang Tipaklong - Bahagi 1",
+        "text": "<span class=\"fil-sentence\" data-translation=\"During the summer season, the whole forest was beautiful and full of food.\"><span class=\"fil-sentence\" data-translation=\"During the summer season, the whole forest was beautiful and full of food.\">Noong panahon ng tag-araw, ang buong kagubatan ay napakaganda at puno ng pagkain.</span></span> <span class=\"fil-sentence\" data-translation=\"While Grasshopper was happily singing and dancing under the hot sun, Ant was very busy searching for and carrying grains of rice and fruits to his small house.\"><span class=\"fil-sentence\" data-translation=\"While Grasshopper was happily singing and dancing under the hot sun, Ant was very busy searching for and carrying grains of rice and fruits to his small house.\">Habang si Tipaklong ay masayang kumakanta at sumasayaw sa ilalim ng init ng araw, si Langgam naman ay abalang-abala sa paghahanap at paghahakot ng mga butil ng palay at prutas patungo sa kanyang munting bahay.</span></span> <span class=\"fil-sentence\" data-translation=\"'Ant, come here first and let's have fun! There is so much food now, why do you make yourself tired?' Grasshopper asked while playing the guitar.\"><span class=\"fil-sentence\" data-translation=\"'Ant, come here first and let's have fun! There is so much food now, why do you make yourself tired?' Grasshopper asked while playing the guitar.\">'Langgam, halika muna rito at magsaya tayo! Napakaraming pagkain ngayon, bakit ka nagpapapagod?' tanong ni Tipaklong habang tumutugtog ng gitara.</span></span> <span class=\"fil-sentence\" data-translation=\"Ant replied, 'I am saving food for the coming rainy season so we won't starve. You should save too, Grasshopper.'\"><span class=\"fil-sentence\" data-translation=\"Ant replied, 'I am saving food for the coming rainy season so we won't starve. You should save too, Grasshopper.'\">Sumagot si Langgam, 'Nag-iipon ako ng pagkain para sa darating na tag-ulan upang hindi kami magutom. Dapat mag-ipon ka na rin, Tipaklong.'</span></span> <span class=\"fil-sentence\" data-translation=\"But Grasshopper just laughed at him and continued playing.\"><span class=\"fil-sentence\" data-translation=\"But Grasshopper just laughed at him and continued playing.\">Ngunit tinawanan lamang siya ni Tipaklong at nagpatuloy sa paglalaro.</span></span>"
+      },
+      {
+        "title": "Kuwento: Ang Langgam at ang Tipaklong - Bahagi 2",
+        "text": "<span class=\"fil-sentence\" data-translation=\"The days passed quickly and the rainy season arrived.\"><span class=\"fil-sentence\" data-translation=\"The days passed quickly and the rainy season arrived.\">Mabilis na lumipas ang mga araw at dumating ang panahon ng tag-ulan.</span></span> <span class=\"fil-sentence\" data-translation=\"Rain here, rain there, and the entire forest became very cold.\"><span class=\"fil-sentence\" data-translation=\"Rain here, rain there, and the entire forest became very cold.\">Ulan dito, ulan doon, at naging napakalamig ng buong kagubatan.</span></span> <span class=\"fil-sentence\" data-translation=\"The leaves got wet and no food could be found around because the grass was submerged in water.\"><span class=\"fil-sentence\" data-translation=\"The leaves got wet and no food could be found around because the grass was submerged in water.\">Nabasa ang mga dahon at walang makitang pagkain sa paligid dahil nalubog sa tubig ang mga damo.</span></span> Ligtas na nanatili si Langgam sa loob ng kanyang tuyo at mainit na tahanan, kasama ang kanyang pamilya habang masayang kumakain ng mga butil na naipon nila noong tag-araw. <span class=\"fil-sentence\" data-translation=\"Meanwhile, Grasshopper was extremely hungry and shivering in the cold outside, with no shelter and nothing to eat.\"><span class=\"fil-sentence\" data-translation=\"Meanwhile, Grasshopper was extremely hungry and shivering in the cold outside, with no shelter and nothing to eat.\">Samantala, si Tipaklong ay gutom na gutom at nanginginig sa lamig sa labas, walang makitang masisilungan at walang makain.</span></span>"
+      },
+      {
+        "title": "Kuwento: Ang Langgam at ang Tipaklong - Bahagi 3",
+        "text": "<span class=\"fil-sentence\" data-translation=\"Because of severe hunger, Grasshopper went to Ant's house and knocked.\"><span class=\"fil-sentence\" data-translation=\"Because of severe hunger, Grasshopper went to Ant's house and knocked.\">Dahil sa matinding gutom, lumapit si Tipaklong sa bahay ni Langgam at kumatok.</span></span> <span class=\"fil-sentence\" data-translation=\"'Friend Ant, please give me even a little food. I am shivering from hunger,' he pleaded.\"><span class=\"fil-sentence\" data-translation=\"'Friend Ant, please give me even a little food. I am shivering from hunger,' he pleaded.\">'Kaibigang Langgam, pakiusap at bigyan mo ako kahit kaunting pagkain. Nanginginig na ako sa gutom,' pakiusap niya.</span></span> <span class=\"fil-sentence\" data-translation=\"Ant felt pity, so he let Grasshopper in and gave him hot food and dry leaves.\"><span class=\"fil-sentence\" data-translation=\"Ant felt pity, so he let Grasshopper in and gave him hot food and dry leaves.\">Nakaramdam ng awa si Langgam, kaya pinapasok niya si Tipaklong at binigyan ng mainit na pagkain at tuyong dahon.</span></span> <span class=\"fil-sentence\" data-translation=\"'Thanks, Ant. Now I understand why you worked in the summer while I only played,' Grasshopper said with regret.\"><span class=\"fil-sentence\" data-translation=\"'Thanks, Ant. Now I understand why you worked in the summer while I only played,' Grasshopper said with regret.\">'Salamat, Langgam. Ngayon ay naintindihan ko na kung bakit ka nagtrabaho noong tag-araw habang ako ay naglaro lamang,' wika ni Tipaklong nang may pagsisisi.</span></span> <span class=\"fil-sentence\" data-translation=\"Grasshopper promised that next summer, he would also save food like his hardworking friend.\"><span class=\"fil-sentence\" data-translation=\"Grasshopper promised that next summer, he would also save food like his hardworking friend.\">Nangako si Tipaklong na sa susunod na tag-araw, mag-iipon din siya ng pagkain tulad ng kanyang masipag na kaibigan.</span></span>"
+      },
+      {
+        "title": "Talasalitaan at Pag-aaral ng Salita",
+        "text": "<span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\">Mga Bokabularyo:</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Summer - Season of heat and sunshine.\"><span class=\"fil-sentence\" data-translation=\"Summer - Season of heat and sunshine.\">Tag-araw - Panahon ng init at sikat ng araw.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Hauling - Gathering or carrying things to a place.\"><span class=\"fil-sentence\" data-translation=\"Hauling - Gathering or carrying things to a place.\">Paghahakot - Pagsasama-sama o pagdadala ng mga bagay sa isang lugar.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Regret - Feeling of sadness because of a wrong decision made.\"><span class=\"fil-sentence\" data-translation=\"Regret - Feeling of sadness because of a wrong decision made.\">Pagsisisi - Pakiramdam ng lungkot dahil sa maling desisyong ginawa.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'l' sound in 'langgam', 'lamig', and 'laro'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'l' sound in 'langgam', 'lamig', and 'laro'.\">Tutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'l' sa 'langgam', 'lamig', at 'laro'.</span></span>"
+      },
+      {
+        "title": "Mga Tanong sa Pag-unawa",
+        "text": "<span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\">Mga Tanong:</span></span>\n<span class=\"fil-sentence\" data-translation=\"1. What was Ant doing while Grasshopper was playing?\"><span class=\"fil-sentence\" data-translation=\"1. What was Ant doing while Grasshopper was playing?\">1. Ano ang ginagawa ni Langgam habang naglalaro si Tipaklong?</span></span>\n<span class=\"fil-sentence\" data-translation=\"2. What happened to Grasshopper when the rainy season arrived?\"><span class=\"fil-sentence\" data-translation=\"2. What happened to Grasshopper when the rainy season arrived?\">2. Ano ang nangyari kay Tipaklong nang dumating ang tag-ulan?</span></span>\n<span class=\"fil-sentence\" data-translation=\"3. How did Ant help Grasshopper at the end of the story?\"><span class=\"fil-sentence\" data-translation=\"3. How did Ant help Grasshopper at the end of the story?\">3. Paano tinulungan ni Langgam si Tipaklong sa dulo ng kwento?</span></span>"
+      },
+      {
+        "title": "Mabuting Aral at Pagninilay",
+        "text": "<span class=\"fil-sentence\" data-translation=\"Thought: Being industrious and prepared for the future saves us from hardship.\"><span class=\"fil-sentence\" data-translation=\"Thought: Being industrious and prepared for the future saves us from hardship.\">Kaisipan: Ang pagiging masipag at handa sa hinaharap ay nagliligtas sa atin sa hirap.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"There is a time for play and a time for work. Being prepared shows intelligence, while helping those in need shows kindness.\"><span class=\"fil-sentence\" data-translation=\"There is a time for play and a time for work. Being prepared shows intelligence, while helping those in need shows kindness.\">May oras para sa paglalaro at may oras para sa pagtatrabaho. Ang pagiging handa ay nagpapakita ng katalinuhan, habang ang pagtulong sa nangangailangan ay nagpapakita ng kabaitan.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Discuss: What are the school lessons you can study early to be prepared for the test?\"><span class=\"fil-sentence\" data-translation=\"Discuss: What are the school lessons you can study early to be prepared for the test?\">Talakayin: Ano ang mga aralin sa paaralan na maaari mong pag-aralan nang maaga upang maging handa sa pagsusulit?</span></span>"
+      }
+    ]
+  },
+  "sunday": {
+    "type": "Maikling Kuwento (Short Story)",
+    "title": "Si Juan Tamad",
+    "slides": [
+      {
+        "title": "Kuwento: Si Juan Tamad - Bahagi 1",
+        "text": "<span class=\"fil-sentence\" data-translation=\"In a small village, there was a boy named Juan.\"><span class=\"fil-sentence\" data-translation=\"In a small village, there was a boy named Juan.\">Sa isang maliit na baryo, may isang batang lalaki na nagngangalang Juan.</span></span> <span class=\"fil-sentence\" data-translation=\"Because of his extreme laziness, his neighbors nicknamed him Juan Tamad (Lazy Juan).\"><span class=\"fil-sentence\" data-translation=\"Because of his extreme laziness, his neighbors nicknamed him Juan Tamad (Lazy Juan).\">Dahil sa kanyang labis na katamaran, binansagan siya ng kanyang mga kapitbahay na si Juan Tamad.</span></span> <span class=\"fil-sentence\" data-translation=\"Whenever his mother ordered him, he always made excuses or found ways not to finish the task.\"><span class=\"fil-sentence\" data-translation=\"Whenever his mother ordered him, he always made excuses or found ways not to finish the task.\">Tuwing inuutusan siya ng kanyang ina, lagi siyang nagdadahilan o gumagawa ng paraan upang hindi matapos ang gawain.</span></span> <span class=\"fil-sentence\" data-translation=\"One hot afternoon, while Juan was walking along the road, he saw a guava tree full of large and ripe fruits.\"><span class=\"fil-sentence\" data-translation=\"One hot afternoon, while Juan was walking along the road, he saw a guava tree full of large and ripe fruits.\">Isang mainit na hapon, habang naglalakad si Juan sa tabi ng kalsada, nakakita siya ng isang puno ng bayabas na puno ng malalaki at hinog na bunga.</span></span> <span class=\"fil-sentence\" data-translation=\"He really wanted to eat guavas, but the tree was very tall and he did not want to tire himself climbing.\"><span class=\"fil-sentence\" data-translation=\"He really wanted to eat guavas, but the tree was very tall and he did not want to tire himself climbing.\">Gustong-gusto niyang kumain ng bayabas, ngunit napakataas ng puno at ayaw niyang magkapagod sa pag-akyat.</span></span>"
+      },
+      {
+        "title": "Kuwento: Si Juan Tamad - Bahagi 2",
+        "text": "<span class=\"fil-sentence\" data-translation=\"Instead of climbing or getting a long bamboo to pick the guavas, Juan lay down under the tree.\"><span class=\"fil-sentence\" data-translation=\"Instead of climbing or getting a long bamboo to pick the guavas, Juan lay down under the tree.\">Sa halip na umakyat o kumuha ng mahabang kawayan upang sungkitin ang bayabas, humiga si Juan sa ilalim ng puno.</span></span> <span class=\"fil-sentence\" data-translation=\"He looked up and stared at a very ripe guava hanging on a low branch.\"><span class=\"fil-sentence\" data-translation=\"He looked up and stared at a very ripe guava hanging on a low branch.\">Tumingala siya at tinitigan ang isang napakahinog na bayabas na nakabitin sa mababang sanga.</span></span> <span class=\"fil-sentence\" data-translation=\"'I'll just lie here and open my mouth. I'll just wait for the guava to fall into my mouth,' Juan said to himself.\"><span class=\"fil-sentence\" data-translation=\"'I'll just lie here and open my mouth. I'll just wait for the guava to fall into my mouth,' Juan said to himself.\">'Hihiga na lang ako rito at bubuksan ko ang aking bibig. Hihintayin ko na lang na mahulog ang bayabas sa aking bibig,' sabi ni Juan sa sarili.</span></span> <span class=\"fil-sentence\" data-translation=\"He remained lying under the tree for several hours while the day passed and he grew hungry.\"><span class=\"fil-sentence\" data-translation=\"He remained lying under the tree for several hours while the day passed and he grew hungry.\">Nanatili siyang nakahiga sa ilalim ng puno ng ilang oras, habang lumilipas ang araw at nagugutom siya.</span></span> <span class=\"fil-sentence\" data-translation=\"Birds perched on the tree and ate some guavas at the top while watching Juan.\"><span class=\"fil-sentence\" data-translation=\"Birds perched on the tree and ate some guavas at the top while watching Juan.\">Ang mga ibon naman ay dumapo sa puno at kinain ang ilang bayabas sa itaas habang pinapanood si Juan.</span></span>"
+      },
+      {
+        "title": "Kuwento: Si Juan Tamad - Bahagi 3",
+        "text": "<span class=\"fil-sentence\" data-translation=\"When his mother passed by the road and saw Juan gaping under the tree, she shook her head in sadness and anger.\"><span class=\"fil-sentence\" data-translation=\"When his mother passed by the road and saw Juan gaping under the tree, she shook her head in sadness and anger.\">Nang dumaan ang kanyang ina sa kalsada at nakita si Juan na nakanganga sa ilalim ng puno, napa-iling ito sa lungkot at galit.</span></span> <span class=\"fil-sentence\" data-translation=\"'Juan! Why are you lying there?' his mother asked.\"><span class=\"fil-sentence\" data-translation=\"'Juan! Why are you lying there?' his mother asked.\">'Juan! Bakit ka nakahiga diyan?' tanong ng ina.</span></span> <span class=\"fil-sentence\" data-translation=\"'Mother, I am waiting for the guava to fall into my mouth,' Juan replied.\"><span class=\"fil-sentence\" data-translation=\"'Mother, I am waiting for the guava to fall into my mouth,' Juan replied.\">'Ina, hinihintay ko pong mahulog ang bayabas sa aking bibig,' sagot ni Juan.</span></span> <span class=\"fil-sentence\" data-translation=\"His mother said, 'That's a very big guava, Juan! If you had only stood up and picked it with your hand, you would have been full long ago! No food will fall on its own into the mouth of a person who doesn't want to work.'\"><span class=\"fil-sentence\" data-translation=\"His mother said, 'That's a very big guava, Juan! If you had only stood up and picked it with your hand, you would have been full long ago! No food will fall on its own into the mouth of a person who doesn't want to work.'\">Sinabi ng kanyang ina, 'Napakalaking bayabas niyan, Juan! Kung tumayo ka lamang at kinuha ito gamit ang iyong kamay, kanina ka pa busog! Walang pagkain na kusang mahuhulog sa bibig ng taong ayaw gumawa.'</span></span> <span class=\"fil-sentence\" data-translation=\"Juan was ashamed and stood up to help his mother carry firewood.\"><span class=\"fil-sentence\" data-translation=\"Juan was ashamed and stood up to help his mother carry firewood.\">Nahiya si Juan at tumayo upang tulungan ang kanyang ina sa pagdadala ng mga kahoy.</span></span>"
+      },
+      {
+        "title": "Talasalitaan at Pag-aaral ng Salita",
+        "text": "<span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\">Mga Bokabularyo:</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Nicknamed - Given a nickname based on behavior.\"><span class=\"fil-sentence\" data-translation=\"Nicknamed - Given a nickname based on behavior.\">Binansagan - Binigyan ng palayaw o pangalan batay sa ugali.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Pluck - Pick an object from above using a stick or bamboo.\"><span class=\"fil-sentence\" data-translation=\"Pluck - Pick an object from above using a stick or bamboo.\">Sungkitin - Kumuha ng bagay sa itaas gamit ang stick o kawayan.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Voluntarily - Happening without help or volition of others.\"><span class=\"fil-sentence\" data-translation=\"Voluntarily - Happening without help or volition of others.\">Kusang - Nangyayari nang walang tulong o kusa ng iba.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'j' or 'h' sound in 'juan', 'hinog', and 'higa'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'j' or 'h' sound in 'juan', 'hinog', and 'higa'.\">Tutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'j' o 'h' sa 'juan', 'hinog', at 'higa'.</span></span>"
+      },
+      {
+        "title": "Mga Tanong sa Pag-unawa",
+        "text": "<span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\">Mga Tanong:</span></span>\n<span class=\"fil-sentence\" data-translation=\"1. Why was Juan nicknamed 'Lazy Juan'?\"><span class=\"fil-sentence\" data-translation=\"1. Why was Juan nicknamed 'Lazy Juan'?\">1. Bakit binansagan si Juan na 'Juan Tamad'?</span></span>\n<span class=\"fil-sentence\" data-translation=\"2. How did Juan get the guava according to his plan?\"><span class=\"fil-sentence\" data-translation=\"2. How did Juan get the guava according to his plan?\">2. Paano nakuha ni Juan ang bayabas ayon sa kanyang plano?</span></span>\n<span class=\"fil-sentence\" data-translation=\"3. What did his mother say when she saw him lying under the tree?\"><span class=\"fil-sentence\" data-translation=\"3. What did his mother say when she saw him lying under the tree?\">3. Ano ang sinabi ng kanyang ina nang makita siyang nakahiga sa ilalim ng puno?</span></span>"
+      },
+      {
+        "title": "Mabuting Aral at Pagninilay",
+        "text": "<span class=\"fil-sentence\" data-translation=\"Thought: Dreams and needs can only be achieved through action.\"><span class=\"fil-sentence\" data-translation=\"Thought: Dreams and needs can only be achieved through action.\">Kaisipan: Ang mga pangarap at pangangailangan ay makakamit lamang sa pamamagitan ng pagkilos.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Laziness brings hunger and lack of progress. One should not rely on fate or chance for things that can be worked for.\"><span class=\"fil-sentence\" data-translation=\"Laziness brings hunger and lack of progress. One should not rely on fate or chance for things that can be worked for.\">Ang katamaran ay nagdadala ng gutom at kawalan ng pag-unlad. Hindi dapat iasa sa tadhana o pagkakataon ang mga bagay na maaari namang pagtrabahuhan.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Discuss: What are your goals in life that require your effort to achieve?\"><span class=\"fil-sentence\" data-translation=\"Discuss: What are your goals in life that require your effort to achieve?\">Talakayin: Ano ang mga layunin mo sa buhay na nangangailangan ng iyong pagsisikap upang maabot?</span></span>"
+      }
+    ]
+  }
+};
+
+window.WEEK3_DATA.checklist = [
+  "Review weekly concept definitions",
+  "Complete daily reading section",
+  "Take weekly subject quizzes"
+];
+
+window.WEEK3_ADVANCED_DATA = window.WEEK3_DATA;

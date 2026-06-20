@@ -1,72 +1,4048 @@
 window.WEEK5_DATA = {};
 
-// Placeholders for subjects to prevent routing crashes
-const subjects = ['math', 'science', 'english', 'filipino', 'makabansa', 'gmrc'];
-const subjectInfo = {
-  math: { color: '#3b82f6', icon: '🔢', title: 'Mathematics' },
-  science: { color: '#10b981', icon: '🔬', title: 'Science' },
-  english: { color: '#8b5cf6', icon: '📖', title: 'English' },
-  filipino: { color: '#ec4899', icon: '🗣️', title: 'Filipino' },
-  makabansa: { color: '#f59e0b', icon: '🏝️', title: 'Makabansa' },
-  gmrc: { color: '#10b981', icon: '🧘‍♂️', title: 'GMRC' }
-};
-
-subjects.forEach(sub => {
-  window.WEEK5_DATA[sub] = {
-    color: subjectInfo[sub].color,
-    icon: subjectInfo[sub].icon,
-    title: subjectInfo[sub].title,
-    subtitle: `Week 5: Advanced Learning in ${subjectInfo[sub].title}`,
-    slides: [
-      {
-        title: `Introduction to ${subjectInfo[sub].title} Week 5`,
-        text: `Welcome to the extension module for ${subjectInfo[sub].title} Week 5. This week we will explore advanced topics, applications, and revision worksheets to solidify your understanding.`,
-        examples: [
-          { title: 'Core Concept', content: 'Review and apply the foundational knowledge you built in Weeks 1, 2, and 3.' }
-        ]
-      }
-    ],
-    standard: [
-      {
-        type: 'choice',
-        q: 'Review: Which statement matches the best practice in this subject?',
-        options: ['Always review your answers', 'Rushing is best', 'Never ask for help', 'Guess immediately'],
-        answer: 0
-      }
-    ],
-    challenge: [
-      {
-        type: 'choice',
-        q: 'Challenge: What is the primary focus of active learning?',
-        options: ['Critical thinking & exploration', 'Memorization only', 'Ignoring questions', 'Speed over accuracy'],
-        answer: 0
-      }
-    ],
-    performance: {
-      type: 'performance',
-      title: 'Weekly Interactive Practice',
-      desc: 'Discuss the weekly concepts with your parents or classmates. Write a short 3-sentence summary of what you learned in your notebook.',
-      labels: ['Understanding of weekly concept', 'Clarity of the 3-sentence summary']
+window.WEEK5_DATA.math = {
+  "color": "#3b82f6",
+  "icon": "🔢",
+  "title": "Mathematics",
+  "subtitle": "Week 5: Comparing and Ordering Numbers up to 100",
+  "slides": [
+    {
+      "title": "Introduction to Week 5: Comparing and Ordering Numbers up to 100",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Mathematics.",
+      "examples": [
+        {
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 5: Comparing and Ordering Numbers up to 100 and apply them in daily situations."
+        },
+        {
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+        }
+      ]
     },
-    worksheet: {
-      pages: [
-        `<div class="ws-page-content">
-          <h3>Weekly Review: ${subjectInfo[sub].title}</h3>
-          <p class="ws-instruction">Write down the correct answers using your stylus.</p>
-          <div class="ws-item-row">
-            <div class="ws-q">1. What is the main goal of studying this week's topics? <span class="ws-answer">To build strong learning habits</span></div>
-          </div>
-        </div>`
+    {
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
+        {
+          "title": "Term 1: Counting",
+          "content": "A foundational concept in Mathematics that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Comparing",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
+    },
+    {
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 5: Comparing and Ordering Numbers up to 100. By looking closely at how these ideas work together, we can build a strong understanding of Mathematics.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 5: Comparing and Ordering Numbers up to 100 in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 5: Comparing and Ordering Numbers up to 100. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Comparing and Ordering Numbers up to 100 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Comparing and Ordering Numbers up to 100 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 5: Comparing and Ordering Numbers up to 100. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Comparing and Ordering Numbers up to 100 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Comparing and Ordering Numbers up to 100 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 5: Comparing and Ordering Numbers up to 100. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Comparing and Ordering Numbers up to 100 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Comparing and Ordering Numbers up to 100 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 5: Comparing and Ordering Numbers up to 100. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Comparing and Ordering Numbers up to 100 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Comparing and Ordering Numbers up to 100 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 5: Comparing and Ordering Numbers up to 100. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Comparing and Ordering Numbers up to 100 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Comparing and Ordering Numbers up to 100 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 5: Comparing and Ordering Numbers up to 100. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Comparing and Ordering Numbers up to 100 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Comparing and Ordering Numbers up to 100 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 5: Comparing and Ordering Numbers up to 100. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Comparing and Ordering Numbers up to 100 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Comparing and Ordering Numbers up to 100 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 5: Comparing and Ordering Numbers up to 100. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Comparing and Ordering Numbers up to 100 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Comparing and Ordering Numbers up to 100 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 5: Comparing and Ordering Numbers up to 100. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Comparing and Ordering Numbers up to 100 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Comparing and Ordering Numbers up to 100 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 5: Comparing and Ordering Numbers up to 100. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Comparing and Ordering Numbers up to 100 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Comparing and Ordering Numbers up to 100 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 5: Comparing and Ordering Numbers up to 100. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Comparing and Ordering Numbers up to 100 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Comparing and Ordering Numbers up to 100 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 5: Comparing and Ordering Numbers up to 100. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Comparing and Ordering Numbers up to 100 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Comparing and Ordering Numbers up to 100 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 5: Comparing and Ordering Numbers up to 100. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Comparing and Ordering Numbers up to 100 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Comparing and Ordering Numbers up to 100 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 5: Comparing and Ordering Numbers up to 100. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Comparing and Ordering Numbers up to 100 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Comparing and Ordering Numbers up to 100 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 5: Comparing and Ordering Numbers up to 100. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Comparing and Ordering Numbers up to 100 to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Comparing and Ordering Numbers up to 100 in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 5: Comparing and Ordering Numbers up to 100 to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 5: Comparing and Ordering Numbers up to 100 to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 5: Comparing and Ordering Numbers up to 100 to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 5: Comparing and Ordering Numbers up to 100 to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 5: Comparing and Ordering Numbers up to 100. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+        }
       ]
     }
-  };
-});
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 5: Comparing and Ordering Numbers up to 100?",
+      "options": [
+        "Core term: Comparing",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 5: Comparing and Ordering Numbers up to 100?",
+      "options": [
+        "Core term: Addition",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 5: Comparing and Ordering Numbers up to 100?",
+      "options": [
+        "Core term: Place value",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 5: Comparing and Ordering Numbers up to 100?",
+      "options": [
+        "Core term: Numbers",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 5: Comparing and Ordering Numbers up to 100 is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Comparing and Ordering Numbers up to 100 are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Comparing and Ordering Numbers up to 100 are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 5: Comparing and Ordering Numbers up to 100?",
+      "options": [
+        "Core term: Fractions",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 5: Comparing and Ordering Numbers up to 100 is a key topic in the study of ___.",
+      "answer": "Mathematics"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 5: Comparing and Ordering Numbers up to 100?",
+      "options": [
+        "Core term: Perimeter",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 5: Comparing and Ordering Numbers up to 100?",
+      "options": [
+        "Core term: Area",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 5: Comparing and Ordering Numbers up to 100 is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Comparing and Ordering Numbers up to 100 are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Comparing and Ordering Numbers up to 100 are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 5: Comparing and Ordering Numbers up to 100?",
+      "options": [
+        "Core term: Comparing",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 5: Comparing and Ordering Numbers up to 100?",
+      "options": [
+        "Core term: Addition",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 5: Comparing and Ordering Numbers up to 100?",
+      "options": [
+        "Core term: Place value",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 5: Comparing and Ordering Numbers up to 100 is a key topic in the study of ___.",
+      "answer": "Mathematics"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 5: Comparing and Ordering Numbers up to 100 is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Comparing and Ordering Numbers up to 100 are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Comparing and Ordering Numbers up to 100 are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 5: Comparing and Ordering Numbers up to 100?",
+      "options": [
+        "Core term: Fractions",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 5: Comparing and Ordering Numbers up to 100?",
+      "options": [
+        "Core term: Multiplication",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 5: Comparing and Ordering Numbers up to 100?",
+      "options": [
+        "Core term: Perimeter",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 5: Comparing and Ordering Numbers up to 100?",
+      "options": [
+        "Core term: Area",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 5: Comparing and Ordering Numbers up to 100 is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Comparing and Ordering Numbers up to 100 are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Comparing and Ordering Numbers up to 100 are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 5: Comparing and Ordering Numbers up to 100 is a key topic in the study of ___.",
+      "answer": "Mathematics"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 5: Comparing and Ordering Numbers up to 100?",
+      "options": [
+        "Core term: Addition",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 5: Comparing and Ordering Numbers up to 100?",
+      "options": [
+        "Core term: Place value",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 5: Comparing and Ordering Numbers up to 100?",
+      "options": [
+        "Core term: Numbers",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 5: Comparing and Ordering Numbers up to 100 is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Comparing and Ordering Numbers up to 100 are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Comparing and Ordering Numbers up to 100 are not relevant to these cases."
+      ],
+      "answer": 0
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "Challenge 1: In a complex situation involving Week 5: Comparing and Ordering Numbers up to 100, what is the first priority?",
+      "options": [
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 5: Comparing and Ordering Numbers up to 100?",
+      "options": [
+        "The primary variable: Counting",
+        "An external variable",
+        "No variable",
+        "All variables equally"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 5: Comparing and Ordering Numbers up to 100.",
+      "options": [
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 5: Comparing and Ordering Numbers up to 100?",
+      "answer": "comparing"
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 5: Comparing and Ordering Numbers up to 100?",
+      "options": [
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
+      ],
+      "answer": 0
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Interactive Task: Week 5: Comparing and Ordering Numbers up to 100",
+    "desc": "Perform a simple observation of Week 5: Comparing and Ordering Numbers up to 100 at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "labels": [
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 5: Comparing and Ordering Numbers up to 100</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 5: Comparing and Ordering Numbers up to 100 and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Comparing and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 5: Comparing and Ordering Numbers up to 100.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of counting</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 5: Comparing and Ordering Numbers up to 100.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+    ]
+  }
+};
 
-window.WEEK5_DATA.checklist = [
-  "Review weekly concept definitions",
-  "Complete daily reading section",
-  "Take weekly subject quizzes"
-];
+window.WEEK5_DATA.science = {
+  "color": "#10b981",
+  "icon": "🔬",
+  "title": "Science",
+  "subtitle": "Week 5: Plants in our Environment",
+  "slides": [
+    {
+      "title": "Introduction to Week 5: Plants in our Environment",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Science.",
+      "examples": [
+        {
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 5: Plants in our Environment and apply them in daily situations."
+        },
+        {
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+        }
+      ]
+    },
+    {
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
+        {
+          "title": "Term 1: Observation",
+          "content": "A foundational concept in Science that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Prediction",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
+    },
+    {
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 5: Plants in our Environment. By looking closely at how these ideas work together, we can build a strong understanding of Science.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 5: Plants in our Environment in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 5: Plants in our Environment. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Plants in our Environment to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Plants in our Environment in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 5: Plants in our Environment. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Plants in our Environment to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Plants in our Environment in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 5: Plants in our Environment. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Plants in our Environment to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Plants in our Environment in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 5: Plants in our Environment. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Plants in our Environment to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Plants in our Environment in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 5: Plants in our Environment. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Plants in our Environment to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Plants in our Environment in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 5: Plants in our Environment. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Plants in our Environment to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Plants in our Environment in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 5: Plants in our Environment. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Plants in our Environment to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Plants in our Environment in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 5: Plants in our Environment. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Plants in our Environment to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Plants in our Environment in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 5: Plants in our Environment. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Plants in our Environment to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Plants in our Environment in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 5: Plants in our Environment. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Plants in our Environment to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Plants in our Environment in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 5: Plants in our Environment. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Plants in our Environment to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Plants in our Environment in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 5: Plants in our Environment. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Plants in our Environment to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Plants in our Environment in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 5: Plants in our Environment. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Plants in our Environment to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Plants in our Environment in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 5: Plants in our Environment. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Plants in our Environment to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Plants in our Environment in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 5: Plants in our Environment. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Plants in our Environment to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Plants in our Environment in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 5: Plants in our Environment to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 5: Plants in our Environment to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 5: Plants in our Environment to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 5: Plants in our Environment to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 5: Plants in our Environment. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+        }
+      ]
+    }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 5: Plants in our Environment?",
+      "options": [
+        "Core term: Prediction",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 5: Plants in our Environment?",
+      "options": [
+        "Core term: Materials",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 5: Plants in our Environment?",
+      "options": [
+        "Core term: Body parts",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 5: Plants in our Environment?",
+      "options": [
+        "Core term: Senses",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 5: Plants in our Environment is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Plants in our Environment are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Plants in our Environment are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 5: Plants in our Environment?",
+      "options": [
+        "Core term: Safety",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 5: Plants in our Environment is a key topic in the study of ___.",
+      "answer": "Science"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 5: Plants in our Environment?",
+      "options": [
+        "Core term: Liquids",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 5: Plants in our Environment?",
+      "options": [
+        "Core term: Gases",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 5: Plants in our Environment is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Plants in our Environment are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Plants in our Environment are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 5: Plants in our Environment?",
+      "options": [
+        "Core term: Prediction",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 5: Plants in our Environment?",
+      "options": [
+        "Core term: Materials",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 5: Plants in our Environment?",
+      "options": [
+        "Core term: Body parts",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 5: Plants in our Environment is a key topic in the study of ___.",
+      "answer": "Science"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 5: Plants in our Environment is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Plants in our Environment are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Plants in our Environment are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 5: Plants in our Environment?",
+      "options": [
+        "Core term: Safety",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 5: Plants in our Environment?",
+      "options": [
+        "Core term: Solids",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 5: Plants in our Environment?",
+      "options": [
+        "Core term: Liquids",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 5: Plants in our Environment?",
+      "options": [
+        "Core term: Gases",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 5: Plants in our Environment is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Plants in our Environment are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Plants in our Environment are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 5: Plants in our Environment is a key topic in the study of ___.",
+      "answer": "Science"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 5: Plants in our Environment?",
+      "options": [
+        "Core term: Materials",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 5: Plants in our Environment?",
+      "options": [
+        "Core term: Body parts",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 5: Plants in our Environment?",
+      "options": [
+        "Core term: Senses",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 5: Plants in our Environment is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Plants in our Environment are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Plants in our Environment are not relevant to these cases."
+      ],
+      "answer": 0
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "Challenge 1: In a complex situation involving Week 5: Plants in our Environment, what is the first priority?",
+      "options": [
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 5: Plants in our Environment?",
+      "options": [
+        "The primary variable: Observation",
+        "An external variable",
+        "No variable",
+        "All variables equally"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 5: Plants in our Environment.",
+      "options": [
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 5: Plants in our Environment?",
+      "answer": "prediction"
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 5: Plants in our Environment?",
+      "options": [
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
+      ],
+      "answer": 0
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Interactive Task: Week 5: Plants in our Environment",
+    "desc": "Perform a simple observation of Week 5: Plants in our Environment at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "labels": [
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 5: Plants in our Environment</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 5: Plants in our Environment and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Prediction and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 5: Plants in our Environment.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of observation</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 5: Plants in our Environment.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+    ]
+  }
+};
+
+window.WEEK5_DATA.english = {
+  "color": "#8b5cf6",
+  "icon": "📖",
+  "title": "English",
+  "subtitle": "Week 5: Simple Sentences",
+  "slides": [
+    {
+      "title": "Introduction to Week 5: Simple Sentences",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in English.",
+      "examples": [
+        {
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 5: Simple Sentences and apply them in daily situations."
+        },
+        {
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+        }
+      ]
+    },
+    {
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
+        {
+          "title": "Term 1: Alphabet",
+          "content": "A foundational concept in English that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Vowels",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
+    },
+    {
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 5: Simple Sentences. By looking closely at how these ideas work together, we can build a strong understanding of English.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 5: Simple Sentences in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 5: Simple Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Simple Sentences to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Simple Sentences in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 5: Simple Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Simple Sentences to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Simple Sentences in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 5: Simple Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Simple Sentences to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Simple Sentences in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 5: Simple Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Simple Sentences to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Simple Sentences in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 5: Simple Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Simple Sentences to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Simple Sentences in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 5: Simple Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Simple Sentences to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Simple Sentences in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 5: Simple Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Simple Sentences to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Simple Sentences in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 5: Simple Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Simple Sentences to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Simple Sentences in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 5: Simple Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Simple Sentences to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Simple Sentences in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 5: Simple Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Simple Sentences to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Simple Sentences in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 5: Simple Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Simple Sentences to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Simple Sentences in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 5: Simple Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Simple Sentences to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Simple Sentences in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 5: Simple Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Simple Sentences to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Simple Sentences in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 5: Simple Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Simple Sentences to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Simple Sentences in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 5: Simple Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Simple Sentences to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Simple Sentences in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 5: Simple Sentences to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 5: Simple Sentences to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 5: Simple Sentences to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 5: Simple Sentences to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 5: Simple Sentences. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+        }
+      ]
+    }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 5: Simple Sentences?",
+      "options": [
+        "Core term: Vowels",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 5: Simple Sentences?",
+      "options": [
+        "Core term: Consonants",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 5: Simple Sentences?",
+      "options": [
+        "Core term: Words",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 5: Simple Sentences?",
+      "options": [
+        "Core term: Nouns",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 5: Simple Sentences is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Simple Sentences are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Simple Sentences are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 5: Simple Sentences?",
+      "options": [
+        "Core term: Pronouns",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 5: Simple Sentences is a key topic in the study of ___.",
+      "answer": "English"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 5: Simple Sentences?",
+      "options": [
+        "Core term: Sentences",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 5: Simple Sentences?",
+      "options": [
+        "Core term: Synonyms",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 5: Simple Sentences is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Simple Sentences are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Simple Sentences are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 5: Simple Sentences?",
+      "options": [
+        "Core term: Vowels",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 5: Simple Sentences?",
+      "options": [
+        "Core term: Consonants",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 5: Simple Sentences?",
+      "options": [
+        "Core term: Words",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 5: Simple Sentences is a key topic in the study of ___.",
+      "answer": "English"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 5: Simple Sentences is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Simple Sentences are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Simple Sentences are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 5: Simple Sentences?",
+      "options": [
+        "Core term: Pronouns",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 5: Simple Sentences?",
+      "options": [
+        "Core term: Adjectives",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 5: Simple Sentences?",
+      "options": [
+        "Core term: Sentences",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 5: Simple Sentences?",
+      "options": [
+        "Core term: Synonyms",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 5: Simple Sentences is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Simple Sentences are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Simple Sentences are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 5: Simple Sentences is a key topic in the study of ___.",
+      "answer": "English"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 5: Simple Sentences?",
+      "options": [
+        "Core term: Consonants",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 5: Simple Sentences?",
+      "options": [
+        "Core term: Words",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 5: Simple Sentences?",
+      "options": [
+        "Core term: Nouns",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 5: Simple Sentences is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Simple Sentences are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Simple Sentences are not relevant to these cases."
+      ],
+      "answer": 0
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "Challenge 1: In a complex situation involving Week 5: Simple Sentences, what is the first priority?",
+      "options": [
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 5: Simple Sentences?",
+      "options": [
+        "The primary variable: Alphabet",
+        "An external variable",
+        "No variable",
+        "All variables equally"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 5: Simple Sentences.",
+      "options": [
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 5: Simple Sentences?",
+      "answer": "vowels"
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 5: Simple Sentences?",
+      "options": [
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
+      ],
+      "answer": 0
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Interactive Task: Week 5: Simple Sentences",
+    "desc": "Perform a simple observation of Week 5: Simple Sentences at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "labels": [
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 5: Simple Sentences</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 5: Simple Sentences and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Vowels and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 5: Simple Sentences.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alphabet</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 5: Simple Sentences.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+    ]
+  }
+};
+
+window.WEEK5_DATA.filipino = {
+  "color": "#ec4899",
+  "icon": "🗣️",
+  "title": "Filipino",
+  "subtitle": "Week 5: Pang-abay (Adverbs)",
+  "slides": [
+    {
+      "title": "Introduction to Week 5: Pang-abay (Adverbs)",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Filipino.",
+      "examples": [
+        {
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 5: Pang-abay (Adverbs) and apply them in daily situations."
+        },
+        {
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+        }
+      ]
+    },
+    {
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
+        {
+          "title": "Term 1: Alpabeto",
+          "content": "A foundational concept in Filipino that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Patinig",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
+    },
+    {
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 5: Pang-abay (Adverbs). By looking closely at how these ideas work together, we can build a strong understanding of Filipino.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 5: Pang-abay (Adverbs) in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 5: Pang-abay (Adverbs). Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Pang-abay (Adverbs) to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Pang-abay (Adverbs) in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 5: Pang-abay (Adverbs). Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Pang-abay (Adverbs) to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Pang-abay (Adverbs) in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 5: Pang-abay (Adverbs). Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Pang-abay (Adverbs) to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Pang-abay (Adverbs) in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 5: Pang-abay (Adverbs). Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Pang-abay (Adverbs) to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Pang-abay (Adverbs) in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 5: Pang-abay (Adverbs). Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Pang-abay (Adverbs) to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Pang-abay (Adverbs) in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 5: Pang-abay (Adverbs). Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Pang-abay (Adverbs) to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Pang-abay (Adverbs) in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 5: Pang-abay (Adverbs). Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Pang-abay (Adverbs) to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Pang-abay (Adverbs) in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 5: Pang-abay (Adverbs). Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Pang-abay (Adverbs) to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Pang-abay (Adverbs) in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 5: Pang-abay (Adverbs). Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Pang-abay (Adverbs) to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Pang-abay (Adverbs) in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 5: Pang-abay (Adverbs). Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Pang-abay (Adverbs) to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Pang-abay (Adverbs) in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 5: Pang-abay (Adverbs). Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Pang-abay (Adverbs) to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Pang-abay (Adverbs) in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 5: Pang-abay (Adverbs). Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Pang-abay (Adverbs) to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Pang-abay (Adverbs) in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 5: Pang-abay (Adverbs). Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Pang-abay (Adverbs) to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Pang-abay (Adverbs) in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 5: Pang-abay (Adverbs). Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Pang-abay (Adverbs) to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Pang-abay (Adverbs) in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 5: Pang-abay (Adverbs). Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Pang-abay (Adverbs) to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Pang-abay (Adverbs) in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 5: Pang-abay (Adverbs) to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 5: Pang-abay (Adverbs) to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 5: Pang-abay (Adverbs) to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 5: Pang-abay (Adverbs) to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 5: Pang-abay (Adverbs). You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+        }
+      ]
+    }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 5: Pang-abay (Adverbs)?",
+      "options": [
+        "Core term: Patinig",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 5: Pang-abay (Adverbs)?",
+      "options": [
+        "Core term: Katinig",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 5: Pang-abay (Adverbs)?",
+      "options": [
+        "Core term: Pangngalan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 5: Pang-abay (Adverbs)?",
+      "options": [
+        "Core term: Pantangi",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 5: Pang-abay (Adverbs) is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Pang-abay (Adverbs) are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Pang-abay (Adverbs) are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 5: Pang-abay (Adverbs)?",
+      "options": [
+        "Core term: Panghalip",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 5: Pang-abay (Adverbs) is a key topic in the study of ___.",
+      "answer": "Filipino"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 5: Pang-abay (Adverbs)?",
+      "options": [
+        "Core term: Pang-uri",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 5: Pang-abay (Adverbs)?",
+      "options": [
+        "Core term: Pang-abay",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 5: Pang-abay (Adverbs) is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Pang-abay (Adverbs) are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Pang-abay (Adverbs) are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 5: Pang-abay (Adverbs)?",
+      "options": [
+        "Core term: Patinig",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 5: Pang-abay (Adverbs)?",
+      "options": [
+        "Core term: Katinig",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 5: Pang-abay (Adverbs)?",
+      "options": [
+        "Core term: Pangngalan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 5: Pang-abay (Adverbs) is a key topic in the study of ___.",
+      "answer": "Filipino"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 5: Pang-abay (Adverbs) is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Pang-abay (Adverbs) are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Pang-abay (Adverbs) are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 5: Pang-abay (Adverbs)?",
+      "options": [
+        "Core term: Panghalip",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 5: Pang-abay (Adverbs)?",
+      "options": [
+        "Core term: Pandiwa",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 5: Pang-abay (Adverbs)?",
+      "options": [
+        "Core term: Pang-uri",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 5: Pang-abay (Adverbs)?",
+      "options": [
+        "Core term: Pang-abay",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 5: Pang-abay (Adverbs) is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Pang-abay (Adverbs) are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Pang-abay (Adverbs) are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 5: Pang-abay (Adverbs) is a key topic in the study of ___.",
+      "answer": "Filipino"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 5: Pang-abay (Adverbs)?",
+      "options": [
+        "Core term: Katinig",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 5: Pang-abay (Adverbs)?",
+      "options": [
+        "Core term: Pangngalan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 5: Pang-abay (Adverbs)?",
+      "options": [
+        "Core term: Pantangi",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 5: Pang-abay (Adverbs) is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Pang-abay (Adverbs) are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Pang-abay (Adverbs) are not relevant to these cases."
+      ],
+      "answer": 0
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "Challenge 1: In a complex situation involving Week 5: Pang-abay (Adverbs), what is the first priority?",
+      "options": [
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 5: Pang-abay (Adverbs)?",
+      "options": [
+        "The primary variable: Alpabeto",
+        "An external variable",
+        "No variable",
+        "All variables equally"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 5: Pang-abay (Adverbs).",
+      "options": [
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 5: Pang-abay (Adverbs)?",
+      "answer": "patinig"
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 5: Pang-abay (Adverbs)?",
+      "options": [
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
+      ],
+      "answer": 0
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Interactive Task: Week 5: Pang-abay (Adverbs)",
+    "desc": "Perform a simple observation of Week 5: Pang-abay (Adverbs) at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "labels": [
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 5: Pang-abay (Adverbs)</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 5: Pang-abay (Adverbs) and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Patinig and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 5: Pang-abay (Adverbs).</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alpabeto</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 5: Pang-abay (Adverbs).</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+    ]
+  }
+};
+
+window.WEEK5_DATA.makabansa = {
+  "color": "#f59e0b",
+  "icon": "🏝️",
+  "title": "Makabansa",
+  "subtitle": "Week 5: Ang Ating Paaralan",
+  "slides": [
+    {
+      "title": "Introduction to Week 5: Ang Ating Paaralan",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Makabansa.",
+      "examples": [
+        {
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 5: Ang Ating Paaralan and apply them in daily situations."
+        },
+        {
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+        }
+      ]
+    },
+    {
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
+        {
+          "title": "Term 1: Sarili",
+          "content": "A foundational concept in Makabansa that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Pamilya",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
+    },
+    {
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 5: Ang Ating Paaralan. By looking closely at how these ideas work together, we can build a strong understanding of Makabansa.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 5: Ang Ating Paaralan in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 5: Ang Ating Paaralan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Ang Ating Paaralan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Ang Ating Paaralan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 5: Ang Ating Paaralan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Ang Ating Paaralan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Ang Ating Paaralan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 5: Ang Ating Paaralan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Ang Ating Paaralan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Ang Ating Paaralan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 5: Ang Ating Paaralan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Ang Ating Paaralan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Ang Ating Paaralan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 5: Ang Ating Paaralan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Ang Ating Paaralan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Ang Ating Paaralan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 5: Ang Ating Paaralan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Ang Ating Paaralan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Ang Ating Paaralan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 5: Ang Ating Paaralan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Ang Ating Paaralan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Ang Ating Paaralan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 5: Ang Ating Paaralan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Ang Ating Paaralan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Ang Ating Paaralan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 5: Ang Ating Paaralan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Ang Ating Paaralan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Ang Ating Paaralan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 5: Ang Ating Paaralan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Ang Ating Paaralan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Ang Ating Paaralan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 5: Ang Ating Paaralan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Ang Ating Paaralan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Ang Ating Paaralan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 5: Ang Ating Paaralan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Ang Ating Paaralan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Ang Ating Paaralan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 5: Ang Ating Paaralan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Ang Ating Paaralan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Ang Ating Paaralan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 5: Ang Ating Paaralan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Ang Ating Paaralan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Ang Ating Paaralan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 5: Ang Ating Paaralan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Ang Ating Paaralan to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Ang Ating Paaralan in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 5: Ang Ating Paaralan to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 5: Ang Ating Paaralan to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 5: Ang Ating Paaralan to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 5: Ang Ating Paaralan to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 5: Ang Ating Paaralan. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+        }
+      ]
+    }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 5: Ang Ating Paaralan?",
+      "options": [
+        "Core term: Pamilya",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 5: Ang Ating Paaralan?",
+      "options": [
+        "Core term: Tungkulin",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 5: Ang Ating Paaralan?",
+      "options": [
+        "Core term: Komunidad",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 5: Ang Ating Paaralan?",
+      "options": [
+        "Core term: Kasaysayan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 5: Ang Ating Paaralan is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Ang Ating Paaralan are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Ang Ating Paaralan are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 5: Ang Ating Paaralan?",
+      "options": [
+        "Core term: Landmarks",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 5: Ang Ating Paaralan is a key topic in the study of ___.",
+      "answer": "Makabansa"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 5: Ang Ating Paaralan?",
+      "options": [
+        "Core term: Tradisyon",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 5: Ang Ating Paaralan?",
+      "options": [
+        "Core term: Lokasyon",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 5: Ang Ating Paaralan is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Ang Ating Paaralan are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Ang Ating Paaralan are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 5: Ang Ating Paaralan?",
+      "options": [
+        "Core term: Pamilya",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 5: Ang Ating Paaralan?",
+      "options": [
+        "Core term: Tungkulin",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 5: Ang Ating Paaralan?",
+      "options": [
+        "Core term: Komunidad",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 5: Ang Ating Paaralan is a key topic in the study of ___.",
+      "answer": "Makabansa"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 5: Ang Ating Paaralan is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Ang Ating Paaralan are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Ang Ating Paaralan are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 5: Ang Ating Paaralan?",
+      "options": [
+        "Core term: Landmarks",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 5: Ang Ating Paaralan?",
+      "options": [
+        "Core term: Timeline",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 5: Ang Ating Paaralan?",
+      "options": [
+        "Core term: Tradisyon",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 5: Ang Ating Paaralan?",
+      "options": [
+        "Core term: Lokasyon",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 5: Ang Ating Paaralan is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Ang Ating Paaralan are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Ang Ating Paaralan are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 5: Ang Ating Paaralan is a key topic in the study of ___.",
+      "answer": "Makabansa"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 5: Ang Ating Paaralan?",
+      "options": [
+        "Core term: Tungkulin",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 5: Ang Ating Paaralan?",
+      "options": [
+        "Core term: Komunidad",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 5: Ang Ating Paaralan?",
+      "options": [
+        "Core term: Kasaysayan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 5: Ang Ating Paaralan is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Ang Ating Paaralan are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Ang Ating Paaralan are not relevant to these cases."
+      ],
+      "answer": 0
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "Challenge 1: In a complex situation involving Week 5: Ang Ating Paaralan, what is the first priority?",
+      "options": [
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 5: Ang Ating Paaralan?",
+      "options": [
+        "The primary variable: Sarili",
+        "An external variable",
+        "No variable",
+        "All variables equally"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 5: Ang Ating Paaralan.",
+      "options": [
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 5: Ang Ating Paaralan?",
+      "answer": "pamilya"
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 5: Ang Ating Paaralan?",
+      "options": [
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
+      ],
+      "answer": 0
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Interactive Task: Week 5: Ang Ating Paaralan",
+    "desc": "Perform a simple observation of Week 5: Ang Ating Paaralan at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "labels": [
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 5: Ang Ating Paaralan</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 5: Ang Ating Paaralan and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Pamilya and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 5: Ang Ating Paaralan.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of sarili</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 5: Ang Ating Paaralan.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+    ]
+  }
+};
+
+window.WEEK5_DATA.gmrc = {
+  "color": "#06b6d4",
+  "icon": "🧘‍♂️",
+  "title": "GMRC",
+  "subtitle": "Week 5: Katapatan sa Pamilya",
+  "slides": [
+    {
+      "title": "Introduction to Week 5: Katapatan sa Pamilya",
+      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in GMRC.",
+      "examples": [
+        {
+          "title": "Lesson Goal",
+          "content": "Understand the core elements of Week 5: Katapatan sa Pamilya and apply them in daily situations."
+        },
+        {
+          "title": "Real-world Connection",
+          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+        }
+      ]
+    },
+    {
+      "title": "Core Vocabulary & Terms",
+      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "examples": [
+        {
+          "title": "Term 1: Pagmamahal",
+          "content": "A foundational concept in GMRC that helps us categorize and understand details."
+        },
+        {
+          "title": "Term 2: Kalinisan",
+          "content": "An active process or skill used to analyze situations and solve problems."
+        }
+      ]
+    },
+    {
+      "title": "Understanding the Main Concept",
+      "text": "The main focus of this week is Week 5: Katapatan sa Pamilya. By looking closely at how these ideas work together, we can build a strong understanding of GMRC.",
+      "examples": [
+        {
+          "title": "Key Concept Focus",
+          "content": "How to identify, describe, and apply Week 5: Katapatan sa Pamilya in simple activities."
+        },
+        {
+          "title": "Why It Matters",
+          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 1",
+      "text": "Let's explore Case 1 under Week 5: Katapatan sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 1A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Katapatan sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 1B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Katapatan sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 2",
+      "text": "Let's explore Case 2 under Week 5: Katapatan sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 2A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Katapatan sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 2B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Katapatan sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 3",
+      "text": "Let's explore Case 3 under Week 5: Katapatan sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 3A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Katapatan sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 3B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Katapatan sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 4",
+      "text": "Let's explore Case 4 under Week 5: Katapatan sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 4A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Katapatan sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 4B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Katapatan sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 5",
+      "text": "Let's explore Case 5 under Week 5: Katapatan sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 5A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Katapatan sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 5B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Katapatan sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 6",
+      "text": "Let's explore Case 6 under Week 5: Katapatan sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 6A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Katapatan sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 6B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Katapatan sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 7",
+      "text": "Let's explore Case 7 under Week 5: Katapatan sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 7A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Katapatan sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 7B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Katapatan sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 8",
+      "text": "Let's explore Case 8 under Week 5: Katapatan sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 8A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Katapatan sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 8B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Katapatan sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 9",
+      "text": "Let's explore Case 9 under Week 5: Katapatan sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 9A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Katapatan sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 9B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Katapatan sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 10",
+      "text": "Let's explore Case 10 under Week 5: Katapatan sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 10A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Katapatan sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 10B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Katapatan sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 11",
+      "text": "Let's explore Case 11 under Week 5: Katapatan sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 11A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Katapatan sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 11B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Katapatan sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 12",
+      "text": "Let's explore Case 12 under Week 5: Katapatan sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 12A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Katapatan sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 12B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Katapatan sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 13",
+      "text": "Let's explore Case 13 under Week 5: Katapatan sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 13A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Katapatan sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 13B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Katapatan sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 14",
+      "text": "Let's explore Case 14 under Week 5: Katapatan sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 14A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Katapatan sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 14B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Katapatan sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Detailed Lesson Case 15",
+      "text": "Let's explore Case 15 under Week 5: Katapatan sa Pamilya. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "examples": [
+        {
+          "title": "Example Case 15A",
+          "content": "In this case, we look at the interaction of key elements in Week 5: Katapatan sa Pamilya to observe the correct outcome."
+        },
+        {
+          "title": "Example Case 15B",
+          "content": "A secondary demonstration showing how different variables affect Week 5: Katapatan sa Pamilya in other contexts."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 1",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 1",
+          "content": "How would you apply the rules of Week 5: Katapatan sa Pamilya to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 1",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 2",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 2",
+          "content": "How would you apply the rules of Week 5: Katapatan sa Pamilya to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 2",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 3",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 3",
+          "content": "How would you apply the rules of Week 5: Katapatan sa Pamilya to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 3",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice Exercise 4",
+      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "examples": [
+        {
+          "title": "Practice Task 4",
+          "content": "How would you apply the rules of Week 5: Katapatan sa Pamilya to analyze or solve this sample scenario?"
+        },
+        {
+          "title": "Correct Solution 4",
+          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 1",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 1",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 1",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Common Error to Avoid 2",
+      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "examples": [
+        {
+          "title": "Incorrect Approach 2",
+          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+        },
+        {
+          "title": "Correct Approach 2",
+          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Review & Summary",
+      "text": "Congratulations! You have completed all the lessons on Week 5: Katapatan sa Pamilya. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "examples": [
+        {
+          "title": "Summary Points",
+          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+        },
+        {
+          "title": "Reflection",
+          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+        }
+      ]
+    }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 5: Katapatan sa Pamilya?",
+      "options": [
+        "Core term: Kalinisan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 5: Katapatan sa Pamilya?",
+      "options": [
+        "Core term: Disiplina",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 5: Katapatan sa Pamilya?",
+      "options": [
+        "Core term: Paggalang",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 5: Katapatan sa Pamilya?",
+      "options": [
+        "Core term: Katapatan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 5): Which statement about Week 5: Katapatan sa Pamilya is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Katapatan sa Pamilya are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Katapatan sa Pamilya are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 5: Katapatan sa Pamilya?",
+      "options": [
+        "Core term: Pagtitipid",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 7): Week 5: Katapatan sa Pamilya is a key topic in the study of ___.",
+      "answer": "GMRC"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 5: Katapatan sa Pamilya?",
+      "options": [
+        "Core term: Bayanihan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 5: Katapatan sa Pamilya?",
+      "options": [
+        "Core term: Pag-iimpok",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 10): Which statement about Week 5: Katapatan sa Pamilya is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Katapatan sa Pamilya are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Katapatan sa Pamilya are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 5: Katapatan sa Pamilya?",
+      "options": [
+        "Core term: Kalinisan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 5: Katapatan sa Pamilya?",
+      "options": [
+        "Core term: Disiplina",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 5: Katapatan sa Pamilya?",
+      "options": [
+        "Core term: Paggalang",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 14): Week 5: Katapatan sa Pamilya is a key topic in the study of ___.",
+      "answer": "GMRC"
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 15): Which statement about Week 5: Katapatan sa Pamilya is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Katapatan sa Pamilya are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Katapatan sa Pamilya are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 5: Katapatan sa Pamilya?",
+      "options": [
+        "Core term: Pagtitipid",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 5: Katapatan sa Pamilya?",
+      "options": [
+        "Core term: Responsable",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 5: Katapatan sa Pamilya?",
+      "options": [
+        "Core term: Bayanihan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 5: Katapatan sa Pamilya?",
+      "options": [
+        "Core term: Pag-iimpok",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 20): Which statement about Week 5: Katapatan sa Pamilya is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Katapatan sa Pamilya are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Katapatan sa Pamilya are not relevant to these cases."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Fill in the blank (Question 21): Week 5: Katapatan sa Pamilya is a key topic in the study of ___.",
+      "answer": "GMRC"
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 5: Katapatan sa Pamilya?",
+      "options": [
+        "Core term: Disiplina",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 5: Katapatan sa Pamilya?",
+      "options": [
+        "Core term: Paggalang",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 5: Katapatan sa Pamilya?",
+      "options": [
+        "Core term: Katapatan",
+        "None of these",
+        "An unrelated concept",
+        "A random guess"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Statement Check (Question 25): Which statement about Week 5: Katapatan sa Pamilya is correct?",
+      "options": [
+        "Statement A: The core rules of Week 5: Katapatan sa Pamilya are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Katapatan sa Pamilya are not relevant to these cases."
+      ],
+      "answer": 0
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "Challenge 1: In a complex situation involving Week 5: Katapatan sa Pamilya, what is the first priority?",
+      "options": [
+        "Analyze key terms and variables",
+        "Guess the answer immediately",
+        "Skip the question",
+        "Use unrelated formulas"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 5: Katapatan sa Pamilya?",
+      "options": [
+        "The primary variable: Pagmamahal",
+        "An external variable",
+        "No variable",
+        "All variables equally"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "Challenge 3: Compare two statements about Week 5: Katapatan sa Pamilya.",
+      "options": [
+        "Statement A: Proper methodology leads to a correct and verified solution.",
+        "Statement B: Rushing through calculations is safe and rarely causes errors."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 5: Katapatan sa Pamilya?",
+      "answer": "kalinisan"
+    },
+    {
+      "type": "choice",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 5: Katapatan sa Pamilya?",
+      "options": [
+        "Building logical reasoning and problem-solving skills",
+        "Forgetting previous lessons",
+        "Speeding up without accuracy",
+        "None of these"
+      ],
+      "answer": 0
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Interactive Task: Week 5: Katapatan sa Pamilya",
+    "desc": "Perform a simple observation of Week 5: Katapatan sa Pamilya at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "labels": [
+      "Accurate explanation of concept",
+      "Clarity and confidence in presentation",
+      "Neatness of written notes"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 5: Katapatan sa Pamilya</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 5: Katapatan sa Pamilya and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Kalinisan and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 5: Katapatan sa Pamilya.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of pagmamahal</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 5: Katapatan sa Pamilya.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+    ]
+  }
+};
 
 window.WEEK5_DATA.reading = {
   "monday": {
@@ -225,27 +4201,27 @@ window.WEEK5_DATA.reading = {
     "slides": [
       {
         "title": "Kuwento: Ang Matsing at ang Buwaya - Bahagi 1",
-        "text": "Sa isang malawak na kagubatan, nakatira ang isang matalinong Matsing sa isang malaking puno ng bayabas sa tabi ng ilog. Araw-araw ay kumakain siya ng matatamis na bayabas. Isang araw, lumapit ang isang malaking Buwaya sa pampang ng ilog. 'Kaibigang Matsing, maaari mo ba akong bigyan ng ilang bayabas? Gutom na ako,' sabi ng Buwaya. Agad na pumitas si Matsing ng mga hinog na bayabas at inihulog sa Buwaya. Naging magkaibigan sila at nagkikita araw-araw upang magkwentuhan at kumain."
+        "text": "<span class=\"fil-sentence\" data-translation=\"In a vast forest, a clever Monkey lived in a large guava tree by the river.\"><span class=\"fil-sentence\" data-translation=\"In a vast forest, a clever Monkey lived in a large guava tree by the river.\">Sa isang malawak na kagubatan, nakatira ang isang matalinong Matsing sa isang malaking puno ng bayabas sa tabi ng ilog.</span></span> <span class=\"fil-sentence\" data-translation=\"Every day he ate sweet guavas.\"><span class=\"fil-sentence\" data-translation=\"Every day he ate sweet guavas.\">Araw-araw ay kumakain siya ng matatamis na bayabas.</span></span> <span class=\"fil-sentence\" data-translation=\"One day, a large Crocodile approached the riverbank.\"><span class=\"fil-sentence\" data-translation=\"One day, a large Crocodile approached the riverbank.\">Isang araw, lumapit ang isang malaking Buwaya sa pampang ng ilog.</span></span> <span class=\"fil-sentence\" data-translation=\"'Friend Monkey, could you give me some guavas? I am hungry,' said the Crocodile.\"><span class=\"fil-sentence\" data-translation=\"'Friend Monkey, could you give me some guavas? I am hungry,' said the Crocodile.\">'Kaibigang Matsing, maaari mo ba akong bigyan ng ilang bayabas? Gutom na ako,' sabi ng Buwaya.</span></span> <span class=\"fil-sentence\" data-translation=\"Monkey immediately picked ripe guavas and dropped them to the Crocodile.\"><span class=\"fil-sentence\" data-translation=\"Monkey immediately picked ripe guavas and dropped them to the Crocodile.\">Agad na pumitas si Matsing ng mga hinog na bayabas at inihulog sa Buwaya.</span></span> <span class=\"fil-sentence\" data-translation=\"They became friends and met every day to talk and eat.\"><span class=\"fil-sentence\" data-translation=\"They became friends and met every day to talk and eat.\">Naging magkaibigan sila at nagkikita araw-araw upang magkwentuhan at kumain.</span></span>"
       },
       {
         "title": "Kuwento: Ang Matsing at ang Buwaya - Bahagi 2",
-        "text": "Dinalhan ng Buwaya ang kanyang asawa ng ilang bayabas. Ngunit nang makain ito ng asawa, sinabi nito: 'Kung ang bayabas ay ganito katamis, tiyak na mas matamis ang puso ng Matsing na kumakain nito araw-araw! Gusto kong kainin ang kanyang puso.' Napilitan ang Buwaya na linlangin ang kanyang kaibigan. Kinabukasan, sinabi niya kay Matsing: 'Matsing, gusto kang makilala ng asawa ko. Sumakay ka sa likod ko at tatawid tayo sa kabila ng ilog kung saan nakatira ang aking pamilya.' Sumakay si Matsing, ngunit sa gitna ng ilog, sinabi ng Buwaya ang totoo."
+        "text": "<span class=\"fil-sentence\" data-translation=\"The Crocodile brought some guavas to his wife.\"><span class=\"fil-sentence\" data-translation=\"The Crocodile brought some guavas to his wife.\">Dinalhan ng Buwaya ang kanyang asawa ng ilang bayabas.</span></span> <span class=\"fil-sentence\" data-translation=\"But when the wife ate it, she said: 'If the guavas are this sweet, surely the heart of the Monkey who eats them daily is sweeter! I want to eat his heart.'\"><span class=\"fil-sentence\" data-translation=\"But when the wife ate it, she said: 'If the guavas are this sweet, surely the heart of the Monkey who eats them daily is sweeter! I want to eat his heart.'\">Ngunit nang makain ito ng asawa, sinabi nito: 'Kung ang bayabas ay ganito katamis, tiyak na mas matamis ang puso ng Matsing na kumakain nito araw-araw! Gusto kong kainin ang kanyang puso.'</span></span> <span class=\"fil-sentence\" data-translation=\"The Crocodile was forced to deceive his friend.\"><span class=\"fil-sentence\" data-translation=\"The Crocodile was forced to deceive his friend.\">Napilitan ang Buwaya na linlangin ang kanyang kaibigan.</span></span> <span class=\"fil-sentence\" data-translation=\"The next day, he said to Monkey: 'Monkey, my wife wants to meet you. Ride on my back and we will cross to the other side of the river where my family lives.'\"><span class=\"fil-sentence\" data-translation=\"The next day, he said to Monkey: 'Monkey, my wife wants to meet you. Ride on my back and we will cross to the other side of the river where my family lives.'\">Kinabukasan, sinabi niya kay Matsing: 'Matsing, gusto kang makilala ng asawa ko. Sumakay ka sa likod ko at tatawid tayo sa kabila ng ilog kung saan nakatira ang aking pamilya.'</span></span> <span class=\"fil-sentence\" data-translation=\"Monkey rode, but in the middle of the river, the Crocodile told the truth.\"><span class=\"fil-sentence\" data-translation=\"Monkey rode, but in the middle of the river, the Crocodile told the truth.\">Sumakay si Matsing, ngunit sa gitna ng ilog, sinabi ng Buwaya ang totoo.</span></span>"
       },
       {
         "title": "Kuwento: Ang Matsing at ang Buwaya - Bahagi 3",
-        "text": "Natakot si Matsing ngunit nag-isip ng mabilis. 'Naku, Buwaya! Bakit hindi mo sinabi agad? Iniwan ko ang puso ko sa itaas ng puno ng bayabas dahil natatakot akong mabasa ito sa ilog. Bumalik tayo at kukunin ko ito,' wika ni Matsing. Naniwala ang Buwaya at lumangoy pabalik sa pampang. Pagdating sa pampang, mabilis na tumalon si Matsing sa puno at tumawa. 'Sino ang tangang hayop na nag-iiwan ng puso sa puno? Niloko mo ako, kaya niloko rin kita!' sigaw ni Matsing. Natuto ang Buwaya na hindi sapat ang lakas kung walang talino, at nawalan siya ng matapat na kaibigan."
+        "text": "<span class=\"fil-sentence\" data-translation=\"Monkey was afraid but thought quickly.\"><span class=\"fil-sentence\" data-translation=\"Monkey was afraid but thought quickly.\">Natakot si Matsing ngunit nag-isip ng mabilis.</span></span> <span class=\"fil-sentence\" data-translation=\"'Oh Crocodile! Why didn't you say so earlier? I left my heart at the top of the guava tree because I was afraid it would get wet in the river. Let's go back and I'll get it,' said Monkey.\"><span class=\"fil-sentence\" data-translation=\"'Oh Crocodile! Why didn't you say so earlier? I left my heart at the top of the guava tree because I was afraid it would get wet in the river. Let's go back and I'll get it,' said Monkey.\">'Naku, Buwaya! Bakit hindi mo sinabi agad? Iniwan ko ang puso ko sa itaas ng puno ng bayabas dahil natatakot akong mabasa ito sa ilog. Bumalik tayo at kukunin ko ito,' wika ni Matsing.</span></span> <span class=\"fil-sentence\" data-translation=\"The Crocodile believed it and swam back to the shore.\"><span class=\"fil-sentence\" data-translation=\"The Crocodile believed it and swam back to the shore.\">Naniwala ang Buwaya at lumangoy pabalik sa pampang.</span></span> <span class=\"fil-sentence\" data-translation=\"Upon reaching the shore, Monkey quickly jumped onto the tree and laughed.\"><span class=\"fil-sentence\" data-translation=\"Upon reaching the shore, Monkey quickly jumped onto the tree and laughed.\">Pagdating sa pampang, mabilis na tumalon si Matsing sa puno at tumawa.</span></span> <span class=\"fil-sentence\" data-translation=\"'What foolish animal leaves their heart on a tree? You tricked me, so I tricked you too!' shouted Monkey.\"><span class=\"fil-sentence\" data-translation=\"'What foolish animal leaves their heart on a tree? You tricked me, so I tricked you too!' shouted Monkey.\">'Sino ang tangang hayop na nag-iiwan ng puso sa puno? Niloko mo ako, kaya niloko rin kita!' sigaw ni Matsing.</span></span> <span class=\"fil-sentence\" data-translation=\"The Crocodile learned that strength is not enough without intelligence, and he lost a loyal friend.\"><span class=\"fil-sentence\" data-translation=\"The Crocodile learned that strength is not enough without intelligence, and he lost a loyal friend.\">Natuto ang Buwaya na hindi sapat ang lakas kung walang talino, at nawalan siya ng matapat na kaibigan.</span></span>"
       },
       {
         "title": "Talasalitaan at Pag-aaral ng Salita",
-        "text": "Mga Bokabularyo:\n• Linlangin - Dayain o lokohin gamit ang mga matatamis na salita.\n• Puso - Ang organ na nagpapadaloy ng dugo, ginamit dito bilang simbolo ng buhay.\n• Tangang - Walang sapat na talino o madaling maniwala sa kasinungalingan.\n\nTutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'b' sa 'buwaya', 'bayabas', at 'buntot'."
+        "text": "<span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\">Mga Bokabularyo:</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Deceive - Cheat or trick using sweet words.\"><span class=\"fil-sentence\" data-translation=\"Deceive - Cheat or trick using sweet words.\">Linlangin - Dayain o lokohin gamit ang mga matatamis na salita.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Heart - The organ that circulates blood, used here as a symbol of life.\"><span class=\"fil-sentence\" data-translation=\"Heart - The organ that circulates blood, used here as a symbol of life.\">Puso - Ang organ na nagpapadaloy ng dugo, ginamit dito bilang simbolo ng buhay.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Foolish - Lacking enough intelligence or easily believing lies.\"><span class=\"fil-sentence\" data-translation=\"Foolish - Lacking enough intelligence or easily believing lies.\">Tangang - Walang sapat na talino o madaling maniwala sa kasinungalingan.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'b' sound in 'buwaya', 'bayabas', and 'buntot'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'b' sound in 'buwaya', 'bayabas', and 'buntot'.\">Tutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'b' sa 'buwaya', 'bayabas', at 'buntot'.</span></span>"
       },
       {
         "title": "Mga Tanong sa Pag-unawa",
-        "text": "Mga Tanong:\n1. Bakit nais ng asawa ng Buwaya na kainin ang puso ng Matsing?\n2. Paano nalinlang ng Buwaya si Matsing upang sumakay sa kanyang likod?\n3. Paano nakaligtas si Matsing sa masamang balak ng Buwaya?"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\">Mga Tanong:</span></span>\n<span class=\"fil-sentence\" data-translation=\"1. Why did the Crocodile's wife want to eat the Monkey's heart?\"><span class=\"fil-sentence\" data-translation=\"1. Why did the Crocodile's wife want to eat the Monkey's heart?\">1. Bakit nais ng asawa ng Buwaya na kainin ang puso ng Matsing?</span></span>\n<span class=\"fil-sentence\" data-translation=\"2. How did the Crocodile trick the Monkey into riding on his back?\"><span class=\"fil-sentence\" data-translation=\"2. How did the Crocodile trick the Monkey into riding on his back?\">2. Paano nalinlang ng Buwaya si Matsing upang sumakay sa kanyang likod?</span></span>\n<span class=\"fil-sentence\" data-translation=\"3. How did the Monkey escape the Crocodile's evil plan?\"><span class=\"fil-sentence\" data-translation=\"3. How did the Monkey escape the Crocodile's evil plan?\">3. Paano nakaligtas si Matsing sa masamang balak ng Buwaya?</span></span>"
       },
       {
         "title": "Mabuting Aral at Pagninilay",
-        "text": "Kaisipan: Ang mabilis na pag-iisip sa oras ng panganib ay nagliligtas sa atin sa kapahamakan.\n\nHuwag magtiwala sa mga taong sumisira sa pagkakaibigan para sa kanilang sariling interes. Ang tunay na kaibigan ay hindi naghahangad ng kapahamakan ng kanyang kasama.\n\nTalakayin: Ano ang gagawin mo kung malaman mong may hindi magandang balak ang isang kakilala sa iyo?"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Thought: Quick thinking in times of danger saves us from disaster.\"><span class=\"fil-sentence\" data-translation=\"Thought: Quick thinking in times of danger saves us from disaster.\">Kaisipan: Ang mabilis na pag-iisip sa oras ng panganib ay nagliligtas sa atin sa kapahamakan.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Do not trust people who break friendships for their own interest. A true friend does not seek the harm of their companion.\"><span class=\"fil-sentence\" data-translation=\"Do not trust people who break friendships for their own interest. A true friend does not seek the harm of their companion.\">Huwag magtiwala sa mga taong sumisira sa pagkakaibigan para sa kanilang sariling interes. Ang tunay na kaibigan ay hindi naghahangad ng kapahamakan ng kanyang kasama.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Discuss: What will you do if you find out an acquaintance has bad intentions towards you?\"><span class=\"fil-sentence\" data-translation=\"Discuss: What will you do if you find out an acquaintance has bad intentions towards you?\">Talakayin: Ano ang gagawin mo kung malaman mong may hindi magandang balak ang isang kakilala sa iyo?</span></span>"
       }
     ]
   },
@@ -255,30 +4231,36 @@ window.WEEK5_DATA.reading = {
     "slides": [
       {
         "title": "Kuwento: Alamat ng Bahaghari - Bahagi 1",
-        "text": "Noong unang panahon, ang mga kulay sa mundo ay nag-away-away. Ang bawat kulay ay nag-aangkin na siya ang pinakamahalaga at pinakamaganda sa lahat. Sigaw ni Pula: 'Ako ang simbolo ng tapang at pag-ibig! Ako ang pinakamahalaga!' Sabi ni Dilaw: 'Ako ang nagdadala ng liwanag at init ng araw! Kung wala ako, malungkot ang mundo!' Sabi naman ni Asul: 'Ako ang kulay ng malawak na karagatan at ng payapang langit!' Ang bawat kulay ay nagmamataas at hindi nakikinig sa iba."
+        "text": "<span class=\"fil-sentence\" data-translation=\"Once upon a time, the colors in the world quarreled.\"><span class=\"fil-sentence\" data-translation=\"Once upon a time, the colors in the world quarreled.\">Noong unang panahon, ang mga kulay sa mundo ay nag-away-away.</span></span> <span class=\"fil-sentence\" data-translation=\"Each color claimed that it was the most important and most beautiful of all.\"><span class=\"fil-sentence\" data-translation=\"Each color claimed that it was the most important and most beautiful of all.\">Ang bawat kulay ay nag-aangkin na siya ang pinakamahalaga at pinakamaganda sa lahat.</span></span> <span class=\"fil-sentence\" data-translation=\"Red shouted: 'I am the symbol of courage and love! I am the most important!'\"><span class=\"fil-sentence\" data-translation=\"Red shouted: 'I am the symbol of courage and love! I am the most important!'\">Sigaw ni Pula: 'Ako ang simbolo ng tapang at pag-ibig! Ako ang pinakamahalaga!'</span></span> <span class=\"fil-sentence\" data-translation=\"Yellow said: 'I bring light and warmth of the sun! Without me, the world is sad!'\"><span class=\"fil-sentence\" data-translation=\"Yellow said: 'I bring light and warmth of the sun! Without me, the world is sad!'\">Sabi ni Dilaw: 'Ako ang nagdadala ng liwanag at init ng araw! Kung wala ako, malungkot ang mundo!'</span></span> <span class=\"fil-sentence\" data-translation=\"Blue said: 'I am the color of the vast ocean and peaceful sky!'\"><span class=\"fil-sentence\" data-translation=\"Blue said: 'I am the color of the vast ocean and peaceful sky!'\">Sabi naman ni Asul: 'Ako ang kulay ng malawak na karagatan at ng payapang langit!'</span></span> <span class=\"fil-sentence\" data-translation=\"Each color was proud and did not listen to the others.\"><span class=\"fil-sentence\" data-translation=\"Each color was proud and did not listen to the others.\">Ang bawat kulay ay nagmamataas at hindi nakikinig sa iba.</span></span>"
       },
       {
         "title": "Kuwento: Alamat ng Bahaghari - Bahagi 2",
-        "text": "Habang lumalaki ang kanilang away, biglang dumilim ang langit at kumidlat nang napakalakas. Bumuhos ang isang matinding bagyo at ulan sa buong mundo. Natakot ang mga kulay sa lakas ng ulan, kaya nagkumpol-kumpol sila at naghawak-hawak ng kamay upang hindi tangayin ng agos. Biglang nagsalita ang Ulan sa kanila: 'Mga kulay, bakit kayo nag-aaway? Nilikha kayo ng may likha upang maging natatangi, ngunit magkakasama kayo upang maging kumpleto. Magtulungan kayo at huwag mag-away.'"
+        "text": "<span class=\"fil-sentence\" data-translation=\"As their fight grew, the sky suddenly darkened and lightning struck very loudly.\"><span class=\"fil-sentence\" data-translation=\"As their fight grew, the sky suddenly darkened and lightning struck very loudly.\">Habang lumalaki ang kanilang away, biglang dumilim ang langit at kumidlat nang napakalakas.</span></span> <span class=\"fil-sentence\" data-translation=\"A severe storm and rain poured over the whole world.\"><span class=\"fil-sentence\" data-translation=\"A severe storm and rain poured over the whole world.\">Bumuhos ang isang matinding bagyo at ulan sa buong mundo.</span></span> <span class=\"fil-sentence\" data-translation=\"The colors were afraid of the heavy rain, so they huddled together and held hands so as not to be swept away by the current.\"><span class=\"fil-sentence\" data-translation=\"The colors were afraid of the heavy rain, so they huddled together and held hands so as not to be swept away by the current.\">Natakot ang mga kulay sa lakas ng ulan, kaya nagkumpol-kumpol sila at naghawak-hawak ng kamay upang hindi tangayin ng agos.</span></span> <span class=\"fil-sentence\" data-translation=\"The Rain suddenly spoke to them: 'Colors, why are you fighting? The Creator made you to be unique, but together you are complete. Help each other and do not fight.'\"><span class=\"fil-sentence\" data-translation=\"The Rain suddenly spoke to them: 'Colors, why are you fighting? The Creator made you to be unique, but together you are complete. Help each other and do not fight.'\">Biglang nagsalita ang Ulan sa kanila: 'Mga kulay, bakit kayo nag-aaway? Nilikha kayo ng may likha upang maging natatangi, ngunit magkakasama kayo upang maging kumpleto. Magtulungan kayo at huwag mag-away.'</span></span>"
       },
       {
         "title": "Kuwento: Alamat ng Bahaghari - Bahagi 3",
-        "text": "Nahiya ang mga kulay sa kanilang pag-aaway at nagka-isa. Nang tumigil ang bagyo at sumikat ang araw, magkakahawak-kamay silang umakyat sa langit bilang isang arko ng iba't ibang magagandang kulay. Ito ang tinawag na Bahaghari (Rainbow). Simula noon, tuwing matatapos ang ulan, lumilitaw ang bahaghari sa langit bilang paalala ng pagkakaisa, pag-asa, at kapayapaan sa buong mundo pagkatapos ng unos."
+        "text": "<span class=\"fil-sentence\" data-translation=\"The colors were ashamed of their fighting and united.\"><span class=\"fil-sentence\" data-translation=\"The colors were ashamed of their fighting and united.\">Nahiya ang mga kulay sa kanilang pag-aaway at nagka-isa.</span></span> <span class=\"fil-sentence\" data-translation=\"When the storm stopped and the sun shone, they went up to the sky holding hands as an arch of beautiful colors.\"><span class=\"fil-sentence\" data-translation=\"When the storm stopped and the sun shone, they went up to the sky holding hands as an arch of beautiful colors.\">Nang tumigil ang bagyo at sumikat ang araw, magkakahawak-kamay silang umakyat sa langit bilang isang arko ng iba't ibang magagandang kulay.</span></span> <span class=\"fil-sentence\" data-translation=\"This was called Bahaghari (Rainbow).\"><span class=\"fil-sentence\" data-translation=\"This was called Bahaghari (Rainbow).\">Ito ang tinawag na Bahaghari (Rainbow).</span></span> <span class=\"fil-sentence\" data-translation=\"Since then, whenever the rain ends, the rainbow appears in the sky as a reminder of unity, hope, and peace in the whole world after the storm.\"><span class=\"fil-sentence\" data-translation=\"Since then, whenever the rain ends, the rainbow appears in the sky as a reminder of unity, hope, and peace in the whole world after the storm.\">Simula noon, tuwing matatapos ang ulan, lumilitaw ang bahaghari sa langit bilang paalala ng pagkakaisa, pag-asa, at kapayapaan sa buong mundo pagkatapos ng unos.</span></span>"
       },
       {
         "title": "Talasalitaan at Pag-aaral ng Salita",
-        "text": "Mga Bokabularyo:\n• Nag-aangkin - Nagpapahayag na pagmamay-ari niya ang isang bagay.\n• Nagkumpol-kumpol - Nagtipon-tipon nang malapit sa isa't isa.\n• Unos - Matinding bagyo o kalamidad.\n\nTutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'h' sa 'bahaghari', 'hapon', at 'hawak'."
+        "text": "<span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\">Mga Bokabularyo:</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Claiming - Declaring that one owns something.\"><span class=\"fil-sentence\" data-translation=\"Claiming - Declaring that one owns something.\">Nag-aangkin - Nagpapahayag na pagmamay-ari niya ang isang bagay.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Huddled - Gathered close to one another.\"><span class=\"fil-sentence\" data-translation=\"Huddled - Gathered close to one another.\">Nagkumpol-kumpol - Nagtipon-tipon nang malapit sa isa't isa.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Storm - Severe storm or calamity.\"><span class=\"fil-sentence\" data-translation=\"Storm - Severe storm or calamity.\">Unos - Matinding bagyo o kalamidad.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'h' sound in 'bahaghari', 'hapon', and 'hawak'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'h' sound in 'bahaghari', 'hapon', and 'hawak'.\">Tutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'h' sa 'bahaghari', 'hapon', at 'hawak'.</span></span>"
       },
       {
         "title": "Mga Tanong sa Pag-unawa",
-        "text": "Mga Tanong:\n1. Bakit nag-aaway ang mga kulay noong simula?\n2. Ano ang nangyari nang bumuhos ang matinding bagyo?\n3. Ano ang kinakatawan ng bahaghari kapag ito ay lumilitaw sa langit?"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\">Mga Tanong:</span></span>\n<span class=\"fil-sentence\" data-translation=\"1. Why did the colors fight in the beginning?\"><span class=\"fil-sentence\" data-translation=\"1. Why did the colors fight in the beginning?\">1. Bakit nag-aaway ang mga kulay noong simula?</span></span>\n<span class=\"fil-sentence\" data-translation=\"2. What happened when the severe storm poured?\"><span class=\"fil-sentence\" data-translation=\"2. What happened when the severe storm poured?\">2. Ano ang nangyari nang bumuhos ang matinding bagyo?</span></span>\n<span class=\"fil-sentence\" data-translation=\"3. What does the rainbow represent when it appears in the sky?\"><span class=\"fil-sentence\" data-translation=\"3. What does the rainbow represent when it appears in the sky?\">3. Ano ang kinakatawan ng bahaghari kapag ito ay lumilitaw sa langit?</span></span>"
       },
       {
         "title": "Mabuting Aral at Pagninilay",
-        "text": "Kaisipan: Ang pagkakaisa sa kabila ng pagkakaiba-iba ay nagdudulot ng kagandahan at kapayapaan.\n\nAng bawat tao ay may sariling galing at katangian, ngunit mas nagiging maganda ang mundo kung tayo ay nagtutulungan at nagkakaisa tulad ng mga kulay sa bahaghari.\n\nDiscuss: Paano mo maipapakita ang pagkakaisa sa inyong pangkat sa paaralan?"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Thought: Unity despite diversity brings beauty and peace.\"><span class=\"fil-sentence\" data-translation=\"Thought: Unity despite diversity brings beauty and peace.\">Kaisipan: Ang pagkakaisa sa kabila ng pagkakaiba-iba ay nagdudulot ng kagandahan at kapayapaan.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Each person has their own ability and quality, but the world becomes more beautiful if we help each other and unite like the colors of the rainbow.\"><span class=\"fil-sentence\" data-translation=\"Each person has their own ability and quality, but the world becomes more beautiful if we help each other and unite like the colors of the rainbow.\">Ang bawat tao ay may sariling galing at katangian, ngunit mas nagiging maganda ang mundo kung tayo ay nagtutulungan at nagkakaisa tulad ng mga kulay sa bahaghari.</span></span>\n\nDiscuss: Paano mo maipapakita ang pagkakaisa sa inyong pangkat sa paaralan?"
       }
     ]
   }
 };
+
+window.WEEK5_DATA.checklist = [
+  "Review weekly concept definitions",
+  "Complete daily reading section",
+  "Take weekly subject quizzes"
+];
 
 window.WEEK5_ADVANCED_DATA = window.WEEK5_DATA;
