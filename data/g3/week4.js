@@ -1219,355 +1219,263 @@ window.WEEK4_DATA.english = {
   "color": "#8b5cf6",
   "icon": "📖",
   "title": "English",
-  "subtitle": "Week 4: CVCC, CCVC, & VCV Review & Adjectives (Describing Words)",
+  "subtitle": "Week 4: Describing Physical Properties & Sentence Review",
   "slides": [
     {
-      "title": "Welcome to English Week 4",
-      "text": "In this week's module, we will explore key language concepts including CVCC, CCVC, & VCV Review, Adjectives (Describing Words), and Predicting Possible Endings.",
+      "title": "Welcome to the Review Expedition!",
+      "text": "Hello, Explorer! This week we are reviewing our word patterns, learning about describing words, and making logical predictions based on clues in nature!",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand and apply CVCC, CCVC, & VCV Review and Adjectives (Describing Words) in reading and writing."
-        },
-        {
-          "title": "Context",
-          "content": "This module is designed in the context of Grade 3 standards."
+          "title": "Weekly Goal",
+          "content": "Master spelling patterns review, apply adjectives to physical properties, review sentence types, and make predictions."
         }
       ]
     },
     {
-      "title": "Core Vocabulary Words",
-      "text": "Let's look at the core words for this week's phonics focus (CVCC, CCVC, & VCV Review): hand, tent, frog, drum, baby.",
+      "title": "Word Pattern Review",
+      "text": "Let's review our three spelling patterns: CVCC (hand), CCVC (frog), and VCV (baby). Being able to spell them makes us excellent readers!",
       "examples": [
         {
-          "title": "Word 1: Hand",
-          "content": "A phonics word matching the CVCC, CCVC, & VCV Review pattern."
-        },
-        {
-          "title": "Word 2: Tent",
-          "content": "Another example showing correct letter sound blends."
+          "title": "Review Patterns",
+          "content": "CVCC (consonant blends), CCVC (initial blends), VCV (long vowels)."
         }
       ]
     },
     {
-      "title": "Phonics: CVCC, CCVC, & VCV Review",
-      "text": "Reviewing CVCC (hand), CCVC (frog), and VCV (baby) patterns helps us read and spell words automatically and accurately.",
+      "title": "CVCC Practice: The Wet Pond",
+      "text": "We walk near the wet pond. We see a green lamp. Can you spell the CVCC words? 'Pond' and 'lamp'!",
       "examples": [
         {
-          "title": "Examples",
-          "content": "hand, tent, frog, drum, baby, paper, milk, plug, music, silent"
-        },
-        {
-          "title": "Reading Rule",
-          "content": "Blend the letter sounds together smoothly when pronouncing the words."
+          "title": "Spelling",
+          "content": "p - o - n - d  and  l - a - m - p"
         }
       ]
     },
     {
-      "title": "Grammar: Adjectives (Describing Words)",
-      "text": "Adjectives are words that describe nouns (persons, places, things, animals, or events). They tell us about size, color, shape, number, or feelings.",
+      "title": "CCVC Practice: The Crawling Crab",
+      "text": "We spot a crawling crab. It does not stop. Can you spell the CCVC words? 'Crab' and 'stop'!",
       "examples": [
         {
-          "title": "Example Sentence",
-          "content": "The blue sky."
-        },
-        {
-          "title": "Tip",
-          "content": "Notice how the pronoun helps show position or ownership."
+          "title": "Spelling",
+          "content": "c - r - a - b  and  s - t - o - p"
         }
       ]
     },
     {
-      "title": "Sentence Structure: Sentence Types Review",
-      "text": "We review telling (declarative), asking (interrogative), and commanding/requesting (imperative) sentences. Each has its own punctuation mark and purpose.",
+      "title": "VCV Practice: The Busy Spider",
+      "text": "We watch a busy spider spin a web on a tulip. Can you spell the VCV words? 'Spider' and 'tulip'!",
+      "examples": [
+        {
+          "title": "Spelling",
+          "content": "s - p - i - d - e - r  and  t - u - l - i - p"
+        }
+      ]
+    },
+    {
+      "title": "Grammar: Describing Words (Adjectives)",
+      "text": "Adjectives are words that describe nouns (people, places, animals, or things). They tell us about size, color, shape, texture, or feelings.",
+      "examples": [
+        {
+          "title": "Key Concept",
+          "content": "Adjective = Describing word"
+        }
+      ]
+    },
+    {
+      "title": "Describing Physical Properties",
+      "text": "In science, we use adjectives to describe materials. E.g., 'The rock is hard.' 'The clay is sticky.' 'The metal is shiny.' 'Hard', 'sticky', and 'shiny' are adjectives!",
+      "examples": [
+        {
+          "title": "Properties",
+          "content": "hard rock, sticky clay, shiny metal, soft cotton"
+        }
+      ]
+    },
+    {
+      "title": "Adjectives of Size and Number",
+      "text": "We can describe size and quantity too: 'A small frog eats ten bugs.' 'Small' describes the size, and 'ten' describes the number.",
+      "examples": [
+        {
+          "title": "Size",
+          "content": "small"
+        },
+        {
+          "title": "Number",
+          "content": "ten"
+        }
+      ]
+    },
+    {
+      "title": "Sentence Review: Declarative",
+      "text": "A declarative sentence tells a fact. E.g., 'The sun warms the loam soil.' It starts with a capital and ends with a period.",
       "examples": [
         {
           "title": "Example",
-          "content": "A small frog."
-        },
-        {
-          "title": "Rule",
-          "content": "Always verify that your sentence begins with a capital letter and ends with the correct mark."
+          "content": "Plants need water to grow."
         }
       ]
     },
     {
-      "title": "Comprehension: Predicting Possible Endings",
-      "text": "Predicting is making a guess about what will happen next in a story. We use clues from the story and our own experiences to make logical predictions.",
+      "title": "Sentence Review: Interrogative",
+      "text": "An interrogative sentence asks a question to gather evidence. E.g., 'Does the plant bend towards the light?' It ends with a question mark.",
       "examples": [
         {
-          "title": "Focus Area",
-          "content": "Analyze text elements under Predicting Possible Endings"
-        },
-        {
-          "title": "Strategy",
-          "content": "Look for key clues, character actions, and connector words in the story."
+          "title": "Example",
+          "content": "Why is the soil wet?"
         }
       ]
     },
     {
-      "title": "Vocabulary & Theme: Synonyms & Antonyms",
-      "text": "Synonyms are words with similar meanings (e.g., big/large). Antonyms are words with opposite meanings (e.g., hot/cold).",
+      "title": "Sentence Review: Imperative",
+      "text": "An imperative sentence gives an order or request. E.g., 'Please record the temperature.' It ends with a period.",
       "examples": [
         {
-          "title": "Focus",
-          "content": "Applying high-frequency words in Synonyms & Antonyms themes."
-        },
-        {
-          "title": "Application",
-          "content": "Write short paragraphs using these words to express ideas about your local environment."
+          "title": "Example",
+          "content": "Observe the frog carefully."
         }
       ]
     },
     {
-      "title": "Detailed Case Study 1",
-      "text": "Let's review Case 1 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)).",
+      "title": "Story Time: The Gathering Clouds",
+      "text": "Let's read: 'Matteo walks in the garden. The sky turns dark grey. Strong winds blow the leaves. Large water drops begin to fall from the heavy clouds.'",
       "examples": [
         {
-          "title": "Practice Example 1",
-          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
-        },
-        {
-          "title": "Analysis 1",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Reading Task",
+          "content": "Gather clues to make a prediction about what happens next!"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 2",
-      "text": "Let's review Case 2 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)).",
+      "title": "Predicting Endings: What is It?",
+      "text": "Predicting means making a logical guess about what will happen next, using clues from the text and your own experiences.",
       "examples": [
         {
-          "title": "Practice Example 2",
-          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
-        },
-        {
-          "title": "Analysis 2",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Inquiry",
+          "content": "Clues + Experience = Logical Prediction"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 3",
-      "text": "Let's review Case 3 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)).",
+      "title": "Clues in the Sky",
+      "text": "In our story, the sky is grey, the wind is blowing, and drops are falling. What is your prediction? Yes, it is going to rain heavily!",
       "examples": [
         {
-          "title": "Practice Example 3",
-          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
-        },
-        {
-          "title": "Analysis 3",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Prediction",
+          "content": "It will rain soon."
         }
       ]
     },
     {
-      "title": "Detailed Case Study 4",
-      "text": "Let's review Case 4 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)).",
+      "title": "Logic and Evidence",
+      "text": "Good predictions must make sense. If the sky is dark grey, predicting a hot sunny afternoon does not match the evidence!",
       "examples": [
         {
-          "title": "Practice Example 4",
-          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
-        },
-        {
-          "title": "Analysis 4",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Evidence",
+          "content": "Dark clouds usually bring rain, not sunshine."
         }
       ]
     },
     {
-      "title": "Detailed Case Study 5",
-      "text": "Let's review Case 5 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)).",
+      "title": "Vocabulary: Synonyms",
+      "text": "Synonyms are words that have the same or very similar meanings. E.g., 'large' and 'big', 'quiet' and 'silent'. Using synonyms makes our writing interesting!",
       "examples": [
         {
-          "title": "Practice Example 5",
-          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
-        },
-        {
-          "title": "Analysis 5",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Synonyms",
+          "content": "large/big, small/tiny, hot/warm"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 6",
-      "text": "Let's review Case 6 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)).",
+      "title": "Synonyms in Nature",
+      "text": "Let's find synonyms: 'small' and 'tiny' (describing insects), 'warm' and 'hot' (describing the sun), 'wet' and 'damp' (describing the soil).",
       "examples": [
         {
-          "title": "Practice Example 6",
-          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
-        },
-        {
-          "title": "Analysis 6",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Soil",
+          "content": "The damp soil is wet."
         }
       ]
     },
     {
-      "title": "Detailed Case Study 7",
-      "text": "Let's review Case 7 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)).",
+      "title": "Vocabulary: Antonyms",
+      "text": "Antonyms are words with opposite meanings. E.g., 'hot' and 'cold', 'rough' and 'smooth'. They help us compare different physical properties.",
       "examples": [
         {
-          "title": "Practice Example 7",
-          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
-        },
-        {
-          "title": "Analysis 7",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Antonyms",
+          "content": "hot/cold, rough/smooth, hard/soft"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 8",
-      "text": "Let's review Case 8 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)).",
+      "title": "Antonyms in Materials",
+      "text": "Let's compare: A diamond is 'hard', but sponge is 'soft'. A mirror is 'shiny', but charcoal is 'dull'. 'Hard/soft' and 'shiny/dull' are antonyms!",
       "examples": [
         {
-          "title": "Practice Example 8",
-          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
-        },
-        {
-          "title": "Analysis 8",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Comparison",
+          "content": "Metal is shiny, but wood is dull."
         }
       ]
     },
     {
-      "title": "Comprehension Case 1",
-      "text": "Analyzing story events and character traits (Comprehension Case 1).",
+      "title": "Science Connection: Weather Predictions",
+      "text": "Meteorologists are scientists who predict the weather. They observe air temperature, wind speed, and clouds to tell us if we need an umbrella!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Observation",
+          "content": "Using a thermometer to measure heat."
         }
       ]
     },
     {
-      "title": "Comprehension Case 2",
-      "text": "Analyzing story events and character traits (Comprehension Case 2).",
+      "title": "Guided Practice: Spotting Adjectives",
+      "text": "Find the describing word in: 'The shiny metal nail is wet.' The adjectives are 'shiny' and 'wet'!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Adjectives",
+          "content": "shiny (property of nail), wet (state of nail)"
         }
       ]
     },
     {
-      "title": "Comprehension Case 3",
-      "text": "Analyzing story events and character traits (Comprehension Case 3).",
+      "title": "Guided Practice: Sentence Type",
+      "text": "What type of sentence is: 'Do plants need soil?' It ends with '?', so it is an interrogative sentence!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Check",
+          "content": "Interrogative because it asks a question."
         }
       ]
     },
     {
-      "title": "Comprehension Case 4",
-      "text": "Analyzing story events and character traits (Comprehension Case 4).",
+      "title": "Guided Practice: Synonyms",
+      "text": "What is a synonym for 'silent'? Yes, 'quiet'!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Synonym Check",
+          "content": "silent = quiet"
         }
       ]
     },
     {
-      "title": "Comprehension Case 5",
-      "text": "Analyzing story events and character traits (Comprehension Case 5).",
+      "title": "Common Error: Describing Opinions",
+      "text": "Remember: when scientists describe objects, they prefer factual adjectives like 'rough' or 'red' over opinion adjectives like 'pretty'.",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
+          "title": "Opinion (Avoid)",
+          "content": "This is a pretty flower."
         },
         {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Fact (Prefer)",
+          "content": "This is a yellow flower."
         }
       ]
     },
     {
-      "title": "Concept Review 1",
-      "text": "Let's review the main rules of Week 4 English. Pay close attention to vocabulary use and spelling patterns.",
+      "title": "Summary of Week 4",
+      "text": "Congratulations, Explorer! You completed the Term 1 review expedition! You are ready to take the quiz and show off your language skills!",
       "examples": [
         {
-          "title": "Review Tip",
-          "content": "Read the words aloud to check their phonics sounds."
-        },
-        {
-          "title": "Sentence Check",
-          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
-        }
-      ]
-    },
-    {
-      "title": "Practice Task 2",
-      "text": "Try applying the rules of Week 4 English in a new sentence. Practice writing it down on paper.",
-      "examples": [
-        {
-          "title": "Task",
-          "content": "Write a short sentence using one of the weekly vocabulary words."
-        },
-        {
-          "title": "Self-Check",
-          "content": "Identify the subject and predicate of your sentence."
-        }
-      ]
-    },
-    {
-      "title": "Concept Review 3",
-      "text": "Let's review the main rules of Week 4 English. Pay close attention to vocabulary use and spelling patterns.",
-      "examples": [
-        {
-          "title": "Review Tip",
-          "content": "Read the words aloud to check their phonics sounds."
-        },
-        {
-          "title": "Sentence Check",
-          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
-        }
-      ]
-    },
-    {
-      "title": "Practice Task 4",
-      "text": "Try applying the rules of Week 4 English in a new sentence. Practice writing it down on paper.",
-      "examples": [
-        {
-          "title": "Task",
-          "content": "Write a short sentence using one of the weekly vocabulary words."
-        },
-        {
-          "title": "Self-Check",
-          "content": "Identify the subject and predicate of your sentence."
-        }
-      ]
-    },
-    {
-      "title": "Summary & Reflection",
-      "text": "You have completed all slides for this lesson on Week 4 English. Take a moment to review the key concepts, spelling, and sentence structures we covered.",
-      "examples": [
-        {
-          "title": "Key Takeaway",
-          "content": "Mastering Week 4 English builds a strong foundation for reading and writing."
-        },
-        {
-          "title": "Next Step",
-          "content": "You are now ready to try the weekly quiz and challenge questions."
+          "title": "Review list",
+          "content": "Spelling, Adjectives, Sentence types, Synonyms/Antonyms."
         }
       ]
     }
@@ -1575,276 +1483,276 @@ window.WEEK4_DATA.english = {
   "standard": [
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 1)",
+      "q": "Which of these is a CVCC word?",
       "options": [
-        "hand",
+        "desk",
+        "frog",
         "baby",
-        "paper",
-        "music"
+        "tiger"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 2)",
+      "q": "Which of these is a CCVC word?",
       "options": [
+        "crab",
+        "hand",
+        "paper",
+        "milk"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which of these is a VCV word?",
+      "options": [
+        "tulip",
         "tent",
-        "baby",
-        "paper",
-        "music"
+        "stop",
+        "lamp"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 3)",
-      "options": [
-        "frog",
-        "baby",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 4)",
-      "options": [
-        "drum",
-        "baby",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 5)",
-      "options": [
-        "baby",
-        "frog",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 6)",
-      "options": [
-        "paper",
-        "baby",
-        "hand",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 7)",
+      "q": "Identify the CVCC word in: 'The child drank fresh milk.'",
       "options": [
         "milk",
-        "baby",
-        "paper",
-        "music"
+        "drank",
+        "fresh",
+        "child"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 8)",
+      "q": "Complete the CCVC word: 'We saw a green f___ jump into the water.'",
       "options": [
-        "plug",
-        "baby",
-        "paper",
-        "music"
+        "rog",
+        "ond",
+        "ish",
+        "ree"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'The blue sky.' (Question 9)",
+      "q": "Which describing word (adjective) tells us how a hard rock feels?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "hard",
+        "shiny",
+        "sticky",
+        "sweet"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'A small frog.' (Question 10)",
+      "q": "Identify the adjective in: 'Matteo molded sticky clay into a vase.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "sticky",
+        "molded",
+        "clay",
+        "vase"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Ten sweet mangoes.' (Question 11)",
+      "q": "Complete: 'A ___ mirror reflects the bright sunlight.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "shiny",
+        "soft",
+        "hard",
+        "sticky"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'A happy child.' (Question 12)",
+      "q": "Which adjective describes a property of a soft cotton ball?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "soft",
+        "hard",
+        "shiny",
+        "rough"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'The blue sky.' (Question 13)",
+      "q": "Identify the adjective in: 'Ten small seeds grew into flowers.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "small",
+        "seeds",
+        "grew",
+        "flowers"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'A small frog.' (Question 14)",
+      "q": "What type of sentence is: 'Water freezes at zero degrees.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Declarative sentence",
+        "Interrogative sentence",
+        "Imperative sentence",
+        "Exclamatory sentence"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Ten sweet mangoes.' (Question 15)",
+      "q": "What type of sentence is: 'Do not burn the household trash.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Imperative sentence",
+        "Declarative sentence",
+        "Interrogative sentence",
+        "Exclamatory sentence"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'A happy child.' (Question 16)",
+      "q": "What type of sentence is: 'Why do plants need water?'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Interrogative sentence",
+        "Declarative sentence",
+        "Imperative sentence",
+        "Exclamatory sentence"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 17)",
+      "q": "Which sentence is declarative?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "Iron nails rust in wet air.",
+        "Does iron rust in wet air?",
+        "Please keep the iron nail dry.",
+        "What a rusty nail!"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 18)",
+      "q": "Which sentence is imperative?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "Sort the recyclable materials.",
+        "Are these materials recyclable?",
+        "We sort recyclable materials.",
+        "Wow, so many recyclables!"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 19)",
+      "q": "Read: 'Matteo places a glass of water in the freezer overnight.' What will he find in the morning?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "The water has frozen into solid ice.",
+        "The water has disappeared.",
+        "The water is boiling hot.",
+        "The water turned green."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 20)",
+      "q": "Read: 'The dark clouds gather and thunder rumbles. Matteo is playing outside.' What will Matteo likely do next?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "Run inside to stay dry",
+        "Go to sleep on the grass",
+        "Water his plants in the garden",
+        "Start a campfire outside"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 21)",
+      "q": "To make a good prediction, what should you use?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "Clues from the text and your own experience",
+        "Only the pictures in the book",
+        "A random guess",
+        "The title of the story"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 22)",
+      "q": "Read: 'A heavy metal ball is dropped into a tub of water.' What will happen to the ball?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "It will sink to the bottom.",
+        "It will float on the top.",
+        "It will dissolve like sugar.",
+        "It will turn into a balloon."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 23)",
+      "q": "Read: 'You leave a wet iron nail outside in the rain for three weeks.' Predict the change:",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "The nail will rust and turn orange-brown.",
+        "The nail will turn into shiny gold.",
+        "The nail will melt into liquid metal.",
+        "The nail will stay exactly the same."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 24)",
+      "q": "What is a synonym for the word 'large'?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "big",
+        "small",
+        "thin",
+        "heavy"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What is the main learning goal of Week 4 English? (Question 25)",
+      "q": "Identify the synonym for 'silent' in: 'The lab was quiet.'",
       "options": [
-        "Develop automatic decoding of CVCC, CCVC, & VCV Review and application of Adjectives (Describing Words).",
-        "Draw a picture only.",
-        "Memorize all words.",
-        "Write a long novel."
+        "quiet",
+        "lab",
+        "was",
+        "silent"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What is the antonym of the word 'rough'?",
+      "options": [
+        "smooth",
+        "hard",
+        "sticky",
+        "dull"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Identify the antonym of 'shiny':",
+      "options": [
+        "dull",
+        "bright",
+        "clean",
+        "hard"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What is a synonym for the word 'fast'?",
+      "options": [
+        "quick",
+        "slow",
+        "heavy",
+        "soft"
       ],
       "answer": 0
     }
@@ -1852,74 +1760,75 @@ window.WEEK4_DATA.english = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge Question 1: Solve the complex sentence puzzle using Adjectives (Describing Words) and CVCC, CCVC, & VCV Review patterns.",
+      "q": "Challenge: Which sentence has a VCV word as the subject, an adjective in the predicate, and is a declarative sentence?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "The tiger is fast.",
+        "Run away from the tiger!",
+        "Is the tiger hungry?",
+        "Please feed the small tiger."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 2: Solve the complex sentence puzzle using Adjectives (Describing Words) and CVCC, CCVC, & VCV Review patterns.",
+      "q": "Challenge: A student predicts: 'A dry leaf will sink in water.' Is this a logical prediction?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "No, because leaves are light and float.",
+        "Yes, because all leaves are made of heavy metal.",
+        "Yes, because water always dissolves leaves.",
+        "No, because the wind will blow the water away."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 3: Solve the complex sentence puzzle using Adjectives (Describing Words) and CVCC, CCVC, & VCV Review patterns.",
+      "q": "Challenge: Match the synonyms and antonyms: 'hot' is to 'cold' as 'rough' is to ___.",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "smooth",
+        "hard",
+        "sticky",
+        "shiny"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 4: Solve the complex sentence puzzle using Adjectives (Describing Words) and CVCC, CCVC, & VCV Review patterns.",
+      "q": "Challenge: Which word pattern does the antonym of 'hard' follow?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "CVCC (soft)",
+        "CCVC (flat)",
+        "VCV (easy)",
+        "CVC (firm)"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 5: Solve the complex sentence puzzle using Adjectives (Describing Words) and CVCC, CCVC, & VCV Review patterns.",
+      "q": "Challenge: Read: 'Matteo left a bowl of soup on the table. The cat jumped up, smelled the soup, and licked its paws.' Predict the next event:",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "The cat will taste the soup.",
+        "The soup will turn into ice.",
+        "The bowl will fly away.",
+        "The cat will wash the dishes."
       ],
       "answer": 0
     }
   ],
   "performance": {
-    "title": "Performance Task: CVCC, CCVC, & VCV Review & Adjectives (Describing Words)",
-    "desc": "Write a short paragraph (3-4 sentences) using at least three of this week's phonics words (hand, tent, frog, drum, baby) and demonstrative/possessive pronouns. Draw a matching picture and present it to your parent.",
+    "type": "performance",
+    "title": "Weather Prediction and Material Description Diary",
+    "desc": "Observe three different solid materials in your home (e.g., a metal key, a cotton shirt, a plastic ruler). Write a brief descriptive sentence for each, using at least one physical property adjective (shiny, soft, hard, bendable, smooth). Then, look at the sky outside and write one prediction sentence about what the weather will be like tomorrow, stating your evidence.",
     "labels": [
-      "Correct use of phonics words",
-      "Correct sentence structure and capitalization",
-      "Clear drawing and explanation"
+      "Describing solid properties accurately using adjectives",
+      "Correct declarative structure (proper capitalization and periods)",
+      "Writing a weather prediction based on observed clues (clouds, temperature)"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 1: CVCC, CCVC, & VCV Review Phonics Identification</h3>\n              <p class=\"ws-instruction\">Identify the correct spelling of the words matching the phonics rule.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Fill in the missing letters: <strong>ha__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">hand</span></div>\n              </div>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">2. Fill in the missing letters: <strong>te__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">tent</span></div>\n              </div>\n            </div>",
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 2: Adjectives (Describing Words) Grammar Check</h3>\n              <p class=\"ws-instruction\">Choose and write the correct pronoun to complete the sentence.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Sentence: <em>The blue sky.</em></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 100%;\"><span class=\"ws-answer\">The</span></div>\n              </div>\n            </div>",
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 3: Predicting Possible Endings Story Sequencing</h3>\n              <p class=\"ws-instruction\">Write the correct order of the story elements (1, 2, 3).</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">Describe the setting and the main problem of the character:</div>\n                <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">Identify where and when the story happens, and what the character wants to solve.</span></div>\n              </div>\n            </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Adjectives and Physical Properties</h3>\n                  <p class=\"ws-instruction\">Write the correct physical property adjective (<strong>hard</strong>, <strong>shiny</strong>, <strong>sticky</strong>, <strong>soft</strong>) for each object.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. A clean glass mirror that reflects light:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">shiny</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. A dry river stone that does not bend or break:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">hard</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Modeling clay that sticks to your fingers:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">sticky</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Sentence Types Sort</h3>\n                  <p class=\"ws-instruction\">Classify each sentence below as either <strong>Declarative</strong>, <strong>Interrogative</strong>, or <strong>Imperative</strong>.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Why does iron rust in wet air?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Interrogative</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Please sort the metal cans into the bin.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Imperative</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Wet clothes dry under the hot sun.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Declarative</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Synonyms and Antonyms Matching</h3>\n                  <p class=\"ws-instruction\">Use your stylus to write the correct synonym or antonym from the options (<strong>big</strong>, <strong>cold</strong>, <strong>smooth</strong>, <strong>quiet</strong>).</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Synonym of <strong>large</strong>:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">big</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Antonym of <strong>hot</strong>:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">cold</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Antonym of <strong>rough</strong>:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">smooth</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -5386,355 +5295,263 @@ window.WEEK4_ADVANCED_DATA.english = {
   "color": "#8b5cf6",
   "icon": "📖",
   "title": "English",
-  "subtitle": "Week 4: CVCC, CCVC, & VCV Review & Adjectives (Describing Words)",
+  "subtitle": "Week 4: Describing Physical Properties & Sentence Review",
   "slides": [
     {
-      "title": "Welcome to English Week 4",
-      "text": "In this week's module, we will explore key language concepts including CVCC, CCVC, & VCV Review, Adjectives (Describing Words), and Predicting Possible Endings.",
+      "title": "Welcome to the Review Expedition!",
+      "text": "Hello, Explorer! This week we are reviewing our word patterns, learning about describing words, and making logical predictions based on clues in nature!",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand and apply CVCC, CCVC, & VCV Review and Adjectives (Describing Words) in reading and writing."
-        },
-        {
-          "title": "Context",
-          "content": "This module is designed in the context of Grade 4-5 standards."
+          "title": "Weekly Goal",
+          "content": "Master spelling patterns review, apply adjectives to physical properties, review sentence types, and make predictions."
         }
       ]
     },
     {
-      "title": "Core Vocabulary Words",
-      "text": "Let's look at the core words for this week's phonics focus (CVCC, CCVC, & VCV Review): hand, tent, frog, drum, baby.",
+      "title": "Word Pattern Review",
+      "text": "Let's review our three spelling patterns: CVCC (hand), CCVC (frog), and VCV (baby). Being able to spell them makes us excellent readers!",
       "examples": [
         {
-          "title": "Word 1: Hand",
-          "content": "A phonics word matching the CVCC, CCVC, & VCV Review pattern."
-        },
-        {
-          "title": "Word 2: Tent",
-          "content": "Another example showing correct letter sound blends."
+          "title": "Review Patterns",
+          "content": "CVCC (consonant blends), CCVC (initial blends), VCV (long vowels)."
         }
       ]
     },
     {
-      "title": "Phonics: CVCC, CCVC, & VCV Review",
-      "text": "Reviewing CVCC (hand), CCVC (frog), and VCV (baby) patterns helps us read and spell words automatically and accurately.",
+      "title": "CVCC Practice: The Wet Pond",
+      "text": "We walk near the wet pond. We see a green lamp. Can you spell the CVCC words? 'Pond' and 'lamp'!",
       "examples": [
         {
-          "title": "Examples",
-          "content": "hand, tent, frog, drum, baby, paper, milk, plug, music, silent"
-        },
-        {
-          "title": "Reading Rule",
-          "content": "Blend the letter sounds together smoothly when pronouncing the words."
+          "title": "Spelling",
+          "content": "p - o - n - d  and  l - a - m - p"
         }
       ]
     },
     {
-      "title": "Grammar: Adjectives (Describing Words)",
-      "text": "Adjectives are words that describe nouns (persons, places, things, animals, or events). They tell us about size, color, shape, number, or feelings.",
+      "title": "CCVC Practice: The Crawling Crab",
+      "text": "We spot a crawling crab. It does not stop. Can you spell the CCVC words? 'Crab' and 'stop'!",
       "examples": [
         {
-          "title": "Example Sentence",
-          "content": "The blue sky."
-        },
-        {
-          "title": "Tip",
-          "content": "Notice how the pronoun helps show position or ownership."
+          "title": "Spelling",
+          "content": "c - r - a - b  and  s - t - o - p"
         }
       ]
     },
     {
-      "title": "Sentence Structure: Sentence Types Review",
-      "text": "We review telling (declarative), asking (interrogative), and commanding/requesting (imperative) sentences. Each has its own punctuation mark and purpose.",
+      "title": "VCV Practice: The Busy Spider",
+      "text": "We watch a busy spider spin a web on a tulip. Can you spell the VCV words? 'Spider' and 'tulip'!",
+      "examples": [
+        {
+          "title": "Spelling",
+          "content": "s - p - i - d - e - r  and  t - u - l - i - p"
+        }
+      ]
+    },
+    {
+      "title": "Grammar: Describing Words (Adjectives)",
+      "text": "Adjectives are words that describe nouns (people, places, animals, or things). They tell us about size, color, shape, texture, or feelings.",
+      "examples": [
+        {
+          "title": "Key Concept",
+          "content": "Adjective = Describing word"
+        }
+      ]
+    },
+    {
+      "title": "Describing Physical Properties",
+      "text": "In science, we use adjectives to describe materials. E.g., 'The rock is hard.' 'The clay is sticky.' 'The metal is shiny.' 'Hard', 'sticky', and 'shiny' are adjectives!",
+      "examples": [
+        {
+          "title": "Properties",
+          "content": "hard rock, sticky clay, shiny metal, soft cotton"
+        }
+      ]
+    },
+    {
+      "title": "Adjectives of Size and Number",
+      "text": "We can describe size and quantity too: 'A small frog eats ten bugs.' 'Small' describes the size, and 'ten' describes the number.",
+      "examples": [
+        {
+          "title": "Size",
+          "content": "small"
+        },
+        {
+          "title": "Number",
+          "content": "ten"
+        }
+      ]
+    },
+    {
+      "title": "Sentence Review: Declarative",
+      "text": "A declarative sentence tells a fact. E.g., 'The sun warms the loam soil.' It starts with a capital and ends with a period.",
       "examples": [
         {
           "title": "Example",
-          "content": "A small frog."
-        },
-        {
-          "title": "Rule",
-          "content": "Always verify that your sentence begins with a capital letter and ends with the correct mark."
+          "content": "Plants need water to grow."
         }
       ]
     },
     {
-      "title": "Comprehension: Predicting Possible Endings",
-      "text": "Predicting is making a guess about what will happen next in a story. We use clues from the story and our own experiences to make logical predictions.",
+      "title": "Sentence Review: Interrogative",
+      "text": "An interrogative sentence asks a question to gather evidence. E.g., 'Does the plant bend towards the light?' It ends with a question mark.",
       "examples": [
         {
-          "title": "Focus Area",
-          "content": "Analyze text elements under Predicting Possible Endings"
-        },
-        {
-          "title": "Strategy",
-          "content": "Look for key clues, character actions, and connector words in the story."
+          "title": "Example",
+          "content": "Why is the soil wet?"
         }
       ]
     },
     {
-      "title": "Vocabulary & Theme: Synonyms & Antonyms",
-      "text": "Synonyms are words with similar meanings (e.g., big/large). Antonyms are words with opposite meanings (e.g., hot/cold).",
+      "title": "Sentence Review: Imperative",
+      "text": "An imperative sentence gives an order or request. E.g., 'Please record the temperature.' It ends with a period.",
       "examples": [
         {
-          "title": "Focus",
-          "content": "Applying high-frequency words in Synonyms & Antonyms themes."
-        },
-        {
-          "title": "Application",
-          "content": "Write short paragraphs using these words to express ideas about your local environment."
+          "title": "Example",
+          "content": "Observe the frog carefully."
         }
       ]
     },
     {
-      "title": "Detailed Case Study 1",
-      "text": "Let's review Case 1 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)). (Complex/Deeper)",
+      "title": "Story Time: The Gathering Clouds",
+      "text": "Let's read: 'Matteo walks in the garden. The sky turns dark grey. Strong winds blow the leaves. Large water drops begin to fall from the heavy clouds.'",
       "examples": [
         {
-          "title": "Practice Example 1",
-          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
-        },
-        {
-          "title": "Analysis 1",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Reading Task",
+          "content": "Gather clues to make a prediction about what happens next!"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 2",
-      "text": "Let's review Case 2 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)). (Complex/Deeper)",
+      "title": "Predicting Endings: What is It?",
+      "text": "Predicting means making a logical guess about what will happen next, using clues from the text and your own experiences.",
       "examples": [
         {
-          "title": "Practice Example 2",
-          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
-        },
-        {
-          "title": "Analysis 2",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Inquiry",
+          "content": "Clues + Experience = Logical Prediction"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 3",
-      "text": "Let's review Case 3 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)). (Complex/Deeper)",
+      "title": "Clues in the Sky",
+      "text": "In our story, the sky is grey, the wind is blowing, and drops are falling. What is your prediction? Yes, it is going to rain heavily!",
       "examples": [
         {
-          "title": "Practice Example 3",
-          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
-        },
-        {
-          "title": "Analysis 3",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Prediction",
+          "content": "It will rain soon."
         }
       ]
     },
     {
-      "title": "Detailed Case Study 4",
-      "text": "Let's review Case 4 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)). (Complex/Deeper)",
+      "title": "Logic and Evidence",
+      "text": "Good predictions must make sense. If the sky is dark grey, predicting a hot sunny afternoon does not match the evidence!",
       "examples": [
         {
-          "title": "Practice Example 4",
-          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
-        },
-        {
-          "title": "Analysis 4",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Evidence",
+          "content": "Dark clouds usually bring rain, not sunshine."
         }
       ]
     },
     {
-      "title": "Detailed Case Study 5",
-      "text": "Let's review Case 5 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)). (Complex/Deeper)",
+      "title": "Vocabulary: Synonyms",
+      "text": "Synonyms are words that have the same or very similar meanings. E.g., 'large' and 'big', 'quiet' and 'silent'. Using synonyms makes our writing interesting!",
       "examples": [
         {
-          "title": "Practice Example 5",
-          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
-        },
-        {
-          "title": "Analysis 5",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Synonyms",
+          "content": "large/big, small/tiny, hot/warm"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 6",
-      "text": "Let's review Case 6 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)). (Complex/Deeper)",
+      "title": "Synonyms in Nature",
+      "text": "Let's find synonyms: 'small' and 'tiny' (describing insects), 'warm' and 'hot' (describing the sun), 'wet' and 'damp' (describing the soil).",
       "examples": [
         {
-          "title": "Practice Example 6",
-          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
-        },
-        {
-          "title": "Analysis 6",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Soil",
+          "content": "The damp soil is wet."
         }
       ]
     },
     {
-      "title": "Detailed Case Study 7",
-      "text": "Let's review Case 7 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)). (Complex/Deeper)",
+      "title": "Vocabulary: Antonyms",
+      "text": "Antonyms are words with opposite meanings. E.g., 'hot' and 'cold', 'rough' and 'smooth'. They help us compare different physical properties.",
       "examples": [
         {
-          "title": "Practice Example 7",
-          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
-        },
-        {
-          "title": "Analysis 7",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Antonyms",
+          "content": "hot/cold, rough/smooth, hard/soft"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 8",
-      "text": "Let's review Case 8 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)). (Complex/Deeper)",
+      "title": "Antonyms in Materials",
+      "text": "Let's compare: A diamond is 'hard', but sponge is 'soft'. A mirror is 'shiny', but charcoal is 'dull'. 'Hard/soft' and 'shiny/dull' are antonyms!",
       "examples": [
         {
-          "title": "Practice Example 8",
-          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
-        },
-        {
-          "title": "Analysis 8",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Comparison",
+          "content": "Metal is shiny, but wood is dull."
         }
       ]
     },
     {
-      "title": "Comprehension Case 1",
-      "text": "Analyzing story events and character traits (Comprehension Case 1). (Complex/Deeper)",
+      "title": "Science Connection: Weather Predictions",
+      "text": "Meteorologists are scientists who predict the weather. They observe air temperature, wind speed, and clouds to tell us if we need an umbrella!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Observation",
+          "content": "Using a thermometer to measure heat."
         }
       ]
     },
     {
-      "title": "Comprehension Case 2",
-      "text": "Analyzing story events and character traits (Comprehension Case 2). (Complex/Deeper)",
+      "title": "Guided Practice: Spotting Adjectives",
+      "text": "Find the describing word in: 'The shiny metal nail is wet.' The adjectives are 'shiny' and 'wet'!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Adjectives",
+          "content": "shiny (property of nail), wet (state of nail)"
         }
       ]
     },
     {
-      "title": "Comprehension Case 3",
-      "text": "Analyzing story events and character traits (Comprehension Case 3). (Complex/Deeper)",
+      "title": "Guided Practice: Sentence Type",
+      "text": "What type of sentence is: 'Do plants need soil?' It ends with '?', so it is an interrogative sentence!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Check",
+          "content": "Interrogative because it asks a question."
         }
       ]
     },
     {
-      "title": "Comprehension Case 4",
-      "text": "Analyzing story events and character traits (Comprehension Case 4). (Complex/Deeper)",
+      "title": "Guided Practice: Synonyms",
+      "text": "What is a synonym for 'silent'? Yes, 'quiet'!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Synonym Check",
+          "content": "silent = quiet"
         }
       ]
     },
     {
-      "title": "Comprehension Case 5",
-      "text": "Analyzing story events and character traits (Comprehension Case 5). (Complex/Deeper)",
+      "title": "Common Error: Describing Opinions",
+      "text": "Remember: when scientists describe objects, they prefer factual adjectives like 'rough' or 'red' over opinion adjectives like 'pretty'.",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
+          "title": "Opinion (Avoid)",
+          "content": "This is a pretty flower."
         },
         {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Fact (Prefer)",
+          "content": "This is a yellow flower."
         }
       ]
     },
     {
-      "title": "Concept Review 1",
-      "text": "Let's review the main rules of Week 4 English. Pay close attention to vocabulary use and spelling patterns.",
+      "title": "Summary of Week 4",
+      "text": "Congratulations, Explorer! You completed the Term 1 review expedition! You are ready to take the quiz and show off your language skills!",
       "examples": [
         {
-          "title": "Review Tip",
-          "content": "Read the words aloud to check their phonics sounds."
-        },
-        {
-          "title": "Sentence Check",
-          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
-        }
-      ]
-    },
-    {
-      "title": "Practice Task 2",
-      "text": "Try applying the rules of Week 4 English in a new sentence. Practice writing it down on paper.",
-      "examples": [
-        {
-          "title": "Task",
-          "content": "Write a short sentence using one of the weekly vocabulary words."
-        },
-        {
-          "title": "Self-Check",
-          "content": "Identify the subject and predicate of your sentence."
-        }
-      ]
-    },
-    {
-      "title": "Concept Review 3",
-      "text": "Let's review the main rules of Week 4 English. Pay close attention to vocabulary use and spelling patterns.",
-      "examples": [
-        {
-          "title": "Review Tip",
-          "content": "Read the words aloud to check their phonics sounds."
-        },
-        {
-          "title": "Sentence Check",
-          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
-        }
-      ]
-    },
-    {
-      "title": "Practice Task 4",
-      "text": "Try applying the rules of Week 4 English in a new sentence. Practice writing it down on paper.",
-      "examples": [
-        {
-          "title": "Task",
-          "content": "Write a short sentence using one of the weekly vocabulary words."
-        },
-        {
-          "title": "Self-Check",
-          "content": "Identify the subject and predicate of your sentence."
-        }
-      ]
-    },
-    {
-      "title": "Summary & Reflection",
-      "text": "You have completed all slides for this lesson on Week 4 English. Take a moment to review the key concepts, spelling, and sentence structures we covered.",
-      "examples": [
-        {
-          "title": "Key Takeaway",
-          "content": "Mastering Week 4 English builds a strong foundation for reading and writing."
-        },
-        {
-          "title": "Next Step",
-          "content": "You are now ready to try the weekly quiz and challenge questions."
+          "title": "Review list",
+          "content": "Spelling, Adjectives, Sentence types, Synonyms/Antonyms."
         }
       ]
     }
@@ -5742,276 +5559,276 @@ window.WEEK4_ADVANCED_DATA.english = {
   "standard": [
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 1) (Complex/Deeper)",
+      "q": "Which of these is a CVCC word?",
       "options": [
-        "hand",
+        "desk",
+        "frog",
         "baby",
-        "paper",
-        "music"
+        "tiger"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 2) (Complex/Deeper)",
+      "q": "Which of these is a CCVC word?",
       "options": [
+        "crab",
+        "hand",
+        "paper",
+        "milk"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which of these is a VCV word?",
+      "options": [
+        "tulip",
         "tent",
-        "baby",
-        "paper",
-        "music"
+        "stop",
+        "lamp"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 3) (Complex/Deeper)",
-      "options": [
-        "frog",
-        "baby",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 4) (Complex/Deeper)",
-      "options": [
-        "drum",
-        "baby",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 5) (Complex/Deeper)",
-      "options": [
-        "baby",
-        "frog",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 6) (Complex/Deeper)",
-      "options": [
-        "paper",
-        "baby",
-        "hand",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 7) (Complex/Deeper)",
+      "q": "Identify the CVCC word in: 'The child drank fresh milk.'",
       "options": [
         "milk",
-        "baby",
-        "paper",
-        "music"
+        "drank",
+        "fresh",
+        "child"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 8) (Complex/Deeper)",
+      "q": "Complete the CCVC word: 'We saw a green f___ jump into the water.'",
       "options": [
-        "plug",
-        "baby",
-        "paper",
-        "music"
+        "rog",
+        "ond",
+        "ish",
+        "ree"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'The blue sky.' (Question 9) (Complex/Deeper)",
+      "q": "Which describing word (adjective) tells us how a hard rock feels?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "hard",
+        "shiny",
+        "sticky",
+        "sweet"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'A small frog.' (Question 10) (Complex/Deeper)",
+      "q": "Identify the adjective in: 'Matteo molded sticky clay into a vase.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "sticky",
+        "molded",
+        "clay",
+        "vase"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Ten sweet mangoes.' (Question 11) (Complex/Deeper)",
+      "q": "Complete: 'A ___ mirror reflects the bright sunlight.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "shiny",
+        "soft",
+        "hard",
+        "sticky"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'A happy child.' (Question 12) (Complex/Deeper)",
+      "q": "Which adjective describes a property of a soft cotton ball?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "soft",
+        "hard",
+        "shiny",
+        "rough"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'The blue sky.' (Question 13) (Complex/Deeper)",
+      "q": "Identify the adjective in: 'Ten small seeds grew into flowers.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "small",
+        "seeds",
+        "grew",
+        "flowers"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'A small frog.' (Question 14) (Complex/Deeper)",
+      "q": "What type of sentence is: 'Water freezes at zero degrees.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Declarative sentence",
+        "Interrogative sentence",
+        "Imperative sentence",
+        "Exclamatory sentence"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Ten sweet mangoes.' (Question 15) (Complex/Deeper)",
+      "q": "What type of sentence is: 'Do not burn the household trash.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Imperative sentence",
+        "Declarative sentence",
+        "Interrogative sentence",
+        "Exclamatory sentence"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'A happy child.' (Question 16) (Complex/Deeper)",
+      "q": "What type of sentence is: 'Why do plants need water?'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Interrogative sentence",
+        "Declarative sentence",
+        "Imperative sentence",
+        "Exclamatory sentence"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 17) (Complex/Deeper)",
+      "q": "Which sentence is declarative?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "Iron nails rust in wet air.",
+        "Does iron rust in wet air?",
+        "Please keep the iron nail dry.",
+        "What a rusty nail!"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 18) (Complex/Deeper)",
+      "q": "Which sentence is imperative?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "Sort the recyclable materials.",
+        "Are these materials recyclable?",
+        "We sort recyclable materials.",
+        "Wow, so many recyclables!"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 19) (Complex/Deeper)",
+      "q": "Read: 'Matteo places a glass of water in the freezer overnight.' What will he find in the morning?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "The water has frozen into solid ice.",
+        "The water has disappeared.",
+        "The water is boiling hot.",
+        "The water turned green."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 20) (Complex/Deeper)",
+      "q": "Read: 'The dark clouds gather and thunder rumbles. Matteo is playing outside.' What will Matteo likely do next?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "Run inside to stay dry",
+        "Go to sleep on the grass",
+        "Water his plants in the garden",
+        "Start a campfire outside"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 21) (Complex/Deeper)",
+      "q": "To make a good prediction, what should you use?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "Clues from the text and your own experience",
+        "Only the pictures in the book",
+        "A random guess",
+        "The title of the story"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 22) (Complex/Deeper)",
+      "q": "Read: 'A heavy metal ball is dropped into a tub of water.' What will happen to the ball?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "It will sink to the bottom.",
+        "It will float on the top.",
+        "It will dissolve like sugar.",
+        "It will turn into a balloon."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 23) (Complex/Deeper)",
+      "q": "Read: 'You leave a wet iron nail outside in the rain for three weeks.' Predict the change:",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "The nail will rust and turn orange-brown.",
+        "The nail will turn into shiny gold.",
+        "The nail will melt into liquid metal.",
+        "The nail will stay exactly the same."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 24) (Complex/Deeper)",
+      "q": "What is a synonym for the word 'large'?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "big",
+        "small",
+        "thin",
+        "heavy"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What is the main learning goal of Week 4 English? (Question 25) (Complex/Deeper)",
+      "q": "Identify the synonym for 'silent' in: 'The lab was quiet.'",
       "options": [
-        "Develop automatic decoding of CVCC, CCVC, & VCV Review and application of Adjectives (Describing Words).",
-        "Draw a picture only.",
-        "Memorize all words.",
-        "Write a long novel."
+        "quiet",
+        "lab",
+        "was",
+        "silent"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What is the antonym of the word 'rough'?",
+      "options": [
+        "smooth",
+        "hard",
+        "sticky",
+        "dull"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Identify the antonym of 'shiny':",
+      "options": [
+        "dull",
+        "bright",
+        "clean",
+        "hard"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What is a synonym for the word 'fast'?",
+      "options": [
+        "quick",
+        "slow",
+        "heavy",
+        "soft"
       ],
       "answer": 0
     }
@@ -6019,74 +5836,75 @@ window.WEEK4_ADVANCED_DATA.english = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge Question 1: Solve the complex sentence puzzle using Adjectives (Describing Words) and CVCC, CCVC, & VCV Review patterns. (Complex/Deeper)",
+      "q": "Challenge: Which sentence has a VCV word as the subject, an adjective in the predicate, and is a declarative sentence?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "The tiger is fast.",
+        "Run away from the tiger!",
+        "Is the tiger hungry?",
+        "Please feed the small tiger."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 2: Solve the complex sentence puzzle using Adjectives (Describing Words) and CVCC, CCVC, & VCV Review patterns. (Complex/Deeper)",
+      "q": "Challenge: A student predicts: 'A dry leaf will sink in water.' Is this a logical prediction?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "No, because leaves are light and float.",
+        "Yes, because all leaves are made of heavy metal.",
+        "Yes, because water always dissolves leaves.",
+        "No, because the wind will blow the water away."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 3: Solve the complex sentence puzzle using Adjectives (Describing Words) and CVCC, CCVC, & VCV Review patterns. (Complex/Deeper)",
+      "q": "Challenge: Match the synonyms and antonyms: 'hot' is to 'cold' as 'rough' is to ___.",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "smooth",
+        "hard",
+        "sticky",
+        "shiny"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 4: Solve the complex sentence puzzle using Adjectives (Describing Words) and CVCC, CCVC, & VCV Review patterns. (Complex/Deeper)",
+      "q": "Challenge: Which word pattern does the antonym of 'hard' follow?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "CVCC (soft)",
+        "CCVC (flat)",
+        "VCV (easy)",
+        "CVC (firm)"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 5: Solve the complex sentence puzzle using Adjectives (Describing Words) and CVCC, CCVC, & VCV Review patterns. (Complex/Deeper)",
+      "q": "Challenge: Read: 'Matteo left a bowl of soup on the table. The cat jumped up, smelled the soup, and licked its paws.' Predict the next event:",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "The cat will taste the soup.",
+        "The soup will turn into ice.",
+        "The bowl will fly away.",
+        "The cat will wash the dishes."
       ],
       "answer": 0
     }
   ],
   "performance": {
-    "title": "Performance Task: CVCC, CCVC, & VCV Review & Adjectives (Describing Words)",
-    "desc": "Write a short paragraph (3-4 sentences) using at least three of this week's phonics words (hand, tent, frog, drum, baby) and demonstrative/possessive pronouns. Draw a matching picture and present it to your parent.",
+    "type": "performance",
+    "title": "Weather Prediction and Material Description Diary",
+    "desc": "Observe three different solid materials in your home (e.g., a metal key, a cotton shirt, a plastic ruler). Write a brief descriptive sentence for each, using at least one physical property adjective (shiny, soft, hard, bendable, smooth). Then, look at the sky outside and write one prediction sentence about what the weather will be like tomorrow, stating your evidence.",
     "labels": [
-      "Correct use of phonics words",
-      "Correct sentence structure and capitalization",
-      "Clear drawing and explanation"
+      "Describing solid properties accurately using adjectives",
+      "Correct declarative structure (proper capitalization and periods)",
+      "Writing a weather prediction based on observed clues (clouds, temperature)"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 1: CVCC, CCVC, & VCV Review Phonics Identification</h3>\n              <p class=\"ws-instruction\">Identify the correct spelling of the words matching the phonics rule.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Fill in the missing letters: <strong>ha__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">hand</span></div>\n              </div>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">2. Fill in the missing letters: <strong>te__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">tent</span></div>\n              </div>\n            </div>",
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 2: Adjectives (Describing Words) Grammar Check</h3>\n              <p class=\"ws-instruction\">Choose and write the correct pronoun to complete the sentence.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Sentence: <em>The blue sky.</em></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 100%;\"><span class=\"ws-answer\">The</span></div>\n              </div>\n            </div>",
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 3: Predicting Possible Endings Story Sequencing</h3>\n              <p class=\"ws-instruction\">Write the correct order of the story elements (1, 2, 3).</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">Describe the setting and the main problem of the character:</div>\n                <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">Identify where and when the story happens, and what the character wants to solve.</span></div>\n              </div>\n            </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Adjectives and Physical Properties</h3>\n                  <p class=\"ws-instruction\">Write the correct physical property adjective (<strong>hard</strong>, <strong>shiny</strong>, <strong>sticky</strong>, <strong>soft</strong>) for each object.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. A clean glass mirror that reflects light:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">shiny</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. A dry river stone that does not bend or break:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">hard</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Modeling clay that sticks to your fingers:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">sticky</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Sentence Types Sort</h3>\n                  <p class=\"ws-instruction\">Classify each sentence below as either <strong>Declarative</strong>, <strong>Interrogative</strong>, or <strong>Imperative</strong>.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Why does iron rust in wet air?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Interrogative</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Please sort the metal cans into the bin.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Imperative</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Wet clothes dry under the hot sun.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Declarative</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Synonyms and Antonyms Matching</h3>\n                  <p class=\"ws-instruction\">Use your stylus to write the correct synonym or antonym from the options (<strong>big</strong>, <strong>cold</strong>, <strong>smooth</strong>, <strong>quiet</strong>).</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Synonym of <strong>large</strong>:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">big</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Antonym of <strong>hot</strong>:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">cold</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Antonym of <strong>rough</strong>:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">smooth</span></div>\n                  </div>\n                </div>"
     ]
   }
 };

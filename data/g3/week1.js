@@ -1222,352 +1222,260 @@ window.WEEK1_DATA.english = {
   "subtitle": "Week 1: CVCC Words & Demonstrative Pronouns",
   "slides": [
     {
-      "title": "Welcome to English Week 1",
-      "text": "In this week's module, we will explore key language concepts including CVCC Words, Demonstrative Pronouns, and Story Elements.",
+      "title": "Welcome to the Language Safari!",
+      "text": "Hello, Explorer! This week we are going on a safari in our own neighborhood. We will learn to spot words that end in double consonants, point to cool things around us, and read stories about local adventures.",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand and apply CVCC Words and Demonstrative Pronouns in reading and writing."
-        },
-        {
-          "title": "Context",
-          "content": "This module is designed in the context of Grade 3 standards."
+          "title": "Weekly Goal",
+          "content": "Master CVCC words, point to objects using pronouns, and explore story elements!"
         }
       ]
     },
     {
-      "title": "Core Vocabulary Words",
-      "text": "Let's look at the core words for this week's phonics focus (CVCC Words): hand, tent, pink, lamp, bend.",
+      "title": "Spotting Ending Sounds (CVCC)",
+      "text": "Listen closely: h-a-n-d. Hear how the 'n' and 'd' blend together at the end? These are CVCC words: Consonant-Vowel-Consonant-Consonant. Let's find them!",
       "examples": [
         {
-          "title": "Word 1: Hand",
-          "content": "A phonics word matching the CVCC Words pattern."
-        },
-        {
-          "title": "Word 2: Tent",
-          "content": "Another example showing correct letter sound blends."
+          "title": "Word Pattern",
+          "content": "C = Consonant, V = Vowel, C = Consonant, C = Consonant."
         }
       ]
     },
     {
-      "title": "Phonics: CVCC Words",
-      "text": "CVCC stands for Consonant-Vowel-Consonant-Consonant. These words end with two consonant letters that form a blend, like 'hand', 'tent', or 'pink'.",
+      "title": "Phonics Hunt: In the Tent",
+      "text": "Let's pitch a green tent! Look at the word 'tent'. It ends with the blend 'nt'. Can you hear it? Let's say 'tent' three times!",
       "examples": [
         {
-          "title": "Examples",
-          "content": "hand, tent, pink, lamp, bend, belt, milk, wind, desk, hunt"
-        },
-        {
-          "title": "Reading Rule",
-          "content": "Blend the letter sounds together smoothly when pronouncing the words."
+          "title": "Spelling",
+          "content": "t - e - n - t"
         }
       ]
     },
     {
-      "title": "Grammar: Demonstrative Pronouns",
-      "text": "Demonstrative pronouns point to specific things. We use 'this' (singular) and 'these' (plural) for things near us. We use 'that' (singular) and 'those' (plural) for things far away.",
+      "title": "Phonics Hunt: Under the Lamp",
+      "text": "When it gets dark, we turn on the brass lamp. 'Lamp' ends with the blend 'mp'. What does a lamp help us observe at night?",
       "examples": [
         {
-          "title": "Example Sentence",
-          "content": "This is my calesa (near)."
-        },
-        {
-          "title": "Tip",
-          "content": "Notice how the pronoun helps show position or ownership."
+          "title": "Spelling",
+          "content": "l - a - m - p"
         }
       ]
     },
     {
-      "title": "Sentence Structure: Declarative Sentences",
-      "text": "Declarative sentences are telling sentences that make a statement. They start with a capital letter and end with a period. They have two main parts: the subject (who/what) and the predicate (what the subject is or does).",
+      "title": "Phonics Hunt: The Pink Flower",
+      "text": "In the garden, we spot a pink flower. 'Pink' ends with the blend 'nk'. Can you think of other pink things in nature?",
       "examples": [
         {
-          "title": "Example",
-          "content": "That is a banca in the river (far)."
-        },
+          "title": "Spelling",
+          "content": "p - i - n - k"
+        }
+      ]
+    },
+    {
+      "title": "Phonics Hunt: Keeping Active",
+      "text": "We bend our knees when we run. We wear a strong leather belt. 'Bend' and 'belt' have CVCC blends at the end too!",
+      "examples": [
+        {
+          "title": "Spelling",
+          "content": "b - e - n - d  and  b - e - l - t"
+        }
+      ]
+    },
+    {
+      "title": "Phonics Hunt: In the Wind",
+      "text": "The cold wind blows through the trees. 'Wind' ends in 'nd'. We drink a warm glass of milk. 'Milk' ends in 'lk'. Look how common these blends are!",
+      "examples": [
+        {
+          "title": "Spelling",
+          "content": "w - i - n - d  and  m - i - l - k"
+        }
+      ]
+    },
+    {
+      "title": "Phonics Hunt: Active Play",
+      "text": "We write at our wooden desk. We go on an insect hunt. 'Desk' ends in 'sk' and 'hunt' ends in 'nt'. Let's spell them on paper!",
+      "examples": [
+        {
+          "title": "Spelling",
+          "content": "d - e - s - k  and  h - u - n - t"
+        }
+      ]
+    },
+    {
+      "title": "Grammar: Pointing to Things",
+      "text": "When we describe what we see, we point using words. We use 'this' and 'these' for things near us. We use 'that' and 'those' for things far away!",
+      "examples": [
+        {
+          "title": "Focus Pronouns",
+          "content": "This, That, These, Those"
+        }
+      ]
+    },
+    {
+      "title": "Near Us: This and These",
+      "text": "Look at your hand! You can say: 'This is my hand.' (singular) or 'These are my fingers.' (plural) because they are close to you.",
+      "examples": [
+        {
+          "title": "Near Examples",
+          "content": "This pencil (1 near), These rocks (many near)."
+        }
+      ]
+    },
+    {
+      "title": "Far From Us: That and Those",
+      "text": "Look out the window! You can say: 'That is a bird on the branch.' (singular) or 'Those are clouds in the sky.' (plural) because they are far away.",
+      "examples": [
+        {
+          "title": "Far Examples",
+          "content": "That star (1 far), Those mountains (many far)."
+        }
+      ]
+    },
+    {
+      "title": "Sentence Engine: Declarative Sentences",
+      "text": "A telling sentence is like a small train. It makes a statement and ends with a period. It has a Subject (who or what) and a Predicate (what they do).",
+      "examples": [
         {
           "title": "Rule",
-          "content": "Always verify that your sentence begins with a capital letter and ends with the correct mark."
+          "content": "Always start with a capital letter and end with a period."
         }
       ]
     },
     {
-      "title": "Comprehension: Story Elements",
-      "text": "Comprehending a story involves identifying its characters (who), setting (where and when), and key events (plot). A good reader can sequence these events and identify the problem and solution.",
+      "title": "Declarative: Spotting the Parts",
+      "text": "In the sentence: 'Matteo rides a calesa.' 'Matteo' is the Subject (who). 'rides a calesa' is the Predicate (what he does).",
       "examples": [
         {
-          "title": "Focus Area",
-          "content": "Analyze text elements under Story Elements"
+          "title": "Subject",
+          "content": "Matteo"
         },
         {
-          "title": "Strategy",
-          "content": "Look for key clues, character actions, and connector words in the story."
+          "title": "Predicate",
+          "content": "rides a calesa"
         }
       ]
     },
     {
-      "title": "Vocabulary & Theme: Regional Themes",
-      "text": "We use sight words and high-frequency words to talk about regional themes, such as local transport, festivals, and natural environments in our community.",
+      "title": "Story Time: The Calesa Ride",
+      "text": "Let's read a short story: 'Matteo sits inside a wooden calesa. The horse walks down the street. Matteo smiles at the colorful houses.'",
       "examples": [
         {
-          "title": "Focus",
-          "content": "Applying high-frequency words in Regional Themes themes."
-        },
-        {
-          "title": "Application",
-          "content": "Write short paragraphs using these words to express ideas about your local environment."
+          "title": "Reading Task",
+          "content": "Read the story aloud to practice your spelling words!"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 1",
-      "text": "Let's review Case 1 combining our phonics focus (CVCC Words) and grammar rules (Demonstrative Pronouns).",
+      "title": "Characters: Who is in the Story?",
+      "text": "The characters are the people or animals in a story. In our calesa story, the characters are Matteo and the horse. Who is your favorite character?",
       "examples": [
         {
-          "title": "Practice Example 1",
-          "content": "Read the CVCC/CCVC words in the context of a Declarative Sentences."
-        },
-        {
-          "title": "Analysis 1",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Key Concept",
+          "content": "Characters = Who"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 2",
-      "text": "Let's review Case 2 combining our phonics focus (CVCC Words) and grammar rules (Demonstrative Pronouns).",
+      "title": "Setting: Where and When?",
+      "text": "The setting is where and when the story takes place. Matteo's ride is happening on a sunny day in a historic town street.",
       "examples": [
         {
-          "title": "Practice Example 2",
-          "content": "Read the CVCC/CCVC words in the context of a Declarative Sentences."
-        },
-        {
-          "title": "Analysis 2",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Key Concept",
+          "content": "Setting = Where and When"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 3",
-      "text": "Let's review Case 3 combining our phonics focus (CVCC Words) and grammar rules (Demonstrative Pronouns).",
+      "title": "Plot: What Happens?",
+      "text": "The plot is the sequence of events. First, Matteo gets in. Next, the horse walks. Then, Matteo sees the houses. It's a happy journey!",
       "examples": [
         {
-          "title": "Practice Example 3",
-          "content": "Read the CVCC/CCVC words in the context of a Declarative Sentences."
-        },
-        {
-          "title": "Analysis 3",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Key Concept",
+          "content": "Plot = What happens (First, Next, Then)"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 4",
-      "text": "Let's review Case 4 combining our phonics focus (CVCC Words) and grammar rules (Demonstrative Pronouns).",
+      "title": "Observing Local Transport",
+      "text": "In our community, we observe unique transport. A calesa is a horse-drawn carriage on land. A banca is a wooden outrigger boat on water.",
       "examples": [
         {
-          "title": "Practice Example 4",
-          "content": "Read the CVCC/CCVC words in the context of a Declarative Sentences."
+          "title": "Land Transport",
+          "content": "calesa"
         },
         {
-          "title": "Analysis 4",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Water Transport",
+          "content": "banca"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 5",
-      "text": "Let's review Case 5 combining our phonics focus (CVCC Words) and grammar rules (Demonstrative Pronouns).",
+      "title": "Nature Connections: The Wet Sand",
+      "text": "At the riverbank, we observe wet sand. Let's combine our words: 'This sand is wet.' (Declarative sentence). 'Sand' is a CVCC word!",
       "examples": [
         {
-          "title": "Practice Example 5",
-          "content": "Read the CVCC/CCVC words in the context of a Declarative Sentences."
-        },
-        {
-          "title": "Analysis 5",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Observation",
+          "content": "Pointing to sand near your feet: 'This is wet sand.'"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 6",
-      "text": "Let's review Case 6 combining our phonics focus (CVCC Words) and grammar rules (Demonstrative Pronouns).",
+      "title": "Science Connection: The Pink Fish",
+      "text": "In the water, we watch a pink fish swim. 'That is a pink fish.' (Declarative sentence pointing far). 'Pink' is our CVCC focus!",
       "examples": [
         {
-          "title": "Practice Example 6",
-          "content": "Read the CVCC/CCVC words in the context of a Declarative Sentences."
-        },
-        {
-          "title": "Analysis 6",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Observation",
+          "content": "Pointing to fish in the pond: 'That is a pink fish.'"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 7",
-      "text": "Let's review Case 7 combining our phonics focus (CVCC Words) and grammar rules (Demonstrative Pronouns).",
+      "title": "Guided Practice: Spotting CVCC Words",
+      "text": "Can you spot the CVCC word in: 'The child sat at the wooden desk'? Yes, it is 'desk'!",
       "examples": [
         {
-          "title": "Practice Example 7",
-          "content": "Read the CVCC/CCVC words in the context of a Declarative Sentences."
-        },
-        {
-          "title": "Analysis 7",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Check",
+          "content": "d - e - s - k ends with the consonants s and k."
         }
       ]
     },
     {
-      "title": "Detailed Case Study 8",
-      "text": "Let's review Case 8 combining our phonics focus (CVCC Words) and grammar rules (Demonstrative Pronouns).",
+      "title": "Guided Practice: Near or Far?",
+      "text": "If you are holding a book, do you say 'This is my book' or 'That is my book'? Since you are holding it, use 'This'!",
       "examples": [
         {
-          "title": "Practice Example 8",
-          "content": "Read the CVCC/CCVC words in the context of a Declarative Sentences."
-        },
-        {
-          "title": "Analysis 8",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Rule of Thumb",
+          "content": "If you can touch it, use 'this' or 'these'."
         }
       ]
     },
     {
-      "title": "Comprehension Case 1",
-      "text": "Analyzing story events and character traits (Comprehension Case 1).",
+      "title": "Guided Practice: Capital and Period",
+      "text": "Look at: 'the banca floats in the river' Is it correct? No! It needs a capital 'T' at the start and a period '.' at the end.",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Corrected",
+          "content": "'The banca floats in the river.'"
         }
       ]
     },
     {
-      "title": "Comprehension Case 2",
-      "text": "Analyzing story events and character traits (Comprehension Case 2).",
+      "title": "Common Error: Mixing Near and Far",
+      "text": "Don't use 'this' for things far away. If the clouds are up in the sky, say 'Those are clouds', not 'These are clouds'!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Correction",
+          "content": "'Those clouds look soft.'"
         }
       ]
     },
     {
-      "title": "Comprehension Case 3",
-      "text": "Analyzing story events and character traits (Comprehension Case 3).",
+      "title": "Summary of Week 1",
+      "text": "Excellent job, Language Explorer! You learned about CVCC word blends, demonstrative pronouns, and declarative sentences. Now you are ready for the quiz!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
-        }
-      ]
-    },
-    {
-      "title": "Comprehension Case 4",
-      "text": "Analyzing story events and character traits (Comprehension Case 4).",
-      "examples": [
-        {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
-        }
-      ]
-    },
-    {
-      "title": "Comprehension Case 5",
-      "text": "Analyzing story events and character traits (Comprehension Case 5).",
-      "examples": [
-        {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
-        }
-      ]
-    },
-    {
-      "title": "Concept Review 1",
-      "text": "Let's review the main rules of Week 1 English. Pay close attention to vocabulary use and spelling patterns.",
-      "examples": [
-        {
-          "title": "Review Tip",
-          "content": "Read the words aloud to check their phonics sounds."
-        },
-        {
-          "title": "Sentence Check",
-          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
-        }
-      ]
-    },
-    {
-      "title": "Practice Task 2",
-      "text": "Try applying the rules of Week 1 English in a new sentence. Practice writing it down on paper.",
-      "examples": [
-        {
-          "title": "Task",
-          "content": "Write a short sentence using one of the weekly vocabulary words."
-        },
-        {
-          "title": "Self-Check",
-          "content": "Identify the subject and predicate of your sentence."
-        }
-      ]
-    },
-    {
-      "title": "Concept Review 3",
-      "text": "Let's review the main rules of Week 1 English. Pay close attention to vocabulary use and spelling patterns.",
-      "examples": [
-        {
-          "title": "Review Tip",
-          "content": "Read the words aloud to check their phonics sounds."
-        },
-        {
-          "title": "Sentence Check",
-          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
-        }
-      ]
-    },
-    {
-      "title": "Practice Task 4",
-      "text": "Try applying the rules of Week 1 English in a new sentence. Practice writing it down on paper.",
-      "examples": [
-        {
-          "title": "Task",
-          "content": "Write a short sentence using one of the weekly vocabulary words."
-        },
-        {
-          "title": "Self-Check",
-          "content": "Identify the subject and predicate of your sentence."
-        }
-      ]
-    },
-    {
-      "title": "Summary & Reflection",
-      "text": "You have completed all slides for this lesson on Week 1 English. Take a moment to review the key concepts, spelling, and sentence structures we covered.",
-      "examples": [
-        {
-          "title": "Key Takeaway",
-          "content": "Mastering Week 1 English builds a strong foundation for reading and writing."
-        },
-        {
-          "title": "Next Step",
-          "content": "You are now ready to try the weekly quiz and challenge questions."
+          "title": "Vocabulary",
+          "content": "hand, tent, pink, lamp, bend, belt, milk, wind, desk, hunt"
         }
       ]
     }
@@ -1575,276 +1483,274 @@ window.WEEK1_DATA.english = {
   "standard": [
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC Words? (Question 1)",
+      "q": "Which word ends with a CVCC blend?",
       "options": [
         "hand",
         "baby",
-        "paper",
-        "music"
+        "frog",
+        "paper"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC Words? (Question 2)",
-      "options": [
-        "tent",
-        "baby",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC Words? (Question 3)",
-      "options": [
-        "pink",
-        "baby",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC Words? (Question 4)",
+      "q": "Identify the CVCC word in this sentence: 'The lamp is bright.'",
       "options": [
         "lamp",
-        "baby",
-        "paper",
-        "music"
+        "bright",
+        "is",
+        "The"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC Words? (Question 5)",
+      "q": "Complete the word: 'The hikers slept in a green te__.'",
       "options": [
-        "bend",
-        "baby",
-        "paper",
-        "music"
+        "nt",
+        "mp",
+        "nd",
+        "lk"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC Words? (Question 6)",
+      "q": "Which of these words ends with the same blend as 'pink'?",
       "options": [
+        "sink",
+        "pond",
         "belt",
-        "baby",
-        "paper",
-        "music"
+        "milk"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC Words? (Question 7)",
-      "options": [
-        "milk",
-        "baby",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC Words? (Question 8)",
+      "q": "Which CVCC word represents the blowing air we observe?",
       "options": [
         "wind",
-        "baby",
-        "paper",
-        "music"
+        "lamp",
+        "desk",
+        "hunt"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'This is my calesa (near).' (Question 9)",
+      "q": "Complete the sentence for a pencil you are holding: '___ is my pencil.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "This",
+        "That",
+        "These",
+        "Those"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'That is a banca in the river (far).' (Question 10)",
+      "q": "For two books on your lap, what do you say?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "These are my books.",
+        "Those are my books.",
+        "This is my book.",
+        "That is my book."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'These are local fruits (near).' (Question 11)",
+      "q": "Complete: '___ calesa next to me is painted red.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "This",
+        "That",
+        "Those",
+        "These"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Those are birds in the tree (far).' (Question 12)",
+      "q": "When pointing to your own two hands, you say:",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "These are my hands.",
+        "Those are my hands.",
+        "This is my hand.",
+        "That is my hand."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'This is my calesa (near).' (Question 13)",
+      "q": "Complete: '___ is my drawing of a pink flower in my lap.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "This",
+        "That",
+        "Those",
+        "These"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'That is a banca in the river (far).' (Question 14)",
+      "q": "Complete for a bird flying high in the sky: '___ is a hawk.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "That",
+        "This",
+        "These",
+        "Those"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'These are local fruits (near).' (Question 15)",
+      "q": "For many stars shining far away, we say:",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Those are stars.",
+        "These are stars.",
+        "That is a star.",
+        "This is a star."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Those are birds in the tree (far).' (Question 16)",
+      "q": "Complete: '___ are bancas sailing in the distant river.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Those",
+        "These",
+        "This",
+        "That"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Story Elements, what is the correct reading strategy or detail? (Question 17)",
+      "q": "Pointing to a mountain on the horizon, we say:",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "That is a mountain.",
+        "This is a mountain.",
+        "Those are mountains.",
+        "These are mountains."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Story Elements, what is the correct reading strategy or detail? (Question 18)",
+      "q": "Complete: '___ is a horse drawing the calesa down the street yonder.'",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "That",
+        "This",
+        "These",
+        "Those"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Story Elements, what is the correct reading strategy or detail? (Question 19)",
+      "q": "What type of sentence is: 'Matteo smiles at the colorful houses.'",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "Declarative sentence",
+        "Interrogative sentence",
+        "Imperative sentence",
+        "Exclamatory sentence"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Story Elements, what is the correct reading strategy or detail? (Question 20)",
+      "q": "What is the subject of the sentence: 'The fast horse runs.'",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "The fast horse",
+        "runs",
+        "fast horse",
+        "runs fast"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Story Elements, what is the correct reading strategy or detail? (Question 21)",
+      "q": "What is the predicate of the sentence: 'Matteo rides a calesa.'",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "rides a calesa",
+        "Matteo",
+        "calesa",
+        "rides"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Story Elements, what is the correct reading strategy or detail? (Question 22)",
+      "q": "Which of these declarative sentences is punctuated correctly?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "The banca sails on the river.",
+        "the banca sails on the river",
+        "The banca sails on the river?",
+        "the banca sails on the river."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "True or False: A telling (declarative) sentence always starts with a capital letter and ends with a period.",
+      "options": [
+        "True",
+        "False"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Story Elements, what is the correct reading strategy or detail? (Question 23)",
+      "q": "Who is the main character in the story of the calesa ride?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "Matteo",
+        "Kiko",
+        "A fisherman",
+        "A teacher"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Story Elements, what is the correct reading strategy or detail? (Question 24)",
+      "q": "What is the setting of the calesa ride story?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "A town street on a sunny day",
+        "A forest at night",
+        "A deep sea",
+        "A modern airport"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What is the main learning goal of Week 1 English? (Question 25)",
+      "q": "What happens first in the calesa ride story?",
       "options": [
-        "Develop automatic decoding of CVCC Words and application of Demonstrative Pronouns.",
-        "Draw a picture only.",
-        "Memorize all words.",
-        "Write a long novel."
+        "Matteo sits in the calesa.",
+        "The horse runs away.",
+        "Matteo sees the ocean.",
+        "The calesa breaks down."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which of these is a local transport we observed on water?",
+      "options": [
+        "banca",
+        "calesa",
+        "car",
+        "train"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What does the word 'observing' mean in science and reading?",
+      "options": [
+        "Using our senses to collect facts",
+        "Making up a fun story",
+        "Drawing a random picture",
+        "Singing a song"
       ],
       "answer": 0
     }
@@ -1852,74 +1758,75 @@ window.WEEK1_DATA.english = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge Question 1: Solve the complex sentence puzzle using Demonstrative Pronouns and CVCC Words patterns.",
+      "q": "Challenge: If you observe a bird flying far away and you write: 'this is a fast bird.' What two errors did you make?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "Used 'this' instead of 'that', and did not capitalize the first letter.",
+        "Used 'that' instead of 'this', and forgot the period.",
+        "Used plural 'these' and forgot the subject.",
+        "No errors were made."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 2: Solve the complex sentence puzzle using Demonstrative Pronouns and CVCC Words patterns.",
+      "q": "Challenge: Which sentence has a CVCC word as the subject and another CVCC word in the predicate?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "The wind blows the pink lamp.",
+        "The frog jumps on the rock.",
+        "Matteo rides the red calesa.",
+        "A baby tiger sleeps soundly."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 3: Solve the complex sentence puzzle using Demonstrative Pronouns and CVCC Words patterns.",
+      "q": "Challenge: Read this passage: 'The wind blew the dry sand. A small crab ran to its hole.' What is the setting of this passage?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "A windy beach or riverbank",
+        "A wet green forest",
+        "Inside a quiet school",
+        "A busy city market"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 4: Solve the complex sentence puzzle using Demonstrative Pronouns and CVCC Words patterns.",
+      "q": "Challenge: Which of these is a declarative sentence that contains a scientific observation about a plant?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "This green leaf has five points.",
+        "I love flowers because they are pretty.",
+        "Please water the dry plant.",
+        "Does the plant need sunlight?"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 5: Solve the complex sentence puzzle using Demonstrative Pronouns and CVCC Words patterns.",
+      "q": "Challenge: Unscramble the CVCC word in: 'We keep our books on a k-s-e-d.'",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "desk",
+        "shed",
+        "disk",
+        "sand"
       ],
       "answer": 0
     }
   ],
   "performance": {
-    "title": "Performance Task: CVCC Words & Demonstrative Pronouns",
-    "desc": "Write a short paragraph (3-4 sentences) using at least three of this week's phonics words (hand, tent, pink, lamp, bend) and demonstrative/possessive pronouns. Draw a matching picture and present it to your parent.",
+    "type": "performance",
+    "title": "My Nature Observation Journal",
+    "desc": "Observe three different natural objects around your home or garden (like a leaf, sand, or a lamp). Draw them on a piece of paper. For each drawing, write one declarative sentence using a demonstrative pronoun (This, That, These, Those) and at least one CVCC word. Read your sentences aloud to your parents.",
     "labels": [
-      "Correct use of phonics words",
-      "Correct sentence structure and capitalization",
-      "Clear drawing and explanation"
+      "Correct use of CVCC words (e.g. hand, wind, desk, lamp, sand)",
+      "Correct use of Demonstrative Pronouns based on near/far observation",
+      "Proper declarative sentence structure (starts with capital, ends with period)"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 1: CVCC Words Phonics Identification</h3>\n              <p class=\"ws-instruction\">Identify the correct spelling of the words matching the phonics rule.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Fill in the missing letters: <strong>ha__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">hand</span></div>\n              </div>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">2. Fill in the missing letters: <strong>te__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">tent</span></div>\n              </div>\n            </div>",
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 2: Demonstrative Pronouns Grammar Check</h3>\n              <p class=\"ws-instruction\">Choose and write the correct pronoun to complete the sentence.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Sentence: <em>This is my calesa (near).</em></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 100%;\"><span class=\"ws-answer\">This</span></div>\n              </div>\n            </div>",
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 3: Story Elements Story Sequencing</h3>\n              <p class=\"ws-instruction\">Write the correct order of the story elements (1, 2, 3).</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">Describe the setting and the main problem of the character:</div>\n                <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">Identify where and when the story happens, and what the character wants to solve.</span></div>\n              </div>\n            </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: CVCC Phonics Hunt</h3>\n                  <p class=\"ws-instruction\">Write the correct CVCC word that matches each nature clue below using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Blowing air that we feel but cannot see: <strong>wi__</strong></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">wind</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. A tool that gives light when it is dark: <strong>la__</strong></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">lamp</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. A shelter made of canvas used during outdoor camps: <strong>te__</strong></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">tent</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Near and Far Pointing</h3>\n                  <p class=\"ws-instruction\">Fill in the blank with the correct demonstrative pronoun (<strong>This</strong>, <strong>These</strong>, <strong>That</strong>, <strong>Those</strong>).</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. (Near) ___ is my hand observing the wet sand.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">This</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. (Far) ___ are bancas sailing in the distant river.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">Those</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. (Near) ___ are colorful flowers in my garden lap.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">These</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Declarative Sentences & Story Elements</h3>\n                  <p class=\"ws-instruction\">Write the subject or predicate for the story about Matteo's banca ride.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">In 'Matteo sails a wooden banca.', write the Subject (who):</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"><span class=\"ws-answer\">Matteo</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Write the Predicate (what the subject does) in 'The wind blows the sails.':</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"><span class=\"ws-answer\">blows the sails</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -5389,352 +5296,260 @@ window.WEEK1_ADVANCED_DATA.english = {
   "subtitle": "Week 1: CVCC Words & Demonstrative Pronouns",
   "slides": [
     {
-      "title": "Welcome to English Week 1",
-      "text": "In this week's module, we will explore key language concepts including CVCC Words, Demonstrative Pronouns, and Story Elements.",
+      "title": "Welcome to the Language Safari!",
+      "text": "Hello, Explorer! This week we are going on a safari in our own neighborhood. We will learn to spot words that end in double consonants, point to cool things around us, and read stories about local adventures.",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand and apply CVCC Words and Demonstrative Pronouns in reading and writing."
-        },
-        {
-          "title": "Context",
-          "content": "This module is designed in the context of Grade 4-5 standards."
+          "title": "Weekly Goal",
+          "content": "Master CVCC words, point to objects using pronouns, and explore story elements!"
         }
       ]
     },
     {
-      "title": "Core Vocabulary Words",
-      "text": "Let's look at the core words for this week's phonics focus (CVCC Words): hand, tent, pink, lamp, bend.",
+      "title": "Spotting Ending Sounds (CVCC)",
+      "text": "Listen closely: h-a-n-d. Hear how the 'n' and 'd' blend together at the end? These are CVCC words: Consonant-Vowel-Consonant-Consonant. Let's find them!",
       "examples": [
         {
-          "title": "Word 1: Hand",
-          "content": "A phonics word matching the CVCC Words pattern."
-        },
-        {
-          "title": "Word 2: Tent",
-          "content": "Another example showing correct letter sound blends."
+          "title": "Word Pattern",
+          "content": "C = Consonant, V = Vowel, C = Consonant, C = Consonant."
         }
       ]
     },
     {
-      "title": "Phonics: CVCC Words",
-      "text": "CVCC stands for Consonant-Vowel-Consonant-Consonant. These words end with two consonant letters that form a blend, like 'hand', 'tent', or 'pink'.",
+      "title": "Phonics Hunt: In the Tent",
+      "text": "Let's pitch a green tent! Look at the word 'tent'. It ends with the blend 'nt'. Can you hear it? Let's say 'tent' three times!",
       "examples": [
         {
-          "title": "Examples",
-          "content": "hand, tent, pink, lamp, bend, belt, milk, wind, desk, hunt"
-        },
-        {
-          "title": "Reading Rule",
-          "content": "Blend the letter sounds together smoothly when pronouncing the words."
+          "title": "Spelling",
+          "content": "t - e - n - t"
         }
       ]
     },
     {
-      "title": "Grammar: Demonstrative Pronouns",
-      "text": "Demonstrative pronouns point to specific things. We use 'this' (singular) and 'these' (plural) for things near us. We use 'that' (singular) and 'those' (plural) for things far away.",
+      "title": "Phonics Hunt: Under the Lamp",
+      "text": "When it gets dark, we turn on the brass lamp. 'Lamp' ends with the blend 'mp'. What does a lamp help us observe at night?",
       "examples": [
         {
-          "title": "Example Sentence",
-          "content": "This is my calesa (near)."
-        },
-        {
-          "title": "Tip",
-          "content": "Notice how the pronoun helps show position or ownership."
+          "title": "Spelling",
+          "content": "l - a - m - p"
         }
       ]
     },
     {
-      "title": "Sentence Structure: Declarative Sentences",
-      "text": "Declarative sentences are telling sentences that make a statement. They start with a capital letter and end with a period. They have two main parts: the subject (who/what) and the predicate (what the subject is or does).",
+      "title": "Phonics Hunt: The Pink Flower",
+      "text": "In the garden, we spot a pink flower. 'Pink' ends with the blend 'nk'. Can you think of other pink things in nature?",
       "examples": [
         {
-          "title": "Example",
-          "content": "That is a banca in the river (far)."
-        },
+          "title": "Spelling",
+          "content": "p - i - n - k"
+        }
+      ]
+    },
+    {
+      "title": "Phonics Hunt: Keeping Active",
+      "text": "We bend our knees when we run. We wear a strong leather belt. 'Bend' and 'belt' have CVCC blends at the end too!",
+      "examples": [
+        {
+          "title": "Spelling",
+          "content": "b - e - n - d  and  b - e - l - t"
+        }
+      ]
+    },
+    {
+      "title": "Phonics Hunt: In the Wind",
+      "text": "The cold wind blows through the trees. 'Wind' ends in 'nd'. We drink a warm glass of milk. 'Milk' ends in 'lk'. Look how common these blends are!",
+      "examples": [
+        {
+          "title": "Spelling",
+          "content": "w - i - n - d  and  m - i - l - k"
+        }
+      ]
+    },
+    {
+      "title": "Phonics Hunt: Active Play",
+      "text": "We write at our wooden desk. We go on an insect hunt. 'Desk' ends in 'sk' and 'hunt' ends in 'nt'. Let's spell them on paper!",
+      "examples": [
+        {
+          "title": "Spelling",
+          "content": "d - e - s - k  and  h - u - n - t"
+        }
+      ]
+    },
+    {
+      "title": "Grammar: Pointing to Things",
+      "text": "When we describe what we see, we point using words. We use 'this' and 'these' for things near us. We use 'that' and 'those' for things far away!",
+      "examples": [
+        {
+          "title": "Focus Pronouns",
+          "content": "This, That, These, Those"
+        }
+      ]
+    },
+    {
+      "title": "Near Us: This and These",
+      "text": "Look at your hand! You can say: 'This is my hand.' (singular) or 'These are my fingers.' (plural) because they are close to you.",
+      "examples": [
+        {
+          "title": "Near Examples",
+          "content": "This pencil (1 near), These rocks (many near)."
+        }
+      ]
+    },
+    {
+      "title": "Far From Us: That and Those",
+      "text": "Look out the window! You can say: 'That is a bird on the branch.' (singular) or 'Those are clouds in the sky.' (plural) because they are far away.",
+      "examples": [
+        {
+          "title": "Far Examples",
+          "content": "That star (1 far), Those mountains (many far)."
+        }
+      ]
+    },
+    {
+      "title": "Sentence Engine: Declarative Sentences",
+      "text": "A telling sentence is like a small train. It makes a statement and ends with a period. It has a Subject (who or what) and a Predicate (what they do).",
+      "examples": [
         {
           "title": "Rule",
-          "content": "Always verify that your sentence begins with a capital letter and ends with the correct mark."
+          "content": "Always start with a capital letter and end with a period."
         }
       ]
     },
     {
-      "title": "Comprehension: Story Elements",
-      "text": "Comprehending a story involves identifying its characters (who), setting (where and when), and key events (plot). A good reader can sequence these events and identify the problem and solution.",
+      "title": "Declarative: Spotting the Parts",
+      "text": "In the sentence: 'Matteo rides a calesa.' 'Matteo' is the Subject (who). 'rides a calesa' is the Predicate (what he does).",
       "examples": [
         {
-          "title": "Focus Area",
-          "content": "Analyze text elements under Story Elements"
+          "title": "Subject",
+          "content": "Matteo"
         },
         {
-          "title": "Strategy",
-          "content": "Look for key clues, character actions, and connector words in the story."
+          "title": "Predicate",
+          "content": "rides a calesa"
         }
       ]
     },
     {
-      "title": "Vocabulary & Theme: Regional Themes",
-      "text": "We use sight words and high-frequency words to talk about regional themes, such as local transport, festivals, and natural environments in our community.",
+      "title": "Story Time: The Calesa Ride",
+      "text": "Let's read a short story: 'Matteo sits inside a wooden calesa. The horse walks down the street. Matteo smiles at the colorful houses.'",
       "examples": [
         {
-          "title": "Focus",
-          "content": "Applying high-frequency words in Regional Themes themes."
-        },
-        {
-          "title": "Application",
-          "content": "Write short paragraphs using these words to express ideas about your local environment."
+          "title": "Reading Task",
+          "content": "Read the story aloud to practice your spelling words!"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 1",
-      "text": "Let's review Case 1 combining our phonics focus (CVCC Words) and grammar rules (Demonstrative Pronouns). (Complex/Deeper)",
+      "title": "Characters: Who is in the Story?",
+      "text": "The characters are the people or animals in a story. In our calesa story, the characters are Matteo and the horse. Who is your favorite character?",
       "examples": [
         {
-          "title": "Practice Example 1",
-          "content": "Read the CVCC/CCVC words in the context of a Declarative Sentences."
-        },
-        {
-          "title": "Analysis 1",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Key Concept",
+          "content": "Characters = Who"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 2",
-      "text": "Let's review Case 2 combining our phonics focus (CVCC Words) and grammar rules (Demonstrative Pronouns). (Complex/Deeper)",
+      "title": "Setting: Where and When?",
+      "text": "The setting is where and when the story takes place. Matteo's ride is happening on a sunny day in a historic town street.",
       "examples": [
         {
-          "title": "Practice Example 2",
-          "content": "Read the CVCC/CCVC words in the context of a Declarative Sentences."
-        },
-        {
-          "title": "Analysis 2",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Key Concept",
+          "content": "Setting = Where and When"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 3",
-      "text": "Let's review Case 3 combining our phonics focus (CVCC Words) and grammar rules (Demonstrative Pronouns). (Complex/Deeper)",
+      "title": "Plot: What Happens?",
+      "text": "The plot is the sequence of events. First, Matteo gets in. Next, the horse walks. Then, Matteo sees the houses. It's a happy journey!",
       "examples": [
         {
-          "title": "Practice Example 3",
-          "content": "Read the CVCC/CCVC words in the context of a Declarative Sentences."
-        },
-        {
-          "title": "Analysis 3",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Key Concept",
+          "content": "Plot = What happens (First, Next, Then)"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 4",
-      "text": "Let's review Case 4 combining our phonics focus (CVCC Words) and grammar rules (Demonstrative Pronouns). (Complex/Deeper)",
+      "title": "Observing Local Transport",
+      "text": "In our community, we observe unique transport. A calesa is a horse-drawn carriage on land. A banca is a wooden outrigger boat on water.",
       "examples": [
         {
-          "title": "Practice Example 4",
-          "content": "Read the CVCC/CCVC words in the context of a Declarative Sentences."
+          "title": "Land Transport",
+          "content": "calesa"
         },
         {
-          "title": "Analysis 4",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Water Transport",
+          "content": "banca"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 5",
-      "text": "Let's review Case 5 combining our phonics focus (CVCC Words) and grammar rules (Demonstrative Pronouns). (Complex/Deeper)",
+      "title": "Nature Connections: The Wet Sand",
+      "text": "At the riverbank, we observe wet sand. Let's combine our words: 'This sand is wet.' (Declarative sentence). 'Sand' is a CVCC word!",
       "examples": [
         {
-          "title": "Practice Example 5",
-          "content": "Read the CVCC/CCVC words in the context of a Declarative Sentences."
-        },
-        {
-          "title": "Analysis 5",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Observation",
+          "content": "Pointing to sand near your feet: 'This is wet sand.'"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 6",
-      "text": "Let's review Case 6 combining our phonics focus (CVCC Words) and grammar rules (Demonstrative Pronouns). (Complex/Deeper)",
+      "title": "Science Connection: The Pink Fish",
+      "text": "In the water, we watch a pink fish swim. 'That is a pink fish.' (Declarative sentence pointing far). 'Pink' is our CVCC focus!",
       "examples": [
         {
-          "title": "Practice Example 6",
-          "content": "Read the CVCC/CCVC words in the context of a Declarative Sentences."
-        },
-        {
-          "title": "Analysis 6",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Observation",
+          "content": "Pointing to fish in the pond: 'That is a pink fish.'"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 7",
-      "text": "Let's review Case 7 combining our phonics focus (CVCC Words) and grammar rules (Demonstrative Pronouns). (Complex/Deeper)",
+      "title": "Guided Practice: Spotting CVCC Words",
+      "text": "Can you spot the CVCC word in: 'The child sat at the wooden desk'? Yes, it is 'desk'!",
       "examples": [
         {
-          "title": "Practice Example 7",
-          "content": "Read the CVCC/CCVC words in the context of a Declarative Sentences."
-        },
-        {
-          "title": "Analysis 7",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Check",
+          "content": "d - e - s - k ends with the consonants s and k."
         }
       ]
     },
     {
-      "title": "Detailed Case Study 8",
-      "text": "Let's review Case 8 combining our phonics focus (CVCC Words) and grammar rules (Demonstrative Pronouns). (Complex/Deeper)",
+      "title": "Guided Practice: Near or Far?",
+      "text": "If you are holding a book, do you say 'This is my book' or 'That is my book'? Since you are holding it, use 'This'!",
       "examples": [
         {
-          "title": "Practice Example 8",
-          "content": "Read the CVCC/CCVC words in the context of a Declarative Sentences."
-        },
-        {
-          "title": "Analysis 8",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Rule of Thumb",
+          "content": "If you can touch it, use 'this' or 'these'."
         }
       ]
     },
     {
-      "title": "Comprehension Case 1",
-      "text": "Analyzing story events and character traits (Comprehension Case 1). (Complex/Deeper)",
+      "title": "Guided Practice: Capital and Period",
+      "text": "Look at: 'the banca floats in the river' Is it correct? No! It needs a capital 'T' at the start and a period '.' at the end.",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Corrected",
+          "content": "'The banca floats in the river.'"
         }
       ]
     },
     {
-      "title": "Comprehension Case 2",
-      "text": "Analyzing story events and character traits (Comprehension Case 2). (Complex/Deeper)",
+      "title": "Common Error: Mixing Near and Far",
+      "text": "Don't use 'this' for things far away. If the clouds are up in the sky, say 'Those are clouds', not 'These are clouds'!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Correction",
+          "content": "'Those clouds look soft.'"
         }
       ]
     },
     {
-      "title": "Comprehension Case 3",
-      "text": "Analyzing story events and character traits (Comprehension Case 3). (Complex/Deeper)",
+      "title": "Summary of Week 1",
+      "text": "Excellent job, Language Explorer! You learned about CVCC word blends, demonstrative pronouns, and declarative sentences. Now you are ready for the quiz!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
-        }
-      ]
-    },
-    {
-      "title": "Comprehension Case 4",
-      "text": "Analyzing story events and character traits (Comprehension Case 4). (Complex/Deeper)",
-      "examples": [
-        {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
-        }
-      ]
-    },
-    {
-      "title": "Comprehension Case 5",
-      "text": "Analyzing story events and character traits (Comprehension Case 5). (Complex/Deeper)",
-      "examples": [
-        {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
-        }
-      ]
-    },
-    {
-      "title": "Concept Review 1",
-      "text": "Let's review the main rules of Week 1 English. Pay close attention to vocabulary use and spelling patterns.",
-      "examples": [
-        {
-          "title": "Review Tip",
-          "content": "Read the words aloud to check their phonics sounds."
-        },
-        {
-          "title": "Sentence Check",
-          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
-        }
-      ]
-    },
-    {
-      "title": "Practice Task 2",
-      "text": "Try applying the rules of Week 1 English in a new sentence. Practice writing it down on paper.",
-      "examples": [
-        {
-          "title": "Task",
-          "content": "Write a short sentence using one of the weekly vocabulary words."
-        },
-        {
-          "title": "Self-Check",
-          "content": "Identify the subject and predicate of your sentence."
-        }
-      ]
-    },
-    {
-      "title": "Concept Review 3",
-      "text": "Let's review the main rules of Week 1 English. Pay close attention to vocabulary use and spelling patterns.",
-      "examples": [
-        {
-          "title": "Review Tip",
-          "content": "Read the words aloud to check their phonics sounds."
-        },
-        {
-          "title": "Sentence Check",
-          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
-        }
-      ]
-    },
-    {
-      "title": "Practice Task 4",
-      "text": "Try applying the rules of Week 1 English in a new sentence. Practice writing it down on paper.",
-      "examples": [
-        {
-          "title": "Task",
-          "content": "Write a short sentence using one of the weekly vocabulary words."
-        },
-        {
-          "title": "Self-Check",
-          "content": "Identify the subject and predicate of your sentence."
-        }
-      ]
-    },
-    {
-      "title": "Summary & Reflection",
-      "text": "You have completed all slides for this lesson on Week 1 English. Take a moment to review the key concepts, spelling, and sentence structures we covered.",
-      "examples": [
-        {
-          "title": "Key Takeaway",
-          "content": "Mastering Week 1 English builds a strong foundation for reading and writing."
-        },
-        {
-          "title": "Next Step",
-          "content": "You are now ready to try the weekly quiz and challenge questions."
+          "title": "Vocabulary",
+          "content": "hand, tent, pink, lamp, bend, belt, milk, wind, desk, hunt"
         }
       ]
     }
@@ -5742,276 +5557,274 @@ window.WEEK1_ADVANCED_DATA.english = {
   "standard": [
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC Words? (Question 1) (Complex/Deeper)",
+      "q": "Which word ends with a CVCC blend?",
       "options": [
         "hand",
         "baby",
-        "paper",
-        "music"
+        "frog",
+        "paper"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC Words? (Question 2) (Complex/Deeper)",
-      "options": [
-        "tent",
-        "baby",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC Words? (Question 3) (Complex/Deeper)",
-      "options": [
-        "pink",
-        "baby",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC Words? (Question 4) (Complex/Deeper)",
+      "q": "Identify the CVCC word in this sentence: 'The lamp is bright.'",
       "options": [
         "lamp",
-        "baby",
-        "paper",
-        "music"
+        "bright",
+        "is",
+        "The"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC Words? (Question 5) (Complex/Deeper)",
+      "q": "Complete the word: 'The hikers slept in a green te__.'",
       "options": [
-        "bend",
-        "baby",
-        "paper",
-        "music"
+        "nt",
+        "mp",
+        "nd",
+        "lk"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC Words? (Question 6) (Complex/Deeper)",
+      "q": "Which of these words ends with the same blend as 'pink'?",
       "options": [
+        "sink",
+        "pond",
         "belt",
-        "baby",
-        "paper",
-        "music"
+        "milk"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC Words? (Question 7) (Complex/Deeper)",
-      "options": [
-        "milk",
-        "baby",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CVCC Words? (Question 8) (Complex/Deeper)",
+      "q": "Which CVCC word represents the blowing air we observe?",
       "options": [
         "wind",
-        "baby",
-        "paper",
-        "music"
+        "lamp",
+        "desk",
+        "hunt"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'This is my calesa (near).' (Question 9) (Complex/Deeper)",
+      "q": "Complete the sentence for a pencil you are holding: '___ is my pencil.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "This",
+        "That",
+        "These",
+        "Those"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'That is a banca in the river (far).' (Question 10) (Complex/Deeper)",
+      "q": "For two books on your lap, what do you say?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "These are my books.",
+        "Those are my books.",
+        "This is my book.",
+        "That is my book."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'These are local fruits (near).' (Question 11) (Complex/Deeper)",
+      "q": "Complete: '___ calesa next to me is painted red.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "This",
+        "That",
+        "Those",
+        "These"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Those are birds in the tree (far).' (Question 12) (Complex/Deeper)",
+      "q": "When pointing to your own two hands, you say:",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "These are my hands.",
+        "Those are my hands.",
+        "This is my hand.",
+        "That is my hand."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'This is my calesa (near).' (Question 13) (Complex/Deeper)",
+      "q": "Complete: '___ is my drawing of a pink flower in my lap.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "This",
+        "That",
+        "Those",
+        "These"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'That is a banca in the river (far).' (Question 14) (Complex/Deeper)",
+      "q": "Complete for a bird flying high in the sky: '___ is a hawk.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "That",
+        "This",
+        "These",
+        "Those"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'These are local fruits (near).' (Question 15) (Complex/Deeper)",
+      "q": "For many stars shining far away, we say:",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Those are stars.",
+        "These are stars.",
+        "That is a star.",
+        "This is a star."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Those are birds in the tree (far).' (Question 16) (Complex/Deeper)",
+      "q": "Complete: '___ are bancas sailing in the distant river.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Those",
+        "These",
+        "This",
+        "That"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Story Elements, what is the correct reading strategy or detail? (Question 17) (Complex/Deeper)",
+      "q": "Pointing to a mountain on the horizon, we say:",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "That is a mountain.",
+        "This is a mountain.",
+        "Those are mountains.",
+        "These are mountains."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Story Elements, what is the correct reading strategy or detail? (Question 18) (Complex/Deeper)",
+      "q": "Complete: '___ is a horse drawing the calesa down the street yonder.'",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "That",
+        "This",
+        "These",
+        "Those"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Story Elements, what is the correct reading strategy or detail? (Question 19) (Complex/Deeper)",
+      "q": "What type of sentence is: 'Matteo smiles at the colorful houses.'",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "Declarative sentence",
+        "Interrogative sentence",
+        "Imperative sentence",
+        "Exclamatory sentence"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Story Elements, what is the correct reading strategy or detail? (Question 20) (Complex/Deeper)",
+      "q": "What is the subject of the sentence: 'The fast horse runs.'",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "The fast horse",
+        "runs",
+        "fast horse",
+        "runs fast"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Story Elements, what is the correct reading strategy or detail? (Question 21) (Complex/Deeper)",
+      "q": "What is the predicate of the sentence: 'Matteo rides a calesa.'",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "rides a calesa",
+        "Matteo",
+        "calesa",
+        "rides"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Story Elements, what is the correct reading strategy or detail? (Question 22) (Complex/Deeper)",
+      "q": "Which of these declarative sentences is punctuated correctly?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "The banca sails on the river.",
+        "the banca sails on the river",
+        "The banca sails on the river?",
+        "the banca sails on the river."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "True or False: A telling (declarative) sentence always starts with a capital letter and ends with a period.",
+      "options": [
+        "True",
+        "False"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Story Elements, what is the correct reading strategy or detail? (Question 23) (Complex/Deeper)",
+      "q": "Who is the main character in the story of the calesa ride?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "Matteo",
+        "Kiko",
+        "A fisherman",
+        "A teacher"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Story Elements, what is the correct reading strategy or detail? (Question 24) (Complex/Deeper)",
+      "q": "What is the setting of the calesa ride story?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "A town street on a sunny day",
+        "A forest at night",
+        "A deep sea",
+        "A modern airport"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What is the main learning goal of Week 1 English? (Question 25) (Complex/Deeper)",
+      "q": "What happens first in the calesa ride story?",
       "options": [
-        "Develop automatic decoding of CVCC Words and application of Demonstrative Pronouns.",
-        "Draw a picture only.",
-        "Memorize all words.",
-        "Write a long novel."
+        "Matteo sits in the calesa.",
+        "The horse runs away.",
+        "Matteo sees the ocean.",
+        "The calesa breaks down."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which of these is a local transport we observed on water?",
+      "options": [
+        "banca",
+        "calesa",
+        "car",
+        "train"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What does the word 'observing' mean in science and reading?",
+      "options": [
+        "Using our senses to collect facts",
+        "Making up a fun story",
+        "Drawing a random picture",
+        "Singing a song"
       ],
       "answer": 0
     }
@@ -6019,74 +5832,75 @@ window.WEEK1_ADVANCED_DATA.english = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge Question 1: Solve the complex sentence puzzle using Demonstrative Pronouns and CVCC Words patterns. (Complex/Deeper)",
+      "q": "Challenge: If you observe a bird flying far away and you write: 'this is a fast bird.' What two errors did you make?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "Used 'this' instead of 'that', and did not capitalize the first letter.",
+        "Used 'that' instead of 'this', and forgot the period.",
+        "Used plural 'these' and forgot the subject.",
+        "No errors were made."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 2: Solve the complex sentence puzzle using Demonstrative Pronouns and CVCC Words patterns. (Complex/Deeper)",
+      "q": "Challenge: Which sentence has a CVCC word as the subject and another CVCC word in the predicate?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "The wind blows the pink lamp.",
+        "The frog jumps on the rock.",
+        "Matteo rides the red calesa.",
+        "A baby tiger sleeps soundly."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 3: Solve the complex sentence puzzle using Demonstrative Pronouns and CVCC Words patterns. (Complex/Deeper)",
+      "q": "Challenge: Read this passage: 'The wind blew the dry sand. A small crab ran to its hole.' What is the setting of this passage?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "A windy beach or riverbank",
+        "A wet green forest",
+        "Inside a quiet school",
+        "A busy city market"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 4: Solve the complex sentence puzzle using Demonstrative Pronouns and CVCC Words patterns. (Complex/Deeper)",
+      "q": "Challenge: Which of these is a declarative sentence that contains a scientific observation about a plant?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "This green leaf has five points.",
+        "I love flowers because they are pretty.",
+        "Please water the dry plant.",
+        "Does the plant need sunlight?"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 5: Solve the complex sentence puzzle using Demonstrative Pronouns and CVCC Words patterns. (Complex/Deeper)",
+      "q": "Challenge: Unscramble the CVCC word in: 'We keep our books on a k-s-e-d.'",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "desk",
+        "shed",
+        "disk",
+        "sand"
       ],
       "answer": 0
     }
   ],
   "performance": {
-    "title": "Performance Task: CVCC Words & Demonstrative Pronouns",
-    "desc": "Write a short paragraph (3-4 sentences) using at least three of this week's phonics words (hand, tent, pink, lamp, bend) and demonstrative/possessive pronouns. Draw a matching picture and present it to your parent.",
+    "type": "performance",
+    "title": "My Nature Observation Journal",
+    "desc": "Observe three different natural objects around your home or garden (like a leaf, sand, or a lamp). Draw them on a piece of paper. For each drawing, write one declarative sentence using a demonstrative pronoun (This, That, These, Those) and at least one CVCC word. Read your sentences aloud to your parents.",
     "labels": [
-      "Correct use of phonics words",
-      "Correct sentence structure and capitalization",
-      "Clear drawing and explanation"
+      "Correct use of CVCC words (e.g. hand, wind, desk, lamp, sand)",
+      "Correct use of Demonstrative Pronouns based on near/far observation",
+      "Proper declarative sentence structure (starts with capital, ends with period)"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 1: CVCC Words Phonics Identification</h3>\n              <p class=\"ws-instruction\">Identify the correct spelling of the words matching the phonics rule.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Fill in the missing letters: <strong>ha__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">hand</span></div>\n              </div>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">2. Fill in the missing letters: <strong>te__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">tent</span></div>\n              </div>\n            </div>",
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 2: Demonstrative Pronouns Grammar Check</h3>\n              <p class=\"ws-instruction\">Choose and write the correct pronoun to complete the sentence.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Sentence: <em>This is my calesa (near).</em></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 100%;\"><span class=\"ws-answer\">This</span></div>\n              </div>\n            </div>",
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 3: Story Elements Story Sequencing</h3>\n              <p class=\"ws-instruction\">Write the correct order of the story elements (1, 2, 3).</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">Describe the setting and the main problem of the character:</div>\n                <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">Identify where and when the story happens, and what the character wants to solve.</span></div>\n              </div>\n            </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: CVCC Phonics Hunt</h3>\n                  <p class=\"ws-instruction\">Write the correct CVCC word that matches each nature clue below using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Blowing air that we feel but cannot see: <strong>wi__</strong></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">wind</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. A tool that gives light when it is dark: <strong>la__</strong></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">lamp</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. A shelter made of canvas used during outdoor camps: <strong>te__</strong></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">tent</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Near and Far Pointing</h3>\n                  <p class=\"ws-instruction\">Fill in the blank with the correct demonstrative pronoun (<strong>This</strong>, <strong>These</strong>, <strong>That</strong>, <strong>Those</strong>).</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. (Near) ___ is my hand observing the wet sand.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">This</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. (Far) ___ are bancas sailing in the distant river.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">Those</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. (Near) ___ are colorful flowers in my garden lap.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">These</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Declarative Sentences & Story Elements</h3>\n                  <p class=\"ws-instruction\">Write the subject or predicate for the story about Matteo's banca ride.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">In 'Matteo sails a wooden banca.', write the Subject (who):</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"><span class=\"ws-answer\">Matteo</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Write the Predicate (what the subject does) in 'The wind blows the sails.':</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"><span class=\"ws-answer\">blows the sails</span></div>\n                  </div>\n                </div>"
     ]
   }
 };

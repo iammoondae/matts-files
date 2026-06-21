@@ -1222,352 +1222,268 @@ window.WEEK3_DATA.english = {
   "subtitle": "Week 3: VCV Words & Imperative Sentences",
   "slides": [
     {
-      "title": "Welcome to English Week 3",
-      "text": "In this week's module, we will explore key language concepts including VCV Words, Imperative Sentences, and Cause and Effect.",
+      "title": "Welcome to the Lab of Discovery!",
+      "text": "Hello, Researcher! This week we are exploring word patterns with long vowel sounds, learning how to give instructions or make requests, and understanding cause and effect in nature.",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand and apply VCV Words and Imperative Sentences in reading and writing."
-        },
-        {
-          "title": "Context",
-          "content": "This module is designed in the context of Grade 3 standards."
+          "title": "Weekly Goal",
+          "content": "Master VCV words, learn imperative commands/requests, understand cause and effect, and decode root words."
         }
       ]
     },
     {
-      "title": "Core Vocabulary Words",
-      "text": "Let's look at the core words for this week's phonics focus (VCV Words): baby, paper, music, silent, tiger.",
+      "title": "Long Vowel Sounds (VCV)",
+      "text": "VCV stands for Vowel-Consonant-Vowel. In these words, a single consonant sits between two vowels, causing the first vowel to say its long name, like b-a-b-y or t-i-g-e-r.",
       "examples": [
         {
-          "title": "Word 1: Baby",
-          "content": "A phonics word matching the VCV Words pattern."
-        },
-        {
-          "title": "Word 2: Paper",
-          "content": "Another example showing correct letter sound blends."
+          "title": "Word Pattern",
+          "content": "V = Vowel (long sound), C = Consonant, V = Vowel."
         }
       ]
     },
     {
-      "title": "Phonics: VCV Words",
-      "text": "VCV stands for Vowel-Consonant-Vowel. These words follow a pattern where a single consonant is between two vowels, causing the first vowel to make its long sound, like 'baby', 'music', or 'paper'.",
+      "title": "Phonics Hunt: The Striped Tiger",
+      "text": "In the forest, we study the striped tiger. In 'tiger', the consonant 'g' sits between 'i' and 'e', making the 'i' sound long. Say it: t-i-g-e-r!",
       "examples": [
         {
-          "title": "Examples",
-          "content": "baby, paper, music, silent, tiger, spider, hotel, tulip, open, basic"
-        },
-        {
-          "title": "Reading Rule",
-          "content": "Blend the letter sounds together smoothly when pronouncing the words."
+          "title": "Spelling",
+          "content": "t - i - g - e - r"
         }
       ]
     },
     {
-      "title": "Grammar: Imperative Sentences",
-      "text": "Imperative sentences give a command, order, or make a request. They start with a capital letter and end with a period. Request sentences often use polite words like 'please'.",
+      "title": "Phonics Hunt: The Busy Spider",
+      "text": "On the garden wall, a busy spider spins a web. In 'spider', the consonant 'd' sits between 'i' and 'e'. Spiders help control insect pests!",
       "examples": [
         {
-          "title": "Example Sentence",
-          "content": "Please write your name."
-        },
-        {
-          "title": "Tip",
-          "content": "Notice how the pronoun helps show position or ownership."
+          "title": "Spelling",
+          "content": "s - p - i - d - e - r"
         }
       ]
     },
     {
-      "title": "Sentence Structure: Punctuation & Capitalization in Imperatives",
-      "text": "Imperative sentences start with a capital letter and end with a period. If they express strong commands, they can sometimes end with an exclamation mark. Using correct punctuation helps readers understand.",
+      "title": "Phonics Hunt: Beautiful Flowers",
+      "text": "We observe a colorful tulip opening in the sun. In 'tulip', the consonant 'l' is between 'u' and 'i'. A tulip is a beautiful plant organ.",
       "examples": [
         {
-          "title": "Example",
-          "content": "Listen quietly to the story."
-        },
-        {
-          "title": "Rule",
-          "content": "Always verify that your sentence begins with a capital letter and ends with the correct mark."
+          "title": "Spelling",
+          "content": "t - u - l - i - p"
         }
       ]
     },
     {
-      "title": "Comprehension: Cause and Effect",
-      "text": "Cause and effect tells us why something happened (cause) and what happened as a result (effect). Identifying these helps us understand relationships in stories.",
+      "title": "Phonics Hunt: Making Music",
+      "text": "We listen to soft music in the quiet room. In 'music', the 's' is between 'u' and 'i'. Sound vibrations travel through the air!",
       "examples": [
         {
-          "title": "Focus Area",
-          "content": "Analyze text elements under Cause and Effect"
-        },
-        {
-          "title": "Strategy",
-          "content": "Look for key clues, character actions, and connector words in the story."
+          "title": "Spelling",
+          "content": "m - u - s - i - c"
         }
       ]
     },
     {
-      "title": "Vocabulary & Theme: Roots of High-Frequency Words",
-      "text": "Many words have root words. Identifying the root word helps us decode and understand the meaning of longer words (e.g., 'playing' comes from root 'play').",
+      "title": "Phonics Hunt: Lab Notebooks",
+      "text": "We write observations on white paper. In 'paper', 'p' is between 'a' and 'e'. Always keep your paper neat!",
       "examples": [
         {
-          "title": "Focus",
-          "content": "Applying high-frequency words in Roots of High-Frequency Words themes."
-        },
-        {
-          "title": "Application",
-          "content": "Write short paragraphs using these words to express ideas about your local environment."
+          "title": "Spelling",
+          "content": "p - a - p - e - r"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 1",
-      "text": "Let's review Case 1 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences).",
+      "title": "Phonics Hunt: Silent and Open",
+      "text": "We remain silent to observe birds. We keep the window open for fresh air. 'Silent' and 'open' are VCV words!",
       "examples": [
         {
-          "title": "Practice Example 1",
-          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
-        },
-        {
-          "title": "Analysis 1",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Spelling",
+          "content": "s - i - l - e - n - t  and  o - p - e - n"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 2",
-      "text": "Let's review Case 2 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences).",
+      "title": "Phonics Hunt: Basic Tools",
+      "text": "We learn basic skills for experiments. We stay at a hotel during the science camp. 'Basic' and 'hotel' are VCV words!",
       "examples": [
         {
-          "title": "Practice Example 2",
-          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
-        },
-        {
-          "title": "Analysis 2",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Spelling",
+          "content": "b - a - s - i - c  and  h - o - t - e - l"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 3",
-      "text": "Let's review Case 3 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences).",
+      "title": "Phonics Hunt: The Growing Baby",
+      "text": "A baby chick hatches from an egg. In 'baby', 'b' is between 'a' and 'y'. A baby chick grows into a hen!",
       "examples": [
         {
-          "title": "Practice Example 3",
-          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
-        },
-        {
-          "title": "Analysis 3",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Spelling",
+          "content": "b - a - b - y"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 4",
-      "text": "Let's review Case 4 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences).",
+      "title": "Grammar: Giving Directions (Imperatives)",
+      "text": "Imperative sentences give a command, a direct instruction, or make a polite request. They help us guide actions in the lab or classroom.",
       "examples": [
         {
-          "title": "Practice Example 4",
-          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
-        },
-        {
-          "title": "Analysis 4",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Key Concept",
+          "content": "Imperative = Command or Request"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 5",
-      "text": "Let's review Case 5 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences).",
+      "title": "Polite Requests vs Commands",
+      "text": "To make a request polite, we add the word 'please'. E.g., 'Please write your name.' A command is direct: 'Listen to the instructions.'",
       "examples": [
         {
-          "title": "Practice Example 5",
-          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
+          "title": "Request",
+          "content": "Please stand up."
         },
         {
-          "title": "Analysis 5",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Command",
+          "content": "Stand up."
         }
       ]
     },
     {
-      "title": "Detailed Case Study 6",
-      "text": "Let's review Case 6 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences).",
+      "title": "Punctuation in Imperatives",
+      "text": "Imperative sentences start with a capital letter and end with a period. If they show a strong command or emergency, they can end with an exclamation mark!",
       "examples": [
         {
-          "title": "Practice Example 6",
-          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
-        },
-        {
-          "title": "Analysis 6",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Punctuation",
+          "content": "Period (.) or Exclamation mark (!)"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 7",
-      "text": "Let's review Case 7 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences).",
+      "title": "Story Time: The Seed Experiment",
+      "text": "Let's read: 'Matteo places a seed in dry soil. He does not water it. The seed does not grow. Then, Matteo waters the seed and puts it in the sun. Soon, a green shoot appears!'",
       "examples": [
         {
-          "title": "Practice Example 7",
-          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
-        },
-        {
-          "title": "Analysis 7",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Reading Task",
+          "content": "Observe the cause and effect relationships in this experiment!"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 8",
-      "text": "Let's review Case 8 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences).",
+      "title": "Cause and Effect: What is It?",
+      "text": "Cause is *why* something happens. Effect is *what* happens. Identifying cause and effect helps scientists understand how things work!",
       "examples": [
         {
-          "title": "Practice Example 8",
-          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
-        },
-        {
-          "title": "Analysis 8",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Trigger & Result",
+          "content": "Cause = Trigger, Effect = Result"
         }
       ]
     },
     {
-      "title": "Comprehension Case 1",
-      "text": "Analyzing story events and character traits (Comprehension Case 1).",
+      "title": "Cause and Effect: Dry Soil",
+      "text": "In our story, why did the seed not grow at first? The cause was *no water*. The effect was *no growth*. Plants need water to survive!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
+          "title": "Cause",
+          "content": "no water"
         },
         {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Effect",
+          "content": "no growth"
         }
       ]
     },
     {
-      "title": "Comprehension Case 2",
-      "text": "Analyzing story events and character traits (Comprehension Case 2).",
+      "title": "Cause and Effect: Sunlight and Water",
+      "text": "What happened when Matteo watered the seed? The cause was *watering and sunlight*. The effect was *a green shoot appeared*!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
+          "title": "Cause",
+          "content": "watering & sunlight"
         },
         {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Effect",
+          "content": "green shoot appeared"
         }
       ]
     },
     {
-      "title": "Comprehension Case 3",
-      "text": "Analyzing story events and character traits (Comprehension Case 3).",
+      "title": "Vocabulary: Finding Root Words",
+      "text": "A root word is the base word before we add extra letters. E.g., 'playing' comes from 'play'. Knowing the root word helps us find the meaning!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Base Word",
+          "content": "playing -> root: play"
         }
       ]
     },
     {
-      "title": "Comprehension Case 4",
-      "text": "Analyzing story events and character traits (Comprehension Case 4).",
+      "title": "Root Words in Action",
+      "text": "Look at 'grower' (root is 'grow'), 'silent' (root is 'silence'), 'opening' (root is 'open'). Can you spot the root of 'spiders'? It is 'spider'!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Suffixes",
+          "content": "Words often end in suffixes like -ing, -er, -ly, -s."
         }
       ]
     },
     {
-      "title": "Comprehension Case 5",
-      "text": "Analyzing story events and character traits (Comprehension Case 5).",
+      "title": "Science Connection: Insect Observations",
+      "text": "When we study spiders, we observe their webs. Spiders are not insects; they have eight legs! Always watch them safely.",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Observation",
+          "content": "A spider building a circular web."
         }
       ]
     },
     {
-      "title": "Concept Review 1",
-      "text": "Let's review the main rules of Week 3 English. Pay close attention to vocabulary use and spelling patterns.",
+      "title": "Guided Practice: Spotting VCV",
+      "text": "Can you find the VCV word in: 'The striped tiger walks slowly'? Yes, it is 'tiger'!",
       "examples": [
         {
-          "title": "Review Tip",
-          "content": "Read the words aloud to check their phonics sounds."
-        },
-        {
-          "title": "Sentence Check",
-          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
+          "title": "Check",
+          "content": "t - i - g - e - r has one consonant 'g' between vowels 'i' and 'e'."
         }
       ]
     },
     {
-      "title": "Practice Task 2",
-      "text": "Try applying the rules of Week 3 English in a new sentence. Practice writing it down on paper.",
+      "title": "Guided Practice: Command or Request?",
+      "text": "Is 'Please pass the paper' a command or a request? It has 'please', so it is a polite request!",
       "examples": [
         {
-          "title": "Task",
-          "content": "Write a short sentence using one of the weekly vocabulary words."
-        },
-        {
-          "title": "Self-Check",
-          "content": "Identify the subject and predicate of your sentence."
+          "title": "Check",
+          "content": "Polite request because of 'Please'."
         }
       ]
     },
     {
-      "title": "Concept Review 3",
-      "text": "Let's review the main rules of Week 3 English. Pay close attention to vocabulary use and spelling patterns.",
+      "title": "Guided Practice: Punctuation",
+      "text": "Which imperative sentence is punctuated correctly? 'A. stand in line' or 'B. Stand in line.' Yes, B is correct because it starts with a capital and ends with a period!",
       "examples": [
         {
-          "title": "Review Tip",
-          "content": "Read the words aloud to check their phonics sounds."
-        },
-        {
-          "title": "Sentence Check",
-          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
+          "title": "Corrected",
+          "content": "'Stand in line.'"
         }
       ]
     },
     {
-      "title": "Practice Task 4",
-      "text": "Try applying the rules of Week 3 English in a new sentence. Practice writing it down on paper.",
+      "title": "Common Error: Forgetting the Cause",
+      "text": "Do not confuse the cause with the effect. Remember: Cause is the trigger (watering), and Effect is the result (growth).",
       "examples": [
         {
-          "title": "Task",
-          "content": "Write a short sentence using one of the weekly vocabulary words."
+          "title": "Incorrect order",
+          "content": "Saying: 'Growth caused watering' (Incorrect)."
         },
         {
-          "title": "Self-Check",
-          "content": "Identify the subject and predicate of your sentence."
+          "title": "Correct order",
+          "content": "'Watering caused growth' (Correct)."
         }
       ]
     },
     {
-      "title": "Summary & Reflection",
-      "text": "You have completed all slides for this lesson on Week 3 English. Take a moment to review the key concepts, spelling, and sentence structures we covered.",
+      "title": "Summary of Week 3",
+      "text": "Incredible progress, Scientist! You mastered VCV long vowels, imperative sentences, cause and effect, and root words. Let's take the weekly quiz!",
       "examples": [
         {
-          "title": "Key Takeaway",
-          "content": "Mastering Week 3 English builds a strong foundation for reading and writing."
-        },
-        {
-          "title": "Next Step",
-          "content": "You are now ready to try the weekly quiz and challenge questions."
+          "title": "Vocabulary",
+          "content": "baby, tiger, spider, hotel, tulip, open, silent, basic, paper, music"
         }
       ]
     }
@@ -1575,276 +1491,272 @@ window.WEEK3_DATA.english = {
   "standard": [
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 1)",
-      "options": [
-        "baby",
-        "frog",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 2)",
-      "options": [
-        "paper",
-        "baby",
-        "hand",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 3)",
-      "options": [
-        "music",
-        "baby",
-        "paper",
-        "tent"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 4)",
-      "options": [
-        "silent",
-        "baby",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 5)",
+      "q": "Which word has a VCV spelling pattern and a long vowel sound?",
       "options": [
         "tiger",
-        "baby",
-        "paper",
-        "music"
+        "tent",
+        "frog",
+        "sand"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 6)",
-      "options": [
-        "spider",
-        "baby",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 7)",
-      "options": [
-        "hotel",
-        "baby",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 8)",
+      "q": "Identify the VCV word in this sentence: 'The tulip is opening.'",
       "options": [
         "tulip",
+        "is",
+        "The",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Complete the VCV word: 'Keep your science notebook on white pa___.'",
+      "options": [
+        "per",
+        "nt",
+        "mp",
+        "ck"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which of these words has the VCV pattern?",
+      "options": [
+        "silent",
+        "plug",
+        "hand",
+        "drum"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which VCV word represents a large cat with stripes?",
+      "options": [
+        "tiger",
+        "spider",
         "baby",
-        "paper",
-        "music"
+        "tulip"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Please write your name.' (Question 9)",
+      "q": "Which of these is an imperative sentence giving a command?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Stand in line.",
+        "What is that?",
+        "The line is long.",
+        "What a beautiful line!"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Listen quietly to the story.' (Question 10)",
+      "q": "How do you make the command 'Pass the paper' a polite request?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Add 'Please' at the beginning.",
+        "Put a question mark at the end.",
+        "Use capital letters for all words.",
+        "Change the action word."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Sit down in your chair.' (Question 11)",
+      "q": "Identify the imperative sentence:",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Clean your science tools.",
+        "Are the tools clean?",
+        "These are science tools.",
+        "Wow, clean tools!"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Help your friend wash the cup.' (Question 12)",
+      "q": "Which sentence is a polite request?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Please open the window.",
+        "Open the window.",
+        "Is the window open?",
+        "The window is open."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Please write your name.' (Question 13)",
+      "q": "Complete the command: '___ closely to the bird calls.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Listen",
+        "Listening",
+        "Listened",
+        "Listens"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Listen quietly to the story.' (Question 14)",
+      "q": "Which of these imperative sentences is punctuated correctly?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Write your name on the paper.",
+        "write your name on the paper",
+        "Write your name on the paper?",
+        "write your name on the paper."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "True or False: If a command is very urgent or shows an emergency, it can end with an exclamation mark (!).",
+      "options": [
+        "True",
+        "False"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Sit down in your chair.' (Question 15)",
+      "q": "Identify the correctly punctuated request:",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Please stay quiet.",
+        "please stay quiet?",
+        "Please stay quiet?",
+        "please stay quiet."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Help your friend wash the cup.' (Question 16)",
+      "q": "Which punctuation is missing in: 'Put the spider in the jar'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "A period (.)",
+        "A question mark (?)",
+        "A comma (,)",
+        "An apostrophe (')"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Imperative sentences always start with a capital letter.",
+      "options": [
+        "True",
+        "False"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 17)",
+      "q": "Read: 'The sun was very hot, so the small puddle of water evaporated.' What is the cause?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "The sun was very hot",
+        "The puddle evaporated",
+        "The water was dirty",
+        "The wind blew hard"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 18)",
+      "q": "Read: 'Matteo forgot to water the plant, so its leaves turned yellow.' What is the effect?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "The leaves turned yellow",
+        "Matteo forgot to water it",
+        "The plant was inside",
+        "The sun was bright"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 19)",
+      "q": "In cause and effect, which word represents the trigger or reason?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "Cause",
+        "Effect",
+        "Result",
+        "Punctuation"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 20)",
+      "q": "Read: 'The spider spun a sticky web, catching a tiny fly.' What caused the fly to be caught?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "The sticky web",
+        "The wind blowing",
+        "The spider sleeping",
+        "The fly singing"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 21)",
+      "q": "Read: 'A heavy rain fell, causing the river to rise.' What is the effect?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "The river rose",
+        "The heavy rain fell",
+        "The sun came out",
+        "The fish swam away"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 22)",
+      "q": "What is the root word of 'playing'?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "play",
+        "ing",
+        "lay",
+        "pla"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 23)",
+      "q": "Identify the root word in 'grower':",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "grow",
+        "er",
+        "row",
+        "gro"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 24)",
+      "q": "What is the root word of the word 'silently'?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "silent",
+        "silence",
+        "ly",
+        "ent"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What is the main learning goal of Week 3 English? (Question 25)",
+      "q": "Identify the root word of 'spiders':",
       "options": [
-        "Develop automatic decoding of VCV Words and application of Imperative Sentences.",
-        "Draw a picture only.",
-        "Memorize all words.",
-        "Write a long novel."
+        "spider",
+        "s",
+        "spin",
+        "ride"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What is the root word of 'walked'?",
+      "options": [
+        "walk",
+        "ed",
+        "alk",
+        "wal"
       ],
       "answer": 0
     }
@@ -1852,74 +1764,75 @@ window.WEEK3_DATA.english = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge Question 1: Solve the complex sentence puzzle using Imperative Sentences and VCV Words patterns.",
+      "q": "Challenge: Which sentence shows an imperative request containing a VCV word?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "Please pass the clean paper.",
+        "Stand next to the big tiger.",
+        "Why is the spider crawling?",
+        "The tulip grows in the garden."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 2: Solve the complex sentence puzzle using Imperative Sentences and VCV Words patterns.",
+      "q": "Challenge: Read: 'The sky darkened and lightning flashed. Suddenly, the streetlights turned on.' What caused the streetlights to turn on?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "The sky darkening",
+        "The streetlights breaking",
+        "People turning them on manually",
+        "The wind blowing"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 3: Solve the complex sentence puzzle using Imperative Sentences and VCV Words patterns.",
+      "q": "Challenge: Find the root word of 'unhappiness':",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "happy",
+        "ness",
+        "unhappy",
+        "un"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 4: Solve the complex sentence puzzle using Imperative Sentences and VCV Words patterns.",
+      "q": "Challenge: Which VCV word represents a place where travelers stay during a science field trip?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "hotel",
+        "tulip",
+        "baby",
+        "tiger"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 5: Solve the complex sentence puzzle using Imperative Sentences and VCV Words patterns.",
+      "q": "Challenge: What is the cause in: 'A cat sneezed because the dust tickled its nose'?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "The dust tickling its nose",
+        "The cat sneezing",
+        "The cat running away",
+        "The dust settling"
       ],
       "answer": 0
     }
   ],
   "performance": {
-    "title": "Performance Task: VCV Words & Imperative Sentences",
-    "desc": "Write a short paragraph (3-4 sentences) using at least three of this week's phonics words (baby, paper, music, silent, tiger) and demonstrative/possessive pronouns. Draw a matching picture and present it to your parent.",
+    "type": "performance",
+    "title": "Seed Experiment Lab Instructions",
+    "desc": "Imagine you are directing a science experiment on seed growth. Write a list of three step-by-step instructions. Two steps must be direct commands (e.g. 'Put loam soil in the pot.') and one must be a polite request using 'please'. Make sure all sentences are correctly capitalized and punctuated. Underline the VCV words you used (like paper, open, basic).",
     "labels": [
-      "Correct use of phonics words",
-      "Correct sentence structure and capitalization",
-      "Clear drawing and explanation"
+      "Correct listing of laboratory steps in order",
+      "Correct use of capital letters and ending periods in all steps",
+      "Correct inclusion of one polite request and underlined VCV words"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 1: VCV Words Phonics Identification</h3>\n              <p class=\"ws-instruction\">Identify the correct spelling of the words matching the phonics rule.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Fill in the missing letters: <strong>ba__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">baby</span></div>\n              </div>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">2. Fill in the missing letters: <strong>pa__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">paper</span></div>\n              </div>\n            </div>",
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 2: Imperative Sentences Grammar Check</h3>\n              <p class=\"ws-instruction\">Choose and write the correct pronoun to complete the sentence.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Sentence: <em>Please write your name.</em></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 100%;\"><span class=\"ws-answer\">Please</span></div>\n              </div>\n            </div>",
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 3: Cause and Effect Story Sequencing</h3>\n              <p class=\"ws-instruction\">Write the correct order of the story elements (1, 2, 3).</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">Describe the setting and the main problem of the character:</div>\n                <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">Identify where and when the story happens, and what the character wants to solve.</span></div>\n              </div>\n            </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: VCV Long Vowels</h3>\n                  <p class=\"ws-instruction\">Write the correct VCV word matching the description using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Material we write or print observations on: <strong>pa__</strong></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">paper</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. A eight-legged arachnid that spins web: <strong>sp__</strong></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">spider</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Not making any sound; quiet: <strong>si__</strong></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">silent</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Instructions in the Lab</h3>\n                  <p class=\"ws-instruction\">Identify whether each sentence is a <strong>Command</strong> or a <strong>Polite Request</strong>.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Please open the lab window.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Polite Request</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Pour 50 milliliters of water into the soil.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Command</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Please write the root word of 'grower'.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Polite Request</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Cause and Effect Connections</h3>\n                  <p class=\"ws-instruction\">Draw a line using your stylus to match the Cause with its correct Effect.</p>\n                  <div class=\"ws-split\" style=\"margin-top: 20px;\">\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.2;\">\n                      <div><strong>Causes:</strong></div>\n                      <div>1. The sun shines on wet clothes.</div>\n                      <div>2. Matteo puts the seed in dry soil.</div>\n                      <div>3. A spider spins a sticky web.</div>\n                    </div>\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.2; text-align: right; padding-right: 40px;\">\n                      <div><strong>Effects:</strong></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">B</span> &nbsp; ] &nbsp; A. Flies are caught.</div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">C</span> &nbsp; ] &nbsp; B. The clothes dry.</div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">A</span> &nbsp; ] &nbsp; C. The seed does not grow.</div>\n                    </div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -5389,352 +5302,268 @@ window.WEEK3_ADVANCED_DATA.english = {
   "subtitle": "Week 3: VCV Words & Imperative Sentences",
   "slides": [
     {
-      "title": "Welcome to English Week 3",
-      "text": "In this week's module, we will explore key language concepts including VCV Words, Imperative Sentences, and Cause and Effect.",
+      "title": "Welcome to the Lab of Discovery!",
+      "text": "Hello, Researcher! This week we are exploring word patterns with long vowel sounds, learning how to give instructions or make requests, and understanding cause and effect in nature.",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand and apply VCV Words and Imperative Sentences in reading and writing."
-        },
-        {
-          "title": "Context",
-          "content": "This module is designed in the context of Grade 4-5 standards."
+          "title": "Weekly Goal",
+          "content": "Master VCV words, learn imperative commands/requests, understand cause and effect, and decode root words."
         }
       ]
     },
     {
-      "title": "Core Vocabulary Words",
-      "text": "Let's look at the core words for this week's phonics focus (VCV Words): baby, paper, music, silent, tiger.",
+      "title": "Long Vowel Sounds (VCV)",
+      "text": "VCV stands for Vowel-Consonant-Vowel. In these words, a single consonant sits between two vowels, causing the first vowel to say its long name, like b-a-b-y or t-i-g-e-r.",
       "examples": [
         {
-          "title": "Word 1: Baby",
-          "content": "A phonics word matching the VCV Words pattern."
-        },
-        {
-          "title": "Word 2: Paper",
-          "content": "Another example showing correct letter sound blends."
+          "title": "Word Pattern",
+          "content": "V = Vowel (long sound), C = Consonant, V = Vowel."
         }
       ]
     },
     {
-      "title": "Phonics: VCV Words",
-      "text": "VCV stands for Vowel-Consonant-Vowel. These words follow a pattern where a single consonant is between two vowels, causing the first vowel to make its long sound, like 'baby', 'music', or 'paper'.",
+      "title": "Phonics Hunt: The Striped Tiger",
+      "text": "In the forest, we study the striped tiger. In 'tiger', the consonant 'g' sits between 'i' and 'e', making the 'i' sound long. Say it: t-i-g-e-r!",
       "examples": [
         {
-          "title": "Examples",
-          "content": "baby, paper, music, silent, tiger, spider, hotel, tulip, open, basic"
-        },
-        {
-          "title": "Reading Rule",
-          "content": "Blend the letter sounds together smoothly when pronouncing the words."
+          "title": "Spelling",
+          "content": "t - i - g - e - r"
         }
       ]
     },
     {
-      "title": "Grammar: Imperative Sentences",
-      "text": "Imperative sentences give a command, order, or make a request. They start with a capital letter and end with a period. Request sentences often use polite words like 'please'.",
+      "title": "Phonics Hunt: The Busy Spider",
+      "text": "On the garden wall, a busy spider spins a web. In 'spider', the consonant 'd' sits between 'i' and 'e'. Spiders help control insect pests!",
       "examples": [
         {
-          "title": "Example Sentence",
-          "content": "Please write your name."
-        },
-        {
-          "title": "Tip",
-          "content": "Notice how the pronoun helps show position or ownership."
+          "title": "Spelling",
+          "content": "s - p - i - d - e - r"
         }
       ]
     },
     {
-      "title": "Sentence Structure: Punctuation & Capitalization in Imperatives",
-      "text": "Imperative sentences start with a capital letter and end with a period. If they express strong commands, they can sometimes end with an exclamation mark. Using correct punctuation helps readers understand.",
+      "title": "Phonics Hunt: Beautiful Flowers",
+      "text": "We observe a colorful tulip opening in the sun. In 'tulip', the consonant 'l' is between 'u' and 'i'. A tulip is a beautiful plant organ.",
       "examples": [
         {
-          "title": "Example",
-          "content": "Listen quietly to the story."
-        },
-        {
-          "title": "Rule",
-          "content": "Always verify that your sentence begins with a capital letter and ends with the correct mark."
+          "title": "Spelling",
+          "content": "t - u - l - i - p"
         }
       ]
     },
     {
-      "title": "Comprehension: Cause and Effect",
-      "text": "Cause and effect tells us why something happened (cause) and what happened as a result (effect). Identifying these helps us understand relationships in stories.",
+      "title": "Phonics Hunt: Making Music",
+      "text": "We listen to soft music in the quiet room. In 'music', the 's' is between 'u' and 'i'. Sound vibrations travel through the air!",
       "examples": [
         {
-          "title": "Focus Area",
-          "content": "Analyze text elements under Cause and Effect"
-        },
-        {
-          "title": "Strategy",
-          "content": "Look for key clues, character actions, and connector words in the story."
+          "title": "Spelling",
+          "content": "m - u - s - i - c"
         }
       ]
     },
     {
-      "title": "Vocabulary & Theme: Roots of High-Frequency Words",
-      "text": "Many words have root words. Identifying the root word helps us decode and understand the meaning of longer words (e.g., 'playing' comes from root 'play').",
+      "title": "Phonics Hunt: Lab Notebooks",
+      "text": "We write observations on white paper. In 'paper', 'p' is between 'a' and 'e'. Always keep your paper neat!",
       "examples": [
         {
-          "title": "Focus",
-          "content": "Applying high-frequency words in Roots of High-Frequency Words themes."
-        },
-        {
-          "title": "Application",
-          "content": "Write short paragraphs using these words to express ideas about your local environment."
+          "title": "Spelling",
+          "content": "p - a - p - e - r"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 1",
-      "text": "Let's review Case 1 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences). (Complex/Deeper)",
+      "title": "Phonics Hunt: Silent and Open",
+      "text": "We remain silent to observe birds. We keep the window open for fresh air. 'Silent' and 'open' are VCV words!",
       "examples": [
         {
-          "title": "Practice Example 1",
-          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
-        },
-        {
-          "title": "Analysis 1",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Spelling",
+          "content": "s - i - l - e - n - t  and  o - p - e - n"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 2",
-      "text": "Let's review Case 2 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences). (Complex/Deeper)",
+      "title": "Phonics Hunt: Basic Tools",
+      "text": "We learn basic skills for experiments. We stay at a hotel during the science camp. 'Basic' and 'hotel' are VCV words!",
       "examples": [
         {
-          "title": "Practice Example 2",
-          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
-        },
-        {
-          "title": "Analysis 2",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Spelling",
+          "content": "b - a - s - i - c  and  h - o - t - e - l"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 3",
-      "text": "Let's review Case 3 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences). (Complex/Deeper)",
+      "title": "Phonics Hunt: The Growing Baby",
+      "text": "A baby chick hatches from an egg. In 'baby', 'b' is between 'a' and 'y'. A baby chick grows into a hen!",
       "examples": [
         {
-          "title": "Practice Example 3",
-          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
-        },
-        {
-          "title": "Analysis 3",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Spelling",
+          "content": "b - a - b - y"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 4",
-      "text": "Let's review Case 4 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences). (Complex/Deeper)",
+      "title": "Grammar: Giving Directions (Imperatives)",
+      "text": "Imperative sentences give a command, a direct instruction, or make a polite request. They help us guide actions in the lab or classroom.",
       "examples": [
         {
-          "title": "Practice Example 4",
-          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
-        },
-        {
-          "title": "Analysis 4",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Key Concept",
+          "content": "Imperative = Command or Request"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 5",
-      "text": "Let's review Case 5 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences). (Complex/Deeper)",
+      "title": "Polite Requests vs Commands",
+      "text": "To make a request polite, we add the word 'please'. E.g., 'Please write your name.' A command is direct: 'Listen to the instructions.'",
       "examples": [
         {
-          "title": "Practice Example 5",
-          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
+          "title": "Request",
+          "content": "Please stand up."
         },
         {
-          "title": "Analysis 5",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Command",
+          "content": "Stand up."
         }
       ]
     },
     {
-      "title": "Detailed Case Study 6",
-      "text": "Let's review Case 6 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences). (Complex/Deeper)",
+      "title": "Punctuation in Imperatives",
+      "text": "Imperative sentences start with a capital letter and end with a period. If they show a strong command or emergency, they can end with an exclamation mark!",
       "examples": [
         {
-          "title": "Practice Example 6",
-          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
-        },
-        {
-          "title": "Analysis 6",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Punctuation",
+          "content": "Period (.) or Exclamation mark (!)"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 7",
-      "text": "Let's review Case 7 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences). (Complex/Deeper)",
+      "title": "Story Time: The Seed Experiment",
+      "text": "Let's read: 'Matteo places a seed in dry soil. He does not water it. The seed does not grow. Then, Matteo waters the seed and puts it in the sun. Soon, a green shoot appears!'",
       "examples": [
         {
-          "title": "Practice Example 7",
-          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
-        },
-        {
-          "title": "Analysis 7",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Reading Task",
+          "content": "Observe the cause and effect relationships in this experiment!"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 8",
-      "text": "Let's review Case 8 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences). (Complex/Deeper)",
+      "title": "Cause and Effect: What is It?",
+      "text": "Cause is *why* something happens. Effect is *what* happens. Identifying cause and effect helps scientists understand how things work!",
       "examples": [
         {
-          "title": "Practice Example 8",
-          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
-        },
-        {
-          "title": "Analysis 8",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Trigger & Result",
+          "content": "Cause = Trigger, Effect = Result"
         }
       ]
     },
     {
-      "title": "Comprehension Case 1",
-      "text": "Analyzing story events and character traits (Comprehension Case 1). (Complex/Deeper)",
+      "title": "Cause and Effect: Dry Soil",
+      "text": "In our story, why did the seed not grow at first? The cause was *no water*. The effect was *no growth*. Plants need water to survive!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
+          "title": "Cause",
+          "content": "no water"
         },
         {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Effect",
+          "content": "no growth"
         }
       ]
     },
     {
-      "title": "Comprehension Case 2",
-      "text": "Analyzing story events and character traits (Comprehension Case 2). (Complex/Deeper)",
+      "title": "Cause and Effect: Sunlight and Water",
+      "text": "What happened when Matteo watered the seed? The cause was *watering and sunlight*. The effect was *a green shoot appeared*!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
+          "title": "Cause",
+          "content": "watering & sunlight"
         },
         {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Effect",
+          "content": "green shoot appeared"
         }
       ]
     },
     {
-      "title": "Comprehension Case 3",
-      "text": "Analyzing story events and character traits (Comprehension Case 3). (Complex/Deeper)",
+      "title": "Vocabulary: Finding Root Words",
+      "text": "A root word is the base word before we add extra letters. E.g., 'playing' comes from 'play'. Knowing the root word helps us find the meaning!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Base Word",
+          "content": "playing -> root: play"
         }
       ]
     },
     {
-      "title": "Comprehension Case 4",
-      "text": "Analyzing story events and character traits (Comprehension Case 4). (Complex/Deeper)",
+      "title": "Root Words in Action",
+      "text": "Look at 'grower' (root is 'grow'), 'silent' (root is 'silence'), 'opening' (root is 'open'). Can you spot the root of 'spiders'? It is 'spider'!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Suffixes",
+          "content": "Words often end in suffixes like -ing, -er, -ly, -s."
         }
       ]
     },
     {
-      "title": "Comprehension Case 5",
-      "text": "Analyzing story events and character traits (Comprehension Case 5). (Complex/Deeper)",
+      "title": "Science Connection: Insect Observations",
+      "text": "When we study spiders, we observe their webs. Spiders are not insects; they have eight legs! Always watch them safely.",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Observation",
+          "content": "A spider building a circular web."
         }
       ]
     },
     {
-      "title": "Concept Review 1",
-      "text": "Let's review the main rules of Week 3 English. Pay close attention to vocabulary use and spelling patterns.",
+      "title": "Guided Practice: Spotting VCV",
+      "text": "Can you find the VCV word in: 'The striped tiger walks slowly'? Yes, it is 'tiger'!",
       "examples": [
         {
-          "title": "Review Tip",
-          "content": "Read the words aloud to check their phonics sounds."
-        },
-        {
-          "title": "Sentence Check",
-          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
+          "title": "Check",
+          "content": "t - i - g - e - r has one consonant 'g' between vowels 'i' and 'e'."
         }
       ]
     },
     {
-      "title": "Practice Task 2",
-      "text": "Try applying the rules of Week 3 English in a new sentence. Practice writing it down on paper.",
+      "title": "Guided Practice: Command or Request?",
+      "text": "Is 'Please pass the paper' a command or a request? It has 'please', so it is a polite request!",
       "examples": [
         {
-          "title": "Task",
-          "content": "Write a short sentence using one of the weekly vocabulary words."
-        },
-        {
-          "title": "Self-Check",
-          "content": "Identify the subject and predicate of your sentence."
+          "title": "Check",
+          "content": "Polite request because of 'Please'."
         }
       ]
     },
     {
-      "title": "Concept Review 3",
-      "text": "Let's review the main rules of Week 3 English. Pay close attention to vocabulary use and spelling patterns.",
+      "title": "Guided Practice: Punctuation",
+      "text": "Which imperative sentence is punctuated correctly? 'A. stand in line' or 'B. Stand in line.' Yes, B is correct because it starts with a capital and ends with a period!",
       "examples": [
         {
-          "title": "Review Tip",
-          "content": "Read the words aloud to check their phonics sounds."
-        },
-        {
-          "title": "Sentence Check",
-          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
+          "title": "Corrected",
+          "content": "'Stand in line.'"
         }
       ]
     },
     {
-      "title": "Practice Task 4",
-      "text": "Try applying the rules of Week 3 English in a new sentence. Practice writing it down on paper.",
+      "title": "Common Error: Forgetting the Cause",
+      "text": "Do not confuse the cause with the effect. Remember: Cause is the trigger (watering), and Effect is the result (growth).",
       "examples": [
         {
-          "title": "Task",
-          "content": "Write a short sentence using one of the weekly vocabulary words."
+          "title": "Incorrect order",
+          "content": "Saying: 'Growth caused watering' (Incorrect)."
         },
         {
-          "title": "Self-Check",
-          "content": "Identify the subject and predicate of your sentence."
+          "title": "Correct order",
+          "content": "'Watering caused growth' (Correct)."
         }
       ]
     },
     {
-      "title": "Summary & Reflection",
-      "text": "You have completed all slides for this lesson on Week 3 English. Take a moment to review the key concepts, spelling, and sentence structures we covered.",
+      "title": "Summary of Week 3",
+      "text": "Incredible progress, Scientist! You mastered VCV long vowels, imperative sentences, cause and effect, and root words. Let's take the weekly quiz!",
       "examples": [
         {
-          "title": "Key Takeaway",
-          "content": "Mastering Week 3 English builds a strong foundation for reading and writing."
-        },
-        {
-          "title": "Next Step",
-          "content": "You are now ready to try the weekly quiz and challenge questions."
+          "title": "Vocabulary",
+          "content": "baby, tiger, spider, hotel, tulip, open, silent, basic, paper, music"
         }
       ]
     }
@@ -5742,276 +5571,272 @@ window.WEEK3_ADVANCED_DATA.english = {
   "standard": [
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 1) (Complex/Deeper)",
-      "options": [
-        "baby",
-        "frog",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 2) (Complex/Deeper)",
-      "options": [
-        "paper",
-        "baby",
-        "hand",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 3) (Complex/Deeper)",
-      "options": [
-        "music",
-        "baby",
-        "paper",
-        "tent"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 4) (Complex/Deeper)",
-      "options": [
-        "silent",
-        "baby",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 5) (Complex/Deeper)",
+      "q": "Which word has a VCV spelling pattern and a long vowel sound?",
       "options": [
         "tiger",
-        "baby",
-        "paper",
-        "music"
+        "tent",
+        "frog",
+        "sand"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 6) (Complex/Deeper)",
-      "options": [
-        "spider",
-        "baby",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 7) (Complex/Deeper)",
-      "options": [
-        "hotel",
-        "baby",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 8) (Complex/Deeper)",
+      "q": "Identify the VCV word in this sentence: 'The tulip is opening.'",
       "options": [
         "tulip",
+        "is",
+        "The",
+        "None"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Complete the VCV word: 'Keep your science notebook on white pa___.'",
+      "options": [
+        "per",
+        "nt",
+        "mp",
+        "ck"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which of these words has the VCV pattern?",
+      "options": [
+        "silent",
+        "plug",
+        "hand",
+        "drum"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which VCV word represents a large cat with stripes?",
+      "options": [
+        "tiger",
+        "spider",
         "baby",
-        "paper",
-        "music"
+        "tulip"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Please write your name.' (Question 9) (Complex/Deeper)",
+      "q": "Which of these is an imperative sentence giving a command?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Stand in line.",
+        "What is that?",
+        "The line is long.",
+        "What a beautiful line!"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Listen quietly to the story.' (Question 10) (Complex/Deeper)",
+      "q": "How do you make the command 'Pass the paper' a polite request?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Add 'Please' at the beginning.",
+        "Put a question mark at the end.",
+        "Use capital letters for all words.",
+        "Change the action word."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Sit down in your chair.' (Question 11) (Complex/Deeper)",
+      "q": "Identify the imperative sentence:",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Clean your science tools.",
+        "Are the tools clean?",
+        "These are science tools.",
+        "Wow, clean tools!"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Help your friend wash the cup.' (Question 12) (Complex/Deeper)",
+      "q": "Which sentence is a polite request?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Please open the window.",
+        "Open the window.",
+        "Is the window open?",
+        "The window is open."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Please write your name.' (Question 13) (Complex/Deeper)",
+      "q": "Complete the command: '___ closely to the bird calls.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Listen",
+        "Listening",
+        "Listened",
+        "Listens"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Listen quietly to the story.' (Question 14) (Complex/Deeper)",
+      "q": "Which of these imperative sentences is punctuated correctly?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Write your name on the paper.",
+        "write your name on the paper",
+        "Write your name on the paper?",
+        "write your name on the paper."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "True or False: If a command is very urgent or shows an emergency, it can end with an exclamation mark (!).",
+      "options": [
+        "True",
+        "False"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Sit down in your chair.' (Question 15) (Complex/Deeper)",
+      "q": "Identify the correctly punctuated request:",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Please stay quiet.",
+        "please stay quiet?",
+        "Please stay quiet?",
+        "please stay quiet."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Help your friend wash the cup.' (Question 16) (Complex/Deeper)",
+      "q": "Which punctuation is missing in: 'Put the spider in the jar'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "A period (.)",
+        "A question mark (?)",
+        "A comma (,)",
+        "An apostrophe (')"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Imperative sentences always start with a capital letter.",
+      "options": [
+        "True",
+        "False"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 17) (Complex/Deeper)",
+      "q": "Read: 'The sun was very hot, so the small puddle of water evaporated.' What is the cause?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "The sun was very hot",
+        "The puddle evaporated",
+        "The water was dirty",
+        "The wind blew hard"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 18) (Complex/Deeper)",
+      "q": "Read: 'Matteo forgot to water the plant, so its leaves turned yellow.' What is the effect?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "The leaves turned yellow",
+        "Matteo forgot to water it",
+        "The plant was inside",
+        "The sun was bright"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 19) (Complex/Deeper)",
+      "q": "In cause and effect, which word represents the trigger or reason?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "Cause",
+        "Effect",
+        "Result",
+        "Punctuation"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 20) (Complex/Deeper)",
+      "q": "Read: 'The spider spun a sticky web, catching a tiny fly.' What caused the fly to be caught?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "The sticky web",
+        "The wind blowing",
+        "The spider sleeping",
+        "The fly singing"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 21) (Complex/Deeper)",
+      "q": "Read: 'A heavy rain fell, causing the river to rise.' What is the effect?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "The river rose",
+        "The heavy rain fell",
+        "The sun came out",
+        "The fish swam away"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 22) (Complex/Deeper)",
+      "q": "What is the root word of 'playing'?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "play",
+        "ing",
+        "lay",
+        "pla"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 23) (Complex/Deeper)",
+      "q": "Identify the root word in 'grower':",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "grow",
+        "er",
+        "row",
+        "gro"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 24) (Complex/Deeper)",
+      "q": "What is the root word of the word 'silently'?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "silent",
+        "silence",
+        "ly",
+        "ent"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What is the main learning goal of Week 3 English? (Question 25) (Complex/Deeper)",
+      "q": "Identify the root word of 'spiders':",
       "options": [
-        "Develop automatic decoding of VCV Words and application of Imperative Sentences.",
-        "Draw a picture only.",
-        "Memorize all words.",
-        "Write a long novel."
+        "spider",
+        "s",
+        "spin",
+        "ride"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What is the root word of 'walked'?",
+      "options": [
+        "walk",
+        "ed",
+        "alk",
+        "wal"
       ],
       "answer": 0
     }
@@ -6019,74 +5844,75 @@ window.WEEK3_ADVANCED_DATA.english = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge Question 1: Solve the complex sentence puzzle using Imperative Sentences and VCV Words patterns. (Complex/Deeper)",
+      "q": "Challenge: Which sentence shows an imperative request containing a VCV word?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "Please pass the clean paper.",
+        "Stand next to the big tiger.",
+        "Why is the spider crawling?",
+        "The tulip grows in the garden."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 2: Solve the complex sentence puzzle using Imperative Sentences and VCV Words patterns. (Complex/Deeper)",
+      "q": "Challenge: Read: 'The sky darkened and lightning flashed. Suddenly, the streetlights turned on.' What caused the streetlights to turn on?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "The sky darkening",
+        "The streetlights breaking",
+        "People turning them on manually",
+        "The wind blowing"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 3: Solve the complex sentence puzzle using Imperative Sentences and VCV Words patterns. (Complex/Deeper)",
+      "q": "Challenge: Find the root word of 'unhappiness':",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "happy",
+        "ness",
+        "unhappy",
+        "un"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 4: Solve the complex sentence puzzle using Imperative Sentences and VCV Words patterns. (Complex/Deeper)",
+      "q": "Challenge: Which VCV word represents a place where travelers stay during a science field trip?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "hotel",
+        "tulip",
+        "baby",
+        "tiger"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 5: Solve the complex sentence puzzle using Imperative Sentences and VCV Words patterns. (Complex/Deeper)",
+      "q": "Challenge: What is the cause in: 'A cat sneezed because the dust tickled its nose'?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "The dust tickling its nose",
+        "The cat sneezing",
+        "The cat running away",
+        "The dust settling"
       ],
       "answer": 0
     }
   ],
   "performance": {
-    "title": "Performance Task: VCV Words & Imperative Sentences",
-    "desc": "Write a short paragraph (3-4 sentences) using at least three of this week's phonics words (baby, paper, music, silent, tiger) and demonstrative/possessive pronouns. Draw a matching picture and present it to your parent.",
+    "type": "performance",
+    "title": "Seed Experiment Lab Instructions",
+    "desc": "Imagine you are directing a science experiment on seed growth. Write a list of three step-by-step instructions. Two steps must be direct commands (e.g. 'Put loam soil in the pot.') and one must be a polite request using 'please'. Make sure all sentences are correctly capitalized and punctuated. Underline the VCV words you used (like paper, open, basic).",
     "labels": [
-      "Correct use of phonics words",
-      "Correct sentence structure and capitalization",
-      "Clear drawing and explanation"
+      "Correct listing of laboratory steps in order",
+      "Correct use of capital letters and ending periods in all steps",
+      "Correct inclusion of one polite request and underlined VCV words"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 1: VCV Words Phonics Identification</h3>\n              <p class=\"ws-instruction\">Identify the correct spelling of the words matching the phonics rule.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Fill in the missing letters: <strong>ba__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">baby</span></div>\n              </div>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">2. Fill in the missing letters: <strong>pa__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">paper</span></div>\n              </div>\n            </div>",
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 2: Imperative Sentences Grammar Check</h3>\n              <p class=\"ws-instruction\">Choose and write the correct pronoun to complete the sentence.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Sentence: <em>Please write your name.</em></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 100%;\"><span class=\"ws-answer\">Please</span></div>\n              </div>\n            </div>",
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 3: Cause and Effect Story Sequencing</h3>\n              <p class=\"ws-instruction\">Write the correct order of the story elements (1, 2, 3).</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">Describe the setting and the main problem of the character:</div>\n                <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">Identify where and when the story happens, and what the character wants to solve.</span></div>\n              </div>\n            </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: VCV Long Vowels</h3>\n                  <p class=\"ws-instruction\">Write the correct VCV word matching the description using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Material we write or print observations on: <strong>pa__</strong></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">paper</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. A eight-legged arachnid that spins web: <strong>sp__</strong></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">spider</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Not making any sound; quiet: <strong>si__</strong></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">silent</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Instructions in the Lab</h3>\n                  <p class=\"ws-instruction\">Identify whether each sentence is a <strong>Command</strong> or a <strong>Polite Request</strong>.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Please open the lab window.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Polite Request</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Pour 50 milliliters of water into the soil.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Command</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Please write the root word of 'grower'.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Polite Request</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Cause and Effect Connections</h3>\n                  <p class=\"ws-instruction\">Draw a line using your stylus to match the Cause with its correct Effect.</p>\n                  <div class=\"ws-split\" style=\"margin-top: 20px;\">\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.2;\">\n                      <div><strong>Causes:</strong></div>\n                      <div>1. The sun shines on wet clothes.</div>\n                      <div>2. Matteo puts the seed in dry soil.</div>\n                      <div>3. A spider spins a sticky web.</div>\n                    </div>\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.2; text-align: right; padding-right: 40px;\">\n                      <div><strong>Effects:</strong></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">B</span> &nbsp; ] &nbsp; A. Flies are caught.</div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">C</span> &nbsp; ] &nbsp; B. The clothes dry.</div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">A</span> &nbsp; ] &nbsp; C. The seed does not grow.</div>\n                    </div>\n                  </div>\n                </div>"
     ]
   }
 };

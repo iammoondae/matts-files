@@ -1219,355 +1219,267 @@ window.WEEK2_DATA.english = {
   "color": "#8b5cf6",
   "icon": "📖",
   "title": "English",
-  "subtitle": "Week 2: CCVC Words & Verbs (Action Words)",
+  "subtitle": "Week 2: CCVC Words & Action Verbs",
   "slides": [
     {
-      "title": "Welcome to English Week 2",
-      "text": "In this week's module, we will explore key language concepts including CCVC Words, Verbs (Action Words), and Inferring Feelings & Traits.",
+      "title": "Welcome to the Animal Kingdom!",
+      "text": "Hello, Explorer! This week we are diving into the world of action. We will learn about words that start with double consonants, action words, and how to ask questions like a scientist!",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand and apply CCVC Words and Verbs (Action Words) in reading and writing."
-        },
-        {
-          "title": "Context",
-          "content": "This module is designed in the context of Grade 3 standards."
+          "title": "Weekly Goal",
+          "content": "Master CCVC words, understand action verbs, ask question sentences, and infer feelings."
         }
       ]
     },
     {
-      "title": "Core Vocabulary Words",
-      "text": "Let's look at the core words for this week's phonics focus (CCVC Words): frog, drum, plug, stop, crab.",
+      "title": "Starting Sounds (CCVC)",
+      "text": "CCVC words stand for Consonant-Consonant-Vowel-Consonant. They start with a blend of two consonant sounds, like f-r-o-g. Let's practice saying them together!",
       "examples": [
         {
-          "title": "Word 1: Frog",
-          "content": "A phonics word matching the CCVC Words pattern."
-        },
-        {
-          "title": "Word 2: Drum",
-          "content": "Another example showing correct letter sound blends."
+          "title": "Word Pattern",
+          "content": "C = Consonant, C = Consonant, V = Vowel, C = Consonant."
         }
       ]
     },
     {
-      "title": "Phonics: CCVC Words",
-      "text": "CCVC stands for Consonant-Consonant-Vowel-Consonant. These words start with a consonant blend or cluster and end with a consonant, like 'frog', 'drum', or 'plug'.",
+      "title": "Phonics Hunt: The Green Frog",
+      "text": "In the wet pond, we observe a green frog. 'Frog' starts with the 'fr' blend. Watch how it leaps from leaf to leaf!",
       "examples": [
         {
-          "title": "Examples",
-          "content": "frog, drum, plug, stop, crab, flag, slip, swim, flat, trap"
-        },
-        {
-          "title": "Reading Rule",
-          "content": "Blend the letter sounds together smoothly when pronouncing the words."
+          "title": "Spelling",
+          "content": "f - r - o - g"
         }
       ]
     },
     {
-      "title": "Grammar: Verbs (Action Words)",
-      "text": "Verbs are action words that show what persons, animals, or things do. Examples include run, jump, sing, write, and play.",
+      "title": "Phonics Hunt: The Crawling Crab",
+      "text": "On the sandy beach, we spot a small crab crawling sideways. 'Crab' starts with the 'cr' blend. How many legs does a crab have?",
       "examples": [
         {
-          "title": "Example Sentence",
-          "content": "Matteo swims in the pool."
-        },
-        {
-          "title": "Tip",
-          "content": "Notice how the pronoun helps show position or ownership."
+          "title": "Spelling",
+          "content": "c - r - a - b"
         }
       ]
     },
     {
-      "title": "Sentence Structure: Interrogative Sentences",
-      "text": "Interrogative sentences are asking sentences that ask a question. They start with a capital letter and end with a question mark (?). They often begin with question words like who, what, where, or when.",
+      "title": "Phonics Hunt: In the Pond",
+      "text": "We watch a small fish swim in the water. We must not block the drain plug. 'Swim' and 'plug' start with CCVC blends!",
       "examples": [
         {
-          "title": "Example",
-          "content": "The children play at school."
+          "title": "Spelling",
+          "content": "s - w - i - m  and  p - l - u - g"
+        }
+      ]
+    },
+    {
+      "title": "Phonics Hunt: Music and Play",
+      "text": "Hear the beat of the parade drum! Red and blue flags wave in the wind. 'Drum' and 'flag' start with 'dr' and 'fl' blends!",
+      "examples": [
+        {
+          "title": "Spelling",
+          "content": "d - r - u - m  and  f - l - a - g"
+        }
+      ]
+    },
+    {
+      "title": "Phonics Hunt: Safety First",
+      "text": "We see a stop sign on the road. We must not slip on the wet floor. 'Stop' and 'slip' start with 'st' and 'sl' blends!",
+      "examples": [
+        {
+          "title": "Spelling",
+          "content": "s - t - o - p  and  s - l - i - p"
+        }
+      ]
+    },
+    {
+      "title": "Phonics Hunt: Flat Leaves",
+      "text": "The leaves of the water lily are flat. Be careful not to fall into a mud trap! 'Flat' and 'trap' start with 'fl' and 'tr' blends!",
+      "examples": [
+        {
+          "title": "Spelling",
+          "content": "f - l - a - t  and  t - r - a - p"
+        }
+      ]
+    },
+    {
+      "title": "Grammar: Action Words (Verbs)",
+      "text": "Verbs are words that show what people, animals, or things do. They tell us about movement and life. Without verbs, nothing moves!",
+      "examples": [
+        {
+          "title": "Key Concept",
+          "content": "Verb = Action word"
+        }
+      ]
+    },
+    {
+      "title": "Observing Animals in Action",
+      "text": "Let's watch nature! 'The frog leaps.' 'The bird flies.' 'The fish swims.' The words 'leaps', 'flies', and 'swims' are verbs!",
+      "examples": [
+        {
+          "title": "Action",
+          "content": "leap, fly, swim, crawl, run"
+        }
+      ]
+    },
+    {
+      "title": "Verbs in Our Daily Life",
+      "text": "We use verbs to talk about what we do: 'Matteo reads a story book.' 'The children play at school.' 'Reads' and 'play' are the verbs.",
+      "examples": [
+        {
+          "title": "Matteo",
+          "content": "reads"
         },
+        {
+          "title": "Children",
+          "content": "play"
+        }
+      ]
+    },
+    {
+      "title": "Sentence Engine: Interrogative Sentences",
+      "text": "An interrogative sentence asks a question to gather information. It starts with a capital letter and ends with a question mark (?).",
+      "examples": [
         {
           "title": "Rule",
-          "content": "Always verify that your sentence begins with a capital letter and ends with the correct mark."
+          "content": "Always start with a capital letter and end with a question mark."
         }
       ]
     },
     {
-      "title": "Comprehension: Inferring Feelings & Traits",
-      "text": "Good readers infer how a character feels or what traits they have by looking at their actions, words, and choices. We also relate story events to our own experiences.",
+      "title": "Question Words",
+      "text": "We start questions with words like Who, What, Where, When, and Why. E.g., 'Where does the crab live?' or 'What does the frog eat?'",
       "examples": [
         {
-          "title": "Focus Area",
-          "content": "Analyze text elements under Inferring Feelings & Traits"
-        },
-        {
-          "title": "Strategy",
-          "content": "Look for key clues, character actions, and connector words in the story."
+          "title": "Question Words",
+          "content": "Who, What, Where, When, Why"
         }
       ]
     },
     {
-      "title": "Vocabulary & Theme: Interrogative & Possessive Pronouns",
-      "text": "Interrogative pronouns (who, what, where) help ask questions. Possessive pronouns (my, your, his, her) show ownership of things.",
+      "title": "Story Time: The Pond Detective",
+      "text": "Let's read: 'Matteo looks closely at the pond. He asks, 'Who is hiding under the leaf?' A green frog leaps out! Matteo laughs and says, 'My frog friend is safe!''",
       "examples": [
         {
-          "title": "Focus",
-          "content": "Applying high-frequency words in Interrogative & Possessive Pronouns themes."
-        },
-        {
-          "title": "Application",
-          "content": "Write short paragraphs using these words to express ideas about your local environment."
+          "title": "Reading Task",
+          "content": "Identify the CCVC words and verbs in this story!"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 1",
-      "text": "Let's review Case 1 combining our phonics focus (CCVC Words) and grammar rules (Verbs (Action Words)).",
+      "title": "Inferring Feelings: Happy or Scared?",
+      "text": "To infer means to read between the lines. In our story, Matteo laughs when the frog leaps. We can infer that Matteo feels happy and amused!",
       "examples": [
         {
-          "title": "Practice Example 1",
-          "content": "Read the CVCC/CCVC words in the context of a Interrogative Sentences."
-        },
-        {
-          "title": "Analysis 1",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Infer",
+          "content": "Matteo laughs -> Matteo is happy."
         }
       ]
     },
     {
-      "title": "Detailed Case Study 2",
-      "text": "Let's review Case 2 combining our phonics focus (CCVC Words) and grammar rules (Verbs (Action Words)).",
+      "title": "Inferring Traits: Curious Matteo",
+      "text": "Matteo looks closely at the pond and asks questions. We can infer that Matteo has the character trait of being curious or scientific!",
       "examples": [
         {
-          "title": "Practice Example 2",
-          "content": "Read the CVCC/CCVC words in the context of a Interrogative Sentences."
-        },
-        {
-          "title": "Analysis 2",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Infer",
+          "content": "Asks questions -> Matteo is curious."
         }
       ]
     },
     {
-      "title": "Detailed Case Study 3",
-      "text": "Let's review Case 3 combining our phonics focus (CCVC Words) and grammar rules (Verbs (Action Words)).",
+      "title": "Grammar: Possessive Pronouns",
+      "text": "Possessive pronouns show who owns something. We use 'my', 'your', 'his', 'her', and 'its' to show belonging. E.g., 'This is my magnifying glass.'",
       "examples": [
         {
-          "title": "Practice Example 3",
-          "content": "Read the CVCC/CCVC words in the context of a Interrogative Sentences."
-        },
-        {
-          "title": "Analysis 3",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Ownership",
+          "content": "my book, his net, her drum"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 4",
-      "text": "Let's review Case 4 combining our phonics focus (CCVC Words) and grammar rules (Verbs (Action Words)).",
+      "title": "Interrogative vs Possessive",
+      "text": "Interrogative pronouns help ask: 'Whose drum is this?' Possessive pronouns help answer: 'It is her drum.' They work together!",
       "examples": [
         {
-          "title": "Practice Example 4",
-          "content": "Read the CVCC/CCVC words in the context of a Interrogative Sentences."
+          "title": "Interrogative",
+          "content": "Whose"
         },
         {
-          "title": "Analysis 4",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Possessive",
+          "content": "her"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 5",
-      "text": "Let's review Case 5 combining our phonics focus (CCVC Words) and grammar rules (Verbs (Action Words)).",
+      "title": "Science Connection: Animal Habitats",
+      "text": "Where does the crab crawl? It lives in its sandy habitat. The question 'Where does the crab live?' is an interrogative sentence!",
       "examples": [
         {
-          "title": "Practice Example 5",
-          "content": "Read the CVCC/CCVC words in the context of a Interrogative Sentences."
-        },
-        {
-          "title": "Analysis 5",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Observation",
+          "content": "A crab crawling in the wet sand."
         }
       ]
     },
     {
-      "title": "Detailed Case Study 6",
-      "text": "Let's review Case 6 combining our phonics focus (CCVC Words) and grammar rules (Verbs (Action Words)).",
+      "title": "Science Connection: Water Safety",
+      "text": "Why must we keep the drain plug clean? It helps the water flow. The verb 'flow' shows the movement of water.",
       "examples": [
         {
-          "title": "Practice Example 6",
-          "content": "Read the CVCC/CCVC words in the context of a Interrogative Sentences."
-        },
-        {
-          "title": "Analysis 6",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Action Verb",
+          "content": "flow, drain, clean"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 7",
-      "text": "Let's review Case 7 combining our phonics focus (CCVC Words) and grammar rules (Verbs (Action Words)).",
+      "title": "Guided Practice: Spotting CCVC",
+      "text": "Can you find the CCVC word in: 'The child sat on a flat rock'? Yes, it is 'flat'!",
       "examples": [
         {
-          "title": "Practice Example 7",
-          "content": "Read the CVCC/CCVC words in the context of a Interrogative Sentences."
-        },
-        {
-          "title": "Analysis 7",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Check",
+          "content": "f - l - a - t starts with the consonants f and l."
         }
       ]
     },
     {
-      "title": "Detailed Case Study 8",
-      "text": "Let's review Case 8 combining our phonics focus (CCVC Words) and grammar rules (Verbs (Action Words)).",
+      "title": "Guided Practice: Finding the Verb",
+      "text": "What is the action word in: 'The blue bird flies high in the sky'? The action is 'flies'!",
       "examples": [
         {
-          "title": "Practice Example 8",
-          "content": "Read the CVCC/CCVC words in the context of a Interrogative Sentences."
-        },
-        {
-          "title": "Analysis 8",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Verb Check",
+          "content": "flies (action performed by the bird)"
         }
       ]
     },
     {
-      "title": "Comprehension Case 1",
-      "text": "Analyzing story events and character traits (Comprehension Case 1).",
+      "title": "Guided Practice: Question Mark",
+      "text": "Which sentence is correct? 'A. Where is the green frog.' or 'B. Where is the green frog?' Yes, B is correct because it asks a question!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Corrected",
+          "content": "'Where is the green frog?'"
         }
       ]
     },
     {
-      "title": "Comprehension Case 2",
-      "text": "Analyzing story events and character traits (Comprehension Case 2).",
+      "title": "Common Error: Capitalizing Pronouns",
+      "text": "Remember, possessive pronouns like 'my' or 'her' do not need capital letters unless they start a sentence.",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
+          "title": "Incorrect",
+          "content": "'This is My frog.'"
         },
         {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Correct",
+          "content": "'This is my frog.'"
         }
       ]
     },
     {
-      "title": "Comprehension Case 3",
-      "text": "Analyzing story events and character traits (Comprehension Case 3).",
+      "title": "Summary of Week 2",
+      "text": "Fantastic work, Detective! You mastered CCVC words, action verbs, interrogative sentences, and character feelings. Get ready for the weekly quiz!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
-        }
-      ]
-    },
-    {
-      "title": "Comprehension Case 4",
-      "text": "Analyzing story events and character traits (Comprehension Case 4).",
-      "examples": [
-        {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
-        }
-      ]
-    },
-    {
-      "title": "Comprehension Case 5",
-      "text": "Analyzing story events and character traits (Comprehension Case 5).",
-      "examples": [
-        {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
-        }
-      ]
-    },
-    {
-      "title": "Concept Review 1",
-      "text": "Let's review the main rules of Week 2 English. Pay close attention to vocabulary use and spelling patterns.",
-      "examples": [
-        {
-          "title": "Review Tip",
-          "content": "Read the words aloud to check their phonics sounds."
-        },
-        {
-          "title": "Sentence Check",
-          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
-        }
-      ]
-    },
-    {
-      "title": "Practice Task 2",
-      "text": "Try applying the rules of Week 2 English in a new sentence. Practice writing it down on paper.",
-      "examples": [
-        {
-          "title": "Task",
-          "content": "Write a short sentence using one of the weekly vocabulary words."
-        },
-        {
-          "title": "Self-Check",
-          "content": "Identify the subject and predicate of your sentence."
-        }
-      ]
-    },
-    {
-      "title": "Concept Review 3",
-      "text": "Let's review the main rules of Week 2 English. Pay close attention to vocabulary use and spelling patterns.",
-      "examples": [
-        {
-          "title": "Review Tip",
-          "content": "Read the words aloud to check their phonics sounds."
-        },
-        {
-          "title": "Sentence Check",
-          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
-        }
-      ]
-    },
-    {
-      "title": "Practice Task 4",
-      "text": "Try applying the rules of Week 2 English in a new sentence. Practice writing it down on paper.",
-      "examples": [
-        {
-          "title": "Task",
-          "content": "Write a short sentence using one of the weekly vocabulary words."
-        },
-        {
-          "title": "Self-Check",
-          "content": "Identify the subject and predicate of your sentence."
-        }
-      ]
-    },
-    {
-      "title": "Summary & Reflection",
-      "text": "You have completed all slides for this lesson on Week 2 English. Take a moment to review the key concepts, spelling, and sentence structures we covered.",
-      "examples": [
-        {
-          "title": "Key Takeaway",
-          "content": "Mastering Week 2 English builds a strong foundation for reading and writing."
-        },
-        {
-          "title": "Next Step",
-          "content": "You are now ready to try the weekly quiz and challenge questions."
+          "title": "Vocabulary",
+          "content": "frog, drum, plug, stop, crab, flag, slip, swim, flat, trap"
         }
       ]
     }
@@ -1575,276 +1487,276 @@ window.WEEK2_DATA.english = {
   "standard": [
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CCVC Words? (Question 1)",
+      "q": "Which word starts with a CCVC blend?",
       "options": [
         "frog",
+        "hand",
         "baby",
-        "paper",
-        "music"
+        "paper"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CCVC Words? (Question 2)",
-      "options": [
-        "drum",
-        "baby",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CCVC Words? (Question 3)",
-      "options": [
-        "plug",
-        "baby",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CCVC Words? (Question 4)",
-      "options": [
-        "stop",
-        "baby",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CCVC Words? (Question 5)",
+      "q": "Identify the CCVC word in this sentence: 'The crab crawls.'",
       "options": [
         "crab",
-        "baby",
-        "paper",
-        "music"
+        "crawls",
+        "The",
+        "None"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CCVC Words? (Question 6)",
+      "q": "Complete the word: 'The band played a loud dr__.'",
       "options": [
+        "um",
+        "op",
+        "ip",
+        "at"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which of these words starts with the same blend as 'swim'?",
+      "options": [
+        "swan",
+        "frog",
+        "plug",
+        "trap"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which CCVC word represents a device that blocks water in a sink?",
+      "options": [
+        "plug",
+        "drum",
         "flag",
-        "baby",
-        "paper",
-        "music"
+        "stop"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CCVC Words? (Question 7)",
+      "q": "Which of these is an action word (verb)?",
       "options": [
-        "slip",
-        "baby",
-        "paper",
-        "music"
+        "leaps",
+        "green",
+        "pond",
+        "water"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CCVC Words? (Question 8)",
+      "q": "Identify the verb in: 'The child watches the crawling spider.'",
+      "options": [
+        "watches",
+        "child",
+        "spider",
+        "crawling"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Complete the sentence with the correct action verb: 'Birds ___ high in the sky.'",
+      "options": [
+        "fly",
+        "blue",
+        "wings",
+        "nest"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which verb shows what fish do to move in water?",
       "options": [
         "swim",
-        "baby",
-        "paper",
-        "music"
+        "run",
+        "climb",
+        "fly"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Matteo swims in the pool.' (Question 9)",
+      "q": "Complete: 'Matteo ___ his science notebook every night.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "reads",
+        "book",
+        "happy",
+        "student"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'The children play at school.' (Question 10)",
+      "q": "Which of these is an interrogative sentence?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Where does the frog live?",
+        "The frog lives in the pond.",
+        "Look at the green frog.",
+        "What a beautiful frog!"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'The bird flies high.' (Question 11)",
+      "q": "What punctuation mark is used at the end of an interrogative sentence?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Question mark (?)",
+        "Period (.)",
+        "Exclamation mark (!)",
+        "Comma (,)"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'My sister reads a story book.' (Question 12)",
+      "q": "Complete the question: '___ is the color of the crab?'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "What",
+        "Who",
+        "Where",
+        "When"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Matteo swims in the pool.' (Question 13)",
+      "q": "Complete the question: '___ does the water flow when it rains?'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Where",
+        "Who",
+        "What",
+        "Whose"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'The children play at school.' (Question 14)",
+      "q": "Which of these is an asking sentence that is punctuated correctly?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Who is hiding under the leaf?",
+        "who is hiding under the leaf.",
+        "Who is hiding under the leaf.",
+        "who is hiding under the leaf?"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'The bird flies high.' (Question 15)",
+      "q": "Read: 'Matteo jumps and cheers when he sees the frog.' How does Matteo feel?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Happy and excited",
+        "Sad and lonely",
+        "Scared and cold",
+        "Angry and tired"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'My sister reads a story book.' (Question 16)",
+      "q": "Read: 'The bird flew away when the cat came close.' What trait does the bird show?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Cautious and survival-oriented",
+        "Brave and strong",
+        "Friendly and playful",
+        "Lazy and sleep-seeking"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Inferring Feelings & Traits, what is the correct reading strategy or detail? (Question 17)",
+      "q": "If a character shares their lunch with a hungry classmate, we can infer they are:",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "kind and caring",
+        "selfish and greedy",
+        "mean and angry",
+        "lazy and quiet"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Inferring Feelings & Traits, what is the correct reading strategy or detail? (Question 18)",
+      "q": "What does it mean to 'infer' a trait?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "To use clues to guess character qualities",
+        "To write a word down on paper",
+        "To count the number of characters",
+        "To make a drawing of the setting"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Inferring Feelings & Traits, what is the correct reading strategy or detail? (Question 19)",
+      "q": "Read: 'Matteo stays up to check on his plants.' We can infer that Matteo is:",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "responsible",
+        "lazy",
+        "fearful",
+        "forgetful"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Inferring Feelings & Traits, what is the correct reading strategy or detail? (Question 20)",
+      "q": "Complete: 'Whose science book is this?' 'It is ___ book (belongs to me).'",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "my",
+        "your",
+        "his",
+        "its"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Inferring Feelings & Traits, what is the correct reading strategy or detail? (Question 21)",
+      "q": "Complete: 'The dog wagged ___ tail when it saw the water.'",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "its",
+        "it's",
+        "his",
+        "her"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Inferring Feelings & Traits, what is the correct reading strategy or detail? (Question 22)",
+      "q": "Complete: '___ is looking at the pond?' 'Matteo is looking.'",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "Who",
+        "What",
+        "Where",
+        "Why"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Inferring Feelings & Traits, what is the correct reading strategy or detail? (Question 23)",
+      "q": "Complete: 'She plays with ___ doll in the garden (belongs to her).'",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "her",
+        "his",
+        "my",
+        "our"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Inferring Feelings & Traits, what is the correct reading strategy or detail? (Question 24)",
+      "q": "Identify the interrogative pronoun in: 'What did you find in the soil?'",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "What is the main learning goal of Week 2 English? (Question 25)",
-      "options": [
-        "Develop automatic decoding of CCVC Words and application of Verbs (Action Words).",
-        "Draw a picture only.",
-        "Memorize all words.",
-        "Write a long novel."
+        "What",
+        "did",
+        "you",
+        "find"
       ],
       "answer": 0
     }
@@ -1852,74 +1764,75 @@ window.WEEK2_DATA.english = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge Question 1: Solve the complex sentence puzzle using Verbs (Action Words) and CCVC Words patterns.",
+      "q": "Challenge: Which sentence contains a CCVC word, an action verb, and a possessive pronoun?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "The frog swims in my pond.",
+        "The dog barked at the cat.",
+        "This is a green crab.",
+        "Can you see the blue flag?"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 2: Solve the complex sentence puzzle using Verbs (Action Words) and CCVC Words patterns.",
+      "q": "Challenge: If you want to ask a friend about the habitat of a crab, which question is correct?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "Where does the crab live?",
+        "The crab lives on the beach.",
+        "Please find the crab.",
+        "What a small crab!"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 3: Solve the complex sentence puzzle using Verbs (Action Words) and CCVC Words patterns.",
+      "q": "Challenge: Read: 'The frog sat still. It did not move even when a fly buzzed by. Soon, its head dropped.' What can we infer about the frog?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "It is very tired or resting.",
+        "It is hunting actively.",
+        "It is playing a game.",
+        "It is angry at the fly."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 4: Solve the complex sentence puzzle using Verbs (Action Words) and CCVC Words patterns.",
+      "q": "Challenge: Which CCVC word represents a flat fabric used to show a country or community symbol?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "flag",
+        "plug",
+        "frog",
+        "flat"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 5: Solve the complex sentence puzzle using Verbs (Action Words) and CCVC Words patterns.",
+      "q": "Challenge: Spot the error: 'whose green frog is that?'",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "The first letter should be capitalized.",
+        "It should end with a period.",
+        "The word 'green' is misspelled.",
+        "There is no error."
       ],
       "answer": 0
     }
   ],
   "performance": {
-    "title": "Performance Task: CCVC Words & Verbs (Action Words)",
-    "desc": "Write a short paragraph (3-4 sentences) using at least three of this week's phonics words (frog, drum, plug, stop, crab) and demonstrative/possessive pronouns. Draw a matching picture and present it to your parent.",
+    "type": "performance",
+    "title": "Animal Movement Observation Net",
+    "desc": "Go outside to observe a small animal or insect (like an ant, a bird, or a frog). Draw the animal in its habitat. Write three interrogative sentences asking questions about how it moves, what it eats, and who shares its habitat. Identify and underline the action verbs in your questions.",
     "labels": [
-      "Correct use of phonics words",
-      "Correct sentence structure and capitalization",
-      "Clear drawing and explanation"
+      "Correct identification of animal behavior and drawing",
+      "Correct form and punctuation of interrogative sentences (starts with capital, ends with ?)",
+      "Underlining the correct action verbs (e.g. crawl, fly, eat, hop)"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 1: CCVC Words Phonics Identification</h3>\n              <p class=\"ws-instruction\">Identify the correct spelling of the words matching the phonics rule.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Fill in the missing letters: <strong>fr__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">frog</span></div>\n              </div>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">2. Fill in the missing letters: <strong>dr__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">drum</span></div>\n              </div>\n            </div>",
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 2: Verbs (Action Words) Grammar Check</h3>\n              <p class=\"ws-instruction\">Choose and write the correct pronoun to complete the sentence.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Sentence: <em>Matteo swims in the pool.</em></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 100%;\"><span class=\"ws-answer\">Matteo</span></div>\n              </div>\n            </div>",
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 3: Inferring Feelings & Traits Story Sequencing</h3>\n              <p class=\"ws-instruction\">Write the correct order of the story elements (1, 2, 3).</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">Describe the setting and the main problem of the character:</div>\n                <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">Identify where and when the story happens, and what the character wants to solve.</span></div>\n              </div>\n            </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: CCVC Phonics Hunt</h3>\n                  <p class=\"ws-instruction\">Write the correct CCVC word that matches each animal or object clue below using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. An amphibian that leaps and lives in wet ponds: <strong>fr__</strong></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">frog</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. A hard-shelled animal that crawls sideways on wet sand: <strong>cr__</strong></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">crab</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Moving in water using fins or limbs: <strong>sw__</strong></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">swim</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Action Verbs in Nature</h3>\n                  <p class=\"ws-instruction\">Identify the action verb (movement word) in each sentence and write it down.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. The brown dog swims in the deep river.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">swims</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. A heavy rock rolls down the muddy hill.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">rolls</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Matteo reads a science book about habitats.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">reads</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Asking Questions (Interrogatives)</h3>\n                  <p class=\"ws-instruction\">Rearrange the words to build a correct interrogative sentence. Don't forget capital letters and question marks!</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. frog / where / the / does / live</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 100%;\"><span class=\"ws-answer\">Where does the frog live?</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. crab / what / eat / does / a</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 100%;\"><span class=\"ws-answer\">What does a crab eat?</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -5386,355 +5299,267 @@ window.WEEK2_ADVANCED_DATA.english = {
   "color": "#8b5cf6",
   "icon": "📖",
   "title": "English",
-  "subtitle": "Week 2: CCVC Words & Verbs (Action Words)",
+  "subtitle": "Week 2: CCVC Words & Action Verbs",
   "slides": [
     {
-      "title": "Welcome to English Week 2",
-      "text": "In this week's module, we will explore key language concepts including CCVC Words, Verbs (Action Words), and Inferring Feelings & Traits.",
+      "title": "Welcome to the Animal Kingdom!",
+      "text": "Hello, Explorer! This week we are diving into the world of action. We will learn about words that start with double consonants, action words, and how to ask questions like a scientist!",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand and apply CCVC Words and Verbs (Action Words) in reading and writing."
-        },
-        {
-          "title": "Context",
-          "content": "This module is designed in the context of Grade 4-5 standards."
+          "title": "Weekly Goal",
+          "content": "Master CCVC words, understand action verbs, ask question sentences, and infer feelings."
         }
       ]
     },
     {
-      "title": "Core Vocabulary Words",
-      "text": "Let's look at the core words for this week's phonics focus (CCVC Words): frog, drum, plug, stop, crab.",
+      "title": "Starting Sounds (CCVC)",
+      "text": "CCVC words stand for Consonant-Consonant-Vowel-Consonant. They start with a blend of two consonant sounds, like f-r-o-g. Let's practice saying them together!",
       "examples": [
         {
-          "title": "Word 1: Frog",
-          "content": "A phonics word matching the CCVC Words pattern."
-        },
-        {
-          "title": "Word 2: Drum",
-          "content": "Another example showing correct letter sound blends."
+          "title": "Word Pattern",
+          "content": "C = Consonant, C = Consonant, V = Vowel, C = Consonant."
         }
       ]
     },
     {
-      "title": "Phonics: CCVC Words",
-      "text": "CCVC stands for Consonant-Consonant-Vowel-Consonant. These words start with a consonant blend or cluster and end with a consonant, like 'frog', 'drum', or 'plug'.",
+      "title": "Phonics Hunt: The Green Frog",
+      "text": "In the wet pond, we observe a green frog. 'Frog' starts with the 'fr' blend. Watch how it leaps from leaf to leaf!",
       "examples": [
         {
-          "title": "Examples",
-          "content": "frog, drum, plug, stop, crab, flag, slip, swim, flat, trap"
-        },
-        {
-          "title": "Reading Rule",
-          "content": "Blend the letter sounds together smoothly when pronouncing the words."
+          "title": "Spelling",
+          "content": "f - r - o - g"
         }
       ]
     },
     {
-      "title": "Grammar: Verbs (Action Words)",
-      "text": "Verbs are action words that show what persons, animals, or things do. Examples include run, jump, sing, write, and play.",
+      "title": "Phonics Hunt: The Crawling Crab",
+      "text": "On the sandy beach, we spot a small crab crawling sideways. 'Crab' starts with the 'cr' blend. How many legs does a crab have?",
       "examples": [
         {
-          "title": "Example Sentence",
-          "content": "Matteo swims in the pool."
-        },
-        {
-          "title": "Tip",
-          "content": "Notice how the pronoun helps show position or ownership."
+          "title": "Spelling",
+          "content": "c - r - a - b"
         }
       ]
     },
     {
-      "title": "Sentence Structure: Interrogative Sentences",
-      "text": "Interrogative sentences are asking sentences that ask a question. They start with a capital letter and end with a question mark (?). They often begin with question words like who, what, where, or when.",
+      "title": "Phonics Hunt: In the Pond",
+      "text": "We watch a small fish swim in the water. We must not block the drain plug. 'Swim' and 'plug' start with CCVC blends!",
       "examples": [
         {
-          "title": "Example",
-          "content": "The children play at school."
+          "title": "Spelling",
+          "content": "s - w - i - m  and  p - l - u - g"
+        }
+      ]
+    },
+    {
+      "title": "Phonics Hunt: Music and Play",
+      "text": "Hear the beat of the parade drum! Red and blue flags wave in the wind. 'Drum' and 'flag' start with 'dr' and 'fl' blends!",
+      "examples": [
+        {
+          "title": "Spelling",
+          "content": "d - r - u - m  and  f - l - a - g"
+        }
+      ]
+    },
+    {
+      "title": "Phonics Hunt: Safety First",
+      "text": "We see a stop sign on the road. We must not slip on the wet floor. 'Stop' and 'slip' start with 'st' and 'sl' blends!",
+      "examples": [
+        {
+          "title": "Spelling",
+          "content": "s - t - o - p  and  s - l - i - p"
+        }
+      ]
+    },
+    {
+      "title": "Phonics Hunt: Flat Leaves",
+      "text": "The leaves of the water lily are flat. Be careful not to fall into a mud trap! 'Flat' and 'trap' start with 'fl' and 'tr' blends!",
+      "examples": [
+        {
+          "title": "Spelling",
+          "content": "f - l - a - t  and  t - r - a - p"
+        }
+      ]
+    },
+    {
+      "title": "Grammar: Action Words (Verbs)",
+      "text": "Verbs are words that show what people, animals, or things do. They tell us about movement and life. Without verbs, nothing moves!",
+      "examples": [
+        {
+          "title": "Key Concept",
+          "content": "Verb = Action word"
+        }
+      ]
+    },
+    {
+      "title": "Observing Animals in Action",
+      "text": "Let's watch nature! 'The frog leaps.' 'The bird flies.' 'The fish swims.' The words 'leaps', 'flies', and 'swims' are verbs!",
+      "examples": [
+        {
+          "title": "Action",
+          "content": "leap, fly, swim, crawl, run"
+        }
+      ]
+    },
+    {
+      "title": "Verbs in Our Daily Life",
+      "text": "We use verbs to talk about what we do: 'Matteo reads a story book.' 'The children play at school.' 'Reads' and 'play' are the verbs.",
+      "examples": [
+        {
+          "title": "Matteo",
+          "content": "reads"
         },
+        {
+          "title": "Children",
+          "content": "play"
+        }
+      ]
+    },
+    {
+      "title": "Sentence Engine: Interrogative Sentences",
+      "text": "An interrogative sentence asks a question to gather information. It starts with a capital letter and ends with a question mark (?).",
+      "examples": [
         {
           "title": "Rule",
-          "content": "Always verify that your sentence begins with a capital letter and ends with the correct mark."
+          "content": "Always start with a capital letter and end with a question mark."
         }
       ]
     },
     {
-      "title": "Comprehension: Inferring Feelings & Traits",
-      "text": "Good readers infer how a character feels or what traits they have by looking at their actions, words, and choices. We also relate story events to our own experiences.",
+      "title": "Question Words",
+      "text": "We start questions with words like Who, What, Where, When, and Why. E.g., 'Where does the crab live?' or 'What does the frog eat?'",
       "examples": [
         {
-          "title": "Focus Area",
-          "content": "Analyze text elements under Inferring Feelings & Traits"
-        },
-        {
-          "title": "Strategy",
-          "content": "Look for key clues, character actions, and connector words in the story."
+          "title": "Question Words",
+          "content": "Who, What, Where, When, Why"
         }
       ]
     },
     {
-      "title": "Vocabulary & Theme: Interrogative & Possessive Pronouns",
-      "text": "Interrogative pronouns (who, what, where) help ask questions. Possessive pronouns (my, your, his, her) show ownership of things.",
+      "title": "Story Time: The Pond Detective",
+      "text": "Let's read: 'Matteo looks closely at the pond. He asks, 'Who is hiding under the leaf?' A green frog leaps out! Matteo laughs and says, 'My frog friend is safe!''",
       "examples": [
         {
-          "title": "Focus",
-          "content": "Applying high-frequency words in Interrogative & Possessive Pronouns themes."
-        },
-        {
-          "title": "Application",
-          "content": "Write short paragraphs using these words to express ideas about your local environment."
+          "title": "Reading Task",
+          "content": "Identify the CCVC words and verbs in this story!"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 1",
-      "text": "Let's review Case 1 combining our phonics focus (CCVC Words) and grammar rules (Verbs (Action Words)). (Complex/Deeper)",
+      "title": "Inferring Feelings: Happy or Scared?",
+      "text": "To infer means to read between the lines. In our story, Matteo laughs when the frog leaps. We can infer that Matteo feels happy and amused!",
       "examples": [
         {
-          "title": "Practice Example 1",
-          "content": "Read the CVCC/CCVC words in the context of a Interrogative Sentences."
-        },
-        {
-          "title": "Analysis 1",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Infer",
+          "content": "Matteo laughs -> Matteo is happy."
         }
       ]
     },
     {
-      "title": "Detailed Case Study 2",
-      "text": "Let's review Case 2 combining our phonics focus (CCVC Words) and grammar rules (Verbs (Action Words)). (Complex/Deeper)",
+      "title": "Inferring Traits: Curious Matteo",
+      "text": "Matteo looks closely at the pond and asks questions. We can infer that Matteo has the character trait of being curious or scientific!",
       "examples": [
         {
-          "title": "Practice Example 2",
-          "content": "Read the CVCC/CCVC words in the context of a Interrogative Sentences."
-        },
-        {
-          "title": "Analysis 2",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Infer",
+          "content": "Asks questions -> Matteo is curious."
         }
       ]
     },
     {
-      "title": "Detailed Case Study 3",
-      "text": "Let's review Case 3 combining our phonics focus (CCVC Words) and grammar rules (Verbs (Action Words)). (Complex/Deeper)",
+      "title": "Grammar: Possessive Pronouns",
+      "text": "Possessive pronouns show who owns something. We use 'my', 'your', 'his', 'her', and 'its' to show belonging. E.g., 'This is my magnifying glass.'",
       "examples": [
         {
-          "title": "Practice Example 3",
-          "content": "Read the CVCC/CCVC words in the context of a Interrogative Sentences."
-        },
-        {
-          "title": "Analysis 3",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Ownership",
+          "content": "my book, his net, her drum"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 4",
-      "text": "Let's review Case 4 combining our phonics focus (CCVC Words) and grammar rules (Verbs (Action Words)). (Complex/Deeper)",
+      "title": "Interrogative vs Possessive",
+      "text": "Interrogative pronouns help ask: 'Whose drum is this?' Possessive pronouns help answer: 'It is her drum.' They work together!",
       "examples": [
         {
-          "title": "Practice Example 4",
-          "content": "Read the CVCC/CCVC words in the context of a Interrogative Sentences."
+          "title": "Interrogative",
+          "content": "Whose"
         },
         {
-          "title": "Analysis 4",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Possessive",
+          "content": "her"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 5",
-      "text": "Let's review Case 5 combining our phonics focus (CCVC Words) and grammar rules (Verbs (Action Words)). (Complex/Deeper)",
+      "title": "Science Connection: Animal Habitats",
+      "text": "Where does the crab crawl? It lives in its sandy habitat. The question 'Where does the crab live?' is an interrogative sentence!",
       "examples": [
         {
-          "title": "Practice Example 5",
-          "content": "Read the CVCC/CCVC words in the context of a Interrogative Sentences."
-        },
-        {
-          "title": "Analysis 5",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Observation",
+          "content": "A crab crawling in the wet sand."
         }
       ]
     },
     {
-      "title": "Detailed Case Study 6",
-      "text": "Let's review Case 6 combining our phonics focus (CCVC Words) and grammar rules (Verbs (Action Words)). (Complex/Deeper)",
+      "title": "Science Connection: Water Safety",
+      "text": "Why must we keep the drain plug clean? It helps the water flow. The verb 'flow' shows the movement of water.",
       "examples": [
         {
-          "title": "Practice Example 6",
-          "content": "Read the CVCC/CCVC words in the context of a Interrogative Sentences."
-        },
-        {
-          "title": "Analysis 6",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Action Verb",
+          "content": "flow, drain, clean"
         }
       ]
     },
     {
-      "title": "Detailed Case Study 7",
-      "text": "Let's review Case 7 combining our phonics focus (CCVC Words) and grammar rules (Verbs (Action Words)). (Complex/Deeper)",
+      "title": "Guided Practice: Spotting CCVC",
+      "text": "Can you find the CCVC word in: 'The child sat on a flat rock'? Yes, it is 'flat'!",
       "examples": [
         {
-          "title": "Practice Example 7",
-          "content": "Read the CVCC/CCVC words in the context of a Interrogative Sentences."
-        },
-        {
-          "title": "Analysis 7",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Check",
+          "content": "f - l - a - t starts with the consonants f and l."
         }
       ]
     },
     {
-      "title": "Detailed Case Study 8",
-      "text": "Let's review Case 8 combining our phonics focus (CCVC Words) and grammar rules (Verbs (Action Words)). (Complex/Deeper)",
+      "title": "Guided Practice: Finding the Verb",
+      "text": "What is the action word in: 'The blue bird flies high in the sky'? The action is 'flies'!",
       "examples": [
         {
-          "title": "Practice Example 8",
-          "content": "Read the CVCC/CCVC words in the context of a Interrogative Sentences."
-        },
-        {
-          "title": "Analysis 8",
-          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
+          "title": "Verb Check",
+          "content": "flies (action performed by the bird)"
         }
       ]
     },
     {
-      "title": "Comprehension Case 1",
-      "text": "Analyzing story events and character traits (Comprehension Case 1). (Complex/Deeper)",
+      "title": "Guided Practice: Question Mark",
+      "text": "Which sentence is correct? 'A. Where is the green frog.' or 'B. Where is the green frog?' Yes, B is correct because it asks a question!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Corrected",
+          "content": "'Where is the green frog?'"
         }
       ]
     },
     {
-      "title": "Comprehension Case 2",
-      "text": "Analyzing story events and character traits (Comprehension Case 2). (Complex/Deeper)",
+      "title": "Common Error: Capitalizing Pronouns",
+      "text": "Remember, possessive pronouns like 'my' or 'her' do not need capital letters unless they start a sentence.",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
+          "title": "Incorrect",
+          "content": "'This is My frog.'"
         },
         {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
+          "title": "Correct",
+          "content": "'This is my frog.'"
         }
       ]
     },
     {
-      "title": "Comprehension Case 3",
-      "text": "Analyzing story events and character traits (Comprehension Case 3). (Complex/Deeper)",
+      "title": "Summary of Week 2",
+      "text": "Fantastic work, Detective! You mastered CCVC words, action verbs, interrogative sentences, and character feelings. Get ready for the weekly quiz!",
       "examples": [
         {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
-        }
-      ]
-    },
-    {
-      "title": "Comprehension Case 4",
-      "text": "Analyzing story events and character traits (Comprehension Case 4). (Complex/Deeper)",
-      "examples": [
-        {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
-        }
-      ]
-    },
-    {
-      "title": "Comprehension Case 5",
-      "text": "Analyzing story events and character traits (Comprehension Case 5). (Complex/Deeper)",
-      "examples": [
-        {
-          "title": "Scenario Clue",
-          "content": "How do characters behave when facing a problem in the story?"
-        },
-        {
-          "title": "Logical Conclusion",
-          "content": "Evaluate character choices and find the solution based on text evidence."
-        }
-      ]
-    },
-    {
-      "title": "Concept Review 1",
-      "text": "Let's review the main rules of Week 2 English. Pay close attention to vocabulary use and spelling patterns.",
-      "examples": [
-        {
-          "title": "Review Tip",
-          "content": "Read the words aloud to check their phonics sounds."
-        },
-        {
-          "title": "Sentence Check",
-          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
-        }
-      ]
-    },
-    {
-      "title": "Practice Task 2",
-      "text": "Try applying the rules of Week 2 English in a new sentence. Practice writing it down on paper.",
-      "examples": [
-        {
-          "title": "Task",
-          "content": "Write a short sentence using one of the weekly vocabulary words."
-        },
-        {
-          "title": "Self-Check",
-          "content": "Identify the subject and predicate of your sentence."
-        }
-      ]
-    },
-    {
-      "title": "Concept Review 3",
-      "text": "Let's review the main rules of Week 2 English. Pay close attention to vocabulary use and spelling patterns.",
-      "examples": [
-        {
-          "title": "Review Tip",
-          "content": "Read the words aloud to check their phonics sounds."
-        },
-        {
-          "title": "Sentence Check",
-          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
-        }
-      ]
-    },
-    {
-      "title": "Practice Task 4",
-      "text": "Try applying the rules of Week 2 English in a new sentence. Practice writing it down on paper.",
-      "examples": [
-        {
-          "title": "Task",
-          "content": "Write a short sentence using one of the weekly vocabulary words."
-        },
-        {
-          "title": "Self-Check",
-          "content": "Identify the subject and predicate of your sentence."
-        }
-      ]
-    },
-    {
-      "title": "Summary & Reflection",
-      "text": "You have completed all slides for this lesson on Week 2 English. Take a moment to review the key concepts, spelling, and sentence structures we covered.",
-      "examples": [
-        {
-          "title": "Key Takeaway",
-          "content": "Mastering Week 2 English builds a strong foundation for reading and writing."
-        },
-        {
-          "title": "Next Step",
-          "content": "You are now ready to try the weekly quiz and challenge questions."
+          "title": "Vocabulary",
+          "content": "frog, drum, plug, stop, crab, flag, slip, swim, flat, trap"
         }
       ]
     }
@@ -5742,276 +5567,276 @@ window.WEEK2_ADVANCED_DATA.english = {
   "standard": [
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CCVC Words? (Question 1) (Complex/Deeper)",
+      "q": "Which word starts with a CCVC blend?",
       "options": [
         "frog",
+        "hand",
         "baby",
-        "paper",
-        "music"
+        "paper"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CCVC Words? (Question 2) (Complex/Deeper)",
-      "options": [
-        "drum",
-        "baby",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CCVC Words? (Question 3) (Complex/Deeper)",
-      "options": [
-        "plug",
-        "baby",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CCVC Words? (Question 4) (Complex/Deeper)",
-      "options": [
-        "stop",
-        "baby",
-        "paper",
-        "music"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CCVC Words? (Question 5) (Complex/Deeper)",
+      "q": "Identify the CCVC word in this sentence: 'The crab crawls.'",
       "options": [
         "crab",
-        "baby",
-        "paper",
-        "music"
+        "crawls",
+        "The",
+        "None"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CCVC Words? (Question 6) (Complex/Deeper)",
+      "q": "Complete the word: 'The band played a loud dr__.'",
       "options": [
+        "um",
+        "op",
+        "ip",
+        "at"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which of these words starts with the same blend as 'swim'?",
+      "options": [
+        "swan",
+        "frog",
+        "plug",
+        "trap"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which CCVC word represents a device that blocks water in a sink?",
+      "options": [
+        "plug",
+        "drum",
         "flag",
-        "baby",
-        "paper",
-        "music"
+        "stop"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CCVC Words? (Question 7) (Complex/Deeper)",
+      "q": "Which of these is an action word (verb)?",
       "options": [
-        "slip",
-        "baby",
-        "paper",
-        "music"
+        "leaps",
+        "green",
+        "pond",
+        "water"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which word matches the spelling and sound pattern of CCVC Words? (Question 8) (Complex/Deeper)",
+      "q": "Identify the verb in: 'The child watches the crawling spider.'",
+      "options": [
+        "watches",
+        "child",
+        "spider",
+        "crawling"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Complete the sentence with the correct action verb: 'Birds ___ high in the sky.'",
+      "options": [
+        "fly",
+        "blue",
+        "wings",
+        "nest"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which verb shows what fish do to move in water?",
       "options": [
         "swim",
-        "baby",
-        "paper",
-        "music"
+        "run",
+        "climb",
+        "fly"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Matteo swims in the pool.' (Question 9) (Complex/Deeper)",
+      "q": "Complete: 'Matteo ___ his science notebook every night.'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "reads",
+        "book",
+        "happy",
+        "student"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'The children play at school.' (Question 10) (Complex/Deeper)",
+      "q": "Which of these is an interrogative sentence?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Where does the frog live?",
+        "The frog lives in the pond.",
+        "Look at the green frog.",
+        "What a beautiful frog!"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'The bird flies high.' (Question 11) (Complex/Deeper)",
+      "q": "What punctuation mark is used at the end of an interrogative sentence?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Question mark (?)",
+        "Period (.)",
+        "Exclamation mark (!)",
+        "Comma (,)"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'My sister reads a story book.' (Question 12) (Complex/Deeper)",
+      "q": "Complete the question: '___ is the color of the crab?'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "What",
+        "Who",
+        "Where",
+        "When"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'Matteo swims in the pool.' (Question 13) (Complex/Deeper)",
+      "q": "Complete the question: '___ does the water flow when it rains?'",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Where",
+        "Who",
+        "What",
+        "Whose"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'The children play at school.' (Question 14) (Complex/Deeper)",
+      "q": "Which of these is an asking sentence that is punctuated correctly?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Who is hiding under the leaf?",
+        "who is hiding under the leaf.",
+        "Who is hiding under the leaf.",
+        "who is hiding under the leaf?"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'The bird flies high.' (Question 15) (Complex/Deeper)",
+      "q": "Read: 'Matteo jumps and cheers when he sees the frog.' How does Matteo feel?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Happy and excited",
+        "Sad and lonely",
+        "Scared and cold",
+        "Angry and tired"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Identify the correct pronoun or structure that completes this sentence: 'My sister reads a story book.' (Question 16) (Complex/Deeper)",
+      "q": "Read: 'The bird flew away when the cat came close.' What trait does the bird show?",
       "options": [
-        "Correct Option",
-        "Incorrect Option A",
-        "Incorrect Option B",
-        "Incorrect Option C"
+        "Cautious and survival-oriented",
+        "Brave and strong",
+        "Friendly and playful",
+        "Lazy and sleep-seeking"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Inferring Feelings & Traits, what is the correct reading strategy or detail? (Question 17) (Complex/Deeper)",
+      "q": "If a character shares their lunch with a hungry classmate, we can infer they are:",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "kind and caring",
+        "selfish and greedy",
+        "mean and angry",
+        "lazy and quiet"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Inferring Feelings & Traits, what is the correct reading strategy or detail? (Question 18) (Complex/Deeper)",
+      "q": "What does it mean to 'infer' a trait?",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "To use clues to guess character qualities",
+        "To write a word down on paper",
+        "To count the number of characters",
+        "To make a drawing of the setting"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Inferring Feelings & Traits, what is the correct reading strategy or detail? (Question 19) (Complex/Deeper)",
+      "q": "Read: 'Matteo stays up to check on his plants.' We can infer that Matteo is:",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "responsible",
+        "lazy",
+        "fearful",
+        "forgetful"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Inferring Feelings & Traits, what is the correct reading strategy or detail? (Question 20) (Complex/Deeper)",
+      "q": "Complete: 'Whose science book is this?' 'It is ___ book (belongs to me).'",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "my",
+        "your",
+        "his",
+        "its"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Inferring Feelings & Traits, what is the correct reading strategy or detail? (Question 21) (Complex/Deeper)",
+      "q": "Complete: 'The dog wagged ___ tail when it saw the water.'",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "its",
+        "it's",
+        "his",
+        "her"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Inferring Feelings & Traits, what is the correct reading strategy or detail? (Question 22) (Complex/Deeper)",
+      "q": "Complete: '___ is looking at the pond?' 'Matteo is looking.'",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "Who",
+        "What",
+        "Where",
+        "Why"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Inferring Feelings & Traits, what is the correct reading strategy or detail? (Question 23) (Complex/Deeper)",
+      "q": "Complete: 'She plays with ___ doll in the garden (belongs to her).'",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
+        "her",
+        "his",
+        "my",
+        "our"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Based on Inferring Feelings & Traits, what is the correct reading strategy or detail? (Question 24) (Complex/Deeper)",
+      "q": "Identify the interrogative pronoun in: 'What did you find in the soil?'",
       "options": [
-        "Understand the characters, setting, and plot events.",
-        "Skip reading details and guess the ending.",
-        "Only look at the illustrations.",
-        "None of the above."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "What is the main learning goal of Week 2 English? (Question 25) (Complex/Deeper)",
-      "options": [
-        "Develop automatic decoding of CCVC Words and application of Verbs (Action Words).",
-        "Draw a picture only.",
-        "Memorize all words.",
-        "Write a long novel."
+        "What",
+        "did",
+        "you",
+        "find"
       ],
       "answer": 0
     }
@@ -6019,74 +5844,75 @@ window.WEEK2_ADVANCED_DATA.english = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge Question 1: Solve the complex sentence puzzle using Verbs (Action Words) and CCVC Words patterns. (Complex/Deeper)",
+      "q": "Challenge: Which sentence contains a CCVC word, an action verb, and a possessive pronoun?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "The frog swims in my pond.",
+        "The dog barked at the cat.",
+        "This is a green crab.",
+        "Can you see the blue flag?"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 2: Solve the complex sentence puzzle using Verbs (Action Words) and CCVC Words patterns. (Complex/Deeper)",
+      "q": "Challenge: If you want to ask a friend about the habitat of a crab, which question is correct?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "Where does the crab live?",
+        "The crab lives on the beach.",
+        "Please find the crab.",
+        "What a small crab!"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 3: Solve the complex sentence puzzle using Verbs (Action Words) and CCVC Words patterns. (Complex/Deeper)",
+      "q": "Challenge: Read: 'The frog sat still. It did not move even when a fly buzzed by. Soon, its head dropped.' What can we infer about the frog?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "It is very tired or resting.",
+        "It is hunting actively.",
+        "It is playing a game.",
+        "It is angry at the fly."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 4: Solve the complex sentence puzzle using Verbs (Action Words) and CCVC Words patterns. (Complex/Deeper)",
+      "q": "Challenge: Which CCVC word represents a flat fabric used to show a country or community symbol?",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "flag",
+        "plug",
+        "frog",
+        "flat"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge Question 5: Solve the complex sentence puzzle using Verbs (Action Words) and CCVC Words patterns. (Complex/Deeper)",
+      "q": "Challenge: Spot the error: 'whose green frog is that?'",
       "options": [
-        "Analyze clues and find the correct logical answer.",
-        "Guess option A",
-        "Guess option B",
-        "Guess option C"
+        "The first letter should be capitalized.",
+        "It should end with a period.",
+        "The word 'green' is misspelled.",
+        "There is no error."
       ],
       "answer": 0
     }
   ],
   "performance": {
-    "title": "Performance Task: CCVC Words & Verbs (Action Words)",
-    "desc": "Write a short paragraph (3-4 sentences) using at least three of this week's phonics words (frog, drum, plug, stop, crab) and demonstrative/possessive pronouns. Draw a matching picture and present it to your parent.",
+    "type": "performance",
+    "title": "Animal Movement Observation Net",
+    "desc": "Go outside to observe a small animal or insect (like an ant, a bird, or a frog). Draw the animal in its habitat. Write three interrogative sentences asking questions about how it moves, what it eats, and who shares its habitat. Identify and underline the action verbs in your questions.",
     "labels": [
-      "Correct use of phonics words",
-      "Correct sentence structure and capitalization",
-      "Clear drawing and explanation"
+      "Correct identification of animal behavior and drawing",
+      "Correct form and punctuation of interrogative sentences (starts with capital, ends with ?)",
+      "Underlining the correct action verbs (e.g. crawl, fly, eat, hop)"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 1: CCVC Words Phonics Identification</h3>\n              <p class=\"ws-instruction\">Identify the correct spelling of the words matching the phonics rule.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Fill in the missing letters: <strong>fr__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">frog</span></div>\n              </div>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">2. Fill in the missing letters: <strong>dr__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">drum</span></div>\n              </div>\n            </div>",
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 2: Verbs (Action Words) Grammar Check</h3>\n              <p class=\"ws-instruction\">Choose and write the correct pronoun to complete the sentence.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Sentence: <em>Matteo swims in the pool.</em></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 100%;\"><span class=\"ws-answer\">Matteo</span></div>\n              </div>\n            </div>",
-      "<div class=\"ws-page-content\">\n              <h3>Exercise 3: Inferring Feelings & Traits Story Sequencing</h3>\n              <p class=\"ws-instruction\">Write the correct order of the story elements (1, 2, 3).</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">Describe the setting and the main problem of the character:</div>\n                <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">Identify where and when the story happens, and what the character wants to solve.</span></div>\n              </div>\n            </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: CCVC Phonics Hunt</h3>\n                  <p class=\"ws-instruction\">Write the correct CCVC word that matches each animal or object clue below using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. An amphibian that leaps and lives in wet ponds: <strong>fr__</strong></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">frog</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. A hard-shelled animal that crawls sideways on wet sand: <strong>cr__</strong></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">crab</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Moving in water using fins or limbs: <strong>sw__</strong></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">swim</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Action Verbs in Nature</h3>\n                  <p class=\"ws-instruction\">Identify the action verb (movement word) in each sentence and write it down.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. The brown dog swims in the deep river.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">swims</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. A heavy rock rolls down the muddy hill.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">rolls</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Matteo reads a science book about habitats.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">reads</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Asking Questions (Interrogatives)</h3>\n                  <p class=\"ws-instruction\">Rearrange the words to build a correct interrogative sentence. Don't forget capital letters and question marks!</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. frog / where / the / does / live</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 100%;\"><span class=\"ws-answer\">Where does the frog live?</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. crab / what / eat / does / a</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 100%;\"><span class=\"ws-answer\">What does a crab eat?</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
