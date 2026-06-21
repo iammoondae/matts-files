@@ -1223,7 +1223,7 @@ window.WEEK1_DATA.english = {
   "slides": [
     {
       "title": "Welcome to the Language Safari!",
-      "text": "Hello, Explorer! This week we are going on a safari in our own neighborhood. We will learn to spot words that end in double consonants, point to cool things around us, and read stories about local adventures.",
+      "text": "Hello, Explorer! Welcome to English Week 1!\nThis week, we are going on an exciting language safari.\nWe will explore our neighborhood to spot word patterns.\nWe will learn about words that end in double consonants.\nWe will also learn how to point to things using pronouns.\nFinally, we will read stories about local adventures.\nLet's keep our eyes open and observe closely.\nAre you ready to start this learning adventure?",
       "examples": [
         {
           "title": "Weekly Goal",
@@ -1233,7 +1233,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Spotting Ending Sounds (CVCC)",
-      "text": "Listen closely: h-a-n-d. Hear how the 'n' and 'd' blend together at the end? These are CVCC words: Consonant-Vowel-Consonant-Consonant. Let's find them!",
+      "text": "Look at your hand. Let's say it slowly: h-a-n-d.\nHear how the letters 'n' and 'd' blend at the end?\nThis is a CVCC word: Consonant-Vowel-Consonant-Consonant.\nIt ends with two consonants that make a blended sound.\nWe call these ending consonant blends in phonics.\nThey are very common in the words we use every day.\nLet's learn how to spot and spell them correctly.\nWe will search for CVCC words in our environment today!",
       "examples": [
         {
           "title": "Word Pattern",
@@ -1243,7 +1243,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Phonics Hunt: In the Tent",
-      "text": "Let's pitch a green tent! Look at the word 'tent'. It ends with the blend 'nt'. Can you hear it? Let's say 'tent' three times!",
+      "text": "Imagine we are camping under the dark night sky.\nWe set up a strong green tent on the ground.\nLook at the word 'tent'. It ends with 'nt'.\nThe letters 'n' and 't' blend together smoothly.\nLet's practice saying the word 'tent' three times.\nFeel the blend of 'n' and 't' on your tongue.\nWe spell it as t - e - n - t.\nIt is a perfect example of a CVCC word!",
       "examples": [
         {
           "title": "Spelling",
@@ -1253,7 +1253,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Phonics Hunt: Under the Lamp",
-      "text": "When it gets dark, we turn on the brass lamp. 'Lamp' ends with the blend 'mp'. What does a lamp help us observe at night?",
+      "text": "When the sun sets, the room becomes very dark.\nWe turn on the brass lamp sitting on our desk.\nLook at the word 'lamp'. It ends with 'mp'.\nThe letters 'm' and 'p' blend at the very end.\nWhat does a lamp help us observe at night?\nIt shines a bright light on our notebook pages.\nWe spell it as l - a - m - p.\nCan you hear the 'mp' blend at the end?",
       "examples": [
         {
           "title": "Spelling",
@@ -1263,7 +1263,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Phonics Hunt: The Pink Flower",
-      "text": "In the garden, we spot a pink flower. 'Pink' ends with the blend 'nk'. Can you think of other pink things in nature?",
+      "text": "Let's take a walk in the green garden.\nWe observe a beautiful pink flower opening its petals.\nLook at the word 'pink'. It ends with 'nk'.\nThe letters 'n' and 'k' form a blended sound.\nHow many pink things can you see in your room?\nMaybe a pink toy, a pink pen, or a pink shirt.\nWe spell it as p - i - n - k.\nThe ending blend is 'nk'. Say it: pink!",
       "examples": [
         {
           "title": "Spelling",
@@ -1273,7 +1273,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Phonics Hunt: Keeping Active",
-      "text": "We bend our knees when we run. We wear a strong leather belt. 'Bend' and 'belt' have CVCC blends at the end too!",
+      "text": "To keep our bodies strong, we must stay active.\nWe bend our knees before we run in the park.\nWe wear a tight leather belt to hold our shorts.\nLook at 'bend' (ends in 'nd') and 'belt' (ends in 'lt').\nBoth of these words are CVCC spelling patterns.\nThey show how consonants pair up at the end.\nWe spell them as b-e-n-d and b-e-l-t.\nPractice writing these action words on your paper!",
       "examples": [
         {
           "title": "Spelling",
@@ -1283,7 +1283,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Phonics Hunt: In the Wind",
-      "text": "The cold wind blows through the trees. 'Wind' ends in 'nd'. We drink a warm glass of milk. 'Milk' ends in 'lk'. Look how common these blends are!",
+      "text": "Listen to the wind blowing through the bamboo trees.\nThe word 'wind' ends with the blend 'nd'.\nAfter running in the wind, we feel very thirsty.\nWe drink a cold glass of milk to get energy.\nThe word 'milk' ends with the blend 'lk'.\nBoth 'wind' and 'milk' are common CVCC words.\nWe spell them as w-i-n-d and m-i-l-k.\nRead these words aloud to hear their ending sounds!",
       "examples": [
         {
           "title": "Spelling",
@@ -1293,7 +1293,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Phonics Hunt: Active Play",
-      "text": "We write at our wooden desk. We go on an insect hunt. 'Desk' ends in 'sk' and 'hunt' ends in 'nt'. Let's spell them on paper!",
+      "text": "We sit at our wooden desk to write observations.\nThe word 'desk' ends with the blend 'sk'.\nWe go on an insect hunt in the garden grass.\nThe word 'hunt' ends with the blend 'nt'.\nBoth 'desk' and 'hunt' help us talk about play.\nThey follow the CVCC consonant blending pattern.\nWe spell them as d-e-s-k and h-u-n-t.\nCan you spell them without looking at the screen?",
       "examples": [
         {
           "title": "Spelling",
@@ -1303,7 +1303,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Grammar: Pointing to Things",
-      "text": "When we describe what we see, we point using words. We use 'this' and 'these' for things near us. We use 'that' and 'those' for things far away!",
+      "text": "When we observe nature, we need to point to things.\nWe use special words called demonstrative pronouns.\nThese pronouns tell us if an object is near or far.\nThey also tell us if there is one object or many.\nThe four pronouns are: this, that, these, and those.\nThey help make our descriptions clear and specific.\nLet's learn how to use them like real scientists.\nWe will practice pointing to objects in our room!",
       "examples": [
         {
           "title": "Focus Pronouns",
@@ -1313,7 +1313,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Near Us: This and These",
-      "text": "Look at your hand! You can say: 'This is my hand.' (singular) or 'These are my fingers.' (plural) because they are close to you.",
+      "text": "Look at the pencil you are holding in your hand.\nYou can say: 'This is my pencil.' (one object).\nNow look at the fingers on your own hand.\nYou can say: 'These are my fingers.' (many objects).\nWe use 'this' for a single object near us.\nWe use 'these' for multiple objects close to us.\nBoth words show that the objects are within reach.\nTry touching a book and saying: 'This is my book.'",
       "examples": [
         {
           "title": "Near Examples",
@@ -1323,7 +1323,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Far From Us: That and Those",
-      "text": "Look out the window! You can say: 'That is a bird on the branch.' (singular) or 'Those are clouds in the sky.' (plural) because they are far away.",
+      "text": "Look out the window at the distant sky.\nYou see a bird and say: 'That is a bird.' (one far).\nYou see clouds and say: 'Those are clouds.' (many far).\nWe use 'that' for a single object far away.\nWe use 'those' for multiple objects far away.\nThese words show that the objects are out of reach.\nPoint to a distant tree and say: 'That is a tree.'\nPoint to stars and say: 'Those are stars.'",
       "examples": [
         {
           "title": "Far Examples",
@@ -1333,7 +1333,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Sentence Engine: Declarative Sentences",
-      "text": "A telling sentence is like a small train. It makes a statement and ends with a period. It has a Subject (who or what) and a Predicate (what they do).",
+      "text": "A telling sentence is like a small train.\nIt makes a statement to tell a fact or observation.\nWe call this a declarative sentence in grammar.\nIt must always start with a capital letter.\nIt must always end with a period punctuation mark.\nIt has a subject (who or what the sentence is about).\nIt has a predicate (what the subject is or does).\nLet's build a declarative sentence together!",
       "examples": [
         {
           "title": "Rule",
@@ -1343,7 +1343,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Declarative: Spotting the Parts",
-      "text": "In the sentence: 'Matteo rides a calesa.' 'Matteo' is the Subject (who). 'rides a calesa' is the Predicate (what he does).",
+      "text": "Let's look at: 'Matteo rides a calesa.'\n'Matteo' is the subject because he is the person.\n'rides a calesa' is the predicate (the action).\nTogether, they tell us a complete factual statement.\nNotice the capital 'M' at the beginning of the sentence.\nNotice the period at the end of the sentence.\nWithout a subject and predicate, a sentence is incomplete.\nAlways check both parts when you write in your journal!",
       "examples": [
         {
           "title": "Subject",
@@ -1357,7 +1357,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Story Time: The Calesa Ride",
-      "text": "Let's read a short story: 'Matteo sits inside a wooden calesa. The horse walks down the street. Matteo smiles at the colorful houses.'",
+      "text": "Let's read a short story about Matteo's day:\n'Matteo sits inside a wooden calesa on the street.\nThe fast horse walks down the paved town road.\nMatteo smiles at the colorful houses along the way.\nHe observes the busy community starting their morning.'\nThis story is made of declarative sentences.\nThey tell us exactly what Matteo does and sees.\nRead it aloud to practice your reading flow!",
       "examples": [
         {
           "title": "Reading Task",
@@ -1367,7 +1367,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Characters: Who is in the Story?",
-      "text": "The characters are the people or animals in a story. In our calesa story, the characters are Matteo and the horse. Who is your favorite character?",
+      "text": "Every story has characters that make it interesting.\nCharacters are the people, animals, or creatures.\nThey perform actions and speak words in the plot.\nIn our story, the characters are Matteo and the horse.\nUnderstanding characters helps us connect with the story.\nWe can think about how they feel and what they want.\nWho is your favorite character in the calesa story?\nWrite down their names on your paper!",
       "examples": [
         {
           "title": "Key Concept",
@@ -1377,7 +1377,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Setting: Where and When?",
-      "text": "The setting is where and when the story takes place. Matteo's ride is happening on a sunny day in a historic town street.",
+      "text": "The setting is where and when the story takes place.\nIt provides the background environment for the characters.\nIn our story, the setting is a historic town street.\nThe time of the story is a sunny morning.\nKnowing the setting helps us picture the events.\nIt is like looking at a photograph of the scene.\nWhere does your favorite daily activity take place?\nThat place is the setting of your own daily story!",
       "examples": [
         {
           "title": "Key Concept",
@@ -1387,7 +1387,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Plot: What Happens?",
-      "text": "The plot is the sequence of events. First, Matteo gets in. Next, the horse walks. Then, Matteo sees the houses. It's a happy journey!",
+      "text": "The plot is the sequence of events in a story.\nIt tells us what happens first, next, and last.\nFirst, Matteo gets inside the wooden calesa.\nNext, the horse walks down the paved town street.\nFinally, Matteo smiles at the colorful houses.\nA clear plot makes stories easy to understand.\nIt helps us follow the character's journey.\nCan you retell the plot of Matteo's ride in order?",
       "examples": [
         {
           "title": "Key Concept",
@@ -1397,7 +1397,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Observing Local Transport",
-      "text": "In our community, we observe unique transport. A calesa is a horse-drawn carriage on land. A banca is a wooden outrigger boat on water.",
+      "text": "In our local community, we observe unique transport.\nA calesa is a carriage drawn by a horse on land.\nIt has two large wheels and a wooden passenger cabin.\nA banca is a small outrigger boat used on water.\nIt helps fishermen travel across rivers and seas.\nBoth transport types are important to our heritage.\nThey are perfect topics for our declarative sentences.\nLet's write a sentence about a banca today!",
       "examples": [
         {
           "title": "Land Transport",
@@ -1411,7 +1411,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Nature Connections: The Wet Sand",
-      "text": "At the riverbank, we observe wet sand. Let's combine our words: 'This sand is wet.' (Declarative sentence). 'Sand' is a CVCC word!",
+      "text": "Let's walk down to the riverbank to explore.\nWe observe wet sand near the flowing water.\nLet's write: 'This sand is wet and cold.'\n'Sand' is a CVCC spelling word ending in 'nd'.\n'This' points to the sand right under our feet.\nThis sentence is a telling (declarative) sentence.\nIt starts with a capital letter and ends with a period.\nWe are using English to describe our science observations!",
       "examples": [
         {
           "title": "Observation",
@@ -1421,7 +1421,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Science Connection: The Pink Fish",
-      "text": "In the water, we watch a pink fish swim. 'That is a pink fish.' (Declarative sentence pointing far). 'Pink' is our CVCC focus!",
+      "text": "Look at the clear water in the stream.\nWe point to a swimming fish: 'That is a pink fish.'\n'Pink' is a CVCC word ending in the blend 'nk'.\n'That' points to the fish swimming far from us.\nThis is a factual observation about the natural world.\nIt uses our senses to collect details about animals.\nAlways look closely at the color of fish scales.\nWhat other scale colors can you observe in the water?",
       "examples": [
         {
           "title": "Observation",
@@ -1431,7 +1431,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Guided Practice: Spotting CVCC Words",
-      "text": "Can you spot the CVCC word in: 'The child sat at the wooden desk'? Yes, it is 'desk'!",
+      "text": "Let's play a game to spot CVCC words.\nRead this: 'The child sat at the wooden desk.'\nWhich word ends with a double consonant blend?\nYes, the word is 'desk'! It ends with 'sk'.\nThe other words do not follow the CVCC pattern.\nSpelling 'desk' correctly requires the letters d-e-s-k.\nCan you find another CVCC word in your classroom?\nLook at the lamp or the window frame!",
       "examples": [
         {
           "title": "Check",
@@ -1441,7 +1441,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Guided Practice: Near or Far?",
-      "text": "If you are holding a book, do you say 'This is my book' or 'That is my book'? Since you are holding it, use 'This'!",
+      "text": "Let's practice choosing the correct pronoun.\nIf you are holding a flower, what do you say?\n'A. This is a flower.' or 'B. That is a flower.'?\nSince the flower is in your hand, choose A!\nIf a bird is high on a tree branch, you say:\n'That is a bird on the branch.'\nUse 'this' for near, and 'that' for far away.\nIt is as simple as measuring distance with your eyes!",
       "examples": [
         {
           "title": "Rule of Thumb",
@@ -1451,7 +1451,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Guided Practice: Capital and Period",
-      "text": "Look at: 'the banca floats in the river' Is it correct? No! It needs a capital 'T' at the start and a period '.' at the end.",
+      "text": "Let's check the rules for telling sentences.\nLook at: 'the banca floats in the river'\nWhat is missing from this declarative sentence?\nIt must start with a capital 'T' for 'The'.\nIt must end with a period at the end of 'river'.\nLet's write it correctly: 'The banca floats in the river.'\nNow it has a subject and a predicate.\nIt is a complete and correct sentence!",
       "examples": [
         {
           "title": "Corrected",
@@ -1461,7 +1461,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Common Error: Mixing Near and Far",
-      "text": "Don't use 'this' for things far away. If the clouds are up in the sky, say 'Those are clouds', not 'These are clouds'!",
+      "text": "A common mistake is using 'this' for far objects.\nIf a star is shining in the sky, do not say:\n'This is a bright star.' (It is too far to touch!).\nInstead, say: 'That is a bright star.'\nIf the books are far on the shelf, do not say:\n'These are my books.' (They are out of reach!).\nInstead, say: 'Those are my books.'\nAlways check the distance before you choose the pronoun!",
       "examples": [
         {
           "title": "Correction",
@@ -1471,7 +1471,7 @@ window.WEEK1_DATA.english = {
     },
     {
       "title": "Summary of Week 1",
-      "text": "Excellent job, Language Explorer! You learned about CVCC word blends, demonstrative pronouns, and declarative sentences. Now you are ready for the quiz!",
+      "text": "Congratulations! You completed all the slides for Week 1.\nLet's review the main language tools we mastered.\nWe learned to decode CVCC words like tent, lamp, and desk.\nWe learned to point using this, that, these, and those.\nWe learned to write declarative sentences with periods.\nWe learned to identify story characters, settings, and plots.\nWe connected our English lessons to science observations.\nYou are now ready to take the quiz and challenges!",
       "examples": [
         {
           "title": "Vocabulary",
@@ -5297,7 +5297,7 @@ window.WEEK1_ADVANCED_DATA.english = {
   "slides": [
     {
       "title": "Welcome to the Language Safari!",
-      "text": "Hello, Explorer! This week we are going on a safari in our own neighborhood. We will learn to spot words that end in double consonants, point to cool things around us, and read stories about local adventures.",
+      "text": "Hello, Explorer! Welcome to English Week 1!\nThis week, we are going on an exciting language safari.\nWe will explore our neighborhood to spot word patterns.\nWe will learn about words that end in double consonants.\nWe will also learn how to point to things using pronouns.\nFinally, we will read stories about local adventures.\nLet's keep our eyes open and observe closely.\nAre you ready to start this learning adventure?",
       "examples": [
         {
           "title": "Weekly Goal",
@@ -5307,7 +5307,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Spotting Ending Sounds (CVCC)",
-      "text": "Listen closely: h-a-n-d. Hear how the 'n' and 'd' blend together at the end? These are CVCC words: Consonant-Vowel-Consonant-Consonant. Let's find them!",
+      "text": "Look at your hand. Let's say it slowly: h-a-n-d.\nHear how the letters 'n' and 'd' blend at the end?\nThis is a CVCC word: Consonant-Vowel-Consonant-Consonant.\nIt ends with two consonants that make a blended sound.\nWe call these ending consonant blends in phonics.\nThey are very common in the words we use every day.\nLet's learn how to spot and spell them correctly.\nWe will search for CVCC words in our environment today!",
       "examples": [
         {
           "title": "Word Pattern",
@@ -5317,7 +5317,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Phonics Hunt: In the Tent",
-      "text": "Let's pitch a green tent! Look at the word 'tent'. It ends with the blend 'nt'. Can you hear it? Let's say 'tent' three times!",
+      "text": "Imagine we are camping under the dark night sky.\nWe set up a strong green tent on the ground.\nLook at the word 'tent'. It ends with 'nt'.\nThe letters 'n' and 't' blend together smoothly.\nLet's practice saying the word 'tent' three times.\nFeel the blend of 'n' and 't' on your tongue.\nWe spell it as t - e - n - t.\nIt is a perfect example of a CVCC word!",
       "examples": [
         {
           "title": "Spelling",
@@ -5327,7 +5327,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Phonics Hunt: Under the Lamp",
-      "text": "When it gets dark, we turn on the brass lamp. 'Lamp' ends with the blend 'mp'. What does a lamp help us observe at night?",
+      "text": "When the sun sets, the room becomes very dark.\nWe turn on the brass lamp sitting on our desk.\nLook at the word 'lamp'. It ends with 'mp'.\nThe letters 'm' and 'p' blend at the very end.\nWhat does a lamp help us observe at night?\nIt shines a bright light on our notebook pages.\nWe spell it as l - a - m - p.\nCan you hear the 'mp' blend at the end?",
       "examples": [
         {
           "title": "Spelling",
@@ -5337,7 +5337,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Phonics Hunt: The Pink Flower",
-      "text": "In the garden, we spot a pink flower. 'Pink' ends with the blend 'nk'. Can you think of other pink things in nature?",
+      "text": "Let's take a walk in the green garden.\nWe observe a beautiful pink flower opening its petals.\nLook at the word 'pink'. It ends with 'nk'.\nThe letters 'n' and 'k' form a blended sound.\nHow many pink things can you see in your room?\nMaybe a pink toy, a pink pen, or a pink shirt.\nWe spell it as p - i - n - k.\nThe ending blend is 'nk'. Say it: pink!",
       "examples": [
         {
           "title": "Spelling",
@@ -5347,7 +5347,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Phonics Hunt: Keeping Active",
-      "text": "We bend our knees when we run. We wear a strong leather belt. 'Bend' and 'belt' have CVCC blends at the end too!",
+      "text": "To keep our bodies strong, we must stay active.\nWe bend our knees before we run in the park.\nWe wear a tight leather belt to hold our shorts.\nLook at 'bend' (ends in 'nd') and 'belt' (ends in 'lt').\nBoth of these words are CVCC spelling patterns.\nThey show how consonants pair up at the end.\nWe spell them as b-e-n-d and b-e-l-t.\nPractice writing these action words on your paper!",
       "examples": [
         {
           "title": "Spelling",
@@ -5357,7 +5357,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Phonics Hunt: In the Wind",
-      "text": "The cold wind blows through the trees. 'Wind' ends in 'nd'. We drink a warm glass of milk. 'Milk' ends in 'lk'. Look how common these blends are!",
+      "text": "Listen to the wind blowing through the bamboo trees.\nThe word 'wind' ends with the blend 'nd'.\nAfter running in the wind, we feel very thirsty.\nWe drink a cold glass of milk to get energy.\nThe word 'milk' ends with the blend 'lk'.\nBoth 'wind' and 'milk' are common CVCC words.\nWe spell them as w-i-n-d and m-i-l-k.\nRead these words aloud to hear their ending sounds!",
       "examples": [
         {
           "title": "Spelling",
@@ -5367,7 +5367,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Phonics Hunt: Active Play",
-      "text": "We write at our wooden desk. We go on an insect hunt. 'Desk' ends in 'sk' and 'hunt' ends in 'nt'. Let's spell them on paper!",
+      "text": "We sit at our wooden desk to write observations.\nThe word 'desk' ends with the blend 'sk'.\nWe go on an insect hunt in the garden grass.\nThe word 'hunt' ends with the blend 'nt'.\nBoth 'desk' and 'hunt' help us talk about play.\nThey follow the CVCC consonant blending pattern.\nWe spell them as d-e-s-k and h-u-n-t.\nCan you spell them without looking at the screen?",
       "examples": [
         {
           "title": "Spelling",
@@ -5377,7 +5377,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Grammar: Pointing to Things",
-      "text": "When we describe what we see, we point using words. We use 'this' and 'these' for things near us. We use 'that' and 'those' for things far away!",
+      "text": "When we observe nature, we need to point to things.\nWe use special words called demonstrative pronouns.\nThese pronouns tell us if an object is near or far.\nThey also tell us if there is one object or many.\nThe four pronouns are: this, that, these, and those.\nThey help make our descriptions clear and specific.\nLet's learn how to use them like real scientists.\nWe will practice pointing to objects in our room!",
       "examples": [
         {
           "title": "Focus Pronouns",
@@ -5387,7 +5387,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Near Us: This and These",
-      "text": "Look at your hand! You can say: 'This is my hand.' (singular) or 'These are my fingers.' (plural) because they are close to you.",
+      "text": "Look at the pencil you are holding in your hand.\nYou can say: 'This is my pencil.' (one object).\nNow look at the fingers on your own hand.\nYou can say: 'These are my fingers.' (many objects).\nWe use 'this' for a single object near us.\nWe use 'these' for multiple objects close to us.\nBoth words show that the objects are within reach.\nTry touching a book and saying: 'This is my book.'",
       "examples": [
         {
           "title": "Near Examples",
@@ -5397,7 +5397,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Far From Us: That and Those",
-      "text": "Look out the window! You can say: 'That is a bird on the branch.' (singular) or 'Those are clouds in the sky.' (plural) because they are far away.",
+      "text": "Look out the window at the distant sky.\nYou see a bird and say: 'That is a bird.' (one far).\nYou see clouds and say: 'Those are clouds.' (many far).\nWe use 'that' for a single object far away.\nWe use 'those' for multiple objects far away.\nThese words show that the objects are out of reach.\nPoint to a distant tree and say: 'That is a tree.'\nPoint to stars and say: 'Those are stars.'",
       "examples": [
         {
           "title": "Far Examples",
@@ -5407,7 +5407,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Sentence Engine: Declarative Sentences",
-      "text": "A telling sentence is like a small train. It makes a statement and ends with a period. It has a Subject (who or what) and a Predicate (what they do).",
+      "text": "A telling sentence is like a small train.\nIt makes a statement to tell a fact or observation.\nWe call this a declarative sentence in grammar.\nIt must always start with a capital letter.\nIt must always end with a period punctuation mark.\nIt has a subject (who or what the sentence is about).\nIt has a predicate (what the subject is or does).\nLet's build a declarative sentence together!",
       "examples": [
         {
           "title": "Rule",
@@ -5417,7 +5417,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Declarative: Spotting the Parts",
-      "text": "In the sentence: 'Matteo rides a calesa.' 'Matteo' is the Subject (who). 'rides a calesa' is the Predicate (what he does).",
+      "text": "Let's look at: 'Matteo rides a calesa.'\n'Matteo' is the subject because he is the person.\n'rides a calesa' is the predicate (the action).\nTogether, they tell us a complete factual statement.\nNotice the capital 'M' at the beginning of the sentence.\nNotice the period at the end of the sentence.\nWithout a subject and predicate, a sentence is incomplete.\nAlways check both parts when you write in your journal!",
       "examples": [
         {
           "title": "Subject",
@@ -5431,7 +5431,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Story Time: The Calesa Ride",
-      "text": "Let's read a short story: 'Matteo sits inside a wooden calesa. The horse walks down the street. Matteo smiles at the colorful houses.'",
+      "text": "Let's read a short story about Matteo's day:\n'Matteo sits inside a wooden calesa on the street.\nThe fast horse walks down the paved town road.\nMatteo smiles at the colorful houses along the way.\nHe observes the busy community starting their morning.'\nThis story is made of declarative sentences.\nThey tell us exactly what Matteo does and sees.\nRead it aloud to practice your reading flow!",
       "examples": [
         {
           "title": "Reading Task",
@@ -5441,7 +5441,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Characters: Who is in the Story?",
-      "text": "The characters are the people or animals in a story. In our calesa story, the characters are Matteo and the horse. Who is your favorite character?",
+      "text": "Every story has characters that make it interesting.\nCharacters are the people, animals, or creatures.\nThey perform actions and speak words in the plot.\nIn our story, the characters are Matteo and the horse.\nUnderstanding characters helps us connect with the story.\nWe can think about how they feel and what they want.\nWho is your favorite character in the calesa story?\nWrite down their names on your paper!",
       "examples": [
         {
           "title": "Key Concept",
@@ -5451,7 +5451,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Setting: Where and When?",
-      "text": "The setting is where and when the story takes place. Matteo's ride is happening on a sunny day in a historic town street.",
+      "text": "The setting is where and when the story takes place.\nIt provides the background environment for the characters.\nIn our story, the setting is a historic town street.\nThe time of the story is a sunny morning.\nKnowing the setting helps us picture the events.\nIt is like looking at a photograph of the scene.\nWhere does your favorite daily activity take place?\nThat place is the setting of your own daily story!",
       "examples": [
         {
           "title": "Key Concept",
@@ -5461,7 +5461,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Plot: What Happens?",
-      "text": "The plot is the sequence of events. First, Matteo gets in. Next, the horse walks. Then, Matteo sees the houses. It's a happy journey!",
+      "text": "The plot is the sequence of events in a story.\nIt tells us what happens first, next, and last.\nFirst, Matteo gets inside the wooden calesa.\nNext, the horse walks down the paved town street.\nFinally, Matteo smiles at the colorful houses.\nA clear plot makes stories easy to understand.\nIt helps us follow the character's journey.\nCan you retell the plot of Matteo's ride in order?",
       "examples": [
         {
           "title": "Key Concept",
@@ -5471,7 +5471,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Observing Local Transport",
-      "text": "In our community, we observe unique transport. A calesa is a horse-drawn carriage on land. A banca is a wooden outrigger boat on water.",
+      "text": "In our local community, we observe unique transport.\nA calesa is a carriage drawn by a horse on land.\nIt has two large wheels and a wooden passenger cabin.\nA banca is a small outrigger boat used on water.\nIt helps fishermen travel across rivers and seas.\nBoth transport types are important to our heritage.\nThey are perfect topics for our declarative sentences.\nLet's write a sentence about a banca today!",
       "examples": [
         {
           "title": "Land Transport",
@@ -5485,7 +5485,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Nature Connections: The Wet Sand",
-      "text": "At the riverbank, we observe wet sand. Let's combine our words: 'This sand is wet.' (Declarative sentence). 'Sand' is a CVCC word!",
+      "text": "Let's walk down to the riverbank to explore.\nWe observe wet sand near the flowing water.\nLet's write: 'This sand is wet and cold.'\n'Sand' is a CVCC spelling word ending in 'nd'.\n'This' points to the sand right under our feet.\nThis sentence is a telling (declarative) sentence.\nIt starts with a capital letter and ends with a period.\nWe are using English to describe our science observations!",
       "examples": [
         {
           "title": "Observation",
@@ -5495,7 +5495,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Science Connection: The Pink Fish",
-      "text": "In the water, we watch a pink fish swim. 'That is a pink fish.' (Declarative sentence pointing far). 'Pink' is our CVCC focus!",
+      "text": "Look at the clear water in the stream.\nWe point to a swimming fish: 'That is a pink fish.'\n'Pink' is a CVCC word ending in the blend 'nk'.\n'That' points to the fish swimming far from us.\nThis is a factual observation about the natural world.\nIt uses our senses to collect details about animals.\nAlways look closely at the color of fish scales.\nWhat other scale colors can you observe in the water?",
       "examples": [
         {
           "title": "Observation",
@@ -5505,7 +5505,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Guided Practice: Spotting CVCC Words",
-      "text": "Can you spot the CVCC word in: 'The child sat at the wooden desk'? Yes, it is 'desk'!",
+      "text": "Let's play a game to spot CVCC words.\nRead this: 'The child sat at the wooden desk.'\nWhich word ends with a double consonant blend?\nYes, the word is 'desk'! It ends with 'sk'.\nThe other words do not follow the CVCC pattern.\nSpelling 'desk' correctly requires the letters d-e-s-k.\nCan you find another CVCC word in your classroom?\nLook at the lamp or the window frame!",
       "examples": [
         {
           "title": "Check",
@@ -5515,7 +5515,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Guided Practice: Near or Far?",
-      "text": "If you are holding a book, do you say 'This is my book' or 'That is my book'? Since you are holding it, use 'This'!",
+      "text": "Let's practice choosing the correct pronoun.\nIf you are holding a flower, what do you say?\n'A. This is a flower.' or 'B. That is a flower.'?\nSince the flower is in your hand, choose A!\nIf a bird is high on a tree branch, you say:\n'That is a bird on the branch.'\nUse 'this' for near, and 'that' for far away.\nIt is as simple as measuring distance with your eyes!",
       "examples": [
         {
           "title": "Rule of Thumb",
@@ -5525,7 +5525,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Guided Practice: Capital and Period",
-      "text": "Look at: 'the banca floats in the river' Is it correct? No! It needs a capital 'T' at the start and a period '.' at the end.",
+      "text": "Let's check the rules for telling sentences.\nLook at: 'the banca floats in the river'\nWhat is missing from this declarative sentence?\nIt must start with a capital 'T' for 'The'.\nIt must end with a period at the end of 'river'.\nLet's write it correctly: 'The banca floats in the river.'\nNow it has a subject and a predicate.\nIt is a complete and correct sentence!",
       "examples": [
         {
           "title": "Corrected",
@@ -5535,7 +5535,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Common Error: Mixing Near and Far",
-      "text": "Don't use 'this' for things far away. If the clouds are up in the sky, say 'Those are clouds', not 'These are clouds'!",
+      "text": "A common mistake is using 'this' for far objects.\nIf a star is shining in the sky, do not say:\n'This is a bright star.' (It is too far to touch!).\nInstead, say: 'That is a bright star.'\nIf the books are far on the shelf, do not say:\n'These are my books.' (They are out of reach!).\nInstead, say: 'Those are my books.'\nAlways check the distance before you choose the pronoun!",
       "examples": [
         {
           "title": "Correction",
@@ -5545,7 +5545,7 @@ window.WEEK1_ADVANCED_DATA.english = {
     },
     {
       "title": "Summary of Week 1",
-      "text": "Excellent job, Language Explorer! You learned about CVCC word blends, demonstrative pronouns, and declarative sentences. Now you are ready for the quiz!",
+      "text": "Congratulations! You completed all the slides for Week 1.\nLet's review the main language tools we mastered.\nWe learned to decode CVCC words like tent, lamp, and desk.\nWe learned to point using this, that, these, and those.\nWe learned to write declarative sentences with periods.\nWe learned to identify story characters, settings, and plots.\nWe connected our English lessons to science observations.\nYou are now ready to take the quiz and challenges!",
       "examples": [
         {
           "title": "Vocabulary",

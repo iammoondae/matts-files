@@ -1223,7 +1223,7 @@ window.WEEK3_DATA.english = {
   "slides": [
     {
       "title": "Welcome to the Lab of Discovery!",
-      "text": "Hello, Researcher! This week we are exploring word patterns with long vowel sounds, learning how to give instructions or make requests, and understanding cause and effect in nature.",
+      "text": "Hello, Researcher! Welcome to English Week 3!\nThis week, we are exploring the lab of discovery.\nWe will learn word patterns with long vowel sounds.\nWe will understand how single consonants sit between vowels.\nWe will learn to give instructions or make requests.\nWe will also understand cause and effect in nature.\nLet's keep our notebooks ready to write observations.\nAre you ready to discover new language rules today?",
       "examples": [
         {
           "title": "Weekly Goal",
@@ -1233,7 +1233,7 @@ window.WEEK3_DATA.english = {
     },
     {
       "title": "Long Vowel Sounds (VCV)",
-      "text": "VCV stands for Vowel-Consonant-Vowel. In these words, a single consonant sits between two vowels, causing the first vowel to say its long name, like b-a-b-y or t-i-g-e-r.",
+      "text": "VCV stands for Vowel-Consonant-Vowel in phonics.\nIn these words, a single consonant sits between two vowels.\nThis single consonant makes the first vowel sound long.\nThink of the word b-a-b-y. The 'a' sound is long.\nIt says its own letter name: 'ay' instead of 'ah'.\nThis is different from short vowel words like cap.\nThe consonant is like a bridge between the vowels.\nLet's learn how to read and write VCV words!",
       "examples": [
         {
           "title": "Word Pattern",
@@ -1243,7 +1243,7 @@ window.WEEK3_DATA.english = {
     },
     {
       "title": "Phonics Hunt: The Striped Tiger",
-      "text": "In the forest, we study the striped tiger. In 'tiger', the consonant 'g' sits between 'i' and 'e', making the 'i' sound long. Say it: t-i-g-e-r!",
+      "text": "In the green forest, we study the striped tiger.\nIn the word 'tiger', 'g' is between 'i' and 'e'.\nThis consonant placement makes the 'i' sound long.\nWe pronounce the word slowly as t - i - g - e - r.\nTigers are strong carnivores in the wild habitat.\nListen to the long 'i' sound when you say it.\nIt is a perfect VCV word in our list.\nWrite down 'tiger' on your paper to practice spelling!",
       "examples": [
         {
           "title": "Spelling",
@@ -1253,7 +1253,7 @@ window.WEEK3_DATA.english = {
     },
     {
       "title": "Phonics Hunt: The Busy Spider",
-      "text": "On the garden wall, a busy spider spins a web. In 'spider', the consonant 'd' sits between 'i' and 'e'. Spiders help control insect pests!",
+      "text": "On the garden wall, a busy spider spins a web.\nIn the word 'spider', 'd' is between 'i' and 'e'.\nThe single consonant causes the 'i' to sound long.\nWe spell the word as s - p - i - d - e - r.\nSpiders help control insect pests in our gardens.\nThey are beneficial creatures to observe in nature.\nSay 'spider' to hear the long vowel sound clearly.\nIt is another useful VCV word for our notebook!",
       "examples": [
         {
           "title": "Spelling",
@@ -1263,7 +1263,7 @@ window.WEEK3_DATA.english = {
     },
     {
       "title": "Phonics Hunt: Beautiful Flowers",
-      "text": "We observe a colorful tulip opening in the sun. In 'tulip', the consonant 'l' is between 'u' and 'i'. A tulip is a beautiful plant organ.",
+      "text": "We observe a colorful tulip opening in the sun.\nIn the word 'tulip', 'l' is between 'u' and 'i'.\nThe first vowel 'u' makes a long 'yoo' sound.\nWe spell the word as t - u - l - i - p.\nA tulip is a beautiful plant that grows from bulbs.\nIt needs water, soil, and sunlight to survive.\nSay the word 'tulip' and listen to the 'u'.\nIt is a colorful VCV word in our garden!",
       "examples": [
         {
           "title": "Spelling",
@@ -1273,7 +1273,7 @@ window.WEEK3_DATA.english = {
     },
     {
       "title": "Phonics Hunt: Making Music",
-      "text": "We listen to soft music in the quiet room. In 'music', the 's' is between 'u' and 'i'. Sound vibrations travel through the air!",
+      "text": "We listen to soft music in the quiet classroom.\nIn the word 'music', 's' is between 'u' and 'i'.\nThe vowel 'u' has a long, beautiful 'yoo' sound.\nWe spell the word as m - u - s - i - c.\nMusic is made when objects vibrate to create sounds.\nThese sound waves travel through the air to our ears.\nListen to the long vowel sound in 'music' today.\nLet's sing a song to celebrate our learning!",
       "examples": [
         {
           "title": "Spelling",
@@ -1283,7 +1283,7 @@ window.WEEK3_DATA.english = {
     },
     {
       "title": "Phonics Hunt: Lab Notebooks",
-      "text": "We write observations on white paper. In 'paper', 'p' is between 'a' and 'e'. Always keep your paper neat!",
+      "text": "We write our science observations on white paper.\nIn the word 'paper', 'p' is between 'a' and 'e'.\nThe single consonant makes the 'a' sound long.\nWe spell the word as p - a - p - e - r.\nAlways keep your paper neat and well-labeled.\nIt helps scientists keep track of their discoveries.\nSay 'paper' and feel the sound on your lips.\nIt is an essential VCV word for our studies!",
       "examples": [
         {
           "title": "Spelling",
@@ -1293,27 +1293,27 @@ window.WEEK3_DATA.english = {
     },
     {
       "title": "Phonics Hunt: Silent and Open",
-      "text": "We remain silent to observe birds. We keep the window open for fresh air. 'Silent' and 'open' are VCV words!",
+      "text": "We remain silent to observe birds in the trees.\nIn 'silent', the consonant 'l' is between 'i' and 'e'.\nWe keep the window open for fresh air to flow.\nIn 'open', the consonant 'p' is between 'o' and 'e'.\nBoth 'silent' and 'open' follow the VCV pattern.\nThey help us describe states and actions in our lab.\nWe spell them as s-i-l-e-n-t and o-p-e-n.\nRead them aloud and check their long vowel sounds!",
       "examples": [
         {
           "title": "Spelling",
-          "content": "s - i - l - e - n - t  and  o - p - e - n"
+          "content": "s-i-l-e-n-t and o-p-e-n"
         }
       ]
     },
     {
       "title": "Phonics Hunt: Basic Tools",
-      "text": "We learn basic skills for experiments. We stay at a hotel during the science camp. 'Basic' and 'hotel' are VCV words!",
+      "text": "We learn basic skills for performing simple experiments.\nIn 'basic', the consonant 's' is between 'a' and 'i'.\nWe stay at a hotel during the science field trip.\nIn 'hotel', the consonant 't' is between 'o' and 'e'.\nBoth 'basic' and 'hotel' are VCV spelling patterns.\nThey help us talk about knowledge and places we visit.\nWe spell them as b-a-s-i-c and h-o-t-e-l.\nWrite these words in your vocabulary notebook today!",
       "examples": [
         {
           "title": "Spelling",
-          "content": "b - a - s - i - c  and  h - o - t - e - l"
+          "content": "b-a-s-i-c and h-o-t-e-l"
         }
       ]
     },
     {
       "title": "Phonics Hunt: The Growing Baby",
-      "text": "A baby chick hatches from an egg. In 'baby', 'b' is between 'a' and 'y'. A baby chick grows into a hen!",
+      "text": "A baby chick hatches from a warm brown egg.\nIn the word 'baby', 'b' is between 'a' and 'y'.\nThe letter 'y' acts as a vowel in this pattern.\nIt makes the first vowel 'a' say its long name.\nWe spell the word as b - a - b - y.\nThe baby chick grows rapidly by eating seeds.\nSay 'baby' to hear the long vowel sound.\nIt is a wonderful VCV word in our lesson!",
       "examples": [
         {
           "title": "Spelling",
@@ -1323,7 +1323,7 @@ window.WEEK3_DATA.english = {
     },
     {
       "title": "Grammar: Giving Directions (Imperatives)",
-      "text": "Imperative sentences give a command, a direct instruction, or make a polite request. They help us guide actions in the lab or classroom.",
+      "text": "Imperative sentences give commands or make requests.\nThey tell someone what action they should perform.\nWe use them to give instructions in simple activities.\nE.g., 'Put the seed in the loam soil.'\nImperatives are very important in scientific procedures.\nThey tell us how to use tools and materials.\nLet's learn how to construct imperative sentences.\nThey help us guide actions in the classroom!",
       "examples": [
         {
           "title": "Key Concept",
@@ -1333,7 +1333,7 @@ window.WEEK3_DATA.english = {
     },
     {
       "title": "Polite Requests vs Commands",
-      "text": "To make a request polite, we add the word 'please'. E.g., 'Please write your name.' A command is direct: 'Listen to the instructions.'",
+      "text": "An imperative sentence can be a command or request.\nA command is direct: 'Listen to the sound.'\nTo make it a polite request, we add 'please'.\nE.g., 'Please write your name on the paper.'\nUsing 'please' shows respect and good manners.\nBoth types tell the listener to perform an action.\nLet's practice changing commands into polite requests.\nIt makes our classroom communication very friendly!",
       "examples": [
         {
           "title": "Request",
@@ -1347,7 +1347,7 @@ window.WEEK3_DATA.english = {
     },
     {
       "title": "Punctuation in Imperatives",
-      "text": "Imperative sentences start with a capital letter and end with a period. If they show a strong command or emergency, they can end with an exclamation mark!",
+      "text": "Imperative sentences start with a capital letter.\nThey usually end with a period punctuation mark.\nE.g., 'Please open the lab window.'\nIf the command is very urgent, it ends with '!'.\nE.g., 'Stop!' or 'Be careful with the glass!'\nThe exclamation mark shows strong feeling or warning.\nAlways choose the correct ending mark for your steps.\nIt tells the reader how to react to your words!",
       "examples": [
         {
           "title": "Punctuation",
@@ -1357,7 +1357,7 @@ window.WEEK3_DATA.english = {
     },
     {
       "title": "Story Time: The Seed Experiment",
-      "text": "Let's read: 'Matteo places a seed in dry soil. He does not water it. The seed does not grow. Then, Matteo waters the seed and puts it in the sun. Soon, a green shoot appears!'",
+      "text": "Let's read a short story about Matteo's science task:\n'Matteo places a seed in dry soil.\nHe does not water it for many days.\nThe seed does not grow or sprout roots.\nThen, Matteo waters the seed and puts it in the sun. \nSoon, a green shoot appears above the loam soil!'\nThis story shows how actions lead to results.\nLet's learn about cause and effect relationships next!",
       "examples": [
         {
           "title": "Reading Task",
@@ -1367,7 +1367,7 @@ window.WEEK3_DATA.english = {
     },
     {
       "title": "Cause and Effect: What is It?",
-      "text": "Cause is *why* something happens. Effect is *what* happens. Identifying cause and effect helps scientists understand how things work!",
+      "text": "Cause and effect tells us why things happen. \nThe cause is the action that triggers an event.\nIt answers the question: 'Why did this happen?'\nThe effect is the result of that trigger action.\nIt answers the question: 'What happened as a result?'\nUnderstanding cause and effect is essential in science.\nIt helps us explain natural events we observe daily.\nLet's find the cause and effect in Matteo's task!",
       "examples": [
         {
           "title": "Trigger & Result",
@@ -1377,7 +1377,7 @@ window.WEEK3_DATA.english = {
     },
     {
       "title": "Cause and Effect: Dry Soil",
-      "text": "In our story, why did the seed not grow at first? The cause was *no water*. The effect was *no growth*. Plants need water to survive!",
+      "text": "Why did the seed not grow at the beginning?\nThe cause was that Matteo left the soil dry.\nThe effect was that the seed did not sprout.\nWithout water, the seed cannot begin its growth cycle.\nThis is a clear cause and effect relationship.\nThe cause (no water) led to the effect (no growth).\nIn your journal, write down this simple connection.\nIt explains the science behind Matteo's observation!",
       "examples": [
         {
           "title": "Cause",
@@ -1391,7 +1391,7 @@ window.WEEK3_DATA.english = {
     },
     {
       "title": "Cause and Effect: Sunlight and Water",
-      "text": "What happened when Matteo watered the seed? The cause was *watering and sunlight*. The effect was *a green shoot appeared*!",
+      "text": "What happened when Matteo watered the seed?\nThe cause was that Matteo added water and sunlight.\nThe effect was that a green shoot appeared.\nThe water and sun triggered the seed to grow.\nThis shows how positive actions have positive results.\nThe cause (water & sun) led to the effect (growth).\nAlways look for the trigger and the result.\nCan you identify a cause and effect in your garden?",
       "examples": [
         {
           "title": "Cause",
@@ -1405,7 +1405,7 @@ window.WEEK3_DATA.english = {
     },
     {
       "title": "Vocabulary: Finding Root Words",
-      "text": "A root word is the base word before we add extra letters. E.g., 'playing' comes from 'play'. Knowing the root word helps us find the meaning!",
+      "text": "A root word is the base of a word.\nIt is the word before we add extra endings.\nThese endings are suffixes like -ing, -er, or -ed.\nE.g., the word 'playing' has the root 'play'.\nThe word 'walked' has the root 'walk'.\nIdentifying root words helps us read longer words.\nIt also helps us find the core meaning easily.\nLet's practice finding root words in our list!",
       "examples": [
         {
           "title": "Base Word",
@@ -1415,7 +1415,7 @@ window.WEEK3_DATA.english = {
     },
     {
       "title": "Root Words in Action",
-      "text": "Look at 'grower' (root is 'grow'), 'silent' (root is 'silence'), 'opening' (root is 'open'). Can you spot the root of 'spiders'? It is 'spider'!",
+      "text": "Let's look at some words from our science stories.\nIn 'grower', the root word is 'grow'.\nIn 'opening', the root word is 'open'.\nIn 'spiders', the root word is 'spider'.\nIn 'silently', the root word is 'silent'.\nNotice how the base meaning remains the same.\nThe extra letters just change how we use it.\nCan you find the root word of 'music'? It is music!",
       "examples": [
         {
           "title": "Suffixes",
@@ -1425,7 +1425,7 @@ window.WEEK3_DATA.english = {
     },
     {
       "title": "Science Connection: Insect Observations",
-      "text": "When we study spiders, we observe their webs. Spiders are not insects; they have eight legs! Always watch them safely.",
+      "text": "When we study spiders, we observe their webs.\nA spider spins a web to catch flying insects.\nSpiders are not insects; they are arachnids.\nThey have eight legs and two main body parts.\nThe question 'Why does it spin a web?' is interrogative.\nThe answer is a cause and effect statement:\n'It spins a web to catch its food.'\nObserve a web closely next time you are outside!",
       "examples": [
         {
           "title": "Observation",
@@ -1435,7 +1435,7 @@ window.WEEK3_DATA.english = {
     },
     {
       "title": "Guided Practice: Spotting VCV",
-      "text": "Can you find the VCV word in: 'The striped tiger walks slowly'? Yes, it is 'tiger'!",
+      "text": "Let's play a game to spot VCV words.\nRead this: 'The striped tiger walks slowly.'\nWhich word follows the VCV spelling pattern?\nYes, the word is 'tiger'! It has 'g' between 'i' and 'e'.\nThe first vowel 'i' has a long sound.\nSpelling 'tiger' correctly requires the letters t-i-g-e-r.\nCan you write another VCV word on your paper?\nTry writing 'paper' or 'music' now!",
       "examples": [
         {
           "title": "Check",
@@ -1445,7 +1445,7 @@ window.WEEK3_DATA.english = {
     },
     {
       "title": "Guided Practice: Command or Request?",
-      "text": "Is 'Please pass the paper' a command or a request? It has 'please', so it is a polite request!",
+      "text": "Let's practice identifying imperative sentences.\nLook at: 'Please pass the clean paper.'\nIs this a command or a polite request?\nIt starts with 'Please', so it is a request!\nIf it were: 'Pass the clean paper.', it is a command.\nBoth sentences tell someone to do an action.\nBut the request is much more polite to use.\nAlways use polite requests with your friends!",
       "examples": [
         {
           "title": "Check",
@@ -1455,7 +1455,7 @@ window.WEEK3_DATA.english = {
     },
     {
       "title": "Guided Practice: Punctuation",
-      "text": "Which imperative sentence is punctuated correctly? 'A. stand in line' or 'B. Stand in line.' Yes, B is correct because it starts with a capital and ends with a period!",
+      "text": "Let's check the rules for imperative punctuation.\nWhich sentence is punctuated correctly today?\n'A. stand next to the big tiger' or\n'B. Stand next to the big tiger.'\nB is correct because it has a capital letter!\nIt also has a period at the end of 'tiger'.\nAlways check your capital letters and periods.\nThey make your instructions clear and easy to read!",
       "examples": [
         {
           "title": "Corrected",
@@ -1465,7 +1465,7 @@ window.WEEK3_DATA.english = {
     },
     {
       "title": "Common Error: Forgetting the Cause",
-      "text": "Do not confuse the cause with the effect. Remember: Cause is the trigger (watering), and Effect is the result (growth).",
+      "text": "A common mistake is reversing cause and effect.\nDo not say: 'The plant growth caused the watering.'\n(That does not make sense in science or logic!).\nInstead, say: 'The watering caused the plant growth.'\nThe cause must always be the reason or trigger.\nThe effect must always be the result or outcome.\nKeep the correct order in your mind when writing.\nIt helps you explain science observations clearly!",
       "examples": [
         {
           "title": "Incorrect order",
@@ -1479,7 +1479,7 @@ window.WEEK3_DATA.english = {
     },
     {
       "title": "Summary of Week 3",
-      "text": "Incredible progress, Scientist! You mastered VCV long vowels, imperative sentences, cause and effect, and root words. Let's take the weekly quiz!",
+      "text": "Congratulations! You completed all the slides for Week 3.\nLet's review the main language tools we mastered.\nWe learned to decode VCV words like tiger, spider, and paper.\nWe learned to write imperative commands and requests.\nWe learned to use correct capitalization and punctuation.\nWe learned to identify cause and effect in experiments.\nWe connected our English lessons to botanical observations.\nYou are now ready to take the quiz and challenges!",
       "examples": [
         {
           "title": "Vocabulary",
@@ -5303,7 +5303,7 @@ window.WEEK3_ADVANCED_DATA.english = {
   "slides": [
     {
       "title": "Welcome to the Lab of Discovery!",
-      "text": "Hello, Researcher! This week we are exploring word patterns with long vowel sounds, learning how to give instructions or make requests, and understanding cause and effect in nature.",
+      "text": "Hello, Researcher! Welcome to English Week 3!\nThis week, we are exploring the lab of discovery.\nWe will learn word patterns with long vowel sounds.\nWe will understand how single consonants sit between vowels.\nWe will learn to give instructions or make requests.\nWe will also understand cause and effect in nature.\nLet's keep our notebooks ready to write observations.\nAre you ready to discover new language rules today?",
       "examples": [
         {
           "title": "Weekly Goal",
@@ -5313,7 +5313,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Long Vowel Sounds (VCV)",
-      "text": "VCV stands for Vowel-Consonant-Vowel. In these words, a single consonant sits between two vowels, causing the first vowel to say its long name, like b-a-b-y or t-i-g-e-r.",
+      "text": "VCV stands for Vowel-Consonant-Vowel in phonics.\nIn these words, a single consonant sits between two vowels.\nThis single consonant makes the first vowel sound long.\nThink of the word b-a-b-y. The 'a' sound is long.\nIt says its own letter name: 'ay' instead of 'ah'.\nThis is different from short vowel words like cap.\nThe consonant is like a bridge between the vowels.\nLet's learn how to read and write VCV words!",
       "examples": [
         {
           "title": "Word Pattern",
@@ -5323,7 +5323,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Phonics Hunt: The Striped Tiger",
-      "text": "In the forest, we study the striped tiger. In 'tiger', the consonant 'g' sits between 'i' and 'e', making the 'i' sound long. Say it: t-i-g-e-r!",
+      "text": "In the green forest, we study the striped tiger.\nIn the word 'tiger', 'g' is between 'i' and 'e'.\nThis consonant placement makes the 'i' sound long.\nWe pronounce the word slowly as t - i - g - e - r.\nTigers are strong carnivores in the wild habitat.\nListen to the long 'i' sound when you say it.\nIt is a perfect VCV word in our list.\nWrite down 'tiger' on your paper to practice spelling!",
       "examples": [
         {
           "title": "Spelling",
@@ -5333,7 +5333,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Phonics Hunt: The Busy Spider",
-      "text": "On the garden wall, a busy spider spins a web. In 'spider', the consonant 'd' sits between 'i' and 'e'. Spiders help control insect pests!",
+      "text": "On the garden wall, a busy spider spins a web.\nIn the word 'spider', 'd' is between 'i' and 'e'.\nThe single consonant causes the 'i' to sound long.\nWe spell the word as s - p - i - d - e - r.\nSpiders help control insect pests in our gardens.\nThey are beneficial creatures to observe in nature.\nSay 'spider' to hear the long vowel sound clearly.\nIt is another useful VCV word for our notebook!",
       "examples": [
         {
           "title": "Spelling",
@@ -5343,7 +5343,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Phonics Hunt: Beautiful Flowers",
-      "text": "We observe a colorful tulip opening in the sun. In 'tulip', the consonant 'l' is between 'u' and 'i'. A tulip is a beautiful plant organ.",
+      "text": "We observe a colorful tulip opening in the sun.\nIn the word 'tulip', 'l' is between 'u' and 'i'.\nThe first vowel 'u' makes a long 'yoo' sound.\nWe spell the word as t - u - l - i - p.\nA tulip is a beautiful plant that grows from bulbs.\nIt needs water, soil, and sunlight to survive.\nSay the word 'tulip' and listen to the 'u'.\nIt is a colorful VCV word in our garden!",
       "examples": [
         {
           "title": "Spelling",
@@ -5353,7 +5353,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Phonics Hunt: Making Music",
-      "text": "We listen to soft music in the quiet room. In 'music', the 's' is between 'u' and 'i'. Sound vibrations travel through the air!",
+      "text": "We listen to soft music in the quiet classroom.\nIn the word 'music', 's' is between 'u' and 'i'.\nThe vowel 'u' has a long, beautiful 'yoo' sound.\nWe spell the word as m - u - s - i - c.\nMusic is made when objects vibrate to create sounds.\nThese sound waves travel through the air to our ears.\nListen to the long vowel sound in 'music' today.\nLet's sing a song to celebrate our learning!",
       "examples": [
         {
           "title": "Spelling",
@@ -5363,7 +5363,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Phonics Hunt: Lab Notebooks",
-      "text": "We write observations on white paper. In 'paper', 'p' is between 'a' and 'e'. Always keep your paper neat!",
+      "text": "We write our science observations on white paper.\nIn the word 'paper', 'p' is between 'a' and 'e'.\nThe single consonant makes the 'a' sound long.\nWe spell the word as p - a - p - e - r.\nAlways keep your paper neat and well-labeled.\nIt helps scientists keep track of their discoveries.\nSay 'paper' and feel the sound on your lips.\nIt is an essential VCV word for our studies!",
       "examples": [
         {
           "title": "Spelling",
@@ -5373,27 +5373,27 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Phonics Hunt: Silent and Open",
-      "text": "We remain silent to observe birds. We keep the window open for fresh air. 'Silent' and 'open' are VCV words!",
+      "text": "We remain silent to observe birds in the trees.\nIn 'silent', the consonant 'l' is between 'i' and 'e'.\nWe keep the window open for fresh air to flow.\nIn 'open', the consonant 'p' is between 'o' and 'e'.\nBoth 'silent' and 'open' follow the VCV pattern.\nThey help us describe states and actions in our lab.\nWe spell them as s-i-l-e-n-t and o-p-e-n.\nRead them aloud and check their long vowel sounds!",
       "examples": [
         {
           "title": "Spelling",
-          "content": "s - i - l - e - n - t  and  o - p - e - n"
+          "content": "s-i-l-e-n-t and o-p-e-n"
         }
       ]
     },
     {
       "title": "Phonics Hunt: Basic Tools",
-      "text": "We learn basic skills for experiments. We stay at a hotel during the science camp. 'Basic' and 'hotel' are VCV words!",
+      "text": "We learn basic skills for performing simple experiments.\nIn 'basic', the consonant 's' is between 'a' and 'i'.\nWe stay at a hotel during the science field trip.\nIn 'hotel', the consonant 't' is between 'o' and 'e'.\nBoth 'basic' and 'hotel' are VCV spelling patterns.\nThey help us talk about knowledge and places we visit.\nWe spell them as b-a-s-i-c and h-o-t-e-l.\nWrite these words in your vocabulary notebook today!",
       "examples": [
         {
           "title": "Spelling",
-          "content": "b - a - s - i - c  and  h - o - t - e - l"
+          "content": "b-a-s-i-c and h-o-t-e-l"
         }
       ]
     },
     {
       "title": "Phonics Hunt: The Growing Baby",
-      "text": "A baby chick hatches from an egg. In 'baby', 'b' is between 'a' and 'y'. A baby chick grows into a hen!",
+      "text": "A baby chick hatches from a warm brown egg.\nIn the word 'baby', 'b' is between 'a' and 'y'.\nThe letter 'y' acts as a vowel in this pattern.\nIt makes the first vowel 'a' say its long name.\nWe spell the word as b - a - b - y.\nThe baby chick grows rapidly by eating seeds.\nSay 'baby' to hear the long vowel sound.\nIt is a wonderful VCV word in our lesson!",
       "examples": [
         {
           "title": "Spelling",
@@ -5403,7 +5403,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Grammar: Giving Directions (Imperatives)",
-      "text": "Imperative sentences give a command, a direct instruction, or make a polite request. They help us guide actions in the lab or classroom.",
+      "text": "Imperative sentences give commands or make requests.\nThey tell someone what action they should perform.\nWe use them to give instructions in simple activities.\nE.g., 'Put the seed in the loam soil.'\nImperatives are very important in scientific procedures.\nThey tell us how to use tools and materials.\nLet's learn how to construct imperative sentences.\nThey help us guide actions in the classroom!",
       "examples": [
         {
           "title": "Key Concept",
@@ -5413,7 +5413,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Polite Requests vs Commands",
-      "text": "To make a request polite, we add the word 'please'. E.g., 'Please write your name.' A command is direct: 'Listen to the instructions.'",
+      "text": "An imperative sentence can be a command or request.\nA command is direct: 'Listen to the sound.'\nTo make it a polite request, we add 'please'.\nE.g., 'Please write your name on the paper.'\nUsing 'please' shows respect and good manners.\nBoth types tell the listener to perform an action.\nLet's practice changing commands into polite requests.\nIt makes our classroom communication very friendly!",
       "examples": [
         {
           "title": "Request",
@@ -5427,7 +5427,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Punctuation in Imperatives",
-      "text": "Imperative sentences start with a capital letter and end with a period. If they show a strong command or emergency, they can end with an exclamation mark!",
+      "text": "Imperative sentences start with a capital letter.\nThey usually end with a period punctuation mark.\nE.g., 'Please open the lab window.'\nIf the command is very urgent, it ends with '!'.\nE.g., 'Stop!' or 'Be careful with the glass!'\nThe exclamation mark shows strong feeling or warning.\nAlways choose the correct ending mark for your steps.\nIt tells the reader how to react to your words!",
       "examples": [
         {
           "title": "Punctuation",
@@ -5437,7 +5437,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Story Time: The Seed Experiment",
-      "text": "Let's read: 'Matteo places a seed in dry soil. He does not water it. The seed does not grow. Then, Matteo waters the seed and puts it in the sun. Soon, a green shoot appears!'",
+      "text": "Let's read a short story about Matteo's science task:\n'Matteo places a seed in dry soil.\nHe does not water it for many days.\nThe seed does not grow or sprout roots.\nThen, Matteo waters the seed and puts it in the sun. \nSoon, a green shoot appears above the loam soil!'\nThis story shows how actions lead to results.\nLet's learn about cause and effect relationships next!",
       "examples": [
         {
           "title": "Reading Task",
@@ -5447,7 +5447,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Cause and Effect: What is It?",
-      "text": "Cause is *why* something happens. Effect is *what* happens. Identifying cause and effect helps scientists understand how things work!",
+      "text": "Cause and effect tells us why things happen. \nThe cause is the action that triggers an event.\nIt answers the question: 'Why did this happen?'\nThe effect is the result of that trigger action.\nIt answers the question: 'What happened as a result?'\nUnderstanding cause and effect is essential in science.\nIt helps us explain natural events we observe daily.\nLet's find the cause and effect in Matteo's task!",
       "examples": [
         {
           "title": "Trigger & Result",
@@ -5457,7 +5457,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Cause and Effect: Dry Soil",
-      "text": "In our story, why did the seed not grow at first? The cause was *no water*. The effect was *no growth*. Plants need water to survive!",
+      "text": "Why did the seed not grow at the beginning?\nThe cause was that Matteo left the soil dry.\nThe effect was that the seed did not sprout.\nWithout water, the seed cannot begin its growth cycle.\nThis is a clear cause and effect relationship.\nThe cause (no water) led to the effect (no growth).\nIn your journal, write down this simple connection.\nIt explains the science behind Matteo's observation!",
       "examples": [
         {
           "title": "Cause",
@@ -5471,7 +5471,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Cause and Effect: Sunlight and Water",
-      "text": "What happened when Matteo watered the seed? The cause was *watering and sunlight*. The effect was *a green shoot appeared*!",
+      "text": "What happened when Matteo watered the seed?\nThe cause was that Matteo added water and sunlight.\nThe effect was that a green shoot appeared.\nThe water and sun triggered the seed to grow.\nThis shows how positive actions have positive results.\nThe cause (water & sun) led to the effect (growth).\nAlways look for the trigger and the result.\nCan you identify a cause and effect in your garden?",
       "examples": [
         {
           "title": "Cause",
@@ -5485,7 +5485,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Vocabulary: Finding Root Words",
-      "text": "A root word is the base word before we add extra letters. E.g., 'playing' comes from 'play'. Knowing the root word helps us find the meaning!",
+      "text": "A root word is the base of a word.\nIt is the word before we add extra endings.\nThese endings are suffixes like -ing, -er, or -ed.\nE.g., the word 'playing' has the root 'play'.\nThe word 'walked' has the root 'walk'.\nIdentifying root words helps us read longer words.\nIt also helps us find the core meaning easily.\nLet's practice finding root words in our list!",
       "examples": [
         {
           "title": "Base Word",
@@ -5495,7 +5495,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Root Words in Action",
-      "text": "Look at 'grower' (root is 'grow'), 'silent' (root is 'silence'), 'opening' (root is 'open'). Can you spot the root of 'spiders'? It is 'spider'!",
+      "text": "Let's look at some words from our science stories.\nIn 'grower', the root word is 'grow'.\nIn 'opening', the root word is 'open'.\nIn 'spiders', the root word is 'spider'.\nIn 'silently', the root word is 'silent'.\nNotice how the base meaning remains the same.\nThe extra letters just change how we use it.\nCan you find the root word of 'music'? It is music!",
       "examples": [
         {
           "title": "Suffixes",
@@ -5505,7 +5505,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Science Connection: Insect Observations",
-      "text": "When we study spiders, we observe their webs. Spiders are not insects; they have eight legs! Always watch them safely.",
+      "text": "When we study spiders, we observe their webs.\nA spider spins a web to catch flying insects.\nSpiders are not insects; they are arachnids.\nThey have eight legs and two main body parts.\nThe question 'Why does it spin a web?' is interrogative.\nThe answer is a cause and effect statement:\n'It spins a web to catch its food.'\nObserve a web closely next time you are outside!",
       "examples": [
         {
           "title": "Observation",
@@ -5515,7 +5515,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Guided Practice: Spotting VCV",
-      "text": "Can you find the VCV word in: 'The striped tiger walks slowly'? Yes, it is 'tiger'!",
+      "text": "Let's play a game to spot VCV words.\nRead this: 'The striped tiger walks slowly.'\nWhich word follows the VCV spelling pattern?\nYes, the word is 'tiger'! It has 'g' between 'i' and 'e'.\nThe first vowel 'i' has a long sound.\nSpelling 'tiger' correctly requires the letters t-i-g-e-r.\nCan you write another VCV word on your paper?\nTry writing 'paper' or 'music' now!",
       "examples": [
         {
           "title": "Check",
@@ -5525,7 +5525,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Guided Practice: Command or Request?",
-      "text": "Is 'Please pass the paper' a command or a request? It has 'please', so it is a polite request!",
+      "text": "Let's practice identifying imperative sentences.\nLook at: 'Please pass the clean paper.'\nIs this a command or a polite request?\nIt starts with 'Please', so it is a request!\nIf it were: 'Pass the clean paper.', it is a command.\nBoth sentences tell someone to do an action.\nBut the request is much more polite to use.\nAlways use polite requests with your friends!",
       "examples": [
         {
           "title": "Check",
@@ -5535,7 +5535,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Guided Practice: Punctuation",
-      "text": "Which imperative sentence is punctuated correctly? 'A. stand in line' or 'B. Stand in line.' Yes, B is correct because it starts with a capital and ends with a period!",
+      "text": "Let's check the rules for imperative punctuation.\nWhich sentence is punctuated correctly today?\n'A. stand next to the big tiger' or\n'B. Stand next to the big tiger.'\nB is correct because it has a capital letter!\nIt also has a period at the end of 'tiger'.\nAlways check your capital letters and periods.\nThey make your instructions clear and easy to read!",
       "examples": [
         {
           "title": "Corrected",
@@ -5545,7 +5545,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Common Error: Forgetting the Cause",
-      "text": "Do not confuse the cause with the effect. Remember: Cause is the trigger (watering), and Effect is the result (growth).",
+      "text": "A common mistake is reversing cause and effect.\nDo not say: 'The plant growth caused the watering.'\n(That does not make sense in science or logic!).\nInstead, say: 'The watering caused the plant growth.'\nThe cause must always be the reason or trigger.\nThe effect must always be the result or outcome.\nKeep the correct order in your mind when writing.\nIt helps you explain science observations clearly!",
       "examples": [
         {
           "title": "Incorrect order",
@@ -5559,7 +5559,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Summary of Week 3",
-      "text": "Incredible progress, Scientist! You mastered VCV long vowels, imperative sentences, cause and effect, and root words. Let's take the weekly quiz!",
+      "text": "Congratulations! You completed all the slides for Week 3.\nLet's review the main language tools we mastered.\nWe learned to decode VCV words like tiger, spider, and paper.\nWe learned to write imperative commands and requests.\nWe learned to use correct capitalization and punctuation.\nWe learned to identify cause and effect in experiments.\nWe connected our English lessons to botanical observations.\nYou are now ready to take the quiz and challenges!",
       "examples": [
         {
           "title": "Vocabulary",

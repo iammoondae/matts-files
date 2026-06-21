@@ -1223,7 +1223,7 @@ window.WEEK2_DATA.english = {
   "slides": [
     {
       "title": "Welcome to the Animal Kingdom!",
-      "text": "Hello, Explorer! This week we are diving into the world of action. We will learn about words that start with double consonants, action words, and how to ask questions like a scientist!",
+      "text": "Hello, Explorer! Welcome to English Week 2!\nThis week, we are diving into the world of action.\nWe will learn about words that start with double consonants.\nWe will understand action verbs and how they show movement.\nWe will ask questions like a scientist using question marks.\nWe will also learn to read character feelings and traits.\nLet's keep our eyes open and watch animals in action.\nAre you ready to explore the animal kingdom today?",
       "examples": [
         {
           "title": "Weekly Goal",
@@ -1233,7 +1233,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Starting Sounds (CCVC)",
-      "text": "CCVC words stand for Consonant-Consonant-Vowel-Consonant. They start with a blend of two consonant sounds, like f-r-o-g. Let's practice saying them together!",
+      "text": "CCVC words stand for Consonant-Consonant-Vowel-Consonant.\nThey start with a blend of two consonant sounds.\nThink of the word f-r-o-g. The 'f' and 'r' blend.\nWe say them together quickly: frog!\nCCVC words are different from CVCC words.\nThey have their consonant blends at the beginning.\nLet's practice saying beginning consonant blends today.\nThey help us name many interesting things in nature!",
       "examples": [
         {
           "title": "Word Pattern",
@@ -1243,7 +1243,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Phonics Hunt: The Green Frog",
-      "text": "In the wet pond, we observe a green frog. 'Frog' starts with the 'fr' blend. Watch how it leaps from leaf to leaf!",
+      "text": "In the wet pond, we observe a green frog.\nThe word 'frog' starts with the 'fr' blend.\nWe watch how it leaps from leaf to leaf.\nWe spell the word as f - r - o - g.\nListen to the beginning sound of the word 'frog'.\nThe letters 'f' and 'r' join to make 'fr'.\nIt is a wonderful CCVC word we see in ponds.\nLet's say 'frog' aloud and feel the blend!",
       "examples": [
         {
           "title": "Spelling",
@@ -1253,7 +1253,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Phonics Hunt: The Crawling Crab",
-      "text": "On the sandy beach, we spot a small crab crawling sideways. 'Crab' starts with the 'cr' blend. How many legs does a crab have?",
+      "text": "On the sandy beach, we spot a small crab.\nIt crawls sideways along the wet sand.\nThe word 'crab' starts with the 'cr' blend.\nWe spell the word as c - r - a - b.\nHow many legs does a crab use to crawl?\nCrabs are fascinating creatures in the shoreline habitat.\nSay 'crab' to hear the 'cr' starting sound.\nIt is another CCVC word in our nature list!",
       "examples": [
         {
           "title": "Spelling",
@@ -1263,7 +1263,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Phonics Hunt: In the Pond",
-      "text": "We watch a small fish swim in the water. We must not block the drain plug. 'Swim' and 'plug' start with CCVC blends!",
+      "text": "We watch a small fish swim in the water.\nThe word 'swim' starts with the blend 'sw'.\nWe must not block the drain plug in the sink.\nThe word 'plug' starts with the blend 'pl'.\nBoth 'swim' and 'plug' are CCVC spelling patterns.\nThey help us describe actions and useful objects.\nWe spell them as s-w-i-m and p-l-u-g.\nPractice writing these words in your notebook now!",
       "examples": [
         {
           "title": "Spelling",
@@ -1273,7 +1273,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Phonics Hunt: Music and Play",
-      "text": "Hear the beat of the parade drum! Red and blue flags wave in the wind. 'Drum' and 'flag' start with 'dr' and 'fl' blends!",
+      "text": "Hear the loud beat of the parade drum!\nThe word 'drum' starts with the blend 'dr'.\nRed and blue flags wave in the blowing wind.\nThe word 'flag' starts with the blend 'fl'.\nBoth 'drum' and 'flag' add color to our day.\nThey follow the CCVC word spelling structure.\nWe spell them as d-r-u-m and f-l-a-g.\nCan you hear the starting sounds of drum and flag?",
       "examples": [
         {
           "title": "Spelling",
@@ -1283,7 +1283,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Phonics Hunt: Safety First",
-      "text": "We see a stop sign on the road. We must not slip on the wet floor. 'Stop' and 'slip' start with 'st' and 'sl' blends!",
+      "text": "We see a red stop sign on the paved road.\nThe word 'stop' starts with the blend 'st'.\nWe must not slip on the wet bathroom floor.\nThe word 'slip' starts with the blend 'sl'.\nBoth 'stop' and 'slip' help keep us safe.\nThey are common CCVC words used in instructions.\nWe spell them as s-t-o-p and s-l-i-p.\nBe careful to say the starting consonants clearly!",
       "examples": [
         {
           "title": "Spelling",
@@ -1293,7 +1293,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Phonics Hunt: Flat Leaves",
-      "text": "The leaves of the water lily are flat. Be careful not to fall into a mud trap! 'Flat' and 'trap' start with 'fl' and 'tr' blends!",
+      "text": "The leaves of the water lily are green and flat.\nThe word 'flat' starts with the blend 'fl'.\nBe careful not to fall into a deep mud trap!\nThe word 'trap' starts with the blend 'tr'.\nBoth 'flat' and 'trap' describe physical things.\nThey follow the CCVC word pattern in phonics.\nWe spell them as f-l-a-t and t-r-a-p.\nLet's practice writing them on our paper today!",
       "examples": [
         {
           "title": "Spelling",
@@ -1303,7 +1303,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Grammar: Action Words (Verbs)",
-      "text": "Verbs are words that show what people, animals, or things do. They tell us about movement and life. Without verbs, nothing moves!",
+      "text": "Verbs are words that show action or movement.\nThey tell us what people, animals, or things do.\nWithout verbs, nothing in our stories would move!\nVerbs are the motor engines of our sentences.\nThey show actions like run, jump, sing, and play.\nIn science, we use verbs to describe natural events.\nE.g., 'The wind blows' or 'The water boils'.\nLet's find verbs in the sentences we read!",
       "examples": [
         {
           "title": "Key Concept",
@@ -1313,7 +1313,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Observing Animals in Action",
-      "text": "Let's watch nature! 'The frog leaps.' 'The bird flies.' 'The fish swims.' The words 'leaps', 'flies', and 'swims' are verbs!",
+      "text": "Let's watch animals in their natural habitats.\nThe green frog leaps across the pond.\nThe blue bird flies high in the clear sky.\nThe gold fish swims in the cool stream.\nThe action verbs are leaps, flies, and swims.\nThey describe the movements of living things.\nUsing specific verbs makes our observations clear.\nWhat actions can you observe a dog performing?",
       "examples": [
         {
           "title": "Action",
@@ -1323,7 +1323,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Verbs in Our Daily Life",
-      "text": "We use verbs to talk about what we do: 'Matteo reads a story book.' 'The children play at school.' 'Reads' and 'play' are the verbs.",
+      "text": "We use verbs to talk about what we do.\n'Matteo reads a story book in the room.'\n'The children play at school during recess.'\n'My sister writes a science report on paper.'\nThe verbs are reads, play, and writes.\nThey tell us the actions of our characters.\nNotice how the verb changes for one or many.\nMatteo reads (one), but the children play (many).",
       "examples": [
         {
           "title": "Matteo",
@@ -1337,7 +1337,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Sentence Engine: Interrogative Sentences",
-      "text": "An interrogative sentence asks a question to gather information. It starts with a capital letter and ends with a question mark (?).",
+      "text": "An interrogative sentence is an asking sentence.\nIt asks a question to gather facts or details.\nIt must always start with a capital letter.\nIt must always end with a question mark (?).\nScientists use interrogative sentences to investigate nature.\nThey ask questions about how the world works.\nLet's learn how to ask questions in English.\nIt is the first step to becoming a scientist!",
       "examples": [
         {
           "title": "Rule",
@@ -1347,7 +1347,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Question Words",
-      "text": "We start questions with words like Who, What, Where, When, and Why. E.g., 'Where does the crab live?' or 'What does the frog eat?'",
+      "text": "We start questions with special interrogative words.\nThese words are: Who, What, Where, When, and Why.\n'Who is looking at the green frog in the pond?'\n'What does the crawling crab eat on the beach?'\n'Where does the water flow when it rains?'\nEach word asks for a different kind of detail.\n'Where' asks for place, 'What' asks for things.\nWhich question word asks about the reason why?",
       "examples": [
         {
           "title": "Question Words",
@@ -1357,7 +1357,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Story Time: The Pond Detective",
-      "text": "Let's read: 'Matteo looks closely at the pond. He asks, 'Who is hiding under the leaf?' A green frog leaps out! Matteo laughs and says, 'My frog friend is safe!''",
+      "text": "Let's read a short story about Matteo's discovery:\n'Matteo looks closely at the quiet pond.\nHe asks, 'Who is hiding under the green leaf?'\nSuddenly, a green frog leaps out of the water!\nMatteo laughs and says, 'My frog friend is safe!''\nThis story has both telling and asking sentences.\nThe question helps us find out what happens next.\nLet's look at the character's feelings next!",
       "examples": [
         {
           "title": "Reading Task",
@@ -1367,7 +1367,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Inferring Feelings: Happy or Scared?",
-      "text": "To infer means to read between the lines. In our story, Matteo laughs when the frog leaps. We can infer that Matteo feels happy and amused!",
+      "text": "To infer means to find clues in the story.\nWe use these clues to understand what is not said.\nIn our story, Matteo laughs when the frog leaps.\nHe says, 'My frog friend is safe!' in a happy voice.\nWe can infer that Matteo feels happy and relieved.\nHe is not scared of the leaping green frog at all.\nPaying attention to actions helps us infer feelings.\nHow do you feel when you see a frog leap?",
       "examples": [
         {
           "title": "Infer",
@@ -1377,7 +1377,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Inferring Traits: Curious Matteo",
-      "text": "Matteo looks closely at the pond and asks questions. We can infer that Matteo has the character trait of being curious or scientific!",
+      "text": "Character traits are the qualities of a person.\nWe infer traits by looking at character choices.\nMatteo looks closely at the pond to find things.\nHe asks questions about who is hiding under leaves.\nWe can infer that Matteo is a curious boy.\nHe acts like a scientist who loves to explore.\nUnderstanding traits makes story characters feel real.\nWhat traits do you show when you do experiments?",
       "examples": [
         {
           "title": "Infer",
@@ -1387,7 +1387,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Grammar: Possessive Pronouns",
-      "text": "Possessive pronouns show who owns something. We use 'my', 'your', 'his', 'her', and 'its' to show belonging. E.g., 'This is my magnifying glass.'",
+      "text": "Possessive pronouns show who owns an object.\nThey tell us who the object belongs to in a sentence.\nThe pronouns are: my, your, his, her, and its.\n'This is my magnifying glass.' (belongs to me).\n'That is his science notebook.' (belongs to him).\n'She plays with her green balloon.' (belongs to her).\n'The dog wagged its tail.' (belongs to the dog).\nLet's practice showing ownership in our sentences!",
       "examples": [
         {
           "title": "Ownership",
@@ -1397,7 +1397,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Interrogative vs Possessive",
-      "text": "Interrogative pronouns help ask: 'Whose drum is this?' Possessive pronouns help answer: 'It is her drum.' They work together!",
+      "text": "Interrogative and possessive pronouns work together.\nWe use an interrogative pronoun to ask a question:\n'Whose science book is on the desk?'\nWe use a possessive pronoun to give the answer:\n'It is her science book on the desk.'\nThis shows how questions and answers connect.\nAlways use the correct pronoun for the character.\nWhose pencil are you using to write today?",
       "examples": [
         {
           "title": "Interrogative",
@@ -1411,7 +1411,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Science Connection: Animal Habitats",
-      "text": "Where does the crab crawl? It lives in its sandy habitat. The question 'Where does the crab live?' is an interrogative sentence!",
+      "text": "Where does the crab crawl during the day?\nIt lives in its sandy shoreline habitat.\nThe question 'Where does the crab live?' is interrogative.\nIt ends with a question mark and asks about place.\nThe answer is a declarative sentence telling a fact:\n'The crab crawls in the wet sand.'\nWe use verbs like 'crawls' to show its action.\nWe use nouns like 'sand' to describe its habitat.",
       "examples": [
         {
           "title": "Observation",
@@ -1421,7 +1421,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Science Connection: Water Safety",
-      "text": "Why must we keep the drain plug clean? It helps the water flow. The verb 'flow' shows the movement of water.",
+      "text": "Why must we keep the drain plug clean?\nA clean plug lets the water flow safely away.\nThe question 'Why do we clean it?' is interrogative.\nThe word 'flow' is an action verb for water.\nIn science, we ask questions about water movement.\nWe observe how liquid flows down the pipe.\nThe word 'plug' is our CCVC spelling focus.\nWe must spell it correctly as p - l - u - g!",
       "examples": [
         {
           "title": "Action Verb",
@@ -1431,7 +1431,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Guided Practice: Spotting CCVC",
-      "text": "Can you find the CCVC word in: 'The child sat on a flat rock'? Yes, it is 'flat'!",
+      "text": "Let's play a game to spot CCVC words.\nRead this: 'The child sat on a flat rock.'\nWhich word starts with a double consonant blend?\nYes, the word is 'flat'! It starts with 'fl'.\nThe other words do not follow the CCVC pattern.\nSpelling 'flat' correctly requires the letters f-l-a-t.\nCan you find another CCVC word in your house?\nLook at the flag or the drain plug!",
       "examples": [
         {
           "title": "Check",
@@ -1441,7 +1441,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Guided Practice: Finding the Verb",
-      "text": "What is the action word in: 'The blue bird flies high in the sky'? The action is 'flies'!",
+      "text": "Let's practice finding action words in sentences.\nRead: 'The blue bird flies high in the sky.'\nWhat is the bird doing in the sentence?\nIt is flying! So the verb is 'flies'.\nThe other words are nouns, adjectives, or pronouns.\nThe verb 'flies' tells us the action of the subject.\nAlways look for the action word to find the verb.\nWhat verb describes what a fish does in water?",
       "examples": [
         {
           "title": "Verb Check",
@@ -1451,7 +1451,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Guided Practice: Question Mark",
-      "text": "Which sentence is correct? 'A. Where is the green frog.' or 'B. Where is the green frog?' Yes, B is correct because it asks a question!",
+      "text": "Let's check the rules for asking sentences.\nWhich sentence is punctuated correctly today?\n'A. Where is the green frog.' or\n'B. Where is the green frog?'\nB is correct because it asks a question!\nIt must end with a question mark, not a period.\nAlways check the ending mark of your questions.\nIt tells the reader how to say the sentence!",
       "examples": [
         {
           "title": "Corrected",
@@ -1461,7 +1461,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Common Error: Capitalizing Pronouns",
-      "text": "Remember, possessive pronouns like 'my' or 'her' do not need capital letters unless they start a sentence.",
+      "text": "A common mistake is capitalizing possessive pronouns.\nDo not write: 'This is My green frog.'\nInstead, write: 'This is my green frog.'\nPronouns like 'my' or 'her' do not need capitals.\nThey only start with a capital if they begin a sentence.\nE.g., 'My frog is green.' is correct.\nKeep pronouns lowercase when they are in the middle!\nLet's practice writing them correctly in our logs.",
       "examples": [
         {
           "title": "Incorrect",
@@ -1475,7 +1475,7 @@ window.WEEK2_DATA.english = {
     },
     {
       "title": "Summary of Week 2",
-      "text": "Fantastic work, Detective! You mastered CCVC words, action verbs, interrogative sentences, and character feelings. Get ready for the weekly quiz!",
+      "text": "Congratulations! You completed all the slides for Week 2.\nLet's review the main language tools we mastered.\nWe learned to decode CCVC words like frog, crab, and plug.\nWe learned to identify action verbs in our sentences.\nWe learned to write interrogative sentences with question marks.\nWe learned to infer character feelings and traits from clues.\nWe connected our English lessons to animal observations. \nYou are now ready to take the quiz and challenges!",
       "examples": [
         {
           "title": "Vocabulary",
@@ -5303,7 +5303,7 @@ window.WEEK2_ADVANCED_DATA.english = {
   "slides": [
     {
       "title": "Welcome to the Animal Kingdom!",
-      "text": "Hello, Explorer! This week we are diving into the world of action. We will learn about words that start with double consonants, action words, and how to ask questions like a scientist!",
+      "text": "Hello, Explorer! Welcome to English Week 2!\nThis week, we are diving into the world of action.\nWe will learn about words that start with double consonants.\nWe will understand action verbs and how they show movement.\nWe will ask questions like a scientist using question marks.\nWe will also learn to read character feelings and traits.\nLet's keep our eyes open and watch animals in action.\nAre you ready to explore the animal kingdom today?",
       "examples": [
         {
           "title": "Weekly Goal",
@@ -5313,7 +5313,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Starting Sounds (CCVC)",
-      "text": "CCVC words stand for Consonant-Consonant-Vowel-Consonant. They start with a blend of two consonant sounds, like f-r-o-g. Let's practice saying them together!",
+      "text": "CCVC words stand for Consonant-Consonant-Vowel-Consonant.\nThey start with a blend of two consonant sounds.\nThink of the word f-r-o-g. The 'f' and 'r' blend.\nWe say them together quickly: frog!\nCCVC words are different from CVCC words.\nThey have their consonant blends at the beginning.\nLet's practice saying beginning consonant blends today.\nThey help us name many interesting things in nature!",
       "examples": [
         {
           "title": "Word Pattern",
@@ -5323,7 +5323,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Phonics Hunt: The Green Frog",
-      "text": "In the wet pond, we observe a green frog. 'Frog' starts with the 'fr' blend. Watch how it leaps from leaf to leaf!",
+      "text": "In the wet pond, we observe a green frog.\nThe word 'frog' starts with the 'fr' blend.\nWe watch how it leaps from leaf to leaf.\nWe spell the word as f - r - o - g.\nListen to the beginning sound of the word 'frog'.\nThe letters 'f' and 'r' join to make 'fr'.\nIt is a wonderful CCVC word we see in ponds.\nLet's say 'frog' aloud and feel the blend!",
       "examples": [
         {
           "title": "Spelling",
@@ -5333,7 +5333,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Phonics Hunt: The Crawling Crab",
-      "text": "On the sandy beach, we spot a small crab crawling sideways. 'Crab' starts with the 'cr' blend. How many legs does a crab have?",
+      "text": "On the sandy beach, we spot a small crab.\nIt crawls sideways along the wet sand.\nThe word 'crab' starts with the 'cr' blend.\nWe spell the word as c - r - a - b.\nHow many legs does a crab use to crawl?\nCrabs are fascinating creatures in the shoreline habitat.\nSay 'crab' to hear the 'cr' starting sound.\nIt is another CCVC word in our nature list!",
       "examples": [
         {
           "title": "Spelling",
@@ -5343,7 +5343,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Phonics Hunt: In the Pond",
-      "text": "We watch a small fish swim in the water. We must not block the drain plug. 'Swim' and 'plug' start with CCVC blends!",
+      "text": "We watch a small fish swim in the water.\nThe word 'swim' starts with the blend 'sw'.\nWe must not block the drain plug in the sink.\nThe word 'plug' starts with the blend 'pl'.\nBoth 'swim' and 'plug' are CCVC spelling patterns.\nThey help us describe actions and useful objects.\nWe spell them as s-w-i-m and p-l-u-g.\nPractice writing these words in your notebook now!",
       "examples": [
         {
           "title": "Spelling",
@@ -5353,7 +5353,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Phonics Hunt: Music and Play",
-      "text": "Hear the beat of the parade drum! Red and blue flags wave in the wind. 'Drum' and 'flag' start with 'dr' and 'fl' blends!",
+      "text": "Hear the loud beat of the parade drum!\nThe word 'drum' starts with the blend 'dr'.\nRed and blue flags wave in the blowing wind.\nThe word 'flag' starts with the blend 'fl'.\nBoth 'drum' and 'flag' add color to our day.\nThey follow the CCVC word spelling structure.\nWe spell them as d-r-u-m and f-l-a-g.\nCan you hear the starting sounds of drum and flag?",
       "examples": [
         {
           "title": "Spelling",
@@ -5363,7 +5363,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Phonics Hunt: Safety First",
-      "text": "We see a stop sign on the road. We must not slip on the wet floor. 'Stop' and 'slip' start with 'st' and 'sl' blends!",
+      "text": "We see a red stop sign on the paved road.\nThe word 'stop' starts with the blend 'st'.\nWe must not slip on the wet bathroom floor.\nThe word 'slip' starts with the blend 'sl'.\nBoth 'stop' and 'slip' help keep us safe.\nThey are common CCVC words used in instructions.\nWe spell them as s-t-o-p and s-l-i-p.\nBe careful to say the starting consonants clearly!",
       "examples": [
         {
           "title": "Spelling",
@@ -5373,7 +5373,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Phonics Hunt: Flat Leaves",
-      "text": "The leaves of the water lily are flat. Be careful not to fall into a mud trap! 'Flat' and 'trap' start with 'fl' and 'tr' blends!",
+      "text": "The leaves of the water lily are green and flat.\nThe word 'flat' starts with the blend 'fl'.\nBe careful not to fall into a deep mud trap!\nThe word 'trap' starts with the blend 'tr'.\nBoth 'flat' and 'trap' describe physical things.\nThey follow the CCVC word pattern in phonics.\nWe spell them as f-l-a-t and t-r-a-p.\nLet's practice writing them on our paper today!",
       "examples": [
         {
           "title": "Spelling",
@@ -5383,7 +5383,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Grammar: Action Words (Verbs)",
-      "text": "Verbs are words that show what people, animals, or things do. They tell us about movement and life. Without verbs, nothing moves!",
+      "text": "Verbs are words that show action or movement.\nThey tell us what people, animals, or things do.\nWithout verbs, nothing in our stories would move!\nVerbs are the motor engines of our sentences.\nThey show actions like run, jump, sing, and play.\nIn science, we use verbs to describe natural events.\nE.g., 'The wind blows' or 'The water boils'.\nLet's find verbs in the sentences we read!",
       "examples": [
         {
           "title": "Key Concept",
@@ -5393,7 +5393,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Observing Animals in Action",
-      "text": "Let's watch nature! 'The frog leaps.' 'The bird flies.' 'The fish swims.' The words 'leaps', 'flies', and 'swims' are verbs!",
+      "text": "Let's watch animals in their natural habitats.\nThe green frog leaps across the pond.\nThe blue bird flies high in the clear sky.\nThe gold fish swims in the cool stream.\nThe action verbs are leaps, flies, and swims.\nThey describe the movements of living things.\nUsing specific verbs makes our observations clear.\nWhat actions can you observe a dog performing?",
       "examples": [
         {
           "title": "Action",
@@ -5403,7 +5403,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Verbs in Our Daily Life",
-      "text": "We use verbs to talk about what we do: 'Matteo reads a story book.' 'The children play at school.' 'Reads' and 'play' are the verbs.",
+      "text": "We use verbs to talk about what we do.\n'Matteo reads a story book in the room.'\n'The children play at school during recess.'\n'My sister writes a science report on paper.'\nThe verbs are reads, play, and writes.\nThey tell us the actions of our characters.\nNotice how the verb changes for one or many.\nMatteo reads (one), but the children play (many).",
       "examples": [
         {
           "title": "Matteo",
@@ -5417,7 +5417,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Sentence Engine: Interrogative Sentences",
-      "text": "An interrogative sentence asks a question to gather information. It starts with a capital letter and ends with a question mark (?).",
+      "text": "An interrogative sentence is an asking sentence.\nIt asks a question to gather facts or details.\nIt must always start with a capital letter.\nIt must always end with a question mark (?).\nScientists use interrogative sentences to investigate nature.\nThey ask questions about how the world works.\nLet's learn how to ask questions in English.\nIt is the first step to becoming a scientist!",
       "examples": [
         {
           "title": "Rule",
@@ -5427,7 +5427,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Question Words",
-      "text": "We start questions with words like Who, What, Where, When, and Why. E.g., 'Where does the crab live?' or 'What does the frog eat?'",
+      "text": "We start questions with special interrogative words.\nThese words are: Who, What, Where, When, and Why.\n'Who is looking at the green frog in the pond?'\n'What does the crawling crab eat on the beach?'\n'Where does the water flow when it rains?'\nEach word asks for a different kind of detail.\n'Where' asks for place, 'What' asks for things.\nWhich question word asks about the reason why?",
       "examples": [
         {
           "title": "Question Words",
@@ -5437,7 +5437,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Story Time: The Pond Detective",
-      "text": "Let's read: 'Matteo looks closely at the pond. He asks, 'Who is hiding under the leaf?' A green frog leaps out! Matteo laughs and says, 'My frog friend is safe!''",
+      "text": "Let's read a short story about Matteo's discovery:\n'Matteo looks closely at the quiet pond.\nHe asks, 'Who is hiding under the green leaf?'\nSuddenly, a green frog leaps out of the water!\nMatteo laughs and says, 'My frog friend is safe!''\nThis story has both telling and asking sentences.\nThe question helps us find out what happens next.\nLet's look at the character's feelings next!",
       "examples": [
         {
           "title": "Reading Task",
@@ -5447,7 +5447,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Inferring Feelings: Happy or Scared?",
-      "text": "To infer means to read between the lines. In our story, Matteo laughs when the frog leaps. We can infer that Matteo feels happy and amused!",
+      "text": "To infer means to find clues in the story.\nWe use these clues to understand what is not said.\nIn our story, Matteo laughs when the frog leaps.\nHe says, 'My frog friend is safe!' in a happy voice.\nWe can infer that Matteo feels happy and relieved.\nHe is not scared of the leaping green frog at all.\nPaying attention to actions helps us infer feelings.\nHow do you feel when you see a frog leap?",
       "examples": [
         {
           "title": "Infer",
@@ -5457,7 +5457,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Inferring Traits: Curious Matteo",
-      "text": "Matteo looks closely at the pond and asks questions. We can infer that Matteo has the character trait of being curious or scientific!",
+      "text": "Character traits are the qualities of a person.\nWe infer traits by looking at character choices.\nMatteo looks closely at the pond to find things.\nHe asks questions about who is hiding under leaves.\nWe can infer that Matteo is a curious boy.\nHe acts like a scientist who loves to explore.\nUnderstanding traits makes story characters feel real.\nWhat traits do you show when you do experiments?",
       "examples": [
         {
           "title": "Infer",
@@ -5467,7 +5467,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Grammar: Possessive Pronouns",
-      "text": "Possessive pronouns show who owns something. We use 'my', 'your', 'his', 'her', and 'its' to show belonging. E.g., 'This is my magnifying glass.'",
+      "text": "Possessive pronouns show who owns an object.\nThey tell us who the object belongs to in a sentence.\nThe pronouns are: my, your, his, her, and its.\n'This is my magnifying glass.' (belongs to me).\n'That is his science notebook.' (belongs to him).\n'She plays with her green balloon.' (belongs to her).\n'The dog wagged its tail.' (belongs to the dog).\nLet's practice showing ownership in our sentences!",
       "examples": [
         {
           "title": "Ownership",
@@ -5477,7 +5477,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Interrogative vs Possessive",
-      "text": "Interrogative pronouns help ask: 'Whose drum is this?' Possessive pronouns help answer: 'It is her drum.' They work together!",
+      "text": "Interrogative and possessive pronouns work together.\nWe use an interrogative pronoun to ask a question:\n'Whose science book is on the desk?'\nWe use a possessive pronoun to give the answer:\n'It is her science book on the desk.'\nThis shows how questions and answers connect.\nAlways use the correct pronoun for the character.\nWhose pencil are you using to write today?",
       "examples": [
         {
           "title": "Interrogative",
@@ -5491,7 +5491,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Science Connection: Animal Habitats",
-      "text": "Where does the crab crawl? It lives in its sandy habitat. The question 'Where does the crab live?' is an interrogative sentence!",
+      "text": "Where does the crab crawl during the day?\nIt lives in its sandy shoreline habitat.\nThe question 'Where does the crab live?' is interrogative.\nIt ends with a question mark and asks about place.\nThe answer is a declarative sentence telling a fact:\n'The crab crawls in the wet sand.'\nWe use verbs like 'crawls' to show its action.\nWe use nouns like 'sand' to describe its habitat.",
       "examples": [
         {
           "title": "Observation",
@@ -5501,7 +5501,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Science Connection: Water Safety",
-      "text": "Why must we keep the drain plug clean? It helps the water flow. The verb 'flow' shows the movement of water.",
+      "text": "Why must we keep the drain plug clean?\nA clean plug lets the water flow safely away.\nThe question 'Why do we clean it?' is interrogative.\nThe word 'flow' is an action verb for water.\nIn science, we ask questions about water movement.\nWe observe how liquid flows down the pipe.\nThe word 'plug' is our CCVC spelling focus.\nWe must spell it correctly as p - l - u - g!",
       "examples": [
         {
           "title": "Action Verb",
@@ -5511,7 +5511,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Guided Practice: Spotting CCVC",
-      "text": "Can you find the CCVC word in: 'The child sat on a flat rock'? Yes, it is 'flat'!",
+      "text": "Let's play a game to spot CCVC words.\nRead this: 'The child sat on a flat rock.'\nWhich word starts with a double consonant blend?\nYes, the word is 'flat'! It starts with 'fl'.\nThe other words do not follow the CCVC pattern.\nSpelling 'flat' correctly requires the letters f-l-a-t.\nCan you find another CCVC word in your house?\nLook at the flag or the drain plug!",
       "examples": [
         {
           "title": "Check",
@@ -5521,7 +5521,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Guided Practice: Finding the Verb",
-      "text": "What is the action word in: 'The blue bird flies high in the sky'? The action is 'flies'!",
+      "text": "Let's practice finding action words in sentences.\nRead: 'The blue bird flies high in the sky.'\nWhat is the bird doing in the sentence?\nIt is flying! So the verb is 'flies'.\nThe other words are nouns, adjectives, or pronouns.\nThe verb 'flies' tells us the action of the subject.\nAlways look for the action word to find the verb.\nWhat verb describes what a fish does in water?",
       "examples": [
         {
           "title": "Verb Check",
@@ -5531,7 +5531,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Guided Practice: Question Mark",
-      "text": "Which sentence is correct? 'A. Where is the green frog.' or 'B. Where is the green frog?' Yes, B is correct because it asks a question!",
+      "text": "Let's check the rules for asking sentences.\nWhich sentence is punctuated correctly today?\n'A. Where is the green frog.' or\n'B. Where is the green frog?'\nB is correct because it asks a question!\nIt must end with a question mark, not a period.\nAlways check the ending mark of your questions.\nIt tells the reader how to say the sentence!",
       "examples": [
         {
           "title": "Corrected",
@@ -5541,7 +5541,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Common Error: Capitalizing Pronouns",
-      "text": "Remember, possessive pronouns like 'my' or 'her' do not need capital letters unless they start a sentence.",
+      "text": "A common mistake is capitalizing possessive pronouns.\nDo not write: 'This is My green frog.'\nInstead, write: 'This is my green frog.'\nPronouns like 'my' or 'her' do not need capitals.\nThey only start with a capital if they begin a sentence.\nE.g., 'My frog is green.' is correct.\nKeep pronouns lowercase when they are in the middle!\nLet's practice writing them correctly in our logs.",
       "examples": [
         {
           "title": "Incorrect",
@@ -5555,7 +5555,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Summary of Week 2",
-      "text": "Fantastic work, Detective! You mastered CCVC words, action verbs, interrogative sentences, and character feelings. Get ready for the weekly quiz!",
+      "text": "Congratulations! You completed all the slides for Week 2.\nLet's review the main language tools we mastered.\nWe learned to decode CCVC words like frog, crab, and plug.\nWe learned to identify action verbs in our sentences.\nWe learned to write interrogative sentences with question marks.\nWe learned to infer character feelings and traits from clues.\nWe connected our English lessons to animal observations. \nYou are now ready to take the quiz and challenges!",
       "examples": [
         {
           "title": "Vocabulary",

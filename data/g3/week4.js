@@ -1223,7 +1223,7 @@ window.WEEK4_DATA.english = {
   "slides": [
     {
       "title": "Welcome to the Review Expedition!",
-      "text": "Hello, Explorer! This week we are reviewing our word patterns, learning about describing words, and making logical predictions based on clues in nature!",
+      "text": "Hello, Explorer! Welcome to English Week 4!\nThis week, we are going on a review expedition.\nWe will review our three spelling patterns: CVCC, CCVC, and VCV.\nWe will learn about adjectives and how they describe things.\nWe will review declarative, interrogative, and imperative sentences.\nWe will make logical predictions based on clues in nature.\nLet's keep our notebooks ready to write down answers.\nAre you ready to show what you have learned?",
       "examples": [
         {
           "title": "Weekly Goal",
@@ -1233,7 +1233,7 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "Word Pattern Review",
-      "text": "Let's review our three spelling patterns: CVCC (hand), CCVC (frog), and VCV (baby). Being able to spell them makes us excellent readers!",
+      "text": "We have learned three important word patterns this term.\nCVCC words end in two consonant letters (like hand).\nCCVC words start with two consonant letters (like frog).\nVCV words have a consonant between two vowels (like baby).\nBeing able to spell them helps us read quickly.\nIt also helps us write science observations accurately.\nLet's practice spelling these patterns on our paper.\nThey are the building blocks of our language safari!",
       "examples": [
         {
           "title": "Review Patterns",
@@ -1243,7 +1243,7 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "CVCC Practice: The Wet Pond",
-      "text": "We walk near the wet pond. We see a green lamp. Can you spell the CVCC words? 'Pond' and 'lamp'!",
+      "text": "Let's walk near the wet pond in the park.\nWe see a green lamp lighting up the path.\nCan you spot the CVCC words in our sentences?\nYes, the words are 'pond' and 'lamp'!\nBoth words end with a blend of two consonants.\nWe spell them correctly as p-o-n-d and l-a-m-p.\nListen to the ending sound of both words carefully.\nThey show how CVCC blends are used in nature!",
       "examples": [
         {
           "title": "Spelling",
@@ -1253,7 +1253,7 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "CCVC Practice: The Crawling Crab",
-      "text": "We spot a crawling crab. It does not stop. Can you spell the CCVC words? 'Crab' and 'stop'!",
+      "text": "We spot a small crab crawling on the beach.\nIt does not stop when it sees us watching.\nCan you spot the CCVC words in our sentences?\nYes, the words are 'crab' and 'stop'!\nBoth words start with a blend of two consonants.\nWe spell them correctly as c-r-a-b and s-t-o-p.\nListen to the beginning sound of both words carefully.\nThey show how CCVC blends are used in nature!",
       "examples": [
         {
           "title": "Spelling",
@@ -1263,17 +1263,17 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "VCV Practice: The Busy Spider",
-      "text": "We watch a busy spider spin a web on a tulip. Can you spell the VCV words? 'Spider' and 'tulip'!",
+      "text": "We watch a busy spider spin a web on a tulip.\nIt sits on the paper leaf in the warm sun.\nCan you spot the VCV words in our sentences?\nYes, the words are 'spider', 'tulip', and 'paper'!\nThey have a single consonant between two vowels.\nWe spell them correctly as s-p-i-d-e-r and t-u-l-i-p.\nListen to the long vowel sounds in these words.\nThey show how VCV patterns are used in nature!",
       "examples": [
         {
           "title": "Spelling",
-          "content": "s - p - i - d - e - r  and  t - u - l - i - p"
+          "content": "s-p-i-d-e-r and t-u-l-i-p"
         }
       ]
     },
     {
       "title": "Grammar: Describing Words (Adjectives)",
-      "text": "Adjectives are words that describe nouns (people, places, animals, or things). They tell us about size, color, shape, texture, or feelings.",
+      "text": "Adjectives are words that describe nouns in a sentence.\nThey tell us about size, color, shape, or texture.\nThey also tell us how things feel, taste, or look.\nUsing adjectives makes our descriptions very clear and interesting.\nE.g., 'The green leaf' or 'The small frog'.\nThe words 'green' and 'small' are adjectives.\nThey help us paint a picture in the reader's mind.\nLet's find adjectives in the sentences we read today!",
       "examples": [
         {
           "title": "Key Concept",
@@ -1283,7 +1283,7 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "Describing Physical Properties",
-      "text": "In science, we use adjectives to describe materials. E.g., 'The rock is hard.' 'The clay is sticky.' 'The metal is shiny.' 'Hard', 'sticky', and 'shiny' are adjectives!",
+      "text": "In science, we use adjectives to describe solid materials.\nWe observe physical properties using our five sense organs.\n'The hard rock does not bend or break.'\n'The shiny metal nail reflects the sun light.'\n'The sticky clay can be molded into shapes.'\nThe adjectives are hard, shiny, and sticky.\nThey describe the physical properties of each material.\nWrite these describing words in your science log today!",
       "examples": [
         {
           "title": "Properties",
@@ -1293,7 +1293,7 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "Adjectives of Size and Number",
-      "text": "We can describe size and quantity too: 'A small frog eats ten bugs.' 'Small' describes the size, and 'ten' describes the number.",
+      "text": "Adjectives can also tell us about size and number.\nThey help us count and measure objects we observe.\n'Matteo found ten small seeds in the garden.'\n'We saw three large carabaos near the river.'\nThe adjectives are ten, small, three, and large.\nThey tell us the quantity and size of the nouns.\nUsing these adjectives helps us record accurate science data.\nHow many describing words can you find in your room?",
       "examples": [
         {
           "title": "Size",
@@ -1307,7 +1307,7 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "Sentence Review: Declarative",
-      "text": "A declarative sentence tells a fact. E.g., 'The sun warms the loam soil.' It starts with a capital and ends with a period.",
+      "text": "Let's review the three types of sentences we learned.\nA declarative sentence tells a fact or makes a statement.\nE.g., 'The sun warms the loam soil in spring.'\nIt always starts with a capital letter in writing.\nIt always ends with a period punctuation mark.\nIt has a subject (who) and a predicate (action).\nMost sentences in our science logs are declarative.\nLet's practice writing a declarative sentence about nature!",
       "examples": [
         {
           "title": "Example",
@@ -1317,7 +1317,7 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "Sentence Review: Interrogative",
-      "text": "An interrogative sentence asks a question to gather evidence. E.g., 'Does the plant bend towards the light?' It ends with a question mark.",
+      "text": "An interrogative sentence asks a question to gather facts.\nE.g., 'Does the plant bend towards the sunny window?'\nIt always starts with a capital letter in writing.\nIt always ends with a question mark (?) in writing.\nScientists use interrogative sentences to start experiments.\nThey ask questions about why things change in nature.\nAlways check the question mark at the end of questions.\nIt is the key punctuation for interrogative sentences!",
       "examples": [
         {
           "title": "Example",
@@ -1327,7 +1327,7 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "Sentence Review: Imperative",
-      "text": "An imperative sentence gives an order or request. E.g., 'Please record the temperature.' It ends with a period.",
+      "text": "An imperative sentence gives a command or makes a request.\nE.g., 'Please record the temperature in your log.'\nIt always starts with a capital letter in writing.\nIt usually ends with a period punctuation mark.\nIf it is a polite request, it contains 'please'.\nWe use imperatives to write steps for an experiment.\nThey tell the reader what action they must perform.\nLet's write a polite request to clean our tools!",
       "examples": [
         {
           "title": "Example",
@@ -1337,7 +1337,7 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "Story Time: The Gathering Clouds",
-      "text": "Let's read: 'Matteo walks in the garden. The sky turns dark grey. Strong winds blow the leaves. Large water drops begin to fall from the heavy clouds.'",
+      "text": "Let's read a short story to make a prediction:\n'Matteo walks in the green garden after lunch.\nThe blue sky suddenly turns dark grey with clouds.\nStrong winds begin to blow the leaves of trees.\nLarge drops of water fall from the heavy clouds.'\nThis story has clues about what will happen next.\nLet's learn how to make a logical prediction.\nIt is a very important skill for language and science!",
       "examples": [
         {
           "title": "Reading Task",
@@ -1347,7 +1347,7 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "Predicting Endings: What is It?",
-      "text": "Predicting means making a logical guess about what will happen next, using clues from the text and your own experiences.",
+      "text": "Predicting means making a guess about what happens next.\nIt is not a wild guess; it must be logical.\nWe use clues from the story to guide us.\nWe also use our own experiences in daily life.\nClues + Experience = A good and logical prediction.\nIt helps us anticipate outcomes and explain natural cycles.\nLet's look at the clues in Matteo's garden story.\nWhat will happen next in the garden?",
       "examples": [
         {
           "title": "Inquiry",
@@ -1357,7 +1357,7 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "Clues in the Sky",
-      "text": "In our story, the sky is grey, the wind is blowing, and drops are falling. What is your prediction? Yes, it is going to rain heavily!",
+      "text": "What are the clues in Matteo's garden story?\nThe sky is dark grey with heavy rain clouds.\nStrong winds are blowing the leaves of trees.\nDrops of water are beginning to fall from above.\nBased on these clues, we predict it will rain.\nThis prediction is logical and matches the evidence.\nPredicting a hot sunny day would not make sense.\nAlways look for evidence before you make a prediction!",
       "examples": [
         {
           "title": "Prediction",
@@ -1367,7 +1367,7 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "Logic and Evidence",
-      "text": "Good predictions must make sense. If the sky is dark grey, predicting a hot sunny afternoon does not match the evidence!",
+      "text": "Good predictions must always match the physical facts.\nIn science, we call this predicting based on evidence.\nIf you drop a heavy metal ball into water,\nwill it float on top or sink to the bottom?\nBased on evidence, you predict it will sink.\nIf you leave an iron nail outside in the rain,\nyou predict it will rust and turn orange-brown.\nBoth predictions are logical because they use physical facts!",
       "examples": [
         {
           "title": "Evidence",
@@ -1377,7 +1377,7 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "Vocabulary: Synonyms",
-      "text": "Synonyms are words that have the same or very similar meanings. E.g., 'large' and 'big', 'quiet' and 'silent'. Using synonyms makes our writing interesting!",
+      "text": "Synonyms are words that have the same meaning.\nThey help us express ideas in different ways.\nUsing synonyms makes our writing rich and interesting.\nE.g., the words 'large' and 'big' are synonyms.\nThe words 'quiet' and 'silent' are also synonyms.\nBoth words describe the same state or size in text.\nLet's find synonyms in the sentences we read today. \nThey help us build a strong vocabulary for writing!",
       "examples": [
         {
           "title": "Synonyms",
@@ -1387,7 +1387,7 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "Synonyms in Nature",
-      "text": "Let's find synonyms: 'small' and 'tiny' (describing insects), 'warm' and 'hot' (describing the sun), 'wet' and 'damp' (describing the soil).",
+      "text": "Let's look at some synonyms we use in science.\n'Small' and 'tiny' (used to describe garden insects).\n'Warm' and 'hot' (used to describe solar heat).\n'Wet' and 'damp' (used to describe fertile soil).\n'Quick' and 'fast' (used to describe animal movement).\nNotice how both words mean almost the same thing.\nThey help us give detailed descriptions of physical objects.\nCan you find a synonym for 'desk'? It is table!",
       "examples": [
         {
           "title": "Soil",
@@ -1397,7 +1397,7 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "Vocabulary: Antonyms",
-      "text": "Antonyms are words with opposite meanings. E.g., 'hot' and 'cold', 'rough' and 'smooth'. They help us compare different physical properties.",
+      "text": "Antonyms are words that have opposite meanings in text.\nThey help us compare different physical properties of things.\nE.g., the words 'hot' and 'cold' are antonyms.\nThe words 'rough' and 'smooth' are also antonyms.\nBoth words describe opposite states of temperature or texture.\nUsing antonyms helps us contrast different solid materials.\nLet's find antonyms in the sentences we read today.\nThey are essential for comparing physical details!",
       "examples": [
         {
           "title": "Antonyms",
@@ -1407,7 +1407,7 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "Antonyms in Materials",
-      "text": "Let's compare: A diamond is 'hard', but sponge is 'soft'. A mirror is 'shiny', but charcoal is 'dull'. 'Hard/soft' and 'shiny/dull' are antonyms!",
+      "text": "Let's compare solid materials using antonyms in our logs.\nA diamond is hard, but a cotton ball is soft.\nA glass mirror is shiny, but a charcoal block is dull.\nThe words 'hard' and 'soft' are antonyms.\nThe words 'shiny' and 'dull' are antonyms too.\nThey show how different materials have opposite properties.\nThese contrasts help us classify objects in science lessons.\nCan you name an antonym for 'wet'? Yes, it is dry!",
       "examples": [
         {
           "title": "Comparison",
@@ -1417,7 +1417,7 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "Science Connection: Weather Predictions",
-      "text": "Meteorologists are scientists who predict the weather. They observe air temperature, wind speed, and clouds to tell us if we need an umbrella!",
+      "text": "Meteorologists are scientists who predict the weather daily.\nThey use tools like thermometers to measure air heat.\nThey observe cloud patterns and wind direction in the sky.\nThen, they make predictions about rain or sunshine.\nTheir predictions help us decide if we need an umbrella.\nThey use logic and evidence to keep our community safe.\nWe can practice being weather scientists in our writing too.\nLet's write a weather prediction in our journal today!",
       "examples": [
         {
           "title": "Observation",
@@ -1427,7 +1427,7 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "Guided Practice: Spotting Adjectives",
-      "text": "Find the describing word in: 'The shiny metal nail is wet.' The adjectives are 'shiny' and 'wet'!",
+      "text": "Let's play a game to spot describing words.\nRead: 'The shiny metal nail is wet with rain.'\nWhich words describe the physical properties of the nail?\nYes, the adjectives are 'shiny' and 'wet'!\nThey tell us how the nail looks and feels.\nThe other words are nouns, articles, or verbs.\nAlways look for words that describe the noun's state.\nWhat adjective describes a rock that does not bend?",
       "examples": [
         {
           "title": "Adjectives",
@@ -1437,7 +1437,7 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "Guided Practice: Sentence Type",
-      "text": "What type of sentence is: 'Do plants need soil?' It ends with '?', so it is an interrogative sentence!",
+      "text": "Let's practice identifying different types of sentences.\nRead this: 'Do plants need soil to grow?'\nWhat type of sentence is this in grammar?\nIt ends with a question mark, so it is interrogative!\nIf it were: 'Plants need soil to grow.', it is declarative.\nIf it were: 'Please put soil in the pot.', it is imperative.\nChecking the punctuation mark is the easiest clue of all.\nWhat type of sentence ends with a question mark?",
       "examples": [
         {
           "title": "Check",
@@ -1447,7 +1447,7 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "Guided Practice: Synonyms",
-      "text": "What is a synonym for 'silent'? Yes, 'quiet'!",
+      "text": "Let's practice finding synonyms in our vocabulary list.\nWhat is a synonym for the word 'silent'?\nA. loud, B. quiet, C. red, D. hard?\nYes, the correct answer is B! Silent means quiet.\nBoth words describe a state of no sound vibrations.\nUsing synonyms makes your sentences sound very natural.\nCan you find a synonym for 'quick' in your mind?\nYes, the synonym is 'fast'! Great job!",
       "examples": [
         {
           "title": "Synonym Check",
@@ -1457,7 +1457,7 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "Common Error: Describing Opinions",
-      "text": "Remember: when scientists describe objects, they prefer factual adjectives like 'rough' or 'red' over opinion adjectives like 'pretty'.",
+      "text": "A common mistake is using opinion adjectives in science.\nDo not write: 'This is a beautiful green leaf.'\n'Beautiful' is a personal opinion, not a scientific fact.\nInstead, write: 'This is a green leaf with five points.'\n'Green' and 'five points' are factual observations using senses.\nFactual adjectives can be measured and tested by anyone.\nAlways use factual describing words in your science logs.\nThey keep your descriptions objective and scientifically accurate!",
       "examples": [
         {
           "title": "Opinion (Avoid)",
@@ -1471,7 +1471,7 @@ window.WEEK4_DATA.english = {
     },
     {
       "title": "Summary of Week 4",
-      "text": "Congratulations, Explorer! You completed the Term 1 review expedition! You are ready to take the quiz and show off your language skills!",
+      "text": "Congratulations! You completed all the slides for Week 4.\nLet's review the main language tools we mastered.\nWe reviewed CVCC, CCVC, and VCV word spelling patterns.\nWe learned to use adjectives to describe solid properties.\nWe reviewed declarative, interrogative, and imperative sentences.\nWe learned to make logical predictions based on clues.\nWe learned to compare words using synonyms and antonyms.\nYou are now ready to take the quiz and challenges!",
       "examples": [
         {
           "title": "Review list",
@@ -5299,7 +5299,7 @@ window.WEEK4_ADVANCED_DATA.english = {
   "slides": [
     {
       "title": "Welcome to the Review Expedition!",
-      "text": "Hello, Explorer! This week we are reviewing our word patterns, learning about describing words, and making logical predictions based on clues in nature!",
+      "text": "Hello, Explorer! Welcome to English Week 4!\nThis week, we are going on a review expedition.\nWe will review our three spelling patterns: CVCC, CCVC, and VCV.\nWe will learn about adjectives and how they describe things.\nWe will review declarative, interrogative, and imperative sentences.\nWe will make logical predictions based on clues in nature.\nLet's keep our notebooks ready to write down answers.\nAre you ready to show what you have learned?",
       "examples": [
         {
           "title": "Weekly Goal",
@@ -5309,7 +5309,7 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "Word Pattern Review",
-      "text": "Let's review our three spelling patterns: CVCC (hand), CCVC (frog), and VCV (baby). Being able to spell them makes us excellent readers!",
+      "text": "We have learned three important word patterns this term.\nCVCC words end in two consonant letters (like hand).\nCCVC words start with two consonant letters (like frog).\nVCV words have a consonant between two vowels (like baby).\nBeing able to spell them helps us read quickly.\nIt also helps us write science observations accurately.\nLet's practice spelling these patterns on our paper.\nThey are the building blocks of our language safari!",
       "examples": [
         {
           "title": "Review Patterns",
@@ -5319,7 +5319,7 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "CVCC Practice: The Wet Pond",
-      "text": "We walk near the wet pond. We see a green lamp. Can you spell the CVCC words? 'Pond' and 'lamp'!",
+      "text": "Let's walk near the wet pond in the park.\nWe see a green lamp lighting up the path.\nCan you spot the CVCC words in our sentences?\nYes, the words are 'pond' and 'lamp'!\nBoth words end with a blend of two consonants.\nWe spell them correctly as p-o-n-d and l-a-m-p.\nListen to the ending sound of both words carefully.\nThey show how CVCC blends are used in nature!",
       "examples": [
         {
           "title": "Spelling",
@@ -5329,7 +5329,7 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "CCVC Practice: The Crawling Crab",
-      "text": "We spot a crawling crab. It does not stop. Can you spell the CCVC words? 'Crab' and 'stop'!",
+      "text": "We spot a small crab crawling on the beach.\nIt does not stop when it sees us watching.\nCan you spot the CCVC words in our sentences?\nYes, the words are 'crab' and 'stop'!\nBoth words start with a blend of two consonants.\nWe spell them correctly as c-r-a-b and s-t-o-p.\nListen to the beginning sound of both words carefully.\nThey show how CCVC blends are used in nature!",
       "examples": [
         {
           "title": "Spelling",
@@ -5339,17 +5339,17 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "VCV Practice: The Busy Spider",
-      "text": "We watch a busy spider spin a web on a tulip. Can you spell the VCV words? 'Spider' and 'tulip'!",
+      "text": "We watch a busy spider spin a web on a tulip.\nIt sits on the paper leaf in the warm sun.\nCan you spot the VCV words in our sentences?\nYes, the words are 'spider', 'tulip', and 'paper'!\nThey have a single consonant between two vowels.\nWe spell them correctly as s-p-i-d-e-r and t-u-l-i-p.\nListen to the long vowel sounds in these words.\nThey show how VCV patterns are used in nature!",
       "examples": [
         {
           "title": "Spelling",
-          "content": "s - p - i - d - e - r  and  t - u - l - i - p"
+          "content": "s-p-i-d-e-r and t-u-l-i-p"
         }
       ]
     },
     {
       "title": "Grammar: Describing Words (Adjectives)",
-      "text": "Adjectives are words that describe nouns (people, places, animals, or things). They tell us about size, color, shape, texture, or feelings.",
+      "text": "Adjectives are words that describe nouns in a sentence.\nThey tell us about size, color, shape, or texture.\nThey also tell us how things feel, taste, or look.\nUsing adjectives makes our descriptions very clear and interesting.\nE.g., 'The green leaf' or 'The small frog'.\nThe words 'green' and 'small' are adjectives.\nThey help us paint a picture in the reader's mind.\nLet's find adjectives in the sentences we read today!",
       "examples": [
         {
           "title": "Key Concept",
@@ -5359,7 +5359,7 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "Describing Physical Properties",
-      "text": "In science, we use adjectives to describe materials. E.g., 'The rock is hard.' 'The clay is sticky.' 'The metal is shiny.' 'Hard', 'sticky', and 'shiny' are adjectives!",
+      "text": "In science, we use adjectives to describe solid materials.\nWe observe physical properties using our five sense organs.\n'The hard rock does not bend or break.'\n'The shiny metal nail reflects the sun light.'\n'The sticky clay can be molded into shapes.'\nThe adjectives are hard, shiny, and sticky.\nThey describe the physical properties of each material.\nWrite these describing words in your science log today!",
       "examples": [
         {
           "title": "Properties",
@@ -5369,7 +5369,7 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "Adjectives of Size and Number",
-      "text": "We can describe size and quantity too: 'A small frog eats ten bugs.' 'Small' describes the size, and 'ten' describes the number.",
+      "text": "Adjectives can also tell us about size and number.\nThey help us count and measure objects we observe.\n'Matteo found ten small seeds in the garden.'\n'We saw three large carabaos near the river.'\nThe adjectives are ten, small, three, and large.\nThey tell us the quantity and size of the nouns.\nUsing these adjectives helps us record accurate science data.\nHow many describing words can you find in your room?",
       "examples": [
         {
           "title": "Size",
@@ -5383,7 +5383,7 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "Sentence Review: Declarative",
-      "text": "A declarative sentence tells a fact. E.g., 'The sun warms the loam soil.' It starts with a capital and ends with a period.",
+      "text": "Let's review the three types of sentences we learned.\nA declarative sentence tells a fact or makes a statement.\nE.g., 'The sun warms the loam soil in spring.'\nIt always starts with a capital letter in writing.\nIt always ends with a period punctuation mark.\nIt has a subject (who) and a predicate (action).\nMost sentences in our science logs are declarative.\nLet's practice writing a declarative sentence about nature!",
       "examples": [
         {
           "title": "Example",
@@ -5393,7 +5393,7 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "Sentence Review: Interrogative",
-      "text": "An interrogative sentence asks a question to gather evidence. E.g., 'Does the plant bend towards the light?' It ends with a question mark.",
+      "text": "An interrogative sentence asks a question to gather facts.\nE.g., 'Does the plant bend towards the sunny window?'\nIt always starts with a capital letter in writing.\nIt always ends with a question mark (?) in writing.\nScientists use interrogative sentences to start experiments.\nThey ask questions about why things change in nature.\nAlways check the question mark at the end of questions.\nIt is the key punctuation for interrogative sentences!",
       "examples": [
         {
           "title": "Example",
@@ -5403,7 +5403,7 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "Sentence Review: Imperative",
-      "text": "An imperative sentence gives an order or request. E.g., 'Please record the temperature.' It ends with a period.",
+      "text": "An imperative sentence gives a command or makes a request.\nE.g., 'Please record the temperature in your log.'\nIt always starts with a capital letter in writing.\nIt usually ends with a period punctuation mark.\nIf it is a polite request, it contains 'please'.\nWe use imperatives to write steps for an experiment.\nThey tell the reader what action they must perform.\nLet's write a polite request to clean our tools!",
       "examples": [
         {
           "title": "Example",
@@ -5413,7 +5413,7 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "Story Time: The Gathering Clouds",
-      "text": "Let's read: 'Matteo walks in the garden. The sky turns dark grey. Strong winds blow the leaves. Large water drops begin to fall from the heavy clouds.'",
+      "text": "Let's read a short story to make a prediction:\n'Matteo walks in the green garden after lunch.\nThe blue sky suddenly turns dark grey with clouds.\nStrong winds begin to blow the leaves of trees.\nLarge drops of water fall from the heavy clouds.'\nThis story has clues about what will happen next.\nLet's learn how to make a logical prediction.\nIt is a very important skill for language and science!",
       "examples": [
         {
           "title": "Reading Task",
@@ -5423,7 +5423,7 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "Predicting Endings: What is It?",
-      "text": "Predicting means making a logical guess about what will happen next, using clues from the text and your own experiences.",
+      "text": "Predicting means making a guess about what happens next.\nIt is not a wild guess; it must be logical.\nWe use clues from the story to guide us.\nWe also use our own experiences in daily life.\nClues + Experience = A good and logical prediction.\nIt helps us anticipate outcomes and explain natural cycles.\nLet's look at the clues in Matteo's garden story.\nWhat will happen next in the garden?",
       "examples": [
         {
           "title": "Inquiry",
@@ -5433,7 +5433,7 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "Clues in the Sky",
-      "text": "In our story, the sky is grey, the wind is blowing, and drops are falling. What is your prediction? Yes, it is going to rain heavily!",
+      "text": "What are the clues in Matteo's garden story?\nThe sky is dark grey with heavy rain clouds.\nStrong winds are blowing the leaves of trees.\nDrops of water are beginning to fall from above.\nBased on these clues, we predict it will rain.\nThis prediction is logical and matches the evidence.\nPredicting a hot sunny day would not make sense.\nAlways look for evidence before you make a prediction!",
       "examples": [
         {
           "title": "Prediction",
@@ -5443,7 +5443,7 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "Logic and Evidence",
-      "text": "Good predictions must make sense. If the sky is dark grey, predicting a hot sunny afternoon does not match the evidence!",
+      "text": "Good predictions must always match the physical facts.\nIn science, we call this predicting based on evidence.\nIf you drop a heavy metal ball into water,\nwill it float on top or sink to the bottom?\nBased on evidence, you predict it will sink.\nIf you leave an iron nail outside in the rain,\nyou predict it will rust and turn orange-brown.\nBoth predictions are logical because they use physical facts!",
       "examples": [
         {
           "title": "Evidence",
@@ -5453,7 +5453,7 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "Vocabulary: Synonyms",
-      "text": "Synonyms are words that have the same or very similar meanings. E.g., 'large' and 'big', 'quiet' and 'silent'. Using synonyms makes our writing interesting!",
+      "text": "Synonyms are words that have the same meaning.\nThey help us express ideas in different ways.\nUsing synonyms makes our writing rich and interesting.\nE.g., the words 'large' and 'big' are synonyms.\nThe words 'quiet' and 'silent' are also synonyms.\nBoth words describe the same state or size in text.\nLet's find synonyms in the sentences we read today. \nThey help us build a strong vocabulary for writing!",
       "examples": [
         {
           "title": "Synonyms",
@@ -5463,7 +5463,7 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "Synonyms in Nature",
-      "text": "Let's find synonyms: 'small' and 'tiny' (describing insects), 'warm' and 'hot' (describing the sun), 'wet' and 'damp' (describing the soil).",
+      "text": "Let's look at some synonyms we use in science.\n'Small' and 'tiny' (used to describe garden insects).\n'Warm' and 'hot' (used to describe solar heat).\n'Wet' and 'damp' (used to describe fertile soil).\n'Quick' and 'fast' (used to describe animal movement).\nNotice how both words mean almost the same thing.\nThey help us give detailed descriptions of physical objects.\nCan you find a synonym for 'desk'? It is table!",
       "examples": [
         {
           "title": "Soil",
@@ -5473,7 +5473,7 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "Vocabulary: Antonyms",
-      "text": "Antonyms are words with opposite meanings. E.g., 'hot' and 'cold', 'rough' and 'smooth'. They help us compare different physical properties.",
+      "text": "Antonyms are words that have opposite meanings in text.\nThey help us compare different physical properties of things.\nE.g., the words 'hot' and 'cold' are antonyms.\nThe words 'rough' and 'smooth' are also antonyms.\nBoth words describe opposite states of temperature or texture.\nUsing antonyms helps us contrast different solid materials.\nLet's find antonyms in the sentences we read today.\nThey are essential for comparing physical details!",
       "examples": [
         {
           "title": "Antonyms",
@@ -5483,7 +5483,7 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "Antonyms in Materials",
-      "text": "Let's compare: A diamond is 'hard', but sponge is 'soft'. A mirror is 'shiny', but charcoal is 'dull'. 'Hard/soft' and 'shiny/dull' are antonyms!",
+      "text": "Let's compare solid materials using antonyms in our logs.\nA diamond is hard, but a cotton ball is soft.\nA glass mirror is shiny, but a charcoal block is dull.\nThe words 'hard' and 'soft' are antonyms.\nThe words 'shiny' and 'dull' are antonyms too.\nThey show how different materials have opposite properties.\nThese contrasts help us classify objects in science lessons.\nCan you name an antonym for 'wet'? Yes, it is dry!",
       "examples": [
         {
           "title": "Comparison",
@@ -5493,7 +5493,7 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "Science Connection: Weather Predictions",
-      "text": "Meteorologists are scientists who predict the weather. They observe air temperature, wind speed, and clouds to tell us if we need an umbrella!",
+      "text": "Meteorologists are scientists who predict the weather daily.\nThey use tools like thermometers to measure air heat.\nThey observe cloud patterns and wind direction in the sky.\nThen, they make predictions about rain or sunshine.\nTheir predictions help us decide if we need an umbrella.\nThey use logic and evidence to keep our community safe.\nWe can practice being weather scientists in our writing too.\nLet's write a weather prediction in our journal today!",
       "examples": [
         {
           "title": "Observation",
@@ -5503,7 +5503,7 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "Guided Practice: Spotting Adjectives",
-      "text": "Find the describing word in: 'The shiny metal nail is wet.' The adjectives are 'shiny' and 'wet'!",
+      "text": "Let's play a game to spot describing words.\nRead: 'The shiny metal nail is wet with rain.'\nWhich words describe the physical properties of the nail?\nYes, the adjectives are 'shiny' and 'wet'!\nThey tell us how the nail looks and feels.\nThe other words are nouns, articles, or verbs.\nAlways look for words that describe the noun's state.\nWhat adjective describes a rock that does not bend?",
       "examples": [
         {
           "title": "Adjectives",
@@ -5513,7 +5513,7 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "Guided Practice: Sentence Type",
-      "text": "What type of sentence is: 'Do plants need soil?' It ends with '?', so it is an interrogative sentence!",
+      "text": "Let's practice identifying different types of sentences.\nRead this: 'Do plants need soil to grow?'\nWhat type of sentence is this in grammar?\nIt ends with a question mark, so it is interrogative!\nIf it were: 'Plants need soil to grow.', it is declarative.\nIf it were: 'Please put soil in the pot.', it is imperative.\nChecking the punctuation mark is the easiest clue of all.\nWhat type of sentence ends with a question mark?",
       "examples": [
         {
           "title": "Check",
@@ -5523,7 +5523,7 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "Guided Practice: Synonyms",
-      "text": "What is a synonym for 'silent'? Yes, 'quiet'!",
+      "text": "Let's practice finding synonyms in our vocabulary list.\nWhat is a synonym for the word 'silent'?\nA. loud, B. quiet, C. red, D. hard?\nYes, the correct answer is B! Silent means quiet.\nBoth words describe a state of no sound vibrations.\nUsing synonyms makes your sentences sound very natural.\nCan you find a synonym for 'quick' in your mind?\nYes, the synonym is 'fast'! Great job!",
       "examples": [
         {
           "title": "Synonym Check",
@@ -5533,7 +5533,7 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "Common Error: Describing Opinions",
-      "text": "Remember: when scientists describe objects, they prefer factual adjectives like 'rough' or 'red' over opinion adjectives like 'pretty'.",
+      "text": "A common mistake is using opinion adjectives in science.\nDo not write: 'This is a beautiful green leaf.'\n'Beautiful' is a personal opinion, not a scientific fact.\nInstead, write: 'This is a green leaf with five points.'\n'Green' and 'five points' are factual observations using senses.\nFactual adjectives can be measured and tested by anyone.\nAlways use factual describing words in your science logs.\nThey keep your descriptions objective and scientifically accurate!",
       "examples": [
         {
           "title": "Opinion (Avoid)",
@@ -5547,7 +5547,7 @@ window.WEEK4_ADVANCED_DATA.english = {
     },
     {
       "title": "Summary of Week 4",
-      "text": "Congratulations, Explorer! You completed the Term 1 review expedition! You are ready to take the quiz and show off your language skills!",
+      "text": "Congratulations! You completed all the slides for Week 4.\nLet's review the main language tools we mastered.\nWe reviewed CVCC, CCVC, and VCV word spelling patterns.\nWe learned to use adjectives to describe solid properties.\nWe reviewed declarative, interrogative, and imperative sentences.\nWe learned to make logical predictions based on clues.\nWe learned to compare words using synonyms and antonyms.\nYou are now ready to take the quiz and challenges!",
       "examples": [
         {
           "title": "Review list",
