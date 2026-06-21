@@ -1,0 +1,601 @@
+{
+  "color": "#10b981",
+  "icon": "🔬",
+  "title": "Science",
+  "subtitle": "Week 4: Science Process Skills",
+  "slides": [
+    {
+      "title": "Welcome to Process Skills!",
+      "text": "Hello, Scientist! Welcome to Science Week 4!\nThis week we are mastering science process skills.\nProcess skills are tools scientists use to explore nature.\nWe will focus on three core skills today.\nThese skills are observing, predicting, and measuring.\nWe use units like millimeters, centimeters, and meters.\nLet's practice these skills in our simple activities.\nAre you ready to think like a professional investigator?",
+      "examples": [
+        {
+          "title": "Goal",
+          "content": "Describe and apply observing, predicting, and measuring process skills."
+        }
+      ]
+    },
+    {
+      "title": "The Skill of Observing",
+      "text": "Observing is using your senses to gather facts.\nWe observe colors, shapes, textures, and sounds.\nAn observation must be factual and objective always.\nE.g., 'The metal coin sinks in the water cup.'\nAvoid personal opinions like 'The coin is pretty.'\nUse hand lenses to observe tiny details on leaves.\nUse touch to observe the stickiness of wet clay.\nAlways record what you see, feel, hear, or smell!",
+      "examples": [
+        {
+          "title": "Observation",
+          "content": "Observing that clay holds shape under thumb pressure."
+        }
+      ]
+    },
+    {
+      "title": "The Skill of Predicting",
+      "text": "Predicting is making logical guesses about future events.\nIt is not a wild guess; it requires evidence.\nWe use clues and past experiences to predict outcomes.\nE.g., 'Dark grey clouds mean it will rain soon.'\nIf you place water in freezer pots overnight,\nyou predict it will turn to solid ice cubes.\nIf you drop a heavy stone in water buckets,\nyou predict it will sink to the bottom quickly!",
+      "examples": [
+        {
+          "title": "Prediction",
+          "content": "Predicting that wet clothes dry faster under hot sun."
+        }
+      ]
+    },
+    {
+      "title": "The Skill of Measuring",
+      "text": "Measuring is using tools to collect numerical data.\nIt helps us know the exact size or weight.\nWe use rulers to measure length accurately.\nWe measure in millimeters (mm) for tiny objects.\nWe measure in centimeters (cm) for classroom items.\nWe measure in meters (m) for larger room dimensions.\nAlways align the object edge with the zero mark.\nWrite numbers and units together in your logs!",
+      "examples": [
+        {
+          "title": "Measurement",
+          "content": "Measuring a seedling height as exactly 45 millimeters."
+        }
+      ]
+    },
+    {
+      "title": "Millimeters, Centimeters, Meters",
+      "text": "Centimeters and millimeters are marked on rulers.\nThere are ten millimeters in one single centimeter.\nWe use millimeters for small insects or seeds.\nWe use centimeters for books, pencils, and leaves.\nWe use meters for classroom floors or chalkboards.\nOne meter is equal to exactly 100 centimeters.\nChoosing the right unit makes your data precise.\nMeasure your pinky fingernail width in millimeters now!",
+      "examples": [
+        {
+          "title": "Units",
+          "content": "1 cm = 10 mm, 1 m = 100 cm."
+        }
+      ]
+    },
+    {
+      "title": "Observing Solid Properties",
+      "text": "We practice observing physical properties of solids.\nSolid materials hold their own shapes and volumes.\nObserve a metal nail, a cotton ball, and stones.\nWe classify them by hardness, shininess, and texture.\nThe rock is hard; the cotton is soft to touch.\nThe metal is shiny; the charcoal is dull grey.\nThese observations describe the physical state of solids.\nRecord three solid properties in your notebook page!",
+      "examples": [
+        {
+          "title": "Properties",
+          "content": "Shiny metal nail, hard river stone, soft cotton fibers."
+        }
+      ]
+    },
+    {
+      "title": "Predicting Weather Changes",
+      "text": "Weather prediction is a daily science process skill.\nWe look at the sky to gather weather clues.\nDark grey clouds block sunlight, cooling the air.\nStrong winds blow dust and sway tree branches.\nBased on these clues, we predict a rain storm.\nOur past experience tells us grey clouds bring rain.\nPredicting helps communities prepare for weather events.\nWrite down your weather prediction for tomorrow afternoon!",
+      "examples": [
+        {
+          "title": "Weather",
+          "content": "Predicting rain when humidity rises and clouds darken."
+        }
+      ]
+    },
+    {
+      "title": "Measuring Plant Growth",
+      "text": "Measuring seedling growth requires precision and care.\nPlace a plastic ruler next to sprout stems.\nAlign the zero mark with the soil level.\nRead the height to the nearest millimeter line.\nWrite down the height in your growth chart daily.\nComparing daily height reveals the growth rate.\nA watered seedling grew 3 millimeters in one day.\nMeasuring helps us test if watering works well!",
+      "examples": [
+        {
+          "title": "Plant Measure",
+          "content": "Seedling height measured at 12 mm on Day 3."
+        }
+      ]
+    },
+    {
+      "title": "Observing water evaporation",
+      "text": "Let's observe water turning into invisible gas vapor.\nDrip a water drop on a warm chalkboard.\nWatch closely as the wet spot shrinks soon.\nThe spot disappears completely in a few minutes.\nThis observation shows evaporation in action today.\nHeat from room air turned liquid into gas vapor.\nObserve how long a wet tissue takes to dry.\nWrite down the drying time in minutes in logs!",
+      "examples": [
+        {
+          "title": "Evaporation",
+          "content": "Liquid water spot vanishes from warm blackboard surfaces."
+        }
+      ]
+    },
+    {
+      "title": "Predicting Shadow Directions",
+      "text": "Shadow directions change in regular daily patterns.\nThe Sun rises in the east in the morning.\nIt casts shadows pointing towards the west side.\nIn the afternoon, the Sun sets in the west.\nIt casts shadows pointing towards the east side.\nPredict where your shadow will fall at noon today.\nAt noon, the Sun is directly above your head.\nSo the shadow will be short and under feet!",
+      "examples": [
+        {
+          "title": "Shadows",
+          "content": "Morning shadows point west, afternoon shadows point east."
+        }
+      ]
+    },
+    {
+      "title": "Measuring Liquid Volume",
+      "text": "We measure liquid volume in milliliters in labs.\nWe use graduated cylinders or cups with markings.\nPlace the cup on flat desk surfaces to read.\nLook at the liquid surface at eye level closely.\nThe liquid curves slightly, forming a meniscus curve.\nRead the number at the bottom of the curve.\nAccurate volume measures are key for chemical tests.\nMeasure 50 milliliters of water for your plants!",
+      "examples": [
+        {
+          "title": "Volume",
+          "content": "Measuring water volume at 50 mL mark in cylinders."
+        }
+      ]
+    },
+    {
+      "title": "Observing Force Effects",
+      "text": "We observe how pushes and pulls change movement.\nPush a toy car slowly across smooth desks.\nIt rolls forward and stops due to table friction.\nNow push it harder with a strong finger force.\nObserve that it rolls faster and goes further.\nThe amount of force changes speed and distance.\nMeasuring distance in centimeters shows force effects.\nRecord push distance for three tests in charts!",
+      "examples": [
+        {
+          "title": "Force Test",
+          "content": "Soft push = 10 cm, hard push = 30 cm distance."
+        }
+      ]
+    },
+    {
+      "title": "Predicting Material Changes",
+      "text": "We predict how heat changes different solid materials.\nPlace solid wax, butter, and stones in sun.\nWe predict the wax and butter will melt soon.\nWe predict the stone will not melt in sun.\nPast tests show organic solids melt at low heat.\nStones require extreme furnace heat to change state.\nThis prediction uses physical facts of melting points.\nCheck your predictions after one hour of exposure!",
+      "examples": [
+        {
+          "title": "Melting",
+          "content": "Predicting butter melts while rocks remain solid in sun."
+        }
+      ]
+    },
+    {
+      "title": "Measuring Room Dimensions",
+      "text": "We use tape measures to measure larger room lengths.\nRulers are too small for measuring classroom walls.\nWe select meters (m) as the correct unit helper.\nTwo students hold the ends of tape measures flat.\nRead the measurement line next to the corner wall.\nE.g., the classroom length is exactly 8 meters.\nRecording dimensions helps us plan desk layouts.\nMeasure the length of your chalkboard in meters today!",
+      "examples": [
+        {
+          "title": "Meters",
+          "content": "Chalkboard length measured at 3 meters and 20 cm."
+        }
+      ]
+    },
+    {
+      "title": "Observing Animal Behaviors",
+      "text": "Let's observe behavior patterns of garden ants.\nAnts walk in straight lines along wall cracks.\nThey carry food bits back to their nest holes.\nObserve how they touch antennae when they meet.\nAntennae touches share information about food locations.\nThis is a factual observation using sight organs.\nWrite down ant behaviors without adding opinion words.\nKeep your animal observation log completely objective!",
+      "examples": [
+        {
+          "title": "Ants",
+          "content": "Ants carry bread crumbs three times their body size."
+        }
+      ]
+    },
+    {
+      "title": "Predicting Plant Survival",
+      "text": "We predict plant survival under different conditions.\nPlace one plant in sun, one in dark closets.\nWater both plants with equal water amounts daily.\nWe predict the plant in the closet will weaken.\nIt will turn yellow and die due to lack of sun.\nThe plant in the sun will grow healthy leaves.\nThis prediction uses plant biology facts we learned.\nVerify the leaf color in both pots after weeks!",
+      "examples": [
+        {
+          "title": "Survival",
+          "content": "Closet plant turns yellow due to lack of light energy."
+        }
+      ]
+    },
+    {
+      "title": "Measuring temperature changes",
+      "text": "We measure heat levels using liquid thermometers.\nThermometers contain liquid that rises when heated.\nWe measure temperature in degrees Celsius (°C).\nPlace the glass bulb in warm water cups closely.\nWatch the red liquid rise along the scale lines.\nRead the line number when the liquid stops rising.\nE.g., the warm water is at 45 degrees Celsius.\nRecord temperature data carefully in your log book!",
+      "examples": [
+        {
+          "title": "Temperature",
+          "content": "Measuring room temperature at 25 degrees Celsius."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Observing",
+      "text": "Let's observe physical properties of kitchen liquids.\nWe examine cooking oil, water, and sweet syrup.\nOil is yellow; water is clear and colorless.\nSyrup is dark brown and flows very slowly.\nWe observe the thickness or viscosity of liquids.\nSlow flowing shows high viscosity in daily science.\nFast flowing shows low viscosity (like clean water).\nRecord these liquid properties in your journal page!",
+      "examples": [
+        {
+          "title": "Liquids",
+          "content": "Syrup flows slower than water because it is thick."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Predicting",
+      "text": "Let's practice predicting results of mixing colors.\nWe mix blue dye and yellow dye in cups.\nWhat color do you predict the mixture will turn?\nBased on coloring experiences, we predict green!\nStir the liquid and observe the color change.\nThe liquid turns green, confirming our prediction.\nPredictions help us test if color rules work.\nPredict what mixing red and yellow creates today!",
+      "examples": [
+        {
+          "title": "Color Test",
+          "content": "Blue + Yellow = Green is a verified prediction."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Measuring",
+      "text": "Let's practice measuring water drops on coins.\nUse a plastic eye dropper to drip water on coins.\nCount how many drops a one-peso coin holds.\nDrip slowly and observe water dome forming.\nThe coin holds 25 drops before spilling over table.\nMeasuring drops count shows water surface tension.\nRepeat the test three times to get average data.\nRecord each drop count in your science log!",
+      "examples": [
+        {
+          "title": "Drops",
+          "content": "Test 1 = 24 drops, Test 2 = 25 drops, Test 3 = 26 drops."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Process Skills",
+      "text": "Let's combine all process skills in one lab.\nObserve a solid candle on your laboratory desk.\nPredict what happens when wicks are lit with fire.\nWe predict solid wax will melt and turn liquid.\nLight the wick and measure melting time with clocks.\nThe wax turns to liquid in exactly two minutes.\nRecord the observation, prediction, and measured time.\nCombining skills is how scientists perform investigations!",
+      "examples": [
+        {
+          "title": "Combined Skills",
+          "content": "Observed solid wax, predicted melting, measured time."
+        }
+      ]
+    },
+    {
+      "title": "Common Error: Subjective Observations",
+      "text": "Avoid using subjective words in scientific logs.\nDo not write: 'The ant is cute and works hard.'\nCute and hard-working are opinions, not measurements.\nInstead, write: 'The ant carried 5-gram crumbs.'\nThis statement contains measurable and factual details.\nKeep descriptions clear of personal feelings always.\nIt ensures other scientists can repeat your work.\nCheck your data sheets to remove subjective terms today!",
+      "examples": [
+        {
+          "title": "Incorrect",
+          "content": "Writing 'This flower smells the best' in logs."
+        }
+      ]
+    },
+    {
+      "title": "Common Error: Unreasonable Predictions",
+      "text": "Avoid making predictions that do not match facts.\nDo not predict: 'A dry seed in sand grows tomorrow.'\nThis guess violates plant biology rules of growth.\nSeeds need water and time to germinate and sprout.\nA reasonable prediction is: 'Seeds sprout in five days.'\nEnsure your predictions are backed by evidence and logic.\nUnreasonable guesses make your reports look unscientific.\nReview your predictions using science rules first!",
+      "examples": [
+        {
+          "title": "Incorrect",
+          "content": "Predicting that dropping rocks makes them float on water."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice: Science Review A",
+      "text": "Let's review the important science concepts of Week 4.\nWe have studied observations, measurements, and predictions.\nA real scientist is always curious and checks their facts.\nThink about the experiments we discussed in the slides.\nCan you explain them in your own words to others?\nUse your scientific vocabulary to describe your ideas clearly.\nAnswer the quiz questions and challenges to test your memory.\nKeep up the great work and enjoy exploring the world!",
+      "examples": [
+        {
+          "title": "Review Card 1",
+          "content": "Practice explaining these science ideas to your family."
+        }
+      ]
+    },
+    {
+      "title": "Summary of Week 4",
+      "text": "Congratulations! You completed all the slides for Week 4.\nLet's review the main science tools we mastered.\nWe learned to apply observing, predicting, and measuring.\nWe used millimeters, centimeters, and meters on rulers.\nWe measured temperatures in Celsius and liquid volumes.\nWe predicted weather changes and plant survival rates.\nWe avoided subjective observations and unreasonable guesses.\nYou are now ready to take the quiz and challenges!",
+      "examples": [
+        {
+          "title": "Key Takeaway",
+          "content": "Process skills are the foundation of scientific thinking."
+        }
+      ]
+    }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Which science process skill uses your senses to collect facts?",
+      "options": [
+        "Predicting",
+        "Measuring",
+        "Observing",
+        "Classifying"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Which statement is a factual scientific observation?",
+      "options": [
+        "The plant is very pretty.",
+        "The plant stem is 15 centimeters tall.",
+        "Plants are the best living things.",
+        "I like green leaves more than red ones."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What is a logical prediction when dark grey clouds cover the sky?",
+      "options": [
+        "It will snow soon.",
+        "It will rain shortly.",
+        "The sun will get hotter.",
+        "The wind will stop blowing."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which tool is used to measure air temperature in degrees Celsius?",
+      "options": [
+        "Ruler",
+        "Graduated cylinder",
+        "Thermometer",
+        "Hand lens"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "What unit is best to measure the thickness of a small seed?",
+      "options": [
+        "Millimeter (mm)",
+        "Meter (m)",
+        "Kilogram (kg)",
+        "Liter (L)"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "How many millimeters are equal to exactly one centimeter?",
+      "options": [
+        "5",
+        "10",
+        "100",
+        "1000"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What is a logical prediction for water placed in a freezer overnight?",
+      "options": [
+        "It will boil.",
+        "It will turn into solid ice.",
+        "It will evaporate.",
+        "It will turn green."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which statement is a subjective opinion, NOT an observation?",
+      "options": [
+        "The stone weighs 50 grams.",
+        "The stone is very ugly.",
+        "The stone is grey and rough.",
+        "The stone is 5 cm wide."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What unit is best to measure the length of a classroom chalkboard?",
+      "options": [
+        "Millimeter (mm)",
+        "Centimeter (cm)",
+        "Meter (m)",
+        "Gram (g)"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "verify",
+      "q": "True or False: A scientific prediction is a guess based on evidence and clues.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which skill are you using when you count the drops of water on a coin?",
+      "options": [
+        "Predicting",
+        "Measuring",
+        "Classifying",
+        "Hypothesizing"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which of these is the correct symbol for degrees Celsius?",
+      "options": [
+        "°C",
+        "cm",
+        "mm",
+        "mL"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What happens to liquid water on a warm blackboard surface?",
+      "options": [
+        "It freezes.",
+        "It evaporates into gas vapor.",
+        "It turns into solid wax.",
+        "It turns blue."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What shadow direction is cast when the Sun is rising in the East?",
+      "options": [
+        "West",
+        "East",
+        "North",
+        "South"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "True or False: One meter is equal to exactly 10 centimeters.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which property of thick syrup makes it flow slower than water?",
+      "options": [
+        "High viscosity (thickness)",
+        "Low temperature",
+        "Elasticity",
+        "Color"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What is the dependent variable in a plant growth experiment?",
+      "options": [
+        "Amount of water given",
+        "The height of the plant",
+        "The type of soil used",
+        "The amount of sunlight"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What is the independent variable in a plant growth experiment?",
+      "options": [
+        "The height of the plant",
+        "The factor you change (e.g. fertilizer amount)",
+        "The type of pot",
+        "The duration of the test"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Observing that a rock feels rough is a qualitative observation.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which VCV word represents the tool used to measure temperature?",
+      "options": [
+        "ruler",
+        "thermometer",
+        "cylinder",
+        "scale"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What will happen to an iron nail left outside in wet air for weeks?",
+      "options": [
+        "It will melt.",
+        "It will rust and turn orange-brown.",
+        "It will turn gold.",
+        "It will disappear."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which skill is used to group objects by common properties?",
+      "options": [
+        "Classifying",
+        "Measuring",
+        "Predicting",
+        "Hypothesizing"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Predicting that heavy rocks will float is reasonable based on daily evidence.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which unit is used to measure liquid volume in lab cylinders?",
+      "options": [
+        "Milliliter (mL)",
+        "Degree Celsius",
+        "Centimeter",
+        "Gram"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What is the main purpose of using process skills in science?",
+      "options": [
+        "To paint pictures",
+        "To study nature systematically using evidence",
+        "To write stories",
+        "To perform magic tricks"
+      ],
+      "answer": 1
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "Challenge: A student measures a leaf at 54 mm. How many centimeters and millimeters is this?",
+      "options": [
+        "5 cm and 4 mm",
+        "54 cm",
+        "50 cm and 4 mm",
+        "5 cm and 40 mm"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: If you predict that a seed will sprout faster in warm soil than cold soil, what is your evidence?",
+      "options": [
+        "Heat energy increases biological activity speeds.",
+        "Warm soil has more water.",
+        "Cold soil is always sandy.",
+        "Seeds prefer warm colors."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Which variable should be controlled (kept the same) when testing if different soils affect plant growth?",
+      "options": [
+        "The type of soil",
+        "The amount of water and sunlight given to all pots",
+        "The height of the plants",
+        "The number of leaves produced"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Why is the prediction 'the sun will rise in the west tomorrow' unreasonable?",
+      "options": [
+        "It violates the established fact of Earth's rotation direction.",
+        "The sun only rises on weekdays.",
+        "The moon blocks the west.",
+        "It is too hot in the west."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Which process skill combination is used when you measure a rusted area on an iron plate?",
+      "options": [
+        "Observing the rust, and measuring its width in millimeters.",
+        "Predicting rain, and using a thermometer.",
+        "Classifying soils, and mixing chemicals.",
+        "Tinkering with clay, and blowing balloons."
+      ],
+      "answer": 0
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Science Process Skills Home Lab",
+    "desc": "Select a solid object at home (like a key or a stone). 1. Observe and write down three qualitative properties (color, texture, shape). 2. Measure its length in millimeters and centimeters using a ruler. 3. Predict whether it will float or sink in water, then perform the test to verify. Record all steps and results in your science log.",
+    "labels": [
+      "Conducted qualitative observations using senses",
+      "Measured object length accurately in cm and mm",
+      "Made and tested a logical float/sink prediction based on facts"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Science Process Skills</h3>\n                  <p class=\"ws-instruction\">Write the correct process skill (<strong>Observing</strong>, <strong>Predicting</strong>, <strong>Measuring</strong>) for each action.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Recording that a chemical solution turned from blue to yellow:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Observing</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Using a thermometer to check air temperature in degrees Celsius:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Measuring</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Writing 'The ice will melt soon in the sun' before placing it outside:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Predicting</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Unit Matching</h3>\n                  <p class=\"ws-instruction\">Write the correct unit abbreviation (<strong>mm</strong>, <strong>cm</strong>, <strong>m</strong>, <strong>°C</strong>, <strong>mL</strong>) for each measurement.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. The width of your thumb nail (small size):</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">mm</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. The volume of water in a lab cylinder:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">mL</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. The height of the classroom wall:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">m</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Factual Observations</h3>\n                  <p class=\"ws-instruction\">Identify whether each sentence is a <strong>Fact</strong> or an <strong>Opinion</strong>.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. The green leaf has a length of 8 centimeters.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Fact</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Spiders are the scariest creatures in the garden.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Opinion</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. The metal gate turned orange-brown and rough due to rust.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Fact</span></div>\n                  </div>\n                </div>"
+    ]
+  }
+}

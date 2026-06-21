@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Matteo's Learning Hub - VIP Activation Voucher</title>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;800&display=swap" rel="stylesheet">
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: 'Outfit', sans-serif;
+      background: #f1f5f9;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 40px;
+    }
+    
+    /* Printable Card Layout (Standard Credit Card Size: 3.375" x 2.125" scaled for 150dpi print) */
+    .card-container {
+      width: 506px; /* 3.375 inches */
+      height: 318px; /* 2.125 inches */
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+      position: relative;
+      background: linear-gradient(135deg, #1e3a8a 0%, #0f172a 100%);
+      color: #ffffff;
+      border: 1px solid rgba(255,255,255,0.1);
+      margin-bottom: 30px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      padding: 24px;
+    }
+    
+    /* Background grid/globe motif */
+    .card-container::before {
+      content: '';
+      position: absolute;
+      top: 0; right: 0; bottom: 0; left: 0;
+      background-image: radial-gradient(circle at 80% 20%, rgba(59, 130, 246, 0.15) 0%, transparent 50%),
+                        linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+                        linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+      background-size: 100% 100%, 20px 20px, 20px 20px;
+      z-index: 1;
+    }
+    
+    .card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      position: relative;
+      z-index: 2;
+    }
+    .app-title-group h1 {
+      font-size: 20px;
+      font-weight: 800;
+      letter-spacing: 0.5px;
+      background: linear-gradient(90deg, #60a5fa, #93c5fd);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    .app-title-group p {
+      font-size: 10px;
+      color: #94a3b8;
+      text-transform: uppercase;
+      font-weight: 600;
+      letter-spacing: 1px;
+    }
+    .badge-vip {
+      background: linear-gradient(135deg, #fbbf24 0%, #d97706 100%);
+      color: #000;
+      font-size: 9px;
+      font-weight: 800;
+      padding: 4px 10px;
+      border-radius: 99px;
+      letter-spacing: 0.5px;
+      box-shadow: 0 4px 10px rgba(217, 119, 6, 0.3);
+    }
+    
+    .card-body {
+      position: relative;
+      z-index: 2;
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+    }
+    
+    .license-group {
+      flex: 1;
+    }
+    .license-label {
+      font-size: 9px;
+      color: #94a3b8;
+      font-weight: 600;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+      margin-bottom: 4px;
+    }
+    .license-key-box {
+      background: rgba(255,255,255,0.06);
+      border: 1px dashed rgba(255,255,255,0.2);
+      border-radius: 8px;
+      padding: 10px 14px;
+      font-family: monospace;
+      font-size: 16px;
+      letter-spacing: 2px;
+      font-weight: bold;
+      color: #fbd38d;
+      display: inline-block;
+      min-width: 240px;
+      text-align: center;
+      text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+    }
+    
+    .qr-container {
+      width: 80px;
+      height: 80px;
+      background: #ffffff;
+      border-radius: 8px;
+      padding: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+    }
+    .qr-placeholder {
+      font-size: 7px;
+      color: #475569;
+      font-weight: 800;
+      text-align: center;
+      text-transform: uppercase;
+      border: 1.5px dashed #94a3b8;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    
+    /* REVERSE SIDE DESIGN (For instructions and links) */
+    .card-back {
+      background: #0f172a;
+      border: 1px solid rgba(255,255,255,0.1);
+    }
+    .card-back::before {
+      background-image: radial-gradient(circle at 10% 90%, rgba(59, 130, 246, 0.1) 0%, transparent 60%);
+    }
+    .back-content {
+      position: relative;
+      z-index: 2;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    .back-header h2 {
+      font-size: 12px;
+      font-weight: 800;
+      color: #f1f5f9;
+      margin-bottom: 8px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      border-bottom: 1px solid rgba(255,255,255,0.1);
+      padding-bottom: 6px;
+    }
+    .instructions-list {
+      list-style: none;
+      font-size: 10px;
+      color: #cbd5e1;
+      line-height: 1.6;
+    }
+    .instructions-list li {
+      margin-bottom: 6px;
+      display: flex;
+      align-items: flex-start;
+      gap: 6px;
+    }
+    .step-num {
+      background: #3b82f6;
+      color: #fff;
+      font-weight: bold;
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 8px;
+      flex-shrink: 0;
+      margin-top: 1px;
+    }
+    
+    .back-footer {
+      font-size: 8px;
+      color: #64748b;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-top: 1px solid rgba(255,255,255,0.05);
+      padding-top: 8px;
+    }
+    
+    /* Printable Controls (Hidden on Print) */
+    .print-controls {
+      margin-top: 20px;
+      display: flex;
+      gap: 12px;
+    }
+    .btn {
+      padding: 10px 20px;
+      font-weight: 600;
+      border-radius: 8px;
+      border: none;
+      cursor: pointer;
+      font-family: inherit;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+    }
+    .btn-print {
+      background: #2563eb;
+      color: white;
+    }
+    .btn-edit {
+      background: white;
+      color: #334155;
+      border: 1px solid #cbd5e1;
+    }
+    
+    @media print {
+      body {
+        background: transparent;
+        padding: 0;
+      }
+      .print-controls {
+        display: none;
+      }
+      .card-container {
+        box-shadow: none;
+        page-break-inside: avoid;
+        margin-bottom: 0;
+        margin-top: 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- FRONT OF ACTIVATION CARD -->
+  <div class="card-container">
+    <div class="card-header">
+      <div class="app-title-group">
+        <h1>MATTEO'S LEARNING HUB</h1>
+        <p>MATATAG Curriculum Companion</p>
+      </div>
+      <div class="badge-vip">PREMIUM ACCESS</div>
+    </div>
+    
+    <div class="card-body">
+      <div class="license-group">
+        <div class="license-label">VIP LICENSE KEY</div>
+        <div class="license-key-box" contenteditable="true">MLH-3A7B-9X2K-4D8C</div>
+      </div>
+      
+      <div class="qr-container">
+        <!-- Replace the source below with your actual QR code image URL or place a real QR code image file -->
+        <div class="qr-placeholder">SCAN TO<br>DOWNLOAD</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- BACK OF ACTIVATION CARD -->
+  <div class="card-container card-back">
+    <div class="back-content">
+      <div class="back-header">
+        <h2>Easy Activation Guide</h2>
+        <ul class="instructions-list">
+          <li>
+            <span class="step-num">1</span>
+            <div>Scan the QR code on the front of this card using your phone camera to download and install the app (or visit the download link).</div>
+          </li>
+          <li>
+            <span class="step-num">2</span>
+            <div>Open the app and proceed through the onboarding steps until you reach the activation screen.</div>
+          </li>
+          <li>
+            <span class="step-num">3</span>
+            <div>Type the VIP License Key exactly as printed on the front of this card to unlock the premium syllabus.</div>
+          </li>
+        </ul>
+      </div>
+      
+      <div class="back-footer">
+        <span>Support: iam.moondae@gmail.com</span>
+        <span>Made for Grades 1, 2 & 3 MATATAG Hub</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- PRINT CONTROLS -->
+  <div class="print-controls">
+    <button class="btn btn-print" onclick="window.print()">🖨️ Print Cards</button>
+    <button class="btn btn-edit" onclick="alert('You can double-click the license key code on the front card to edit it before printing!')">✏️ How to Edit Key</button>
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,19 @@
+# Ignore compiled app binaries
+*.apk
+*.zip
+
+# Ignore local archive of obsolete files
+orphaned_files/
+
+# Ignore browser user data
+scratch/brave_user_data/
+
+# Ignore local build tools and Android SDK
+build-tools/
+
+# Ignore local node packages and IDE files
+node_modules/
+.idea/
+.gradle/
+build/
+local.properties

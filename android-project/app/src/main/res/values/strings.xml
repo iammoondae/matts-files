@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Matteo\'s Learning Hub</string>
+    <string name="guest_banner_text">⚠️ Guest mode — progress saved on this device only.  Sign in to save to cloud.</string>
+</resources>

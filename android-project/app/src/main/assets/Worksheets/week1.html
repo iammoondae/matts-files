@@ -1,0 +1,844 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Grade 3 MATATAG  - Week 1 Worksheets</title>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@600;700;800&display=swap" rel="stylesheet">
+  
+  <style>
+    /* Global Print & Page Styling */
+    @page {
+      size: A4 landscape;
+      margin: 0;
+    }
+    
+    * {
+      box-sizing: border-box;
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+    }
+    
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Inter', sans-serif;
+      background: #f1f5f9;
+      color: #1e293b;
+    }
+    
+    /* Screen View Container */
+    .worksheets-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 20px;
+      padding: 20px 0;
+    }
+    
+    /* Individual Page Container */
+    .page {
+      width: 297mm;
+      height: 210mm;
+      background: #ffffff;
+      padding: 14mm 16mm;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+      overflow: hidden;
+    }
+    
+    /* Printable breaks */
+    @media print {
+      body {
+        background: #ffffff;
+      }
+      .worksheets-container {
+        padding: 0;
+        gap: 0;
+      }
+      .page {
+        box-shadow: none;
+        page-break-after: always;
+        break-after: page;
+      }
+    }
+    
+    /* Header layouts */
+    .page-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      border-bottom: 2px solid #e2e8f0;
+      padding-bottom: 8px;
+      margin-bottom: 12px;
+      height: 52px;
+    }
+    
+    .header-title-block h1 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 20px;
+      margin: 2px 0 0 0;
+      color: #0f172a;
+    }
+    
+    .subject-badge {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      padding: 3px 8px;
+      border-radius: 4px;
+      color: #ffffff;
+    }
+    
+    /* Subject Theme Colors */
+    .math-theme { background-color: #3b82f6; }
+    .science-theme { background-color: #10b981; }
+    .english-theme { background-color: #f59e0b; }
+    .filipino-theme { background-color: #ef4444; }
+    .makabansa-theme { background-color: #6366f1; }
+    .gmrc-theme { background-color: #8b5cf6; }
+    
+    /* Metadata fields on Page 1 */
+    .student-meta-block {
+      display: flex;
+      gap: 15px;
+      font-size: 11px;
+      color: #334155;
+    }
+    
+    .meta-field {
+      border-bottom: 1px dashed #64748b;
+      padding-bottom: 2px;
+      width: 140px;
+    }
+    
+    .meta-field.large {
+      width: 220px;
+    }
+    
+    .page-indicator {
+      font-size: 11px;
+      font-weight: 600;
+      color: #64748b;
+      align-self: flex-end;
+    }
+    
+    /* Main Content Layout */
+    .content-area {
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    
+    .instruction-text {
+      font-size: 12px;
+      font-weight: 500;
+      color: #475569;
+      background: #f8fafc;
+      padding: 8px 12px;
+      border-left: 3px solid #64748b;
+      margin: 0;
+    }
+    
+    /* Drawing and Annotation Elements */
+    .drawing-board {
+      border: 2px dashed #cbd5e1;
+      background: #fafaf9;
+      border-radius: 8px;
+      flex-grow: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #94a3b8;
+      font-size: 11px;
+      font-style: italic;
+      position: relative;
+    }
+    
+    .drawing-label {
+      position: absolute;
+      top: 6px;
+      left: 8px;
+      font-weight: 500;
+      color: #64748b;
+      font-style: normal;
+    }
+    
+    /* Primary Handwriting Guides */
+    .handwriting-container {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      margin: 10px 0;
+    }
+    
+    .handwriting-line {
+      height: 28px;
+      position: relative;
+      border-bottom: 1.5px solid #a5f3fc; /* Bottom cyan line */
+    }
+    
+    .handwriting-line::before {
+      content: '';
+      position: absolute;
+      top: 50%;
+      left: 0;
+      width: 100%;
+      border-top: 1.5px dashed #fca5a5; /* Middle dashed pink line */
+    }
+    
+    .handwriting-line::after {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      border-top: 1.5px solid #a5f3fc; /* Top cyan line */
+    }
+    
+    /* Math Graph paper grid template */
+    .math-grid {
+      border: 1px solid #cbd5e1;
+      background-size: 24px 24px;
+      background-image: linear-gradient(to right, #f1f5f9 1px, transparent 1px),
+                        linear-gradient(to bottom, #f1f5f9 1px, transparent 1px);
+      background-color: #fafafa;
+      position: relative;
+      flex-grow: 1;
+      border-radius: 6px;
+    }
+    
+    /* Grid layout blocks */
+    .two-column-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 15px;
+      flex-grow: 1;
+    }
+    
+    .task-card {
+      border: 1px solid #e2e8f0;
+      border-radius: 8px;
+      padding: 10px 12px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    
+    .task-title {
+      font-size: 12px;
+      font-weight: 700;
+      color: #334155;
+      border-bottom: 1px solid #f1f5f9;
+      padding-bottom: 4px;
+    }
+    
+    .task-item {
+      font-size: 11px;
+      line-height: 1.4;
+    }
+    
+    /* Footers */
+    .page-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-top: 1px solid #e2e8f0;
+      padding-top: 6px;
+      font-size: 9px;
+      color: #94a3b8;
+      height: 18px;
+    }
+    
+    /* Specific question items */
+    .question-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 6px 0;
+      border-bottom: 1px solid #f1f5f9;
+      font-size: 11px;
+    }
+    
+    .answer-line {
+      width: 140px;
+      border-bottom: 1.5px solid #475569;
+      height: 16px;
+      margin-left: 8px;
+      display: inline-block;
+    }
+    
+    .fil-translation {
+      font-size: 9.5px;
+      color: #64748b;
+      display: block;
+      margin-top: 2px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="worksheets-container">
+
+  <!-- PAGE 1: MATHEMATICS (PAGE 1/2) -->
+  <div class="page">
+    <header class="page-header">
+      <div class="header-title-block">
+        <span class="subject-badge math-theme">🔢 Mathematics</span>
+        <h1>Place Value Columns up to 1,000</h1>
+      </div>
+      <div class="student-meta-block">
+        <div><strong>Name:</strong> <span class="meta-field large"></span></div>
+        <div><strong>Date:</strong> <span class="meta-field"></span></div>
+        <div><strong>Score:</strong> <span class="meta-field" style="width:40px;"></span></div>
+      </div>
+    </header>
+    
+    <div class="content-area">
+      <p class="instruction-text">Analyze the 3-digit numbers below. Fill in the Place Value chart (Hundreds, Tens, and Ones) and write down the digit values inside the grid paper panels using your stylus.</p>
+      
+      <div class="two-column-grid">
+        <div class="task-card">
+          <div class="task-title">Task A: Place Value Columns</div>
+          
+          <table style="width: 100%; border-collapse: collapse; margin-top: 8px; font-size: 11px;">
+            <thead>
+              <tr style="background: #f8fafc; border: 1px solid #cbd5e1;">
+                <th style="padding: 6px; border: 1px solid #cbd5e1;">Number</th>
+                <th style="padding: 6px; border: 1px solid #cbd5e1; color: #3b82f6;">Hundreds</th>
+                <th style="padding: 6px; border: 1px solid #cbd5e1; color: #10b981;">Tens</th>
+                <th style="padding: 6px; border: 1px solid #cbd5e1; color: #ef4444;">Ones</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td style="padding: 8px; border: 1px solid #cbd5e1; text-align: center; font-weight: 700;">345</td>
+                <td style="border: 1px solid #cbd5e1;"></td>
+                <td style="border: 1px solid #cbd5e1;"></td>
+                <td style="border: 1px solid #cbd5e1;"></td>
+              </tr>
+              <tr>
+                <td style="padding: 8px; border: 1px solid #cbd5e1; text-align: center; font-weight: 700;">608</td>
+                <td style="border: 1px solid #cbd5e1;"></td>
+                <td style="border: 1px solid #cbd5e1;"></td>
+                <td style="border: 1px solid #cbd5e1;"></td>
+              </tr>
+              <tr>
+                <td style="padding: 8px; border: 1px solid #cbd5e1; text-align: center; font-weight: 700;">791</td>
+                <td style="border: 1px solid #cbd5e1;"></td>
+                <td style="border: 1px solid #cbd5e1;"></td>
+                <td style="border: 1px solid #cbd5e1;"></td>
+              </tr>
+              <tr>
+                <td style="padding: 8px; border: 1px solid #cbd5e1; text-align: center; font-weight: 700;">950</td>
+                <td style="border: 1px solid #cbd5e1;"></td>
+                <td style="border: 1px solid #cbd5e1;"></td>
+                <td style="border: 1px solid #cbd5e1;"></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+        
+        <div class="task-card">
+          <div class="task-title">Task B: Value Sketching Grid</div>
+          <div class="math-grid">
+            <span class="drawing-label">Show standard expanded form (e.g. 345 = 300 + 40 + 5) inside the grid boxes:</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <footer class="page-footer">
+      <span>Grade 3 MATATAG  - Week 1 Worksheet</span>
+      <span class="page-indicator">Page 1 of 12</span>
+    </footer>
+  </div>
+
+  <!-- PAGE 2: MATHEMATICS (PAGE 2/2) -->
+  <div class="page">
+    <header class="page-header">
+      <div class="header-title-block">
+        <span class="subject-badge math-theme">🔢 Mathematics</span>
+        <h1>Roman Numerals Conversion</h1>
+      </div>
+      <div class="page-indicator">Page 2 of 12</div>
+    </header>
+    
+    <div class="content-area">
+      <p class="instruction-text">Convert the standard Arabic numerals into Roman Numerals (I, V, X) and vice versa. Draw matching lines to connect standard numbers to their Roman values.</p>
+      
+      <div class="two-column-grid">
+        <div class="task-card">
+          <div class="task-title">Task A: Write the Equivalent Roman Numeral</div>
+          <div style="display:flex; flex-direction:column; gap: 8px; padding-top: 4px;">
+            <div class="question-row"><span>1. Standard Number <b>4</b>:</span><span class="answer-line"></span></div>
+            <div class="question-row"><span>2. Standard Number <b>6</b>:</span><span class="answer-line"></span></div>
+            <div class="question-row"><span>3. Standard Number <b>9</b>:</span><span class="answer-line"></span></div>
+            <div class="question-row"><span>4. Standard Number <b>12</b>:</span><span class="answer-line"></span></div>
+            <div class="question-row"><span>5. Standard Number <b>15</b>:</span><span class="answer-line"></span></div>
+          </div>
+        </div>
+        
+        <div class="task-card">
+          <div class="task-title">Task B: Matching Draw Zone</div>
+          <div class="drawing-board">
+            <span class="drawing-label">Draw lines matching standard numbers on the left to Roman equivalents on the right:</span>
+            <div style="display:flex; justify-content:space-between; width:70%; margin-top:20px; font-weight:700; font-size:12px;">
+              <div style="display:flex; flex-direction:column; gap:16px;">
+                <span>3</span>
+                <span>8</span>
+                <span>10</span>
+                <span>14</span>
+              </div>
+              <div style="display:flex; flex-direction:column; gap:16px; align-items:flex-end;">
+                <span>X</span>
+                <span>XIV</span>
+                <span>III</span>
+                <span>VIII</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <footer class="page-footer">
+      <span>Grade 3 MATATAG  - Week 1 Worksheet</span>
+      <span>Page 2 of 12</span>
+    </footer>
+  </div>
+
+  <!-- PAGE 3: SCIENCE (PAGE 1/2) -->
+  <div class="page">
+    <header class="page-header">
+      <div class="header-title-block">
+        <span class="subject-badge science-theme">🔬 Science</span>
+        <h1>Observing Stimuli with Our Senses</h1>
+      </div>
+      <div class="page-indicator">Page 3 of 12</div>
+    </header>
+    
+    <div class="content-area">
+      <p class="instruction-text">Choose a real-world object (e.g., an apple, leaf, or eraser). Draw it in the sketch zone, and write sensory observation statements next to the corresponding human receptor organ.</p>
+      
+      <div class="two-column-grid" style="grid-template-columns: 1.2fr 1.8fr;">
+        <div class="task-card">
+          <div class="task-title">Receptor Object Sketch</div>
+          <div class="drawing-board">
+            <span class="drawing-label">Sketch your chosen object here:</span>
+          </div>
+        </div>
+        
+        <div class="task-card">
+          <div class="task-title">Sensory Observation Notes (Active Writing)</div>
+          <div style="display:flex; flex-direction:column; gap:6px;">
+            <div class="question-row" style="border:none; padding: 3px 0;"><strong>👁️ Eyes (Sight):</strong> <span class="answer-line" style="width:260px;"></span></div>
+            <div class="question-row" style="border:none; padding: 3px 0;"><strong>👃 Nose (Smell):</strong> <span class="answer-line" style="width:255px;"></span></div>
+            <div class="question-row" style="border:none; padding: 3px 0;"><strong>👂 Ears (Hearing):</strong> <span class="answer-line" style="width:252px;"></span></div>
+            <div class="question-row" style="border:none; padding: 3px 0;"><strong>👅 Tongue (Taste):</strong> <span class="answer-line" style="width:252px;"></span></div>
+            <div class="question-row" style="border:none; padding: 3px 0;"><strong>🖐️ Skin (Touch):</strong> <span class="answer-line" style="width:260px;"></span></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <footer class="page-footer">
+      <span>Grade 3 MATATAG  - Week 1 Worksheet</span>
+      <span>Page 3 of 12</span>
+    </footer>
+  </div>
+
+  <!-- PAGE 4: SCIENCE (PAGE 2/2) -->
+  <div class="page">
+    <header class="page-header">
+      <div class="header-title-block">
+        <span class="subject-badge science-theme">🔬 Science</span>
+        <h1>Scientific Observation Tools & Inference</h1>
+      </div>
+      <div class="page-indicator">Page 4 of 12</div>
+    </header>
+    
+    <div class="content-area">
+      <p class="instruction-text">Label the scientific tools used to enhance human sensory observation, and complete the analytical scientific inference below.</p>
+      
+      <div class="two-column-grid">
+        <div class="task-card">
+          <div class="task-title">Task A: Identify and Match Sensory Tools</div>
+          <div style="display:flex; flex-direction:column; gap:8px; font-size:11px;">
+            <div class="question-row"><span>1. Tool to measure temperature (e.g. skin helper):</span><span class="answer-line"></span></div>
+            <div class="question-row"><span>2. Tool to look at microscopic cells (eye helper):</span><span class="answer-line"></span></div>
+            <div class="question-row"><span>3. Tool to amplify soft heartbeats (ear helper):</span><span class="answer-line"></span></div>
+            <div class="question-row"><span>4. Tool to read millimeter lengths (eye helper):</span><span class="answer-line"></span></div>
+          </div>
+        </div>
+        
+        <div class="task-card" style="justify-content:space-between;">
+          <div class="task-title">Task B: Write a Scientific Inference</div>
+          <p class="task-item" style="margin: 0; font-weight: 500;">Explain the difference between observing with senses and making an inference (scientific deduction):</p>
+          <div class="handwriting-container" style="gap:10px; margin:0;">
+            <div class="handwriting-line"></div>
+            <div class="handwriting-line"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <footer class="page-footer">
+      <span>Grade 3 MATATAG  - Week 1 Worksheet</span>
+      <span>Page 4 of 12</span>
+    </footer>
+  </div>
+
+  <!-- PAGE 5: ENGLISH (PAGE 1/2) -->
+  <div class="page">
+    <header class="page-header">
+      <div class="header-title-block">
+        <span class="subject-badge english-theme">🙋‍♂️ English</span>
+        <h1>Self-Introduction Tracing & Writing</h1>
+      </div>
+      <div class="page-indicator">Page 5 of 12</div>
+    </header>
+    
+    <div class="content-area">
+      <p class="instruction-text">Write a clean, descriptive paragraph introducing yourself (mentioning name, age, favorite subject, and a hobby) on the primary colored handwriting guidelines.</p>
+      
+      <div class="task-card" style="flex-grow: 1; justify-content: space-around; padding: 15px;">
+        <div class="task-title">Self-Introduction Paragraph (Practice neat spacing)</div>
+        <div class="handwriting-container">
+          <div class="handwriting-line"></div>
+          <div class="handwriting-line"></div>
+          <div class="handwriting-line"></div>
+          <div class="handwriting-line"></div>
+        </div>
+      </div>
+    </div>
+    
+    <footer class="page-footer">
+      <span>Grade 3 MATATAG  - Week 1 Worksheet</span>
+      <span>Page 5 of 12</span>
+    </footer>
+  </div>
+
+  <!-- PAGE 6: ENGLISH (PAGE 2/2) -->
+  <div class="page">
+    <header class="page-header">
+      <div class="header-title-block">
+        <span class="subject-badge english-theme">🙋‍♂️ English</span>
+        <h1>Drawing 2-Step Directions</h1>
+      </div>
+      <div class="page-indicator">Page 6 of 12</div>
+    </header>
+    
+    <div class="content-area">
+      <p class="instruction-text">Read the multi-step directions inside each box. Use your stylus to draw exactly what is requested, showing that you can listen and follow 2-step directions.</p>
+      
+      <div class="two-column-grid">
+        <div class="task-card">
+          <div class="task-title">Box 1: Direction Instruction</div>
+          <p class="task-item" style="background:#f0fdf4; padding:6px; border-radius:4px; font-weight:600; color:#166534;">"First, draw a medium box in the center. Next, draw a smiley star inside it."</p>
+          <div class="drawing-board">
+            <span class="drawing-label">Draw Zone 1:</span>
+          </div>
+        </div>
+        
+        <div class="task-card">
+          <div class="task-title">Box 2: Direction Instruction</div>
+          <p class="task-item" style="background:#f0fdf4; padding:6px; border-radius:4px; font-weight:600; color:#166534;">"First, draw a cloud at the top. Next, draw three rain drops falling from it."</p>
+          <div class="drawing-board">
+            <span class="drawing-label">Draw Zone 2:</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <footer class="page-footer">
+      <span>Grade 3 MATATAG  - Week 1 Worksheet</span>
+      <span>Page 6 of 12</span>
+    </footer>
+  </div>
+
+  <!-- PAGE 7: FILIPINO (PAGE 1/2) -->
+  <div class="page">
+    <header class="page-header">
+      <div class="header-title-block">
+        <span class="subject-badge filipino-theme">🇵🇭 Filipino</span>
+        <h1>Pangngalang Pantangi at Pambalana</h1>
+      </div>
+      <div class="page-indicator">Page 7 of 12</div>
+    </header>
+    
+    <div class="content-area">
+      <p class="instruction-text">
+        Isulat ang mga pangngalan sa tamang hanay sa ibaba.
+        <span class="fil-translation">Write the nouns in the correct columns (Proper Noun vs. Common Noun).</span>
+      </p>
+      
+      <div style="font-weight:700; font-size:12px; background:#fef2f2; border:1px solid #fee2e2; padding:8px 12px; text-align:center; border-radius:6px; letter-spacing:1px;">
+        Maynila &nbsp;&bull;&nbsp; guro &nbsp;&bull;&nbsp; lapis &nbsp;&bull;&nbsp; Dr. Jose Rizal &nbsp;&bull;&nbsp; aso &nbsp;&bull;&nbsp; Pilipinas &nbsp;&bull;&nbsp; aklat &nbsp;&bull;&nbsp; Mongol
+      </div>
+      
+      <div class="two-column-grid" style="margin-top: 5px;">
+        <div class="task-card">
+          <div class="task-title" style="color:#ef4444;">Pangngalang Pantangi (Proper Noun)</div>
+          <div class="handwriting-container" style="gap:10px; margin:0;">
+            <div class="handwriting-line"></div>
+            <div class="handwriting-line"></div>
+            <div class="handwriting-line"></div>
+          </div>
+        </div>
+        
+        <div class="task-card">
+          <div class="task-title" style="color:#ef4444;">Pangngalang Pambalana (Common Noun)</div>
+          <div class="handwriting-container" style="gap:10px; margin:0;">
+            <div class="handwriting-line"></div>
+            <div class="handwriting-line"></div>
+            <div class="handwriting-line"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <footer class="page-footer">
+      <span>Grade 3 MATATAG  - Week 1 Worksheet</span>
+      <span>Page 7 of 12</span>
+    </footer>
+  </div>
+
+  <!-- PAGE 8: FILIPINO (PAGE 2/2) -->
+  <div class="page">
+    <header class="page-header">
+      <div class="header-title-block">
+        <span class="subject-badge filipino-theme">🇵🇭 Filipino</span>
+        <h1>Pangungusap at Pagsusuri ng Pangngalan</h1>
+      </div>
+      <div class="page-indicator">Page 8 of 12</div>
+    </header>
+    
+    <div class="content-area">
+      <p class="instruction-text">
+        Gamit ang stylus, lagyan ng linya (underlined) ang mga Pangngalang Pantangi at bilugan (circle) ang mga Pangngalang Pambalana sa maikling talata.
+        <span class="fil-translation">Use your stylus to underline Proper Nouns and circle Common Nouns in the short paragraph.</span>
+      </p>
+      
+      <div class="task-card" style="flex-grow:1; justify-content:space-around; padding:15px 20px;">
+        <div class="task-title">Talata (Paragraph for analysis)</div>
+        <div style="font-size:15px; line-height:2.2; letter-spacing:0.8px; font-weight:500; text-align:justify; background:#fbfbfa; border:1px dashed #d1d5db; padding:15px; border-radius:8px;">
+          Si <span style="border-bottom: 2px dotted #ef4444; padding-bottom:2px;">Matteo</span> ay isang matalinong mag-aaral. Siya ay nag-aaral sa paaralan ng <span style="border-bottom: 2px dotted #ef4444; padding-bottom:2px;">SSES</span>. Araw-araw, binabasa niya ang kanyang aklat sa tulong ng kanyang guro na si Gng. Santos. Mahal niya ang Pilipinas.
+        </div>
+        <div style="font-size:10px; color:#64748b; font-style:italic;">
+          * Translation: Matteo is a smart student. He studies at the SSES school. Every day, he reads his book with the help of his teacher, Mrs. Santos. He loves the Philippines.
+        </div>
+      </div>
+    </div>
+    
+    <footer class="page-footer">
+      <span>Grade 3 MATATAG  - Week 1 Worksheet</span>
+      <span>Page 8 of 12</span>
+    </footer>
+  </div>
+
+  <!-- PAGE 9: MAKABANSA (PAGE 1/2) -->
+  <div class="page">
+    <header class="page-header">
+      <div class="header-title-block">
+        <span class="subject-badge makabansa-theme">🏘️ Makabansa</span>
+        <h1>Kasaysayan at Aking Komunidad</h1>
+      </div>
+      <div class="page-indicator">Page 9 of 12</div>
+    </header>
+    
+    <div class="content-area">
+      <p class="instruction-text">
+        Iguhit ang isang mahalagang simbolo ng kasaysayan sa iyong sariling komunidad o barangay at sumulat ng maikling paliwanag sa gilid.
+        <span class="fil-translation">Draw an important historical symbol in your own community and write a short explanation next to it.</span>
+      </p>
+      
+      <div class="two-column-grid">
+        <div class="task-card">
+          <div class="task-title">Simbolo ng Aking Komunidad (Draw Zone)</div>
+          <div class="drawing-board">
+            <span class="drawing-label">Gumuhit dito (Draw here):</span>
+          </div>
+        </div>
+        
+        <div class="task-card" style="justify-content:space-around;">
+          <div class="task-title">Paliwanag (Explanation in handwriting lines)</div>
+          <div class="handwriting-container">
+            <div class="handwriting-line"></div>
+            <div class="handwriting-line"></div>
+            <div class="handwriting-line"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <footer class="page-footer">
+      <span>Grade 3 MATATAG  - Week 1 Worksheet</span>
+      <span>Page 9 of 12</span>
+    </footer>
+  </div>
+
+  <!-- PAGE 10: MAKABANSA (PAGE 2/2) -->
+  <div class="page">
+    <header class="page-header">
+      <div class="header-title-block">
+        <span class="subject-badge makabansa-theme">🏘️ Makabansa</span>
+        <h1>Timeline ng Mahahalagang Pangyayari</h1>
+      </div>
+      <div class="page-indicator">Page 10 of 12</div>
+    </header>
+    
+    <div class="content-area">
+      <p class="instruction-text">
+        Isulat sa loob ng bilog ang bilang 1, 2, at 3 upang pagsunud-sunurin ang mahahalagang pangyayari sa kasaysayan ng komunidad batay sa timeline.
+        <span class="fil-translation">Write numbers 1, 2, and 3 inside the circles to sequence the historical community events chronologically.</span>
+      </p>
+      
+      <div class="task-card" style="flex-grow:1; justify-content:space-around; padding:15px;">
+        <div style="display:flex; flex-direction:column; gap:12px;">
+          <div style="display:flex; align-items:center; gap:15px; background:#f8fafc; padding:8px; border-radius:6px;">
+            <div style="width:30px; height:30px; border-radius:50%; border:2px solid #6366f1; display:flex; align-items:center; justify-content:center; font-weight:700;"></div>
+            <div class="task-item">
+              <strong>Pagtatayo ng unang Paaralan sa komunidad</strong> (Building of the first school in the community)
+              <span class="fil-translation">Noong taong 1950, naitayo ang kauna-unahang paaralan para sa mga bata.</span>
+            </div>
+          </div>
+          
+          <div style="display:flex; align-items:center; gap:15px; background:#f8fafc; padding:8px; border-radius:6px;">
+            <div style="width:30px; height:30px; border-radius:50%; border:2px solid #6366f1; display:flex; align-items:center; justify-content:center; font-weight:700;"></div>
+            <div class="task-item">
+              <strong>Pagtatatag ng Barangay</strong> (Establishment of the Barangay)
+              <span class="fil-translation">Noong taong 1920, opisyal na itinatag ang komunidad bilang isang ganap na barangay.</span>
+            </div>
+          </div>
+          
+          <div style="display:flex; align-items:center; gap:15px; background:#f8fafc; padding:8px; border-radius:6px;">
+            <div style="width:30px; height:30px; border-radius:50%; border:2px solid #6366f1; display:flex; align-items:center; justify-content:center; font-weight:700;"></div>
+            <div class="task-item">
+              <strong>Pagkakaroon ng Kuryente at Kalsadang Semento</strong> (Introduction of electricity and cemented roads)
+              <span class="fil-translation">Noong taong 1980, nagkaroon ng suplay ng kuryente at sementadong daan sa buong bayan.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <footer class="page-footer">
+      <span>Grade 3 MATATAG  - Week 1 Worksheet</span>
+      <span>Page 10 of 12</span>
+    </footer>
+  </div>
+
+  <!-- PAGE 11: GMRC (PAGE 1/2) -->
+  <div class="page">
+    <header class="page-header">
+      <div class="header-title-block">
+        <span class="subject-badge gmrc-theme">🧘‍♂️ GMRC</span>
+        <h1>Personal Hygiene Reflection</h1>
+      </div>
+      <div class="page-indicator">Page 11 of 12</div>
+    </footer>
+    
+    <div class="content-area">
+      <p class="instruction-text">Write a reflective statement inside the template lines about why keeping your body clean is a form of self-respect and helps protect your health.</p>
+      
+      <div class="two-column-grid" style="grid-template-columns: 1.8fr 1.2fr;">
+        <div class="task-card" style="justify-content:space-around;">
+          <div class="task-title">Reflection Writing: Personal Hygiene as Self-Respect</div>
+          <div class="handwriting-container">
+            <div class="handwriting-line"></div>
+            <div class="handwriting-line"></div>
+            <div class="handwriting-line"></div>
+          </div>
+        </div>
+        
+        <div class="task-card" style="background:#faf5ff; border-color:#e9d5ff;">
+          <div class="task-title" style="color:#8b5cf6;">Hygiene Self-Checklist</div>
+          <div style="display:flex; flex-direction:column; gap:10px; padding-top:6px; font-size:11px; font-weight:500;">
+            <div style="display:flex; align-items:center; gap:8px;">
+              <div style="width:16px; height:16px; border:1px solid #8b5cf6; border-radius:3px;"></div>
+              <span>I take a bath every morning.</span>
+            </div>
+            <div style="display:flex; align-items:center; gap:8px;">
+              <div style="width:16px; height:16px; border:1px solid #8b5cf6; border-radius:3px;"></div>
+              <span>I wash my hands for 20 seconds.</span>
+            </div>
+            <div style="display:flex; align-items:center; gap:8px;">
+              <div style="width:16px; height:16px; border:1px solid #8b5cf6; border-radius:3px;"></div>
+              <span>I brush my teeth twice a day.</span>
+            </div>
+            <div style="display:flex; align-items:center; gap:8px;">
+              <div style="width:16px; height:16px; border:1px solid #8b5cf6; border-radius:3px;"></div>
+              <span>I trim my fingernails weekly.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <footer class="page-footer">
+      <span>Grade 3 MATATAG  - Week 1 Worksheet</span>
+      <span>Page 11 of 12</span>
+    </footer>
+  </div>
+
+  <!-- PAGE 12: GMRC (PAGE 2/2) -->
+  <div class="page">
+    <header class="page-header">
+      <div class="header-title-block">
+        <span class="subject-badge gmrc-theme">🧘‍♂️ GMRC</span>
+        <h1>Daily Discipline Tracker & Planner</h1>
+      </div>
+      <div class="page-indicator">Page 12 of 12</div>
+    </footer>
+    
+    <div class="content-area">
+      <p class="instruction-text">Plan your disciplined routine by writing down one responsible task that you will carry out every day in the morning, afternoon, and evening.</p>
+      
+      <div class="task-card" style="flex-grow:1; justify-content:space-around;">
+        <div style="display:grid; grid-template-columns: 1fr 1fr 1fr; gap:15px; height:100%;">
+          <div style="border:1.5px dashed #cbd5e1; border-radius:8px; padding:10px; display:flex; flex-direction:column; justify-content:space-between; background:#fafafa;">
+            <div style="font-weight:700; font-size:12px; color:#b45309; text-align:center; border-bottom:1px solid #e2e8f0; padding-bottom:4px;">🌅 Morning (Umaga)</div>
+            <div class="handwriting-container" style="gap:10px; margin:0;">
+              <div class="handwriting-line"></div>
+              <div class="handwriting-line"></div>
+            </div>
+          </div>
+          
+          <div style="border:1.5px dashed #cbd5e1; border-radius:8px; padding:10px; display:flex; flex-direction:column; justify-content:space-between; background:#fafafa;">
+            <div style="font-weight:700; font-size:12px; color:#15803d; text-align:center; border-bottom:1px solid #e2e8f0; padding-bottom:4px;">☀️ Afternoon (Hapon)</div>
+            <div class="handwriting-container" style="gap:10px; margin:0;">
+              <div class="handwriting-line"></div>
+              <div class="handwriting-line"></div>
+            </div>
+          </div>
+          
+          <div style="border:1.5px dashed #cbd5e1; border-radius:8px; padding:10px; display:flex; flex-direction:column; justify-content:space-between; background:#fafafa;">
+            <div style="font-weight:700; font-size:12px; color:#4338ca; text-align:center; border-bottom:1px solid #e2e8f0; padding-bottom:4px;">🌙 Evening (Gabi)</div>
+            <div class="handwriting-container" style="gap:10px; margin:0;">
+              <div class="handwriting-line"></div>
+              <div class="handwriting-line"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <footer class="page-footer">
+      <span>Grade 3 MATATAG  - Week 1 Worksheet</span>
+      <span>Page 12 of 12</span>
+    </footer>
+  </div>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,603 @@
+{
+  "color": "#f59e0b",
+  "icon": "🏝️",
+  "title": "Makabansa",
+  "subtitle": "Week 3: Mga Pangyayari sa Ating Pook",
+  "slides": [
+    {
+      "title": "Welcome sa Week 3!",
+      "text": "<span class=\"fil-sentence\" data-translation=\"How are you, little researcher? Welcome to Week 3!\">Kumusta ka, maliit na researcher? Welcome sa Week 3!</span>\n<span class=\"fil-sentence\" data-translation=\"This week, we will study about events in our community.\">Ngayong linggo, mag-aaral tayo tungkol sa mga pangyayari.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's identify the festivals and celebrations in the place.\">Tukuyin natin ang mga pagdiriwang at pista sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's learn the importance of our local traditions today.\">Alamin natin ang kahalagahan ng mga tradisyon natin.</span>\n<span class=\"fil-sentence\" data-translation=\"There are local songs and dances that reflect these events.\">May mga lokal na awitin at sayaw na sumasalamin dito.</span>\n<span class=\"fil-sentence\" data-translation=\"We will also study their correct historical sequence yonder.\">Pag-aaralan din natin ang tamang pagkakasunod-sunod nito.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready to join in the happy town festival today?\">Handa ka na bang sumali sa masayang pista ng bayan?</span>\n<span class=\"fil-sentence\" data-translation=\"Let's start exploring with enthusiasm in our class today!\">Magsimula tayong mag-explore na may kasiglahan ngayon!</span>",
+      "examples": [
+        {
+          "title": "Layunin ng Aralin",
+          "content": "Matukoy ang mahahalagang pagdiriwang at tradisyon sa sariling pook."
+        }
+      ]
+    },
+    {
+      "title": "Mga Tradisyon at Kasaysayan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Traditions are practices passed down by our ancestors.\">Ang tradisyon ay mga gawi na ipinapasa ng ninuno.</span>\n<span class=\"fil-sentence\" data-translation=\"These reflect the long history of our local place yonder.\">Sinasalamin nito ang mahabang kasaysayan ng pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: the celebration of our local barangay festival.\">Halimbawa: ang pagsasagawa ng pista ng barangay.</span>\n<span class=\"fil-sentence\" data-translation=\"Here people express gratitude for a bountiful harvest in town.\">Dito nagpapasalamat ang mga tao sa magandang ani.</span>\n<span class=\"fil-sentence\" data-translation=\"The entire community unites in this happy celebration daily.\">Nagkakaisa ang buong komunidad sa pagdiriwang na ito.</span>\n<span class=\"fil-sentence\" data-translation=\"Tradition gives life to our local culture and heritage.\">Ang tradisyon ay nagbibigay-buhay sa kultura natin.</span>\n<span class=\"fil-sentence\" data-translation=\"This helps identify and define our community in history.\">Nakatutulong ito upang makilala ang ating komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"What tradition is practiced in your own local place today?\">Anong tradisyon ang ginagawa sa inyong sariling pook?</span>",
+      "examples": [
+        {
+          "title": "Tradisyon",
+          "content": "mga pista, kapistahan ng patron, katutubong laro"
+        }
+      ]
+    },
+    {
+      "title": "Ang Pista ng Pahiyas sa Quezon",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The Pahiyas Festival is a famous regional celebration.\">Ang Pista ng Pahiyas ay isang sikat na pagdiriwang.</span>\n<span class=\"fil-sentence\" data-translation=\"It is held in Lucban yonder in Quezon province on May 15.\">Ginaganap ito sa Lucban, Quezon tuwing Mayo 15.</span>\n<span class=\"fil-sentence\" data-translation=\"It is a tribute to San Isidro Labrador, the patron saint.\">Ito ay parangal kay San Isidro Labrador na patron.</span>\n<span class=\"fil-sentence\" data-translation=\"He is the patron saint of farmers in our country today.\">Siya ang patron ng mga magsasaka sa ating bansa.</span>\n<span class=\"fil-sentence\" data-translation=\"Houses are decorated with colorful kiping on their facades.\">Pinalalamutian ng kiping ang harap ng mga bahay.</span>\n<span class=\"fil-sentence\" data-translation=\"Kiping is made of rice paste colored in vibrant shades.\">Ang kiping ay yari sa bigas na may iba't ibang kulay.</span>\n<span class=\"fil-sentence\" data-translation=\"They express gratitude for the abundant harvest of vegetables.\">Nagpapasalamat sila sa saganang ani ng mga gulay.</span>\n<span class=\"fil-sentence\" data-translation=\"A colorful tradition visited by many people yonder!\">Isang makulay na tradisyon na dinarayo ng marami!</span>",
+      "examples": [
+        {
+          "title": "Pahiyas",
+          "content": "Mayo 15 (Lucban, Quezon) -> parangal sa patron ng magsasaka."
+        }
+      ]
+    },
+    {
+      "title": "Ang Pista ng Lechon sa Batangas",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check another well-known local festival yonder.\">Suriin natin ang isa pang kilalang pagdiriwang.</span>\n<span class=\"fil-sentence\" data-translation=\"This is the Lechon Festival in Balayan yonder in Batangas.\">Ito ay ang Pista ng Lechon sa Balayan, Batangas.</span>\n<span class=\"fil-sentence\" data-translation=\"It is celebrated on June 24 in our neighboring province.\">Ginaganap ito tuwing Hunyo 24 sa ating lalawigan.</span>\n<span class=\"fil-sentence\" data-translation=\"It coincides with the feast of Saint John the Baptist.\">Ito ay kasabay ng kapistahan ni San Juan Bautista.</span>\n<span class=\"fil-sentence\" data-translation=\"Roasted pigs (lechon) are dressed up in funny outfits.\">Pinalalamutian at binibihisan ang mga inihaw na lechon.</span>\n<span class=\"fil-sentence\" data-translation=\"They are paraded on the streets while people have fun.\">Ipinaparada ang mga ito sa kalsada habang nagsasaya.</span>\n<span class=\"fil-sentence\" data-translation=\"There is also a tradition of splashing water on people.\">May tradisyon din ng basaan ng tubig sa mga tao.</span>\n<span class=\"fil-sentence\" data-translation=\"Why do we splash water during the feast of Saint John?\">Bakit nagbabasa ng tubig kapag kapistahan ni San Juan?</span>",
+      "examples": [
+        {
+          "title": "Pista ng Lechon",
+          "content": "Hunyo 24 (Balayan, Batangas) -> parada ng nakadamit na lechon."
+        }
+      ]
+    },
+    {
+      "title": "Ang Pista ng Pinya sa Daet",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The Pineapple Festival is celebrated in Daet, Camarines.\">Ang Pista ng Pinya ay ginaganap sa Daet, Camarines.</span>\n<span class=\"fil-sentence\" data-translation=\"They showcase the sweet pineapple variety grown in the place.\">Ipinagmamalaki rito ang matamis na pinya sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"The pineapple yonder in Daet is famous as the Formosa variety.\">Ang pinya sa Daet ay kilala sa tawag na Formosa.</span>\n<span class=\"fil-sentence\" data-translation=\"It has a small size but is extremely sweet to eat daily.\">Ito ay may maliit na sukat ngunit napakatamis kainin.</span>\n<span class=\"fil-sentence\" data-translation=\"There are street dancing performances showing pineapple farming.\">May mga street dancing na naglalahad ng pagsasaka.</span>\n<span class=\"fil-sentence\" data-translation=\"The festival reflects the primary source of livelihood there.\">Sinasalamin ng pista ang pangunahing kabuhayan doon.</span>\n<span class=\"fil-sentence\" data-translation=\"They used this fruit to gain recognition in the country.\">Ginamit nila ang prutas na ito upang makilala sa bansa.</span>\n<span class=\"fil-sentence\" data-translation=\"Have you tasted a sweet pineapple in your town today?\">Nakakain ka na ba ng matamis na pinya sa inyong bayan?</span>",
+      "examples": [
+        {
+          "title": "Pista ng Pinya",
+          "content": "Pagdiriwang ng Formosa pinya bilang pangunahing ani."
+        }
+      ]
+    },
+    {
+      "title": "Mga Lokal na Sining at Kagamitan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"During festivals, local arts and crafts are proudly displayed.\">Sa mga pagdiriwang, ipinapakita ang lokal na sining.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: making woven mats, native baskets, and wooden clogs.\">Halimbawa: ang paggawa ng mga banig, basket, at bakya.</span>\n<span class=\"fil-sentence\" data-translation=\"These are made of natural materials found in our local place.\">Ang mga ito ay gawa sa likas na materyal sa pook natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Such as pandan leaves, bamboo twigs, and hard wood blocks.\">Tulad ng dahon ng pandan, kawayan, at matigas na kahoy.</span>\n<span class=\"fil-sentence\" data-translation=\"This weaving and carving art was passed down by ancestors.\">Ang sining na ito ay ipinasa ng ating mga ninuno.</span>\n<span class=\"fil-sentence\" data-translation=\"This belongs to the historical heritage of our community.\">Bahagi ito ng makasaysayang pamana ng ating komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"This helps support the livelihood of many local families.\">Nakatutulong ito sa kabuhayan ng maraming pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"Do you have a basket made of bamboo in your house today?\">Mayroon ka bang basket na gawa sa kawayan sa bahay?</span>",
+      "examples": [
+        {
+          "title": "Lokal na Sining",
+          "content": "banig (woven mats), basket, bakya (wooden shoes)"
+        }
+      ]
+    },
+    {
+      "title": "Ang Timeline ng Pista",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The celebration has a clear sequence of events yonder.\">Ang pagdiriwang ay may pagkakasunod-sunod ng kaganapan.</span>\n<span class=\"fil-sentence\" data-translation=\"We can display this sequence using a timeline format today.\">Maaari natin itong ipakita sa isang timeline ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"Morning: the parade of school bands begins on the street.\">Umaga: nagsisimula ang parada ng mga banda sa kalsada.</span>\n<span class=\"fil-sentence\" data-translation=\"Noon: there is sharing of food and lunch inside every house.\">Tanghali: may salo-salo at kainan sa bawat tahanan.</span>\n<span class=\"fil-sentence\" data-translation=\"Afternoon: there are games and street dancing in the plaza.\">Hapon: may mga palaro at street dancing sa plaza.</span>\n<span class=\"fil-sentence\" data-translation=\"Night: there are contests and fireworks in the dark sky.\">Gabi: may patimpalak at paputok sa kalawakan.</span>\n<span class=\"fil-sentence\" data-translation=\"The correct flow shows a well-organized community plan today.\">Ang tamang daloy ay nagpapakita ng maayos na plano.</span>\n<span class=\"fil-sentence\" data-translation=\"Check the sequence of events of your own town festival!\">Suriin ang pagkakasunod-sunod ng inyong pista sa bayan!</span>",
+      "examples": [
+        {
+          "title": "Timeline ng Pista",
+          "content": "Umaga (Parada) -> Tanghali (Kainan) -> Hapon (Palaro) -> Gabi (Paputok)"
+        }
+      ]
+    },
+    {
+      "title": "Katutubong Sayaw sa Pista",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Dances are an essential part of our local celebrations.\">Ang mga sayaw ay mahalagang bahagi ng pagdiriwang.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: the dance 'Cariñosa' or 'Tinikling' in our region.\">Halimbawa: ang sayaw na 'Cariñosa' o 'Tinikling' sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Tinikling uses two long bamboo poles tapped on the floor.\">Ang Tinikling ay ginagamitan ng dalawang kawayan.</span>\n<span class=\"fil-sentence\" data-translation=\"It mimics the movement of the tikling bird avoiding traps.\">Ginagaya nito ang pag-ilag ng ibong tikling sa patibong.</span>\n<span class=\"fil-sentence\" data-translation=\"Speed and physical coordination are needed to dance it well.\">Kailangan ng bilis at koordinasyon sa pagsayaw nito.</span>\n<span class=\"fil-sentence\" data-translation=\"The dance tells a visual story of our rich local culture.\">Ang sayaw ay naglalahad ng kwento ng ating kultura.</span>\n<span class=\"fil-sentence\" data-translation=\"We also sing local folk songs while dancing on the stage.\">Inaawit din natin ang mga lokal na kanta habang sumasayaw.</span>\n<span class=\"fil-sentence\" data-translation=\"Have you tried dancing the Tinikling in your school today?\">Nakasubok ka na bang sumayaw ng Tinikling sa paaralan?</span>",
+      "examples": [
+        {
+          "title": "Katutubong Sayaw",
+          "content": "Tinikling (pag-ilag ng ibon gamit ang kawayan)"
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Pagsusuri ng Pista",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze a local tradition in our community today.\">Suriin natin ang isang tradisyon sa ating komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"Read: 'The Pahiyas Festival was celebrated on May 15.'\">Basahin: 'Ipinagdiwang ang Pahiyas noong Mayo 15.'</span>\n<span class=\"fil-sentence\" data-translation=\"What is the occasion mentioned in our sentence yonder?\">Ano ang okasyon na binanggit sa ating pangungusap?</span>\n<span class=\"fil-sentence\" data-translation=\"The occasion is 'Pahiyas' which is a proper noun of event.\">Ang okasyon ay 'Pahiyas' na isang pantangi sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"When was it celebrated based on our written statement?\">Kailan ito ipinagdiwang batay sa ating pahayag?</span>\n<span class=\"fil-sentence\" data-translation=\"It was celebrated on 'May 15' which is a specific date.\">Ito ay ipinagdiwang noong 'Mayo 15' na isang petsa.</span>\n<span class=\"fil-sentence\" data-translation=\"This is a tradition of gratitude for a bountiful harvest.\">Ito ay tradisyon ng pasasalamat sa saganang ani.</span>\n<span class=\"fil-sentence\" data-translation=\"Did you find the event and time in your analysis today?\">Nahanap mo ba ang pangyayari at panahon sa pagsusuri?</span>",
+      "examples": [
+        {
+          "title": "Pagsusuri Pista",
+          "content": "Pangyayari -> Pahiyas, Panahon -> Mayo 15, Kahulugan -> Pasasalamat"
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Katutubong Sining",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze a woven mat made of pandan leaves today.\">Suriin natin ang isang banig na gawa sa pandan.</span>\n<span class=\"fil-sentence\" data-translation=\"The mat contains woven patterns of green, red, and yellow.\">Ang banig ay may kulay na berde, pula, at dilaw.</span>\n<span class=\"fil-sentence\" data-translation=\"Observe the shapes woven on its smooth physical surface.\">Suriin ang mga hugis na nakahabi sa ibabaw nito.</span>\n<span class=\"fil-sentence\" data-translation=\"There are shapes of flowers and waves of the nearby sea.\">May mga hugis ng bulaklak at alon ng malapit na dagat.</span>\n<span class=\"fil-sentence\" data-translation=\"This weaving art is called native weaving in our culture.\">Ang sining na ito ay tinatawag na katutubong habi.</span>\n<span class=\"fil-sentence\" data-translation=\"It was made by hand by a skilled local artist in town.\">Ito ay ginawa gamit ang kamay ng lokal na artista.</span>\n<span class=\"fil-sentence\" data-translation=\"This is a primary source of art in our local community.\">Ito ay isang primaryang batayan ng sining sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Draw the pattern of this woven mat on your drawing sheet!\">Iguhit ang pattern ng banig na ito sa inyong papel!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay Sining",
+          "content": "banig -> katutubong habi gamit ang dahon ng pandan"
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Leron Leron Sinta",
+      "text": "<span class=\"fil-sentence\" data-translation=\"We will sing the folk song 'Leron Leron Sinta' today.\">Aawitin natin ang 'Leron Leron Sinta' sa klase natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Read: 'Leron, leron sinta, bud of the papaya...'\">Basahin: 'Leron, leron sinta, buko ng papaya...'</span>\n<span class=\"fil-sentence\" data-translation=\"What is the fruit mentioned at the start of the song?\">Ano ang prutas na binanggit sa simula ng kanta?</span>\n<span class=\"fil-sentence\" data-translation=\"The fruit is 'papaya' which is a common noun of thing.\">Ang prutas ay 'papaya' na isang ngalan ng bagay.</span>\n<span class=\"fil-sentence\" data-translation=\"What is the person in the song doing up yonder tree?\">Ano ang ginagawa ng tao sa kanta sa itaas ng puno?</span>\n<span class=\"fil-sentence\" data-translation=\"He is picking fruits but the branch broke unexpectedly.\">Siya ay pumipitas ng prutas ngunit nabali ang sanga.</span>\n<span class=\"fil-sentence\" data-translation=\"This folk song describes the agricultural way of life yonder.\">Ang kantang ito ay naglalarawan ng buhay sa bukid.</span>\n<span class=\"fil-sentence\" data-translation=\"Write the name of this fruit onto your writing paper now!\">Isulat ang pangalan ng prutas na ito sa inyong papel!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay Awitin",
+          "content": "papaya (prutas) -> pamumuhay sa pagsasaka (agriculture)"
+        }
+      ]
+    },
+    {
+      "title": "Maling Pagtukoy sa Petsa ng Pista",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid confusing the dates of our local celebrations today.\">Iwasan ang paglilito sa mga petsa ng pagdiriwang.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'Pahiyas Festival is celebrated on December 25 yonder.'\">Mali: 'Ipinagdiriwang ang Pahiyas tuwing Disyembre 25.'</span>\n<span class=\"fil-sentence\" data-translation=\"December 25 is the date of Christmas, not of Pahiyas.\">Ang Disyembre 25 ay petsa ng Pasko, hindi ng Pahiyas.</span>\n<span class=\"fil-sentence\" data-translation=\"Pahiyas is celebrated on May 15 yonder in Quezon province.\">Ang Pahiyas ay ginaganap tuwing Mayo 15 sa Quezon.</span>\n<span class=\"fil-sentence\" data-translation=\"Correct: 'Pahiyas Festival is celebrated on May 15.'\">Tama: 'Ipinagdiriwang ang Pahiyas tuwing Mayo 15.'</span>\n<span class=\"fil-sentence\" data-translation=\"Make sure of the correct date in your historical reports.\">Tiyakin ang tamang petsa sa inyong kasaysayang ulat.</span>\n<span class=\"fil-sentence\" data-translation=\"Ask the elders in your family or read history books now!\">Magtanong sa nakatatanda o magbasa ng aklat ngayon!</span>\n<span class=\"fil-sentence\" data-translation=\"This is the way to keep your school work accurate today!\">Ito ang paraan upang maging tumpak ang iyong gawa!</span>",
+      "examples": [
+        {
+          "title": "Petsa Error",
+          "content": "mali: Pahiyas -> Disyembre 25, tama: Pahiyas -> Mayo 15"
+        }
+      ]
+    },
+    {
+      "title": "Maling Paglalarawan ng Sayaw",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid incorrect descriptions of our native folk dances today.\">Iwasan ang maling paglalarawan sa katutubong sayaw.</span>\n<span class=\"fil-sentence\" data-translation=\"Do not write yonder that Tinikling uses drinking glasses.\">Huwag sabihing ang Tinikling ay ginagamitan ng baso.</span>\n<span class=\"fil-sentence\" data-translation=\"The dance with glasses of light on the head is Pandanggo.\">Ang sayaw na may baso sa ulo ay Pandanggo sa Ilaw.</span>\n<span class=\"fil-sentence\" data-translation=\"The Tinikling uses large bamboo poles tapped on the floor.\">Ang Tinikling ay gumagamit ng malalaking kawayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Verify the dance props of each folk dance in your reports.\">Tiyakin ang mga kagamitan ng sayaw sa inyong ulat.</span>\n<span class=\"fil-sentence\" data-translation=\"You can watch the actual folk dance performed on stage yonder.\">Maaari mong panoorin ang sayaw upang makasiguro ka.</span>\n<span class=\"fil-sentence\" data-translation=\"Accurate details show our deep knowledge of culture yonder.\">Ang tumpak na detalye ay nagpapakita ng kaalaman natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful when writing about these native folk dances today!\">Maging maingat sa pagsulat ng mga katutubong sayaw ngayon!</span>",
+      "examples": [
+        {
+          "title": "Sayaw Pagsusuri",
+          "content": "Tinikling = kawayan (bamboo), Pandanggo = baso ng ilaw (glass)"
+        }
+      ]
+    },
+    {
+      "title": "Ang Kasaysayan ng Pista ng Pook",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Every festival has a deep history in our local place yonder.\">Ang bawat pista ay may malalim na kasaysayan sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"It is not just for eating; the gathering has a purpose.\">Ito ay hindi lamang kainan; may layunin ang pagtitipon.</span>\n<span class=\"fil-sentence\" data-translation=\"It aims to strengthen the unity of our local barangay life.\">Nilalayon nitong palakasin ang pagkakaisa ng barangay.</span>\n<span class=\"fil-sentence\" data-translation=\"It displays the products and livelihood of the community.\">Ipinapakita nito ang kabuhayan at produkto ng komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"E.g., pineapple in Daet, roasted pig in Balayan, kiping in Lucban.\">E.g., pinya sa Daet, lechon sa Balayan, kiping sa Lucban.</span>\n<span class=\"fil-sentence\" data-translation=\"We take pride in the abundant resources given to our place.\">Ipinagmamalaki natin ang mga yaman na ibinigay sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"This provides a unique identity to each province yonder.\">Ito ay nagbibigay-identidad sa bawat lalawigan natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's love the local arts and traditions of our place!\">Mahalin natin ang sining at tradisyon ng ating pook!</span>",
+      "examples": [
+        {
+          "title": "Kasaysayan ng Pista",
+          "content": "Pista = Pagdiriwang ng produkto, kabuhayan, at pagkakaisa."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 1",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 1",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 2",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 2",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 3",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 3",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 4",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 4",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 5",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 5",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 6",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 6",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 7",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 7",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 8",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 8",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 9",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 9",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 10",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 10",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Buod ng Ikatlong Linggo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed all the slides for this week.\">Binabati kita! Natapos mo ang lahat ng slide sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about famous festivals like the Pahiyas yonder.\">Natutunan natin ang mga sikat na pista tulad ng Pahiyas.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about the Lechon Festival and Pineapple Festival.\">Natutunan natin ang Pista ng Lechon at Pista ng Pinya.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied native folk dances like the Tinikling yonder.\">Nag-aral tayo ng mga katutubong sayaw tulad ng Tinikling.</span>\n<span class=\"fil-sentence\" data-translation=\"We examined local arts like woven mats and bamboo baskets.\">Suriin natin ang mga sining tulad ng banig at basket.</span>\n<span class=\"fil-sentence\" data-translation=\"We created timelines of events during our town festivals.\">Gumawa tayo ng timeline ng kaganapan sa pista ng bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready for the quiz and challenges of this week now?\">Handa ka na ba sa pagsusulit at hamon ng linggong ito?</span>\n<span class=\"fil-sentence\" data-translation=\"Continue loving the rich culture of our local community today!\">Ipagpatuloy ang pagmamahal sa kultura ng ating komunidad!</span>",
+      "examples": [
+        {
+          "title": "Tandaan",
+          "content": "Pista = Tradisyon at Produkto. Sining = Habi at Ukit. Igalang natin!"
+        }
+      ]
+    }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Ano ang Pista ng Pahiyas na ipinagdiriwang tuwing Mayo 15?",
+      "options": [
+        "pambalana sa pook",
+        "pantangi sa pangyayari",
+        "pantangi sa tao",
+        "pambalana sa bagay"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Saan ipinagdiriwang ang sikat na Pista ng Pahiyas?",
+      "options": [
+        "Calamba, Laguna",
+        "Lucban, Quezon",
+        "Balayan, Batangas",
+        "Daet, Camarines"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Sino ang patron ng mga magsasaka na ipinagdiriwang sa Pista ng Pahiyas?",
+      "options": [
+        "San Juan Bautista",
+        "San Isidro Labrador",
+        "San Jose",
+        "San Pablo"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang tawag sa palamuti na yari sa bigas na may iba't ibang kulay sa Pahiyas?",
+      "options": [
+        "lechon",
+        "kiping",
+        "banig",
+        "bakya"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Saan ipinagdiriwang ang sikat na Pista ng Lechon tuwing Hunyo 24?",
+      "options": [
+        "Lucban, Quezon",
+        "Balayan, Batangas",
+        "Daet, Camarines Norte",
+        "Calamba, Laguna"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Sino ang patron na kasabay ng pagdiriwang ng Pista ng Lechon?",
+      "options": [
+        "San Isidro Labrador",
+        "San Juan Bautista",
+        "San Jose",
+        "San Pablo"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Anong prutas ang ipinagdiriwang sa Daet, Camarines Norte dahil sa tamis nito?",
+      "options": [
+        "papaya",
+        "pinya",
+        "saging",
+        "mangga"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang tawag sa sikat na katutubong sayaw na gumagamit ng kawayan sa pagsayaw?",
+      "options": [
+        "Cariñosa",
+        "Tinikling",
+        "Pandanggo sa Ilaw",
+        "Singkil"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Aling ibon ang ginagaya ng sayaw na Tinikling habang umiiwas sa patibong?",
+      "options": [
+        "agila",
+        "loro",
+        "tikling",
+        "pabo"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "verify",
+      "q": "Tama o Mali: Ang 'Leron Leron Sinta' ay isang lokal na folk song na naglalarawan ng buhay-bukid.",
+      "options": [
+        "Tama",
+        "Mali"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang lokal na sining na gawa sa hinabing dahon ng pandan?",
+      "options": [
+        "basket",
+        "banig",
+        "bakya",
+        "lechon"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Anong materyal ang ginagamit sa paggawa ng basket sa ating komunidad?",
+      "options": [
+        "bakal",
+        "kawayan o rattan",
+        "plastik",
+        "papel"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang tawag sa tradisyonal na kahoy na sapatos ng mga Pilipino?",
+      "options": [
+        "sapatos",
+        "tsinelas",
+        "bakya",
+        "boots"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Punan ang patlang sa kanta: 'Leron, leron sinta, buko ng ___...'",
+      "options": [
+        "saging",
+        "papaya",
+        "mangga",
+        "pinya"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang layunin ng pagdaraos ng Pista ng Pinya sa Daet?",
+      "options": [
+        "mag-import ng dayuhang prutas",
+        "ipagmalaki ang saganang ani ng pinyang Formosa",
+        "magbenta ng laruan",
+        "magtayo ng bagong tulay"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Anong okasyon ang ipinagdiriwang tuwing Hunyo 24 na may basaan ng tubig?",
+      "options": [
+        "Pasko",
+        "Kapistahan ni San Juan Bautista",
+        "Pista ng Pahiyas",
+        "Bagong Taon"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "Tama o Mali: Ang Pista ng Pahiyas ay ginaganap tuwing Mayo 15 sa Laguna.",
+      "options": [
+        "Tama",
+        "Mali"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang pambalana sa sining na yari sa kahoy?",
+      "options": [
+        "ukit sa kahoy",
+        "habing tela",
+        "banig",
+        "lechon"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang dapat iwasan kapag sumasayaw ng Tinikling sa ibabaw ng kawayan?",
+      "options": [
+        "ngumiti sa mambabasa",
+        "maipit ang paa sa pagitan ng kawayan",
+        "kumanta ng Leron Leron Sinta",
+        "tumingin sa guro"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Sino ang nagtuturo ng mga katutubong sayaw at awitin sa paaralan?",
+      "options": [
+        "doktor",
+        "guro",
+        "pulis",
+        "tanod"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang ginagawa sa mga inihaw na lechon sa parada sa Balayan?",
+      "options": [
+        "kinakain habang mainit pa sa parada",
+        "binibihisan at pinapalamutian",
+        "itinatapon sa ilog",
+        "itinatago sa aklatan"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Tukuyin ang pambalana sa pangyayari: 'Masaya ang mga tao sa pista.'",
+      "options": [
+        "tao",
+        "masaya",
+        "pista",
+        "mga"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "verify",
+      "q": "Tama o Mali: Ang kiping ay palamuti na pwedeng kainin dahil ito ay gawa sa bigas.",
+      "options": [
+        "Tama",
+        "Mali"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Aling likas na yaman ang ginagamit sa paghabi ng banig?",
+      "options": [
+        "bakal",
+        "dahon ng pandan o palm",
+        "bato",
+        "semento"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang pangunahing mensahe ng mga lokal na pagdiriwang sa komunidad?",
+      "options": [
+        "pagkakaisa at pasasalamat sa mga biyaya",
+        "pagbili ng bagong sapatos",
+        "paggawa ng makina",
+        "digmaan"
+      ],
+      "answer": 0
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "Challenge: Aling pagkakaiba ang totoo sa pagitan ng Pista ng Pahiyas at Pista ng Lechon?",
+      "options": [
+        "Ang Pahiyas ay parangal sa patron ng magsasaka sa Quezon, habang ang Lechon ay kasabay ng pista ni San Juan sa Batangas.",
+        "Ang Pahiyas ay gumagamit ng lechon, habang ang Lechon ay gumagamit ng kiping.",
+        "Ang Pahiyas ay ginaganap sa Batangas, habang ang Lechon ay sa Quezon.",
+        "Walang pagkakaiba ang dalawang pagdiriwang na ito."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Paano nagkakaugnay ang awiting 'Leron Leron Sinta' sa kabuhayan ng mga tao sa Laguna noong araw?",
+      "options": [
+        "Ipinapakita nito na pangingisda ang tanging gawa doon.",
+        "Inilalarawan nito ang pamumuhay sa pagsasaka at pagpitas ng mga lokal na prutas.",
+        "Wala itong kinalaman sa kabuhayan ng mga tao.",
+        "Ipinapakita nito ang mga pabrika at makina sa lungsod."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Kung ang isang mag-aaral ay nais mag-aral ng kasaysayan ng sayaw na Tinikling, aling batayan ang primary source?",
+      "options": [
+        "isang video record ng mga katutubong sumasayaw noong 1930",
+        "isang modernong aklat sa MAPEH na isinulat nitong 2026",
+        "isang kwento ng kaibigan",
+        "isang encyclopedia"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Bakit pinalalamutian ng kiping at gulay ang mga bahay sa Pahiyas sa halip na mga plastik na laruan?",
+      "options": [
+        "Dahil walang plastik na laruan sa Quezon.",
+        "Dahil ang kiping at gulay ay sumasagisag sa pasasalamat sa saganang ani ng agrikultura.",
+        "Dahil mas mura ang kiping kaysa sa laruan.",
+        "Dahil ang Mayor ang nag-utos nito."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Aling pagkakasunod-sunod ng mga pagdiriwang sa taon ang tama batay sa kalendaryo?",
+      "options": [
+        "Pista ng Pahiyas (Mayo 15) -> Pista ng Lechon (Hunyo 24) -> Pasko (Disyembre 25)",
+        "Pista ng Lechon (Hunyo 24) -> Pista ng Pahiyas (Mayo 15) -> Pasko (Disyembre 25)",
+        "Pasko (Disyembre 25) -> Pista ng Pahiyas (Mayo 15) -> Pista ng Lechon (Hunyo 24)",
+        "Pista ng Pahiyas (Mayo 15) -> Pasko (Disyembre 25) -> Pista ng Lechon (Hunyo 24)"
+      ],
+      "answer": 0
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Ulat-Pista ng Ating Pook",
+    "desc": "Kausapin ang iyong magulang tungkol sa pista ng inyong sariling bayan o lungsod. Alamin kung kailan ito ipinagdiriwang, sino ang patron o anong produkto ang itinatampok, at anong mga lokal na pagkain ang inihahanda. Sumulat ng ulat sa papel, iguhit ang pagdiriwang, at awitin ang Leron Leron Sinta sa harap ng iyong pamilya.",
+    "labels": [
+      "Wastong natukoy ang petsa at produkto ng pista ng bayan",
+      "Maayos na naiguhit ang parada o mga lokal na pagkain",
+      "Malinaw na naawit ang folk song na may kasiglahan sa pamilya"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 1: Pagkilala sa mga Pista</h3>\n                  <p class=\"ws-instruction\">Isulat ang ngalan ng tamang pista (<strong>Pahiyas</strong>, <strong>Pista ng Lechon</strong>, o <strong>Pista ng Pinya</strong>) batay sa produkto at lugar.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Parada ng mga nakadamit at pinalamutiang inihaw na baboy sa Balayan, Batangas:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pista ng Lechon</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Pagpapalamuti ng makukulay na kiping na yari sa bigas sa mga bahay sa Lucban, Quezon:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pahiyas</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Pagdiriwang ng saganang ani ng matatamis na pinyang Formosa sa Daet:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pista ng Pinya</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 2: Katutubong Sining at Sayaw</h3>\n                  <p class=\"ws-instruction\">Iugnay ang sining o sayaw sa katapat nitong kagamitan sa pamamagitan ng pagsulat ng tamang titik.</p>\n                  <div class=\"ws-split\" style=\"margin-top: 20px;\">\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.0;\">\n                      <div><strong>Sining at Sayaw:</strong></div>\n                      <div>1. Sayaw na Tinikling <span class=\"fil-sentence\" data-translation=\"(Tinikling Dance)\"></span></div>\n                      <div>2. Paghabi ng Banig <span class=\"fil-sentence\" data-translation=\"(Mat Weaving)\"></span></div>\n                      <div>3. Paggawa ng Bakya <span class=\"fil-sentence\" data-translation=\"(Clog Making)\"></span></div>\n                    </div>\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.0; text-align: right; padding-right: 40px;\">\n                      <div><strong>Pangunahing Kagamitan:</strong></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">C</span> &nbsp; ] &nbsp; A. dahon ng pandan <span class=\"fil-sentence\" data-translation=\"(pandan leaves)\"></span></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">A</span> &nbsp; ] &nbsp; B. dalawang mahabang kawayan <span class=\"fil-sentence\" data-translation=\"(two long bamboo poles)\"></span></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">B</span> &nbsp; ] &nbsp; C. matigas na kahoy <span class=\"fil-sentence\" data-translation=\"(hard wood block)\"></span></div>\n                    </div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 3: Pagsusuri ng Lokal na Awitin</h3>\n                  <p class=\"ws-instruction\">Sagutin ang tanong gamit ang tumpak na detalye batay sa awiting 'Leron Leron Sinta'.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Ano ang mahalagang aral sa kanta kapag nabali ang sanga ng puno ng papaya? <span class=\"fil-sentence\" data-translation=\"(What is the moral lesson when the papaya branch broke?)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Dapat maging maingat sa pag-akyat sa mga puno at sa paggawa ng trabaho sa bukid.</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Ang kawalan ng pag-iingat ay maaaring magdulot ng aksidente o pagkakahulog.</span></div>\n                  </div>\n                </div>"
+    ]
+  }
+}

@@ -1,0 +1,601 @@
+{
+  "color": "#10b981",
+  "icon": "🔬",
+  "title": "Science",
+  "subtitle": "Week 3: Science Tools and Materials",
+  "slides": [
+    {
+      "title": "Welcome to the Lab!",
+      "text": "Hello, Scientist! Welcome to Science Week 3!\nThis week we are entering the laboratory of tools.\nTools help scientists observe and measure things accurately.\nWe will study six core tools: rulers, hand lenses,\nscissors, balloons, modeling clay, and cardboard sheets.\nWe will practice using them safely and correctly.\nLet's learn how each tool helper makes science easier.\nAre you ready to handle lab tools like a professional?",
+      "examples": [
+        {
+          "title": "Goal",
+          "content": "Identify and describe the correct uses of various science tools."
+        }
+      ]
+    },
+    {
+      "title": "Rulers and Measurement",
+      "text": "A ruler is a tool used to measure length.\nIt has straight edges marked with numbers and lines.\nWe measure in millimeters, centimeters, and meters.\nWe align the zero mark of rulers with object edges.\nWe read the number at the opposite end closely.\nRulers help us record exact sizes of objects.\nWithout rulers, we could only guess the length.\nLet's measure our science notebooks using our rulers!",
+      "examples": [
+        {
+          "title": "Ruler",
+          "content": "Measuring a pencil: it is exactly 15 centimeters long."
+        }
+      ]
+    },
+    {
+      "title": "Hand Lenses and Sight",
+      "text": "A hand lens is also called magnifying glass.\nIt has a curved glass lens that magnifies objects.\nMagnifying means making tiny details look much larger.\nWe hold lenses close to our eye first.\nWe move the object closer or further to focus.\nLenses reveal tiny plant parts and insect limbs.\nThey show the sand grains and soil fibers clearly.\nObserve your own thumb print using hand lenses today!",
+      "examples": [
+        {
+          "title": "Hand Lens",
+          "content": "Observing tiny hairs on the stem of a green weed."
+        }
+      ]
+    },
+    {
+      "title": "Scissors and Safety",
+      "text": "Scissors are tools used to cut materials neatly.\nThey have two sharp metal blades that slide together.\nWe use them to cut paper, string, and cardboard.\nScissors must be handled with great care always.\nNever run while holding scissors in your hand.\nPass them handle-first to other students safely.\nKeep fingers away from blades when cutting shapes.\nCut out a paper circle for your wind experiment!",
+      "examples": [
+        {
+          "title": "Scissors",
+          "content": "Cutting thick cardboard into wind vane directional arrows."
+        }
+      ]
+    },
+    {
+      "title": "Balloons and Air Space",
+      "text": "Balloons are elastic tools used to study gases.\nA dry balloon is flat and holds no shape.\nBlowing air inside stretches the rubber shell outwards.\nBalloons trap air inside, letting us observe gas.\nWe use balloons to study air pressure and volume.\nSqueezing balloons show that gas can be compressed.\nTying the neck keeps air from escaping away.\nLet's blow up balloons to see air pressure work!",
+      "examples": [
+        {
+          "title": "Balloon",
+          "content": "Using inflated balloons to push lightweight toy carts forward."
+        }
+      ]
+    },
+    {
+      "title": "Modeling Clay and Force",
+      "text": "Modeling clay is a soft solid material.\nWe use clay to build models of landforms or organs.\nWe press, roll, and shape clay using force.\nClay holds details like hand prints and tool marks.\nIt does not spring back like rubber bands.\nWe use clay bases to hold lightweight tools upright.\nWe mix colors to represent different soil layers.\nMold a clay mountain to observe water flow down!",
+      "examples": [
+        {
+          "title": "Modeling Clay",
+          "content": "Molding a blue base to hold a paper flag upright on desks."
+        }
+      ]
+    },
+    {
+      "title": "Cardboard and Structures",
+      "text": "Cardboard is a stiff paper material in sheets.\nIt is thicker and stronger than regular writing paper.\nWe use cardboard to build sturdy lab models.\nIt blocks light completely, casting dark grey shadows.\nWe fold cardboard to make ramps for toy cars.\nIt holds its shape well under lightweight loads.\nWe use scissors to cut cardboard into shapes.\nConstruct a cardboard shadow screen for light tests!",
+      "examples": [
+        {
+          "title": "Cardboard",
+          "content": "Cutting cardboard circles to act as wheels for toy carts."
+        }
+      ]
+    },
+    {
+      "title": "Tool Matching: Length",
+      "text": "Different tasks require different science tool helpers.\nIf you want to measure seed growth, use rulers.\nRulers give exact length in millimeters and centimeters.\nDo not use scissors or string to measure size.\nAlways align the object with the zero mark.\nRead the measurement carefully from left to right.\nRecord the numbers in your lab notebook immediately.\nPractice measuring three different leaves with rulers now!",
+      "examples": [
+        {
+          "title": "Length",
+          "content": "Selecting a wooden ruler to measure desk height."
+        }
+      ]
+    },
+    {
+      "title": "Tool Matching: Details",
+      "text": "If you want to see tiny details, use lenses.\nLenses help us observe things too small for eyes.\nE.g., observing the wings of a small fly.\nDo not hold the lens too far from eyes.\nKeep the lens near your eye and move objects.\nThis focus technique gives the clearest, biggest view.\nLenses help us describe physical textures of soils.\nIdentify five details on rocks using hand lenses!",
+      "examples": [
+        {
+          "title": "Details",
+          "content": "Selecting a magnifying glass to check leaf vein patterns."
+        }
+      ]
+    },
+    {
+      "title": "Tool Matching: Shaping",
+      "text": "If you want to build models, use clay.\nClay allows us to shape mountains and valleys.\nIf you want to make flat shapes, use cardboard.\nCardboard sheets are stiff and stand up well.\nIf you want to separate materials, use scissors.\nScissors cut paper and cardboard into neat pieces.\nCombining tools helps us build advanced science models.\nUse clay to hold a cardboard sign on desks!",
+      "examples": [
+        {
+          "title": "Shaping",
+          "content": "Using modeling clay and cardboard to build a water dam model."
+        }
+      ]
+    },
+    {
+      "title": "Safe Handling Procedures",
+      "text": "Safety is the first rule in every science lab.\nAlways follow the teacher's instructions when using tools.\nCarry scissors with the blades pointing downwards always.\nNever point sharp tools at other students' eyes.\nDo not put modeling clay in your mouth.\nWash hands with soap after playing with clay.\nDo not over-inflate balloons to prevent loud pops.\nKeep your workstation clean and free of clutter!",
+      "examples": [
+        {
+          "title": "Safety",
+          "content": "Wearing safety goggles when cutting stiff cardboard sheets."
+        }
+      ]
+    },
+    {
+      "title": "Measuring Length Accurately",
+      "text": "To measure length, align rulers with object edges.\nEnsure the zero mark is exactly at the start.\nLook directly down at the ruler marks closely.\nLooking from angles creates measurement errors in data.\nRead the nearest centimeter mark on the ruler.\nRead the tiny millimeter marks for extra detail.\nE.g., a twig is 5 centimeters and 4 millimeters.\nRecord both units in your science journal page!",
+      "examples": [
+        {
+          "title": "Accuracy",
+          "content": "Avoiding parallax error by looking straight down at marks."
+        }
+      ]
+    },
+    {
+      "title": "Magnifying Soil Grains",
+      "text": "Let's study soil composition using our hand lenses.\nSpread a spoonful of loam soil on paper.\nHold the lens close to your eye level.\nLook through the lens at the soil spread.\nObserve the tiny rock grains and leaf fibers.\nObserve how clay holds water compared to sand.\nLenses help us classify soils by physical properties.\nWrite down the differences you observe in journals!",
+      "examples": [
+        {
+          "title": "Observation",
+          "content": "Seeing sparkling quartz crystals in sandy river soil."
+        }
+      ]
+    },
+    {
+      "title": "Blowing Balloons safely",
+      "text": "Balloons teach us about air volume and pressure.\nBreathe in deeply and blow air into balloons.\nThe rubber stretches as more air goes inside.\nStop blowing before the rubber becomes too thin.\nOver-stretched balloons pop easily, creating loud noises.\nLoud pops can hurt ears and startle classmates.\nTie the neck with string to hold the air.\nMeasure the balloon's width using string and rulers!",
+      "examples": [
+        {
+          "title": "Balloon safety",
+          "content": "Inflating balloons slowly to prevent rapid rubber failure."
+        }
+      ]
+    },
+    {
+      "title": "Pressing Modeling Clay",
+      "text": "We mold modeling clay to test physical forces.\nFlatten a ball of clay on your desk.\nPress your thumb into the clay surface firmly.\nObserve the detailed print of your thumb left.\nThe clay records the force of your thumb print.\nUse a toothpick to draw lines in the clay.\nClay is a solid that changes shape under force.\nRoll the clay back into balls to reuse!",
+      "examples": [
+        {
+          "title": "Clay Force",
+          "content": "Clay holds shapes because it lacks elasticity to snap back."
+        }
+      ]
+    },
+    {
+      "title": "Cutting Cardboard Shapes",
+      "text": "Stiff cardboard sheets block light to make shadows.\nDraw a tree shape on a cardboard sheet.\nUse scissors to cut along the drawn lines.\nHold the cardboard tree in front of flashlights.\nObserve the dark tree shadow cast on walls.\nCardboard is opaque, meaning it blocks light completely.\nPaper is translucent, letting some light pass through.\nCompare shadows cast by cardboard and writing paper!",
+      "examples": [
+        {
+          "title": "Cardboard Shadow",
+          "content": "Opaque cardboard blocks all light, creating sharp shadows."
+        }
+      ]
+    },
+    {
+      "title": "Tool Maintenance",
+      "text": "Taking care of tools makes them last longer.\nWipe rulers dry after measuring wet garden soil.\nClean lenses with soft cloths to avoid scratches.\nScratches on glass lenses make observations blurry.\nStore scissors in their cases with blades closed.\nKeep modeling clay in sealed plastic bags always.\nAir dries out clay, making it hard and crumbly.\nReturn all tools to their boxes after experiments!",
+      "examples": [
+        {
+          "title": "Maintenance",
+          "content": "Keeping clay moist by storing it in airtight containers."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Using Rulers",
+      "text": "Let's practice measuring classroom items with rulers.\nMeasure the length of your yellow pencil today.\nPlace the pencil tip at the zero mark.\nRead the number next to the eraser end.\nIf it is at 12, the length is 12cm.\nIf it is 3 marks past 12, it is 12.3cm.\nAlways write the unit (cm or mm) next to numbers.\nNumbers without units are not scientific data!",
+      "examples": [
+        {
+          "title": "Measurement",
+          "content": "Writing '15 cm' instead of just '15' in journals."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Using Lenses",
+      "text": "Let's practice magnifying leaves using hand lenses.\nSelect a leaf from the garden outside today.\nHold the hand lens near your eye level.\nBring the leaf close until veins look sharp.\nObserve the network of veins carrying water inside.\nObserve the tiny patterns on the leaf surface.\nDraw the magnified veins in your science log.\nLenses help us explore hidden patterns in nature!",
+      "examples": [
+        {
+          "title": "Focusing",
+          "content": "Moving the leaf slowly back and forth to find focus."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Safe Cutting",
+      "text": "Let's practice cutting cardboard shapes safely today.\nDraw three circles on a sheet of cardboard.\nHold the cardboard sheet firmly with one hand.\nUse scissors to cut along the circular lines.\nKeep your cutting hand fingers away from blades.\nCut slowly to stay on lines and avoid slips.\nDiscard paper scraps into the recycle bin soon.\nClean workspaces prevent slips and safety hazards!",
+      "examples": [
+        {
+          "title": "Cutting",
+          "content": "Following drawn guide lines to cut neat circles safely."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: molding Clay",
+      "text": "Let's build a science model using modeling clay.\nRoll clay into a round ball on desks.\nFlatten it to represent a flat island surface.\nBuild small clay hills on top of the island.\nClay helps us represent physical shapes in 3D.\nDrip water on hills to observe flow patterns.\nWater flows down clay hills into flat valleys.\nClean your desk surface after finishing clay models!",
+      "examples": [
+        {
+          "title": "Modeling",
+          "content": "Using clay to model how rivers flow down mountains."
+        }
+      ]
+    },
+    {
+      "title": "Common Error: Blurry Lenses",
+      "text": "A common mistake is holding lenses far from eyes.\nIf you hold lenses at arm's length, view is tiny.\nIt makes focusing difficult and distorts the image.\nAlways keep the lens near your eye level.\nMove the object closer until it looks sharp.\nThis technique uses the curved glass lens correctly.\nClean oily fingerprints off glass lenses with cloths.\nBlurs on lenses block detailed science observations!",
+      "examples": [
+        {
+          "title": "Incorrect",
+          "content": "Holding the lens next to the leaf far from your eyes."
+        }
+      ]
+    },
+    {
+      "title": "Common Error: Misaligned Rulers",
+      "text": "A common mistake is starting measurement at 1 mark.\nMany rulers have empty space before the 0 line.\nAlways start measuring at the 0 line mark.\nStarting at the ruler edge adds extra millimeters.\nThis error makes your recorded length inaccurate.\nCheck where the numbers start on your ruler.\nEnsure the 0 mark is aligned with the edge.\nAccurate measurements keep science data reliable!",
+      "examples": [
+        {
+          "title": "Incorrect",
+          "content": "Aligning the pencil tip with the physical end of the plastic ruler."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice: Science Review A",
+      "text": "Let's review the important science concepts of Week 3.\nWe have studied observations, measurements, and predictions.\nA real scientist is always curious and checks their facts.\nThink about the experiments we discussed in the slides.\nCan you explain them in your own words to others?\nUse your scientific vocabulary to describe your ideas clearly.\nAnswer the quiz questions and challenges to test your memory.\nKeep up the great work and enjoy exploring the world!",
+      "examples": [
+        {
+          "title": "Review Card 1",
+          "content": "Practice explaining these science ideas to your family."
+        }
+      ]
+    },
+    {
+      "title": "Summary of Week 3",
+      "text": "Congratulations! You completed all the slides for Week 3.\nLet's review the main science tools we mastered.\nWe learned the uses of rulers, lenses, and scissors.\nWe explored balloons, modeling clay, and cardboard.\nWe practiced safe carrying and handling of sharp tools.\nWe measured length in centimeters and magnified details.\nWe avoided common focus and ruler alignment errors.\nYou are now ready to take the quiz and challenges!",
+      "examples": [
+        {
+          "title": "Key Takeaway",
+          "content": "Choosing the right tool is key to successful investigations."
+        }
+      ]
+    }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Which tool is used to measure the length of a leaf in centimeters?",
+      "options": [
+        "Hand lens",
+        "Ruler",
+        "Scissors",
+        "Cardboard"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What is the correct way to focus a hand lens?",
+      "options": [
+        "Hold it at arm's length.",
+        "Hold it close to your eye and move the object.",
+        "Wave it back and forth quickly.",
+        "Look at it from the side."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "How should you carry scissors in the classroom safely?",
+      "options": [
+        "Run with them in your hand.",
+        "With the blades closed and pointing downwards.",
+        "Wave them in the air.",
+        "Keep them open for quick use."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What property of balloons are we exploring when we blow air inside?",
+      "options": [
+        "Weight",
+        "Elasticity and containing air",
+        "Color changes",
+        "Taste"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which material is best for molding a 3D model of a mountain?",
+      "options": [
+        "Cardboard sheet",
+        "Modeling clay",
+        "Scissors",
+        "Ruler"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Why is cardboard preferred over writing paper for shadow screens?",
+      "options": [
+        "It is green.",
+        "It is opaque and blocks light completely.",
+        "It is soft and sticky.",
+        "It floats on water."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Where should you align the edge of an object on a ruler?",
+      "options": [
+        "At the 1 cm mark",
+        "At the 0 line mark",
+        "At the physical edge of the ruler",
+        "At the 10 cm mark"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which tool makes tiny plant vein patterns look larger?",
+      "options": [
+        "Ruler",
+        "Hand lens (Magnifying glass)",
+        "Balloon",
+        "Cardboard"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Storing modeling clay in an open box makes it dry and crumbly.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What happens if you blow too much air into a rubber balloon?",
+      "options": [
+        "It turns into solid clay.",
+        "It pops because the rubber stretches too thin.",
+        "It becomes extremely heavy.",
+        "It turns blue."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What should you do after playing with modeling clay in class?",
+      "options": [
+        "Eat your lunch immediately.",
+        "Wash your hands with soap and water.",
+        "Wipe your hands on your shirt.",
+        "Put the clay in your pockets."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which unit is used to measure small object lengths on a ruler?",
+      "options": [
+        "Millimeter (mm)",
+        "Meter (m)",
+        "Gram (g)",
+        "Liter (L)"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which tool is best for cutting cardboard sheets into circles?",
+      "options": [
+        "Ruler",
+        "Scissors",
+        "Hand lens",
+        "Modeling clay"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: We should carry scissors handle-first when passing them to a friend.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What does 'magnify' mean when using a hand lens?",
+      "options": [
+        "To make objects smell sweet",
+        "To make small details look larger",
+        "To change the color of things",
+        "To measure length in meters"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which material holds its shape permanently under thumb force?",
+      "options": [
+        "Balloons",
+        "Modeling clay",
+        "Water",
+        "Air"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Why do we wipe rulers dry after measuring wet garden soil?",
+      "options": [
+        "To prevent rust and keep markings clean.",
+        "To change their color.",
+        "To make them stretchier.",
+        "To make them float."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What thickness property describes cardboard compared to writing paper?",
+      "options": [
+        "It is thinner.",
+        "It is thicker and stronger.",
+        "It is softer.",
+        "It is stickier."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Standard scientific measurements require both numbers and units.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which tool should be stored in airtight bags to remain soft?",
+      "options": [
+        "Scissors",
+        "Modeling clay",
+        "Rulers",
+        "Hand lenses"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which VCV word represents the starting point on rulers?",
+      "options": [
+        "zero",
+        "unit",
+        "mark",
+        "base"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What force is applied when cutting cardboard with scissors?",
+      "options": [
+        "Magnetic force",
+        "Mechanical sliding force (cutting)",
+        "Heat force",
+        "Chemical force"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Glass lenses should be cleaned with rough sand paper.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What color shadow does opaque cardboard cast under flashlights?",
+      "options": [
+        "Dark grey or black",
+        "Bright yellow",
+        "Clear white",
+        "No shadow at all"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which tool is best for checking fine crystal grains in soil?",
+      "options": [
+        "Ruler",
+        "Hand lens",
+        "Balloons",
+        "Clay"
+      ],
+      "answer": 1
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "Challenge: If you measure a leaf using a ruler starting at the 2 cm mark, and the end is at the 8 cm mark, how long is the leaf?",
+      "options": [
+        "8 cm",
+        "6 cm",
+        "10 cm",
+        "2 cm"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Why does a leaf venation pattern look blurry through a hand lens that is held 30 cm away from your eyes?",
+      "options": [
+        "The lens is too far from eyes to focus light correctly.",
+        "The leaf has no veins.",
+        "The lens is dirty.",
+        "The sun is too bright."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Which tool combination is best to build a wind direction indicator (wind vane)?",
+      "options": [
+        "Cardboard sheet, scissors, modeling clay base, and a pointer stick.",
+        "Balloons and rulers.",
+        "Hand lens and soap.",
+        "Water and sand."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Why does modeling clay stay flat when pressed, while inflated balloons return to shape after light pressure?",
+      "options": [
+        "Clay is plastic (malleable) while balloon rubber is elastic.",
+        "Clay is heavier.",
+        "Balloons contain magic air.",
+        "Clay is colder."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Spot the safety hazard: 'Cutting cardboard with scissors while running down the hallway.'",
+      "options": [
+        "Blades are closed.",
+        "Running increases risk of falling and blade injury.",
+        "The hallway is too dark.",
+        "Cardboard is recyclable."
+      ],
+      "answer": 1
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Science Tool Explorer Lab",
+    "desc": "Select three science tools at home (e.g., a ruler, a hand lens or magnifying glass, and modeling clay or playdough). Use the ruler to measure your thumb length in millimeters and centimeters. Use the lens to observe your thumb skin details. Mold clay to match your thumb's shape. Draw and describe your steps in a lab report for your parents.",
+    "labels": [
+      "Correctly used rulers to measure in cm and mm",
+      "Correctly used hand lenses to observe fine details",
+      "molded clay accurately and followed safe handling rules"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Science Tool Identification</h3>\n                  <p class=\"ws-instruction\">Write the name of the correct science tool helper (<strong>Ruler</strong>, <strong>Hand lens</strong>, <strong>Scissors</strong>, <strong>Modeling clay</strong>) for each task.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Magnifying the tiny structures on insect wings:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Hand lens</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Measuring the height of a sprout in millimeters:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Ruler</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Molding a three-dimensional model of a flower stem:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Modeling clay</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Safe Tool Handling</h3>\n                  <p class=\"ws-instruction\">Classify each tool behavior below as either <strong>Safe</strong> or <strong>Unsafe</strong>.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Walking slowly carrying scissors pointing downwards.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Safe</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Squeezing clay and then washing hands with soap.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Safe</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Blowing a balloon as large as possible until it pops near eyes.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Unsafe</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Measurement Accuracy</h3>\n                  <p class=\"ws-instruction\">Write down the correct length in centimeters for each pencil measurement below.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Pencil A aligned from 0 cm mark to 12 cm line:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 40%;\"><span class=\"ws-answer\">12 cm</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Pencil B aligned from 2 cm mark to 8 cm line:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 40%;\"><span class=\"ws-answer\">6 cm</span></div>\n                  </div>\n                </div>"
+    ]
+  }
+}

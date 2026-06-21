@@ -1,0 +1,603 @@
+{
+  "color": "#f59e0b",
+  "icon": "🏝️",
+  "title": "Makabansa",
+  "subtitle": "Week 2: Mahahalagang Pook sa Ating Komunidad",
+  "slides": [
+    {
+      "title": "Maligayang Pagdating sa Week 2!",
+      "text": "<span class=\"fil-sentence\" data-translation=\"How are you, student? Welcome to the second week!\">Kumusta ka, mag-aaral? Welcome sa ikalawang linggo!</span>\n<span class=\"fil-sentence\" data-translation=\"This week, we will travel around our own local place.\">Ngayong linggo, maglalakbay tayo sa ating sariling pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's identify the important places in our community.\">Tukuyin natin ang mahahalagang pook sa ating komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"This includes the barangay hall, church, and school.\">Kasama rito ang barangay hall, simbahan, at paaralan.</span>\n<span class=\"fil-sentence\" data-translation=\"We will study the role and function of each of these places.\">Pag-aaralan natin ang tungkulin ng bawat pook na ito.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's also learn the importance of historical sites here.\">Alamin din natin ang kahalagahan ng mga makasaysayang lugar.</span>\n<span class=\"fil-sentence\" data-translation=\"Observe and analyze your surroundings like a researcher today!\">Magmasid at suriin ang iyong paligid na parang researcher!</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready to learn about our community today?\">Handa ka na bang matuto tungkol sa ating komunidad?</span>",
+      "examples": [
+        {
+          "title": "Layunin ng Linggo",
+          "content": "Matukoy ang mahahalagang pook sa sariling komunidad at ang kanilang tungkulin."
+        }
+      ]
+    },
+    {
+      "title": "Ang Barangay Hall: Sentro ng Pamamahala",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The barangay hall is a very important place for all of us.\">Ang barangay hall ay isang napakahalagang pook sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"It is the center of governance in our own local community.\">Ito ang sentro ng pamamahala sa ating sariling komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"This is where the captain and barangay councilors meet.\">Dito nagpupulong ang kapitan at mga barangay kagawad.</span>\n<span class=\"fil-sentence\" data-translation=\"They make local laws to preserve peace and order yonder.\">Gumagawa sila ng mga batas upang mapanatili ang kapayapaan.</span>\n<span class=\"fil-sentence\" data-translation=\"This is also where citizens go when they have problems.\">Dito rin pumupunta ang mamamayan kapag may problema.</span>\n<span class=\"fil-sentence\" data-translation=\"They provide assistance and services to all the residents.\">Nagbibigay sila ng mga tulong at serbisyo sa lahat.</span>\n<span class=\"fil-sentence\" data-translation=\"The barangay hall is a symbol of unity and service.\">Ang barangay hall ay simbolo ng pagkakaisa at serbisyo.</span>\n<span class=\"fil-sentence\" data-translation=\"Where is the barangay hall located in your local place?\">Saan matatagpuan ang barangay hall sa inyong pook?</span>",
+      "examples": [
+        {
+          "title": "Barangay Hall",
+          "content": "Dito naglilingkod ang Barangay Kapitan at mga Kagawad."
+        }
+      ]
+    },
+    {
+      "title": "Ang Health Center: Pook ng Kalusugan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The health center is a place that cares for health.\">Ang health center ay pook na nag-aalaga sa kalusugan.</span>\n<span class=\"fil-sentence\" data-translation=\"This is where babies, children, and elders go for care.\">Dito pumupunta ang mga sanggol, bata, at matatanda.</span>\n<span class=\"fil-sentence\" data-translation=\"There are nurses, doctors, and midwives serving the public.\">Mayroong mga nars, doktor, at midwives na naglilingkod.</span>\n<span class=\"fil-sentence\" data-translation=\"They provide free vaccines and medicines to us in town.\">Nagbibigay sila ng libreng bakuna at mga gamot sa amin.</span>\n<span class=\"fil-sentence\" data-translation=\"They check the weight and physical status of babies.\">Sinusuri nila ang timbang at kalagayan ng mga sanggol.</span>\n<span class=\"fil-sentence\" data-translation=\"This helps prevent the spread of diseases in the community.\">Nakatutulong ito upang maiwasan ang sakit sa komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"The health center is open to all citizens in the barangay.\">Ang health center ay bukas para sa lahat ng mamamayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Have you visited the health center in your local place?\">Nakarating ka na ba sa health center sa inyong pook?</span>",
+      "examples": [
+        {
+          "title": "Health Center",
+          "content": "Pook para sa libreng bakuna, gamot, at pagsusuri ng kalusugan."
+        }
+      ]
+    },
+    {
+      "title": "Ang Paaralan: Pook ng Karunungan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The school is a place where we acquire knowledge and wisdom.\">Ang paaralan ay pook kung saan tayo nakakukuha ng dunong.</span>\n<span class=\"fil-sentence\" data-translation=\"This is where teachers instruct the young students daily.\">Dito nagtuturo ang mga guro sa mga mag-aaral.</span>\n<span class=\"fil-sentence\" data-translation=\"We learn to read, write, and compute numbers yonder.\">Natututo tayong magbasa, magsulat, at magkuwenta rito.</span>\n<span class=\"fil-sentence\" data-translation=\"This includes studying science, languages, and history.\">Kasama rito ang pag-aaral ng science at kasaysayan.</span>\n<span class=\"fil-sentence\" data-translation=\"We have classrooms, a school library, and a playground.\">Mayroon tayong silid-aralan, aklatan, at palaruan.</span>\n<span class=\"fil-sentence\" data-translation=\"The school prepares us for our future role in society.\">Ang paaralan ay naghahanda sa atin para sa hinaharap.</span>\n<span class=\"fil-sentence\" data-translation=\"It is a symbol of hope and development for the community.\">Ito ay simbolo ng pag-asa at pag-unlad ng pamayanan.</span>\n<span class=\"fil-sentence\" data-translation=\"What is the specific name of your school today?\">Ano ang pangalan ng inyong sariling paaralan ngayon?</span>",
+      "examples": [
+        {
+          "title": "Paaralan",
+          "content": "Tahanan ng karunungan at paggabay ng mga guro."
+        }
+      ]
+    },
+    {
+      "title": "Ang Simbahan: Pook ng Pananampalataya",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The church or mosque is a place for quiet prayer.\">Ang simbahan o moske ay pook para sa pananalangin.</span>\n<span class=\"fil-sentence\" data-translation=\"Here families gather to express gratitude to God yonder.\">Dito nagtitipon ang pamilya upang magpasalamat sa Diyos.</span>\n<span class=\"fil-sentence\" data-translation=\"Good values and love for neighbors are taught here.\">Itinuturo rito ang mabuting asal at pagmamahal sa kapwa.</span>\n<span class=\"fil-sentence\" data-translation=\"There are priests, pastors, or imams leading worship services.\">May mga pari, pastor, o imam na namumuno sa pagsamba.</span>\n<span class=\"fil-sentence\" data-translation=\"Every place of worship must be respected by us at all times.\">Ang bawat pook-pagsamba ay dapat nating igalang palagi.</span>\n<span class=\"fil-sentence\" data-translation=\"This reflects the spiritual faith of the citizens in town.\">Sinasalamin nito ang pananampalataya ng mga mamamayan.</span>\n<span class=\"fil-sentence\" data-translation=\"There are also smaller chapels located in remote sitios.\">Mayroon ding mga kapilya sa mas maliliit na sitio.</span>\n<span class=\"fil-sentence\" data-translation=\"Where do you and your family usually go to worship?\">Saan kayo madalas magsimba o sumamba ng inyong pamilya?</span>",
+      "examples": [
+        {
+          "title": "Pook-Pagsamba",
+          "content": "simbahan, moske, kapilya, o templo sa komunidad."
+        }
+      ]
+    },
+    {
+      "title": "Ang Palengke: Pook ng Kalakalan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The market is the center of trade in our local community.\">Ang palengke ay sentro ng kalakalan sa komunidad natin.</span>\n<span class=\"fil-sentence\" data-translation=\"This is where vendors go to sell their harvested goods.\">Dito pumupunta ang mga tindero upang magbenta ng ani.</span>\n<span class=\"fil-sentence\" data-translation=\"This includes fresh fish, meat, vegetables, and sweet fruits.\">Kasama rito ang isda, karne, gulay, at mga prutas.</span>\n<span class=\"fil-sentence\" data-translation=\"This is also where citizens buy food ingredients daily.\">Dito rin pumupunta ang mga mamamayan upang bumili ng ulam.</span>\n<span class=\"fil-sentence\" data-translation=\"The market helps support the livelihood of many families.\">Nakatutulong ang palengke sa kabuhayan ng maraming tao.</span>\n<span class=\"fil-sentence\" data-translation=\"There are also small sari-sari stores along every street.\">Mayroon ding mga maliliit na tindahan sa bawat kalye.</span>\n<span class=\"fil-sentence\" data-translation=\"The market shows the active economic life of the town.\">Ang palengke ay nagpapakita ng kasiglahan ng ekonomiya.</span>\n<span class=\"fil-sentence\" data-translation=\"Who went with you to the market last Monday morning?\">Sino ang kasama mong pumunta sa palengke noong Lunes?</span>",
+      "examples": [
+        {
+          "title": "Palengke",
+          "content": "Pook kung saan nagaganap ang pagbili at pagbebenta."
+        }
+      ]
+    },
+    {
+      "title": "Ang Plaza at Parke: Pook ng Libangan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The plaza is a wide and open public space in the town.\">Ang plaza ay isang malawak at bukas na pook sa bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Here children play every afternoon after school classes.\">Dito naglalaro ang mga bata tuwing hapon pagkatapos ng klase.</span>\n<span class=\"fil-sentence\" data-translation=\"This is also where barangay programs and festivals are held.\">Dito rin ginaganap ang mga programa at pista ng barangay.</span>\n<span class=\"fil-sentence\" data-translation=\"There are trees, benches, and sometimes a wind vane yonder.\">May mga puno, upuan, at kung minsan ay wind vane.</span>\n<span class=\"fil-sentence\" data-translation=\"It is a place to rest and talk with our neighbors in town.\">Ito ay pook para magpahinga at makipag-usap sa kapwa.</span>\n<span class=\"fil-sentence\" data-translation=\"The park helps support the physical health of our bodies.\">Nakatutulong ang parke sa kalusugan ng ating katawan.</span>\n<span class=\"fil-sentence\" data-translation=\"We must keep our public plaza clean at all times yonder.\">Dapat nating panatilihing malinis ang ating plaza palagi.</span>\n<span class=\"fil-sentence\" data-translation=\"What is your favorite game to play in the plaza with friends?\">Ano ang paborito mong laro sa plaza kasama ang kaibigan?</span>",
+      "examples": [
+        {
+          "title": "Plaza",
+          "content": "Pook-pasyalan para sa pamilya at mga pagdiriwang."
+        }
+      ]
+    },
+    {
+      "title": "Mga Makasaysayang Monumento",
+      "text": "<span class=\"fil-sentence\" data-translation=\"There are places that remind us of our local heroes.\">May mga pook na nagpapaalala sa ating mga bayani.</span>\n<span class=\"fil-sentence\" data-translation=\"We call these historical monuments in our community.\">Tinatawag natin silang mga makasaysayang monumento sa bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: the monument of Dr. Rizal in the town plaza.\">Halimbawa: ang monumento ni Dr. Rizal sa plaza ng bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"It is made of hard stone and shiny physical metal yonder.\">Ito ay yari sa matigas na bato at makintab na metal.</span>\n<span class=\"fil-sentence\" data-translation=\"This displays the greatness of those who defended our land.\">Ipinapakita nito ang kadakilaan ng mga nagtanggol sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"These physical places witnessed important battles in the past.\">Saksi ang mga pook na ito sa mahahalagang digmaan.</span>\n<span class=\"fil-sentence\" data-translation=\"We must respect monuments and never write graffiti on them.\">Dapat nating igalang ang mga monumento at huwag sulatan.</span>\n<span class=\"fil-sentence\" data-translation=\"Is there a historical monument in your city plaza today?\">Mayroon bang monumento sa plaza ng inyong lungsod?</span>",
+      "examples": [
+        {
+          "title": "Monumento",
+          "content": "Bantayog ng bayani upang alalahanin ang nakaraan."
+        }
+      ]
+    },
+    {
+      "title": "Ang Police Outpost: Pook ng Seguridad",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The police outpost or tanod outpost is a physical place.\">Ang police outpost o barangay tanod outpost ay pook.</span>\n<span class=\"fil-sentence\" data-translation=\"This is where police officers and tanods watch at night.\">Dito nagbabantay ang mga pulis at tanod sa gabi.</span>\n<span class=\"fil-sentence\" data-translation=\"They preserve the safety and security of our entire place.\">Sila ang nagpapanatili ng seguridad sa buong pook natin.</span>\n<span class=\"fil-sentence\" data-translation=\"They ensure there is no crime or trouble on the streets.\">Tinitiyak nila na walang krimen o gulo sa mga kalye.</span>\n<span class=\"fil-sentence\" data-translation=\"We can run to them for help when we feel afraid yonder.\">Maaari tayong tumakbo sa kanila kapag natatakot tayo.</span>\n<span class=\"fil-sentence\" data-translation=\"They are the defenders of peace in our local community.\">Sila ay mga tagapagtanggol ng kapayapaan sa komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"The outpost has emergency numbers written on its wall.\">Ang outpost ay may emergency numbers na nakasulat sa dingding.</span>\n<span class=\"fil-sentence\" data-translation=\"Examine the location of the nearest outpost today!\">Suriin ang lokasyon ng pinakamalapit na outpost ngayon!</span>",
+      "examples": [
+        {
+          "title": "Seguridad",
+          "content": "Pook para sa kaligtasan at paghingi ng tulong sa pulis."
+        }
+      ]
+    },
+    {
+      "title": "Ang Bahay-Pamahalaan ng Bayan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The municipal hall or capitol is a much larger place.\">Ang munisipyo o kapitolyo ay mas malaking pook.</span>\n<span class=\"fil-sentence\" data-translation=\"It is the government building of the entire town or city.\">Ito ang bahay-pamahalaan ng buong bayan o lungsod.</span>\n<span class=\"fil-sentence\" data-translation=\"This is where the mayor of our town works every day.\">Dito nagtatrabaho ang alkalde o mayor ng bayan natin.</span>\n<span class=\"fil-sentence\" data-translation=\"This is where licenses are made and major laws are enacted.\">Dito ginagawa ang mga lisensya at malalaking batas.</span>\n<span class=\"fil-sentence\" data-translation=\"The municipal hall is larger than our local barangay hall.\">Ang munisipyo ay mas malaki kaysa sa barangay hall.</span>\n<span class=\"fil-sentence\" data-translation=\"Usually it is located at the absolute center of the town.\">Karaniwan itong matatagpuan sa sentro ng bayan natin.</span>\n<span class=\"fil-sentence\" data-translation=\"There is a beautiful town seal in front of the building.\">May magandang logo ng bayan sa harap ng gusali nito.</span>\n<span class=\"fil-sentence\" data-translation=\"Have you visited the municipal hall of your town today?\">Nakarating ka na ba sa munisipyo ng inyong bayan?</span>",
+      "examples": [
+        {
+          "title": "Munisipyo",
+          "content": "Sentral na tanggapan ng Mayor at pamahalaan ng bayan."
+        }
+      ]
+    },
+    {
+      "title": "Selyo at Logo ng Ating Pook",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Every important public building has a seal or logo.\">Ang bawat mahahalagang pook ay may selyo o logo.</span>\n<span class=\"fil-sentence\" data-translation=\"We can observe this on our barangay hall and municipal hall.\">Makikita natin ito sa barangay hall at munisipyo natin.</span>\n<span class=\"fil-sentence\" data-translation=\"The seal contains drawings representing the local lifestyle.\">Ang selyo ay naglalaman ng mga simbolo ng pamumuhay.</span>\n<span class=\"fil-sentence\" data-translation=\"There are symbols of rice, fish, or industrial gears yonder.\">May simbolo ng palay, isda, o gulong ng makina.</span>\n<span class=\"fil-sentence\" data-translation=\"The rice represents bountiful agriculture in our place.\">Ang palay ay sumasagisag sa saganang pagsasaka sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"The gear represents modern factories operating in town.\">Ang gear naman ay para sa mga makabagong pabrika natin.</span>\n<span class=\"fil-sentence\" data-translation=\"The seal verifies the official status of local documents.\">Ang selyo ay nagpapatunay ng opisyal na dokumento.</span>\n<span class=\"fil-sentence\" data-translation=\"Observe the symbols on the seal of your town today!\">Suriin ang mga simbolo sa selyo ng inyong bayan ngayon!</span>",
+      "examples": [
+        {
+          "title": "Selyo ng Bayan",
+          "content": "Opisyal na logo na kumakatawan sa kasaysayan ng bayan."
+        }
+      ]
+    },
+    {
+      "title": "Pook ng Likas na Yaman",
+      "text": "<span class=\"fil-sentence\" data-translation=\"There are places where we get our natural resources.\">May mga pook na pinagkukunan ng likas na yaman.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: the lake of Laguna de Bay in our province yonder.\">Halimbawa: ang lawa ng Laguna de Bay sa lalawigan.</span>\n<span class=\"fil-sentence\" data-translation=\"This is a fishing location for many families living nearby.\">Ito ay pook-pangingisda para sa maraming pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"The fields near the mountains are for growing rice crops.\">Ang mga bukid sa tabi ng bundok ay para sa palay.</span>\n<span class=\"fil-sentence\" data-translation=\"This provides food resources to our entire community life.\">Nagbibigay ito ng pagkain sa buong komunidad natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Caring for these natural locations is our shared duty today.\">Ang pangangalaga sa mga pook na ito ay tungkulin natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Do not throw trash into our local rivers and lakes yonder.\">Huwag magtapon ng basura sa ilog at lawa ng bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"How can you help protect these natural places today?\">Paano mo mapoprotektahan ang mga likas na pook na ito?</span>",
+      "examples": [
+        {
+          "title": "Likas na Yaman",
+          "content": "lawa (lake), bukid (fields), kagubatan (forests)"
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Pook at Tungkulin",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's practice connecting places to their functions.\">Magsanay tayo sa pag-uugnay ng pook at tungkulin.</span>\n<span class=\"fil-sentence\" data-translation=\"Analyze: 'Where does a sick person go for medicine?'\">Suriin: 'Saan pumupunta ang may-sakit para sa gamot?'</span>\n<span class=\"fil-sentence\" data-translation=\"The answer is the local health center or hospital yonder.\">Ang sagot ay health center o ospital ng komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"Analyze: 'Where do children study science subjects daily?'\">Suriin: 'Saan nag-aaral ang mga bata ng science?'</span>\n<span class=\"fil-sentence\" data-translation=\"The answer is the school, which is our place of learning.\">Ang sagot ay paaralan na pook ng karunungan natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Analyze: 'Where does the barangay captain hold meetings?'\">Suriin: 'Saan nagpupulong ang kapitan ng barangay?'</span>\n<span class=\"fil-sentence\" data-translation=\"The answer is the barangay hall, the center of governance.\">Ang sagot ay barangay hall na sentro ng pamamahala.</span>\n<span class=\"fil-sentence\" data-translation=\"Did you successfully connect all the functions today?\">Nagawa mo bang iugnay ang lahat ng tungkulin ngayon?</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay",
+          "content": "ospital -> kalusugan, paaralan -> karunungan, hall -> pamamahala"
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Simbolo sa Logo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze the logo of the municipal hall in town.\">Suriin natin ang logo ng munisipyo sa ating bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"There is a symbol of a sun with eight rays on the logo.\">May simbolo ng araw na may walong sinag sa logo.</span>\n<span class=\"fil-sentence\" data-translation=\"What does the sun represent in our national history?\">Ano ang ibig sabihin ng araw sa kasaysayan natin?</span>\n<span class=\"fil-sentence\" data-translation=\"It symbolizes the hope and freedom of our nation yonder.\">Ito ay sumasagisag sa pag-asa at kalayaan ng bansa.</span>\n<span class=\"fil-sentence\" data-translation=\"There is also a symbol of a mountain with green trees.\">May simbolo rin ng bundok na may berdeng puno roon.</span>\n<span class=\"fil-sentence\" data-translation=\"It shows that our place is rich in forest resources today.\">Ipinapakita nito na mayaman sa kagubatan ang pook natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Understanding the logo shows our historical knowledge yonder.\">Ang pag-unawa sa logo ay nagpapakita ng kaalaman natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Circle the sun symbol on your town logo sheet now!\">Bilugan ang simbolo ng araw sa inyong logo ngayon!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay Simbolo",
+          "content": "araw (freedom), bundok (forest resources)"
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Makasaysayang Lugar",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze a historical place in our province Laguna.\">Suriin natin ang isang makasaysayang pook sa Laguna.</span>\n<span class=\"fil-sentence\" data-translation=\"This is the 'Rizal Shrine' yonder in Calamba City.\">Ito ay ang 'Bahay ni Rizal' sa Lungsod ng Calamba.</span>\n<span class=\"fil-sentence\" data-translation=\"This is where Jose Rizal grew up with his family members.\">Dito lumaki si Jose Rizal kasama ang kanyang pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"This house is built using hard stone and strong wood panels.\">Ang bahay na ito ay gawa sa matigas na bato at kahoy.</span>\n<span class=\"fil-sentence\" data-translation=\"The government protects it as our national monument today.\">Pinangangalagaan ito ng pamahalaan bilang monumento natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Many tourists visit this place to learn about his life story.\">Maraming turista ang pumupunta rito upang matuto.</span>\n<span class=\"fil-sentence\" data-translation=\"This is a primary source of history in our local community.\">Ito ay isang primaryang batayan ng kasaysayan sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Copy the name of this historical site onto your paper!\">Kopyahin ang pangalan ng pook na ito sa inyong papel!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay Pook",
+          "content": "Bahay ni Rizal (Calamba) -> makasaysayang pook"
+        }
+      ]
+    },
+    {
+      "title": "Maling Pagtukoy sa Tungkulin",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid confusing the functions of different public places.\">Iwasan ang pagpapalit ng tungkulin ng mga pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'We went to the barangay hall for medical treatment.'\">Mali: 'Pumunta kami sa barangay hall upang magpagamot.'</span>\n<span class=\"fil-sentence\" data-translation=\"The barangay hall is not a medical clinic or hospital.\">Ang barangay hall ay hindi klinika o ospital sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"You must visit the health center when you are feeling sick.\">Dapat pumunta sa health center kapag may karamdaman.</span>\n<span class=\"fil-sentence\" data-translation=\"Correct: 'We went to the health center for treatment.'\">Tama: 'Pumunta kami sa health center upang magpagamot.'</span>\n<span class=\"fil-sentence\" data-translation=\"Every place has its own specific and correct function yonder.\">Ang bawat pook ay may kani-kanilang tumpak na tungkulin.</span>\n<span class=\"fil-sentence\" data-translation=\"Verify the correct place before writing in your log today!\">Tiyakin ang tamang pook bago sumulat sa iyong log ngayon!</span>\n<span class=\"fil-sentence\" data-translation=\"This shows an accurate understanding of our lesson today!\">Ito ay nagpapakita ng tumpak na pag-unawa sa aralin!</span>",
+      "examples": [
+        {
+          "title": "Tungkulin Error",
+          "content": "mali: hall -> gamot, tama: health center -> gamot"
+        }
+      ]
+    },
+    {
+      "title": "Maling Paglalarawan ng Pook-Samba",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid showing lack of respect for places of worship yonder.\">Iwasan ang kawalan ng galang sa mga pook-pagsamba.</span>\n<span class=\"fil-sentence\" data-translation=\"Do not write yonder that the church is a playground for kids.\">Huwag sabihing ang simbahan ay palaruan ng mga bata.</span>\n<span class=\"fil-sentence\" data-translation=\"It is a place for prayer and quiet spiritual activities.\">Ito ay pook para sa pananalangin at tahimik na pagsamba.</span>\n<span class=\"fil-sentence\" data-translation=\"We must behave quietly and properly inside these buildings.\">Dapat maging tahimik at maayos ang kilos sa loob nito.</span>\n<span class=\"fil-sentence\" data-translation=\"The same is true inside the mosques of our Muslim brothers.\">Gayundin sa loob ng mga moske ng ating kapatid na Muslim.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's respect all religious beliefs in our local community.\">Igalang natin ang lahat ng paniniwala sa komunidad natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Respecting physical places shows excellent moral character today.\">Ang paggalang sa pook ay nagpapakita ng mabuting asal.</span>\n<span class=\"fil-sentence\" data-translation=\"Make sure your written description is respectful and correct!\">Tiyakin na wasto ang iyong paglalarawan sa papel ngayon!</span>",
+      "examples": [
+        {
+          "title": "Pook-Samba",
+          "content": "Igalang ang simbahan, moske, at kapilya sa lahat ng oras."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 1",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 1",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 2",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 2",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 3",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 3",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 4",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 4",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 5",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 5",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 6",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 6",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 7",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 7",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Summary ng Ikalawang Linggo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed all the slides for this week.\">Binabati kita! Natapos mo ang lahat ng slide sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about the important public places in our town.\">Natutunan natin ang mga mahahalagang pook sa bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"We discovered the roles of the barangay hall and school.\">Nalaman natin ang tungkulin ng barangay hall at eskwelahan.</span>\n<span class=\"fil-sentence\" data-translation=\"We identified the symbols on our local community logo.\">Natukoy natin ang mga simbolo sa logo ng ating pook.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied historical monuments and important heritage sites.\">Nag-aral tayo ng mga makasaysayang monumento at pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready for the quiz and challenges of this week now?\">Handa ka na ba sa pagsusulit at hamon ng linggong ito?</span>\n<span class=\"fil-sentence\" data-translation=\"Show your excellence in identifying these community places!\">Ipakita ang iyong husay sa pagkilala ng ating pook!</span>\n<span class=\"fil-sentence\" data-translation=\"Continue studying with enthusiasm and excellent focus today!\">Ipagpatuloy ang pag-aaral nang may sigla at galing ngayon!</span>",
+      "examples": [
+        {
+          "title": "Tandaan",
+          "content": "Pook = Lugar. Tungkulin = Serbisyo. Simbolo = Kahulugan ng pook."
+        }
+      ]
+    }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Aling pook ang sentro ng pamamalakad at pamamahala sa isang barangay?",
+      "options": [
+        "paaralan",
+        "barangay hall",
+        "palengke",
+        "monumento"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Saan pumupunta ang mga pamilya upang pabakunahan ang kanilang mga sanggol nang libre?",
+      "options": [
+        "palengke",
+        "health center",
+        "munisipyo",
+        "plaza"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Anong pook ang nagsisilbing tahanan ng karunungan kung saan nagtuturo ang guro?",
+      "options": [
+        "simbahan",
+        "palengke",
+        "paaralan",
+        "outpost"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang pook-pagsamba ng mga Muslim?",
+      "options": [
+        "simbahan",
+        "kapilya",
+        "moske",
+        "plaza"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Saan pumupunta ang mga tao upang bumili ng sariwang gulay at isda sa umaga?",
+      "options": [
+        "paaralan",
+        "palengke",
+        "barangay hall",
+        "monumento"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Anong malawak at bukas na pook sa bayan ang ginagamit para sa paglalaro at pista?",
+      "options": [
+        "health center",
+        "police outpost",
+        "plaza o parke",
+        "aklatan"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Sino ang pinuno ng pamahalaan na naglilingkod sa loob ng munisipyo ng bayan?",
+      "options": [
+        "Barangay Kapitan",
+        "Alkalde o Mayor",
+        "Pulis",
+        "Doktor"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang pook na nagpapanatili ng seguridad at kapayapaan sa kalsada?",
+      "options": [
+        "palengke",
+        "police outpost o tanod outpost",
+        "aklatan",
+        "simbahan"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang isinasagisag ng simbolo ng gear o makina sa selyo ng munisipyo?",
+      "options": [
+        "pagsasaka",
+        "industriya o mga pabrika sa bayan",
+        "pangingisda sa lawa",
+        "pananalangin"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "Tama o Mali: Ang health center ay nagbibigay ng mga libreng gamot para sa mamamayan.",
+      "options": [
+        "Tama",
+        "Mali"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang isang makasaysayang pook na matatagpuan sa Calamba, Laguna?",
+      "options": [
+        "SM City Calamba",
+        "Bahay ni Dr. Jose Rizal",
+        "Enchanted Kingdom",
+        "Ospital ng Laguna"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Sino ang nagtatrabaho sa paaralan upang gabayan ang mga mag-aaral sa Grade 3?",
+      "options": [
+        "Kagawad",
+        "Guro",
+        "Barangay Tanod",
+        "Tindero"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Anong simbolo sa logo ang nagpapakita ng kabuhayan sa pangingisda?",
+      "options": [
+        "guhit ng palay",
+        "guhit ng isda at lambat",
+        "guhit ng bundok",
+        "guhit ng semento"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang tungkulin ng mga pulis at barangay tanod?",
+      "options": [
+        "magturo ng pagbasa",
+        "magbenta ng gulay",
+        "panatilihin ang seguridad at kapayapaan",
+        "magbakuna ng sanggol"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang pangunahing layunin ng pagtatayo ng barangay hall?",
+      "options": [
+        "magbenta ng laruan",
+        "magbigay ng serbisyo at pamahalaan ang barangay",
+        "magsilbing palaruan",
+        "mag-alaga ng may-sakit"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Saan matatagpuan ang opisina ng Mayor o Alkalde ng lungsod?",
+      "options": [
+        "barangay hall",
+        "munisipyo o kapitolyo",
+        "health center",
+        "simbahan"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "Tama o Mali: Ang simbahan o moske ay pook para sa maingay na paglalaro ng soccer.",
+      "options": [
+        "Tama",
+        "Mali"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Aling likas na yaman ang makukuha natin sa lawa ng Laguna de Bay?",
+      "options": [
+        "ginto at pilak",
+        "sariwang isda",
+        "gulong ng makina",
+        "bakal na susi"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang dapat gawin ng mga mamamayan sa mga monumento ng mga bayani sa plaza?",
+      "options": [
+        "sulatan at sirain ito",
+        "igalang at panatilihing malinis ito",
+        "ipaubaya sa ulan na lamang",
+        "itapon sa basura"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang ibig sabihin ng asul na kulay sa selyo ng isang bayan na malapit sa ilog?",
+      "options": [
+        "mayaman sa kagubatan",
+        "mayaman sa agrikultura",
+        "mayaman sa yamang-tubig o ilog",
+        "maraming pabrika doon"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Saan pumupunta ang mga guro at mag-aaral upang magbasa ng maraming aklat sa paaralan?",
+      "options": [
+        "palikuran",
+        "aklatan",
+        "opisina ng principal",
+        "kantina"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Sino ang namumuno sa pananalangin sa loob ng isang moske?",
+      "options": [
+        "Pari",
+        "Pastor",
+        "Imam",
+        "Kagawad"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "verify",
+      "q": "Tama o Mali: Ang munisipyo ay mas maliit kaysa sa barangay hall ng komunidad.",
+      "options": [
+        "Tama",
+        "Mali"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang pook kung saan tayo maaaring makabili ng mga delata sa tapat ng bahay?",
+      "options": [
+        "munisipyo",
+        "sari-sari store o tindahan sa barangay",
+        "ospital",
+        "monumento"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Anong katangian ng solid ang ginagamit sa paggawa ng monumento ng bayani?",
+      "options": [
+        "malambot na clay",
+        "matigas na bato o bronze na metal",
+        "magaan na papel",
+        "stickers"
+      ],
+      "answer": 1
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "Challenge: Kung ang isang komunidad ay walang health center, ano ang maaaring maging epekto nito sa mga mamamayan?",
+      "options": [
+        "Hindi makapag-aaral ang mga bata ng science.",
+        "Mahihirapan ang mga tao na makakuha ng agarang libreng bakuna at gamot.",
+        "Walang magbabantay sa trapiko sa gabi.",
+        "Hindi makapamimili ng gulay ang mga nanay."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Paano nagtutulungan ang barangay hall at munisipyo sa pamamahala ng pook?",
+      "options": [
+        "Ang barangay hall ang nagbibigay ng ulat at serbisyo sa maliit na pook, habang ang munisipyo ang nagpapatupad ng mas malalaking programa sa bayan.",
+        "Walang ugnayan ang dalawang pook na ito.",
+        "Ang munisipyo ay sumusunod sa mga kagawad ng barangay lamang.",
+        "Ang barangay hall ang nagpapasweldo sa Mayor."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Aling pook ang pinaka-angkop na bisitahin ng mga mag-aaral upang makakuha ng primaryang batayan (mga sulat-kamay) ng kasaysayan ng ating bayani?",
+      "options": [
+        "SM City Calamba mall",
+        "Bahay-Monumento ni Dr. Jose Rizal sa Calamba",
+        "Laguna Hospital",
+        "isang sari-sari store"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Bakit mahalagang ilagay ang simbolo ng palay at isda sa logo ng lalawigan ng Laguna?",
+      "options": [
+        "Dahil ito ang paboritong pagkain ng Mayor lamang.",
+        "Dahil ang Laguna ay may malawak na bukirin ng palay at malapit sa lawa ng Laguna de Bay.",
+        "Dahil walang ibang hayop o halaman sa lalawigan.",
+        "Dahil ito ay palamuti lamang sa selyo ng gobernador."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Kung may gulo o away sa inyong kapitbahayan sa gabi, aling pook ang pinakamabilis na lapitan ng tulong?",
+      "options": [
+        "aklatan ng paaralan",
+        "barangay tanod outpost o police outpost",
+        "health center",
+        "palengke ng bayan"
+      ],
+      "answer": 1
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Ulat-Pook sa Ating Komunidad",
+    "desc": "Gumawa ng isang panayam sa iyong magulang tungkol sa pinakamalapit na health center at barangay hall sa inyong bahay. Isulat sa papel ang pangalan ng bawat pook, ang kanilang lokasyon (kalye), at ang pangalan ng Barangay Kapitan o mga doctor doon. Iguhit ang mga gusali at ipaliwanag ang kanilang kahalagahan sa iyong pamilya.",
+    "labels": [
+      "Wastong natukoy ang pangalan at lokasyon ng dalawang pook",
+      "Maayos na naiguhit at nailarawan ang tungkulin ng bawat pook",
+      "Malinaw na naipaliwanag ang ulat sa magulang nang may tiwala sa sarili"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 1: Pagtukoy sa Pook at Tungkulin</h3>\n                  <p class=\"ws-instruction\">Isulat ang ngalan ng tamang pook (<strong>Barangay Hall</strong>, <strong>Health Center</strong>, <strong>Paaralan</strong>, o <strong>Palengke</strong>) para sa sumusunod na tungkulin.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Pook kung saan nagtuturo ang guro sa mag-aaral:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Paaralan</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Pook para sa libreng bakuna at pagsusuri ng kalusugan ng sanggol:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Health Center</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Sentro ng pamamahala at pulong ng Barangay Kapitan:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Barangay Hall</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 2: Pagsusuri ng Simbolo sa Logo</h3>\n                  <p class=\"ws-instruction\">Iugnay ang simbolo sa logo sa katapat nitong kahalagahan sa pamamagitan ng pagsulat ng tamang titik.</p>\n                  <div class=\"ws-split\" style=\"margin-top: 20px;\">\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.0;\">\n                      <div><strong>Simbolo sa Logo:</strong></div>\n                      <div>1. palay <span class=\"fil-sentence\" data-translation=\"(rice stalks)\"></span></div>\n                      <div>2. gear o makina <span class=\"fil-sentence\" data-translation=\"(industrial gear)\"></span></div>\n                      <div>3. isda at lambat <span class=\"fil-sentence\" data-translation=\"(fish and net)\"></span></div>\n                    </div>\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.0; text-align: right; padding-right: 40px;\">\n                      <div><strong>Kahulugan:</strong></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">C</span> &nbsp; ] &nbsp; A. industriya at pabrika <span class=\"fil-sentence\" data-translation=\"(industry and factories)\"></span></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">A</span> &nbsp; ] &nbsp; B. kabuhayan sa pagsasaka <span class=\"fil-sentence\" data-translation=\"(farming livelihood)\"></span></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">B</span> &nbsp; ] &nbsp; C. pangingisda sa lawa o dagat <span class=\"fil-sentence\" data-translation=\"(lake or sea fishing)\"></span></div>\n                    </div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 3: Pagsusuri ng Makasaysayang Monumento</h3>\n                  <p class=\"ws-instruction\">Sagutin ang tanong gamit ang tumpak na detalye batay sa napag-aralan.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Bakit ipinapatayo ang monumento ni Dr. Jose Rizal sa plaza ng Lungsod ng Calamba? <span class=\"fil-sentence\" data-translation=\"(Why is Rizal's monument built in Calamba City plaza?)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Upang alalahanin at igalang ang kadakilaan ng ating pambansang bayani.</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Si Dr. Jose Rizal ay ipinanganak sa lungsod na ito kaya mahalaga siya sa kasaysayan ng pook.</span></div>\n                  </div>\n                </div>"
+    ]
+  }
+}

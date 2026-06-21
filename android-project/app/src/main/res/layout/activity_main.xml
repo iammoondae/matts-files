@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.webkit.WebView
+        android:id="@+id/webview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!-- Guest mode banner — shown only for anonymous users -->
+    <LinearLayout
+        android:id="@+id/guest_banner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="#E6272742"
+        android:paddingStart="16dp"
+        android:paddingEnd="8dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/guest_banner_text"
+            android:textColor="#E0E0E0"
+            android:textSize="12sp"
+            android:lineSpacingExtra="2dp" />
+
+        <Button
+            android:id="@+id/btn_banner_sign_in"
+            android:layout_width="wrap_content"
+            android:layout_height="36dp"
+            android:text="Sign In"
+            android:textSize="12sp"
+            android:textColor="#FFFFFF"
+            android:textAllCaps="false"
+            android:fontFamily="sans-serif-medium"
+            android:background="@drawable/btn_sign_in_action"
+            android:paddingStart="16dp"
+            android:paddingEnd="16dp"
+            android:layout_marginStart="8dp" />
+
+        <ImageButton
+            android:id="@+id/btn_banner_dismiss"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:src="@android:drawable/ic_menu_close_clear_cancel"
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:contentDescription="Dismiss"
+            android:tint="#888888"
+            android:layout_marginStart="4dp" />
+
+    </LinearLayout>
+
+</FrameLayout>

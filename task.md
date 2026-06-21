@@ -1,0 +1,134 @@
+# Task List - Welcome Dashboard Update
+
+- `[x]` Task 1: Update passing score constants, currentMode, and session restore in `app.js`
+- `[x]` Task 2: Implement Academic Week, Unified Task Completion, and Schedule Configuration utilities in `app.js`
+- `[x]` Task 3: Implement Badge Achievement and Mid-session Quiz Persistence logic in `app.js`
+- `[x]` Task 4: Integrate completion hooks in Study slide navigation, Performance Tasks, and Worksheets in `app.js`
+- `[x]` Task 5: Implement `setMode('home')`, `renderWelcomeDashboard()`, and schedule settings view functions in `app.js`
+- `[x]` Task 6: Add onboarding schedule configuration step in `app.js`
+- `[x]` Task 7: Update `index.html` (sidebar home button, settings schedule container, openSettings hook)
+- `[x]` Task 8: Append reconstructed dashboard styles at the bottom of `index.css`
+- `[x]` Task 9: Validate code syntax using `node scratch/test_js.js`
+- `[x]` Task 10: Compile and build the updated APK (`Matteo's Learning Hub.apk`)
+- `[x]` Task 11: Set June 22, 2026 as Week 1 & hide locked weeks in academic week dropdown
+- `[x]` Task 12: Add subject names next to icons/emojis in weekly schedule and onboarding schedule step
+- `[x]` Task 13: Rebuild and compile the final APK
+- `[x]` Task 14: Restructure first-install active mode/subject auto-defaults and session preservation on subsequent launches
+- `[x]` Task 15: Move Home button location between academic week selector and learning modes header
+- `[x]` Task 16: Build and package the updated APK
+- `[x]` Task 17: Fix dashboard-to-learning-mode navigation issues (highlighting subject button and syncing subject details header)
+- `[x]` Task 18: Recompile final APK package
+- `[x]` Task 19: Add media queries in index.css to optimize header sizes, margins, padding, and navigation button sizes for standard mobile screens
+- `[x]` Task 20: Compile final responsive APK package
+- `[x]` Task 21: Relocate Daily Reading tab to its own section in sidebar between Home and Learning Modes
+- `[x]` Task 22: Configure Daily Reading to render with its own header title, icon, and week details while clearing active subject highlights
+- `[x]` Task 23: Add a third step to onboarding flow to check/download updates
+- `[x]` Task 24: Configure the Update Weekly Topics onboarding action to download data with progress reporting and transition to home dashboard
+- `[x]` Task 25: Implement Parental PIN Onboarding Step 4
+- `[x]` Task 26: Implement Change PIN panel in Settings
+- `[x]` Task 27: Implement Parents PIN Pad overlay modal and recovery Parental Gate challenge
+- `[x]` Task 28: Implement active study duration background logger
+- `[x]` Task 29: Implement dynamic Parents Dashboard content layout (Mastery overview, attendance logs, report card table, worksheet checklist, remediation quick-links)
+- `[x]` Task 30: Package and compile the final APK containing the Parents features
+- `[x]` Task 31: Relocate Daily Reading back to Learning Modes below Practice Worksheets
+- `[x]` Task 32: Resolve highlighting inconsistencies using clearAllActiveNavButtons helper
+- `[x]` Task 33: Add "View App Changelog" button to Settings drawer and create Changelog overlay modal
+- `[x]` Task 34: Design and implement the Changelog timeline logs in `app.js` with appropriate word counts
+- `[x]` Task 35: Gather and structure official DepEd MATATAG competencies for Grades 1, 2, and 3 inside `app.js` and write them to the MD files
+- `[x]` Task 36: Implement dynamic Competencies Requirements buttons and modal popup in Parents Dashboard
+- `[x]` Task 37: Verify syntax using GJS validation script
+- `[x]` Task 38: Build and compile the final APK
+- `[x]` Task 39: Update `scratch/build_apk.sh` for dynamic build numbers and asset sed replacements
+- `[x]` Task 40: Add About button and modal layout in `index.html`
+- `[x]` Task 41: Implement About content renderer and layout in `app.js`
+- `[x]` Task 42: Integrate dynamic placeholders and update latest changelog entry in `app.js`
+- `[x]` Task 43: Run syntax validation check
+- `[x]` Task 44: Compile and build the versioned APK (v26.06.16.1007)
+- `[x]` Task 45: Remove the 'ℹ️ About' section title from settings drawer and simplify button text to "About"
+- `[x]` Task 46: Implement dynamic date/version resolvers inside app.js for developer fallback
+- `[x]` Task 47: Update Package ID label to "Package ID (not final):" in the About modal
+- `[x]` Task 48: Rename Parents Dashboard return button to "🏠 Home" and implement the "📋 Competencies Requirements" toggle button with expanding grid
+- `[x]` Task 49: Run GJS syntax checks and build the final dynamic versioned APK (v26.06.16.1032)
+- `[x]` Task 50: Remove unversioned output filename copy step in `build_apk.sh`
+- `[x]` Task 51: Change default background music from `background2.mp3` to `background5.mp3`
+- `[x]` Task 52: Relocate Competencies Requirements button to the sidebar navigation panel, below Home button
+- `[x]` Task 53: Implement formatCompetencyText helper in `app.js` to strip competency codes and display clean descriptive prefixes at runtime
+- `[x]` Task 54: Remove Home and Competencies buttons from Parents Dashboard viewport
+- `[x]` Task 55: Rebuild and compile the final APK (v26.06.16.1113)
+- `[x]` Task 56: Update `build_apk.sh` to dynamically inject the build version as the `versionName` inside `android-project/app/build.gradle` so that the correct build number is visible in Android App Info
+- `[x]` Task 57: Configure `build_apk.sh` to run `./gradlew clean` to ensure no cached or stale assets (such as `background2.mp3`) remain in the build folders
+- `[x]` Task 58: Style all "View Competencies" buttons with bright primary colors, white text, and no border to make them clear and legible
+- `[x]` Task 59: Compile and build final package version `v26.06.16.1130`
+- `[x]` Task 60: Style About button in Settings drawer with bright accent outline and tint for dark mode visibility
+- `[x]` Task 61: Implement `DEFAULT_SCHEDULE_BY_GRADE` and update `getScheduleConfig()` in `app.js` for Grade 3 daily subjects
+- `[x]` Task 62: Modify `app.js` to update `renderWorksheetView()` (remove drawing canvas, clean toolbar buttons, add pen-and-paper instructions, and default parent submit bar to hidden)
+- `[x]` Task 63: Generalize the Parental PIN Modal in `app.js` with callback support, and update `toggleWorksheetAnswers()` to request PIN on reveal
+- `[x]` Task 64: Modify `index.html` to add Theme, Music, Update, and Settings buttons to top controls header
+- `[x]` Task 65: Modify `index.css` to add styling and dark/light mode rules for `.header-action-btn`
+- `[x]` Task 66: Implement `updateHeaderActionButtons()` and `toggleMusicHeader()` in `app.js` and hook them up to start-up and toggling listeners
+- `[x]` Task 67: Validate syntax and verify all features manually
+- `[x]` Task 68: Prepare and inject worksheet answers for Grade 3 Week 1 and Week 2
+- `[x]` Task 69: Compile final versioned APK package containing all Grade 3 updates
+- `[x]` Task 70: Set identical heights and add text labels for Theme and Music header buttons
+- `[x]` Task 71: Synchronize header titles in renderCurrentView when switching from Parents Dashboard to subject modes
+- `[x]` Task 72: Fix parental PIN modal success callback to reveal worksheet answers rather than redirecting to parents dashboard
+- `[x]` Task 73: Update worksheet instruction banner text and parent complete button label
+- `[x]` Task 74: Recompile and build the final versioned APK
+- `[x]` Task 75: Auto-hide answers and auto-revert worksheet answers visibility state after parent marks complete, showing completion status under instruction banner
+- `[x]` Task 76: Update performance task parent rating instruction label to mention rubric sliders
+- `[x]` Task 77: Output and save Shopee Physical Activation Card (Method 1) template as printable html (shopee_method1_card.html)
+- `[x]` Task 78: Package and compile final versioned APK (v26.06.17.1713)
+- `[x]` Task 79: Prefill onboarding inputs with 'Matteo' and 'Grade 3' (editable) in index.html
+- `[x]` Task 80: Limit worksheet complete button to last page and move it to top banner area when answers are shown
+- `[x]` Task 81: Implement worksheet answers visibility auto-revert on navigation away, subject/week switch, or dashboard task selection
+- `[x]` Task 82: Compile final versioned APK (v26.06.17.1735)
+- `[x]` Task 83: Add Translation header button (shown only for Filipino and Makabansa active subjects)
+- `[x]` Task 84: Add Accessibility font size scaling section (A-, Default, A+) in Settings drawer
+- `[x]` Task 85: Package and compile final versioned APK (v26.06.17.1806)
+- `[x]` Task 86: Reposition competencies modal font size controls (A+, A-, Reset) to the right side of the header
+- `[x]` Task 87: Remove 'Translation:' text prefix from Filipino/Makabansa bilingual translations
+- `[x]` Task 88: Center the owl mascot in the Gaming Center circle, resolve the speech bubble square glitch, and fix undefined `--border-color` css variable
+- `[x]` Task 89: Render Kiko the owl mascot next to 'Good Morning, Matteo!' in the Home greeting card
+- `[x]` Task 90: Render the owl mascot to the left of the 'Great Job!' banner inside the Progress Dashboard
+- `[x]` Task 91: Package and compile the final versioned APK (v26.06.18.1012)
+- `[x]` Task 92: Programmatically process and convert mascot PNG backgrounds to transparent
+- `[x]` Task 93: Dynamically map student's nickname to mascot name inside the Games Center, speech bubbles, shop description, wardrobe, and alerts
+- `[x]` Task 94: Implement two new interactive games (Word Scramble and Speed Math) with dynamic difficulty scaling based on active grade level
+- `[x]` Task 95: Reposition mascot to the right in Home Welcome Dashboard greeting, resize it to 90px height, and remove the Lvl 1 label
+- `[x]` Task 96: Add interactive mascot overlay modal `#mascot-interactive-modal` in `index.html`
+- `[x]` Task 97: Implement `interactMascotDashboard()`, `closeMascotInteractiveModal()`, and `launchDashboardTask()` in `app.js` with personalized motivational quotes
+- `[x]` Task 98: Refine 3D Page Flip transition animations in `index.css`
+- `[x]` Task 99: Implement the 8 approved quick play games in `app.js` with dynamic generators and content pools
+- `[x]` Task 100: Sync modified files and build the compiled versioned APK
+- `[x]` Task 101: Add microphone permissions to `AndroidManifest.xml`
+- `[x]` Task 102: Request microphone permission on startup and grant WebView permission requests in `MainActivity.java`
+- `[x]` Task 103: Register the "Sentence Rain" game card in the Game Center grid in `app.js`
+- `[x]` Task 104: Design and implement Sentence Rain HTML canvas layout and CSS animation/falling styles in `index.css`
+- `[x]` Task 105: Implement Sentence Rain core game engine, grade-specific sentence pools, 5 game modes, speech recognition language/fallback, and scoring logic in `app.js`
+- `[x]` Task 106: Verify syntax and compile the final versioned APK
+- `[x]` Task 107: Revert 3D book page-flip transitions back to simple left/right sliding animations
+- `[x]` Task 108: Set initial sfxEnabled to false and update sfx/music preferences default restore state to off
+- `[x]` Task 109: Fixed dashboard home page loading issue and wired up clickable branding title redirect to dashboard
+- `[x]` Task 110: Add cross-platform WebView-safe numeric split date parser for SCHOOL_YEAR_START_DATE
+- `[x]` Task 111: Sync assets to android-project
+- `[x]` Task 112: Injected "Catch this word" banner inside Sentence Rain game layout
+- `[x]` Task 113: Implemented staggered pop-in and 800ms spawn freeze for falling word cards
+- `[x]` Task 114: Lowered base fall speeds for standard play comfort
+- `[x]` Task 115: Implemented tap-anywhere-to-pause (1.3s pause duration) inside the viewport
+- `[x]` Task 116: Implemented round-based batch spawning and round resets for missed targets
+- `[x]` Task 117: Integrated Number Builder Blitz game loop, G1-6 pools, and expression evaluator
+- `[x]` Task 118: Integrated Word Garden low-pressure vocabulary matching game and garden flower blooms display
+- `[x]` Task 119: Integrated Science Sort Lab dynamic category sorting bins
+- `[x]` Task 120: Registered three new games in launcher grid cards, router, rewards, and exit cleanups
+- `[x]` Task 121: Cleaned up orphaned references to "Kiko" mascot name and normalized to "Matteo"
+- `[x]` Task 122: Compiled final versioned APK v26.06.18.1856 successfully
+- `[x]` Task 123: Renamed button "Competencies Requirements" to "DepEd Competencies" inside index.html and app.js
+- `[x]` Task 124: Wrapped performance task titles and descriptions in `formatMarkdown()` in `app.js`
+- `[x]` Task 125: Wrapped monthly checklist competencies in `formatMarkdown()` in `app.js`
+- `[x]` Task 126: Expanded all core game databases (including Patterns, Scramble, Sentence Builder, Fact or Fiction, Good Deeds, Organs, Odd One Out, Timeline, Empathy, Number Builder, Word Garden, and Science Sort) to contain at least 20 items per grade/category in `app.js`
+- `[x]` Task 127: Upgraded Memory Match to pick 8 random pairs from a pool of 20 symbols on setup
+- `[x]` Task 128: Compiled and built versioned APK v26.06.18.1949 successfully.
+
+
+
+

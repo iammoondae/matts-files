@@ -1,0 +1,1890 @@
+<!DOCTYPE html>
+<html lang="fil">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Grade 3 MATATAG Interactive Hub</title>
+  
+  <!-- Google Fonts: Outfit for headers, Inter for body -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <style>
+    /* CSS DESIGN SYSTEM & VARIABLES */
+    :root {
+      /* Base Colors (Dark Theme Default) */
+      --bg-gradient: radial-gradient(circle at top left, #1e293b, #0f172a, #020617);
+      --bg-card: rgba(30, 41, 59, 0.45);
+      --border-card: rgba(255, 255, 255, 0.08);
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --text-translation: #38bdf8; /* Sky blue for English helper translation */
+      --sidebar-bg: rgba(15, 23, 42, 0.8);
+      
+      /* Component States */
+      --correct: #10b981;
+      --incorrect: #ef4444;
+      --accent: #6366f1;
+      --accent-hover: #4f46e5;
+      
+      /* Subject Specific Colors (Glow/Theme highlights) */
+      --sub-math: #06b6d4;      /* Teal */
+      --sub-science: #10b981;   /* Emerald */
+      --sub-english: #a855f7;   /* Purple */
+      --sub-filipino: #f43f5e;  /* Rose */
+      --sub-makabansa: #3b82f6;  /* Royal Blue */
+      --sub-gmrc: #eab308;      /* Gold */
+      
+      --glow-color: var(--accent);
+      --active-subject-color: var(--accent);
+      
+      --safe-padding: 24px;
+      --card-radius: 20px;
+    }
+
+    /* Light Mode Adjustments */
+    body.light-mode {
+      --bg-gradient: radial-gradient(circle at top left, #f8fafc, #f1f5f9, #e2e8f0);
+      --bg-card: rgba(255, 255, 255, 0.75);
+      --border-card: rgba(0, 0, 0, 0.08);
+      --text-main: #0f172a;
+      --text-muted: #64748b;
+      --text-translation: #0284c7; /* Darker blue for light mode reading */
+      --sidebar-bg: rgba(255, 255, 255, 0.9);
+      --glow-color: rgba(99, 102, 241, 0.3);
+    }
+
+    /* Global Resets & Tablet Optimizations */
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      -webkit-tap-highlight-color: transparent;
+      user-select: none;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg-gradient);
+      color: var(--text-main);
+      min-height: 100vh;
+      display: flex;
+      overflow-x: hidden;
+      transition: background 0.4s ease, color 0.4s ease;
+    }
+
+    /* Custom Scrollbar */
+    ::-webkit-scrollbar {
+      width: 8px;
+      height: 8px;
+    }
+    ::-webkit-scrollbar-track {
+      background: transparent;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: rgba(148, 163, 184, 0.3);
+      border-radius: 4px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: rgba(148, 163, 184, 0.5);
+    }
+
+    /* Side Navigation (Optimized for 11" Android Tablet Landscape) */
+    nav.sidebar {
+      width: 280px;
+      background: var(--sidebar-bg);
+      border-right: 1px solid var(--border-card);
+      backdrop-filter: blur(20px);
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+      position: sticky;
+      top: 0;
+      flex-shrink: 0;
+      z-index: 100;
+      padding: var(--safe-padding);
+      transition: background 0.4s, border 0.4s;
+    }
+
+    .brand-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: 20px;
+      font-weight: 800;
+      letter-spacing: -0.5px;
+      margin-bottom: 30px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .brand-subtitle {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      color: var(--text-muted);
+      margin-top: 4px;
+      font-weight: 600;
+    }
+
+    .nav-section-title {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      color: var(--text-muted);
+      margin: 15px 0 8px 5px;
+      font-weight: 700;
+    }
+
+    .nav-btn {
+      width: 100%;
+      background: transparent;
+      border: 1px solid transparent;
+      color: var(--text-muted);
+      padding: 12px 16px;
+      border-radius: 12px;
+      text-align: left;
+      font-family: 'Outfit', sans-serif;
+      font-size: 15px;
+      font-weight: 500;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 6px;
+      transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .nav-btn:hover {
+      background: rgba(255, 255, 255, 0.05);
+      color: var(--text-main);
+    }
+
+    .nav-btn.active {
+      background: var(--active-subject-color);
+      color: #fff;
+      font-weight: 600;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+      transform: translateY(-1px);
+    }
+
+    .mode-selector {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid var(--border-card);
+      padding: 4px;
+      border-radius: 12px;
+      margin-bottom: 25px;
+    }
+
+    .mode-btn {
+      padding: 8px;
+      font-family: 'Outfit', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      border: none;
+      background: transparent;
+      color: var(--text-muted);
+      border-radius: 8px;
+      cursor: pointer;
+      text-align: center;
+      transition: all 0.2s ease;
+    }
+
+    .mode-btn.active {
+      background: rgba(255, 255, 255, 0.08);
+      color: var(--text-main);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    body.light-mode .mode-btn.active {
+      background: rgba(0, 0, 0, 0.05);
+    }
+
+    /* Main Content Area */
+    main.content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      padding: var(--safe-padding);
+      height: 100vh;
+      overflow-y: auto;
+    }
+
+    /* Top Control bar */
+    .top-controls {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 24px;
+      flex-shrink: 0;
+    }
+
+    .subject-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .subject-icon {
+      font-size: 28px;
+      width: 50px;
+      height: 50px;
+      border-radius: 14px;
+      background: rgba(255, 255, 255, 0.05);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: 1px solid var(--border-card);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    }
+
+    .subject-title-wrapper h1 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 22px;
+      font-weight: 700;
+    }
+
+    .subject-title-wrapper p {
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    .action-toggles {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    /* Beautiful Premium Toggle Switches */
+    .toggle-container {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      padding: 8px 14px;
+      border-radius: 50px;
+      cursor: pointer;
+      transition: all 0.3s;
+      font-size: 13px;
+      font-weight: 600;
+    }
+
+    .toggle-container input {
+      display: none;
+    }
+
+    .toggle-slider {
+      width: 34px;
+      height: 18px;
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 20px;
+      position: relative;
+      transition: background 0.3s;
+    }
+
+    body.light-mode .toggle-slider {
+      background: rgba(0, 0, 0, 0.1);
+    }
+
+    .toggle-slider::before {
+      content: '';
+      position: absolute;
+      width: 14px;
+      height: 14px;
+      left: 2px;
+      bottom: 2px;
+      background: #fff;
+      border-radius: 50px;
+      transition: transform 0.3s;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+    }
+
+    .toggle-container input:checked + .toggle-slider {
+      background: var(--active-subject-color);
+    }
+
+    .toggle-container input:checked + .toggle-slider::before {
+      transform: translateX(16px);
+    }
+
+    .theme-toggle-btn {
+      width: 38px;
+      height: 38px;
+      border-radius: 50px;
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      color: var(--text-main);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 16px;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+
+    .theme-toggle-btn:hover {
+      transform: scale(1.05);
+    }
+
+    /* Sub-Mode Selector (For Flashcards, Slides, Study Guides) */
+    .sub-mode-bar {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 20px;
+      flex-shrink: 0;
+    }
+
+    .sub-mode-btn {
+      padding: 10px 18px;
+      border-radius: 10px;
+      font-family: 'Outfit', sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      color: var(--text-muted);
+      transition: all 0.3s;
+    }
+
+    .sub-mode-btn.active {
+      background: var(--active-subject-color);
+      color: #fff;
+      border-color: transparent;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    /* Dynamic Body Area */
+    .view-container {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      animation: fadeIn 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    /* BILINGUAL TRANSLATION CLASSES */
+    .fil-phrase {
+      border-bottom: 1.5px dashed rgba(56, 189, 248, 0.4);
+      cursor: help;
+      position: relative;
+    }
+
+    .fil-phrase::after {
+      content: attr(data-translation);
+      position: absolute;
+      bottom: 100%;
+      left: 50%;
+      transform: translateX(-50%) translateY(-6px);
+      background: #0f172a;
+      color: #38bdf8;
+      font-size: 12px;
+      font-weight: 500;
+      padding: 4px 8px;
+      border-radius: 6px;
+      white-space: nowrap;
+      pointer-events: none;
+      opacity: 0;
+      transition: all 0.2s ease;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      border: 1px solid rgba(255,255,255,0.1);
+      z-index: 10;
+    }
+
+    .fil-phrase:hover::after {
+      opacity: 1;
+      transform: translateX(-50%) translateY(-2px);
+    }
+
+    .fil-sentence::after {
+      content: attr(data-translation);
+      display: block;
+      font-size: 13px;
+      font-style: italic;
+      color: var(--text-translation);
+      margin-top: 6px;
+      opacity: 0;
+      max-height: 0;
+      overflow: hidden;
+      transition: all 0.3s ease;
+    }
+
+    body.show-translation .fil-sentence::after {
+      opacity: 0.9;
+      max-height: 80px;
+    }
+
+    /* VIEW 1: FLASHCARDS */
+    .flashcard-area {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      flex: 1;
+      gap: 30px;
+    }
+
+    .card-viewport {
+      width: 480px;
+      height: 280px;
+      perspective: 1000px;
+      cursor: pointer;
+    }
+
+    .flashcard {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      transform-style: preserve-3d;
+      transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+      border-radius: var(--card-radius);
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+    }
+
+    .flashcard.flipped {
+      transform: rotateY(180deg);
+    }
+
+    .card-side {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      backface-visibility: hidden;
+      border-radius: var(--card-radius);
+      border: 1px solid var(--border-card);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 30px;
+      text-align: center;
+    }
+
+    .card-front {
+      background: var(--bg-card);
+      border-top: 5px solid var(--active-subject-color);
+    }
+
+    .card-back {
+      background: var(--bg-card);
+      transform: rotateY(180deg);
+      border-top: 5px solid var(--active-subject-color);
+    }
+
+    .card-tag {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      color: var(--active-subject-color);
+      font-weight: 700;
+      margin-bottom: 20px;
+    }
+
+    .card-front h2 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 30px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+    }
+
+    .card-back p {
+      font-size: 18px;
+      line-height: 1.6;
+      font-weight: 500;
+    }
+
+    .card-controls {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .card-btn {
+      width: 48px;
+      height: 48px;
+      border-radius: 50px;
+      border: 1px solid var(--border-card);
+      background: var(--bg-card);
+      color: var(--text-main);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+
+    .card-btn:hover {
+      background: var(--active-subject-color);
+      color: #fff;
+      border-color: transparent;
+      transform: scale(1.05);
+    }
+
+    .card-indicator {
+      font-size: 14px;
+      color: var(--text-muted);
+      font-weight: 600;
+    }
+
+    /* VIEW 2: SLIDE OUTLINE */
+    .slides-area {
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      border-radius: var(--card-radius);
+      padding: 30px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    }
+
+    .slide-progress {
+      width: 100%;
+      height: 6px;
+      background: rgba(255, 255, 255, 0.05);
+      border-radius: 10px;
+      margin-bottom: 24px;
+      overflow: hidden;
+    }
+
+    body.light-mode .slide-progress {
+      background: rgba(0, 0, 0, 0.05);
+    }
+
+    .slide-progress-bar {
+      height: 100%;
+      background: var(--active-subject-color);
+      width: 0%;
+      transition: width 0.3s ease;
+    }
+
+    .slide-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      animation: fadeIn 0.3s;
+    }
+
+    .slide-content h2 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 26px;
+      margin-bottom: 20px;
+      color: var(--active-subject-color);
+    }
+
+    .slide-content ul {
+      list-style-type: none;
+    }
+
+    .slide-content li {
+      font-size: 17px;
+      line-height: 1.6;
+      margin-bottom: 12px;
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+    }
+
+    .slide-content li::before {
+      content: '✦';
+      color: var(--active-subject-color);
+    }
+
+    .slide-controls {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 30px;
+      border-top: 1px solid var(--border-card);
+      padding-top: 20px;
+    }
+
+    .slide-action-btn {
+      padding: 10px 20px;
+      border-radius: 10px;
+      border: 1px solid var(--border-card);
+      background: rgba(255, 255, 255, 0.03);
+      color: var(--text-main);
+      cursor: pointer;
+      font-family: 'Outfit', sans-serif;
+      font-size: 14px;
+      font-weight: 600;
+      transition: all 0.3s;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .slide-action-btn:hover {
+      background: var(--active-subject-color);
+      color: #fff;
+      border-color: transparent;
+    }
+
+    /* VIEW 3: STUDY GUIDES */
+    .study-guide-area {
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      border-radius: var(--card-radius);
+      padding: 40px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      line-height: 1.8;
+      overflow-y: auto;
+    }
+
+    .study-guide-area h2 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 26px;
+      margin-bottom: 24px;
+      border-bottom: 2px solid var(--border-card);
+      padding-bottom: 12px;
+      color: var(--active-subject-color);
+    }
+
+    .study-guide-area h3 {
+      font-family: 'Outfit', sans-serif;
+      font-size: 18px;
+      margin-top: 24px;
+      margin-bottom: 12px;
+    }
+
+    .study-guide-area p {
+      font-size: 15px;
+      color: var(--text-main);
+      margin-bottom: 15px;
+    }
+
+    .study-guide-area ul, .study-guide-area ol {
+      margin-left: 20px;
+      margin-bottom: 20px;
+      font-size: 15px;
+    }
+
+    .study-guide-area li {
+      margin-bottom: 8px;
+    }
+
+    /* VIEW 4: QUIZ EXAM */
+    .quiz-container {
+      display: flex;
+      flex-direction: column;
+      flex: 1;
+      gap: 20px;
+    }
+
+    .quiz-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      border-radius: var(--card-radius);
+      padding: 30px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    }
+
+    .quiz-progress {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text-muted);
+    }
+
+    .question-box {
+      font-size: 18px;
+      font-weight: 600;
+      line-height: 1.5;
+      margin-bottom: 24px;
+    }
+
+    .choices-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 12px;
+    }
+
+    .choice-btn {
+      width: 100%;
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid var(--border-card);
+      padding: 16px 20px;
+      border-radius: 12px;
+      color: var(--text-main);
+      text-align: left;
+      font-size: 15px;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    body.light-mode .choice-btn {
+      background: rgba(0, 0, 0, 0.01);
+    }
+
+    .choice-btn:hover {
+      background: rgba(255, 255, 255, 0.06);
+      border-color: var(--active-subject-color);
+      transform: translateX(4px);
+    }
+
+    body.light-mode .choice-btn:hover {
+      background: rgba(0, 0, 0, 0.03);
+    }
+
+    .choice-btn.correct {
+      background: rgba(16, 185, 129, 0.15);
+      border-color: var(--correct);
+      color: var(--correct);
+      font-weight: 600;
+    }
+
+    .choice-btn.incorrect {
+      background: rgba(239, 68, 68, 0.15);
+      border-color: var(--incorrect);
+      color: var(--incorrect);
+    }
+
+    /* Fill in the Blanks Inputs */
+    .blank-input-wrapper {
+      margin-top: 15px;
+      display: flex;
+      gap: 10px;
+    }
+
+    .blank-input {
+      flex: 1;
+      padding: 14px 20px;
+      border-radius: 12px;
+      border: 1px solid var(--border-card);
+      background: rgba(255, 255, 255, 0.03);
+      color: var(--text-main);
+      font-size: 16px;
+      outline: none;
+      transition: all 0.3s;
+    }
+
+    .blank-input:focus {
+      border-color: var(--active-subject-color);
+      background: rgba(255, 255, 255, 0.06);
+    }
+
+    .blank-submit-btn {
+      padding: 14px 24px;
+      border-radius: 12px;
+      border: none;
+      background: var(--active-subject-color);
+      color: #fff;
+      font-weight: 600;
+      font-size: 15px;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+
+    .blank-submit-btn:hover {
+      transform: scale(1.02);
+    }
+
+    /* Performance Tasks Display */
+    .performance-task-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      border-radius: var(--card-radius);
+      padding: 30px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    }
+
+    .performance-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: 20px;
+      font-weight: 700;
+      color: var(--active-subject-color);
+      margin-bottom: 12px;
+    }
+
+    .performance-desc {
+      font-size: 15px;
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+
+    .checklist-section {
+      margin-top: 20px;
+    }
+
+    .checklist-title {
+      font-size: 14px;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      font-weight: 700;
+      color: var(--text-muted);
+      margin-bottom: 12px;
+    }
+
+    .checklist-item {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 12px 16px;
+      border-radius: 10px;
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid var(--border-card);
+      margin-bottom: 8px;
+      cursor: pointer;
+      transition: all 0.3s;
+    }
+
+    .checklist-item.checked {
+      border-color: var(--correct);
+      background: rgba(16, 185, 129, 0.05);
+    }
+
+    .checkbox-icon {
+      width: 20px;
+      height: 20px;
+      border-radius: 6px;
+      border: 2px solid var(--border-card);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      color: transparent;
+      transition: all 0.2s;
+    }
+
+    .checklist-item.checked .checkbox-icon {
+      background: var(--correct);
+      border-color: var(--correct);
+      color: #fff;
+    }
+
+    .rubrics-score-board {
+      margin-top: 25px;
+      border-top: 1px solid var(--border-card);
+      padding-top: 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+    }
+
+    .rubric-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .rubric-label {
+      font-weight: 600;
+      font-size: 14px;
+    }
+
+    .star-rating {
+      display: flex;
+      gap: 6px;
+    }
+
+    .star-btn {
+      font-size: 22px;
+      color: var(--text-muted);
+      cursor: pointer;
+      transition: transform 0.2s;
+      background: none;
+      border: none;
+    }
+
+    .star-btn.active {
+      color: #eab308;
+    }
+
+    /* Summary Dashboard Screen */
+    .summary-screen {
+      text-align: center;
+      padding: 40px 20px;
+      background: var(--bg-card);
+      border: 1px solid var(--border-card);
+      border-radius: var(--card-radius);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.15);
+    }
+
+    .summary-emoji {
+      font-size: 64px;
+      margin-bottom: 20px;
+    }
+
+    .summary-title {
+      font-family: 'Outfit', sans-serif;
+      font-size: 28px;
+      font-weight: 800;
+      margin-bottom: 8px;
+    }
+
+    .summary-text {
+      font-size: 16px;
+      color: var(--text-muted);
+      margin-bottom: 24px;
+      max-width: 400px;
+      line-height: 1.6;
+    }
+
+    .score-circle {
+      width: 140px;
+      height: 140px;
+      border-radius: 50%;
+      border: 6px solid var(--active-subject-color);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 30px;
+    }
+
+    .score-num {
+      font-family: 'Outfit', sans-serif;
+      font-size: 42px;
+      font-weight: 800;
+    }
+
+    .score-label {
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      color: var(--text-muted);
+    }
+
+    .restart-btn {
+      padding: 14px 28px;
+      border-radius: 12px;
+      border: none;
+      background: var(--active-subject-color);
+      color: #fff;
+      font-family: 'Outfit', sans-serif;
+      font-weight: 700;
+      font-size: 16px;
+      cursor: pointer;
+      transition: all 0.3s;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+    }
+
+    .restart-btn:hover {
+      transform: translateY(-2px);
+    }
+
+    /* Animation Keyframes */
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(8px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Tablet Touch optimization rules */
+    @media (max-width: 1024px) {
+      body {
+        flex-direction: column;
+      }
+      nav.sidebar {
+        width: 100%;
+        height: auto;
+        position: relative;
+        padding: 15px;
+        border-right: none;
+        border-bottom: 1px solid var(--border-card);
+      }
+      .brand-title {
+        margin-bottom: 15px;
+      }
+      main.content {
+        height: auto;
+        padding: 15px;
+      }
+      .card-viewport {
+        width: 100%;
+        max-width: 440px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Sidebar Nav - Choose Subject & Switch Mode -->
+  <nav class="sidebar">
+    <div class="brand-title">
+      Grade 3 MATATAG
+      <span class="brand-subtitle">Interactive Hub</span>
+    </div>
+    
+    <!-- Primary Study vs Quiz Mode Switch -->
+    <div class="mode-selector">
+      <button class="mode-btn active" onclick="setMode('study')">Aralin</button>
+      <button class="mode-btn" onclick="setMode('quiz')">Pagsusulit</button>
+    </div>
+    
+    <div class="nav-section-title">Mga Asignatura</div>
+    
+    <button class="nav-btn active" id="btn-math" onclick="setSubject('math')">
+      <span>➕</span> Matematika
+    </button>
+    <button class="nav-btn" id="btn-science" onclick="setSubject('science')">
+      <span>🧪</span> Agham
+    </button>
+    <button class="nav-btn" id="btn-english" onclick="setSubject('english')">
+      <span>🇬🇧</span> English
+    </button>
+    <button class="nav-btn" id="btn-filipino" onclick="setSubject('filipino')">
+      <span>🇵🇭</span> Filipino
+    </button>
+    <button class="nav-btn" id="btn-makabansa" onclick="setSubject('makabansa')">
+      <span>🎒</span> Makabansa
+    </button>
+    <button class="nav-btn" id="btn-gmrc" onclick="setSubject('gmrc')">
+      <span>🤝</span> GMRC
+    </button>
+  </nav>
+
+  <!-- Main Content viewport -->
+  <main class="content">
+    
+    <!-- Header control bar -->
+    <div class="top-controls">
+      <div class="subject-header">
+        <div class="subject-icon" id="header-icon">➕</div>
+        <div class="subject-title-wrapper">
+          <h1 id="header-title">Matematika</h1>
+          <p id="header-subtitle">Grade 3 MATATAG Curriculum</p>
+        </div>
+      </div>
+      
+      <div class="action-toggles">
+        <!-- English Translation Toggle (shows up for filipino & makabansa) -->
+        <label class="toggle-container" id="trans-toggle-container" style="display:none;">
+          <span class="fil-phrase" data-translation="Show English helper translations">🇬🇧 Salin sa Ingles</span>
+          <input type="checkbox" id="translation-toggle" onchange="toggleTranslation(this.checked)">
+          <div class="toggle-slider"></div>
+        </label>
+        
+        <!-- Theme Toggle -->
+        <button class="theme-toggle-btn" onclick="toggleTheme()" title="Toggle Dark/Light Mode">🌓</button>
+      </div>
+    </div>
+    
+    <!-- Sub-Mode Selector (Aralin Mode Tabs) -->
+    <div class="sub-mode-bar" id="sub-mode-bar">
+      <button class="sub-mode-btn active" id="sub-btn-cards" onclick="setSubMode('cards')">Flashcards</button>
+      <button class="sub-mode-btn" id="sub-btn-slides" onclick="setSubMode('slides')">Slide Outline</button>
+      <button class="sub-mode-btn" id="sub-btn-guide" onclick="setSubMode('guide')">Study Guide</button>
+    </div>
+    
+    <!-- Dynamic Content Area -->
+    <div class="view-container" id="view-container">
+      <!-- RENDERED BY JS -->
+    </div>
+    
+  </main>
+
+  <script>
+    // CURRICULUM DATABASE
+    const CURRICULUM_DATA = {
+      math: {
+        icon: "➕",
+        title: "Matematika",
+        subtitle: "Mathematics Guide",
+        color: "var(--sub-math)",
+        flashcards: [
+          { front: "Place Value", back: "The position of a digit in a number (e.g., thousands, hundreds, tens, ones) which determines its value." },
+          { front: "Symmetry", back: "When a shape can be folded along a line so that both halves match exactly." },
+          { front: "Equivalent Fractions", back: "Different fractions that represent the same value or amount (e.g., 1/2 and 2/4)." },
+          { front: "Area", back: "The size of a surface, measured in square units (square tiles)." }
+        ],
+        slides: [
+          { title: "Panimula sa Fractions (Fractions Introduction)", points: ["A fraction represents a part of a whole.", "Mayroon itong numerator (itaas) at denominator (ibaba).", "Fractions are division relationships."] },
+          { title: "Proper Fraction", points: ["The numerator is smaller than the denominator.", "Example: 1/2, 3/4, 5/8.", "Ang halaga nito ay mas mababa sa isang buo."] },
+          { title: "Improper Fraction", points: ["The numerator is equal to or larger than the denominator.", "Example: 5/4, 7/3, 8/8.", "Ang halaga nito ay katumbas o higit pa sa isang buo."] },
+          { title: "Mixed Numbers", points: ["Combines a whole number and a proper fraction.", "Example: 1 1/2, 2 3/4.", "Maaari itong i-convert mula sa isang improper fraction."] }
+        ],
+        guide: `
+          <h2>Gabay sa Pag-aaral: Grade 3 Matematika</h2>
+          <p>Ang programang MATATAG para sa Grade 3 Matematika ay may layuning patatagin ang mga sumusunod na pangunahing konsepto:</p>
+          
+          <h3>1. Number Sense up to 10,000</h3>
+          <p>Dapat maunawaan ng mga mag-aaral ang pagsulat, pagbasa, paghambing, at pag-round ng mga bilang hanggang 10,000. Kasama rito ang place value at pagkalkula gamit ang pera hanggang Php 1,000.</p>
+          
+          <h3>2. Basic Operations</h3>
+          <ul>
+            <li><strong>Pagdaragdag at Pagbabawas:</strong> Paglutas ng mga word problems na may 4-digit na bilang.</li>
+            <li><strong>Pagpaparami at Paghahati:</strong> Pagsasagawa ng multiplication at division ng 2-to-3 digit na bilang.</li>
+          </ul>
+          
+          <h3>3. Geometry & Measurement</h3>
+          <p>Pagkilala sa points, lines, line segments, rays, perpendicular lines, at parallel lines. Kasama rin ang pagkalkula sa Area gamit ang square tiles.</p>
+        `,
+        quiz: [
+          { type: "choice", q: "Ano ang place value ng 8 sa bilang na 8,421?", options: ["Thousands", "Hundreds", "Tens", "Ones"], answer: 0 },
+          { type: "choice", q: "I-round ang 4,682 sa pinakamalapit na daan (hundreds).", options: ["4,600", "4,700", "5,000", "4,680"], answer: 1 },
+          { type: "choice", q: "Ano ang katumbas na fraction (equivalent fraction) ng 2/4?", options: ["1/3", "1/2", "3/4", "1/4"], answer: 1 },
+          { type: "choice", q: "Kung ang isang parihaba ay may haba na 5 tiles at lapad na 4 tiles, ano ang area nito?", options: ["9 sq. tiles", "20 sq. tiles", "18 sq. tiles", "10 sq. tiles"], answer: 1 },
+          { type: "choice", q: "Alin sa mga sumusunod ang parallel lines?", options: ["Intersecting lines", "Perpendicular lines", "Lines that never meet", "Curved lines"], answer: 2 },
+          { type: "blank", q: "Ang 3,000 + 400 + 50 + 6 ay katumbas ng ____.", answer: "3456" },
+          { type: "blank", q: "Mayroong ____ gramo sa isang kilo.", answer: "1000" },
+          { type: "blank", q: "Ang 120 minuto ay katumbas ng ____ oras.", answer: "2" },
+          { type: "tf", q: "Ang 7/5 ay isang uri ng proper fraction.", answer: false },
+          { type: "tf", q: "Ang line segment ay may simula at may katapusan.", answer: true },
+          { type: "tf", q: "Ang cubic prism ay isang uri ng 3D shape.", answer: true },
+          { type: "performance", title: "Kalkulahin ang Area ng Floor Plan", desc: "Gumuhit ng simple at tuwid na floor plan ng iyong kwarto gamit ang square tiles. Sukatin ang haba at lapad nito gamit ang virtual square tiles. Sagutan ang sumusunod na rubric checklist kapag natapos.", criteria: ["Gumuhit ng malinaw na parihabang floor plan.", "Nabilang nang tama ang haba at lapad ng kwarto sa tiles.", "Nakalkula nang tama ang area (Haba x Lapad)."] }
+        ]
+      },
+      science: {
+        icon: "🧪",
+        title: "Agham",
+        subtitle: "Science Guide",
+        color: "var(--sub-science)",
+        flashcards: [
+          { front: "Solid", back: "Has a definite shape, volume, size, and weight. It does not flow." },
+          { front: "Liquid", back: "Has a definite volume but takes the shape of its container. It flows." },
+          { front: "Gas", back: "Has no definite shape or volume. It spreads out to fill any container." },
+          { front: "Evaporation", back: "The process of a liquid turning into a gas due to heat." }
+        ],
+        slides: [
+          { title: "The States of Matter", points: ["Matter is anything that has mass and takes up space.", "Everything around us is made of matter.", "Matter exists in three main states: Solid, Liquid, and Gas."] },
+          { title: "Solids (Mga Solid)", points: ["May sariling hugis (definite shape).", "Hindi nagbabago ang hugis kapag inilipat ng lalagyan.", "Example: Bato, Lapis, Kahoy."] },
+          { title: "Liquids (Mga Liquid)", points: ["Sumusunod sa hugis ng lalagyan (takes the shape of the container).", "May kakayahang umagos (ability to flow).", "Example: Tubig, Suka, Mantika."] },
+          { title: "Gases (Mga Gas)", points: ["Walang tiyak na hugis o sukat.", "Pumupuno sa anumang lalagyan o espasyo.", "Example: Hangin, Usok, Oxygen."] }
+        ],
+        guide: `
+          <h2>Gabay sa Pag-aaral: Grade 3 Agham</h2>
+          <p>Sa unang pagkakataon, ang Agham ay itinuturo bilang hiwalay na asignatura sa Grade 3. Nakatuon ito sa panimulang pag-aaral ng kalikasan gamit ang observation skills.</p>
+          
+          <h3>1. Matter</h3>
+          <p>Pag-aaral ng katangian ng solid, liquid, at gas. Inilalarawan din dito ang epekto ng init o lamig sa pagbabago ng anyo ng matter (melting, freezing, evaporation, condensation).</p>
+          
+          <h3>2. Mga Bagay na May Buhay (Living Things)</h3>
+          <ul>
+            <li><strong>Sense Organs:</strong> Ang mata, tenga, ilong, dila, at balat at ang pangangalaga sa kanila.</li>
+            <li><strong>Halaman at Hayop:</strong> Pagkilala sa mga bahagi ng katawan ng hayop at halaman, at ang kanilang simpleng lifecycle.</li>
+          </ul>
+          
+          <h3>3. Force, Motion, at Energy</h3>
+          <p>Pag-aaral sa puwersa (push at pull), paano gumagalaw ang mga bagay, at panimula sa enerhiya ng liwanag, tunog, init, at kuryente.</p>
+        `,
+        quiz: [
+          { type: "choice", q: "Alin sa mga sumusunod ang solid?", options: ["Tubig", "Hangin", "Lapis", "Suka"], answer: 2 },
+          { type: "choice", q: "Ano ang tawag sa pagbabago ng liquid patungong solid dahil sa lamig (freezing)?", options: ["Pagtunaw (Melting)", "Pagpapamuo (Freezing)", "Pag-singaw (Evaporation)", "Condensation"], answer: 1 },
+          { type: "choice", q: "Anong organ ang ginagamit sa panlasa?", options: ["Ilong", "Balat", "Dila", "Tenga"], answer: 2 },
+          { type: "choice", q: "Ano ang tawag sa pag-ikot ng isang bagay sa paligid ng isang gitnang point?", options: ["Slide", "Roll", "Spin", "Bounce"], answer: 2 },
+          { type: "choice", q: "Alin sa mga sumusunod ang ginagamit upang masukat ang temperatura?", options: ["Wind vane", "Thermometer", "Rain gauge", "Barometer"], answer: 1 },
+          { type: "blank", q: "Ang natutunaw na yelo (ice) ay nagbabago mula solid patungong ____.", answer: "liquid" },
+          { type: "blank", q: "Ang ____ ang nagbibigay ng pinakamalaking liwanag at init sa ating daigdig.", answer: "araw" },
+          { type: "blank", q: "Ang organ na ginagamit sa pandinig ay ang ____.", answer: "tenga" },
+          { type: "tf", q: "Ang hangin sa loob ng lobo ay isang halimbawa ng gas.", answer: true },
+          { type: "tf", q: "Ang ugat ng halaman ang sumisipsip ng tubig mula sa lupa.", answer: true },
+          { type: "tf", q: "Mabuti sa balat ang direktang pagkabilad sa araw sa tanghaling tapat nang walang anumang proteksyon.", answer: false },
+          { type: "performance", title: "Pag-uuri ng Matter sa Kusina", desc: "Magpunta sa inyong kusina at maghanap ng iba't ibang bagay. Ilista at pag-uri-urin ang mga ito ayon sa kanilang estado: Solid, Liquid, o Gas.", criteria: ["Nakatukoy ng hindi bababa sa 3 solid, 3 liquid, at 3 gas.", "Naipaliwanag nang tama kung bakit ito kabilang sa naturang uri.", "Nagawa ang gawain nang ligtas at malinis."] }
+        ]
+      },
+      english: {
+        icon: "🇬🇧",
+        title: "English",
+        subtitle: "English Language Arts",
+        color: "var(--sub-english)",
+        flashcards: [
+          { front: "Synonym", back: "Words that have the same or very similar meanings (e.g., small and tiny)." },
+          { front: "Compound Word", back: "A word made by combining two smaller words (e.g., butterfly, playground)." },
+          { front: "Pronoun", back: "A word that takes the place of a noun (e.g., he, she, they, it)." },
+          { front: "Preposition", back: "A word that shows location or time (e.g., in, on, under, behind, after)." }
+        ],
+        slides: [
+          { title: "Understanding Story Elements", points: ["A story contains elements that help us comprehend it.", "The key elements are Characters, Setting, and Plot.", "Understanding these helps us summarize stories better."] },
+          { title: "Characters", points: ["Characters are the people, animals, or creatures in a story.", "The main character is who the story is mostly about.", "We can describe them using adjectives."] },
+          { title: "Setting", points: ["The setting is the place and time when the story happens.", "It answers the questions: Where? and When?", "Example: 'In a quiet forest long ago...'"] },
+          { title: "Plot", points: ["The plot is the sequence of events in a story.", "It has a Beginning, a Middle, and an End.", "Usually contains a problem and a solution."] }
+        ],
+        guide: `
+          <h2>Study Guide: Grade 3 English</h2>
+          <p>The Grade 3 English curriculum transitions students from simple reading mechanics to reading comprehension, critical analysis, and structured writing.</p>
+          
+          <h3>1. Vocabulary Expansion</h3>
+          <p>Focuses on learning synonyms, antonyms, homonyms, compound words, prefixes (un-, re-), and suffixes (-ful, -less) to understand word meanings using context clues.</p>
+          
+          <h3>2. Sentence Construction & Grammar</h3>
+          <ul>
+            <li><strong>Nouns & Pronouns:</strong> Pluralization of regular/irregular nouns, personal pronouns, and possessive pronouns.</li>
+            <li><strong>Verbs & Tenses:</strong> Action and linking verbs in simple present, past, and future tenses.</li>
+            <li><strong>Adjectives & Prepositions:</strong> Descriptive adjectives, degrees of comparison, and common spatial prepositions.</li>
+          </ul>
+          
+          <h3>3. Reading & Literacy</h3>
+          <p>Reading with fluency, identifying characters, settings, and plot elements, sequencing events, and identifying cause-and-effect relationships.</p>
+        `,
+        quiz: [
+          { type: "choice", q: "What is the synonym of the word 'happy'?", options: ["Sad", "Angry", "Glad", "Sleepy"], answer: 2 },
+          { type: "choice", q: "Which of the following is a compound word?", options: ["Beautiful", "Butterfly", "Playground", "Running"], answer: 2 },
+          { type: "choice", q: "Choose the correct pronoun: 'Mary is reading. ___ loves books.'", options: ["He", "She", "It", "They"], answer: 1 },
+          { type: "choice", q: "Identify the preposition: 'The cat is sleeping under the table.'", options: ["sleeping", "under", "table", "cat"], answer: 1 },
+          { type: "choice", q: "What degree of comparison is 'biggest'?", options: ["Positive", "Comparative", "Superlative", "Negative"], answer: 2 },
+          { type: "blank", q: "The past tense of the word 'run' is ____.", answer: "ran" },
+          { type: "blank", q: "A compound sentence uses conjunctions like 'and', 'or', or '____'.", answer: "but" },
+          { type: "blank", q: "The antonym of the word 'hot' is ____.", answer: "cold" },
+          { type: "tf", q: "'She went to school yesterday' is in the present tense.", answer: false },
+          { type: "tf", q: "'Dog' is a mass noun because we cannot count it.", answer: false },
+          { type: "tf", q: "'And' is a preposition used to show location.", answer: false },
+          { type: "performance", title: "Write a Thank-You Letter", desc: "Write a short, 3-sentence thank-you letter to a community helper (e.g., doctor, nurse, police officer, or teacher) thanking them for their service. Use simple and compound sentences correctly.", criteria: ["Wrote exactly or more than 3 clean sentences.", "Used proper capitalization and punctuation.", "Included a greeting and a sign-off."] }
+        ]
+      },
+      filipino: {
+        icon: "🇵🇭",
+        title: "Filipino",
+        subtitle: "Bilingual: Filipino at Ingles",
+        color: "var(--sub-filipino)",
+        flashcards: [
+          { front: "Pantangi", back: "Pangngalang tumutukoy sa tiyak na ngalan ng tao, bagay, o hayop. (English: Proper Nouns)" },
+          { front: "Pambalana", back: "Pangngalang tumutukoy sa karaniwan o pangkalahatang ngalan. (English: Common Nouns)" },
+          { front: "Pandiwa", back: "Salitang nagpapahayag ng kilos, gawa, o estado. (English: Action Verbs)" },
+          { front: "Pang-uri", back: "Salitang ginagamit sa paglalarawan ng tao, bagay, o pook. (English: Adjectives)" }
+        ],
+        slides: [
+          { title: "Mga Elemento ng Kwento (Story Elements)", points: ["Ang kwento ay binubuo ng mahahalagang elemento.", "Tauhan: Ang mga gumaganap sa kwento (English: Characters).", "Tagpuan: Lugar at oras ng pangyayari (English: Setting).", "Banghay: Pagkakasunod-sunod ng kwento (English: Plot)."] },
+          { title: "Pangngalang Pantangi at Pambalana (Nouns)", points: ["Pantangi: Tiyak na ngalan, nagsisimula sa malaking titik (Proper Noun).", "Halimbawa: Gng. Alarcon, Maynila, Mongol.", "Pambalana: Karaniwang ngalan, maliit na titik (Common Noun).", "Halimbawa: guro, lungsod, lapis."] },
+          { title: "Aspekto ng Pandiwa (Verb Tenses)", points: ["Pangnagdaan: Kilos na tapos na (English: Past Tense). Halimbawa: kumain, naglaro.", "Pangkasalukuyan: Kilos na ginagawa pa (English: Present Tense). Halimbawa: kumakain, naglalaro.", "Panghinaharap: Kilos na gagawin pa lang (English: Future Tense). Halimbawa: kakain, maglalaro."] }
+        ],
+        guide: `
+          <h2>Gabay sa Pag-aaral: Grade 3 Filipino</h2>
+          <p class="fil-sentence" data-translation="The MATATAG curriculum details four focus areas in Filipino.">Ang kurikulum ng MATATAG ay nagtatakda ng apat na pokus sa asignaturang Filipino.</p>
+          
+          <h3>1. Gramatika at Wika</h3>
+          <p class="fil-sentence" data-translation="Focuses on proper classification and use of nouns, pronouns, verbs, adjectives, and adverbs.">Nakatuon sa wastong pag-uuri at paggamit ng Pangngalan, Panghalip, Pandiwa, Pang-uri, at Pang-abay sa pangungusap.</p>
+          
+          <h3>2. Panitikan at Pagbasa</h3>
+          <p class="fil-sentence" data-translation="Reading comprehension of regional folk stories, poems, and paragraphs.">Pag-unawa sa mga kwentong-bayan, tula, at maikling talata. Pagsusuri sa mga tauhan, tagpuan, at pangkalahatang mensahe nito.</p>
+          
+          <h3>3. Pagsulat ng Talaarawan (Diary Writing)</h3>
+          <p class="fil-sentence" data-translation="Writing personal experiences in diary format and friendly letters.">Pagsulat ng sariling karanasan sa anyo ng talaarawan at pagsulat ng simpleng liham-pangkaibigan nang may tamang bantas at baybay.</p>
+        `,
+        quiz: [
+          { type: "choice", q: "Alin sa mga sumusunod ang pangngalang pantangi?", options: ["bata", "aso", "Dr. Jose Rizal", "paaralan"], answer: 2 },
+          { type: "choice", q: "Ano ang kailanan ng pangngalan sa pariralang 'mga mag-aaral'?", options: ["Isahan", "Dalawahan", "Maramihan", "Walang Kailanan"], answer: 2 },
+          { type: "choice", q: "Tukuyin ang pandiwa sa pangungusap: 'Si Juan ay nag-aaral ng kanyang aralin.'", options: ["Juan", "nag-aaral", "aralin", "kanyang"], answer: 1 },
+          { type: "choice", q: "Ano ang aspekto ng pandiwa sa salitang 'kumain' sa pangungusap: 'Kumain ako kaninang umaga.'?", options: ["Pangnagdaan", "Pangkasalukuyan", "Panghinaharap", "Di-tiyak"], answer: 0 },
+          { type: "choice", q: "Alin ang pang-uri sa pariralang 'mabilis na sasakyan'?", options: ["mabilis", "na", "sasakyan", "mabilis na"], answer: 0 },
+          { type: "blank", q: "Ang kasalungat ng salitang 'masaya' ay ____.", answer: "malungkot" },
+          { type: "blank", q: "Ang panghalip panao na ginagamit kapag tinutukoy ang sarili ay ____.", answer: "ako" },
+          { type: "blank", q: "Ang pandiwa sa pangungusap na 'Sulat ka sa akin' ay ____.", answer: "sulat" },
+          { type: "tf", q: "Ang 'lapis' ay isang halimbawa ng pangngalang pambalana.", answer: true },
+          { type: "tf", q: "Ang aspektong panghinaharap ay tumutukoy sa kilos na tapos na.", answer: false },
+          { type: "tf", q: "Ang pang-uri ay naglalarawan sa pandiwa.", answer: false },
+          { type: "performance", title: "Pagsulat ng Talaarawan", desc: "Sumulat ng isang maikling talaarawan (diary entry) na binubuo ng 3-5 pangungusap na naglalarawan sa iyong ginawa nitong nakaraang Sabado. Gumamit ng tamang bantas at mga pandiwa.", criteria: ["Sumulat ng 3-5 malinaw na pangungusap.", "Gumamit ng wastong pandiwa (past tense).", "Wastong gamit ng malaking titik at bantas."] }
+        ]
+      },
+      makabansa: {
+        icon: "🎒",
+        title: "Makabansa",
+        subtitle: "Bilingual: AP + MAPEH",
+        color: "var(--sub-makabansa)",
+        flashcards: [
+          { front: "Makabansa", back: "Integrated subject combining Araling Panlipunan and MAPEH for early grades. (English: Civic & Arts Integration)" },
+          { front: "Likas na Yaman", back: "Resources derived from nature such as land, water, and forests. (English: Natural Resources)" },
+          { front: "Hanapbuhay", back: "The job or source of income of people in a community. (English: Livelihood / Profession)" },
+          { front: "Sagisag", back: "Symbols or emblems representing the culture or history of a place. (English: Symbol / Emblem)" }
+        ],
+        slides: [
+          { title: "Ang Aking Komunidad (My Community)", points: ["Ang komunidad ay binubuo ng pamilya, paaralan, simbahan, at pamahalaan.", "Dito nagtutulungan ang mga tao upang umunlad.", "Bawat komunidad ay may natatanging kasaysayan."] },
+          { title: "Kasaysayan at Pagbabago (History & Change)", points: ["Nagbabago ang komunidad sa paglipas ng panahon.", "Pagbabago sa mga gusali, kalsada, at dami ng tao.", "Pagpapanatili ng mga makasaysayang pook."] },
+          { title: "Likas na Yaman at Kabuhayan (Resources & Livelihood)", points: ["Ang hanapbuhay ng mga tao ay nakadepende sa likas na yaman.", "Pagsasaka sa mga kapatagan, pangingisda sa mga baybayin.", "Pangangalaga sa kalikasan para sa kinabukasan."] }
+        ],
+        guide: `
+          <h2>Gabay sa Pag-aaral: Grade 3 Makabansa</h2>
+          <p class="fil-sentence" data-translation="Makabansa integrates social studies and active body exercises.">Ang Makabansa ay pagsasanib ng Araling Panlipunan at mga aktibong sining/ehersisyo ng katawan.</p>
+          
+          <h3>1. Pagkakakilanlan ng Komunidad at Kasaysayan</h3>
+          <p class="fil-sentence" data-translation="Understanding local heritage, landmarks, symbols, and history.">Pag-unawa sa pinagmulan, mga sagisag, makasaysayang pook, at sining sa sariling rehiyon upang mapatatag ang pagmamahal sa bayan.</p>
+          
+          <h3>2. Kultura, Sining, at Laro</h3>
+          <p class="fil-sentence" data-translation="Folk arts, songs, dances, and traditional Filipino games like piko.">Pagpapahalaga sa katutubong awit, sayaw, at mga katutubong laro (Tumbang Preso, Piko, atbp.) na nagpapabuti sa pisikal na kalusugan.</p>
+          
+          <h3>3. Pamahalaan at Tungkulin Pansibiko</h3>
+          <p class="fil-sentence" data-translation="Recognizing local leaders and civil duties to preserve community order.">Pagkilala sa mga lokal na pinuno at ang mga alituntuning dapat sundin upang mapanatili ang kaayusan sa komunidad.</p>
+        `,
+        quiz: [
+          { type: "choice", q: "Ano ang tawag sa bagong asignatura na pinagsasama ang Araling Panlipunan at MAPEH?", options: ["Sibika", "Makabansa", "GMRC", "Agham Panlipunan"], answer: 1 },
+          { type: "choice", q: "Sino ang pinuno ng isang barangay na nagpapatupad ng mga batas?", options: ["Mayor", "Gobernador", "Kapitan", "Pangulo"], answer: 2 },
+          { type: "choice", q: "Alin sa mga sumusunod ang halimbawa ng yamang lupa?", options: ["Dagat", "Bundok", "Ilog", "Lawa"], answer: 1 },
+          { type: "choice", q: "Alin sa mga sumusunod ang tradisyonal na laro ng mga Pilipino?", options: ["Basketball", "Tumbang Preso", "Chess", "Video Games"], answer: 1 },
+          { type: "choice", q: "Bakit mahalaga ang magkaroon ng makasaysayang pook sa komunidad?", options: ["Para sa negosyo", "Upang maalala ang kasaysayan at kultura", "Para sa palaruan", "Wala itong halaga"], answer: 1 },
+          { type: "blank", q: "Ang pangunahing hanapbuhay sa mga komunidad na malapit sa dagat ay ____.", answer: "pangingisda" },
+          { type: "blank", q: "Ang watawat ng Pilipinas ay may tatlong kulay: asul, pula, at ____.", answer: "puti" },
+          { type: "blank", q: "Ang integrated subject na Makabansa ay may oras na ____ minuto bawat araw.", answer: "45" },
+          { type: "tf", q: "Ang pangingisda at pagsasaka ay mga halimbawa ng hanapbuhay sa Pilipinas.", answer: true },
+          { type: "tf", q: "Walang kinalaman ang likas na yaman sa uri ng hanapbuhay ng mga tao.", answer: false },
+          { type: "tf", q: "Ang lokal na kapitan ay walang karapatang magpatupad ng alituntunin.", answer: false },
+          { type: "performance", title: "Gumawa ng Poster ng Komunidad", desc: "Gumawa ng isang poster sa isang papel na nagpapakita ng pagmamahal sa iyong sariling komunidad. Ipakita ang mga magagandang likas na yaman o ang inyong lokal na pista.", criteria: ["Nagpakita ng kahit isang likas na yaman o pista ng komunidad.", "Malikhain at may makulay na guhit.", "May maikling paliwanag ukol sa poster."] }
+        ]
+      },
+      gmrc: {
+        icon: "🤝",
+        title: "GMRC",
+        subtitle: "Good Manners & Right Conduct",
+        color: "var(--sub-gmrc)",
+        flashcards: [
+          { front: "GMRC", back: "Good Manners and Right Conduct. Focuses on respect, values, and character development." },
+          { front: "Disiplina", back: "Pagsunod sa mga patakaran at paggawa ng tamang bagay nang kusa. (English: Discipline)" },
+          { front: "Paggalang", back: "Pagpapakita ng pagpapahalaga at malasakit sa kapwa. (English: Respect)" },
+          { front: "Katapatan", back: "Pagiging matapat, tapat sa salita at sa gawa. (English: Honesty)" }
+        ],
+        slides: [
+          { title: "Paggalang sa Kapwa (Respecting Others)", points: ["Ang paggalang ay ipinapakita sa salita at sa gawa.", "Gumamit ng 'po' at 'opo' kapag sumasagot sa matatanda.", "Igalang ang opinyon ng iba kahit magkaiba kayo."] },
+          { title: "Disiplina sa Sarili (Self-Discipline)", points: ["Paggawa ng gawaing-bahay at takdang-aralin nang kusa.", "Pagtatapon ng basura sa tamang lalagyan.", "Pagsunod sa mga alituntunin ng paaralan."] },
+          { title: "Katapatan at Kaibigan (Honesty & Friendship)", points: ["Huwag kumuha ng bagay na hindi sa iyo.", "Magsabi ng totoo sa lahat ng pagkakataon.", "Maging mabuting kaibigan na maasahan sa oras ng pangangailangan."] }
+        ],
+        guide: `
+          <h2>Gabay sa Pag-aaral: Grade 3 GMRC</h2>
+          <p>Ang GMRC ay naglalayong hubunin ang tamang pag-uugali ng mga mag-aaral alinsunod sa RA 11476.</p>
+          
+          <h3>1. Tungkulin sa Sarili at Pamilya</h3>
+          <p>Pagpapakita ng personal na kalinisan, disiplina sa pag-aaral, at paggalang sa mga magulang at nakatatanda sa pamilya.</p>
+          
+          <h3>2. Pakikipagkaibigan at Pagtulong</h3>
+          <p>Pagiging tapat sa mga kalaro at kaibigan, pag-iwas sa panloloko, at pagpapakita ng malasakit sa mga nangangailangan.</p>
+          
+          <h3>3. Pagmamahal sa Bayan at Kapaligiran</h3>
+          <ul>
+            <li><strong>Kalikasan:</strong> Hindi pagkakalat, pagreresiklo, at pangangalaga sa mga puno at hayop.</li>
+            <li><strong>Bayan:</strong> Paggalang sa watawat at pagtayo nang tuwid habang inaawit ang Lupang Hinirang.</li>
+          </ul>
+        `,
+        quiz: [
+          { type: "choice", q: "Ano ang tamang gawi kapag nakikipag-usap sa nakatatanda?", options: ["Sumigaw", "Gumamit ng po at opo", "Huwag silang pansinin", "Makipag-away"], answer: 1 },
+          { type: "choice", q: "Alin sa mga sumusunod ang nagpapakita ng pansariling disiplina?", options: ["Paggawa ng takdang-aralin bago maglaro", "Pag-iwan ng basura sa ilalim ng lamesa", "Pagsisinungaling sa magulang", "Pag-iyak kapag natatalo"], answer: 0 },
+          { type: "choice", q: "Paano mo maipapakita ang paggalang sa watawat ng Pilipinas?", options: ["Tumingin sa iba habang kumakanta", "Tumayo nang tuwid at ilagay ang kamay sa dibdib", "Makipaglaro habang itinataas ang watawat", "Umupo habang kinakanta ang pambansang awit"], answer: 1 },
+          { type: "choice", q: "Nakita mong nadulas ang iyong kaklase. Ano ang gagawin mo?", options: ["Tawanan siya", "Tulungan siyang tumayo at damayan siya", "Tumakbo palayo", "Kumuha ng larawan"], answer: 1 },
+          { type: "choice", q: "Alin ang tamang paraan ng pagpapanatili ng kalinisan?", options: ["Itapon ang basura sa kanal", "Ihiwalay ang nabubulok sa di-nabubulok", "Sunugin ang mga plastik", "Iwanan ang dumi ng aso sa daan"], answer: 1 },
+          { type: "blank", q: "Dapat nating gamitin ang 'po' at '____' kapag sumasagot sa nakatatanda.", answer: "opo" },
+          { type: "blank", q: "Ang RA 11476 ay ang batas na nagbabalik ng asignaturang ____.", answer: "GMRC" },
+          { type: "blank", q: "Ang pagtulong sa nangangailangan ay nagpapakita ng ____ sa kapwa.", answer: "malasakit" },
+          { type: "tf", q: "Ang pagsasabi ng totoo kahit mapapagalitan ay bahagi ng katapatan.", answer: true },
+          { type: "tf", q: "Maaari nating sulatan ang mga pader ng paaralan dahil pampubliko naman ito.", answer: false },
+          { type: "tf", q: "Ang disiplina sa sarili ay ginagawa lamang kapag may nakatinging guro.", answer: false },
+          { type: "performance", title: "Talaan ng Mabubuting Gawa (Weekly Good Deeds)", desc: "Gumawa ng simple at malikhaing lingguhang checklist sa inyong tahanan. Ilista at gawin ang 3 mabubuting gawa araw-araw (tulad ng paghuhugas, pagliligpit, at pagtulong sa magulang).", criteria: ["Nagawa ang checklist para sa limang araw.", "Nailista ang 3 mabubuting gawa bawat araw.", "Pinirmahan ng magulang bilang patunay."] }
+        ]
+      }
+    };
+
+    // STATE VARIABLES
+    let currentSubject = 'math';
+    let currentMode = 'study'; // 'study' or 'quiz'
+    let currentSubMode = 'cards'; // 'cards', 'slides', 'guide'
+    
+    // Sub-states
+    let flashcardIndex = 0;
+    let slideIndex = 0;
+    let quizQuestionIndex = 0;
+    let quizScore = 0;
+    
+    // Performance state tracker
+    let checklistStates = [false, false, false];
+    let rubricRating = 0;
+
+    // INITIALIZATION
+    window.addEventListener('DOMContentLoaded', () => {
+      renderActiveState();
+    });
+
+    function setSubject(subjectKey) {
+      // Update buttons active class
+      document.querySelectorAll('.nav-btn').forEach(btn => btn.classList.remove('active'));
+      const activeBtn = document.getElementById(`btn-${subjectKey}`);
+      if (activeBtn) activeBtn.classList.add('active');
+      
+      currentSubject = subjectKey;
+      
+      // Update active colors in CSS variables
+      const root = document.documentElement;
+      const subColor = CURRICULUM_DATA[subjectKey].color;
+      root.style.setProperty('--active-subject-color', subColor);
+      root.style.setProperty('--glow-color', subColor);
+      
+      // Update Header Text & Icon
+      document.getElementById('header-icon').innerText = CURRICULUM_DATA[subjectKey].icon;
+      document.getElementById('header-title').innerText = CURRICULUM_DATA[subjectKey].title;
+      document.getElementById('header-subtitle').innerText = CURRICULUM_DATA[subjectKey].subtitle;
+      
+      // Reset indexes
+      flashcardIndex = 0;
+      slideIndex = 0;
+      quizQuestionIndex = 0;
+      quizScore = 0;
+      checklistStates = [false, false, false];
+      rubricRating = 0;
+
+      // Handle translation toggle visibility
+      const transToggle = document.getElementById('trans-toggle-container');
+      if (subjectKey === 'filipino' || subjectKey === 'makabansa') {
+        transToggle.style.display = 'flex';
+      } else {
+        transToggle.style.display = 'none';
+      }
+      
+      renderActiveState();
+    }
+
+    function setMode(mode) {
+      currentMode = mode;
+      
+      // Toggle button highlights
+      const modeBtns = document.querySelectorAll('.mode-btn');
+      modeBtns.forEach(btn => btn.classList.remove('active'));
+      if (mode === 'study') {
+        modeBtns[0].classList.add('active');
+        document.getElementById('sub-mode-bar').style.display = 'flex';
+      } else {
+        modeBtns[1].classList.add('active');
+        document.getElementById('sub-mode-bar').style.display = 'none';
+      }
+      
+      // Reset index
+      quizQuestionIndex = 0;
+      quizScore = 0;
+      checklistStates = [false, false, false];
+      rubricRating = 0;
+      
+      renderActiveState();
+    }
+
+    function setSubMode(subMode) {
+      currentSubMode = subMode;
+      
+      // Toggle sub-tabs highlights
+      document.querySelectorAll('.sub-mode-btn').forEach(btn => btn.classList.remove('active'));
+      if (subMode === 'cards') document.getElementById('sub-btn-cards').classList.add('active');
+      if (subMode === 'slides') document.getElementById('sub-btn-slides').classList.add('active');
+      if (subMode === 'guide') document.getElementById('sub-btn-guide').classList.add('active');
+      
+      flashcardIndex = 0;
+      slideIndex = 0;
+      
+      renderActiveState();
+    }
+
+    function toggleTranslation(isChecked) {
+      if (isChecked) {
+        document.body.classList.add('show-translation');
+      } else {
+        document.body.classList.remove('show-translation');
+      }
+    }
+
+    function toggleTheme() {
+      document.body.classList.toggle('light-mode');
+    }
+
+    // MAIN RENDER ENGINE
+    function renderActiveState() {
+      const container = document.getElementById('view-container');
+      container.innerHTML = ''; // Clear viewport
+      
+      const subData = CURRICULUM_DATA[currentSubject];
+      
+      if (currentMode === 'study') {
+        // STUDY MODE
+        if (currentSubMode === 'cards') {
+          renderFlashcards(container, subData);
+        } else if (currentSubMode === 'slides') {
+          renderSlides(container, subData);
+        } else if (currentSubMode === 'guide') {
+          renderStudyGuide(container, subData);
+        }
+      } else {
+        // QUIZ EXAM MODE
+        renderQuiz(container, subData);
+      }
+    }
+
+    // RENDER: FLASHCARDS
+    function renderFlashcards(container, data) {
+      const cardData = data.flashcards[flashcardIndex];
+      
+      const wrapper = document.createElement('div');
+      wrapper.className = 'flashcard-area';
+      wrapper.innerHTML = `
+        <div class="card-viewport" onclick="flipCard()">
+          <div class="flashcard" id="interactive-card">
+            <div class="card-side card-front">
+              <div class="card-tag">Konsepto</div>
+              <h2>${cardData.front}</h2>
+              <div style="font-size:12px; color:var(--text-muted); margin-top:20px; font-weight:600;">Tap to Flip / I-tap para ipihit</div>
+            </div>
+            <div class="card-side card-back">
+              <div class="card-tag">Kahulugan</div>
+              <p>${cardData.back}</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="card-controls">
+          <button class="card-btn" onclick="prevCard()">◀</button>
+          <span class="card-indicator">${flashcardIndex + 1} of ${data.flashcards.length}</span>
+          <button class="card-btn" onclick="nextCard()">▶</button>
+        </div>
+      `;
+      container.appendChild(wrapper);
+    }
+
+    function flipCard() {
+      const card = document.getElementById('interactive-card');
+      card.classList.toggle('flipped');
+    }
+
+    function nextCard() {
+      const length = CURRICULUM_DATA[currentSubject].flashcards.length;
+      flashcardIndex = (flashcardIndex + 1) % length;
+      renderActiveState();
+    }
+
+    function prevCard() {
+      const length = CURRICULUM_DATA[currentSubject].flashcards.length;
+      flashcardIndex = (flashcardIndex - 1 + length) % length;
+      renderActiveState();
+    }
+
+    // RENDER: SLIDES
+    function renderSlides(container, data) {
+      const slide = data.slides[slideIndex];
+      const progressPercent = ((slideIndex + 1) / data.slides.length) * 100;
+      
+      const wrapper = document.createElement('div');
+      wrapper.className = 'slides-area';
+      
+      let bulletHtml = '';
+      slide.points.forEach(pt => {
+        bulletHtml += `<li>${pt}</li>`;
+      });
+      
+      wrapper.innerHTML = `
+        <div class="slide-progress">
+          <div class="slide-progress-bar" style="width: ${progressPercent}%"></div>
+        </div>
+        <div class="slide-content">
+          <h2>${slide.title}</h2>
+          <ul>${bulletHtml}</ul>
+        </div>
+        <div class="slide-controls">
+          <button class="slide-action-btn" onclick="prevSlide()" ${slideIndex === 0 ? 'disabled style="opacity:0.3"' : ''}>
+            ◀ Nakaraan
+          </button>
+          <span class="card-indicator">Slide ${slideIndex + 1} of ${data.slides.length}</span>
+          <button class="slide-action-btn" onclick="nextSlide()" ${slideIndex === data.slides.length - 1 ? 'disabled style="opacity:0.3"' : ''}>
+            Susunod ▶
+          </button>
+        </div>
+      `;
+      container.appendChild(wrapper);
+    }
+
+    function nextSlide() {
+      const length = CURRICULUM_DATA[currentSubject].slides.length;
+      if (slideIndex < length - 1) {
+        slideIndex++;
+        renderActiveState();
+      }
+    }
+
+    function prevSlide() {
+      if (slideIndex > 0) {
+        slideIndex--;
+        renderActiveState();
+      }
+    }
+
+    // RENDER: STUDY GUIDE
+    function renderStudyGuide(container, data) {
+      const wrapper = document.createElement('div');
+      wrapper.className = 'study-guide-area';
+      wrapper.innerHTML = data.guide;
+      container.appendChild(wrapper);
+    }
+
+    // RENDER: QUIZ EXAM SYSTEM
+    function renderQuiz(container, data) {
+      const totalQuestions = data.quiz.length;
+      
+      // If quiz completed, render summary
+      if (quizQuestionIndex >= totalQuestions) {
+        renderQuizSummary(container, totalQuestions);
+        return;
+      }
+      
+      const qData = data.quiz[quizQuestionIndex];
+      const wrapper = document.createElement('div');
+      wrapper.className = 'quiz-container';
+      
+      let progressHtml = `
+        <div class="quiz-progress">
+          <span>Katanungan ${quizQuestionIndex + 1} ng ${totalQuestions}</span>
+          <span>Puntos: ${quizScore}</span>
+        </div>
+      `;
+      
+      if (qData.type === 'choice') {
+        // MULTIPLE CHOICE RENDER
+        let choicesHtml = '';
+        qData.options.forEach((opt, idx) => {
+          choicesHtml += `
+            <button class="choice-btn" onclick="checkChoiceAnswer(${idx}, ${qData.answer}, this)">
+              ${opt}
+              <span class="quiz-mark"></span>
+            </button>
+          `;
+        });
+        
+        wrapper.innerHTML = `
+          <div class="quiz-card">
+            ${progressHtml}
+            <div class="question-box">${qData.q}</div>
+            <div class="choices-grid">${choicesHtml}</div>
+          </div>
+        `;
+      } else if (qData.type === 'blank') {
+        // FILL IN THE BLANKS RENDER
+        wrapper.innerHTML = `
+          <div class="quiz-card">
+            ${progressHtml}
+            <div class="question-box">${qData.q}</div>
+            <div class="blank-input-wrapper">
+              <input type="text" class="blank-input" id="blank-field" placeholder="Isulat ang sagot dito..." autofocus autocomplete="off">
+              <button class="blank-submit-btn" onclick="checkBlankAnswer('${qData.answer}')">Isumite</button>
+            </div>
+            <p style="font-size:12px; color:var(--text-muted); margin-top:15px; font-weight:600;">(Pahiwatig: Siguraduhing tama ang baybay o spelling)</p>
+          </div>
+        `;
+      } else if (qData.type === 'tf') {
+        // TRUE OR FALSE RENDER
+        wrapper.innerHTML = `
+          <div class="quiz-card">
+            ${progressHtml}
+            <div class="question-box">${qData.q}</div>
+            <div class="choices-grid">
+              <button class="choice-btn" onclick="checkTFAnswer(true, ${qData.answer}, this)">
+                Tama (True)
+                <span class="quiz-mark"></span>
+              </button>
+              <button class="choice-btn" onclick="checkTFAnswer(false, ${qData.answer}, this)">
+                Mali (False)
+                <span class="quiz-mark"></span>
+              </button>
+            </div>
+          </div>
+        `;
+      } else if (qData.type === 'performance') {
+        // PERFORMANCE TASK RENDER
+        let checklistHtml = '';
+        qData.criteria.forEach((crit, idx) => {
+          const isChecked = checklistStates[idx] ? 'checked' : '';
+          checklistHtml += `
+            <div class="checklist-item ${isChecked}" onclick="toggleChecklist(${idx})">
+              <div class="checkbox-icon">✓</div>
+              <span>${crit}</span>
+            </div>
+          `;
+        });
+        
+        let starsHtml = '';
+        for (let s = 1; s <= 5; s++) {
+          const isActive = s <= rubricRating ? 'active' : '';
+          starsHtml += `
+            <button class="star-btn ${isActive}" onclick="setRubricRating(${s})">★</button>
+          `;
+        }
+
+        wrapper.innerHTML = `
+          <div class="performance-task-card">
+            <div class="quiz-progress">
+              <span>Huling Hakbang: Gawaing Pagganap (Performance Task)</span>
+            </div>
+            <div class="performance-title">${qData.title}</div>
+            <div class="performance-desc">${qData.desc}</div>
+            
+            <div class="checklist-section">
+              <div class="checklist-title">Checklist ng Gawain</div>
+              ${checklistHtml}
+            </div>
+            
+            <div class="rubrics-score-board">
+              <div class="rubric-row">
+                <div class="rubric-label">Marka (Rubric Grade):</div>
+                <div class="star-rating">${starsHtml}</div>
+              </div>
+              <button class="blank-submit-btn" style="width:100%; margin-top:10px;" onclick="submitPerformanceTask()">
+                Tapusin at Tingnan ang Resulta
+              </button>
+            </div>
+          </div>
+        `;
+      }
+      
+      container.appendChild(wrapper);
+    }
+
+    // CHECK: MULTIPLE CHOICE
+    function checkChoiceAnswer(selectedIndex, correctIndex, buttonElement) {
+      const buttons = buttonElement.parentElement.querySelectorAll('.choice-btn');
+      // Disable further clicks
+      buttons.forEach(btn => btn.style.pointerEvents = 'none');
+      
+      if (selectedIndex === correctIndex) {
+        buttonElement.classList.add('correct');
+        buttonElement.querySelector('.quiz-mark').innerText = '✓';
+        quizScore++;
+      } else {
+        buttonElement.classList.add('incorrect');
+        buttonElement.querySelector('.quiz-mark').innerText = '✗';
+        // highlight correct answer
+        buttons[correctIndex].classList.add('correct');
+        buttons[correctIndex].querySelector('.quiz-mark').innerText = '✓';
+      }
+      
+      // Delay before moving to next question
+      setTimeout(() => {
+        quizQuestionIndex++;
+        renderActiveState();
+      }, 1500);
+    }
+
+    // CHECK: FILL IN THE BLANKS
+    function checkBlankAnswer(correctAnswer) {
+      const inputVal = document.getElementById('blank-field').value.trim().toLowerCase();
+      const answerVal = correctAnswer.trim().toLowerCase();
+      
+      const field = document.getElementById('blank-field');
+      const submitBtn = field.nextElementSibling;
+      field.disabled = true;
+      submitBtn.disabled = true;
+      
+      if (inputVal === answerVal) {
+        field.style.borderColor = 'var(--correct)';
+        field.style.background = 'rgba(16, 185, 129, 0.1)';
+        quizScore++;
+      } else {
+        field.style.borderColor = 'var(--incorrect)';
+        field.style.background = 'rgba(239, 68, 68, 0.1)';
+        
+        // Show correct answer helper text
+        const correctText = document.createElement('div');
+        correctText.style.color = 'var(--correct)';
+        correctText.style.marginTop = '10px';
+        correctText.style.fontWeight = 'bold';
+        correctText.innerText = `Tamang sagot: ${correctAnswer}`;
+        field.parentElement.parentElement.appendChild(correctText);
+      }
+      
+      setTimeout(() => {
+        quizQuestionIndex++;
+        renderActiveState();
+      }, 2000);
+    }
+
+    // CHECK: TRUE OR FALSE
+    function checkTFAnswer(selectedBool, correctBool, buttonElement) {
+      const buttons = buttonElement.parentElement.querySelectorAll('.choice-btn');
+      buttons.forEach(btn => btn.style.pointerEvents = 'none');
+      
+      if (selectedBool === correctBool) {
+        buttonElement.classList.add('correct');
+        buttonElement.querySelector('.quiz-mark').innerText = '✓';
+        quizScore++;
+      } else {
+        buttonElement.classList.add('incorrect');
+        buttonElement.querySelector('.quiz-mark').innerText = '✗';
+        // highlight correct option
+        if (correctBool) {
+          buttons[0].classList.add('correct');
+          buttons[0].querySelector('.quiz-mark').innerText = '✓';
+        } else {
+          buttons[1].classList.add('correct');
+          buttons[1].querySelector('.quiz-mark').innerText = '✓';
+        }
+      }
+      
+      setTimeout(() => {
+        quizQuestionIndex++;
+        renderActiveState();
+      }, 1500);
+    }
+
+    // CHECKLIST TRIGGER FOR PERFORMANCE TASK
+    function toggleChecklist(index) {
+      checklistStates[index] = !checklistStates[index];
+      renderActiveState();
+    }
+
+    function setRubricRating(rating) {
+      rubricRating = rating;
+      renderActiveState();
+    }
+
+    function submitPerformanceTask() {
+      // Calculate score contribution from checklist + rating
+      let checklistScore = 0;
+      checklistStates.forEach(item => {
+        if (item) checklistScore++;
+      });
+      
+      // Combine. Checklist is max 3 points, Rubric is max 5 points.
+      // We add the points to their final quiz score.
+      const taskTotal = checklistScore + rubricRating;
+      
+      // Add equivalent points to score (if rating > 3, we grant 1 extra point)
+      if (taskTotal >= 7) {
+        quizScore += 1; // max bonus or regular contribution
+      }
+      
+      quizQuestionIndex++;
+      renderActiveState();
+    }
+
+    // RENDER: SUMMARY DASHBOARD
+    function renderQuizSummary(container, total) {
+      // Decide emoji and text based on score
+      let emoji = '🎉';
+      let title = 'Napakahusay!';
+      let text = 'Napakagandang simula! Nagpakita ka ng matalas na pang-unawa sa araling ito.';
+      
+      const ratio = quizScore / (total - 1); // subtracting performance task layout index
+      if (ratio < 0.5) {
+        emoji = '📚';
+        title = 'Ipagpatuloy ang Pag-aaral!';
+        text = 'Huwag panghinaan ng loob. Subukan uling basahin ang Study Guide at mag-quiz muli.';
+      } else if (ratio < 0.8) {
+        emoji = '👍';
+        title = 'Magaling!';
+        text = 'Maganda ang iyong nakamit. Kaunting repasuhin pa at makukuha mo rin ang perpektong marka.';
+      }
+
+      const wrapper = document.createElement('div');
+      wrapper.className = 'summary-screen';
+      wrapper.innerHTML = `
+        <div class="summary-emoji">${emoji}</div>
+        <div class="summary-title">${title}</div>
+        <div class="summary-text">${text}</div>
+        <div class="score-circle">
+          <div class="score-num">${quizScore}</div>
+          <div class="score-label">Kabuuang Puntos</div>
+        </div>
+        <button class="restart-btn" onclick="restartQuiz()">Ulitin ang Pagsusulit</button>
+      `;
+      container.appendChild(wrapper);
+    }
+
+    function restartQuiz() {
+      quizQuestionIndex = 0;
+      quizScore = 0;
+      checklistStates = [false, false, false];
+      rubricRating = 0;
+      renderActiveState();
+    }
+  </script>
+</body>
+</html>

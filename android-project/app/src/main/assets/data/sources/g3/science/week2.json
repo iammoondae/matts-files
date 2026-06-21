@@ -1,0 +1,603 @@
+{
+  "color": "#10b981",
+  "icon": "🔬",
+  "title": "Science",
+  "subtitle": "Week 2: Asking Questions Like a Scientist",
+  "slides": [
+    {
+      "title": "Welcome to Inquiry!",
+      "text": "Hello, Explorer! Welcome to Science Week 2!\nThis week we learn to ask questions like real scientists.\nScientists are curious about everything they see in nature.\nThey start their investigations by asking why and how.\nWe will learn how to tinker with common materials.\nTinkering means touching and testing things to see changes.\nLet's prepare our curiosity and get ready to ask.\nAre you ready to explore and learn with us today?",
+      "examples": [
+        {
+          "title": "Goal",
+          "content": "Formulate scientific questions by exploring and tinkering with materials."
+        }
+      ]
+    },
+    {
+      "title": "Curiosity and Inquiry",
+      "text": "Inquiry is the heart of all scientific discoveries.\nIt begins when you observe something and ask questions.\nWhy does the ice cube melt on the wooden desk?\nHow does a heavy metal key sink in the water?\nCuriosity drives us to search for answers in nature.\nWe ask questions that we can test through experiments.\nAvoid asking opinions, like 'Is this flower beautiful?'\nLet's practice forming questions about what we see today!",
+      "examples": [
+        {
+          "title": "Inquiry",
+          "content": "Asking: 'Why does wet sand feel colder than dry sand?'"
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Materials",
+      "text": "Tinkering is a hands-on way to explore physical things.\nWe play with materials to observe how they behave.\nWe press clay, stretch bands, and drop heavy keys.\nThis action helps us see what properties materials hold.\nSqueezing a dry sponge shows it has air holes.\nSqueezing a wet sponge shows it holds liquid inside.\nTinkering helps us form solid questions for tests.\nTinker with three objects in your room safely today!",
+      "examples": [
+        {
+          "title": "Tinkering",
+          "content": "Pressing modeling clay with a spoon to leave hollow shapes."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Modeling Clay",
+      "text": "Modeling clay is a solid material we can shape.\nTinkering with clay shows it changes shape easily.\nWe press it, roll it, and pinch it with fingers.\nThe clay holds the new shape we give to it.\nWhy does clay stay bent while rubber bands snap back?\nThis is a great scientific question to investigate.\nWe apply force using our hands to shape the clay.\nObserve how your stylus can press clay to write names!",
+      "examples": [
+        {
+          "title": "Clay Test",
+          "content": "Pressing a fork into clay leaves a lined print on its surface."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Balloons",
+      "text": "Balloons are elastic materials that hold invisible air.\nTinkering with balloons shows air occupies physical space.\nBlowing air inside makes the balloon stretch and expand.\nThe air pushes outwards against the balloon walls.\nThis pushing force is called air pressure in science.\nSqueezing the inflated balloon changes its outer shape.\nLetting go of the neck makes the balloon fly away.\nWhy does releasing the air make the balloon move?",
+      "examples": [
+        {
+          "title": "Balloon Test",
+          "content": "Air escaping from the neck pushes the balloon forward."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Sponges",
+      "text": "A dry sponge is light and full of tiny holes.\nThese holes are filled with invisible air molecules.\nDipping the sponge in water shows absorption properties.\nThe sponge sucks in liquid, displacing the air inside.\nYou will observe tiny air bubbles rising in water.\nSqueezing the wet sponge releases the absorbed water.\nA wet sponge feels much heavier than a dry one.\nWhy does water occupy the empty holes of sponges?",
+      "examples": [
+        {
+          "title": "Sponge Test",
+          "content": "Squeezing a wet sponge returns it to its light, dry state."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Magnets",
+      "text": "Magnets hold an invisible force called magnetism.\nTinkering with magnets shows they pull certain metals.\nThey pull iron nails, paperclips, and steel keys.\nThey do not pull wooden sticks or plastic toys.\nThis pulling force is called magnetic attraction in science.\nMagnets can pull objects even through thin paper.\nWhy do magnets only attract iron and steel metals?\nTest different objects in your room with magnets safely!",
+      "examples": [
+        {
+          "title": "Magnet Test",
+          "content": "A magnet pulls steel paperclips across the desk surface."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Paper Planes",
+      "text": "Folding paper into planes shows aerodynamics in action.\nTinkering with shapes changes how far planes fly.\nThin, pointed planes cut through air very fast.\nWide, flat planes float slowly but land soon.\nAir pushes against the paper wings to lift planes.\nThis upward pushing force is called air resistance.\nWhy does a pointed nose make planes fly further?\nFold two different plane shapes and test them now!",
+      "examples": [
+        {
+          "title": "Plane Test",
+          "content": "Comparing a pointed dart plane with a wide glider plane."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Floating Objects",
+      "text": "Tinkering with water shows objects float or sink.\nBuoyancy determines if things stay on top or go down.\nDry leaves, twigs, and plastic spoons float on water.\nIron keys, stones, and glass marbles sink to bottoms.\nWhy do heavy metal keys sink while large logs float?\nThis question leads to density concepts in science.\nTest a coin and a plastic bottle cap in buckets.\nObserve which one floats and which one sinks down!",
+      "examples": [
+        {
+          "title": "Float Test",
+          "content": "A plastic bottle cap floats because it is light and holds air."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Dissolving Solids",
+      "text": "Mixing solids in water shows how they dissolve.\nTinkering with sugar reveals it mixes completely.\nSugar crystals become invisible when stirred in water.\nThis mixtures is called a solution in daily science.\nDoes sugar dissolve faster in hot or cold water?\nStirring makes sugar dissolve much quicker than sitting.\nWhy does heat speed up the dissolving process?\nObserve how salt behaves when stirred in water jars!",
+      "examples": [
+        {
+          "title": "Dissolving Test",
+          "content": "Stirring sugar in warm water makes it dissolve in seconds."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Flashlights",
+      "text": "Tinkering with light sources changes shadow sizes.\nShine a flashlight at a toy figurine on tables.\nObserve the dark shadow formed on the wall behind.\nMoving the light closer makes the shadow grow larger.\nMoving the light further away makes the shadow smaller.\nTilting the flashlight changes the shadow's direction.\nWhy does moving the light change the shadow's scale?\nDraw the different shadow sizes on your paper page!",
+      "examples": [
+        {
+          "title": "Light Test",
+          "content": "Closest light source creates the largest and dimmest shadow."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Spinning Tops",
+      "text": "Spinning tops show rotational motion and friction.\nWe spin a plastic top on a smooth table.\nCircular force keeps the top standing upright while spinning.\nThe tip of the top rubs against table surfaces.\nThis rubbing force is called friction in daily science.\nFriction slows down the top until it falls over.\nWhy does a smooth table make tops spin longer?\nCompare spinning on rough carpets and smooth tables!",
+      "examples": [
+        {
+          "title": "Spin Test",
+          "content": "Rough surfaces create high friction, stopping tops quickly."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Mirrors",
+      "text": "Mirrors reflect light to show clear images.\nA mirror has a flat, extremely smooth surface.\nLight bounces off this surface back to your eyes.\nTilting the mirror changes what objects you observe.\nWhy do we see our reflection in glass mirrors?\nRough wood does not reflect light to show images.\nRough surfaces scatter light waves in all directions.\nExplore reflections using shiny metal spoons in kitchens!",
+      "examples": [
+        {
+          "title": "Mirror Test",
+          "content": "Bouncing light off smooth surfaces creates reflection images."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Elastic Bands",
+      "text": "Rubber bands stretch when we apply pulling forces.\nThis property of materials is called elasticity.\nThe band snaps back to its shape when released.\nPlucking a stretched band creates rapid vibrations.\nThese vibrations produce a hum sound in the air.\nStretching the band tighter makes a higher pitch sound.\nWhy does tension change the pitch of sound waves?\nHold one end with teeth and pluck bands safely!",
+      "examples": [
+        {
+          "title": "Band Test",
+          "content": "Vibrating rubber bands create sound waves we hear easily."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Bent Stems",
+      "text": "Plants respond to light sources in their environment.\nTinker with a small potted plant near windows.\nObserve that stems bend towards the bright sunlight.\nTurn the pot around so stems face rooms.\nIn a few days, stems bend back to windows.\nWhy do plant stems grow towards the light source?\nPlants need sunlight to survive and make food.\nThis growth response is called phototropism in science!",
+      "examples": [
+        {
+          "title": "Stem Test",
+          "content": "Stems bend towards sunlight to maximize light absorption."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Melting Ice",
+      "text": "Ice cubes melt into liquid water at room temperature.\nTinker with ice cubes placed in different spots.\nPut one cube in direct sun and one in shade.\nThe cube in the sun melts in minutes completely.\nThe cube in the shade melts much slower today.\nWhy does solar heat melt ice so rapidly?\nHeat energy breaks the solid bonds of ice crystals.\nMeasure the melting times using clocks on desks!",
+      "examples": [
+        {
+          "title": "Ice Test",
+          "content": "Direct heat increases melting speed by breaking solid bonds."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Soil Textures",
+      "text": "We group rocks and soils by physical properties.\nTinker with a pile of dry garden rocks.\nFeel their textures with your finger tips closely.\nSort them into rough stones and smooth river pebbles.\nWhy are river pebbles so smooth and rounded?\nWater flows over them, wearing down rough edges.\nClassifying rocks by texture is a science skill.\nWrite down the rock groups in your log book!",
+      "examples": [
+        {
+          "title": "Rock Test",
+          "content": "River stones are smoothed by friction from flowing water."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Sprouting Seeds",
+      "text": "Seeds need specific conditions to start growing.\nTinker with seeds placed in two soil pots.\nKeep one pot damp and one completely dry.\nSeeds in damp soil sprout green roots soon.\nSeeds in dry soil stay asleep and do not grow.\nWhy do seeds need water to sprout roots?\nWater activates the seed embryo to start life.\nRecord sprout heights in both pots daily!",
+      "examples": [
+        {
+          "title": "Seed Test",
+          "content": "Moisture triggers germination, ending the seed's rest state."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Forming Why Questions",
+      "text": "Let's practice forming scientific 'Why' questions.\nLook at a puddle of water drying up soon.\nObserve that heat from the Sun warms the water.\nForm the question: 'Why does heat cause evaporation?'\nThis question asks about the cause of changes.\nIt can be investigated by testing warm and cold water.\nAvoid questions like: 'Is puddle water happy?'\nAlways search for causes when you ask why!",
+      "examples": [
+        {
+          "title": "Why Question",
+          "content": "Why does heat speed up the melting of solid butter?"
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Forming How Questions",
+      "text": "Let's practice forming scientific 'How' questions.\nLook at how green plants grow from dry seeds.\nObserve that plants grow roots and stems soon.\nForm: 'How does water help seeds break shells?'\nThis question asks about the steps of processes.\nIt can be answered by observing seeds under lenses.\nAvoid questions like: 'Do seeds dream in soil?'\nAlways ask about processes when you ask how!",
+      "examples": [
+        {
+          "title": "How Question",
+          "content": "How does a magnet pull steel paperclips through paper?"
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Squeezing Sponges",
+      "text": "Let's explore sponges in water like real scientists.\nObserve what happens when you squeeze a sponge.\nSqueeze it under water in a clear glass bowl.\nYou will observe bubbles rising to the top.\nWhy do bubbles rise when sponges are squeezed?\nThe water enters the sponge, pushing air out.\nAir is lighter than water, so bubbles float up.\nRecord this bubble observation in your journal page!",
+      "examples": [
+        {
+          "title": "Observation",
+          "content": "Squeezing releases trapped air, which floats up as bubbles."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Water on Leaves",
+      "text": "Let's explore how water behaves on different leaves.\nDrip water drops on a shiny gabi leaf.\nObserve that water rolls off like small beads.\nNow drip water on a dry paper leaf on desk.\nObserve that water soaks in, wetting the paper.\nWhy does water roll off gabi leaves completely?\nThe waxy coating on the leaf blocks water absorption.\nThis waxy property is waterproof, protecting the plant!",
+      "examples": [
+        {
+          "title": "Observation",
+          "content": "Waxy surfaces repel water, preventing absorption in leaves."
+        }
+      ]
+    },
+    {
+      "title": "Common Error: Vague Questions",
+      "text": "Avoid asking questions that cannot be tested.\nScientists do not ask: 'Do balloons feel pain?'\nThis question is vague and cannot be measured.\nInstead, ask: 'How does air amount affect balloon size?'\nThis question can be measured using rulers easily.\nAlways ask questions about physical properties and facts.\nMake sure your questions have measurable answers.\nCheck your questions before you start experiments!",
+      "examples": [
+        {
+          "title": "Incorrect",
+          "content": "Asking: 'Is clay happy when we mold it into shapes?'"
+        }
+      ]
+    },
+    {
+      "title": "Common Error: Guessing Without Tests",
+      "text": "Do not just guess outcomes without performing tests.\nTinkering and exploring are necessary to gather facts.\nGuessing that a key floats is not scientific.\nPlace the key in water to verify if it sinks.\nObservations provide evidence to answer questions.\nAlways test materials before drawing conclusions.\nEvidence makes scientific explanations reliable and solid.\nNever write down guesses as factual observations!",
+      "examples": [
+        {
+          "title": "Incorrect",
+          "content": "Writing 'Stones float' in your log without testing them."
+        }
+      ]
+    },
+    {
+      "title": "Summary of Week 2",
+      "text": "Congratulations! You completed all the slides for Week 2.\nLet's review the main science tools we mastered.\nWe learned that curiosity drives scientific inquiry.\nWe ask 'Why' and 'How' questions to start tests.\nWe tinker with clay, sponges, and magnets to explore.\nWe observe properties like floating, sinking, and melting.\nWe avoid vague questions and test before guessing.\nYou are now ready to take the quiz and challenges!",
+      "examples": [
+        {
+          "title": "Key Takeaway",
+          "content": "Tinkering with materials helps us form testable questions."
+        }
+      ]
+    }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "What do scientists do when they are curious about a material?",
+      "options": [
+        "They ignore it.",
+        "They ask questions and tinker with it.",
+        "They throw it away.",
+        "They paint it immediately."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following is a good 'Why' question for an ice cube?",
+      "options": [
+        "Why is ice cream sweet?",
+        "Why does ice melt when it gets warm?",
+        "Is ice pretty?",
+        "Who made this ice?"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What happens to clay when you squeeze it in your hand?",
+      "options": [
+        "It turns into water.",
+        "It changes its shape.",
+        "It disappears.",
+        "It freezes solid."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Why does a balloon get bigger when you blow air into it?",
+      "options": [
+        "Air is hot.",
+        "Air takes up space and pushes outwards.",
+        "The balloon is magical.",
+        "The balloon gets lighter."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following materials is waterproof (does not absorb water)?",
+      "options": [
+        "Sponge",
+        "Plastic bag",
+        "Cotton towel",
+        "Tissue paper"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What kind of question starts an exploration of magnets?",
+      "options": [
+        "Do magnets sleep?",
+        "What materials can a magnet pull?",
+        "Are magnets expensive?",
+        "Who invented magnets?"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What property are we testing when we drop a stone and a leaf in water?",
+      "options": [
+        "Color",
+        "Whether they float or sink",
+        "Their smell",
+        "Their taste"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "How does sugar behave when mixed into warm water?",
+      "options": [
+        "It turns into salt.",
+        "It dissolves and disappears from view.",
+        "It freezes the water.",
+        "It changes color to blue."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which question helps us investigate shadows using a flashlight?",
+      "options": [
+        "What color is the flashlight?",
+        "How does the distance of the light change the shadow's size?",
+        "Is the flashlight heavy?",
+        "Where was the flashlight bought?"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What happens to a spinning top when it rubs against a rough table?",
+      "options": [
+        "It spins faster.",
+        "It slows down and stops.",
+        "It turns into clay.",
+        "It flies into the air."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What bounces off a mirror to show your reflection?",
+      "options": [
+        "Sound",
+        "Light",
+        "Air",
+        "Water"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "How can you make a stretched rubber band produce a higher sound?",
+      "options": [
+        "Stretch it tighter",
+        "Paint it blue",
+        "Make it wet",
+        "Let it go loose"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "In what direction do plant stems grow when placed near a sunny window?",
+      "options": [
+        "Towards the dark corner",
+        "Towards the light of the window",
+        "Straight downwards into the soil",
+        "They do not grow at all."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Where does an ice cube melt the fastest?",
+      "options": [
+        "In a dark cupboard",
+        "In the direct warm sunlight",
+        "In a cup of cold water",
+        "Under a shady tree"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Asking 'How does water help seeds sprout?' is a scientific question.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What do we do when we 'tinker' with materials?",
+      "options": [
+        "We read a storybook about them.",
+        "We touch, play, and experiment with them to see what happens.",
+        "We buy them from the market.",
+        "We throw them in the trash bin."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which of these objects will sink to the bottom of a water bucket?",
+      "options": [
+        "An iron nail",
+        "A dry leaf",
+        "A plastic spoon",
+        "A small cork"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Why does a sponge feel heavier after you dip it in water?",
+      "options": [
+        "Water is cold.",
+        "The sponge absorbs water into its holes.",
+        "The sponge grows larger.",
+        "Water has no weight."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: A scientist only asks questions that can be tested by observing or experimenting.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which question is NOT scientific because it is about personal taste?",
+      "options": [
+        "Does a paper plane fly further when folded thin?",
+        "Is science the most beautiful subject?",
+        "Does sugar dissolve faster in hot water?",
+        "Which materials are attracted to magnets?"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What happens to a dry sponge when you squeeze it under water?",
+      "options": [
+        "Nothing happens.",
+        "Air bubbles escape and water goes inside.",
+        "It turns into clay.",
+        "It melts away."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Why does water roll off a gabi leaf in beads?",
+      "options": [
+        "The leaf is waxy and waterproof.",
+        "The leaf has tiny teeth.",
+        "The water is sticky.",
+        "The leaf is hot."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which VCV word represents a testable guess we form after asking questions?",
+      "options": [
+        "concept",
+        "hypothesis",
+        "idea",
+        "guess"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Squeezing modeling clay changes its shape, but not its weight.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What do we call the result of our tinkering and testing?",
+      "options": [
+        "Discovery",
+        "Mistake",
+        "Opinion",
+        "Guess"
+      ],
+      "answer": 0
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "If you observe a balloon getting smaller over three days, what is the best scientific question to ask?",
+      "options": [
+        "Why does air slowly escape from the rubber balloon?",
+        "Does the balloon prefer being small?",
+        "Is the balloon tired?",
+        "Who drew a face on the balloon?"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "You tinker with a metal key and a plastic key in the sun. The metal key feels much hotter. Why?",
+      "options": [
+        "Metal conducts and absorbs heat better than plastic.",
+        "Metal produces its own heat.",
+        "Plastic dislikes the sun.",
+        "The sun only shines on metal."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "A student asks: 'Why do plants bend towards light?' How can we test this?",
+      "options": [
+        "Put plants in a box with a single hole for light.",
+        "Sing songs to the plants in the dark.",
+        "Paint the window green.",
+        "Water the plants with colored juice."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which of these is a testable question about magnets?",
+      "options": [
+        "How many sheets of paper can a magnetic force pull through?",
+        "Why are magnets so cool to play with?",
+        "Are magnets better than clay?",
+        "Do magnets dream of metal?"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What can you infer when a dry sponge placed in oil does not release bubbles?",
+      "options": [
+        "The sponge was already wet or oil behaves differently.",
+        "The sponge is broken.",
+        "Oil has no air molecules.",
+        "Sponges only work in water."
+      ],
+      "answer": 0
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Everyday Material Tinkering Log",
+    "desc": "Tinker with two materials at home (e.g., a plastic bottle cap and a steel spoon). Put them in water, place them in the sun, and touch them. Write two 'Why' or 'How' questions based on your observations, and explain what properties (floating, heat conduction) you tested to your parent.",
+    "labels": [
+      "Conducted hands-on tinkering with two materials",
+      "Formulated two testable scientific questions (Why/How)",
+      "Correctly explained material properties based on tests"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Forming Inquiry Questions</h3>\n                  <p class=\"ws-instruction\">Write a testable scientific question for each observation using <strong>Why</strong> or <strong>How</strong>.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Observation: An ice cube melts faster on a metal plate than a wood board.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 100%;\"><span class=\"ws-answer\">Why does metal melt ice faster than wood?</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Observation: Magnets pull steel paperclips but not copper pennies.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 100%;\"><span class=\"ws-answer\">How do magnets attract paperclips but not pennies?</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Tinkering Observations</h3>\n                  <p class=\"ws-instruction\">Write the correct observation result (<strong>Floats</strong>, <strong>Sinks</strong>, or <strong>Melts</strong>) for each activity.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Placing an iron nail in a cup of river water:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Sinks</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Placing a dry bamboo twig on a quiet pond:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Floats</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Placing solid butter on a warm pan:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Melts</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Clay and Elasticity Puzzles</h3>\n                  <p class=\"ws-instruction\">Answer the questions using physical facts about clay and rubber bands.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe what happens to a rubber band when you stretch and release it:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">It stretches when pulled and snaps back to its original shape.</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">This is because the rubber band has elastic properties.</span></div>\n                  </div>\n                </div>"
+    ]
+  }
+}

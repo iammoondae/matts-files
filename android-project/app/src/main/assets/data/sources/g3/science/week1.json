@@ -1,0 +1,601 @@
+{
+  "color": "#10b981",
+  "icon": "🔬",
+  "title": "Science",
+  "subtitle": "Week 1: Science in Our Daily Life",
+  "slides": [
+    {
+      "title": "Welcome to the Science Adventure!",
+      "text": "Hello, Young Scientist! Welcome to Science Week 1!\nThis week we are starting an exciting journey of discovery.\nWe will look closely at the world around us.\nScience helps us explain everything we observe every day.\nWe will use our eyes, ears, and hands to study nature.\nWe will learn how weather, plants, and water connect to science.\nLet's get ready to explore and learn together.\nAre you ready to observe like a real scientist?",
+      "examples": [
+        {
+          "title": "Weekly Goal",
+          "content": "Understand how science explains daily observations in nature."
+        }
+      ]
+    },
+    {
+      "title": "Senses and Observation",
+      "text": "Our sense organs are our windows to the world.\nWe use our five senses to collect facts about nature.\nOur eyes see colors, shapes, and movements of objects.\nOur ears hear sounds like wind rustling leaves.\nOur nose smells flowers, and our tongue tastes food.\nOur skin feels heat, cold, and rough textures.\nAn observation is a fact we gather using our senses.\nLet's practice observing our classroom objects today!",
+      "examples": [
+        {
+          "title": "Observation",
+          "content": "Using your eyes to see that a leaf is green and oval."
+        }
+      ]
+    },
+    {
+      "title": "Weather in Daily Life",
+      "text": "Weather is a natural event that we observe daily.\nScience helps us explain why the weather changes.\nThe Sun gives us light and heat to keep us warm.\nClouds form when water vapor rises and cools in the sky.\nRain falls when clouds become too heavy with water.\nWind is moving air that we can feel on our skin.\nWeather affects what we wear and what activities we do.\nWhat is the weather like outside your window right now?",
+      "examples": [
+        {
+          "title": "Weather Fact",
+          "content": "Rain falls from clouds when water droplets grow too heavy."
+        }
+      ]
+    },
+    {
+      "title": "Plants and Science",
+      "text": "Plants are living things that grow all around us.\nThey need sunlight, water, soil, and air to survive.\nA seed sprouts roots downwards to absorb water from soil.\nIt grows a green stem upwards to capture sunlight.\nPlants use sunlight to make their own food in leaves.\nThis active process is called photosynthesis in science.\nWe observe plants bending towards window light to grow.\nPlants give us oxygen to breathe and food to eat!",
+      "examples": [
+        {
+          "title": "Plant Growth",
+          "content": "A seed needs water and sun to break its shell and grow roots."
+        }
+      ]
+    },
+    {
+      "title": "Animals and Movement",
+      "text": "Animals are living things that move in different ways.\nThey move to find food, water, and safe shelters.\nFish swim in water using their fins and tails.\nBirds fly through the air using wings and feathers.\nFrogs hop on land using their strong back legs.\nCrabs crawl sideways on the wet sand of beaches.\nTheir body shapes help them survive in their habitats.\nObserve how a dog moves when it chases a toy!",
+      "examples": [
+        {
+          "title": "Animal Fact",
+          "content": "Fish have gills to breathe oxygen underwater while swimming."
+        }
+      ]
+    },
+    {
+      "title": "Water Around Us",
+      "text": "Water is a precious liquid found throughout nature.\nIt exists in rivers, lakes, oceans, and rain clouds.\nWe use water for drinking, washing, and growing crops.\nWater changes its form when heated or cooled down.\nWet clothes dry because heat turns water into vapor.\nThis process of turning liquid to gas is evaporation.\nWater always flows downwards from high to low ground.\nLet's observe water flowing down a sloped surface!",
+      "examples": [
+        {
+          "title": "Water Flow",
+          "content": "Gravity pulls flowing water downwards along riverbeds."
+        }
+      ]
+    },
+    {
+      "title": "Light and Shadows",
+      "text": "Light travels in straight lines from light sources.\nThe Sun, lamps, and flashlights are light sources.\nWhen an object blocks light, a shadow forms behind it.\nA shadow is a dark shape on a surface behind the object.\nYour shadow grows longer as the Sun sets lower.\nA cardboard box blocks light completely, casting dark shadows.\nA glass window lets light pass through, casting no shadow.\nLet's make funny hand shadows on the wall tonight!",
+      "examples": [
+        {
+          "title": "Shadow Fact",
+          "content": "A shadow always forms on the opposite side of the light source."
+        }
+      ]
+    },
+    {
+      "title": "Force and Movement",
+      "text": "Objects around us stay still unless we move them.\nWe move objects by applying a push or a pull.\nA push moves an object away from your body.\nA pull moves an object closer to your body.\nPushing a toy cart makes it roll forward across floors.\nPulling a rope brings a bucket of water up wells.\nForce changes how fast or where an object goes.\nIdentify three pushes or pulls you do every morning!",
+      "examples": [
+        {
+          "title": "Force",
+          "content": "Kicking a soccer ball is a push that changes its speed."
+        }
+      ]
+    },
+    {
+      "title": "Heat and Energy",
+      "text": "Heat is a form of energy that makes things warm.\nIt changes the state of materials during heating.\nButter changes from a solid to a liquid in warm pans.\nThis change of state from solid to liquid is melting.\nWater bubbles and turns to steam when boiled on stoves.\nThis change of state from liquid to gas is boiling.\nHeat is essential for cooking our daily food safely.\nObserve how a raw egg cooks and changes color in pans!",
+      "examples": [
+        {
+          "title": "Melting",
+          "content": "Solid ice melts into liquid water when exposed to solar heat."
+        }
+      ]
+    },
+    {
+      "title": "Rainbows in the Sky",
+      "text": "Rainbows are beautiful colors that appear after rain.\nThey form when sunlight shines through water droplets.\nWater droplets act like tiny glass prisms in the air.\nThey split white sunlight into seven distinct colors.\nThese colors are red, orange, yellow, and green.\nThey also include blue, indigo, and violet shades.\nThis bending of light is called refraction in science.\nLook at the sky opposite the Sun after rain showers!",
+      "examples": [
+        {
+          "title": "Refraction",
+          "content": "Bending of light waves inside water droplets creates rainbows."
+        }
+      ]
+    },
+    {
+      "title": "Wind and Air",
+      "text": "Air is all around us, but it is invisible to eyes.\nWe can feel air when it moves across our skin.\nMoving air is called wind in our daily environment.\nWind pushes sailboats and lifts kites into the sky.\nWe inhale air to get oxygen for our bodies to work.\nWe exhale air to blow out candles or cool hot soup.\nWind can be a gentle breeze or a strong storm wind.\nObserve how wind moves the leaves of tall trees!",
+      "examples": [
+        {
+          "title": "Wind Power",
+          "content": "Wind turns wind turbines to generate clean electricity."
+        }
+      ]
+    },
+    {
+      "title": "Soil and Earth",
+      "text": "Soil is the top layer of the Earth's surface.\nIt is made of tiny rock pieces and organic matter.\nPlants grow their roots in soil to stand firmly.\nThere are different types of soil like clay and sand.\nLoam soil is rich and dark, holding water well.\nClay soil is sticky when wet and holds water long.\nSandy soil has large grains and lets water drain fast.\nExplore the soil in your garden using a hand lens!",
+      "examples": [
+        {
+          "title": "Soil Types",
+          "content": "Loam is the best soil for growing healthy garden vegetables."
+        }
+      ]
+    },
+    {
+      "title": "Day and Night",
+      "text": "Day and night happen because the Earth rotates slowly.\nThe Earth spins like a giant top on its axis.\nThe side of the Earth facing the Sun has day.\nThe side of the Earth facing away has night.\nIt takes 24 hours for Earth to spin once completely.\nThe Sun appears to rise in the east every morning.\nIt appears to set in the west every evening.\nThis regular cycle gives us time for activity and rest!",
+      "examples": [
+        {
+          "title": "Earth Spin",
+          "content": "Earth's rotation causes the sun to appear to move in the sky."
+        }
+      ]
+    },
+    {
+      "title": "Rusting of Metals",
+      "text": "Iron objects change color when left wet in the air.\nAn iron nail turns orange-brown and becomes rough.\nThis chemical process is called rusting in daily science.\nRust is crumbly and makes the iron metal weak.\nIt happens because iron combines with oxygen and water.\nPainting iron gates keeps moisture away to prevent rust.\nAlways keep your metal toys dry after playing outside.\nObserve old metal keys to see if they have rusted!",
+      "examples": [
+        {
+          "title": "Rusting",
+          "content": "Rust forms on iron surfaces when exposed to damp air."
+        }
+      ]
+    },
+    {
+      "title": "Hygiene and Germs",
+      "text": "Germs are tiny living things that make us sick.\nThey are too small to see without microscopes.\nWe wash hands with soap and water to remove germs.\nRubbing hands together lifts dirt and bacteria off skin.\nSoap molecules bind to oil and wash germs away.\nWashing hands keeps us healthy and prevents spreading sickness.\nAlways wash hands before eating and after using toilets.\nSing the alphabet song while rubbing soap on hands!",
+      "examples": [
+        {
+          "title": "Hygiene",
+          "content": "Washing hands with soap lifts pathogens off the skin surface."
+        }
+      ]
+    },
+    {
+      "title": "Food and Digestion",
+      "text": "We eat food to get energy for active play.\nOur body breaks down food through digestion to grow.\nOur teeth chew food into small pieces in mouths.\nSaliva softens the chewed food to swallow easily.\nOur stomach breaks down food further using liquids.\nRice and bread give us carbohydrates for quick energy.\nFish and eggs give us proteins to build muscles.\nFruits and vegetables keep our body systems working well!",
+      "examples": [
+        {
+          "title": "Digestion",
+          "content": "Chewing food increases surface area for stomach enzymes."
+        }
+      ]
+    },
+    {
+      "title": "Sound in the Environment",
+      "text": "Sound is created when an object vibrates quickly.\nA vibration is a rapid back-and-forth movement.\nPlucking a tight rubber band makes it vibrate and hum.\nSound travels as invisible waves through the air.\nOur ears collect these waves so we can hear sounds.\nSound travels faster through solid wood than air.\nHeavy doors block sounds from entering quiet classrooms.\nObserve what happens when you touch a speaking speaker!",
+      "examples": [
+        {
+          "title": "Vibrations",
+          "content": "Vocal cords vibrate in our throat when we speak or sing."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Observations",
+      "text": "Let's practice identifying scientific observations in nature.\nAn observation must be a factual statement using senses.\nSaying 'The apple has red skin' is an observation.\nSaying 'The apple is delicious' is an opinion.\nScientists only record physical facts in their journals.\nUse a ruler to measure the height of seedlings.\nWrite down the measurement in millimeters on your paper.\nAlways stick to factual details that others can verify!",
+      "examples": [
+        {
+          "title": "Factual Observation",
+          "content": "The leaf has five points and a rough texture."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Fact vs Opinion",
+      "text": "Scientists separate facts from opinions during experiments.\nA fact can be proven true by testing or observing.\nAn opinion is a personal feeling or belief about things.\nStatement: 'The toy car is blue' (This is a fact).\nStatement: 'The toy car is pretty' (This is an opinion).\nFactual descriptions keep science records reliable and clean.\nAvoid using words like beautiful, ugly, or nice in logs.\nLet's classify five sentences as fact or opinion today!",
+      "examples": [
+        {
+          "title": "Fact Check",
+          "content": "Factual: 'Water boils at 100 degrees Celsius.'"
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Cooking Science",
+      "text": "Let's observe changes that happen during cooking food.\nHeat changes the properties of raw materials permanently.\nRaw egg white is a clear liquid in shells.\nIt turns into a solid white color when heated.\nThis happens because heat cooks the proteins inside.\nRaw rice grains are hard and dry in bags.\nBoiling water turns them soft and edible in pots.\nSpot the science in your kitchen during dinner preparation!",
+      "examples": [
+        {
+          "title": "Cooking Fact",
+          "content": "Heat changes raw cake batter into a spongy solid cake."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Weather Science",
+      "text": "Let's observe changes in weather like real meteorologists.\nKeep track of clouds, wind direction, and temperature.\nDark grey clouds usually indicate that rain is coming.\nA wind vane shows which direction the wind blows.\nA thermometer measures how hot or cold the air is.\nWrite down daily weather observations in your journal.\nObserve if the wind blows harder in mornings or afternoons.\nCompare weather details across different days of the week!",
+      "examples": [
+        {
+          "title": "Weather Tool",
+          "content": "Thermometers measure air temperature in degrees Celsius."
+        }
+      ]
+    },
+    {
+      "title": "Common Error: Opinion in Logs",
+      "text": "A common mistake is writing opinions in science journals.\nWriting 'This leaf is beautiful' is not scientific.\nIt is a personal feeling that others might not share.\nInstead, write: 'This leaf has five lobes and points.'\nThis statement describes physical facts that others can see.\nStick to measurements, colors, shapes, and textures.\nAvoid using opinion words when you record science data.\nCheck your journal entries to ensure they contain facts!",
+      "examples": [
+        {
+          "title": "Incorrect",
+          "content": "Writing: 'The experiment was fun and the liquid looked nice.'"
+        }
+      ]
+    },
+    {
+      "title": "Common Error: Explaining with Magic",
+      "text": "Do not explain natural events with magic or stories.\nLook for natural causes and explanations instead.\nIncorrect: 'Magic makes the water puddle disappear.'\nCorrect: 'Solar heat evaporates water in the puddle.'\nScience searches for evidence and natural reasons.\nUnderstanding causes helps us make accurate predictions.\nAlways ask what force or energy caused the change.\nBe a fact finder, not a magic believer, in science!",
+      "examples": [
+        {
+          "title": "Scientific Cause",
+          "content": "Heat energy causes liquid water to turn into gas vapor."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice: Science Review A",
+      "text": "Let's review the important science concepts of Week 1.\nWe have studied observations, measurements, and predictions.\nA real scientist is always curious and checks their facts.\nThink about the experiments we discussed in the slides.\nCan you explain them in your own words to others?\nUse your scientific vocabulary to describe your ideas clearly.\nAnswer the quiz questions and challenges to test your memory.\nKeep up the great work and enjoy exploring the world!",
+      "examples": [
+        {
+          "title": "Review Card 1",
+          "content": "Practice explaining these science ideas to your family."
+        }
+      ]
+    },
+    {
+      "title": "Summary of Week 1",
+      "text": "Congratulations! You completed all the slides for Week 1.\nLet's review the main science tools we mastered.\nWe learned that science is all around us daily.\nWe use our five senses to gather factual observations.\nWe separate physical facts from personal opinions.\nWe explain natural events using energy, force, and heat.\nWe observe weather, plant growth, and animal movement.\nYou are now ready to take the quiz and challenges!",
+      "examples": [
+        {
+          "title": "Key Takeaway",
+          "content": "Observation is the foundation of scientific inquiry."
+        }
+      ]
+    }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Which sense organ is used to observe the color of a flower?",
+      "options": [
+        "Eyes",
+        "Ears",
+        "Nose",
+        "Tongue"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following is a scientific observation?",
+      "options": [
+        "The puppy is the cutest animal.",
+        "The puppy has four legs and black fur.",
+        "Puppies are fun to play with.",
+        "Everyone loves puppies."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What causes wet clothes to dry when hung under the sun?",
+      "options": [
+        "The wind blows them away.",
+        "The heat from the sun evaporates the water.",
+        "The colors absorb the water.",
+        "Gravity pulls the water out."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following is an opinion, NOT a scientific fact?",
+      "options": [
+        "Water freezes at 0 degrees Celsius.",
+        "Iron nails rust when left wet.",
+        "Green leaves are prettier than red leaves.",
+        "Plants need sunlight to grow."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "verify",
+      "q": "True or False: A shadow forms when an object blocks light.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What do we call the process where water turns into invisible vapor?",
+      "options": [
+        "Melting",
+        "Freezing",
+        "Evaporation",
+        "Rusting"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following is a physical property of clay?",
+      "options": [
+        "It can be molded into shapes.",
+        "It is a liquid that flows.",
+        "It is invisible.",
+        "It is always hot."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What happens to butter when it is heated in a pan?",
+      "options": [
+        "It freezes.",
+        "It melts into a liquid.",
+        "It turns into wood.",
+        "It becomes colder."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which tool helps us see tiny insect parts more clearly?",
+      "options": [
+        "Ruler",
+        "Hand lens (Magnifying glass)",
+        "Scissors",
+        "Cardboard"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What happens to an iron nail when left wet in the air?",
+      "options": [
+        "It turns into gold.",
+        "It rusts and turns orange-brown.",
+        "It melts into water.",
+        "It disappears."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Why do we wash our hands with soap?",
+      "options": [
+        "To make them smell like candy.",
+        "To remove dirt and kill invisible germs.",
+        "To change our skin color.",
+        "To make our hands grow larger."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Saying 'The soup is too salty' is a personal opinion, not a scientific measurement.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which type of soil holds the most water and feels sticky?",
+      "options": [
+        "Sand",
+        "Clay",
+        "Loam",
+        "Gravel"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What makes leaves on a tree move?",
+      "options": [
+        "The heat of the sun",
+        "The blowing wind",
+        "The gravity of the earth",
+        "The moon"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which sense organ helps us hear the chime of a bell?",
+      "options": [
+        "Nose",
+        "Ears",
+        "Eyes",
+        "Skin"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which statement is a fact about plants?",
+      "options": [
+        "Plants are happy in the rain.",
+        "Plants need water to survive.",
+        "Plants grow better when we play music.",
+        "Green plants are better than yellow ones."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What force is applied when you drag a heavy box towards yourself?",
+      "options": [
+        "Push",
+        "Pull",
+        "Heat",
+        "Light"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What force is applied when you kick a soccer ball away?",
+      "options": [
+        "Push",
+        "Pull",
+        "Gravity",
+        "Friction"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What splits sunlight to create a rainbow?",
+      "options": [
+        "Air molecules",
+        "Water droplets in the air",
+        "Dirt on the ground",
+        "Tree leaves"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Science explains how things work in the natural world through evidence and tests.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Fill in the blank: The Sun rises in the ___.",
+      "options": [
+        "East",
+        "West",
+        "North",
+        "South"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What is the state of water we drink?",
+      "options": [
+        "Solid",
+        "Liquid",
+        "Gas",
+        "Plasma"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following is a natural event explained by science?",
+      "options": [
+        "A magic trick",
+        "Weather changing from sunny to rainy",
+        "A cartoon character flying",
+        "A wishing well working"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Plants bend towards light because they need it to grow.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What is the main goal of science?",
+      "options": [
+        "To make magic tricks",
+        "To understand how the natural world works",
+        "To paint beautiful pictures",
+        "To write storybooks"
+      ],
+      "answer": 1
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "If you observe that a puddle of water disappears faster on a hot day than on a cloudy day, what can you infer?",
+      "options": [
+        "Heat increases the rate of evaporation.",
+        "The cloud absorbs the water.",
+        "Water likes cloudy days more.",
+        "Wind only blows on hot days."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Why does a metal slide in the playground feel hot on a sunny afternoon?",
+      "options": [
+        "It absorbs heat from the Sun.",
+        "It produces its own heat.",
+        "It is made of wood.",
+        "The ground pushes heat up."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following contains ONLY scientific observations?",
+      "options": [
+        "The rock is black, smooth, and weighs 50 grams.",
+        "The rock is pretty, smooth, and lucky.",
+        "The rock is heavy, ugly, and cold.",
+        "The rock is small, nice, and weighs 10 grams."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What would happen to a plant if it were placed in a completely dark room for two weeks?",
+      "options": [
+        "It would grow taller and greener.",
+        "It would turn yellow, weaken, and eventually die.",
+        "It would turn into a flower.",
+        "It would stay exactly the same."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "A student says, 'This ice cream is delicious.' Another student says, 'This ice cream melts at room temperature.' Which statement is scientific?",
+      "options": [
+        "The first statement",
+        "The second statement",
+        "Both statements",
+        "Neither statement"
+      ],
+      "answer": 1
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Everyday Science Observation Diary",
+    "desc": "Observe three different objects or natural events in your home or garden (e.g., water boiling, a plant bending, a shadow on the floor). Draw them on a piece of paper, write one factual observation for each, and explain the science behind them to your parent.",
+    "labels": [
+      "Correctly separated facts from opinions in observations",
+      "Clearly drew and described the selected science events",
+      "Explained the scientific cause (e.g., heat, light, growth) accurately"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Observation vs. Opinion</h3>\n                  <p class=\"ws-instruction\">Classify each statement below as either an <strong>Observation</strong> (fact based on senses) or an <strong>Opinion</strong> (belief or feeling).</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. The water in the pot is bubbling and turning into steam.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Observation</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Rainy weather is the worst kind of weather.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Opinion</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. The metal nail has an orange-brown crusty coating.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Observation</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Everyday Science Connections</h3>\n                  <p class=\"ws-instruction\">Match the daily observation with the scientific explanation by writing the correct letter in the bracket.</p>\n                  <div class=\"ws-split\" style=\"margin-top: 20px;\">\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.0;\">\n                      <div><strong>Daily Observations:</strong></div>\n                      <div>1. Wet clothes dry under the sun.</div>\n                      <div>2. A shadow forms behind a tree.</div>\n                      <div>3. A metal slide feels hot at noon.</div>\n                    </div>\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.0; text-align: right; padding-right: 40px;\">\n                      <div><strong>Scientific Explanations:</strong></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">C</span> &nbsp; ] &nbsp; A. Metal absorbs heat from sunlight.</div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">A</span> &nbsp; ] &nbsp; B. Water evaporates due to heat.</div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">B</span> &nbsp; ] &nbsp; C. The tree blocks light.</div>\n                    </div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Science in the Garden</h3>\n                  <p class=\"ws-instruction\">Write a short description to answer the question using physical facts.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe what happens when a plant is placed next to a sunny window:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">The plant stem will bend towards the window to get sunlight.</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">This is because plants need sunlight to make their own food.</span></div>\n                  </div>\n                </div>"
+    ]
+  }
+}

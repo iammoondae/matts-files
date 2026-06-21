@@ -1,0 +1,35 @@
+<resources>
+    <style name="Theme.MattsLearningHub" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Status bar and navigation bar setup for full screen WebView look -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+    </style>
+
+    <!-- Theme for email input fields in the dialog -->
+    <style name="EmailInputTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#6C63FF</item>
+        <item name="colorAccent">#6C63FF</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textColorHint">#888899</item>
+    </style>
+
+    <!-- Dialog theme with dark background -->
+    <style name="DarkDialog" parent="Theme.MaterialComponents.Dialog">
+        <item name="android:windowBackground">@drawable/dialog_bg</item>
+        <item name="android:backgroundDimAmount">0.7</item>
+        <item name="colorPrimary">#6C63FF</item>
+        <item name="colorAccent">#6C63FF</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textColorSecondary">#B0B0C0</item>
+        <item name="buttonBarPositiveButtonStyle">@style/DarkDialogButton</item>
+        <item name="buttonBarNegativeButtonStyle">@style/DarkDialogButton</item>
+        <item name="android:buttonBarPositiveButtonStyle">@style/DarkDialogButton</item>
+        <item name="android:buttonBarNegativeButtonStyle">@style/DarkDialogButton</item>
+    </style>
+
+    <style name="DarkDialogButton" parent="Widget.MaterialComponents.Button.TextButton">
+        <item name="android:textColor">#A099FF</item>
+    </style>
+</resources>

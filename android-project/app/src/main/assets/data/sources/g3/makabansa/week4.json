@@ -1,0 +1,603 @@
+{
+  "color": "#f59e0b",
+  "icon": "🏝️",
+  "title": "Makabansa",
+  "subtitle": "Week 4: Ang Ugnayan ng Barangay at Bayan",
+  "slides": [
+    {
+      "title": "Welcome sa Week 4!",
+      "text": "<span class=\"fil-sentence\" data-translation=\"How are you, student? Welcome to the fourth week!\">Kumusta ka, mag-aaral? Welcome sa ikaapat na linggo!</span>\n<span class=\"fil-sentence\" data-translation=\"This week, we will study about connections yonder.\">Ngayong linggo, mag-aaral tayo tungkol sa ugnayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's identify the connection of barangay and town.\">Tukuyin natin ang ugnayan ng barangay at ng bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"The barangay is a small division of a wider town.\">Ang barangay ay maliit na bahagi ng isang bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"The history of each part is connected to one another.\">Ang kasaysayan ng bawat isa ay nagkakaugnay ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"We will study how they work together for development.\">Pag-aaralan natin kung paano sila nagtutulungan.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's analyze this important connection in our lesson!\">Suriin natin ang ugnayang ito sa ating aralin!</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready to expand your knowledge of history today?\">Handa ka na bang lumawak ang iyong kaalaman ngayon?</span>",
+      "examples": [
+        {
+          "title": "Layunin ng Linggo",
+          "content": "Maunawaan ang ugnayan sa kasaysayan ng barangay at ng mas malawak na bayan."
+        }
+      ]
+    },
+    {
+      "title": "Ang Barangay bilang Bahagi",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The barangay is the smallest political unit in the country.\">Ang barangay ang pinakamaliit na yunit sa bansa.</span>\n<span class=\"fil-sentence\" data-translation=\"We have our own local leadership like the captain.\">Mayroon tayong sariling pamunuan tulad ng kapitan.</span>\n<span class=\"fil-sentence\" data-translation=\"But the barangay does not exist alone in the region.\">Ngunit ang barangay ay hindi nag-iisa sa komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"It belongs to the wider municipal town or city structure.\">Ito ay kabilang sa mas malaking bayan o lungsod natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: Barangay San Jose is a part of Calamba City.\">Halimbawa: ang Barangay San Jose ay bahagi ng Calamba.</span>\n<span class=\"fil-sentence\" data-translation=\"The history of San Jose is part of Calamba's history.\">Ang kasaysayan ng San Jose ay bahagi ng kasaysayan nito.</span>\n<span class=\"fil-sentence\" data-translation=\"They share a common culture and origin in the province.\">Sila ay may iisang kultura at pinagmulan sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Analyze the connection of your own barangay and town today!\">Suriin ang ugnayan ng inyong barangay at bayan ngayon!</span>",
+      "examples": [
+        {
+          "title": "Bahagi",
+          "content": "Barangay (maliit) -> Lungsod o Bayan (malaki)"
+        }
+      ]
+    },
+    {
+      "title": "Ang Kasaysayan ng Bayan ng Calamba",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The City of Calamba yonder has a colorful past history.\">Ang Lungsod ng Calamba ay may makulay na nakaraan.</span>\n<span class=\"fil-sentence\" data-translation=\"Its name originated from the local term 'kalan-banga'.\">Nagmula ang pangalan nito sa salitang 'kalan-banga'.</span>\n<span class=\"fil-sentence\" data-translation=\"This is a clay pot used by the ancestors for cooking.\">Ito ay isang palayok ng luwad para sa pagluluto.</span>\n<span class=\"fil-sentence\" data-translation=\"According to story, there were two Spanish soldiers yonder.\">Ayon sa kwento, may dalawang sundalong Kastila doon.</span>\n<span class=\"fil-sentence\" data-translation=\"They asked the name of the place to a local woman.\">Tinanong nila ang pangalan ng pook sa isang babae.</span>\n<span class=\"fil-sentence\" data-translation=\"The woman thought they were asking about her clay pot.\">Akala ng babae ay tinatanong ang kargang kalan-banga.</span>\n<span class=\"fil-sentence\" data-translation=\"She answered: 'kalan-banga', which became 'Calamba'.\">Sumagot siya: 'kalan-banga', na naging 'Calamba'.</span>\n<span class=\"fil-sentence\" data-translation=\"A historical story yonder that we take pride in today!\">Isang makasaysayang kwento na ipinagmamalaki natin!</span>",
+      "examples": [
+        {
+          "title": "Calamba",
+          "content": "kalan (stove) + banga (clay pot) -> Calamba"
+        }
+      ]
+    },
+    {
+      "title": "Ang Kalan-Banga Monumento",
+      "text": "<span class=\"fil-sentence\" data-translation=\"There is a large kalan-banga monument built in Calamba.\">May malaking monumento ng kalan-banga sa Calamba.</span>\n<span class=\"fil-sentence\" data-translation=\"It is located yonder in the public city plaza of Calamba.\">Ito ay matatagpuan sa plaza ng lungsod ng Calamba.</span>\n<span class=\"fil-sentence\" data-translation=\"It is a huge clay pot monument built using hard concrete.\">Ito ay isang malaking palayok na gawa sa semento.</span>\n<span class=\"fil-sentence\" data-translation=\"It is decorated with the names of all its barangays.\">Pinalalamutian ito ng mga pangalan ng mga barangay.</span>\n<span class=\"fil-sentence\" data-translation=\"This displays the unity and connection of each barangay.\">Ipinapakita nito ang pagkakaisa ng bawat barangay.</span>\n<span class=\"fil-sentence\" data-translation=\"Each barangay is like a piece of the kalan-banga pot.\">Ang bawat barangay ay parang bahagi ng kalan-banga.</span>\n<span class=\"fil-sentence\" data-translation=\"The monument is a physical primary source for the city.\">Ang monumento ay isang primaryang batayan sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Examine the drawing of the kalan-banga in your book now!\">Suriin ang guhit ng kalan-banga sa inyong aklat!</span>",
+      "examples": [
+        {
+          "title": "Monumento",
+          "content": "Kalan-Banga Plaza (monumento ng pagkakaisa ng barangay)"
+        }
+      ]
+    },
+    {
+      "title": "Paano Nagtutulungan ang mga Pook?",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The barangay and town work together to provide services.\">Ang barangay at bayan ay nagtutulungan sa serbisyo.</span>\n<span class=\"fil-sentence\" data-translation=\"The barangay hall helps manage the small local streets.\">Ang barangay hall ay tumutulong sa maliliit na kalye.</span>\n<span class=\"fil-sentence\" data-translation=\"Meanwhile, the municipal hall constructs the major highways.\">Ang munisipyo naman ang gumagawa ng malalaking daan.</span>\n<span class=\"fil-sentence\" data-translation=\"When a typhoon comes, they cooperate to give relief goods.\">Kapag may bagyo, nagtutulungan sila sa pagbibigay-tulong.</span>\n<span class=\"fil-sentence\" data-translation=\"The local health center coordinates with the town hospital.\">Ang health center ay nakikipag-ugnayan sa ospital.</span>\n<span class=\"fil-sentence\" data-translation=\"This is to ensure the health of every family in town.\">Ito ay upang masiguro ang kalusugan ng bawat pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"This active cooperation is the key to our development.\">Ang pagtutulungang ito ay susi sa pag-unlad natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Why is it important for barangay and town to cooperate?\">Bakit mahalagang magtulungan ang barangay at bayan?</span>",
+      "examples": [
+        {
+          "title": "Pagtutulungan",
+          "content": "tanod outpost (barangay) + police station (munisipyo)"
+        }
+      ]
+    },
+    {
+      "title": "Ang Lalawigan ng Laguna",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The City of Calamba belongs to the province of Laguna.\">Ang Lungsod ng Calamba ay kabilang sa Laguna.</span>\n<span class=\"fil-sentence\" data-translation=\"Laguna is a wide and historic province in our country.\">Ang Laguna ay isang malawak na lalawigan sa bansa.</span>\n<span class=\"fil-sentence\" data-translation=\"Its name originated from the Spanish term 'la laguna'.\">Nagmula ang pangalan nito sa salitang 'la laguna'.</span>\n<span class=\"fil-sentence\" data-translation=\"This means 'the lake' in the Spanish language yonder.\">Ibig sabihin nito ay 'ang lawa' sa wikang Kastila.</span>\n<span class=\"fil-sentence\" data-translation=\"This is due to the large lake of Laguna de Bay nearby.\">Ito ay dahil sa malaking lawa ng Laguna de Bay.</span>\n<span class=\"fil-sentence\" data-translation=\"The lake connects many towns and barangays in history.\">Ang lawa ay nagdugtong sa maraming bayan at barangay.</span>\n<span class=\"fil-sentence\" data-translation=\"The history of this lake is part of our shared history.\">Ang kasaysayan ng lawa ay bahagi ng kasaysayan natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Observe the map of Laguna in your classroom today!\">Suriin ang mapa ng Laguna sa inyong silid-aralan!</span>",
+      "examples": [
+        {
+          "title": "Laguna",
+          "content": "la laguna (the lake) -> Laguna de Bay"
+        }
+      ]
+    },
+    {
+      "title": "Mga Produkto at Kalakalan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Barangays unite in selling their agricultural harvests.\">Nagkakaisa ang mga barangay sa pagbebenta ng ani.</span>\n<span class=\"fil-sentence\" data-translation=\"Farmers bring their rice harvests to the municipal market.\">Dinadala ng mga magsasaka ang palay sa bayan natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Fishermen bring fresh fish from the lake to town markets.\">Ang mga mangingisda ay nagdadala ng isda mula sa lawa.</span>\n<span class=\"fil-sentence\" data-translation=\"Trade happens yonder between different local barangays.\">Nagkakaroon ng kalakalan sa pagitan ng mga pook natin.</span>\n<span class=\"fil-sentence\" data-translation=\"This provides jobs and livelihood to many local citizens.\">Ito ay nagbibigay ng trabaho sa maraming mamamayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Cooperation in trade makes the entire town rich in resources.\">Ang pagtutulungan sa kalakalan ay nagpapayaman sa bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"This reflects the industry and hard work of Laguna people.\">Sinasalamin nito ang kasipagan ng mga tao sa Laguna.</span>\n<span class=\"fil-sentence\" data-translation=\"What is the primary product of your own town today?\">Ano ang pangunahing produkto ng inyong sariling bayan?</span>",
+      "examples": [
+        {
+          "title": "Kalakalan",
+          "content": "palay (pagsasaka), isda (pangingisda), mga kagamitang sining"
+        }
+      ]
+    },
+    {
+      "title": "Ang Kasaysayan ng Pangalan ng Lalawigan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The history of names describes the geographical features.\">Ang kasaysayan ng pangalan ay naglalarawan ng pook.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned that 'Laguna' is named due to our large lake.\">Nalaman natin na ang 'Laguna' ay dahil sa lawa natin.</span>\n<span class=\"fil-sentence\" data-translation=\"This shows that the lake yonder is the center of life.\">Ito ay nagpapakita na ang lawa ang sentro ng buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"The name 'Calamba' is due to the kalan-banga clay pot.\">Ang 'Calamba' ay dahil sa kalan-banga o palayok.</span>\n<span class=\"fil-sentence\" data-translation=\"This shows the native art of pottery making yonder.\">Ito ay nagpapakita ng katutubong sining ng pagpapalayok.</span>\n<span class=\"fil-sentence\" data-translation=\"These names hold a very deep historical significance today.\">Ang mga pangalang ito ay may malalim na kasaysayan.</span>\n<span class=\"fil-sentence\" data-translation=\"We must remember these stories and take pride in them.\">Dapat natin itong tandaan at ipagmalaki sa iba.</span>\n<span class=\"fil-sentence\" data-translation=\"Share the story of the kalan-banga with your family tonight!\">Ibahagi ang kwento ng kalan-banga sa iyong pamilya!</span>",
+      "examples": [
+        {
+          "title": "Pangalan ng Pook",
+          "content": "Laguna -> Lawa, Calamba -> Kalan-Banga"
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Ugnayan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's practice understanding the connection of places today.\">Magsanay tayo sa pag-unawa ng ugnayan ng mga pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Analyze: 'Barangay San Juan belongs to Calamba City yonder.'\">Suriin: 'Ang Barangay San Juan ay kabilang sa Calamba.'</span>\n<span class=\"fil-sentence\" data-translation=\"What is the connection between San Juan and Calamba City?\">Ano ang ugnayan ng San Juan at Calamba sa pook?</span>\n<span class=\"fil-sentence\" data-translation=\"Barangay San Juan is a small political part of the city.\">Ang Barangay San Juan ay maliit na bahagi ng lungsod.</span>\n<span class=\"fil-sentence\" data-translation=\"Analyze: 'Calamba City belongs to the province of Laguna.'\">Suriin: 'Ang Calamba ay kabilang sa lalawigan ng Laguna.'</span>\n<span class=\"fil-sentence\" data-translation=\"Calamba is a city located within the wider province yonder.\">Ang Calamba ay lungsod na sakop ng malawak na lalawigan.</span>\n<span class=\"fil-sentence\" data-translation=\"This is the correct hierarchy of our government units.\">Ito ang tamang ugnayan ng mga yunit ng pamahalaan.</span>\n<span class=\"fil-sentence\" data-translation=\"Did you successfully identify the scope of each unit today?\">Nagawa mo bang matukoy ang sakop ng bawat isa ngayon?</span>",
+      "examples": [
+        {
+          "title": "Hierarchy",
+          "content": "San Juan (Barangay) -> Calamba (Lungsod) -> Laguna (Lalawigan)"
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Kalan-Banga",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze the kalan-banga monument in the plaza.\">Suriin natin ang monumento ng kalan-banga sa plaza.</span>\n<span class=\"fil-sentence\" data-translation=\"Why are there names of barangays written on this clay pot?\">Bakit may mga pangalan ng barangay sa palayok na ito?</span>\n<span class=\"fil-sentence\" data-translation=\"It shows that Calamba City is made up of its barangays.\">Ipinapakita nito na ang Calamba ay binubuo ng barangay.</span>\n<span class=\"fil-sentence\" data-translation=\"Each barangay unites to form the complete municipal body.\">Ang bawat barangay ay nagkakaisa upang mabuo ang bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"This symbolizes the active cooperation of the citizens yonder.\">Ito ay sumasagisag sa pagtutulungan ng mga mamamayan.</span>\n<span class=\"fil-sentence\" data-translation=\"The failure of one part affects the entire town's wellness.\">Ang pagkasira ng isa ay nakakaapekto sa buong bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"This connection shows our unity in our local community life.\">Ang ugnayang ito ay nagpapakita ng pagkakaisa natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Draw the kalan-banga pot with names of barangays on paper!\">Iguhit ang kalan-banga na may pangalan ng barangay!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay Kalan-Banga",
+          "content": "Kalan-Banga monument = simbolo ng pagkakaisa ng mga barangay."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Lawa ng Laguna",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze the lake of Laguna de Bay on our map.\">Suriin natin ang lawa ng Laguna de Bay sa mapa natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Which municipal towns are located around the wide lake?\">Aling mga bayan ang nakapaligid sa malawak na lawa?</span>\n<span class=\"fil-sentence\" data-translation=\"There is Calamba, Los Baños, and many other towns yonder.\">Mayroong Calamba, Los Baños, at marami pang iba doon.</span>\n<span class=\"fil-sentence\" data-translation=\"The lake connects their trade, transport, and daily lives.\">Ang lawa ay nagdugtong sa kanilang kalakalan at buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"Fishermen transport fresh fish to the markets of these towns.\">Ang mga mangingisda ay nagbibiyahe ng isda sa bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"This shows connection based on our shared natural resources.\">Ito ay nagpapakita ng ugnayan sa likas na yaman natin.</span>\n<span class=\"fil-sentence\" data-translation=\"The cleanliness of the lake is the duty of every town today.\">Ang kalinisan ng lawa ay pananagutan ng bawat bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Write down the name of this lake on your writing paper now!\">Isulat ang pangalan ng lawa na ito sa inyong papel ngayon!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay Lawa",
+          "content": "Laguna de Bay = nagdugtong sa kalakalan ng mga bayan."
+        }
+      ]
+    },
+    {
+      "title": "Maling Pagtukoy sa Ugnayan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid thinking that the barangay is independent of the town.\">Iwasan ang pag-iisip na hiwalay ang barangay sa bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'Our barangay is its own separate nation yonder.'\">Mali: 'Ang aming barangay ay may sariling bansa ngayon.'</span>\n<span class=\"fil-sentence\" data-translation=\"The barangay belongs to the wider municipal town or city.\">Ang barangay ay kabilang sa mas malaking bayan o lungsod.</span>\n<span class=\"fil-sentence\" data-translation=\"The barangay must follow the ordinances of the municipality.\">Dapat sumunod ang barangay sa mga batas ng munisipyo.</span>\n<span class=\"fil-sentence\" data-translation=\"Correct: 'Our barangay is part of the city of Calamba.'\">Tama: 'Ang aming barangay ay bahagi ng lungsod ng Calamba.'</span>\n<span class=\"fil-sentence\" data-translation=\"This administrative connection preserves order in our country.\">Ang ugnayang ito ay nagpapanatili ng kaayusan sa bansa.</span>\n<span class=\"fil-sentence\" data-translation=\"Make sure of the correct connection in your history reports today!\">Tiyakin ang wastong ugnayan sa inyong mga ulat ngayon!</span>\n<span class=\"fil-sentence\" data-translation=\"This is the basis of proper governance in our nation today!\">Ito ang batayan ng tamang pamamahala sa ating bansa!</span>",
+      "examples": [
+        {
+          "title": "Ugnayan Error",
+          "content": "mali: hiwalay na bansa -> tama: bahagi ng lungsod o bayan"
+        }
+      ]
+    },
+    {
+      "title": "Maling Kwento ng Kalan-Banga",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid fabricating the origin story of the kalan-banga.\">Iwasan ang pag-imbento ng kwento ng kalan-banga.</span>\n<span class=\"fil-sentence\" data-translation=\"Do not write yonder that the kalan-banga was made of plastic.\">Huwag sabihing ito ay yari sa plastik na laruan doon.</span>\n<span class=\"fil-sentence\" data-translation=\"The kalan-banga was a clay pot made by our early ancestors.\">Ang kalan-banga ay yari sa luwad o clay ng mga ninuno.</span>\n<span class=\"fil-sentence\" data-translation=\"Make sure of the correct historical legend of the soldiers.\">Tiyakin ang tamang kwento ng babae at mga Kastila.</span>\n<span class=\"fil-sentence\" data-translation=\"You can read the official history profile of Calamba City.\">Maaari mong basahin ang opisyal na kasaysayan ng bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"They record the authentic origin of the name in history.\">Sila ang naglalahad ng tunay na pinagmulan ng pangalan.</span>\n<span class=\"fil-sentence\" data-translation=\"Accurate details show our research skills in social studies.\">Ang tumpak na detalye ay nagpapakita ng pag-aaral natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful and accurate with every history topic today!\">Maging maingat at tumpak sa bawat kasaysayan ngayon!</span>",
+      "examples": [
+        {
+          "title": "Kalan-Banga",
+          "content": "kalan-banga = palayok ng luwad (clay pot), HINDI plastik."
+        }
+      ]
+    },
+    {
+      "title": "Ang Pagmamahal sa Ating Pook",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Knowing these connections strengthens our love for our place.\">Ang pag-alam sa ugnayan ay nagpapatibay ng pagmamahal.</span>\n<span class=\"fil-sentence\" data-translation=\"We take pride in the connection of our barangay and town.\">Ipinagmamalaki natin ang ugnayan ng barangay at bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"We help one another to preserve cleanliness in our streets.\">Nagtutulungan tayo upang mapanatili ang kalinisan doon.</span>\n<span class=\"fil-sentence\" data-translation=\"We participate in programs of both barangay and municipality.\">Nakikilahok tayo sa mga programa ng barangay at bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"A good citizen obeys all local laws and national regulations.\">Ang mabuting mamamayan ay sumusunod sa mga batas natin.</span>\n<span class=\"fil-sentence\" data-translation=\"This provides peace and harmony to our entire province yonder.\">Ito ay nagbibigay ng kapayapaan sa buong lalawigan natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Jose Rizal and other heroes originated from this great region.\">Sina Jose Rizal at iba pang bayani ay nagmula rito.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being a disciplined child in our local community!\">Ipagpatuloy ang pagiging disiplinadong bata sa pook natin!</span>",
+      "examples": [
+        {
+          "title": "Pagmamahal sa Pook",
+          "content": "Pagkakaisa ng barangay at bayan = susi sa kaunlaran."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 1",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 1",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 2",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 2",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 3",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 3",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 4",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 4",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 5",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 5",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 6",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 6",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 7",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 7",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 8",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 8",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 9",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 9",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 10",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 10",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Buod ng Ikaapat na Linggo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed all the slides for this week.\">Binabati kita! Natapos mo ang lahat ng slide sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about the connection of barangay and town.\">Natutunan natin ang ugnayan ng barangay at ng bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"We discovered the legend of kalan-banga in Calamba City.\">Nalaman natin ang kwento ng kalan-banga sa Calamba natin.</span>\n<span class=\"fil-sentence\" data-translation=\"We analyzed the kalan-banga monument yonder in the plaza.\">Suriin natin ang monumento ng kalan-banga sa plaza natin.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the history of the lake of Laguna de Bay yonder.\">Nag-aral tayo ng kasaysayan ng lawa ng Laguna de Bay.</span>\n<span class=\"fil-sentence\" data-translation=\"We discovered connection based on local trade and services.\">Nalaman natin ang ugnayan sa kalakalan at serbisyo doon.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready for the final quiz of this unit today?\">Handa ka na ba sa huling pagsusulit ng yunit na ito ngayon?</span>\n<span class=\"fil-sentence\" data-translation=\"Show your excellence and skills in Makabansa class today!\">Ipakita ang iyong galing at husay sa Makabansa ngayon!</span>",
+      "examples": [
+        {
+          "title": "Tandaan",
+          "content": "Ugnayan = Pagtutulungan. Calamba = Kalan-Banga. Laguna = Lawa."
+        }
+      ]
+    }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Ano ang tawag sa pinakamaliliit na yunit ng pamahalaan sa ating bansa?",
+      "options": [
+        "bansa",
+        "lalawigan",
+        "lungsod",
+        "barangay"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "choice",
+      "q": "Paano nagkakaugnay ang barangay at ang bayan o lungsod?",
+      "options": [
+        "Ang barangay ay hiwalay na bansa.",
+        "Ang barangay ay maliit na bahagi ng isang bayan o lungsod.",
+        "Walang ugnayan ang dalawa.",
+        "Ang lungsod ay sumusunod sa barangay lamang."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Saan nagmula ang pangalan ng Lungsod ng Calamba batay sa alamat?",
+      "options": [
+        "sapatos",
+        "kalan-banga o palayok ng luwad",
+        "isang uri ng isda",
+        "isang sikat na bundok"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang kalan-banga na pinagmulan ng pangalan ng Calamba?",
+      "options": [
+        "isang kutsara",
+        "isang palayok ng luwad para sa pagluluto",
+        "isang laruan",
+        "isang gintong barya"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Saan matatagpuan ang malaking monumento ng Kalan-Banga na simbolo ng pagkakaisa?",
+      "options": [
+        "sa aklatan ng paaralan",
+        "sa plaza ng Lungsod ng Calamba",
+        "sa loob ng health center",
+        "sa tuktok ng Bundok Makiling"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang nakasulat sa labas ng monumento ng Kalan-Banga sa Calamba?",
+      "options": [
+        "mga pangalan ng mga bayani",
+        "mga pangalan ng mga barangay ng Calamba",
+        "mga numero ng telepono",
+        "mga pangalan ng mga prutas"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Sa aling lalawigan kabilang ang Lungsod ng Calamba?",
+      "options": [
+        "Batangas",
+        "Laguna",
+        "Quezon",
+        "Cavite"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang ibig sabihin ng pangalan ng lalawigan ng 'Laguna' sa wikang Kastila?",
+      "options": [
+        "ang bundok",
+        "ang lawa (la laguna)",
+        "ang kalsada",
+        "ang palengke"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Anong malawak na lawa ang nagdugtong sa kalakalan ng maraming bayan sa Laguna?",
+      "options": [
+        "Taal Lake",
+        "Laguna de Bay",
+        "Lawa ng Sampaloc",
+        "Lawa ng Pandin"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "Tama o Mali: Ang kasaysayan ng bawat barangay ay hindi mahalaga sa kasaysayan ng buong bayan.",
+      "options": [
+        "Tama",
+        "Mali"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Sino ang nagtutulungan upang mapanatili ang seguridad sa kalsada ng barangay at bayan?",
+      "options": [
+        "mga nars at doktor",
+        "mga barangay tanod at pulis ng munisipyo",
+        "mga tindero sa palengke",
+        "mga guro sa eskwelahan"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Saan dinadala ng mga mangingisda ang kanilang huling isda mula sa lawa upang ibenta?",
+      "options": [
+        "sa barangay hall",
+        "sa palengke ng bayan",
+        "sa aklatan",
+        "sa health center"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang ginagawa ng pamahalaan ng barangay at bayan kapag may kalamidad tulad ng bagyo?",
+      "options": [
+        "naglalaro sa plaza",
+        "nagtutulungan sa pamamahagi ng relief goods",
+        "nagsasara ng mga ospital",
+        "nagtatago sa bahay"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Aling monumento ang simbolo ng pinagmulan ng Lungsod ng Calamba?",
+      "options": [
+        "monumento ng bumbero",
+        "Kalan-Banga monument",
+        "monumento ng aso",
+        "monumento ng palayok ng plastik"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang tawag sa yunit na mas malaki kaysa sa lungsod o bayan sa pamamahala?",
+      "options": [
+        "bansa",
+        "lalawigan",
+        "barangay",
+        "sitio"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Tukuyin ang ugnayan sa pangungusap: 'Ang Barangay San Jose ay bahagi ng lungsod ng Calamba.'",
+      "options": [
+        "hiwalay na lungsod",
+        "bahagi o sakop ng lungsod",
+        "walang kinalaman",
+        "mas malaki ang barangay"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "Tama o Mali: Ang 'kalan-banga' ay isang palayok na gawa sa plastik na nakuha mula sa Espanya.",
+      "options": [
+        "Tama",
+        "Mali"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Aling likas na yaman ang nagdurugtong sa mga bayan sa Laguna para sa pangingisda?",
+      "options": [
+        "Bundok Makiling",
+        "Lawa ng Laguna de Bay",
+        "kalsadang semento",
+        "mga pabrika"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Sino ang namumuno sa munisipyo ng bayan o lungsod?",
+      "options": [
+        "Barangay Kapitan",
+        "Mayor o Alkalde",
+        "Pulis",
+        "Principal"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang pangunahing kabuhayan ng mga barangay na malapit sa lawa ng Laguna?",
+      "options": [
+        "pagsasaka sa bundok",
+        "pangingisda sa lawa",
+        "pagtatrabaho sa opisina",
+        "paghabi ng tela"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang ipinapakita ng mga pangalan ng barangay na nakasulat sa Kalan-Banga monument?",
+      "options": [
+        "mga paboritong pagkain ng Mayor",
+        "pagkakaisa ng lahat ng barangay sa Calamba",
+        "mga emergency numbers",
+        "mga pangalan ng mga guro"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Saan ipinanganak ang pambansang bayani na si Dr. Jose Rizal?",
+      "options": [
+        "Lungsod ng Maynila",
+        "Lungsod ng Calamba, Laguna",
+        "Lungsod ng Baguio",
+        "Balayan, Batangas"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "Tama o Mali: Ang bawat mamamayan ay may bahagi sa pag-unlad ng kanyang barangay at bayan.",
+      "options": [
+        "Tama",
+        "Mali"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang tungkulin ng munisipyo para sa kalusugan ng bayan?",
+      "options": [
+        "magpatakbo ng malalaking ospital at klinika",
+        "magbenta ng gulay sa palengke",
+        "magturo ng pagbasa",
+        "magtapon ng basura sa ilog"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Paano natin maipapakita ang pagmamahal sa ating barangay at bayan?",
+      "options": [
+        "magtapon ng basura sa kalsada",
+        "sumunod sa mga batas at makipagtulungan sa mga programa",
+        "makipag-away sa kapitbahay",
+        "sirain ang mga monumento"
+      ],
+      "answer": 1
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "Challenge: Aling pahayag ang naglalarawan ng totoong ugnayan sa pagitan ng kasaysayan ng barangay at kasaysayan ng bayan?",
+      "options": [
+        "Ang kasaysayan ng barangay ay walang ugnayan sa kasaysayan ng bayan.",
+        "Ang kasaysayan ng bawat barangay ay ang mga pahina na bumubuo sa kasaysayan ng buong bayan.",
+        "Ang kasaysayan ng bayan ay mas nauna kaysa sa kasaysayan ng mga barangay.",
+        "Ang barangay ay walang sariling kasaysayan."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Bakit kalan-banga o palayok ng luwad ang napiling simbolo at pangalan ng Lungsod ng Calamba?",
+      "options": [
+        "Dahil ito ang paboritong lutuan ng mga Espanyol.",
+        "Dahil ang pagpapalayok ay isang mahalagang katutubong sining at kabuhayan ng mga ninuno sa pook.",
+        "Dahil walang ibang kagamitan sa lungsod noong araw.",
+        "Dahil ito ay kulay pula lamang."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Kung ang lawa ng Laguna de Bay ay madumi at polluted, aling pook o sektor ang unang maapektuhan sa kalakalan?",
+      "options": [
+        "mga guro sa paaralan",
+        "mga mangingisda at palengke na nagbebenta ng isda mula sa lawa",
+        "mga factory workers sa munisipyo",
+        "mga bumbero"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Aling pagkakaayos ng mga yunit ng pamahalaan ang nagpapakita ng tamang sakop mula sa pinakamalaki hanggang sa pinakamaliit?",
+      "options": [
+        "Bansa -> Lalawigan -> Bayan/Lungsod -> Barangay",
+        "Barangay -> Bayan/Lungsod -> Lalawigan -> Bansa",
+        "Lalawigan -> Bansa -> Barangay -> Bayan/Lungsod",
+        "Bayan/Lungsod -> Barangay -> Lalawigan -> Bansa"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Paano nakatutulong ang Kalan-Banga monument sa plaza upang paalalahanan ang mga mamamayan tungkol sa kasaysayan ng pook?",
+      "options": [
+        "Nagsisilbi itong palamuti na walang kwento.",
+        "Nagsisilbi itong pisikal na primary source (monumento) na nagpapaalala sa alamat ng pangalan ng lungsod at pagkakaisa ng mga barangay.",
+        "Nagpapakita ito ng presyo ng mga palayok sa palengke.",
+        "Wala itong kinalaman sa kasaysayan ng mga tao."
+      ],
+      "answer": 1
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Ang Alamat ng Kalan-Banga",
+    "desc": "Kausapin ang iyong magulang tungkol sa alamat ng kalan-banga ng Lungsod ng Calamba. Ikuwento ito sa kanila gamit ang iyong sariling pananalita. Iguhit ang kalan-banga (palayok ng luwad) sa isang malinis na papel at isulat sa ibaba ang tatlong barangay na alam mo sa Calamba. Ipaliwanag ang kahalagahan ng pagkakaisa ng mga barangay sa iyong pamilya.",
+    "labels": [
+      "Maayos na naiguhit ang kalan-banga (clay pot) sa papel",
+      "Wastong naikuwento ang alamat ng kalan-banga sa magulang",
+      "Wastong naisulat ang tatlong barangay ng Calamba na may malaking titik"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 1: Sakop at Ugnayan ng mga Pook</h3>\n                  <p class=\"ws-instruction\">Isulat kung ang sumusunod na yunit ay <strong>Barangay</strong>, <strong>Bayan/Lungsod</strong>, o <strong>Lalawigan</strong> batay sa sakop nito.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Laguna <span class=\"fil-sentence\" data-translation=\"(Laguna)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Lalawigan</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Barangay San Jose <span class=\"fil-sentence\" data-translation=\"(Barangay San Jose)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Barangay</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Lungsod ng Calamba <span class=\"fil-sentence\" data-translation=\"(Calamba City)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Bayan/Lungsod</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 2: Alamat ng Pangalan ng Pook</h3>\n                  <p class=\"ws-instruction\">Match ang pook sa katapat nitong kwento ng pinagmulan ng pangalan sa pamamagitan ng pagsulat ng titik.</p>\n                  <div class=\"ws-split\" style=\"margin-top: 20px;\">\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.0;\">\n                      <div><strong>Pangalan ng Pook:</strong></div>\n                      <div>1. Calamba <span class=\"fil-sentence\" data-translation=\"(Calamba)\"></span></div>\n                      <div>2. Laguna <span class=\"fil-sentence\" data-translation=\"(Laguna)\"></span></div>\n                      <div>3. Kawayanan <span class=\"fil-sentence\" data-translation=\"(Kawayanan)\"></span></div>\n                    </div>\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.0; text-align: right; padding-right: 40px;\">\n                      <div><strong>Kwento ng Pinagmulan:</strong></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">B</span> &nbsp; ] &nbsp; A. Nagmula sa lawa (la laguna).</div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">A</span> &nbsp; ] &nbsp; B. Nagmula sa kalan-banga (clay pot).</div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">C</span> &nbsp; ] &nbsp; C. Nagmula sa maraming puno ng kawayan.</div>\n                    </div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 3: Pagsusuri ng Kalan-Banga Monumento</h3>\n                  <p class=\"ws-instruction\">Sagutin ang tanong gamit ang tumpak na detalye batay sa napag-aralan.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Ano ang mahalagang kahulugan ng Kalan-Banga monumento sa plaza ng Calamba? <span class=\"fil-sentence\" data-translation=\"(What is the important meaning of the Kalan-Banga monument in Calamba plaza?)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Sinasagisag nito ang alamat ng lungsod at ang pagkakaisa ng lahat ng barangay.</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Ipinapakita nito na ang bawat barangay ay nagtutulungan para sa kaunlaran ng bayan.</span></div>\n                  </div>\n                </div>"
+    ]
+  }
+}

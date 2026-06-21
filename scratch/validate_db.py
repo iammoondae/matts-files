@@ -46,41 +46,30 @@ def extract_json_block(text, prefix):
     return None
 
 def validate_week_file(file_path):
-    with open(file_path, "r", encoding="utf-8") as f:
-        content = f.read()
-    
     errors = []
     
-    # Extract week number from file name
-    week_match = re.search(r'week(\d+)\.js', file_path)
-    w = int(week_match.group(1)) if week_match else 1
-    
-    # Identify if Grade 3 (has separate advanced subjects)
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except Exception as e:
+        return [f"File is not valid JSON: {e}"]
+        
     is_g3 = "g3" in file_path
     
-    # List of targets to validate: (target_name, prefix_template)
-    targets = [("Core", f"window.WEEK{w}_DATA.{{sub}}")]
+    targets = [("Core", data.get("core", {}))]
     if is_g3:
-        targets.append(("Advanced", f"window.WEEK{w}_ADVANCED_DATA.{{sub}}"))
+        targets.append(("Advanced", data.get("advanced", {})))
         
     # 1. Validate Subjects
-    for name, prefix_tmpl in targets:
-        for sub in subjects:
-            pref1 = prefix_tmpl.format(sub=sub) + " ="
-            pref2 = prefix_tmpl.format(sub=sub) + "="
+    for name, dataset in targets:
+        if not dataset:
+            errors.append(f"{name} dataset block is missing.")
+            continue
             
-            block = extract_json_block(content, pref1)
-            if not block:
-                block = extract_json_block(content, pref2)
-                
-            if not block:
+        for sub in subjects:
+            sub_data = dataset.get(sub)
+            if not sub_data:
                 errors.append(f"{name} subject '{sub}' block is missing.")
-                continue
-                
-            try:
-                sub_data = json.loads(block)
-            except Exception as e:
-                errors.append(f"{name} subject '{sub}' block is not valid JSON: {e}")
                 continue
                 
             # Slides Check
@@ -105,27 +94,19 @@ def validate_week_file(file_path):
                 errors.append(f"{name} subject '{sub}' worksheet has {len(pages)} pages (expected 3).")
                 
     # 2. Validate Weekend Reading translations
-    reading_pref1 = f"window.WEEK{w}_DATA.reading ="
-    reading_pref2 = f"window.WEEK{w}_DATA.reading="
-    reading_block = extract_json_block(content, reading_pref1)
-    if not reading_block:
-        reading_block = extract_json_block(content, reading_pref2)
-        
-    if not reading_block:
+    core_dataset = data.get("core", {})
+    reading_data = core_dataset.get("reading")
+    if not reading_data:
         errors.append("Reading block is missing.")
     else:
-        try:
-            reading_data = json.loads(reading_block)
-            for day in ["saturday", "sunday"]:
-                if day not in reading_data:
-                    errors.append(f"Weekend reading '{day}' block is missing.")
-                else:
-                    day_sec = json.dumps(reading_data[day])
-                    trans_count = len(re.findall(r'data-translation', day_sec))
-                    if trans_count < 6:
-                        errors.append(f"Weekend reading '{day}' is missing translation spans (found only {trans_count} 'data-translation' tags).")
-        except Exception as e:
-            errors.append(f"Reading block is not valid JSON: {e}")
+        for day in ["saturday", "sunday"]:
+            if day not in reading_data:
+                errors.append(f"Weekend reading '{day}' block is missing.")
+            else:
+                day_sec = json.dumps(reading_data[day])
+                trans_count = len(re.findall(r'data-translation', day_sec))
+                if trans_count < 6:
+                    errors.append(f"Weekend reading '{day}' is missing translation spans (found only {trans_count} 'data-translation' tags).")
             
     return errors
 
@@ -149,7 +130,6 @@ def validate_codebase_standards():
         "icon.png": "/home/moondae/Antigravity Projects/Matts Files_apk/icon.png",
         "correct.wav": "/home/moondae/Antigravity Projects/Matts Files_apk/correct.wav",
         "incorrect.wav": "/home/moondae/Antigravity Projects/Matts Files_apk/incorrect.wav",
-        "background2.mp3": "/home/moondae/Antigravity Projects/Matts Files_apk/background2.mp3",
         "background5.mp3": "/home/moondae/Antigravity Projects/Matts Files_apk/background5.mp3"
     }
     for name, path in asset_files.items():
@@ -242,7 +222,7 @@ def main():
             continue
             
         for w in weeks:
-            file_name = f"week{w}.js"
+            file_name = f"week{w}.json"
             file_path = os.path.join(grade_dir, file_name)
             if not os.path.exists(file_path):
                 print(f"FAIL: File '{file_path}' is missing.")

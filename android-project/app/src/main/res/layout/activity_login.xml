@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1a1a2e">
+
+    <!-- Background gradient overlay -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/login_gradient" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="40dp">
+
+        <!-- App Icon -->
+        <ImageView
+            android:id="@+id/img_logo"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@mipmap/ic_launcher"
+            android:contentDescription="App Logo"
+            android:layout_marginBottom="20dp" />
+
+        <!-- App Title -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Matteo&apos;s Learning Hub"
+            android:textSize="26sp"
+            android:textColor="#FFFFFF"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif-medium"
+            android:layout_marginBottom="6dp" />
+
+        <!-- Subtitle -->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sign in to save your progress"
+            android:textSize="15sp"
+            android:textColor="#B0B0C0"
+            android:layout_marginBottom="40dp" />
+
+        <!-- Google Sign-In Button -->
+        <Button
+            android:id="@+id/btn_sign_in_google"
+            android:layout_width="280dp"
+            android:layout_height="52dp"
+            android:text="   Sign in with Google"
+            android:textSize="15sp"
+            android:textColor="#333333"
+            android:textAllCaps="false"
+            android:fontFamily="sans-serif-medium"
+            android:background="@drawable/btn_google"
+            android:drawableStart="@drawable/ic_google"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            android:elevation="4dp"
+            android:layout_marginBottom="14dp" />
+
+        <!-- Email Sign-In Button -->
+        <Button
+            android:id="@+id/btn_sign_in_email"
+            android:layout_width="280dp"
+            android:layout_height="52dp"
+            android:text="   Sign in with Email"
+            android:textSize="15sp"
+            android:textColor="#FFFFFF"
+            android:textAllCaps="false"
+            android:fontFamily="sans-serif-medium"
+            android:background="@drawable/btn_email"
+            android:drawableStart="@drawable/ic_email"
+            android:drawableTint="#FFFFFF"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            android:elevation="4dp"
+            android:layout_marginBottom="14dp" />
+
+        <!-- Email Sign-Up Button -->
+        <Button
+            android:id="@+id/btn_sign_up_email"
+            android:layout_width="280dp"
+            android:layout_height="52dp"
+            android:text="   Create Account"
+            android:textSize="15sp"
+            android:textColor="#A099FF"
+            android:textAllCaps="false"
+            android:fontFamily="sans-serif-medium"
+            android:background="@drawable/btn_guest"
+            android:drawableStart="@drawable/ic_email"
+            android:drawableTint="#A099FF"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            android:layout_marginBottom="14dp" />
+
+        <!-- Guest Mode Button -->
+        <Button
+            android:id="@+id/btn_guest"
+            android:layout_width="280dp"
+            android:layout_height="52dp"
+            android:text="   Continue as Guest"
+            android:textSize="15sp"
+            android:textColor="#B0B0C0"
+            android:textAllCaps="false"
+            android:fontFamily="sans-serif-medium"
+            android:background="@drawable/btn_guest"
+            android:drawableStart="@drawable/ic_guest"
+            android:drawableTint="#B0B0C0"
+            android:paddingStart="20dp"
+            android:paddingEnd="20dp"
+            android:layout_marginBottom="8dp" />
+
+        <!-- Progress Bar (shown during sign-in) -->
+        <ProgressBar
+            android:id="@+id/progress_bar"
+            android:layout_width="44dp"
+            android:layout_height="44dp"
+            android:visibility="gone"
+            android:indeterminateTint="#6C63FF" />
+
+        <!-- Status Text -->
+        <TextView
+            android:id="@+id/tv_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="13sp"
+            android:textColor="#B0B0C0"
+            android:layout_marginTop="16dp" />
+
+    </LinearLayout>
+
+</FrameLayout>

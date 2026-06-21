@@ -1,0 +1,603 @@
+{
+  "color": "#06b6d4",
+  "icon": "🧘‍♂️",
+  "title": "GMRC",
+  "subtitle": "Week 3: Pag-iimpok at Pagtitipid sa Pamilya",
+  "slides": [
+    {
+      "title": "Welcome sa Week 3!",
+      "text": "<span class=\"fil-sentence\" data-translation=\"How are you, student? Welcome to GMRC Week 3!\">Kumusta ka, mag-aaral? Welcome sa GMRC Week 3!</span>\n<span class=\"fil-sentence\" data-translation=\"This week, we have an important lesson for our life.\">Ngayong linggo, may mahalagang aralin tayo sa buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"We will study about saving money and conservation today.\">Pag-aaralan natin ang pag-iimpok at pagtitipid.</span>\n<span class=\"fil-sentence\" data-translation=\"Saving is putting aside coins and money for our future.\">Ang pag-iimpok ay pagtatabi ng barya para sa bukas.</span>\n<span class=\"fil-sentence\" data-translation=\"Frugality is the wise and careful use of our resources.\">Ang pagtitipid ay ang matalinong paggamit ng yaman.</span>\n<span class=\"fil-sentence\" data-translation=\"We will practice this together with our own family members.\">Gagawa tayo nito kasama ang ating sariling pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready to learn how to save your daily coins?\">Handa ka na bang matutong mag-impok ng iyong barya?</span>\n<span class=\"fil-sentence\" data-translation=\"Let's start the lesson with active enthusiasm today!\">Simulan natin ang aralin nang may sigla ngayon!</span>",
+      "examples": [
+        {
+          "title": "Layunin ng Aralin",
+          "content": "Maunawaan ang kahalagahan ng pag-iimpok at pagtitipid sa pamilya."
+        }
+      ]
+    },
+    {
+      "title": "Ano ang Pag-iimpok?",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Saving is the act of putting aside extra money yonder.\">Ang pag-iimpok ay ang pagtatabi ng labis na pera.</span>\n<span class=\"fil-sentence\" data-translation=\"E.g., if you are given ten pesos for school allowance,\">E.g., kapag binigyan ka ng baon na sampung piso,</span>\n<span class=\"fil-sentence\" data-translation=\"you put aside two pesos inside your coin piggy bank.\">itatabi mo ang dalawang piso sa iyong alkansya.</span>\n<span class=\"fil-sentence\" data-translation=\"The money put aside is what we call savings in GMRC.\">Ang perang itinabi ay tinatawag nating impok.</span>\n<span class=\"fil-sentence\" data-translation=\"We can use this yonder during times of sudden need in life.\">Magagamit natin ito sa oras ng pangangailangan natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Such as buying a new writing pencil when it breaks down.\">Tulad ng pagbili ng bagong lapis kapag nabali.</span>\n<span class=\"fil-sentence\" data-translation=\"Saving money displays a strong sense of self-discipline.\">Ang pag-iimpok ay nagpapakita ng disiplina sa sarili.</span>\n<span class=\"fil-sentence\" data-translation=\"Do you have your own piggy bank in your room today?\">Mayroon ka bang sariling alkansya sa inyong kuwarto?</span>",
+      "examples": [
+        {
+          "title": "Pag-iimpok",
+          "content": "Pagtatabi ng barya (savings) sa alkansya para sa hinaharap."
+        }
+      ]
+    },
+    {
+      "title": "Ano ang Pagtitipid?",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Frugality is the careful use of our natural resources.\">Ang pagtitipid ay ang matipid na paggamit ng yaman.</span>\n<span class=\"fil-sentence\" data-translation=\"It is not only money that we conserve and save every day.\">Hindi lamang pera ang ating tinipid araw-araw.</span>\n<span class=\"fil-sentence\" data-translation=\"This includes clean water, electricity, food, and tools.\">Kasama rito ang tubig, kuryente, pagkain, at gamit.</span>\n<span class=\"fil-sentence\" data-translation=\"E.g., turning off the lights when no one is inside the room.\">E.g., ang pagpatay ng ilaw kapag walang tao sa silid.</span>\n<span class=\"fil-sentence\" data-translation=\"Or watering plants using recycled water from washing rice.\">Ang pagdidilig ng halaman gamit ang pinaghugasan.</span>\n<span class=\"fil-sentence\" data-translation=\"This helps our family reduce expenses in the monthly budget.\">Nakatutulong ito upang makatipid ang ating pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"Conservation shows respect for the resources given to us.\">Ang pagtitipid ay nagpapakita ng paggalang sa yaman.</span>\n<span class=\"fil-sentence\" data-translation=\"How can you conserve clean water when taking a bath today?\">Paano mo ititipid ang tubig kapag naliligo ka?</span>",
+      "examples": [
+        {
+          "title": "Pagtitipid",
+          "content": "Matalinong paggamit ng tubig, kuryente, pagkain, at gamit."
+        }
+      ]
+    },
+    {
+      "title": "Ang Pag-iimpok ng Barya sa Bahay",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Saving coins is a fun and rewarding habit yonder.\">Ang pag-iimpok ay masayang gawi sa ating bahay.</span>\n<span class=\"fil-sentence\" data-translation=\"We can use a piggy bank made of natural bamboo poles.\">Maaari tayong gumamit ng alkansya na yari sa kawayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Or perhaps a recycled plastic bottle sitting on our desk.\">O kaya ay isang recycled na bote ng gatas sa desk.</span>\n<span class=\"fil-sentence\" data-translation=\"Drop coins inside it every afternoon returning from school.\">Hulugan ito ng barya tuwing hapon pag-uwi sa klase.</span>\n<span class=\"fil-sentence\" data-translation=\"Even a single peso or two pesos makes a big difference yonder.\">Kahit piso o dalawang piso ay malaki ang tulong.</span>\n<span class=\"fil-sentence\" data-translation=\"Over the months, the coins will accumulate to a large sum.\">Sa paglipas ng buwan, ang barya ay dadami nang marami.</span>\n<span class=\"fil-sentence\" data-translation=\"We can use this to buy our school supplies next school year.\">Magagamit natin ito sa pagbili ng mga gamit sa eskwela.</span>\n<span class=\"fil-sentence\" data-translation=\"Start saving yonder in your own house this very evening!\">Simulan ang pag-iimpok sa inyong tahanan ngayong gabi!</span>",
+      "examples": [
+        {
+          "title": "Alkansyang Kawayan",
+          "content": "Matalinong paraan upang magtabi ng barya araw-araw."
+        }
+      ]
+    },
+    {
+      "title": "Ang Pagtitipid sa Pagkain",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Food is a blessing yonder that must never be wasted.\">Ang pagkain ay biyaya na hindi dapat sinasayang natin.</span>\n<span class=\"fil-sentence\" data-translation=\"At every mealtime, take only the amount you can consume.\">Sa bawat hapag-kainan, kumuha lamang ng sapat sa iyo.</span>\n<span class=\"fil-sentence\" data-translation=\"Eat all the rice and food served yonder on your plate.\">Ubusin ang lahat ng kanin at ulam sa inyong plato.</span>\n<span class=\"fil-sentence\" data-translation=\"Do not leave leftovers yonder to go bad or rot in trash bins.\">Huwag magtira ng pagkain upang hindi ito mabulok.</span>\n<span class=\"fil-sentence\" data-translation=\"Wasting food displays a lack of gratitude for blessings.\">Ang pagsasayang ng pagkain ay nagpapakita ng katamaran.</span>\n<span class=\"fil-sentence\" data-translation=\"Many farmers worked hard yonder to produce the rice crop.\">Maraming magsasaka ang naghirap upang makamit ang kanin.</span>\n<span class=\"fil-sentence\" data-translation=\"Respect their hard work yonder by finishing your food today.\">Igalang ang kanilang gawa sa pamamagitan ng pag-ubos.</span>\n<span class=\"fil-sentence\" data-translation=\"Check your plate now to ensure no rice is left wasted today!\">Suriin ang iyong plato ngayon kung may natirang kanin!</span>",
+      "examples": [
+        {
+          "title": "Ubusin ang Pagkain",
+          "content": "Kumuha lamang ng sapat upang maiwasan ang pagsasayang."
+        }
+      ]
+    },
+    {
+      "title": "Ang Pagtitipid sa Kuryente",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Electricity is a valuable source of energy in town.\">Ang kuryente ay mahalagang enerhiya sa komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"It provides power to light up our study lamp at night.\">Nagbibigay ito ng liwanag sa ating lamp sa desk.</span>\n<span class=\"fil-sentence\" data-translation=\"But we must conserve it to reduce our family bill yonder.\">Ngunit kailangan natin itong tipirin upang makatipid.</span>\n<span class=\"fil-sentence\" data-translation=\"Turn off the fan when leaving the school classroom today.\">Patayin ang bentilador kapag lalabas ng silid-aralan.</span>\n<span class=\"fil-sentence\" data-translation=\"Unplug the television set when no one is watching yonder.\">Bunutin ang plug ng telebisyon kapag hindi nanonood.</span>\n<span class=\"fil-sentence\" data-translation=\"Use the natural sunlight in the morning hours when reading.\">Gamitin ang liwanag ng araw sa umaga kapag nagbabasa.</span>\n<span class=\"fil-sentence\" data-translation=\"Saving electricity helps protect our natural environment today.\">Ang pagtitipid sa kuryente ay nagliligtas sa kalikasan.</span>\n<span class=\"fil-sentence\" data-translation=\"Check yonder the plugged appliances inside your house now!\">Suriin ang mga nakasaksing kagamitan sa inyong bahay!</span>",
+      "examples": [
+        {
+          "title": "Tipid Kuryente",
+          "content": "Patayin ang ilaw at bentilador kapag walang gumagamit."
+        }
+      ]
+    },
+    {
+      "title": "Ang Pagtitipid sa Tubig",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Water is a natural resource needed for human survival.\">Ang tubig ay likas na yaman na kailangan sa buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"We use water for washing clothes, taking baths and cooking.\">Gagamit tayo ng tubig sa paghuhugas, paliligo at iba.</span>\n<span class=\"fil-sentence\" data-translation=\"Turn off the faucet while brushing your teeth yonder today.\">Isara ang gripo habang nagsesepilyo ng inyong ngipin.</span>\n<span class=\"fil-sentence\" data-translation=\"Use a glass of water instead of letting the tap flow away.\">Gumamit ng baso sa halip na hayaang tumulo ang gripo.</span>\n<span class=\"fil-sentence\" data-translation=\"Use a dipper and pail when taking a bath inside the restroom.\">Gumamit ng tabo at balde kapag naliligo sa banyo.</span>\n<span class=\"fil-sentence\" data-translation=\"Do not let water overflow yonder when watering the garden.\">Huwag hayaang sumobra ang tubig sa pagdidilig doon.</span>\n<span class=\"fil-sentence\" data-translation=\"Every single drop of clean water carries a high value yonder.\">Ang bawat patak ng tubig ay may malaking halaga.</span>\n<span class=\"fil-sentence\" data-translation=\"How can you help your mother conserve water in the house?\">Paano mo matutulungan ang nanay sa pagtipid ng tubig?</span>",
+      "examples": [
+        {
+          "title": "Tipid Tubig",
+          "content": "Isara ang gripo habang nagsesepilyo; gumamit ng balde."
+        }
+      ]
+    },
+    {
+      "title": "Ang Pag-iimpok at Pamilya",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Saving money improves the welfare of the family yonder.\">Ang pag-iimpok ay nagpapabuti sa buhay ng pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"Parents and children cooperate yonder to save money daily.\">Nagtutulungan ang magulang at anak sa pag-iimpok.</span>\n<span class=\"fil-sentence\" data-translation=\"We can establish a shared family savings box in the house.\">Maaari tayong magkaroon ng pangkalahatang alkansya.</span>\n<span class=\"fil-sentence\" data-translation=\"Here we drop coins yonder for sudden family emergencies today.\">Dito inilalagay ang barya para sa emergency ng pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"Such as buying medicines yonder when someone falls ill at home.\">Tulad ng pagbili ng gamot kapag may nagkasakit sa bahay.</span>\n<span class=\"fil-sentence\" data-translation=\"A child's frugality is a big help to the mother's budget.\">Ang pagtitipid ng anak ay tulong sa badyet ng nanay.</span>\n<span class=\"fil-sentence\" data-translation=\"This shows yonder that we care about our family's future.\">Ipinapakita nito na may pakialam tayo sa pamilya natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Create a frugality plan with your parents this evening!\">Gumawa ng plano ng pagtitipid kasama ang magulang ngayon!</span>",
+      "examples": [
+        {
+          "title": "Badyet ng Pamilya",
+          "content": "Ang pagtitipid ng anak ay nagpapagaan sa gastos ng magulang."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Pag-iimpok ng Barya",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's practice saving our daily coins yonder in school.\">Magsanay tayo sa pag-iimpok ng ating mga barya.</span>\n<span class=\"fil-sentence\" data-translation=\"Matteo has twenty pesos allowance from his mother today.\">Si Matteo ay may baong bente pesos mula sa nanay.</span>\n<span class=\"fil-sentence\" data-translation=\"He bought a banana at the canteen yonder for eighteen pesos.\">Bumili siya ng saging sa kantina sa halagang labing-walo.</span>\n<span class=\"fil-sentence\" data-translation=\"There are two pesos left inside his hand after buying food.\">May natirang dalawang piso sa kanyang kamay pagkatapos.</span>\n<span class=\"fil-sentence\" data-translation=\"He placed the two pesos surplus yonder in his piggy bank.\">Inilagay niya ang dalawang piso sa kanyang alkansya.</span>\n<span class=\"fil-sentence\" data-translation=\"These two pesos represent his savings for the day yonder.\">Ang dalawang piso na ito ay ang kanyang sariling impok.</span>\n<span class=\"fil-sentence\" data-translation=\"Did you manage to save some coins from your own allowance?\">Nagawa mo bang mag-impok ng barya mula sa iyong baon?</span>\n<span class=\"fil-sentence\" data-translation=\"This is a great habit that you must continue every day!\">Ito ay mahusay na gawi na dapat mong ipagpatuloy!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay Impok",
+          "content": "20 pesos (baon) - 18 pesos (saging) = 2 pesos (impok)"
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Pagtitipid ng Tubig",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check handwashing procedures inside our school today.\">Suriin natin ang paghuhugas ng kamay sa paaralan.</span>\n<span class=\"fil-sentence\" data-translation=\"Lani used soap to wash her hands at the school washbasin.\">Si Lani ay gumamit ng sabon upang maghugas ng kamay.</span>\n<span class=\"fil-sentence\" data-translation=\"While rubbing soap yonder on her hands at the faucet,\">Habang kinukuskos niya ang kamay ng sabon sa gripo,</span>\n<span class=\"fil-sentence\" data-translation=\"she turned off the faucet so water does not flow wasted.\">isinara niya ang gripo upang hindi tumulo ang tubig.</span>\n<span class=\"fil-sentence\" data-translation=\"She only turned it back on when she was ready to rinse.\">Binuksan niya lang ulit ito nang magbabanlaw na siya.</span>\n<span class=\"fil-sentence\" data-translation=\"This simple action displays frugality and water conservation.\">Ang kilos na ito ay nagpapakita ng pagtitipid sa tubig.</span>\n<span class=\"fil-sentence\" data-translation=\"She saved many liters of clean water yonder in school today.\">Nakatipid siya ng maraming litro ng malinis na tubig.</span>\n<span class=\"fil-sentence\" data-translation=\"Do the same thing when washing dishes in your kitchen now!\">Gawin din ito kapag naghuhugas ka sa inyong kusina!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay Tubig",
+          "content": "Lani -> isinara ang gripo habang nagsasabon ng kamay."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Pagtitipid ng Pagkain",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the family lunch routine inside our house.\">Suriin natin ang pagkain ng tanghalian sa bahay.</span>\n<span class=\"fil-sentence\" data-translation=\"Kiko took rice and side dishes yonder on his lunch plate.\">Si Kiko ay kumuha ng kanin at ulam sa kanyang plato.</span>\n<span class=\"fil-sentence\" data-translation=\"He took only a sufficient portion that he could finish eating.\">Kumuha siya ng sapat na sukat na kaya niyang ubusin.</span>\n<span class=\"fil-sentence\" data-translation=\"He finished every grain of rice yonder without any leftovers.\">Inubos niya ang bawat butil ng kanin nang walang tira.</span>\n<span class=\"fil-sentence\" data-translation=\"No food was thrown into the kitchen garbage bin after lunch.\">Walang pagkain na naitapon sa basura pagkatapos kumain.</span>\n<span class=\"fil-sentence\" data-translation=\"This action displays food conservation and gratitude for blessings.\">Ang kilos na ito ay nagpapakita ng pagtitipid sa pagkain.</span>\n<span class=\"fil-sentence\" data-translation=\"His mother was happy because Kiko has excellent self-discipline.\">Natuwa ang kanyang nanay dahil disiplinado si Kiko.</span>\n<span class=\"fil-sentence\" data-translation=\"Finish your food yonder at every mealtime with your family!\">Ubusin ang iyong pagkain sa bawat kainan kasama ang pamilya!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay Pagkain",
+          "content": "Kiko -> kumuha ng sapat at inubos ang kanin sa plato."
+        }
+      ]
+    },
+    {
+      "title": "Maling Pagsasayang ng Tubig",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid playing with water yonder when you are taking a bath.\">Iwasan ang paglalaro ng tubig kapag naliligo ka.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'Let the faucet flow yonder while playing inside the tub.'\">Mali: 'Hayaang tumakbo ang gripo habang naglalaro sa tub.'</span>\n<span class=\"fil-sentence\" data-translation=\"Clean water is limited and expensive in our local community.\">Ang malinis na tubig ay limitado at mahal sa komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"Wasting it causes water shortage yonder for other households.\">Ang pagsasayang nito ay nagdudulot ng kakulangan sa iba.</span>\n<span class=\"fil-sentence\" data-translation=\"We must use a dipper and pail to control the water volume.\">Dapat gumamit ng tabo at balde upang kontrolin ang tubig.</span>\n<span class=\"fil-sentence\" data-translation=\"Correct: 'Use a pail and dipper yonder for bathing in bathroom.'\">Tama: 'Gumamit ng balde at tabo sa pagligo sa banyo.'</span>\n<span class=\"fil-sentence\" data-translation=\"Make sure all faucets are shut off yonder after using today!\">Tiyakin na isinasara ang mga gripo pagkatapos gamitin ngayon!</span>\n<span class=\"fil-sentence\" data-translation=\"This shows love and respect yonder for our natural resources!\">Ito ay nagpapakita ng pagmamahal sa ating likas na yaman!</span>",
+      "examples": [
+        {
+          "title": "Tubig Error",
+          "content": "mali: hayaang tumulo ang gripo -> tama: isara ang gripo kapag tapos na"
+        }
+      ]
+    },
+    {
+      "title": "Maling Pagbili ng Hindi Kailangan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid buying things yonder that are not actually needed.\">Iwasan ang pagbili ng mga bagay na hindi naman kailangan.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'Buying many toys even if there are toys yonder at home.'\">Mali: 'Bumili ng maraming laruan kahit mayroon pa sa bahay.'</span>\n<span class=\"fil-sentence\" data-translation=\"This is a waste of money that could have been saved yonder.\">Ito ay pagsasayang ng pera na maaari sanang maiimpok.</span>\n<span class=\"fil-sentence\" data-translation=\"We must buy only the essential items needed for our classes.\">Dapat nating bilhin lamang ang mga gamit sa paaralan.</span>\n<span class=\"fil-sentence\" data-translation=\"Such as pencils, writing paper, and books used in school.\">Tulad ng lapis, papel, at aklat na ginagamit sa klase.</span>\n<span class=\"fil-sentence\" data-translation=\"Avoiding luxury is part of frugality yonder in the family.\">Ang pag-iwas sa luho ay bahagi ng pagtitipid sa pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"Make sure your spending of school allowance is wise today!\">Tiyakin na matalino ang iyong paggastos ng baon ngayon!</span>\n<span class=\"fil-sentence\" data-translation=\"This is the correct moral value that makes our parents happy!\">Ito ang wastong asal na nagpapasaya sa ating magulang!</span>",
+      "examples": [
+        {
+          "title": "Pagbili Error",
+          "content": "mali: bumili ng laruan -> tama: mag-impok ng barya sa alkansya"
+        }
+      ]
+    },
+    {
+      "title": "Ang Pagtitipid sa mga Gamit sa Eskwela",
+      "text": "<span class=\"fil-sentence\" data-translation=\"School supplies are resources yonder that have financial value.\">Ang mga gamit sa eskwela ay yaman na may halaga.</span>\n<span class=\"fil-sentence\" data-translation=\"We must conserve and take care of them inside our classrooms.\">Dapat natin silang tipirin at ingatan sa klase.</span>\n<span class=\"fil-sentence\" data-translation=\"Use the writing pencil until it becomes short and small.\">Gamitin ang lapis hanggang sa ito ay maging munti.</span>\n<span class=\"fil-sentence\" data-translation=\"Do not tear blank pages yonder out of your school notebook.\">Huwag punitin ang mga blankong pahina ng iyong notebook.</span>\n<span class=\"fil-sentence\" data-translation=\"You can still write science lessons on those blank pages.\">Maaari mo pa itong sulatan ng mga leksyon sa science.</span>\n<span class=\"fil-sentence\" data-translation=\"Caring for supplies reduces expenses yonder for our parents.\">Ang pag-iingat sa gamit ay bawas-gastos sa magulang.</span>\n<span class=\"fil-sentence\" data-translation=\"This shows yonder that you are frugal and well-disciplined.\">Ipinapakita nito na ikaw ay matipid at disiplinado.</span>\n<span class=\"fil-sentence\" data-translation=\"Check your bag now to ensure your supplies are well-kept!\">Suriin ang iyong bag ngayon kung maayos ang iyong gamit!</span>",
+      "examples": [
+        {
+          "title": "Tipid Gamit",
+          "content": "Ingatan ang lapis at notebook; huwag punitin ang papel."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 1",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 1",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 2",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 2",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 3",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 3",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 4",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 4",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 5",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 5",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 6",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 6",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 7",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 7",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 8",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 8",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 9",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 9",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 10",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
+      "examples": [
+        {
+          "title": "Pagsasanay 10",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        }
+      ]
+    },
+    {
+      "title": "Buod ng Ikatlong Linggo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed all the slides for this week.\">Binabati kita! Natapos mo ang lahat ng slide sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about saving money and resource conservation today.\">Natutunan natin ang kahulugan ng pag-iimpok at pagtitipid.</span>\n<span class=\"fil-sentence\" data-translation=\"We discovered saving coins inside a bamboo piggy bank yonder.\">Nalaman natin ang pagtatabi ng barya sa alkansyang kawayan.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about conserving food, clean water, and lights.\">Natutunan natin ang pagtitipid sa pagkain, tubig, at ilaw.</span>\n<span class=\"fil-sentence\" data-translation=\"We avoided wasting resources and buying unnecessary things yonder.\">Iniwasan natin ang pagsasayang ng yaman at maling pagbili.</span>\n<span class=\"fil-sentence\" data-translation=\"We created a frugality plan together with our family members.\">Gumawa tayo ng plano ng pagtitipid kasama ang pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready for the quiz and challenges of this week now?\">Handa ka na ba sa pagsusulit at hamon ng linggong ito?</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being a frugal and well-disciplined child today!\">Ipagpatuloy ang pagiging matipid at disiplinadong bata!</span>",
+      "examples": [
+        {
+          "title": "Tandaan",
+          "content": "Pag-iimpok = Pera para sa bukas. Pagtitipid = Matalinong paggamit. Tipirin ang yaman!"
+        }
+      ]
+    }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Ano ang tawag sa pagtatabi ng labis na barya o pera para sa hinaharap?",
+      "options": [
+        "paghahambing",
+        "pag-iimpok",
+        "pagtitipid",
+        "pagyayabang"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang tawag sa matalino at maingat na paggamit ng mga likas na yaman?",
+      "options": [
+        "pag-iimpok",
+        "pagtitipid",
+        "pagkusa",
+        "katamaran"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Saan karaniwang inilalagay ng mga bata ang kanilang naimpok na barya sa bahay?",
+      "options": [
+        "sa basurahan",
+        "sa alkansya",
+        "sa ilalim ng pader",
+        "sa paaralan"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang nagpapakita ng pagtitipid sa kuryente?",
+      "options": [
+        "hayaang nakabukas ang bentilador kapag walang tao",
+        "patayin ang ilaw at bentilador kapag lalabas ng silid-aralan",
+        "isaksak ang telebisyon buong gabi",
+        "gamitin ang lamp kahit maliwanag ang araw"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Paano mo maiiwasan ang pagsasayang ng pagkain sa inyong hapag-kainan?",
+      "options": [
+        "kumuha ng napakaraming pagkain at magtira sa plato",
+        "kumuha lamang ng sapat na sukat at ubusin ang nasa plato",
+        "itapon ang kanin sa basurahan",
+        "huwag kumain kailanman"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang dapat gawin sa gripo habang nagsesepilyo ng ngipin sa banyo?",
+      "options": [
+        "hayaang nakabukas at tumutulo ang tubig",
+        "isara ang gripo at gumamit ng baso",
+        "sirain ang gripo",
+        "maglaro ng tubig sa gripo"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang nagpapakita ng pagtitipid sa mga gamit sa eskwela?",
+      "options": [
+        "punitin ang mga blankong papel sa notebook",
+        "gamitin ang lapis hanggang sa ito ay maging munti nang may pag-iingat",
+        "itapon ang krayola kapag nabali ang dulo",
+        "bumili ng bagong bag buwan-buwan"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Sino ang makikinabang kapag ang buong pamilya ay nagtutulungan sa pag-iimpok at pagtitipid?",
+      "options": [
+        "ang kapitan ng barangay lamang",
+        "ang buong pamilya at magulang",
+        "ang mga pulis sa outpost lamang",
+        "ang mga tindero sa palengke"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang angkop na gamitin sa paliligo upang makatipid sa tubig kumpara sa shower?",
+      "options": [
+        "tub ng paliguan",
+        "balde at tabo",
+        "gripo na walang tigil ang tulo",
+        "hose ng tubig"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "Tama o Mali: Ang pagtitipid ng kuryente sa pamamagitan ng pagpatay ng ilaw ay nakatutulong sa badyet ng pamilya.",
+      "options": [
+        "Tama",
+        "Mali"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang dapat gawin sa mga tirang pagkain na maaari pang kainin sa susunod na kainan?",
+      "options": [
+        "itapon sa trash bin agad",
+        "itabi nang maayos sa refrigerator upang maiinit muli",
+        "ipakain sa aso ng kapitbahay",
+        "iwanan sa mesa nang walang takip"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang pambalana sa pook kung saan tayo nag-iimpok ng pera sa komunidad?",
+      "options": [
+        "palengke",
+        "bangko o alkansya",
+        "aklatan",
+        "ospital"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Anong materyal sa kalikasan ang karaniwang ginagamit sa paggawa ng katutubong alkansya?",
+      "options": [
+        "plastik na tasa",
+        "kawayan o luwad",
+        "bakal na susi",
+        "semento"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Punan ang patlang: 'Ang bawat ___ ng naimpok na barya ay may halaga para sa hinaharap.'",
+      "options": [
+        "punit ng papel",
+        "piso o barya",
+        "tapon ng pagkain",
+        "patak ng luho"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang dapat mong gawin kapag nais mong bumili ng bagong laruan ngunit may laruan ka pa sa bahay?",
+      "options": [
+        "umiyak sa harap ng nanay upang ibili ka",
+        "magtiyaga sa lumang laruan at iimpok ang barya sa alkansya",
+        "sirain ang lumang laruan",
+        "manghingi ng pera sa kapitbahay"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Saan maaaring gamitin ang pinaghugasan ng bigas sa bahay upang makatipid sa tubig?",
+      "options": [
+        "itapon sa sahig ng kusina",
+        "ipangdilig sa mga halaman sa hardin",
+        "ipanghugas ng mukha",
+        "itapon sa basura"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "Tama o Mali: Ang pagbili ng mga mamahaling gamit na hindi kailangan sa paaralan ay bahagi ng pagtitipid.",
+      "options": [
+        "Tama",
+        "Mali"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Aling ugali ang ipinapakita ng batang nagsusulat sa likod ng mga lumang papel na malinis pa?",
+      "options": [
+        "katamaran",
+        "pagkamatipid at pagpapahalaga sa gamit",
+        "pagkatakot",
+        "pagyayabang"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang angkop na sabihin sa kapatid na hinayaang nakabukas ang TV kahit walang nanonood?",
+      "options": [
+        "'Hayaan mo lang yan para maingay.'",
+        "'Patayin natin ang telebisyon upang makatipid tayo sa kuryente.'",
+        "'Ilipat natin sa cartoon kahit matutulog na tayo.'",
+        "'Huwag mong hawakan ang TV.'"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang pangunahing benepisyo ng pag-iimpok para sa isang Grade 3 student?",
+      "options": [
+        "makabili ng pinakamataas na tatak ng sapatos",
+        "makabili ng sariling gamit sa eskwela sa pasukan nang hindi umaasa sa magulang",
+        "maging sikat sa klase",
+        "makabili ng computer agad"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang tamang kilos kapag nakita mong umaapaw ang tubig sa drum ng barangay?",
+      "options": [
+        "paglaruan ang tubig na umaapaw",
+        "isara ang gripo nang kusa upang hindi masayang ang tubig",
+        "huwag pansinin dahil hindi mo naman drum ito",
+        "isumbong sa bumbero agad"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Tukuyin ang pambalana sa bagay na nagbibigay-liwanag sa desk na ginagamitan ng kuryente:",
+      "options": [
+        "lapis",
+        "lamp o ilaw",
+        "papel",
+        "aklatan"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "Tama o Mali: Ang pagkusa sa pagpatay ng ilaw kapag umaalis sa silid ay nagpapakita ng disiplina sa sarili.",
+      "options": [
+        "Tama",
+        "Mali"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang nagpapakita ng tamang pagtitipid sa pagkain sa paaralan?",
+      "options": [
+        "magbaon ng napakaraming pagkain at itapon ang hindi naubos",
+        "magbaon ng sapat na pagkain at ubusin ito sa oras ng recess",
+        "bumili ng junk food sa labas ng gate",
+        "huwag kumain ng recess"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Saan dapat magsimula ang pagtuturo ng pagtitipid at pag-iimpok?",
+      "options": [
+        "sa banko lamang",
+        "sa loob ng tahanan kasama ang pamilya araw-araw",
+        "sa palengke lamang",
+        "kapag malaki na at nagtatrabaho na"
+      ],
+      "answer": 1
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "Challenge: Kung ang isang pamilya ay patuloy na nagsasayang ng kuryente at tubig, ano ang maaaring mangyari sa kanilang badyet?",
+      "options": [
+        "Lalaki ang kanilang babayarang bill na magdudulot ng kakulangan sa pera para sa pagkain at iba pang pangangailangan.",
+        "Mababawasan ang kanilang bayarin sa bangko.",
+        "Mas magiging masaya ang Mayor ng bayan.",
+        "Walang magiging epekto ito sa pamilya."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Paano nakatutulong ang pag-iimpok ng barya sa alkansya sa paghahanda para sa mga hindi inaasahang pangyayari (emergencies)?",
+      "options": [
+        "Ang naimpok na pera ay magagamit upang ibili ng gamot o kagamitan sa oras ng biglaang pangangailangan nang hindi nangungutang.",
+        "Ang pera ay mabubulok sa loob ng kawayan.",
+        "Hindi na kailangang magtrabaho ng mga magulang.",
+        "Maaaring ipamigay ang pera sa mga kalaro sa plaza."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Aling paraan ang pinakamahusay upang makatipid sa pagbili ng mga aklat sa paaralan kung may kapatid kang katatapos lang sa Grade 3?",
+      "options": [
+        "bumili ng bago at mamahaling aklat sa mall",
+        "gamitin at ingatan ang mga lumang aklat ng kapatid na maaari pang basahin",
+        "huwag nang mag-aklat kailanman sa klase",
+        "punitin ang mga aklat ng kapatid"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Bakit ang paggamit ng pinaghugasan ng bigas o gulay sa pagdidilig ng halaman ay itinuturing na matalinong pagtitipid?",
+      "options": [
+        "Dahil nakakatipid ito sa paggamit ng malinis na tubig mula sa gripo sa pamamagitan ng pag-recycle ng tubig.",
+        "Dahil mas gusto ng halaman ang tubig-bigas kaysa sa ulan.",
+        "Dahil mas madali itong gawin kaysa sa paglilinis ng pader.",
+        "Dahil binabayaran ng barangay ang pamilya sa pag-recycle."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Aling ugnayan ang pinakatumpak sa pagitan ng disiplina sa pag-iimpok at pagmamahal sa magulang?",
+      "options": [
+        "Ang matipid na bata ay nagpapagaan sa pinansyal na gastusin ng kanyang mga magulang na nagpapakita ng pagmamahal at pag-aalaga sa pamilya.",
+        "Walang ugnayan ang pagtitipid ng anak sa pagmamahal sa magulang.",
+        "Nag-iimpok ang bata upang bigyan ng laruan ang kanyang sarili lamang.",
+        "Nagtitipid ang bata upang hindi na siya pakainin ng magulang."
+      ],
+      "answer": 0
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Aking Plano ng Pagtitipid sa Bahay",
+    "desc": "Gumawa ng isang simpleng listahan o tsart ng pagtitipid sa inyong bahay. Isulat ang tatlong paraan kung paano mo titipirin ang tubig at kuryente sa inyong tahanan (hal. pagpatay ng ilaw kapag walang tao, paggamit ng baso sa pagse-sepilyo). Ipakita ang tsart na ito sa iyong magulang at talakayin kung paano ito makatutulong sa badyet ng pamilya.",
+    "labels": [
+      "Wastong natukoy ang tatlong paraan ng pagtitipid sa bahay",
+      "Maayos na naisulat at naiguhit ang tsart ng pagtitipid sa papel",
+      "Malinaw na naipaliwanag ang badyet at plano ng pagtitipid sa magulang"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 1: Pag-iimpok vs. Pagtitipid</h3>\n                  <p class=\"ws-instruction\">Tukuyin kung ang sitwasyon ay nagpapakita ng <strong>Pag-iimpok</strong> (saving money) o <strong>Pagtitipid</strong> (conserving resources) gamit ang stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Nagtabi ng limang piso si Matteo mula sa kanyang baon sa kanyang alkansya. <span class=\"fil-sentence\" data-translation=\"(Matteo put aside five pesos from his allowance in his piggy bank.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pag-iimpok</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Isinara ni Lani ang gripo habang sinasabon ang kanyang mga kamay. <span class=\"fil-sentence\" data-translation=\"(Lani turned off the faucet while soaping her hands.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pagtitipid</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Pinatay ni Kiko ang bentilador bago lumabas ng silid-aralan. <span class=\"fil-sentence\" data-translation=\"(Kiko turned off the fan before leaving the classroom.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pagtitipid</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 2: Matalinong Paggamit ng Yaman</h3>\n                  <p class=\"ws-instruction\">Isulat kung ang gawi sa bahay ay <strong>Matipid</strong> (karapat-dapat) o <strong>Matalak</strong> (dapat iwasan/sinasayang ang yaman).</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Paggamit ng pinaghugasan ng bigas sa pagdidilig ng halaman. <span class=\"fil-sentence\" data-translation=\"(Using rice wash water to water plants.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Matipid</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Hayaang nakasaksak ang TV kahit natutulog na ang lahat. <span class=\"fil-sentence\" data-translation=\"(Leaving the TV plugged in even when everyone is asleep.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Matalak</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Kumuha ng sapat na pagkain lamang at ubusin ang nasa plato. <span class=\"fil-sentence\" data-translation=\"(Taking only enough food and finishing what is on the plate.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Matipid</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 3: Pagpaplano ng Pag-iimpok</h3>\n                  <p class=\"ws-instruction\">Sagutin ang tanong gamit ang tumpak na detalye batay sa iyong sariling alkansya at aralin.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Bakit mahalagang mag-impok ng barya ang isang bata sa kanyang alkansya araw-araw? <span class=\"fil-sentence\" data-translation=\"(Why is it important for a child to save coins in a piggy bank daily?)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Upang may magamit na sariling pera sa oras ng pangangailangan o pambili ng gamit sa eskwela.</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Nakatutulong din ito upang matutong maging disiplinado at matipid sa paglipas ng panahon.</span></div>\n                  </div>\n                </div>"
+    ]
+  }
+}
