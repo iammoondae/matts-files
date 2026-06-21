@@ -258,269 +258,269 @@
   "standard": [
     {
       "type": "choice",
-      "q": "Aling pook ang sentro ng pamamalakad at pamamahala sa isang barangay?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which place is the center of administration and management in a barangay?\">Aling pook ang sentro ng pamamalakad at pamamahala sa isang barangay?</span>",
       "options": [
-        "paaralan",
+        "<span class=\"fil-sentence\" data-translation=\"school\">paaralan</span>",
         "barangay hall",
-        "palengke",
-        "monumento"
+        "<span class=\"fil-sentence\" data-translation=\"market\">palengke</span>",
+        "<span class=\"fil-sentence\" data-translation=\"monument\">monumento</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Saan pumupunta ang mga pamilya upang pabakunahan ang kanilang mga sanggol nang libre?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Where do families go to get their babies vaccinated for free?\">Saan pumupunta ang mga pamilya upang pabakunahan ang kanilang mga sanggol nang libre?</span>",
       "options": [
-        "palengke",
+        "<span class=\"fil-sentence\" data-translation=\"market\">palengke</span>",
         "health center",
-        "munisipyo",
+        "<span class=\"fil-sentence\" data-translation=\"municipality\">munisipyo</span>",
         "plaza"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Anong pook ang nagsisilbing tahanan ng karunungan kung saan nagtuturo ang guro?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What place serves as the home of wisdom where the teacher teaches?\">Anong pook ang nagsisilbing tahanan ng karunungan kung saan nagtuturo ang guro?</span>",
       "options": [
-        "simbahan",
-        "palengke",
-        "paaralan",
+        "<span class=\"fil-sentence\" data-translation=\"church\">simbahan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"market\">palengke</span>",
+        "<span class=\"fil-sentence\" data-translation=\"school\">paaralan</span>",
         "outpost"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang pook-pagsamba ng mga Muslim?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is a place of worship for Muslims?\">Alin sa mga sumusunod ang pook-pagsamba ng mga Muslim?</span>",
       "options": [
-        "simbahan",
-        "kapilya",
-        "moske",
+        "<span class=\"fil-sentence\" data-translation=\"church\">simbahan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"chapel\">kapilya</span>",
+        "<span class=\"fil-sentence\" data-translation=\"mosque\">moske</span>",
         "plaza"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Saan pumupunta ang mga tao upang bumili ng sariwang gulay at isda sa umaga?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Where do people go to buy fresh vegetables and fish in the morning?\">Saan pumupunta ang mga tao upang bumili ng sariwang gulay at isda sa umaga?</span>",
       "options": [
-        "paaralan",
-        "palengke",
+        "<span class=\"fil-sentence\" data-translation=\"school\">paaralan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"market\">palengke</span>",
         "barangay hall",
-        "monumento"
+        "<span class=\"fil-sentence\" data-translation=\"monument\">monumento</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Anong malawak at bukas na pook sa bayan ang ginagamit para sa paglalaro at pista?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What wide open area in the town is used for games and festivals?\">Anong malawak at bukas na pook sa bayan ang ginagamit para sa paglalaro at pista?</span>",
       "options": [
         "health center",
         "police outpost",
-        "plaza o parke",
-        "aklatan"
+        "<span class=\"fil-sentence\" data-translation=\"plaza or park\">plaza o parke</span>",
+        "<span class=\"fil-sentence\" data-translation=\"library\">aklatan</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Sino ang pinuno ng pamahalaan na naglilingkod sa loob ng munisipyo ng bayan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Who is the head of the government that serves within the municipality of the town?\">Sino ang pinuno ng pamahalaan na naglilingkod sa loob ng munisipyo ng bayan?</span>",
       "options": [
-        "Barangay Kapitan",
-        "Alkalde o Mayor",
-        "Pulis",
-        "Doktor"
+        "<span class=\"fil-sentence\" data-translation=\"Barangay Captain\">Barangay Kapitan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Alcalde or Mayor\">Alkalde o Mayor</span>",
+        "<span class=\"fil-sentence\" data-translation=\"police\">Pulis</span>",
+        "<span class=\"fil-sentence\" data-translation=\"doctor\">Doktor</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang pook na nagpapanatili ng seguridad at kapayapaan sa kalsada?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is a place that maintains safety and peace on the road?\">Alin sa mga sumusunod ang pook na nagpapanatili ng seguridad at kapayapaan sa kalsada?</span>",
       "options": [
-        "palengke",
-        "police outpost o tanod outpost",
-        "aklatan",
-        "simbahan"
+        "<span class=\"fil-sentence\" data-translation=\"market\">palengke</span>",
+        "<span class=\"fil-sentence\" data-translation=\"police outpost or guard outpost\">police outpost o tanod outpost</span>",
+        "<span class=\"fil-sentence\" data-translation=\"library\">aklatan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"church\">simbahan</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang isinasagisag ng simbolo ng gear o makina sa selyo ng munisipyo?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What does the gear or machine symbol on the municipal seal represent?\">Ano ang isinasagisag ng simbolo ng gear o makina sa selyo ng munisipyo?</span>",
       "options": [
-        "pagsasaka",
-        "industriya o mga pabrika sa bayan",
-        "pangingisda sa lawa",
-        "pananalangin"
+        "<span class=\"fil-sentence\" data-translation=\"farming\">pagsasaka</span>",
+        "<span class=\"fil-sentence\" data-translation=\"industry or factories in town\">industriya o mga pabrika sa bayan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"lake fishing\">pangingisda sa lawa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"prayer\">pananalangin</span>"
       ],
       "answer": 1
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang health center ay nagbibigay ng mga libreng gamot para sa mamamayan.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: The health center provides free medicines for the citizens.\">Tama o Mali: Ang health center ay nagbibigay ng mga libreng gamot para sa mamamayan.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang isang makasaysayang pook na matatagpuan sa Calamba, Laguna?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is a historical site located in Calamba, Laguna?\">Alin sa mga sumusunod ang isang makasaysayang pook na matatagpuan sa Calamba, Laguna?</span>",
       "options": [
         "SM City Calamba",
-        "Bahay ni Dr. Jose Rizal",
+        "<span class=\"fil-sentence\" data-translation=\"House of Dr. Jose Rizal\">Bahay ni Dr. Jose Rizal</span>",
         "Enchanted Kingdom",
-        "Ospital ng Laguna"
+        "<span class=\"fil-sentence\" data-translation=\"Laguna Hospital\">Ospital ng Laguna</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Sino ang nagtatrabaho sa paaralan upang gabayan ang mga mag-aaral sa Grade 3?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Who works in the school to guide students in Grade 3?\">Sino ang nagtatrabaho sa paaralan upang gabayan ang mga mag-aaral sa Grade 3?</span>",
       "options": [
-        "Kagawad",
-        "Guro",
+        "<span class=\"fil-sentence\" data-translation=\"Member\">Kagawad</span>",
+        "<span class=\"fil-sentence\" data-translation=\"teacher\">Guro</span>",
         "Barangay Tanod",
-        "Tindero"
+        "<span class=\"fil-sentence\" data-translation=\"salesman\">Tindero</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Anong simbolo sa logo ang nagpapakita ng kabuhayan sa pangingisda?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What symbol in the logo represents a fishing livelihood?\">Anong simbolo sa logo ang nagpapakita ng kabuhayan sa pangingisda?</span>",
       "options": [
-        "guhit ng palay",
-        "guhit ng isda at lambat",
-        "guhit ng bundok",
-        "guhit ng semento"
+        "<span class=\"fil-sentence\" data-translation=\"strip of rice\">guhit ng palay</span>",
+        "<span class=\"fil-sentence\" data-translation=\"drawing fish and nets\">guhit ng isda at lambat</span>",
+        "<span class=\"fil-sentence\" data-translation=\"mountain line\">guhit ng bundok</span>",
+        "<span class=\"fil-sentence\" data-translation=\"cement line\">guhit ng semento</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang tungkulin ng mga pulis at barangay tanod?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the duty of the police and barangay tanod?\">Alin sa mga sumusunod ang tungkulin ng mga pulis at barangay tanod?</span>",
       "options": [
-        "magturo ng pagbasa",
-        "magbenta ng gulay",
-        "panatilihin ang seguridad at kapayapaan",
-        "magbakuna ng sanggol"
+        "<span class=\"fil-sentence\" data-translation=\"teach reading\">magturo ng pagbasa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"sell vegetables\">magbenta ng gulay</span>",
+        "<span class=\"fil-sentence\" data-translation=\"maintain security and peace\">panatilihin ang seguridad at kapayapaan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"vaccinate the baby\">magbakuna ng sanggol</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Ano ang pangunahing layunin ng pagtatayo ng barangay hall?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the main purpose of building a barangay hall?\">Ano ang pangunahing layunin ng pagtatayo ng barangay hall?</span>",
       "options": [
-        "magbenta ng laruan",
-        "magbigay ng serbisyo at pamahalaan ang barangay",
-        "magsilbing palaruan",
-        "mag-alaga ng may-sakit"
+        "<span class=\"fil-sentence\" data-translation=\"sell toys\">magbenta ng laruan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"provide service and manage the barangay\">magbigay ng serbisyo at pamahalaan ang barangay</span>",
+        "<span class=\"fil-sentence\" data-translation=\"serve as a playground\">magsilbing palaruan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"take care of the sick\">mag-alaga ng may-sakit</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Saan matatagpuan ang opisina ng Mayor o Alkalde ng lungsod?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Where is the office of the Mayor of the city located?\">Saan matatagpuan ang opisina ng Mayor o Alkalde ng lungsod?</span>",
       "options": [
         "barangay hall",
-        "munisipyo o kapitolyo",
+        "<span class=\"fil-sentence\" data-translation=\"municipality or capitol\">munisipyo o kapitolyo</span>",
         "health center",
-        "simbahan"
+        "<span class=\"fil-sentence\" data-translation=\"church\">simbahan</span>"
       ],
       "answer": 1
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang simbahan o moske ay pook para sa maingay na paglalaro ng soccer.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: A church or mosque is a place for loud soccer games.\">Tama o Mali: Ang simbahan o moske ay pook para sa maingay na paglalaro ng soccer.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Aling likas na yaman ang makukuha natin sa lawa ng Laguna de Bay?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which natural resource can we get from Laguna de Bay lake?\">Aling likas na yaman ang makukuha natin sa lawa ng Laguna de Bay?</span>",
       "options": [
-        "ginto at pilak",
-        "sariwang isda",
-        "gulong ng makina",
-        "bakal na susi"
+        "<span class=\"fil-sentence\" data-translation=\"gold and silver\">ginto at pilak</span>",
+        "<span class=\"fil-sentence\" data-translation=\"fresh fish\">sariwang isda</span>",
+        "<span class=\"fil-sentence\" data-translation=\"machine wheel\">gulong ng makina</span>",
+        "<span class=\"fil-sentence\" data-translation=\"iron key\">bakal na susi</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang dapat gawin ng mga mamamayan sa mga monumento ng mga bayani sa plaza?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What should citizens do with the heroes&#x27; monuments in the square?\">Ano ang dapat gawin ng mga mamamayan sa mga monumento ng mga bayani sa plaza?</span>",
       "options": [
-        "sulatan at sirain ito",
-        "igalang at panatilihing malinis ito",
-        "ipaubaya sa ulan na lamang",
-        "itapon sa basura"
+        "<span class=\"fil-sentence\" data-translation=\"write and destroy it\">sulatan at sirain ito</span>",
+        "<span class=\"fil-sentence\" data-translation=\"respect and keep it clean\">igalang at panatilihing malinis ito</span>",
+        "<span class=\"fil-sentence\" data-translation=\"leave it to the rain\">ipaubaya sa ulan na lamang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"throw in the trash\">itapon sa basura</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang ibig sabihin ng asul na kulay sa selyo ng isang bayan na malapit sa ilog?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What does the color blue on the seal of a town near a river mean?\">Ano ang ibig sabihin ng asul na kulay sa selyo ng isang bayan na malapit sa ilog?</span>",
       "options": [
-        "mayaman sa kagubatan",
-        "mayaman sa agrikultura",
-        "mayaman sa yamang-tubig o ilog",
-        "maraming pabrika doon"
+        "<span class=\"fil-sentence\" data-translation=\"rich in forests\">mayaman sa kagubatan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"rich in agriculture\">mayaman sa agrikultura</span>",
+        "<span class=\"fil-sentence\" data-translation=\"rich in water resources or rivers\">mayaman sa yamang-tubig o ilog</span>",
+        "<span class=\"fil-sentence\" data-translation=\"there are many factories there\">maraming pabrika doon</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Saan pumupunta ang mga guro at mag-aaral upang magbasa ng maraming aklat sa paaralan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Where do teachers and students go to read a lot of books at school?\">Saan pumupunta ang mga guro at mag-aaral upang magbasa ng maraming aklat sa paaralan?</span>",
       "options": [
-        "palikuran",
-        "aklatan",
-        "opisina ng principal",
-        "kantina"
+        "<span class=\"fil-sentence\" data-translation=\"toilet\">palikuran</span>",
+        "<span class=\"fil-sentence\" data-translation=\"library\">aklatan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"principal&#x27;s office\">opisina ng principal</span>",
+        "<span class=\"fil-sentence\" data-translation=\"canteen\">kantina</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Sino ang namumuno sa pananalangin sa loob ng isang moske?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Who leads prayer inside a mosque?\">Sino ang namumuno sa pananalangin sa loob ng isang moske?</span>",
       "options": [
-        "Pari",
+        "<span class=\"fil-sentence\" data-translation=\"priest\">Pari</span>",
         "Pastor",
         "Imam",
-        "Kagawad"
+        "<span class=\"fil-sentence\" data-translation=\"Member\">Kagawad</span>"
       ],
       "answer": 2
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang munisipyo ay mas maliit kaysa sa barangay hall ng komunidad.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: The municipality is smaller than the barangay community hall.\">Tama o Mali: Ang munisipyo ay mas maliit kaysa sa barangay hall ng komunidad.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang pook kung saan tayo maaaring makabili ng mga delata sa tapat ng bahay?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is a place where we can buy canned goods opposite the house?\">Alin sa mga sumusunod ang pook kung saan tayo maaaring makabili ng mga delata sa tapat ng bahay?</span>",
       "options": [
-        "munisipyo",
-        "sari-sari store o tindahan sa barangay",
-        "ospital",
-        "monumento"
+        "<span class=\"fil-sentence\" data-translation=\"municipality\">munisipyo</span>",
+        "<span class=\"fil-sentence\" data-translation=\"various stores or shops in the barangay\">sari-sari store o tindahan sa barangay</span>",
+        "<span class=\"fil-sentence\" data-translation=\"hospital\">ospital</span>",
+        "<span class=\"fil-sentence\" data-translation=\"monument\">monumento</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Anong katangian ng solid ang ginagamit sa paggawa ng monumento ng bayani?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What type of solid is used to make the hero&#x27;s monument?\">Anong katangian ng solid ang ginagamit sa paggawa ng monumento ng bayani?</span>",
       "options": [
-        "malambot na clay",
-        "matigas na bato o bronze na metal",
-        "magaan na papel",
+        "<span class=\"fil-sentence\" data-translation=\"soft clay\">malambot na clay</span>",
+        "<span class=\"fil-sentence\" data-translation=\"hard stone or bronze metal\">matigas na bato o bronze na metal</span>",
+        "<span class=\"fil-sentence\" data-translation=\"light paper\">magaan na papel</span>",
         "stickers"
       ],
       "answer": 1
@@ -529,56 +529,56 @@
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge: Kung ang isang komunidad ay walang health center, ano ang maaaring maging epekto nito sa mga mamamayan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: If a community does not have a health center, what could be the effect on the citizens?\">Challenge: Kung ang isang komunidad ay walang health center, ano ang maaaring maging epekto nito sa mga mamamayan?</span>",
       "options": [
-        "Hindi makapag-aaral ang mga bata ng science.",
-        "Mahihirapan ang mga tao na makakuha ng agarang libreng bakuna at gamot.",
-        "Walang magbabantay sa trapiko sa gabi.",
-        "Hindi makapamimili ng gulay ang mga nanay."
+        "<span class=\"fil-sentence\" data-translation=\"Children cannot learn science.\">Hindi makapag-aaral ang mga bata ng science.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"People will find it difficult to get immediate free vaccines and medicine.\">Mahihirapan ang mga tao na makakuha ng agarang libreng bakuna at gamot.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"No one will watch the traffic at night.\">Walang magbabantay sa trapiko sa gabi.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Mothers can&#x27;t buy vegetables.\">Hindi makapamimili ng gulay ang mga nanay.</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Challenge: Paano nagtutulungan ang barangay hall at munisipyo sa pamamahala ng pook?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: How do the barangay hall and municipality work together in the management of the area?\">Challenge: Paano nagtutulungan ang barangay hall at munisipyo sa pamamahala ng pook?</span>",
       "options": [
-        "Ang barangay hall ang nagbibigay ng ulat at serbisyo sa maliit na pook, habang ang munisipyo ang nagpapatupad ng mas malalaking programa sa bayan.",
-        "Walang ugnayan ang dalawang pook na ito.",
-        "Ang munisipyo ay sumusunod sa mga kagawad ng barangay lamang.",
-        "Ang barangay hall ang nagpapasweldo sa Mayor."
+        "<span class=\"fil-sentence\" data-translation=\"The barangay hall provides reports and services to the small area, while the municipality implements larger programs in the town.\">Ang barangay hall ang nagbibigay ng ulat at serbisyo sa maliit na pook, habang ang munisipyo ang nagpapatupad ng mas malalaking programa sa bayan.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"These two places are not related.\">Walang ugnayan ang dalawang pook na ito.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"The municipality follows the barangay councilors only.\">Ang munisipyo ay sumusunod sa mga kagawad ng barangay lamang.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"The barangay hall pays the Mayor.\">Ang barangay hall ang nagpapasweldo sa Mayor.</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge: Aling pook ang pinaka-angkop na bisitahin ng mga mag-aaral upang makakuha ng primaryang batayan (mga sulat-kamay) ng kasaysayan ng ating bayani?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Which place would be most suitable for students to visit to obtain primary sources (manuscripts) of our hero&#x27;s history?\">Challenge: Aling pook ang pinaka-angkop na bisitahin ng mga mag-aaral upang makakuha ng primaryang batayan (mga sulat-kamay) ng kasaysayan ng ating bayani?</span>",
       "options": [
         "SM City Calamba mall",
-        "Bahay-Monumento ni Dr. Jose Rizal sa Calamba",
+        "<span class=\"fil-sentence\" data-translation=\"House-Monument of Dr. Jose Rizal in Calamba\">Bahay-Monumento ni Dr. Jose Rizal sa Calamba</span>",
         "Laguna Hospital",
-        "isang sari-sari store"
+        "<span class=\"fil-sentence\" data-translation=\"a variety store\">isang sari-sari store</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Challenge: Bakit mahalagang ilagay ang simbolo ng palay at isda sa logo ng lalawigan ng Laguna?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Why is it important to put the symbol of rice and fish in the logo of the province of Laguna?\">Challenge: Bakit mahalagang ilagay ang simbolo ng palay at isda sa logo ng lalawigan ng Laguna?</span>",
       "options": [
-        "Dahil ito ang paboritong pagkain ng Mayor lamang.",
-        "Dahil ang Laguna ay may malawak na bukirin ng palay at malapit sa lawa ng Laguna de Bay.",
-        "Dahil walang ibang hayop o halaman sa lalawigan.",
-        "Dahil ito ay palamuti lamang sa selyo ng gobernador."
+        "<span class=\"fil-sentence\" data-translation=\"Because this is the Mayor&#x27;s favorite food only.\">Dahil ito ang paboritong pagkain ng Mayor lamang.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Because Laguna has vast rice fields and is close to Laguna de Bay lake.\">Dahil ang Laguna ay may malawak na bukirin ng palay at malapit sa lawa ng Laguna de Bay.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Because there are no other animals or plants in the province.\">Dahil walang ibang hayop o halaman sa lalawigan.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Because it is just an ornament on the seal of the governor.\">Dahil ito ay palamuti lamang sa selyo ng gobernador.</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Challenge: Kung may gulo o away sa inyong kapitbahayan sa gabi, aling pook ang pinakamabilis na lapitan ng tulong?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: If there is trouble or a fight in your neighborhood at night, which place is the fastest to get help?\">Challenge: Kung may gulo o away sa inyong kapitbahayan sa gabi, aling pook ang pinakamabilis na lapitan ng tulong?</span>",
       "options": [
-        "aklatan ng paaralan",
-        "barangay tanod outpost o police outpost",
+        "<span class=\"fil-sentence\" data-translation=\"school library\">aklatan ng paaralan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"barangay tanod outpost or police outpost\">barangay tanod outpost o police outpost</span>",
         "health center",
-        "palengke ng bayan"
+        "<span class=\"fil-sentence\" data-translation=\"town market\">palengke ng bayan</span>"
       ],
       "answer": 1
     }

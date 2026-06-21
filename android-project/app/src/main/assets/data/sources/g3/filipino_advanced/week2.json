@@ -1,0 +1,703 @@
+{
+  "color": "#ec4899",
+  "icon": "🗣️",
+  "title": "Filipino",
+  "subtitle": "Week 2: Pangngalan sa Tao, Bagay, Hayop, at Pangyayari [Advanced]",
+  "slides": [
+    {
+      "title": "Maligayang Pagdating sa Week 2! (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"How are you, student? Welcome to the second week!\">Kumusta ka, mag-aaral? Welcome sa ikalawang linggo!</span> <span class=\"fil-sentence\" data-translation=\"This week, we will expand our language knowledge.\n\">Ngayong linggo, palalawakin natin ang ating kaalaman.\n</span> <span class=\"fil-sentence\" data-translation=\"We will study other categories of nouns.\n\">Pag-aaralan natin ang iba pang kategorya ng pangngalan.\n</span> <span class=\"fil-sentence\" data-translation=\"These are names of people, things, animals, and events.\n\">Ito ang ngalan ng tao, bagay, hayop, at pangyayari.\n</span> <span class=\"fil-sentence\" data-translation=\"Let's identify the common and proper noun in each.\n\">Tukuyin natin ang pambalana at pantangi sa bawat isa.",
+      "examples": [
+        {
+          "title": "Layunin",
+          "content": "Matukoy ang pambalana at pantangi sa tao, bagay, hayop, at pangyayari."
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Ngalan ng Tao sa Balarila (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"People play different roles in our daily lives.\n\">Ang tao ay may iba't ibang papel sa ating buhay.\n</span> <span class=\"fil-sentence\" data-translation=\"The general term we use for them is a common noun.\n\">Ang pangkalahatang tawag sa kanila ay pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"Examples: teacher, doctor, hero, police, and mother.\n\">Halimbawa: guro, doktor, bayani, pulis, at nanay.\n</span> <span class=\"fil-sentence\" data-translation=\"These words start with a lowercase letter in writing.\n\">Ang mga salitang ito ay nagsisimula sa maliit na titik.",
+      "examples": [
+        {
+          "title": "Tao",
+          "content": "guro (teacher - pambalana), Dr. Jose Rizal (proper)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Ngalan ng Bagay sa Balarila (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Things are non-living objects that we use daily.\n\">Ang bagay ay mga walang-buhay na gamit natin.\n</span> <span class=\"fil-sentence\" data-translation=\"The general term for objects is a common noun.\n\">Ang pangkalahatang tawag sa bagay ay pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"Examples: shoes, milk, car, paper, and pencil.\n\">Halimbawa: sapatos, gatas, kotse, papel, at lapis.\n</span> <span class=\"fil-sentence\" data-translation=\"We write these common objects in lowercase letters.\n\">Isinusulat natin ang mga ito sa maliit na titik.",
+      "examples": [
+        {
+          "title": "Bagay",
+          "content": "gatas (milk - pambalana), Bear Brand (proper)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Ngalan ng Hayop sa Balarila (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Animals are living creatures that live with us.\n\">Ang mga hayop ay may buhay ring kasama natin.\n</span> <span class=\"fil-sentence\" data-translation=\"The general name of an animal is a common noun.\n\">Ang pangkalahatang tawag sa hayop ay pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"Examples: dog, cat, bird, carabao, and fish.\n\">Halimbawa: aso, pusa, ibon, kalabaw, at isda.\n</span> <span class=\"fil-sentence\" data-translation=\"These are written using lowercase letters in sentences.\n\">Ang mga ito ay isinusulat sa maliit na titik.",
+      "examples": [
+        {
+          "title": "Hayop",
+          "content": "aso (dog - pambalana), Bantay (proper)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Ngalan ng Pangyayari (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Events are occasions that we experience or celebrate.\n\">Ang pangyayari ay mga okasyon na ating dinaranas.\n</span> <span class=\"fil-sentence\" data-translation=\"The general term for an occasion is a common noun.\n\">Ang pangkalahatang tawag sa okasyon ay pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"Examples: birthday, wedding, baptism, and festival.\n\">Halimbawa: kaarawan, kasal, binyag, at pista.\n</span> <span class=\"fil-sentence\" data-translation=\"But the specific name of a holiday is proper.\n\">Ngunit ang tiyak na pagdiriwang ay pantangi.",
+      "examples": [
+        {
+          "title": "Pangyayari",
+          "content": "pista (festival - pambalana), Pasko (proper)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Tao: Pangkalahatan at Tiyak (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's practice identifying names of people.\n\">Mag-ehersisyo tayo sa pagkilala ng ngalan ng tao.\n</span> <span class=\"fil-sentence\" data-translation=\"Read: 'Mrs.\nSantos is a kind teacher.\n'\">Basahin: 'Si Gng.\nSantos ay isang mabait na guro.\n'</span> <span class=\"fil-sentence\" data-translation=\"The word 'teacher' here is common because it's a role.\n\">Ang 'guro' dito ay pambalana dahil ito ay tungkulin.",
+      "examples": [
+        {
+          "title": "Tao Pagsasanay",
+          "content": "guro (pambalana) -> Gng. Santos (pantangi)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Bagay: Tiyak na Tatak (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's look at the shoes you are wearing today.\n\">Tingnan natin ang mga sapatos na suot mo ngayon.\n</span> <span class=\"fil-sentence\" data-translation=\"The word 'shoes' is a common noun of thing.\n\">Ang salitang 'sapatos' ay isang pangngalang pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"If the shoes are brand Nike, how do we write it?\">Kung ang sapatos ay tatak Nike, paano ito isusulat?</span> <span class=\"fil-sentence\" data-translation=\"We will write it as 'Nike' using a capital N.\n\">Isusulat natin ito na 'Nike' gamit ang malaking N.\n</span> <span class=\"fil-sentence\" data-translation=\"We will not write the brand name in lowercase.\n\">Hindi natin isusulat ang brand sa maliit na titik.",
+      "examples": [
+        {
+          "title": "Bagay Pagsasanay",
+          "content": "sapatos (pambalana) -> Nike (pantangi)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Hayop: Pangalan ng Alaga (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Do you have a favorite dog or cat at home?\">Mayroon ka bang paboritong aso o pusa sa bahay?</span> <span class=\"fil-sentence\" data-translation=\"The words 'dog' and 'cat' are common nouns only.\n\">Ang salitang 'aso' at 'pusa' ay mga pambalana lamang.\n</span> <span class=\"fil-sentence\" data-translation=\"But if you name your dog 'Bantay',\">Ngunit kung tinawag mo ang iyong aso na 'Bantay',</span> <span class=\"fil-sentence\" data-translation=\"the name 'Bantay' becomes a proper noun in language.\n\">ang 'Bantay' ay magiging pangngalang pantangi sa wika.\n</span> <span class=\"fil-sentence\" data-translation=\"It must be written with a capital first letter B.\n\">Dapat itong isulat na malaki ang unang titik na B.\n</span> <span class=\"fil-sentence\" data-translation=\"Example: 'Bantay is happy while eating his food.\n'\">Halimbawa: 'Masaya si Bantay habang kumakain ng pagkain.",
+      "examples": [
+        {
+          "title": "Hayop Pagsasanay",
+          "content": "pusa (pambalana) -> Muning (pantangi)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Pangyayari: Mga Pagdiriwang (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Every year is full of happy occasions for us.\n\">Ang bawat taon ay puno ng masasayang okasyon.\n</span> <span class=\"fil-sentence\" data-translation=\"The word 'birthday' is common in our language.\n\">Ang 'kaarawan' ay pambalana sa ating wika.\n</span> <span class=\"fil-sentence\" data-translation=\"Millions of people celebrate their birthdays daily.\n\">Milyun-milyong tao ang nagdiriwang ng kaarawan.\n</span> <span class=\"fil-sentence\" data-translation=\"But 'Christmas' is a specific occasion in December.\n\">Ngunit ang 'Pasko' ay tiyak na okasyon sa Disyembre.",
+      "examples": [
+        {
+          "title": "Pangyayari Pagsasanay",
+          "content": "kasal (wedding - pambalana), Pasko (proper)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Tao (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's examine the people around us today.\n\">Suriin natin ang mga tao sa ating paligid ngayon.\n</span> <span class=\"fil-sentence\" data-translation=\"Who is teaching us inside our classroom?\">Sino ang nagtuturo sa atin sa silid-aralan?</span> <span class=\"fil-sentence\" data-translation=\"She is our 'teacher' which is a common noun.\n\">Siya ay ang ating 'guro' na isang pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"If her name is Mrs.\nCruz, how do we write it?\">Kung ang pangalan niya ay Gng.\nCruz, paano isusulat?</span> <span class=\"fil-sentence\" data-translation=\"We will write it as 'Mrs.\nCruz' with capital letters.",
+      "examples": [
+        {
+          "title": "Guro",
+          "content": "guro (pambalana) -> Gng. Cruz (pantangi)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Bagay (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Hold your pencil that you are using to write.\n\">Hawakan mo ang iyong lapis na ginagamit sa pagsulat.\n</span> <span class=\"fil-sentence\" data-translation=\"The word 'pencil' is a general thing or common noun.\n\">Ang salitang 'lapis' ay pangkalahatang bagay o pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"What is the brand of your pencil written on it?\">Ano ang tatak ng iyong lapis na nakasulat dito?</span> <span class=\"fil-sentence\" data-translation=\"Perhaps it is 'Mongol' which is a proper noun.\n\">Maaaring ito ay 'Mongol' na isang pangngalang pantangi.\n</span> <span class=\"fil-sentence\" data-translation=\"We need to start Mongol with a capital letter M.\n\">Kailangan nating simulan ang Mongol sa malaking titik M.",
+      "examples": [
+        {
+          "title": "Lapis",
+          "content": "lapis (pambalana) -> Mongol (pantangi)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Hayop (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the dog barking on the street.\n\">Suriin natin ang aso na tumatahol sa kalsada.\n</span> <span class=\"fil-sentence\" data-translation=\"The word 'dog' is the general name of this animal.\n\">Ang 'aso' ay pangkalahatang tawag sa hayop na ito.\n</span> <span class=\"fil-sentence\" data-translation=\"Therefore, the word dog is a common noun.\n\">Kaya ang aso ay isang pangngalang pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"If the dog of Matteo is named 'Tagpi',\">Kung ang aso ni Matteo ay pinangalanang 'Tagpi',</span> <span class=\"fil-sentence\" data-translation=\"the word 'Tagpi' is proper with a capital T.\n\">ang salitang 'Tagpi' ay pantangi na may malaking T.",
+      "examples": [
+        {
+          "title": "Aso",
+          "content": "aso (pambalana) -> Tagpi (pantangi)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Pangyayari (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's think of the Christmas occasion in December.\n\">Isipin natin ang okasyon ng Pasko sa Disyembre.\n</span> <span class=\"fil-sentence\" data-translation=\"The word 'Christmas' is a specific event or holiday.\n\">Ang salitang 'Pasko' ay tiyak na pangyayari o okasyon.\n</span> <span class=\"fil-sentence\" data-translation=\"So it is a proper noun in the Filipino language.\n\">Kaya ito ay isang pangngalang pantangi sa Filipino.\n</span> <span class=\"fil-sentence\" data-translation=\"How do we write the word Christmas on paper?\">Paano natin isusulat ang salitang Pasko sa papel?</span> <span class=\"fil-sentence\" data-translation=\"We will write it as 'Pasko' with a capital letter P.\n\">Isusulat natin ito na 'Pasko' na may malaking titik P.",
+      "examples": [
+        {
+          "title": "Pasko",
+          "content": "pagdiriwang (pambalana) -> Pasko (pantangi)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Pagwawasto sa Pangungusap (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the letters in this sentence.\n\">Suriin natin ang mga titik sa pangungusap na ito.\n</span> <span class=\"fil-sentence\" data-translation=\"Wrong: 'Bumili si matteo ng sapatos na nike.\n' (lowercase names)\">Mali: 'Bumili si matteo ng sapatos na nike.\n'</span> <span class=\"fil-sentence\" data-translation=\"Why is the writing of this sentence incorrect?\">Bakit mali ang pagsulat ng pangungusap na ito?</span> <span class=\"fil-sentence\" data-translation=\"Because 'matteo' and 'nike' are proper nouns.\n\">Dahil ang 'matteo' at 'nike' ay mga pantangi.\n</span> <span class=\"fil-sentence\" data-translation=\"They should begin with capital letters M and N.\n\">Dapat silang magsimula sa malaking titik M at N.",
+      "examples": [
+        {
+          "title": "Pagwawasto",
+          "content": "matteo -> Matteo, nike -> Nike"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Maling Pagsulat ng Hayop (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid writing the specific name of pets in lowercase.\n\">Iwasan ang pagsusulat ng pangalan ng hayop sa maliit.\n</span> <span class=\"fil-sentence\" data-translation=\"Wrong: 'Naglalaro ang pusa kong si muning sa bahay.\n' (muning lowercase)\">Mali: 'Naglalaro ang pusa kong si muning sa bahay.\n'</span> <span class=\"fil-sentence\" data-translation=\"Because 'muning' is the specific name of your cat.\n\">Dahil ang 'muning' ay tiyak na ngalan ng iyong pusa.\n</span> <span class=\"fil-sentence\" data-translation=\"It must be written as 'Muning' with a capital M.\n\">Dapat itong isulat na 'Muning' na may malaking M.",
+      "examples": [
+        {
+          "title": "Hayop Pagsusuri",
+          "content": "muning -> Muning, pusa -> pusa"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Maling Pagsulat ng Bagay (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Do not capitalize the first letter of general objects.\n\">Huwag lakihan ang unang titik ng pangkalahatang bagay.\n</span> <span class=\"fil-sentence\" data-translation=\"Wrong: 'Kumuha ako ng Lapis sa aking bag kanina.\n' (Lapis capitalized)\">Mali: 'Kumuha ako ng Lapis sa aking bag kanina.\n'</span> <span class=\"fil-sentence\" data-translation=\"The word 'lapis' is just a general common noun.\n\">Ang 'lapis' ay pangkalahatang pambalana lamang sa wika.\n</span> <span class=\"fil-sentence\" data-translation=\"So it should be written with a lowercase letter l.\n\">Kaya dapat itong isulat sa maliit na titik l.",
+      "examples": [
+        {
+          "title": "Bagay Pagsusuri",
+          "content": "Lapis -> lapis, Bag -> bag"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Kategorya ng Tao: Mga Tungkulin (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The professional roles of people are common nouns.\n\">Ang mga tungkulin ng tao ay mga pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"Examples: engineer, nurse, firefighter, and soldier.\n\">Halimbawa: inhinyero, nars, bumbero, at sundalo.\n</span> <span class=\"fil-sentence\" data-translation=\"We write these roles using lowercase letters.\n\">Isinusulat natin ang mga ito sa maliit na titik.\n</span> <span class=\"fil-sentence\" data-translation=\"But the specific name of a soldier is proper.\n\">Ngunit ang tiyak na ngalan ng sundalo ay pantangi.",
+      "examples": [
+        {
+          "title": "Tungkulin",
+          "content": "sundalo (pambalana) -> Sgt. Ramos (pantangi)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Kategorya ng Bagay: Mga Laruan (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Toys belong to the category of thing names.\n\">Ang mga laruan ay kabilang sa ngalan ng bagay.\n</span> <span class=\"fil-sentence\" data-translation=\"The words 'toy' and 'doll' are common nouns.\n\">Ang 'laruan' at 'manika' ay mga pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"Many toys can be found in a child's playroom.\n\">Maraming laruan ang makikita sa silid ng bata.\n</span> <span class=\"fil-sentence\" data-translation=\"But the specific brand of the toy is proper.\n\">Ngunit ang tiyak na tatak ng laruan ay pantangi.",
+      "examples": [
+        {
+          "title": "Laruan",
+          "content": "manika (doll - pambalana), Barbie (proper)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Kategorya ng Hayop: Mga Ibon (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Birds are animals that fly through the air.\n\">Ang mga ibon ay mga hayop na lumilipad sa hangin.\n</span> <span class=\"fil-sentence\" data-translation=\"The words 'bird' and 'parrot' are common nouns.\n\">Ang salitang 'ibon' at 'loro' ay mga pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"The eagle is also a common noun in our grammar.\n\">Ang agila ay pambalana rin sa ating balarila.\n</span> <span class=\"fil-sentence\" data-translation=\"But if your pet parrot has a specific name,\">Ngunit kung may tiyak na ngalan ang alagang loro,</span> <span class=\"fil-sentence\" data-translation=\"like 'Polly', it becomes a proper noun.\n\">tulad ng 'Polly', ito ay magiging pantangi.",
+      "examples": [
+        {
+          "title": "Ibon",
+          "content": "ibon (bird - pambalana), Polly (proper)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Kategorya ng Pangyayari: Mga Pista (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The festival is an important event in our town.\n\">Ang pista ay isang mahalagang pangyayari sa bayan.\n</span> <span class=\"fil-sentence\" data-translation=\"The word 'pista' is a common noun of event.\n\">Ang salitang 'pista' ay isang pangngalang pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"Many towns have their own festivals every year.\n\">Maraming bayan ang may kani-kanilang pista taon-taon.\n</span> <span class=\"fil-sentence\" data-translation=\"But 'Pahiyas Festival' is a proper noun of event.\n\">Ngunit ang 'Pista ng Pahiyas' ay pantangi sa wika.",
+      "examples": [
+        {
+          "title": "Pista",
+          "content": "pista (pambalana) -> Pista ng Pahiyas (pantangi)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Pagsasanay sa Kategorya: Tao (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's identify the category of person in practice.\n\">Tukuyin natin ang kategorya ng tao sa pagsasanay.\n</span> <span class=\"fil-sentence\" data-translation=\"Read: 'Dr.\nRizal is an excellent doctor.\n'\">Basahin: 'Si Dr.\nRizal ay isang mahusay na doktor.\n'</span> <span class=\"fil-sentence\" data-translation=\"What is the general name of person in the statement?\">Ano ang pangkalahatang ngalan ng tao sa pahayag?</span> <span class=\"fil-sentence\" data-translation=\"The general name is 'doctor' which is common.\n\">Ang pangkalahatang ngalan ay 'doktor' na pambalana.",
+      "examples": [
+        {
+          "title": "Pagsasanay Tao",
+          "content": "doktor (pambalana) -> Dr. Rizal (pantangi)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Pagsasanay sa Kategorya: Bagay (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the things we use in our classroom.\n\">Suriin natin ang mga bagay na ginagamit sa klase.\n</span> <span class=\"fil-sentence\" data-translation=\"Read: 'He used the crayon of brand Crayola.\n'\">Basahin: 'Ginamit niya ang krayola na Crayola.\n'</span> <span class=\"fil-sentence\" data-translation=\"The first 'krayola' is a general common noun.\n\">Ang unang 'krayola' ay pangkalahatang pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"The second 'Crayola' is a specific brand or proper noun.\n\">Ang ikalawang 'Crayola' ay tiyak na tatak o pantangi.",
+      "examples": [
+        {
+          "title": "Pagsasanay Bagay",
+          "content": "krayola (pambalana) -> Crayola (pantangi)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Pagsasanay sa Kategorya: Hayop (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's identify the animals in this sentence.\n\">Tukuyin natin ang mga hayop sa pangungusap na ito.\n</span> <span class=\"fil-sentence\" data-translation=\"Read: 'Matteo has a pet cat named Muning.\n'\">Basahin: 'May alagang pusa si Matteo na si Muning.\n'</span> <span class=\"fil-sentence\" data-translation=\"The word 'cat' is the general name for this animal.\n\">Ang 'pusa' ay pangkalahatang tawag sa hayop na ito.\n</span> <span class=\"fil-sentence\" data-translation=\"So it is a common noun in our language.\n\">Kaya ito ay isang pangngalang pambalana sa wika.",
+      "examples": [
+        {
+          "title": "Pagsasanay Hayop",
+          "content": "pusa (pambalana) -> Muning (pantangi)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Pagsasanay sa Kategorya: Pangyayari (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the occasions we celebrate in our lives.\n\">Suriin natin ang mga okasyon na ipinagdiriwang natin.\n</span> <span class=\"fil-sentence\" data-translation=\"Read: 'Every festival like Pahiyas is happy.\n'\">Basahin: 'Masaya ang bawat pista tulad ng Pahiyas.\n'</span> <span class=\"fil-sentence\" data-translation=\"The word 'pista' is a general name of an event.\n\">Ang 'pista' ay pangkalahatang ngalan ng pangyayari.\n</span> <span class=\"fil-sentence\" data-translation=\"So it is a common noun in our grammar lessons.\n\">Kaya ito ay isang pangngalang pambalana sa balarila.",
+      "examples": [
+        {
+          "title": "Pagsasanay Pangyayari",
+          "content": "pista (pambalana) -> Pahiyas (pantangi)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Buod ng Ikalawang Linggo (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed all the slides today.\n\">Binabati kita! Natapos mo ang lahat ng slide ngayon.\n</span> <span class=\"fil-sentence\" data-translation=\"We learned about common and proper nouns of people.\n\">Natutunan natin ang pambalana at pantangi sa tao.\n</span> <span class=\"fil-sentence\" data-translation=\"We also learned about common and proper nouns of things.\n\">Natutunan din natin ang pambalana at pantangi sa bagay.\n</span> <span class=\"fil-sentence\" data-translation=\"We learned these concepts for animals and events too.\n\">Natutunan natin ang mga ito sa hayop at pangyayari.",
+      "examples": [
+        {
+          "title": "Tandaan",
+          "content": "Pantangi = Tiyak. Pambalana = Karaniwan. Gamitin ang malaking titik!"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is a personal noun?\">Alin sa mga sumusunod ang pangngalang pantangi sa tao?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"teacher\">guro</span>",
+        "<span class=\"fil-sentence\" data-translation=\"doctor\">doktor</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Mrs. saint\">Gng. Santos</span>",
+        "<span class=\"fil-sentence\" data-translation=\"mother\">nanay</span>"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is an object noun?\">Alin sa mga sumusunod ang pangngalang pambalana sa bagay?</span>",
+      "options": [
+        "Nike",
+        "<span class=\"fil-sentence\" data-translation=\"shoes\">sapatos</span>",
+        "Toyota",
+        "<span class=\"fil-sentence\" data-translation=\"Mongolian\">Mongol</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the specific name (proper) of the animal?\">Ano ang tiyak na ngalan (pantangi) ng hayop?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"cat\">pusa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"dog\">aso</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Guard\">Bantay</span>",
+        "<span class=\"fil-sentence\" data-translation=\"buffalo\">kalabaw</span>"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the general name (fatal) of the event?\">Alin sa mga sumusunod ang pangkalahatang ngalan (pambalana) ng pangyayari?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"Christmas\">Pasko</span>",
+        "<span class=\"fil-sentence\" data-translation=\"birthday\">kaarawan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"New Year\">Bagong Taon</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Independence Day\">Araw ng Kalayaan</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the person singular in the sentence: &#x27;Matteo is studying the lesson.&#x27;\">Tukuyin ang pantangi sa tao sa pangungusap: 'Si Matteo ay nag-aaral ng leksyon.'</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"studying\">nag-aaral</span>",
+        "Matteo",
+        "<span class=\"fil-sentence\" data-translation=\"lesson\">leksyon</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Mr\">Si</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the fate of the &#x27;Mongol&#x27;?\">Ano ang pambalana ng 'Mongol'?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"shoes\">sapatos</span>",
+        "<span class=\"fil-sentence\" data-translation=\"pencil\">lapis</span>",
+        "<span class=\"fil-sentence\" data-translation=\"paper\">papel</span>",
+        "<span class=\"fil-sentence\" data-translation=\"milk\">gatas</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is special about &#x27;cat&#x27;?\">Ano ang pantangi ng 'pusa'?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"dog\">aso</span>",
+        "<span class=\"fil-sentence\" data-translation=\"bird\">ibon</span>",
+        "Muning",
+        "<span class=\"fil-sentence\" data-translation=\"animal\">hayop</span>"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"How do you spell the brand name of something like &#x27;Toyota&#x27;?\">Paano isinusulat ang tatak ng isang bagay tulad ng 'Toyota'?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"small letter\">Maliit na titik</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Capital letters at the beginning\">Malaking titik sa simula</span>",
+        "<span class=\"fil-sentence\" data-translation=\"All capital letters\">Lahat ay malalaking titik</span>",
+        "<span class=\"fil-sentence\" data-translation=\"All lowercase letters\">Lahat ay maliliit na titik</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the plight of the person: &#x27;The fireman helped the family.&#x27;\">Tukuyin ang pambalana sa tao: 'Ang bumbero ay tumulong sa pamilya.'</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"fireman\">bumbero</span>",
+        "<span class=\"fil-sentence\" data-translation=\"help\">tumulong</span>",
+        "<span class=\"fil-sentence\" data-translation=\"family\">pamilya</span>",
+        "<span class=\"fil-sentence\" data-translation=\"The\">Ang</span>"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: The word &#x27;shoe&#x27; is a proper noun.\">Tama o Mali: Ang salitang 'sapatos' ay isang pangngalang pantangi.</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which occasion is an event proper noun?\">Aling okasyon ang isang pangngalang pantangi sa pangyayari?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"marriage\">kasal</span>",
+        "<span class=\"fil-sentence\" data-translation=\"festival\">pista</span>",
+        "<span class=\"fil-sentence\" data-translation=\"New Year\">Bagong Taon</span>",
+        "<span class=\"fil-sentence\" data-translation=\"baptism\">binyag</span>"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the object clause in the sentence: &#x27;Mom bought the new Bear Brand milk.&#x27;\">Tukuyin ang pantangi sa bagay sa pangungusap: 'Bumili si nanay ng bagong gatas na Bear Brand.'</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"milk\">gatas</span>",
+        "<span class=\"fil-sentence\" data-translation=\"mother\">nanay</span>",
+        "Bear Brand",
+        "<span class=\"fil-sentence\" data-translation=\"new\">bagong</span>"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the fate of &#x27;Dr. Jose Rizal&#x27;?\">Ano ang pambalana ng 'Dr. Jose Rizal'?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"doctor\">doktor</span>",
+        "<span class=\"fil-sentence\" data-translation=\"hero\">bayani</span>",
+        "<span class=\"fil-sentence\" data-translation=\"teacher\">guro</span>",
+        "<span class=\"fil-sentence\" data-translation=\"police\">pulis</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the fate of the animal that gives milk?\">Alin sa mga sumusunod ang pambalana sa hayop na nagbibigay ng gatas?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"Guard\">Bantay</span>",
+        "<span class=\"fil-sentence\" data-translation=\"buffalo\">kalabaw</span>",
+        "Muning",
+        "Tweetie"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is special about &#x27;thing&#x27;?\">Ano ang pantangi ng 'bagay'?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"shoes\">sapatos</span>",
+        "<span class=\"fil-sentence\" data-translation=\"car\">kotse</span>",
+        "Lego",
+        "<span class=\"fil-sentence\" data-translation=\"doll\">manika</span>"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Determine the predicate in the object: &#x27;The boy is playing with his red ball.&#x27;\">Tukuyin ang pambalana sa bagay: 'Naglalaro ang bata gamit ang kanyang pulang bola.'</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"child\">bata</span>",
+        "<span class=\"fil-sentence\" data-translation=\"red\">pulang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"ball\">bola</span>",
+        "<span class=\"fil-sentence\" data-translation=\"use\">gamit</span>"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "verify",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: &#x27;Christmas&#x27; is written with a lowercase p.\">Tama o Mali: Ang 'Pasko' ay isinusulat gamit ang maliit na titik p.</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the prognosis for the person who takes care of the teeth?\">Alin sa mga sumusunod ang pambalana sa tao na nag-aalaga ng ngipin?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"doctor\">doktor</span>",
+        "<span class=\"fil-sentence\" data-translation=\"dentist\">dentista</span>",
+        "<span class=\"fil-sentence\" data-translation=\"teacher\">guro</span>",
+        "<span class=\"fil-sentence\" data-translation=\"police\">pulis</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which word has a capitalization error in the sentence: &#x27;Kiko has a cat.&#x27;?\">Aling salita ang may pagkakamali sa pagkakagamit ng malaking titik sa pangungusap: 'May alagang Pusa si Kiko.'?</span>",
+      "options": [
+        "May",
+        "<span class=\"fil-sentence\" data-translation=\"cat\">Pusa</span>",
+        "Kiko",
+        "<span class=\"fil-sentence\" data-translation=\"pet\">alagang</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What does the noun animal refer to?\">Ano ang tinutukoy ng pangngalang hayop?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"person&#x27;s name\">ngalan ng tao</span>",
+        "<span class=\"fil-sentence\" data-translation=\"place name\">ngalan ng lugar</span>",
+        "<span class=\"fil-sentence\" data-translation=\"animal name\">ngalan ng hayop</span>",
+        "<span class=\"fil-sentence\" data-translation=\"on behalf of the occasion\">ngalan ng okasyon</span>"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which one is special about &#x27;birthday&#x27;?\">Alin ang pantangi ng 'kaarawan'?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"Christmas\">Pasko</span>",
+        "<span class=\"fil-sentence\" data-translation=\"occasion\">okasyon</span>",
+        "<span class=\"fil-sentence\" data-translation=\"festival\">pista</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Matteo&#x27;s birthday\">kaarawan ni Matteo</span>"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Determine the fate of the animal: &#x27;The bird flew to the branch of the tree.&#x27;\">Tukuyin ang pambalana sa hayop: 'Lumipad ang ibon sa sanga ng puno.'</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"bird\">ibon</span>",
+        "<span class=\"fil-sentence\" data-translation=\"branch\">sanga</span>",
+        "<span class=\"fil-sentence\" data-translation=\"full\">puno</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Fly away\">Lumipad</span>"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: &#x27;Mongol&#x27; is a proper noun because it is a specific brand of pencil.\">Tama o Mali: Ang 'Mongol' ay isang pangngalang pantangi dahil ito ay tiyak na tatak ng lapis.</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the fate of the person who defends the town?\">Alin sa mga sumusunod ang pambalana sa tao na nagtatanggol sa bayan?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"teacher\">guro</span>",
+        "<span class=\"fil-sentence\" data-translation=\"soldier\">sundalo</span>",
+        "<span class=\"fil-sentence\" data-translation=\"doctor\">doktor</span>",
+        "<span class=\"fil-sentence\" data-translation=\"dentist\">dentista</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Where should you start writing your pet dog&#x27;s name?\">Saan dapat magsimula ang pagsulat ng pangalan ng iyong alagang aso?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"small letter\">maliit na titik</span>",
+        "<span class=\"fil-sentence\" data-translation=\"middle letter\">gitnang titik</span>",
+        "<span class=\"fil-sentence\" data-translation=\"capital letter\">malaking titik</span>",
+        "<span class=\"fil-sentence\" data-translation=\"last letter\">huling titik</span>"
+      ],
+      "answer": 2
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Which sentence contains both the personal pronoun and the object pronoun?\">Challenge: Aling pangungusap ang naglalaman ng parehong pantangi sa tao at pantangi sa bagay?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"Matteo bought new Nike shoes.\">Bumili si Matteo ng bagong sapatos na Nike.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"The dog is playing on the wide road.\">Naglalaro ang aso sa malawak na kalsada.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Mrs. Santos teaches in the classroom.\">Si Gng. Santos ay nagtuturo sa silid-aralan.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Muning was happy while eating fish.\">Masaya si Muning habang kumakain ng isda.</span>"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Which of the following has all the adjectives correctly written?\">Challenge: Alin sa mga sumusunod ang may wastong pagsulat ng lahat ng pantangi?</span>",
+      "options": [
+        "dr. Rizal, Bear brand, Muning",
+        "Dr. Rizal, Bear Brand, Muning",
+        "Dr. rizal, Bear brand, muning",
+        "dr. rizal, bear brand, Muning"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: If the &#x27;toy&#x27; is fate, which can be its counterpart?\">Challenge: Kung ang 'laruan' ay pambalana, alin ang maaaring maging katapat nitong pantangi?</span>",
+      "options": [
+        "Lego",
+        "<span class=\"fil-sentence\" data-translation=\"ball\">bola</span>",
+        "<span class=\"fil-sentence\" data-translation=\"doll\">manika</span>",
+        "<span class=\"fil-sentence\" data-translation=\"crayon\">krayola</span>"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Determine how many nouns are in the object and person categories in the sentence: &#x27;The teacher gave the boy a new pencil.&#x27;\">Challenge: Tukuyin kung gaano karaming pangngalan ang nasa kategorya ng bagay at tao sa pangungusap: 'Binigyan ng guro ang bata ng bagong lapis.'</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"one\">isa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"two\">dalawa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"three\">tatlo</span>",
+        "<span class=\"fil-sentence\" data-translation=\"four\">apat</span>"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Analyze the statement: &#x27;Christmas was celebrated throughout the community.&#x27; What is the category of &#x27;Christmas&#x27; in the noun?\">Challenge: Suriin ang pahayag: 'Ipinagdiwang ang Pasko sa buong komunidad.' Ano ang kategorya ng 'Pasko' sa pangngalan?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"Unique to humans\">Pantangi sa tao</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Fateful in the event\">Pambalana sa pangyayari</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Unique to the event\">Pantangi sa pangyayari</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Strategically located\">Pambalana sa pook</span>"
+      ],
+      "answer": 2
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Paggawa ng Tsart ng Aking Pangngalan",
+    "desc": "Kumuha ng isang malinis na papel at hatiin ito sa apat na kolum: Tao, Bagay, Hayop, at Pangyayari. Sumulat ng dalawang pambalana at dalawang pantangi sa ilalim ng bawat kolum batay sa mga makikita sa inyong tahanan (hal. aso -> Bantay). Kulayan at palamutian ang iyong tsart, at ipaliwanag ito sa iyong magulang o kapatid.",
+    "labels": [
+      "Maayos na nagawa ang tsart na may apat na kategorya",
+      "Wastong naisulat ang dalawang pambalana at pantangi sa bawat kolum",
+      "Wastong nagamit ang malaking titik sa lahat ng pangngalang pantangi"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 1: Kategorya ng Pangngalan</h3>\n                  <p class=\"ws-instruction\">Isulat kung ang sumusunod na salita ay ngalan ng <strong>Tao</strong>, <strong>Bagay</strong>, <strong>Hayop</strong>, o <strong>Pangyayari</strong> gamit ang stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Mongol (lapis) <span class=\"fil-sentence\" data-translation=\"(Mongol pencil)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Bagay</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Gng. Santos (guro) <span class=\"fil-sentence\" data-translation=\"(Mrs. Santos - teacher)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Tao</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Pasko (pagdiriwang) <span class=\"fil-sentence\" data-translation=\"(Christmas - event)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pangyayari</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 2: Pagtutugma ng Tatak at Alaga</h3>\n                  <p class=\"ws-instruction\">Iugnay ang pangkalahatang pambalana sa katapat nitong tiyak na pantangi sa pamamagitan ng pagsulat ng tamang titik.</p>\n                  <div class=\"ws-split\" style=\"margin-top: 20px;\">\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.0;\">\n                      <div><strong>Pangkalahatan (Pambalana):</strong></div>\n                      <div>1. gatas <span class=\"fil-sentence\" data-translation=\"(milk)\"></span></div>\n                      <div>2. aso <span class=\"fil-sentence\" data-translation=\"(dog)\"></span></div>\n                      <div>3. laruan <span class=\"fil-sentence\" data-translation=\"(toy)\"></span></div>\n                    </div>\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.0; text-align: right; padding-right: 40px;\">\n                      <div><strong>Tiyak (Pantangi):</strong></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">B</span> &nbsp; ] &nbsp; A. Bantay <span class=\"fil-sentence\" data-translation=\"(Bantay - dog name)\"></span></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">A</span> &nbsp; ] &nbsp; B. Bear Brand <span class=\"fil-sentence\" data-translation=\"(Bear Brand - milk brand)\"></span></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">C</span> &nbsp; ] &nbsp; C. Lego <span class=\"fil-sentence\" data-translation=\"(Lego - toy brand)\"></span></div>\n                    </div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 3: Pagwawasto sa Pangungusap</h3>\n                  <p class=\"ws-instruction\">Isulat ang tamang pagsulat ng mga pangngalan na may pagkakamali sa paggamit ng titik sa pangungusap.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Naglaro si matteo gamit ang kanyang laruang lego. <span class=\"fil-sentence\" data-translation=\"(Matteo played using his lego toy.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Naglaro si Matteo gamit ang kanyang laruang Lego.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Kumuha si gng. santos ng lapis sa aking Bag. <span class=\"fil-sentence\" data-translation=\"(Mrs. Santos got a pencil from my bag.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Kumuha si Gng. Santos ng lapis sa aking bag.</span></div>\n                  </div>\n                </div>"
+    ]
+  }
+}

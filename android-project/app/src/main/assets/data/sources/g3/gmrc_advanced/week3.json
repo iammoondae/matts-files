@@ -1,0 +1,441 @@
+{
+  "color": "#8b5cf6",
+  "icon": "❤️",
+  "title": "GMRC",
+  "subtitle": "Week 3: Paggalang sa Pamilya at Pagmamahal sa Bayan [Advanced]",
+  "slides": [
+    {
+      "title": "Ang Pamilya bilang Haligi ng Lipunan (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The family is the basic unit of society.\nRespect and unity inside the family build a strong, peaceful community and nation.\n\">Ang pamilya ang pinakapayak at pinakamahalagang yunit ng lipunan.\nAng paggalang sa loob ng pamilya ay nagtatayo ng matatag na bansa.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Bayanihan sa Tahanan:\">Halimbawa, tingnan natin ang tungkol sa Bayanihan sa Tahanan:</span>\n<span class=\"fil-sentence\" data-translation=\"Helping each other with chores brings peace and order at home.\">Ang pagtulong ng bawat isa sa mga gawaing-bahay ay nagdadala ng kaayusan.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Pakikipagkapwa:\">Ang isa pang kaso ay ang pag-aaral ng Pakikipagkapwa:</span>",
+      "examples": [
+        {
+          "title": "Bayanihan sa Tahanan",
+          "content": "<span class=\"fil-sentence\" data-translation=\"Helping each other with chores brings peace and order at home.\">Ang pagtulong ng bawat isa sa mga gawaing-bahay ay nagdadala ng kaayusan.</span>"
+        },
+        {
+          "title": "Pakikipagkapwa",
+          "content": "<span class=\"fil-sentence\" data-translation=\"A child who learns respect at home will show respect to classmates and teachers.\">Ang batang magalang sa bahay ay magiging magalang sa kanyang paaralan.</span>"
+        }
+      ]
+    },
+    {
+      "title": "Paggalang sa mga Nakatatanda sa Pamilya (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Elders hold wisdom from their long lives.\nWe show respect by greeting them, using polite titles, and listening to their guidance.\n\">Ang mga nakatatanda ay mayaman sa karanasan.\nIpakita natin ang paggalang sa pamamagitan ng magalang na pananalita at pakikinig.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Pagsunod sa Bilin:\">Halimbawa, tingnan natin ang tungkol sa Pagsunod sa Bilin:</span>\n<span class=\"fil-sentence\" data-translation=\"Listening to grandfather's advice about safety when crossing roads.\">Pakikinig sa mga paalala ni Lolo tungkol sa kaligtasan sa daan.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Pagsasabi ng 'Mano po':\">Ang isa pang kaso ay ang pag-aaral ng Pagsasabi ng 'Mano po':</span>",
+      "examples": [
+        {
+          "title": "Pagsunod sa Bilin",
+          "content": "<span class=\"fil-sentence\" data-translation=\"Listening to grandfather's advice about safety when crossing roads.\">Pakikinig sa mga paalala ni Lolo tungkol sa kaligtasan sa daan.</span>"
+        },
+        {
+          "title": "Pagsasabi ng 'Mano po'",
+          "content": "<span class=\"fil-sentence\" data-translation=\"Asking for blessings from grandmother as a sign of high regard and love.\">Pagmamano kay Lola Rosa upang humingi ng kanyang bendisyon at paggabay.</span>"
+        }
+      ]
+    },
+    {
+      "title": "Pagkamakabayan (Patriotism) (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Patriotism is the love and loyalty we show to our country.\nWe express it by respecting national symbols, flag, and anthem.\n\">Ang pagkamakabayan ay ang pagmamahal, paggalang, at katapatan sa ating bansa.\nNaipapakita ito sa paggalang sa watawat at pambansang awit.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Lupang Hinirang:\">Halimbawa, tingnan natin ang tungkol sa Lupang Hinirang:</span>\n<span class=\"fil-sentence\" data-translation=\"Standing straight with the right hand over the heart while singing the national anthem.\">Pagtayo nang tuwid habang inaawit ang Lupang Hinirang nang may puso.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Watawat ng Pilipinas:\">Ang isa pang kaso ay ang pag-aaral ng Watawat ng Pilipinas:</span>",
+      "examples": [
+        {
+          "title": "Lupang Hinirang",
+          "content": "<span class=\"fil-sentence\" data-translation=\"Standing straight with the right hand over the heart while singing the national anthem.\">Pagtayo nang tuwid habang inaawit ang Lupang Hinirang nang may puso.</span>"
+        },
+        {
+          "title": "Watawat ng Pilipinas",
+          "content": "<span class=\"fil-sentence\" data-translation=\"Ensuring the flag never touches the ground and is handled with care.\">Pag-iingat sa watawat na hindi ito sumayad sa sahig o mabasa ng ulan.</span>"
+        }
+      ]
+    },
+    {
+      "title": "Paggalang sa mga Pambansang Sagisag (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"National symbols represent our identity.\nRespecting the national flower (Sampaguita), bird (Eagle), and tree (Narra) shows pride in our country.\n\">Ang mga pambansang sagisag ay kumakatawan sa ating pagkakakilanlan tulad ng Sampaguita, Narra, at Philippine Eagle.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Pambansang Puno: Narra:\">Halimbawa, tingnan natin ang tungkol sa Pambansang Puno: Narra:</span>\n<span class=\"fil-sentence\" data-translation=\"The Narra tree symbolizes the strength and resilience of the Filipino people.\">Ang punong Narra ay sumisimbolo sa katatagan at lakas ng mga Pilipino.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Pambansang Bulaklak:\">Ang isa pang kaso ay ang pag-aaral ng Pambansang Bulaklak:</span>\n<span class=\"fil-sentence\" data-translation=\"The Sampaguita represents purity and humility.\">Ang Sampaguita ay sumisimbolo sa kalinisan ng puso at kababaang-loob.</span>",
+      "examples": [
+        {
+          "title": "Pambansang Puno: Narra",
+          "content": "<span class=\"fil-sentence\" data-translation=\"The Narra tree symbolizes the strength and resilience of the Filipino people.\">Ang punong Narra ay sumisimbolo sa katatagan at lakas ng mga Pilipino.</span>"
+        },
+        {
+          "title": "Pambansang Bulaklak",
+          "content": "<span class=\"fil-sentence\" data-translation=\"The Sampaguita represents purity and humility.\">Ang Sampaguita ay sumisimbolo sa kalinisan ng puso at kababaang-loob.</span>"
+        }
+      ]
+    },
+    {
+      "title": "Pangangalaga sa Pampublikong Ari-arian (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Public properties, like parks, school desks, and libraries, belong to everyone.\nProtecting them shows respect for our community.\n\">Ang mga pampublikong ari-arian tulad ng parke at aklatan ay pagmamay-ari ng lahat.\nAng pag-aalaga rito ay tanda ng mabuting asal.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Huwag Magsusulat sa Desk:\">Halimbawa, tingnan natin ang tungkol sa Huwag Magsusulat sa Desk:</span>\n<span class=\"fil-sentence\" data-translation=\"Keeping school tables clean so that other students can use them neatly.\">Pagpapanatiling malinis sa mga upuan sa paaralan nang walang sulat.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Pagtatapon sa Basurahan:\">Ang isa pang kaso ay ang pag-aaral ng Pagtatapon sa Basurahan:</span>",
+      "examples": [
+        {
+          "title": "Huwag Magsusulat sa Desk",
+          "content": "<span class=\"fil-sentence\" data-translation=\"Keeping school tables clean so that other students can use them neatly.\">Pagpapanatiling malinis sa mga upuan sa paaralan nang walang sulat.</span>"
+        },
+        {
+          "title": "Pagtatapon sa Basurahan",
+          "content": "<span class=\"fil-sentence\" data-translation=\"Throwing plastic wrappers in the trash bin inside public parks.\">Pagtatapon ng kalat sa tamang basurahan sa mga pampublikong plasa.</span>"
+        }
+      ]
+    },
+    {
+      "title": "Mabuting Mamamayan (Good Citizenship) (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"A good citizen obeys community rules, helps neighbors, and shows love for the environment.\nThese actions make our country a better place.\n\">Ang mabuting mamamayan ay sumusunod sa batas-trapiko, nagreresiklo, at tumutulong sa mga nangangailangan sa barangay.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Bayanihan:\">Halimbawa, tingnan natin ang tungkol sa Bayanihan:</span>\n<span class=\"fil-sentence\" data-translation=\"Helping a neighbor clean the drainage to prevent floods before the rain.\">Pagtulong sa paglilinis ng kanal upang maiwasan ang baha sa komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Pagsunod sa Alituntunin:\">Ang isa pang kaso ay ang pag-aaral ng Pagsunod sa Alituntunin:</span>\n<span class=\"fil-sentence\" data-translation=\"Obeying pedestrian crossings and traffic lights for safety on the road.\">Pagtawid sa tamang tawiran (pedestrian lane) upang maiwasan ang sakuna.</span>",
+      "examples": [
+        {
+          "title": "Bayanihan",
+          "content": "<span class=\"fil-sentence\" data-translation=\"Helping a neighbor clean the drainage to prevent floods before the rain.\">Pagtulong sa paglilinis ng kanal upang maiwasan ang baha sa komunidad.</span>"
+        },
+        {
+          "title": "Pagsunod sa Alituntunin",
+          "content": "<span class=\"fil-sentence\" data-translation=\"Obeying pedestrian crossings and traffic lights for safety on the road.\">Pagtawid sa tamang tawiran (pedestrian lane) upang maiwasan ang sakuna.</span>"
+        }
+      ]
+    },
+    {
+      "title": "Buod: Paggalang at Pagmamahal sa Bayan (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You have learned GMRC values: respect for family, pagmamano, patriotism, national symbols, and protecting public properties.\n\">Binabati kita! Natutunan mo ang paggalang sa pamilya, pagmamano, pagmamahal sa bayan (paggalang sa watawat at awit), pagpapahalaga sa pampublikong ari-arian, at pagiging mabuting mamamayan.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Tandaan:\">Halimbawa, tingnan natin ang tungkol sa Tandaan:</span>\n<span class=\"fil-sentence\" data-translation=\"Respect family -> Love country -> Obey laws -> Protect public spaces -> Stand straight for anthem.\">Igalang ang pamilya -> Mahalin ang bansa -> Sundin ang batas -> Alagaan ang paligid -> Tumayo nang tuwid.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Hamon:\">Ang isa pang kaso ay ang pag-aaral ng Hamon:</span>\n<span class=\"fil-sentence\" data-translation=\"Stand straight and sing the national anthem proudly during the flag ceremony tomorrow!\">Tumayo nang tuwid at awitin nang buong puso ang Lupang Hinirang sa seremonya ng watawat bukas!</span>\n<span class=\"fil-sentence\" data-translation=\"How does the concept of Buod: Paggalang at Pagmamahal sa Bayan (Advanced) help us think critically?\">Paano nakakatulong ang konsepto ng Buod: Paggalang at Pagmamahal sa Bayan (Advanced) sa ating kritikal na pag-iisip?</span>",
+      "examples": [
+        {
+          "title": "Tandaan",
+          "content": "<span class=\"fil-sentence\" data-translation=\"Respect family -> Love country -> Obey laws -> Protect public spaces -> Stand straight for anthem.\">Igalang ang pamilya -> Mahalin ang bansa -> Sundin ang batas -> Alagaan ang paligid -> Tumayo nang tuwid.</span>"
+        },
+        {
+          "title": "Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"Stand straight and sing the national anthem proudly during the flag ceremony tomorrow!\">Tumayo nang tuwid at awitin nang buong puso ang Lupang Hinirang sa seremonya ng watawat bukas!</span>"
+        }
+      ]
+    }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Ano ang pangunahing yunit ng lipunan na siyang unang pinagmumulan ng mabuting asal ng bata?",
+      "options": [
+        "Paaralan",
+        "Pamilya",
+        "Simbahan",
+        "Pamahalaan"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Paano mo maipapakita ang paggalang sa iyong lolo at lola kapag dumarating ka sa kanilang tahanan?",
+      "options": [
+        "Tatakbo palayo.",
+        "Magmamano at babatiin sila nang mahinahon.",
+        "Huwag silang titingnan.",
+        "Sumigaw ng masasamang salita."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang ibig sabihin ng pagkamakabayan (patriotism)?",
+      "options": [
+        "Ang pagmamahal, paggalang, at katapatan sa sariling bansa.",
+        "Ang pagbili ng mga laruan mula sa ibang bansa.",
+        "Ang hindi pagsunod sa mga batas-trapiko.",
+        "Ang pagsuway sa mga alituntunin ng paaralan."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang tamang kilos habang kinakanta ang Pambansang Awit (Lupang Hinirang)?",
+      "options": [
+        "Makipag-usap at makipagtawanan sa katabi.",
+        "Tumayo nang tuwid at ilagay ang kanang kamay sa kaliwang dibdib.",
+        "Maglakad nang mabilis patungo sa classroom.",
+        "Umupo sa sahig."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang Pambansang Bulaklak ng Pilipinas?",
+      "options": [
+        "Rosas",
+        "Sampaguita",
+        "Orchid",
+        "Sunflower"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Aling puno ang ating Pambansang Puno na kilala sa katatagan at matibay na kahoy?",
+      "options": [
+        "Puno ng Niyog",
+        "Puno ng Narra",
+        "Puno ng Mangga",
+        "Puno ng Kawayan"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang halimbawa ng pampublikong ari-arian (public property)?",
+      "options": [
+        "Ang iyong sariling cellphone.",
+        "Ang parke o plasa ng komunidad.",
+        "Ang bag ng iyong kapatid.",
+        "Ang laruan sa iyong kwarto."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang tamang pag-aalaga sa mga desk at upuan sa inyong silid-aralan?",
+      "options": [
+        "Isulat ang iyong pangalan gamit ang permanent marker.",
+        "Panatilihin itong malinis at huwag susulatan o rarasgasin.",
+        "Tuntungan ito kapag naglalaro.",
+        "Ihagis ito kapag naiinis."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang tamang pag-aalaga sa mga balat ng pagkain habang ikaw ay nasa pampublikong parke?",
+      "options": [
+        "Iwanan ito sa ilalim ng upuan.",
+        "Itapon sa tamang basurahan.",
+        "Ihagis sa mga halaman.",
+        "Isubo sa bulsa ng ibang tao."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Paano mo maipapakita ang paggalang sa iyong lolo at lola?",
+      "options": [
+        "Huwag silang tulungan kapag nahihirapang maglakad.",
+        "Makinig sa kanilang payo at gumamit ng magagalang na katawagan tulad ng Lolo at Lola.",
+        "Magdadabog kapag kinakausap sila.",
+        "Huwag silang kakausapin."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Sino ang pambansang ibon ng Pilipinas na sumisimbolo sa kalayaan at lakas?",
+      "options": [
+        "Maya",
+        "Philippine Eagle (Agila)",
+        "Kalapati",
+        "Loro"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang nagpapakita ng pagiging mabuting mamamayan sa daan?",
+      "options": [
+        "Pagtakbo sa gitna ng kalsada habang may kotse.",
+        "Pagtawid sa tamang pedestrian lane.",
+        "Pagkakalat ng plastik sa daanan.",
+        "Pagsira sa mga traffic sign."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang sinisimbolo ng Sampaguita sa ating pagkatao?",
+      "options": [
+        "Kalinisan ng puso at kababaang-loob",
+        "Katapangan at galit",
+        "Kayamanan",
+        "Katalinuhan"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang dapat gawin kapag nakita mong nabasa ng ulan ang watawat ng Pilipinas sa flagpole?",
+      "options": [
+        "Hayaan lamang ito doon hanggang matuyo.",
+        "Ipaalam sa guro o awtoridad upang maibaba ito nang maayos at maihango.",
+        "Pagtawanan ang watawat.",
+        "Ihagis ang watawat sa basurahan."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Bakit mahalagang sundin ang mga alituntunin sa komunidad?",
+      "options": [
+        "Upang maging magulo ang paligid.",
+        "Upang mapanatili ang kaayusan, kaligtasan, at kapayapaan ng bawat mamamayan.",
+        "Upang makakuha ng premyo.",
+        "Dahil gusto lang ng mga pinuno."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin ang nagpapakita ng pangangalaga sa kalikasan sa daan?",
+      "options": [
+        "Hindi pagkakalat at pagpupulot ng nakitang plastik.",
+        "Pagsira sa mga bulaklak sa gilid ng daan.",
+        "Pag-iwan ng basura sa gutter.",
+        "Pagsunog ng mga plastik na basura sa tabi ng kalsada."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang sasabihin mo kapag tinulungan ka ng guwardya sa paaralan na buksan ang gate?",
+      "options": [
+        "Umalis ka nga!",
+        "Salamat po, Kuya Guard.",
+        "Wala lang.",
+        "Dalian mo!"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang tamang gawi tuwing flag ceremony?",
+      "options": [
+        "Kumain ng candy habang kumakanta.",
+        "Tumingin sa langit at maglakad-lakad.",
+        "Tumayo nang tuwid, sumabay sa awit, at huwag gumalaw nang hindi kinakailangan.",
+        "Makipaglaro ng taguan."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang dapat gawin sa mga pampublikong aklat sa library?",
+      "options": [
+        "Gupitin ang mga larawan.",
+        "Basahin nang maingat at huwag susulatan o pupunitin ang mga pahina.",
+        "Itago sa bag at iuwi nang walang paalam.",
+        "Magsulat ng mga sagot sa loob."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Paano mo babatiin ang mga bisita ng iyong magulang sa sala?",
+      "options": [
+        "Sumigaw ng: 'Sino kayo?'",
+        "Batiin sila ng: 'Magandang hapon po. Tuloy po kayo.'",
+        "Huwag silang pansinin.",
+        "Umalis ng bahay."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang pambansang kasuotan ng mga lalaki sa Pilipinas na isinusuot sa mahahalagang okasyon?",
+      "options": [
+        "Suit and Tie",
+        "Barong Tagalog",
+        "T-shirt at Jeans",
+        "Kimona"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang pambansang kasuotan ng mga babae sa Pilipinas?",
+      "options": [
+        "Gown",
+        "Baro't Saya",
+        "T-shirt",
+        "Blouse"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "Alin sa mga sumusunod na pahayag ang tama?",
+      "options": [
+        "Pahayag A: Ang paggalang sa pampublikong ari-arian ay tungkulin ng bawat mabuting mamamayan.",
+        "Pahayag B: Ang pampublikong ari-arian ay pagmamay-ari ng pamahalaan lamang kaya maaari natin itong sirain."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Ano ang pambansang bulaklak ng Pilipinas? (use lowercase)",
+      "answer": "sampaguita"
+    },
+    {
+      "type": "choice",
+      "q": "Aling ibon ang ating pambansang ibon?",
+      "options": [
+        "Maya",
+        "Philippine Eagle (Agila)",
+        "Kalapati",
+        "Loro"
+      ],
+      "answer": 1
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "Kung nakita mong may nagsusulat ng graffiti sa pader ng inyong paaralan, ano ang magagalang at tamang pagkilos?",
+      "options": [
+        "Tulungan siyang magsulat ng iyong pangalan.",
+        "Ipaalam ito sa iyong guro o sa guwardya ng paaralan upang mapagsabihan sila nang maayos.",
+        "Makipag-away sa kanya.",
+        "Hayaan lamang siya dahil hindi mo naman pader iyon."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Paano nagkakaugnay ang paggalang sa pamilya at ang pagmamahal sa bayan?",
+      "options": [
+        "Walang ugnayan ang dalawang ito.",
+        "Ang pamilya ang nagsasanay sa bata ng paggalang at disiplina, na siyang gagamitin niya upang maging mabuti at mapanagutang mamamayan na nagmamahal sa bayan.",
+        "Kapag mahal mo ang pamilya, hindi mo na kailangang mahalin ang bansa.",
+        "Mas mahalaga ang bansa kaysa sa pamilya."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang tunay na nagpapakita ng pagkamakabayan sa pang-araw-araw na buhay?",
+      "options": [
+        "Pagtatapon ng basura sa kalsada habang kumakanta ng Lupang Hinirang.",
+        "Pagbili ng mga lokal na produkto, pagsunod sa mga batas ng bansa, at pagtulong sa kapwa Pilipino.",
+        "Pagsira sa mga monument ng bayani.",
+        "Pakikipag-away sa ibang bansa sa internet."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "Alin sa mga sumusunod na pahayag ang totoo?",
+      "options": [
+        "Pahayag A: Ang pag-iingat sa mga pampublikong pasyalan ay nagpapakita ng malasakit sa kapaligiran at sa kapwa mamamayan.",
+        "Pahayag B: Ang pampublikong pasyalan ay libre kaya maaari tayong mag-iwan ng kalat dahil may tagalinis naman."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "Ano ang pangalan ng ating Pambansang Awit? (simulan sa malaking titik)",
+      "answer": "Lupang Hinirang"
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Pambansang Sagisag at Pagguhit",
+    "desc": "Kumuha ng isang malinis na papel. Iguhit ang watawat ng Pilipinas sa gitna. Sa paligid nito, iguhit ang pambansang puno (Narra) at pambansang bulaklak (Sampaguita). Sumulat ng dalawang pangungusap sa ibaba kung bakit mo ipinagmamalaki ang pagiging Pilipino. Ipakita ito sa iyong pamilya.",
+    "labels": [
+      "Wastong pagkakaguhit at kulay ng watawat ng Pilipinas",
+      "Pagguhit ng Narra at Sampaguita sa gilid",
+      "May dalawang maayos na pangungusap ng pagmamalaki sa bansa"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 1: Paggalang sa Pamilya at Komunidad</h3>\n        <p class=\"ws-instruction\">Gamitin ang stylus upang isulat ang iyong sagot sa patlang sa mga sumusunod na tanong.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. Paano mo ipinapakita ang paggalang sa iyong mga lolo at lola?</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 15px;\">\n          <div class=\"ws-q\">2. Ano ang gagawin mo kapag nakita mong may nagtatapon ng basura sa parke?</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"></div>\n        </div>\n      </div>\n      ",
+      "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 2: Pambansang Sagisag Matching</h3>\n        <p class=\"ws-instruction\">Itugma the sagisag to the meaning using your stylus.</p>\n        \n        <div class=\"ws-split\" style=\"margin-top: 20px; line-height: 2.2;\">\n          <div class=\"ws-col-half\">\n            <div>1. Sampaguita</div>\n            <div>2. Narra</div>\n            <div>3. Philippine Eagle</div>\n            <div>4. Watawat</div>\n          </div>\n          <div class=\"ws-col-half\" style=\"text-align: right; padding-right: 40px;\">\n            <div>[ &nbsp; &nbsp; ] &nbsp; Simbolo ng bansa at kalayaan</div>\n            <div>[ &nbsp; &nbsp; ] &nbsp; Kalinisan at kababaang-loob</div>\n            <div>[ &nbsp; &nbsp; ] &nbsp; Kalayaan at lakas ng bansa</div>\n            <div>[ &nbsp; &nbsp; ] &nbsp; Katatagan at matibay na kahoy</div>\n          </div>\n        </div>\n      </div>\n      ",
+      "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 3: GMRC Sitwasyon</h3>\n        <p class=\"ws-instruction\">Gumuhit ng masayang mukha (smile) kung tama ang kilos at malungkot na mukha (sad) kung mali gamit ang iyong stylus.</p>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 20px;\">\n          <div class=\"ws-q\">[ &nbsp; &nbsp; ] 1. Pagtayo nang tuwid habang inaawit ang Lupang Hinirang sa flag ceremony.</div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 20px;\">\n          <div class=\"ws-q\">[ &nbsp; &nbsp; ] 2. Pagsusulat sa mga desk at dingding ng paaralan upang maging makulay ito.</div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 20px;\">\n          <div class=\"ws-q\">[ &nbsp; &nbsp; ] 3. Pagsasabi ng 'Salamat po' kapag tinulungan ng school guard na tumawid.</div>\n        </div>\n      </div>\n      "
+    ]
+  }
+}

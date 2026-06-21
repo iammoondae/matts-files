@@ -258,76 +258,76 @@
   "standard": [
     {
       "type": "choice",
-      "q": "Ano ang tawag sa pinakamaliliit na yunit ng pamahalaan sa ating bansa?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the name of the smallest unit of government in our country?\">Ano ang tawag sa pinakamaliliit na yunit ng pamahalaan sa ating bansa?</span>",
       "options": [
-        "bansa",
-        "lalawigan",
-        "lungsod",
+        "<span class=\"fil-sentence\" data-translation=\"country\">bansa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"province\">lalawigan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"city\">lungsod</span>",
         "barangay"
       ],
       "answer": 3
     },
     {
       "type": "choice",
-      "q": "Paano nagkakaugnay ang barangay at ang bayan o lungsod?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"How are the barangay and the town or city related?\">Paano nagkakaugnay ang barangay at ang bayan o lungsod?</span>",
       "options": [
-        "Ang barangay ay hiwalay na bansa.",
-        "Ang barangay ay maliit na bahagi ng isang bayan o lungsod.",
-        "Walang ugnayan ang dalawa.",
-        "Ang lungsod ay sumusunod sa barangay lamang."
+        "<span class=\"fil-sentence\" data-translation=\"The barangay is a separate country.\">Ang barangay ay hiwalay na bansa.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"A barangay is a small part of a town or city.\">Ang barangay ay maliit na bahagi ng isang bayan o lungsod.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"The two are not related.\">Walang ugnayan ang dalawa.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"The city follows the barangay only.\">Ang lungsod ay sumusunod sa barangay lamang.</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Saan nagmula ang pangalan ng Lungsod ng Calamba batay sa alamat?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Where did the name of the City of Calamba come from based on legend?\">Saan nagmula ang pangalan ng Lungsod ng Calamba batay sa alamat?</span>",
       "options": [
-        "sapatos",
-        "kalan-banga o palayok ng luwad",
-        "isang uri ng isda",
-        "isang sikat na bundok"
+        "<span class=\"fil-sentence\" data-translation=\"shoes\">sapatos</span>",
+        "<span class=\"fil-sentence\" data-translation=\"clay pot or pot\">kalan-banga o palayok ng luwad</span>",
+        "<span class=\"fil-sentence\" data-translation=\"a kind of fish\">isang uri ng isda</span>",
+        "<span class=\"fil-sentence\" data-translation=\"a famous mountain\">isang sikat na bundok</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang kalan-banga na pinagmulan ng pangalan ng Calamba?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the origin of the name Calamba?\">Ano ang kalan-banga na pinagmulan ng pangalan ng Calamba?</span>",
       "options": [
-        "isang kutsara",
-        "isang palayok ng luwad para sa pagluluto",
-        "isang laruan",
-        "isang gintong barya"
+        "<span class=\"fil-sentence\" data-translation=\"a spoon\">isang kutsara</span>",
+        "<span class=\"fil-sentence\" data-translation=\"a clay pot for cooking\">isang palayok ng luwad para sa pagluluto</span>",
+        "<span class=\"fil-sentence\" data-translation=\"a toy\">isang laruan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"a gold coin\">isang gintong barya</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Saan matatagpuan ang malaking monumento ng Kalan-Banga na simbolo ng pagkakaisa?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Where is the great monument of Kalan-Banga a symbol of unity?\">Saan matatagpuan ang malaking monumento ng Kalan-Banga na simbolo ng pagkakaisa?</span>",
       "options": [
-        "sa aklatan ng paaralan",
-        "sa plaza ng Lungsod ng Calamba",
-        "sa loob ng health center",
-        "sa tuktok ng Bundok Makiling"
+        "<span class=\"fil-sentence\" data-translation=\"in the school library\">sa aklatan ng paaralan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"at the Calamba City plaza\">sa plaza ng Lungsod ng Calamba</span>",
+        "<span class=\"fil-sentence\" data-translation=\"inside the health center\">sa loob ng health center</span>",
+        "<span class=\"fil-sentence\" data-translation=\"at the top of Mount Makiling\">sa tuktok ng Bundok Makiling</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang nakasulat sa labas ng monumento ng Kalan-Banga sa Calamba?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is written on the outside of the Kalan-Banga monument in Calamba?\">Ano ang nakasulat sa labas ng monumento ng Kalan-Banga sa Calamba?</span>",
       "options": [
-        "mga pangalan ng mga bayani",
-        "mga pangalan ng mga barangay ng Calamba",
-        "mga numero ng telepono",
-        "mga pangalan ng mga prutas"
+        "<span class=\"fil-sentence\" data-translation=\"names of heroes\">mga pangalan ng mga bayani</span>",
+        "<span class=\"fil-sentence\" data-translation=\"names of barangays of Calamba\">mga pangalan ng mga barangay ng Calamba</span>",
+        "<span class=\"fil-sentence\" data-translation=\"phone numbers\">mga numero ng telepono</span>",
+        "<span class=\"fil-sentence\" data-translation=\"names of fruits\">mga pangalan ng mga prutas</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Sa aling lalawigan kabilang ang Lungsod ng Calamba?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"In which province does the City of Calamba belong?\">Sa aling lalawigan kabilang ang Lungsod ng Calamba?</span>",
       "options": [
         "Batangas",
-        "Laguna",
+        "<span class=\"fil-sentence\" data-translation=\"lagoon\">Laguna</span>",
         "Quezon",
         "Cavite"
       ],
@@ -335,193 +335,193 @@
     },
     {
       "type": "choice",
-      "q": "Ano ang ibig sabihin ng pangalan ng lalawigan ng 'Laguna' sa wikang Kastila?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What does the name of the province of &#x27;Laguna&#x27; mean in Spanish?\">Ano ang ibig sabihin ng pangalan ng lalawigan ng 'Laguna' sa wikang Kastila?</span>",
       "options": [
-        "ang bundok",
-        "ang lawa (la laguna)",
-        "ang kalsada",
-        "ang palengke"
+        "<span class=\"fil-sentence\" data-translation=\"the mountain\">ang bundok</span>",
+        "<span class=\"fil-sentence\" data-translation=\"the lake (la laguna)\">ang lawa (la laguna)</span>",
+        "<span class=\"fil-sentence\" data-translation=\"the road\">ang kalsada</span>",
+        "<span class=\"fil-sentence\" data-translation=\"the market\">ang palengke</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Anong malawak na lawa ang nagdugtong sa kalakalan ng maraming bayan sa Laguna?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What wide lake connected the trade of many towns in Laguna?\">Anong malawak na lawa ang nagdugtong sa kalakalan ng maraming bayan sa Laguna?</span>",
       "options": [
         "Taal Lake",
         "Laguna de Bay",
-        "Lawa ng Sampaloc",
-        "Lawa ng Pandin"
+        "<span class=\"fil-sentence\" data-translation=\"Sampaloc Lake\">Lawa ng Sampaloc</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Lake Pandin\">Lawa ng Pandin</span>"
       ],
       "answer": 1
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang kasaysayan ng bawat barangay ay hindi mahalaga sa kasaysayan ng buong bayan.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: The history of each barangay is not important to the history of the entire town.\">Tama o Mali: Ang kasaysayan ng bawat barangay ay hindi mahalaga sa kasaysayan ng buong bayan.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Sino ang nagtutulungan upang mapanatili ang seguridad sa kalsada ng barangay at bayan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Who is working together to maintain barangay and town road safety?\">Sino ang nagtutulungan upang mapanatili ang seguridad sa kalsada ng barangay at bayan?</span>",
       "options": [
-        "mga nars at doktor",
-        "mga barangay tanod at pulis ng munisipyo",
-        "mga tindero sa palengke",
-        "mga guro sa eskwelahan"
+        "<span class=\"fil-sentence\" data-translation=\"nurses and doctors\">mga nars at doktor</span>",
+        "<span class=\"fil-sentence\" data-translation=\"barangay guards and municipal police\">mga barangay tanod at pulis ng munisipyo</span>",
+        "<span class=\"fil-sentence\" data-translation=\"market vendors\">mga tindero sa palengke</span>",
+        "<span class=\"fil-sentence\" data-translation=\"school teachers\">mga guro sa eskwelahan</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Saan dinadala ng mga mangingisda ang kanilang huling isda mula sa lawa upang ibenta?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Where do fishermen take their last fish from the lake to sell?\">Saan dinadala ng mga mangingisda ang kanilang huling isda mula sa lawa upang ibenta?</span>",
       "options": [
-        "sa barangay hall",
-        "sa palengke ng bayan",
-        "sa aklatan",
-        "sa health center"
+        "<span class=\"fil-sentence\" data-translation=\"at the barangay hall\">sa barangay hall</span>",
+        "<span class=\"fil-sentence\" data-translation=\"in the town market\">sa palengke ng bayan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"in the library\">sa aklatan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"at the health center\">sa health center</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang ginagawa ng pamahalaan ng barangay at bayan kapag may kalamidad tulad ng bagyo?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What does the barangay and town government do when there is a calamity like a typhoon?\">Ano ang ginagawa ng pamahalaan ng barangay at bayan kapag may kalamidad tulad ng bagyo?</span>",
       "options": [
-        "naglalaro sa plaza",
-        "nagtutulungan sa pamamahagi ng relief goods",
-        "nagsasara ng mga ospital",
-        "nagtatago sa bahay"
+        "<span class=\"fil-sentence\" data-translation=\"playing in the square\">naglalaro sa plaza</span>",
+        "<span class=\"fil-sentence\" data-translation=\"cooperate in the distribution of relief goods\">nagtutulungan sa pamamahagi ng relief goods</span>",
+        "<span class=\"fil-sentence\" data-translation=\"closing hospitals\">nagsasara ng mga ospital</span>",
+        "<span class=\"fil-sentence\" data-translation=\"hiding at home\">nagtatago sa bahay</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Aling monumento ang simbolo ng pinagmulan ng Lungsod ng Calamba?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which monument is the symbol of the origin of the City of Calamba?\">Aling monumento ang simbolo ng pinagmulan ng Lungsod ng Calamba?</span>",
       "options": [
-        "monumento ng bumbero",
+        "<span class=\"fil-sentence\" data-translation=\"firefighter monument\">monumento ng bumbero</span>",
         "Kalan-Banga monument",
-        "monumento ng aso",
-        "monumento ng palayok ng plastik"
+        "<span class=\"fil-sentence\" data-translation=\"dog monument\">monumento ng aso</span>",
+        "<span class=\"fil-sentence\" data-translation=\"plastic pot monument\">monumento ng palayok ng plastik</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang tawag sa yunit na mas malaki kaysa sa lungsod o bayan sa pamamahala?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the administrative unit larger than a city or town called?\">Ano ang tawag sa yunit na mas malaki kaysa sa lungsod o bayan sa pamamahala?</span>",
       "options": [
-        "bansa",
-        "lalawigan",
+        "<span class=\"fil-sentence\" data-translation=\"country\">bansa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"province\">lalawigan</span>",
         "barangay",
-        "sitio"
+        "<span class=\"fil-sentence\" data-translation=\"site\">sitio</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Tukuyin ang ugnayan sa pangungusap: 'Ang Barangay San Jose ay bahagi ng lungsod ng Calamba.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the relationship in the sentence: &#x27;Barangay San Jose is part of the city of Calamba.&#x27;\">Tukuyin ang ugnayan sa pangungusap: 'Ang Barangay San Jose ay bahagi ng lungsod ng Calamba.'</span>",
       "options": [
-        "hiwalay na lungsod",
-        "bahagi o sakop ng lungsod",
-        "walang kinalaman",
-        "mas malaki ang barangay"
+        "<span class=\"fil-sentence\" data-translation=\"separate city\">hiwalay na lungsod</span>",
+        "<span class=\"fil-sentence\" data-translation=\"part or territory of the city\">bahagi o sakop ng lungsod</span>",
+        "<span class=\"fil-sentence\" data-translation=\"nothing to do with it\">walang kinalaman</span>",
+        "<span class=\"fil-sentence\" data-translation=\"the barangay is bigger\">mas malaki ang barangay</span>"
       ],
       "answer": 1
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang 'kalan-banga' ay isang palayok na gawa sa plastik na nakuha mula sa Espanya.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: A &#x27;pot&#x27; is a pot made of plastic obtained from Spain.\">Tama o Mali: Ang 'kalan-banga' ay isang palayok na gawa sa plastik na nakuha mula sa Espanya.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Aling likas na yaman ang nagdurugtong sa mga bayan sa Laguna para sa pangingisda?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which natural resource connects the towns in Laguna for fishing?\">Aling likas na yaman ang nagdurugtong sa mga bayan sa Laguna para sa pangingisda?</span>",
       "options": [
-        "Bundok Makiling",
-        "Lawa ng Laguna de Bay",
-        "kalsadang semento",
-        "mga pabrika"
+        "<span class=\"fil-sentence\" data-translation=\"mountain slope\">Bundok Makiling</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Laguna de Bay lake\">Lawa ng Laguna de Bay</span>",
+        "<span class=\"fil-sentence\" data-translation=\"cement road\">kalsadang semento</span>",
+        "<span class=\"fil-sentence\" data-translation=\"factories\">mga pabrika</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Sino ang namumuno sa munisipyo ng bayan o lungsod?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Who is in charge of the town or city municipality?\">Sino ang namumuno sa munisipyo ng bayan o lungsod?</span>",
       "options": [
-        "Barangay Kapitan",
-        "Mayor o Alkalde",
-        "Pulis",
+        "<span class=\"fil-sentence\" data-translation=\"Barangay Captain\">Barangay Kapitan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Mayor or Mayor\">Mayor o Alkalde</span>",
+        "<span class=\"fil-sentence\" data-translation=\"police\">Pulis</span>",
         "Principal"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang pangunahing kabuhayan ng mga barangay na malapit sa lawa ng Laguna?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the main livelihood of the barangays near the Laguna lake?\">Ano ang pangunahing kabuhayan ng mga barangay na malapit sa lawa ng Laguna?</span>",
       "options": [
-        "pagsasaka sa bundok",
-        "pangingisda sa lawa",
-        "pagtatrabaho sa opisina",
-        "paghabi ng tela"
+        "<span class=\"fil-sentence\" data-translation=\"mountain farming\">pagsasaka sa bundok</span>",
+        "<span class=\"fil-sentence\" data-translation=\"lake fishing\">pangingisda sa lawa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"working in the office\">pagtatrabaho sa opisina</span>",
+        "<span class=\"fil-sentence\" data-translation=\"weaving cloth\">paghabi ng tela</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang ipinapakita ng mga pangalan ng barangay na nakasulat sa Kalan-Banga monument?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What do the barangay names written on the Kalan-Banga monument show?\">Ano ang ipinapakita ng mga pangalan ng barangay na nakasulat sa Kalan-Banga monument?</span>",
       "options": [
-        "mga paboritong pagkain ng Mayor",
-        "pagkakaisa ng lahat ng barangay sa Calamba",
-        "mga emergency numbers",
-        "mga pangalan ng mga guro"
+        "<span class=\"fil-sentence\" data-translation=\"the Mayor&#x27;s favorite foods\">mga paboritong pagkain ng Mayor</span>",
+        "<span class=\"fil-sentence\" data-translation=\"unity of all barangays in Calamba\">pagkakaisa ng lahat ng barangay sa Calamba</span>",
+        "<span class=\"fil-sentence\" data-translation=\"emergency numbers\">mga emergency numbers</span>",
+        "<span class=\"fil-sentence\" data-translation=\"names of teachers\">mga pangalan ng mga guro</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Saan ipinanganak ang pambansang bayani na si Dr. Jose Rizal?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Where was the national hero Dr. Jose Rizal?\">Saan ipinanganak ang pambansang bayani na si Dr. Jose Rizal?</span>",
       "options": [
-        "Lungsod ng Maynila",
-        "Lungsod ng Calamba, Laguna",
-        "Lungsod ng Baguio",
+        "<span class=\"fil-sentence\" data-translation=\"City of Manila\">Lungsod ng Maynila</span>",
+        "<span class=\"fil-sentence\" data-translation=\"City of Calamba, Laguna\">Lungsod ng Calamba, Laguna</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Baguio City\">Lungsod ng Baguio</span>",
         "Balayan, Batangas"
       ],
       "answer": 1
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang bawat mamamayan ay may bahagi sa pag-unlad ng kanyang barangay at bayan.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: Every citizen has a part in the development of his barangay and town.\">Tama o Mali: Ang bawat mamamayan ay may bahagi sa pag-unlad ng kanyang barangay at bayan.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang tungkulin ng munisipyo para sa kalusugan ng bayan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the role of the municipality for public health?\">Alin sa mga sumusunod ang tungkulin ng munisipyo para sa kalusugan ng bayan?</span>",
       "options": [
-        "magpatakbo ng malalaking ospital at klinika",
-        "magbenta ng gulay sa palengke",
-        "magturo ng pagbasa",
-        "magtapon ng basura sa ilog"
+        "<span class=\"fil-sentence\" data-translation=\"run large hospitals and clinics\">magpatakbo ng malalaking ospital at klinika</span>",
+        "<span class=\"fil-sentence\" data-translation=\"sell vegetables in the market\">magbenta ng gulay sa palengke</span>",
+        "<span class=\"fil-sentence\" data-translation=\"teach reading\">magturo ng pagbasa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"throw garbage in the river\">magtapon ng basura sa ilog</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Paano natin maipapakita ang pagmamahal sa ating barangay at bayan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"How can we show love to our barangay and town?\">Paano natin maipapakita ang pagmamahal sa ating barangay at bayan?</span>",
       "options": [
-        "magtapon ng basura sa kalsada",
-        "sumunod sa mga batas at makipagtulungan sa mga programa",
-        "makipag-away sa kapitbahay",
-        "sirain ang mga monumento"
+        "<span class=\"fil-sentence\" data-translation=\"throw garbage on the road\">magtapon ng basura sa kalsada</span>",
+        "<span class=\"fil-sentence\" data-translation=\"obey laws and cooperate with programs\">sumunod sa mga batas at makipagtulungan sa mga programa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"fight with the neighbor\">makipag-away sa kapitbahay</span>",
+        "<span class=\"fil-sentence\" data-translation=\"destroy the monuments\">sirain ang mga monumento</span>"
       ],
       "answer": 1
     }
@@ -529,56 +529,56 @@
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge: Aling pahayag ang naglalarawan ng totoong ugnayan sa pagitan ng kasaysayan ng barangay at kasaysayan ng bayan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Which statement describes the true relationship between barangay history and town history?\">Challenge: Aling pahayag ang naglalarawan ng totoong ugnayan sa pagitan ng kasaysayan ng barangay at kasaysayan ng bayan?</span>",
       "options": [
-        "Ang kasaysayan ng barangay ay walang ugnayan sa kasaysayan ng bayan.",
-        "Ang kasaysayan ng bawat barangay ay ang mga pahina na bumubuo sa kasaysayan ng buong bayan.",
-        "Ang kasaysayan ng bayan ay mas nauna kaysa sa kasaysayan ng mga barangay.",
-        "Ang barangay ay walang sariling kasaysayan."
+        "<span class=\"fil-sentence\" data-translation=\"The history of the barangay has no relation to the history of the town.\">Ang kasaysayan ng barangay ay walang ugnayan sa kasaysayan ng bayan.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"The history of each barangay is the pages that make up the history of the entire town.\">Ang kasaysayan ng bawat barangay ay ang mga pahina na bumubuo sa kasaysayan ng buong bayan.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"The history of the town is earlier than the history of the barangays.\">Ang kasaysayan ng bayan ay mas nauna kaysa sa kasaysayan ng mga barangay.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"The barangay has no history of its own.\">Ang barangay ay walang sariling kasaysayan.</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Challenge: Bakit kalan-banga o palayok ng luwad ang napiling simbolo at pangalan ng Lungsod ng Calamba?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Why is a pot or clay pot chosen as the symbol and name of the City of Calamba?\">Challenge: Bakit kalan-banga o palayok ng luwad ang napiling simbolo at pangalan ng Lungsod ng Calamba?</span>",
       "options": [
-        "Dahil ito ang paboritong lutuan ng mga Espanyol.",
-        "Dahil ang pagpapalayok ay isang mahalagang katutubong sining at kabuhayan ng mga ninuno sa pook.",
-        "Dahil walang ibang kagamitan sa lungsod noong araw.",
-        "Dahil ito ay kulay pula lamang."
+        "<span class=\"fil-sentence\" data-translation=\"Because it is the favorite dish of the Spanish.\">Dahil ito ang paboritong lutuan ng mga Espanyol.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Because pottery is an important indigenous art and livelihood of the ancestors in the area.\">Dahil ang pagpapalayok ay isang mahalagang katutubong sining at kabuhayan ng mga ninuno sa pook.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Because there was no other equipment in the city back in the day.\">Dahil walang ibang kagamitan sa lungsod noong araw.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Because it is only red.\">Dahil ito ay kulay pula lamang.</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Challenge: Kung ang lawa ng Laguna de Bay ay madumi at polluted, aling pook o sektor ang unang maapektuhan sa kalakalan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: If the lake of Laguna de Bay is dirty and polluted, which area or sector will be affected first in trade?\">Challenge: Kung ang lawa ng Laguna de Bay ay madumi at polluted, aling pook o sektor ang unang maapektuhan sa kalakalan?</span>",
       "options": [
-        "mga guro sa paaralan",
-        "mga mangingisda at palengke na nagbebenta ng isda mula sa lawa",
-        "mga factory workers sa munisipyo",
-        "mga bumbero"
+        "<span class=\"fil-sentence\" data-translation=\"school teachers\">mga guro sa paaralan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"fishermen and markets selling fish from the lake\">mga mangingisda at palengke na nagbebenta ng isda mula sa lawa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"factory workers in the municipality\">mga factory workers sa munisipyo</span>",
+        "<span class=\"fil-sentence\" data-translation=\"firefighters\">mga bumbero</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Challenge: Aling pagkakaayos ng mga yunit ng pamahalaan ang nagpapakita ng tamang sakop mula sa pinakamalaki hanggang sa pinakamaliit?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Which arrangement of government units shows the correct scope from largest to smallest?\">Challenge: Aling pagkakaayos ng mga yunit ng pamahalaan ang nagpapakita ng tamang sakop mula sa pinakamalaki hanggang sa pinakamaliit?</span>",
       "options": [
-        "Bansa -> Lalawigan -> Bayan/Lungsod -> Barangay",
-        "Barangay -> Bayan/Lungsod -> Lalawigan -> Bansa",
-        "Lalawigan -> Bansa -> Barangay -> Bayan/Lungsod",
-        "Bayan/Lungsod -> Barangay -> Lalawigan -> Bansa"
+        "<span class=\"fil-sentence\" data-translation=\"Country -&gt; Province -&gt; Town/City -&gt; Barangay\">Bansa -> Lalawigan -> Bayan/Lungsod -> Barangay</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Barangay -&gt; Town/City -&gt; Province -&gt; Country\">Barangay -> Bayan/Lungsod -> Lalawigan -> Bansa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Province -&gt; Country -&gt; Barangay -&gt; Town/City\">Lalawigan -> Bansa -> Barangay -> Bayan/Lungsod</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Town/City -&gt; Barangay -&gt; Province -&gt; Country\">Bayan/Lungsod -> Barangay -> Lalawigan -> Bansa</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge: Paano nakatutulong ang Kalan-Banga monument sa plaza upang paalalahanan ang mga mamamayan tungkol sa kasaysayan ng pook?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: How does the Kalan-Banga monument in the square help to remind the people about the history of the area?\">Challenge: Paano nakatutulong ang Kalan-Banga monument sa plaza upang paalalahanan ang mga mamamayan tungkol sa kasaysayan ng pook?</span>",
       "options": [
-        "Nagsisilbi itong palamuti na walang kwento.",
-        "Nagsisilbi itong pisikal na primary source (monumento) na nagpapaalala sa alamat ng pangalan ng lungsod at pagkakaisa ng mga barangay.",
-        "Nagpapakita ito ng presyo ng mga palayok sa palengke.",
-        "Wala itong kinalaman sa kasaysayan ng mga tao."
+        "<span class=\"fil-sentence\" data-translation=\"It serves as decoration without a story.\">Nagsisilbi itong palamuti na walang kwento.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"It serves as a physical primary source (monument) that reminds the legend of the city&#x27;s name and the unity of the barangays.\">Nagsisilbi itong pisikal na primary source (monumento) na nagpapaalala sa alamat ng pangalan ng lungsod at pagkakaisa ng mga barangay.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"It shows the price of pottery in the market.\">Nagpapakita ito ng presyo ng mga palayok sa palengke.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"It has nothing to do with human history.\">Wala itong kinalaman sa kasaysayan ng mga tao.</span>"
       ],
       "answer": 1
     }

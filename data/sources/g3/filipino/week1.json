@@ -262,51 +262,51 @@
   "standard": [
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang pangngalang pambalana sa pook?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the proper noun for the place?\">Alin sa mga sumusunod ang pangngalang pambalana sa pook?</span>",
       "options": [
-        "ospital",
-        "Laguna",
-        "Ilog Pasig",
+        "<span class=\"fil-sentence\" data-translation=\"hospital\">ospital</span>",
+        "<span class=\"fil-sentence\" data-translation=\"lagoon\">Laguna</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Pasig River\">Ilog Pasig</span>",
         "Rizal Park"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang pangngalang pantangi sa pook?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is a proper noun in place?\">Alin sa mga sumusunod ang pangngalang pantangi sa pook?</span>",
       "options": [
-        "paaralan",
-        "simbahan",
-        "Lungsod ng Calamba",
-        "palengke"
+        "<span class=\"fil-sentence\" data-translation=\"school\">paaralan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"church\">simbahan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Calamba City\">Lungsod ng Calamba</span>",
+        "<span class=\"fil-sentence\" data-translation=\"market\">palengke</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Paano isinusulat ang pangngalang pantangi sa pook?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"How do you write proper nouns in place?\">Paano isinusulat ang pangngalang pantangi sa pook?</span>",
       "options": [
-        "Nagsisimula sa maliit na titik",
-        "Nagsisimula sa malaking titik",
-        "Lahat ay malalaking titik",
-        "Lahat ay maliliit na titik"
+        "<span class=\"fil-sentence\" data-translation=\"Begins with a lowercase letter\">Nagsisimula sa maliit na titik</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Begins with a capital letter\">Nagsisimula sa malaking titik</span>",
+        "<span class=\"fil-sentence\" data-translation=\"All capital letters\">Lahat ay malalaking titik</span>",
+        "<span class=\"fil-sentence\" data-translation=\"All lowercase letters\">Lahat ay maliliit na titik</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Tukuyin ang pook sa pangungusap: 'Pumunta si Matteo sa parke.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the place in the sentence: &#x27;Matteo went to the park.&#x27;\">Tukuyin ang pook sa pangungusap: 'Pumunta si Matteo sa parke.'</span>",
       "options": [
         "Matteo",
-        "Pumunta",
-        "parke",
-        "sa"
+        "<span class=\"fil-sentence\" data-translation=\"go\">Pumunta</span>",
+        "<span class=\"fil-sentence\" data-translation=\"park\">parke</span>",
+        "<span class=\"fil-sentence\" data-translation=\"in\">sa</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Alin ang may wastong pagsulat ng pangngalang pantangi ng barangay?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which has the correct spelling of the proper name of the barangay?\">Alin ang may wastong pagsulat ng pangngalang pantangi ng barangay?</span>",
       "options": [
         "barangay san jose",
         "Barangay san jose",
@@ -317,215 +317,215 @@
     },
     {
       "type": "choice",
-      "q": "Ano ang pambalana ng 'Ilog Pasig'?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the fate of the &#x27;Pasig River&#x27;?\">Ano ang pambalana ng 'Ilog Pasig'?</span>",
       "options": [
-        "bundok",
-        "ilog",
-        "dagat",
-        "lawa"
+        "<span class=\"fil-sentence\" data-translation=\"mountain\">bundok</span>",
+        "<span class=\"fil-sentence\" data-translation=\"river\">ilog</span>",
+        "<span class=\"fil-sentence\" data-translation=\"sea\">dagat</span>",
+        "<span class=\"fil-sentence\" data-translation=\"lake\">lawa</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang pantangi ng 'bansa'?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is special about &#x27;country&#x27;?\">Ano ang pantangi ng 'bansa'?</span>",
       "options": [
-        "lalawigan",
-        "lungsod",
-        "Pilipinas",
+        "<span class=\"fil-sentence\" data-translation=\"province\">lalawigan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"city\">lungsod</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Philippines\">Pilipinas</span>",
         "barangay"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Tukuyin ang pangngalang pambalana sa pook: 'Ang silid-aralan ay malinis.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the noun in place: &#x27;The classroom is clean.&#x27;\">Tukuyin ang pangngalang pambalana sa pook: 'Ang silid-aralan ay malinis.'</span>",
       "options": [
-        "silid-aralan",
-        "malinis",
-        "Ang",
-        "ay"
+        "<span class=\"fil-sentence\" data-translation=\"classroom\">silid-aralan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"clean\">malinis</span>",
+        "<span class=\"fil-sentence\" data-translation=\"The\">Ang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"is\">ay</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang HINDI pook?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is NOT a place?\">Alin sa mga sumusunod ang HINDI pook?</span>",
       "options": [
-        "aklatan",
-        "palikuran",
-        "guro",
-        "palengke"
+        "<span class=\"fil-sentence\" data-translation=\"library\">aklatan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"toilet\">palikuran</span>",
+        "<span class=\"fil-sentence\" data-translation=\"teacher\">guro</span>",
+        "<span class=\"fil-sentence\" data-translation=\"market\">palengke</span>"
       ],
       "answer": 2
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang salitang 'lalawigan' ay isang pangngalang pantangi.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: The word &#x27;province&#x27; is a proper noun.\">Tama o Mali: Ang salitang 'lalawigan' ay isang pangngalang pantangi.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Alin ang wastong baybay ng tiyak na ngalan ng sikat na bundok sa Laguna?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which is the correct spelling of the specific name of the famous mountain in Laguna?\">Alin ang wastong baybay ng tiyak na ngalan ng sikat na bundok sa Laguna?</span>",
       "options": [
-        "bundok makiling",
-        "Bundok makiling",
-        "Bundok Makiling",
-        "bundok Makiling"
+        "<span class=\"fil-sentence\" data-translation=\"mountain slope\">bundok makiling</span>",
+        "<span class=\"fil-sentence\" data-translation=\"mountain slope\">Bundok makiling</span>",
+        "<span class=\"fil-sentence\" data-translation=\"mountain slope\">Bundok Makiling</span>",
+        "<span class=\"fil-sentence\" data-translation=\"mountain slope\">bundok Makiling</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Tukuyin ang pantangi sa pook sa pangungusap: 'Nakatira ang aking lola sa Laguna.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the object in the sentence: &#x27;My grandmother lives in Laguna.&#x27;\">Tukuyin ang pantangi sa pook sa pangungusap: 'Nakatira ang aking lola sa Laguna.'</span>",
       "options": [
-        "Nakatira",
-        "lola",
-        "Laguna",
-        "aking"
+        "<span class=\"fil-sentence\" data-translation=\"living\">Nakatira</span>",
+        "<span class=\"fil-sentence\" data-translation=\"grandma\">lola</span>",
+        "<span class=\"fil-sentence\" data-translation=\"lagoon\">Laguna</span>",
+        "<span class=\"fil-sentence\" data-translation=\"my\">aking</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Ano ang pambalana ng 'SM City Calamba'?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the fate of &#x27;SM City Calamba&#x27;?\">Ano ang pambalana ng 'SM City Calamba'?</span>",
       "options": [
-        "tahanan",
-        "paaralan",
+        "<span class=\"fil-sentence\" data-translation=\"home\">tahanan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"school\">paaralan</span>",
         "mall",
-        "simbahan"
+        "<span class=\"fil-sentence\" data-translation=\"church\">simbahan</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang pambalana sa pook na ginagamit para sa pag-aalaga ng may-sakit?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following describes the area used for patient care?\">Alin sa mga sumusunod ang pambalana sa pook na ginagamit para sa pag-aalaga ng may-sakit?</span>",
       "options": [
-        "palengke",
-        "ospital",
-        "simbahan",
-        "parke"
+        "<span class=\"fil-sentence\" data-translation=\"market\">palengke</span>",
+        "<span class=\"fil-sentence\" data-translation=\"hospital\">ospital</span>",
+        "<span class=\"fil-sentence\" data-translation=\"church\">simbahan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"park\">parke</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang pantangi ng 'lalawigan'?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is special about the &#x27;province&#x27;?\">Ano ang pantangi ng 'lalawigan'?</span>",
       "options": [
-        "bansa",
+        "<span class=\"fil-sentence\" data-translation=\"country\">bansa</span>",
         "Cavite",
-        "lungsod",
-        "bayan"
+        "<span class=\"fil-sentence\" data-translation=\"city\">lungsod</span>",
+        "<span class=\"fil-sentence\" data-translation=\"country\">bayan</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Tukuyin ang pambalana sa pook: 'Maraming bata ang naglalaro sa plaza.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the place context: &#x27;Many children are playing in the square.&#x27;\">Tukuyin ang pambalana sa pook: 'Maraming bata ang naglalaro sa plaza.'</span>",
       "options": [
-        "bata",
-        "naglalaro",
+        "<span class=\"fil-sentence\" data-translation=\"child\">bata</span>",
+        "<span class=\"fil-sentence\" data-translation=\"playing\">naglalaro</span>",
         "plaza",
-        "maraming"
+        "<span class=\"fil-sentence\" data-translation=\"many\">maraming</span>"
       ],
       "answer": 2
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang 'ospital ng maynila' ay isinusulat nang may maliliit na titik lamang.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: &#x27;Hospital of Manila&#x27; is written with lowercase letters only.\">Tama o Mali: Ang 'ospital ng maynila' ay isinusulat nang may maliliit na titik lamang.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang pambalana sa pook na ngalan ng daan ng sasakyan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the name of the area of ​​the road?\">Alin sa mga sumusunod ang pambalana sa pook na ngalan ng daan ng sasakyan?</span>",
       "options": [
-        "kalsada",
-        "ilog",
-        "bundok",
-        "dagat"
+        "<span class=\"fil-sentence\" data-translation=\"road\">kalsada</span>",
+        "<span class=\"fil-sentence\" data-translation=\"river\">ilog</span>",
+        "<span class=\"fil-sentence\" data-translation=\"mountain\">bundok</span>",
+        "<span class=\"fil-sentence\" data-translation=\"sea\">dagat</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Aling salita ang may pagkakamali sa pagkakagamit ng malaking titik sa pangungusap: 'Pumunta kami sa isang Simbahan kahapon.'?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which word has a capitalization error in the sentence: &#x27;We went to a Church yesterday.&#x27;?\">Aling salita ang may pagkakamali sa pagkakagamit ng malaking titik sa pangungusap: 'Pumunta kami sa isang Simbahan kahapon.'?</span>",
       "options": [
-        "Pumunta",
-        "Simbahan",
-        "kami",
-        "kahapon"
+        "<span class=\"fil-sentence\" data-translation=\"go\">Pumunta</span>",
+        "<span class=\"fil-sentence\" data-translation=\"church\">Simbahan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"us\">kami</span>",
+        "<span class=\"fil-sentence\" data-translation=\"yesterday\">kahapon</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang tinutukoy ng pangngalang pook?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What does the noun place refer to?\">Ano ang tinutukoy ng pangngalang pook?</span>",
       "options": [
-        "ngalan ng tao",
-        "ngalan ng lugar o pook",
-        "ngalan ng bagay",
-        "ngalan ng hayop"
+        "<span class=\"fil-sentence\" data-translation=\"person&#x27;s name\">ngalan ng tao</span>",
+        "<span class=\"fil-sentence\" data-translation=\"name of place or area\">ngalan ng lugar o pook</span>",
+        "<span class=\"fil-sentence\" data-translation=\"object name\">ngalan ng bagay</span>",
+        "<span class=\"fil-sentence\" data-translation=\"animal name\">ngalan ng hayop</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Alin ang pantangi ng 'simbahan'?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which is distinctive of the &#x27;church&#x27;?\">Alin ang pantangi ng 'simbahan'?</span>",
       "options": [
-        "Moske ng Quiapo",
-        "paaralan",
-        "ospital",
-        "bahay"
+        "<span class=\"fil-sentence\" data-translation=\"Quiapo Mosque\">Moske ng Quiapo</span>",
+        "<span class=\"fil-sentence\" data-translation=\"school\">paaralan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"hospital\">ospital</span>",
+        "<span class=\"fil-sentence\" data-translation=\"house\">bahay</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Tukuyin ang pambalana sa pook: 'Malilim ang puno sa aming bakuran.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the location problem: &#x27;The tree in our yard is shady.&#x27;\">Tukuyin ang pambalana sa pook: 'Malilim ang puno sa aming bakuran.'</span>",
       "options": [
-        "puno",
-        "bakuran",
-        "malilim",
-        "aming"
+        "<span class=\"fil-sentence\" data-translation=\"full\">puno</span>",
+        "<span class=\"fil-sentence\" data-translation=\"yard\">bakuran</span>",
+        "<span class=\"fil-sentence\" data-translation=\"shady\">malilim</span>",
+        "<span class=\"fil-sentence\" data-translation=\"our\">aming</span>"
       ],
       "answer": 1
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang 'Pilipinas' ay isang pangngalang pantangi dahil ito ay tiyak na ngalan ng bansa.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: &#x27;Filipinas&#x27; is a proper noun because it is the specific name of the country.\">Tama o Mali: Ang 'Pilipinas' ay isang pangngalang pantangi dahil ito ay tiyak na ngalan ng bansa.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang pambalana sa pook kung saan binabasa ang mga aklat?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following describes the place where books are read?\">Alin sa mga sumusunod ang pambalana sa pook kung saan binabasa ang mga aklat?</span>",
       "options": [
-        "aklatan",
-        "palikuran",
-        "opisina",
-        "tindahan"
+        "<span class=\"fil-sentence\" data-translation=\"library\">aklatan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"toilet\">palikuran</span>",
+        "<span class=\"fil-sentence\" data-translation=\"office\">opisina</span>",
+        "<span class=\"fil-sentence\" data-translation=\"shop\">tindahan</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Saan dapat magsimula ang pagsulat ng pangngalang pantangi?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Where should the writing of proper nouns begin?\">Saan dapat magsimula ang pagsulat ng pangngalang pantangi?</span>",
       "options": [
-        "maliit na titik",
-        "gitnang titik",
-        "malaking titik",
-        "huling titik"
+        "<span class=\"fil-sentence\" data-translation=\"small letter\">maliit na titik</span>",
+        "<span class=\"fil-sentence\" data-translation=\"middle letter\">gitnang titik</span>",
+        "<span class=\"fil-sentence\" data-translation=\"capital letter\">malaking titik</span>",
+        "<span class=\"fil-sentence\" data-translation=\"last letter\">huling titik</span>"
       ],
       "answer": 2
     }
@@ -533,56 +533,56 @@
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge: Aling pangungusap ang naglalaman ng parehong pangngalang pambalana at pantangi sa pook?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Which sentence contains both a predicate and a locative noun?\">Challenge: Aling pangungusap ang naglalaman ng parehong pangngalang pambalana at pantangi sa pook?</span>",
       "options": [
-        "Pumunta si Caloy sa ilog ng Pasig upang mamasyal.",
-        "Nakatira kami sa isang malaking lungsod.",
-        "Maganda ang Lungsod ng Baguio dahil ito ay malamig.",
-        "Ang Paaralang Elementarya ng Calamba ay isang malaking paaralan."
+        "<span class=\"fil-sentence\" data-translation=\"Caloy went to the Pasig river for a walk.\">Pumunta si Caloy sa ilog ng Pasig upang mamasyal.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"We live in a big city.\">Nakatira kami sa isang malaking lungsod.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Baguio City is beautiful because it is cold.\">Maganda ang Lungsod ng Baguio dahil ito ay malamig.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Calamba Elementary School is a big school.\">Ang Paaralang Elementarya ng Calamba ay isang malaking paaralan.</span>"
       ],
       "answer": 3
     },
     {
       "type": "choice",
-      "q": "Challenge: Alin sa mga sumusunod ang may wastong pagsulat ng lahat ng pantangi sa pook?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Which of the following has the correct spelling of all the adjectives in the area?\">Challenge: Alin sa mga sumusunod ang may wastong pagsulat ng lahat ng pantangi sa pook?</span>",
       "options": [
-        "Lungsod Ng Calamba, bulkang Taal",
-        "Lungsod ng Calamba, Bulkang Taal",
-        "lungsod ng calamba, Bulkang taal",
-        "Lungsod ng calamba, bulkang taal"
+        "<span class=\"fil-sentence\" data-translation=\"City Of Calamba, Taal volcano\">Lungsod Ng Calamba, bulkang Taal</span>",
+        "<span class=\"fil-sentence\" data-translation=\"City Of Calamba, Taal volcano\">Lungsod ng Calamba, Bulkang Taal</span>",
+        "<span class=\"fil-sentence\" data-translation=\"City Of Calamba, Taal volcano\">lungsod ng calamba, Bulkang taal</span>",
+        "<span class=\"fil-sentence\" data-translation=\"City Of Calamba, Taal volcano\">Lungsod ng calamba, bulkang taal</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Challenge: Kung ang 'silid-aralan' ay pambalana, alin ang maaaring maging katapat nitong pantangi sa isang paaralan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: If the &#x27;classroom&#x27; is fateful, which can be its special counterpart in a school?\">Challenge: Kung ang 'silid-aralan' ay pambalana, alin ang maaaring maging katapat nitong pantangi sa isang paaralan?</span>",
       "options": [
-        "Silid ng Grade 3-Rizal",
-        "aklatan",
-        "Paaralang Elementarya",
-        "guro"
+        "<span class=\"fil-sentence\" data-translation=\"Room of Grade 3-Rizal\">Silid ng Grade 3-Rizal</span>",
+        "<span class=\"fil-sentence\" data-translation=\"library\">aklatan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Elementary School\">Paaralang Elementarya</span>",
+        "<span class=\"fil-sentence\" data-translation=\"teacher\">guro</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge: Tukuyin kung gaano karaming pangngalang pook ang nasa pangungusap: 'Mula sa aming tahanan, dumaan ako sa kalsada patungo sa paaralan.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Determine how many place nouns are in the sentence: &#x27;From our home, I walked along the road to school.&#x27;\">Challenge: Tukuyin kung gaano karaming pangngalang pook ang nasa pangungusap: 'Mula sa aming tahanan, dumaan ako sa kalsada patungo sa paaralan.'</span>",
       "options": [
-        "isa",
-        "dalawa",
-        "tatlo",
-        "apat"
+        "<span class=\"fil-sentence\" data-translation=\"one\">isa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"two\">dalawa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"three\">tatlo</span>",
+        "<span class=\"fil-sentence\" data-translation=\"four\">apat</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Challenge: Suriin ang pahayag: 'Pumunta si Dr. Rizal sa Europa.' Ano ang kategorya ng 'Europa' sa pangngalan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Analyze the statement: &#x27;Dr. went. Rizal in Europe.&#x27; What is the category of &#x27;Europe&#x27; in the noun?\">Challenge: Suriin ang pahayag: 'Pumunta si Dr. Rizal sa Europa.' Ano ang kategorya ng 'Europa' sa pangngalan?</span>",
       "options": [
-        "Pantangi sa tao",
-        "Pambalana sa pook",
-        "Pantangi sa pook",
-        "Pambalana sa bagay"
+        "<span class=\"fil-sentence\" data-translation=\"Unique to humans\">Pantangi sa tao</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Strategically located\">Pambalana sa pook</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Unique to the area\">Pantangi sa pook</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Be careful with things\">Pambalana sa bagay</span>"
       ],
       "answer": 2
     }

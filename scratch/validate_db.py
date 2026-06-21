@@ -76,6 +76,14 @@ def validate_week_file(file_path):
             slides = sub_data.get('slides', [])
             if len(slides) != 25:
                 errors.append(f"{name} subject '{sub}' study guide has {len(slides)} slides (expected 25).")
+            else:
+                # 8-Line Text Check
+                if is_g3:
+                    for idx, slide in enumerate(slides):
+                        slide_text = slide.get('text', '')
+                        line_count = slide_text.count('\n') + 1
+                        if line_count != 8:
+                            errors.append(f"{name} subject '{sub}' slide {idx + 1} ('{slide.get('title')}') has {line_count} lines of text (expected exactly 8).")
                 
             # Standard/Quiz Check
             quiz = sub_data.get('standard', sub_data.get('quiz', []))
@@ -116,7 +124,7 @@ def validate_codebase_standards():
     # 1. Check required documentation files
     doc_files = {
         "master_context.md": "/home/moondae/Antigravity Projects/Matts Files_apk/master_context.md",
-        "moon_standards.md": "/home/moondae/Antigravity Projects/Matts Files_apk/moon_standards.md",
+        "moon_standards_mlh.md": "/home/moondae/Antigravity Projects/Matts Files_apk/moon_standards_mlh.md",
         "code_map.md": "/home/moondae/Antigravity Projects/Matts Files_apk/code_map.md"
     }
     for name, path in doc_files.items():
@@ -221,7 +229,19 @@ def main():
             print(f"Directory missing: {grade_dir}")
             continue
             
-        for w in weeks:
+        manifest_path = os.path.join(grade_dir, "manifest.json")
+        if os.path.exists(manifest_path):
+            try:
+                with open(manifest_path, "r", encoding="utf-8") as mf:
+                    manifest_data = json.load(mf)
+                grade_weeks = manifest_data.get("weeks", [])
+            except Exception as e:
+                print(f"Warning: Failed to load manifest {manifest_path}: {e}")
+                grade_weeks = [1, 2, 3, 4, 5]
+        else:
+            grade_weeks = [1, 2, 3, 4, 5]
+            
+        for w in grade_weeks:
             file_name = f"week{w}.json"
             file_path = os.path.join(grade_dir, file_name)
             if not os.path.exists(file_path):

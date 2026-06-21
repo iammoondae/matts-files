@@ -1,0 +1,703 @@
+{
+  "color": "#10b981",
+  "icon": "🔬",
+  "title": "Science",
+  "subtitle": "Week 2: Asking Questions Like a Scientist [Advanced]",
+  "slides": [
+    {
+      "title": "Formulating Scientific Questions (Advanced)",
+      "text": "An advanced scientific question must isolate variables and be testable through empirical observation and controlled experimentation.\nThis slide introduces key insights about Formulating Scientific Questions.\nFor instance, consider the example of Empirical:\nBased on verifiable observations or experience rather than theory.\nAnother case is the study of Isolating Variables:\nEnsuring only one factor is changed to observe its direct effect.\nHow does the concept of Formulating Scientific Questions help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Empirical",
+          "content": "Based on verifiable observations or experience rather than theory."
+        },
+        {
+          "title": "Isolating Variables",
+          "content": "Ensuring only one factor is changed to observe its direct effect."
+        }
+      ]
+    },
+    {
+      "title": "Inquiry and Hypotheses (Advanced)",
+      "text": "Questions drive hypotheses.\nA hypothesis acts as a bridge between a question and an experimental test.\nFor instance, consider the example of Formulating:\nConverting 'Why does this happen?' into 'If we change X, then Y will behave in this way.'\nAnother case is the study of Operational Definition:\nDefining exactly how a variable will be measured.\nHow does the concept of Inquiry and Hypotheses help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Formulating",
+          "content": "Converting 'Why does this happen?' into 'If we change X, then Y will behave in this way.'"
+        },
+        {
+          "title": "Operational Definition",
+          "content": "Defining exactly how a variable will be measured."
+        }
+      ]
+    },
+    {
+      "title": "Defining Testable Parameters (Advanced)",
+      "text": "Vague concepts like 'better', 'faster', or 'stronger' must be defined using measurable parameters (time, length, mass).\nThis slide introduces key insights about Defining Testable Parameters.\nFor instance, consider the example of Subjective:\nExample: 'Which plane is best?' (Not testable).\nAnother case is the study of Objective:\nExample: 'Which plane design has the longest flight time in seconds?' (Testable).\nHow does the concept of Defining Testable Parameters help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Subjective",
+          "content": "Example: 'Which plane is best?' (Not testable)."
+        },
+        {
+          "title": "Objective",
+          "content": "Example: 'Which plane design has the longest flight time in seconds?' (Testable)."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Viscosity (Advanced)",
+      "text": "Tinkering with different liquids (water, oil, honey) shows how liquid thickness affects flow rate.\nThis slide introduces key insights about Tinkering with Viscosity.\nFor instance, consider the example of Viscosity:\nA fluid's resistance to flow. Honey has higher viscosity than water.\nAnother case is the study of Experiment:\nHow does heating honey affect its flow rate down a cardboard ramp?\nHow does the concept of Tinkering with Viscosity help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Viscosity",
+          "content": "A fluid's resistance to flow. Honey has higher viscosity than water."
+        },
+        {
+          "title": "Experiment",
+          "content": "How does heating honey affect its flow rate down a cardboard ramp?"
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Air Pressure (Advanced)",
+      "text": "Tinkering with syringes and plastic tubes shows how gas compression behaves under force.\nThis slide introduces key insights about Tinkering with Air Pressure.\nFor instance, consider the example of Compression:\nSqueezing air decreases its volume while increasing pressure.\nAnother case is the study of Pneumatics:\nUsing compressed gas to transmit force and perform mechanical work.\nHow does the concept of Tinkering with Air Pressure help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Compression",
+          "content": "Squeezing air decreases its volume while increasing pressure."
+        },
+        {
+          "title": "Pneumatics",
+          "content": "Using compressed gas to transmit force and perform mechanical work."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Capillary Action (Advanced)",
+      "text": "Tinkering with paper towels and colored water shows how liquids climb upwards against gravity.\nThis slide introduces key insights about Tinkering with Capillary Action.\nFor instance, consider the example of Capillary Action:\nLiquid moving through tiny spaces due to adhesion and cohesion.\nAnother case is the study of Application:\nHow does paper towel thickness affect the rate of water absorption?\nHow does the concept of Tinkering with Capillary Action help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Capillary Action",
+          "content": "Liquid moving through tiny spaces due to adhesion and cohesion."
+        },
+        {
+          "title": "Application",
+          "content": "How does paper towel thickness affect the rate of water absorption?"
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Electromagnetism (Advanced)",
+      "text": "Tinkering with copper wire, an iron nail, and a battery creates a temporary magnet.\nThis slide introduces key insights about Tinkering with Electromagnetism.\nFor instance, consider the example of Electromagnet:\nA magnet created by running electric current through a coil of wire.\nAnother case is the study of Variables:\nHow does the number of wire coils affect the number of paperclips pulled?\nHow does the concept of Tinkering with Electromagnetism help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Electromagnet",
+          "content": "A magnet created by running electric current through a coil of wire."
+        },
+        {
+          "title": "Variables",
+          "content": "How does the number of wire coils affect the number of paperclips pulled?"
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Aerodynamic Lift (Advanced)",
+      "text": "Tinkering with curved cardboard wings demonstrates Bernoulli's principle of air velocity and pressure.\nThis slide introduces key insights about Tinkering with Aerodynamic Lift.\nFor instance, consider the example of Lift:\nUpward aerodynamic force created by pressure differences on a wing.\nAnother case is the study of Angle of Attack:\nThe tilt of the wing relative to oncoming air flow.\nHow does the concept of Tinkering with Aerodynamic Lift help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Lift",
+          "content": "Upward aerodynamic force created by pressure differences on a wing."
+        },
+        {
+          "title": "Angle of Attack",
+          "content": "The tilt of the wing relative to oncoming air flow."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Surface Tension (Advanced)",
+      "text": "Tinkering with water, pepper flakes, and liquid dish soap shows how surface molecules stick together.\nThis slide introduces key insights about Tinkering with Surface Tension.\nFor instance, consider the example of Surface Tension:\nCohesive forces that make water act like it has an elastic skin.\nAnother case is the study of Surfactant:\nSoap breaks surface tension, causing pepper to scatter instantly.\nHow does the concept of Tinkering with Surface Tension help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Surface Tension",
+          "content": "Cohesive forces that make water act like it has an elastic skin."
+        },
+        {
+          "title": "Surfactant",
+          "content": "Soap breaks surface tension, causing pepper to scatter instantly."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Solubility (Advanced)",
+      "text": "Tinkering with salt, water, and sand shows the difference between solutions and mixtures.\nThis slide introduces key insights about Tinkering with Solubility.\nFor instance, consider the example of Solute & Solvent:\nSalt (solute) dissolves in water (solvent) to form a uniform solution.\nAnother case is the study of Suspension:\nSand does not dissolve; it forms a mixture that settles over time.\nHow does the concept of Tinkering with Solubility help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Solute & Solvent",
+          "content": "Salt (solute) dissolves in water (solvent) to form a uniform solution."
+        },
+        {
+          "title": "Suspension",
+          "content": "Sand does not dissolve; it forms a mixture that settles over time."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Light Optics (Advanced)",
+      "text": "Tinkering with water filled jars acts as cylinder lenses, refracting light to flip images.\nThis slide introduces key insights about Tinkering with Light Optics.\nFor instance, consider the example of Refraction Index:\nMeasure of how much a material bends light rays.\nAnother case is the study of Image Reversal:\nLight rays cross at a focal point, reversing the image left to right.\nHow does the concept of Tinkering with Light Optics help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Refraction Index",
+          "content": "Measure of how much a material bends light rays."
+        },
+        {
+          "title": "Image Reversal",
+          "content": "Light rays cross at a focal point, reversing the image left to right."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Rotational Inertia (Advanced)",
+      "text": "Tinkering with spinning eggs (raw vs.\nhard-boiled) shows how internal states affect motion.\nFor instance, consider the example of Inertia:\nAn object's resistance to changes in its rotation state.\nAnother case is the study of Liquid Center:\nRaw eggs spin poorly because the liquid sloshes around inside.\nHow does the concept of Tinkering with Rotational Inertia help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Inertia",
+          "content": "An object's resistance to changes in its rotation state."
+        },
+        {
+          "title": "Liquid Center",
+          "content": "Raw eggs spin poorly because the liquid sloshes around inside."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Light Reflection (Advanced)",
+      "text": "Tinkering with multiple mirrors demonstrates how angle alignments create infinite reflections.\nThis slide introduces key insights about Tinkering with Light Reflection.\nFor instance, consider the example of Law of Reflection:\nThe angle of incidence equals the angle of reflection.\nAnother case is the study of Kaleidoscope:\nArranging mirrors at 60 degree angles creates hexagonal patterns.\nHow does the concept of Tinkering with Light Reflection help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Law of Reflection",
+          "content": "The angle of incidence equals the angle of reflection."
+        },
+        {
+          "title": "Kaleidoscope",
+          "content": "Arranging mirrors at 60 degree angles creates hexagonal patterns."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Pitch Frequency (Advanced)",
+      "text": "Tinkering with glass bottles filled with different levels of water shows how air column length changes pitch.\nThis slide introduces key insights about Tinkering with Pitch Frequency.\nFor instance, consider the example of Resonance:\nStriking a glass vibrates the water; blowing across the top vibrates the air.\nAnother case is the study of Wavelength:\nMore water means less air, creating shorter waves and higher pitches.\nHow does the concept of Tinkering with Pitch Frequency help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Resonance",
+          "content": "Striking a glass vibrates the water; blowing across the top vibrates the air."
+        },
+        {
+          "title": "Wavelength",
+          "content": "More water means less air, creating shorter waves and higher pitches."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Phototropism (Advanced)",
+      "text": "Tinkering with cardboard shoe box mazes shows how plant seedlings navigate obstacles to find light.\nThis slide introduces key insights about Tinkering with Phototropism.\nFor instance, consider the example of Auxin:\nPlant hormone that builds up on the dark side of a stem, causing it to bend.\nAnother case is the study of Adaptation:\nSurvival strategy ensuring leaves can perform photosynthesis.\nHow does the concept of Tinkering with Phototropism help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Auxin",
+          "content": "Plant hormone that builds up on the dark side of a stem, causing it to bend."
+        },
+        {
+          "title": "Adaptation",
+          "content": "Survival strategy ensuring leaves can perform photosynthesis."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Heat Conduction (Advanced)",
+      "text": "Tinkering with butter pats placed on copper, plastic, and wooden spoons shows heat transfer rates.\nThis slide introduces key insights about Tinkering with Heat Conduction.\nFor instance, consider the example of Thermal Conductivity:\nMeasure of a material's ability to conduct heat energy.\nAnother case is the study of Observation:\nButter melts first on copper because metals are excellent conductors.\nHow does the concept of Tinkering with Heat Conduction help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Thermal Conductivity",
+          "content": "Measure of a material's ability to conduct heat energy."
+        },
+        {
+          "title": "Observation",
+          "content": "Butter melts first on copper because metals are excellent conductors."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Rock Density (Advanced)",
+      "text": "Tinkering with a water overflow container allows us to measure the volume of irregular stones.\nThis slide introduces key insights about Tinkering with Rock Density.\nFor instance, consider the example of Displacement:\nAn object placed in water displaces a volume of water equal to its own volume.\nAnother case is the study of Density:\nMass divided by volume. Helps identify minerals.\nHow does the concept of Tinkering with Rock Density help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Displacement",
+          "content": "An object placed in water displaces a volume of water equal to its own volume."
+        },
+        {
+          "title": "Density",
+          "content": "Mass divided by volume. Helps identify minerals."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering with Seed Germination (Advanced)",
+      "text": "Tinkering with soil acidity (adding vinegar or baking soda) tests chemical impact on seed growth.\nThis slide introduces key insights about Tinkering with Seed Germination.\nFor instance, consider the example of pH Level:\nMeasure of acidity or alkalinity of a growing medium.\nAnother case is the study of Germination Rate:\nThe percentage of seeds that sprout under specific test conditions.\nHow does the concept of Tinkering with Seed Germination help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "pH Level",
+          "content": "Measure of acidity or alkalinity of a growing medium."
+        },
+        {
+          "title": "Germination Rate",
+          "content": "The percentage of seeds that sprout under specific test conditions."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Defining Questions (Advanced)",
+      "text": "Refining a raw curiosity statement into a mathematically testable question.\nThis slide introduces key insights about Guided Practice: Defining Questions.\nFor instance, consider the example of Raw observation:\nToy cars go slower on rugs than on wooden floors.\nAnother case is the study of Testable Question:\nHow does the texture of a surface affect the friction force in Newtons?\nHow does the concept of Guided Practice: Defining Questions help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Raw observation",
+          "content": "Toy cars go slower on rugs than on wooden floors."
+        },
+        {
+          "title": "Testable Question",
+          "content": "How does the texture of a surface affect the friction force in Newtons?"
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Controlled Setups (Advanced)",
+      "text": "Designing a control group to compare results against experimental groups.\nThis slide introduces key insights about Guided Practice: Controlled Setups.\nFor instance, consider the example of Control Group:\nThe baseline setup kept under normal conditions (no changes).\nAnother case is the study of Experimental Group:\nThe setup where the independent variable is changed.\nHow does the concept of Guided Practice: Controlled Setups help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Control Group",
+          "content": "The baseline setup kept under normal conditions (no changes)."
+        },
+        {
+          "title": "Experimental Group",
+          "content": "The setup where the independent variable is changed."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Liquid Viscosity (Advanced)",
+      "text": "Formulating questions about fluid dynamics and flow rates.\nThis slide introduces key insights about Guided Practice: Liquid Viscosity.\nFor instance, consider the example of Observation:\nCold maple syrup flows slower than warm maple syrup.\nAnother case is the study of Question:\nHow does liquid temperature affect viscosity and flow rate?\nHow does the concept of Guided Practice: Liquid Viscosity help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Observation",
+          "content": "Cold maple syrup flows slower than warm maple syrup."
+        },
+        {
+          "title": "Question",
+          "content": "How does liquid temperature affect viscosity and flow rate?"
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Plant Geotropism (Advanced)",
+      "text": "Formulating questions about gravity's impact on roots and stems.\nThis slide introduces key insights about Guided Practice: Plant Geotropism.\nFor instance, consider the example of Observation:\nRoots grow downwards even if the seed is planted upside down.\nAnother case is the study of Question:\nHow does gravity influence the direction of root growth (geotropism)?\nHow does the concept of Guided Practice: Plant Geotropism help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Observation",
+          "content": "Roots grow downwards even if the seed is planted upside down."
+        },
+        {
+          "title": "Question",
+          "content": "How does gravity influence the direction of root growth (geotropism)?"
+        }
+      ]
+    },
+    {
+      "title": "Common Error: Confounding Variables (Advanced)",
+      "text": "Changing more than one variable at a time makes it impossible to know which caused the result.\nThis slide introduces key insights about Common Error: Confounding Variables.\nFor instance, consider the example of Incorrect:\nTesting different plane shapes using different paper materials.\nAnother case is the study of Correct:\nUsing the exact same paper material for all plane shapes tested.\nHow does the concept of Common Error: Confounding Variables help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Incorrect",
+          "content": "Testing different plane shapes using different paper materials."
+        },
+        {
+          "title": "Correct",
+          "content": "Using the exact same paper material for all plane shapes tested."
+        }
+      ]
+    },
+    {
+      "title": "Common Error: Ignoring Anomalies (Advanced)",
+      "text": "Do not ignore unexpected data points.\nAnomalies often lead to new discoveries.\nFor instance, consider the example of Incorrect:\nDeleting a test result because it does not fit your hypothesis.\nAnother case is the study of Correct:\nRecording the anomaly and investigating what hidden variable caused it.\nHow does the concept of Common Error: Ignoring Anomalies help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Incorrect",
+          "content": "Deleting a test result because it does not fit your hypothesis."
+        },
+        {
+          "title": "Correct",
+          "content": "Recording the anomaly and investigating what hidden variable caused it."
+        }
+      ]
+    },
+    {
+      "title": "Summary of Week 2 Advanced (Advanced)",
+      "text": "You completed Week 2 Advanced! You can now isolate variables and formulate operational definitions.\nThis slide introduces key insights about Summary of Week 2 Advanced.\nFor instance, consider the example of Key Takeaway:\nTinkering must be done systematically by holding controls constant.\nAnother case is the study of Next Step:\nGet ready to study advanced science tools and precision measurement in Week 3!\nHow does the concept of Summary of Week 2 Advanced help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Key Takeaway",
+          "content": "Tinkering must be done systematically by holding controls constant."
+        },
+        {
+          "title": "Next Step",
+          "content": "Get ready to study advanced science tools and precision measurement in Week 3!"
+        }
+      ]
+    }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Which of the following is the most testable scientific question?",
+      "options": [
+        "Is honey better than syrup?",
+        "Does heating honey reduce the time it takes to flow down a 30-degree ramp?",
+        "Why do people like honey?",
+        "Is honey a nice liquid?"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What do we call the factor in an experiment that is intentionally changed by the scientist?",
+      "options": [
+        "Dependent variable",
+        "Independent variable",
+        "Controlled variable",
+        "Constant factor"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Why must we keep controlled variables constant in an experiment?",
+      "options": [
+        "To make the experiment run faster.",
+        "To ensure that any changes in the dependent variable are caused ONLY by the independent variable.",
+        "To test multiple hypotheses at the same time.",
+        "To get a high score on the test."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What property is demonstrated when water climbs up a paper towel suspended over a cup?",
+      "options": [
+        "Viscosity",
+        "Capillary action",
+        "Surface tension",
+        "Density"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "How does adding liquid dish soap to water affect its surface tension?",
+      "options": [
+        "It increases it.",
+        "It reduces it, breaking the cohesive forces.",
+        "It has no effect.",
+        "It turns water into ice."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "A student wants to test if the number of coils in an electromagnet affects its strength. What is the dependent variable?",
+      "options": [
+        "The size of the battery",
+        "The number of paperclips attracted",
+        "The thickness of the wire",
+        "The number of coils wound around the nail"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Why does a raw egg spin slower and stop sooner than a hard-boiled egg?",
+      "options": [
+        "Raw eggs are heavier.",
+        "The liquid inside the raw egg sloshes, creating internal friction (inertia) that opposes rotation.",
+        "The shell of a raw egg is rougher.",
+        "Hard-boiled eggs have more magic force."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following describes Bernoulli's principle?",
+      "options": [
+        "As fluid velocity increases, static pressure decreases.",
+        "Objects float if they displace equal water weight.",
+        "Action has an equal and opposite reaction.",
+        "Heat flows from hot to cold objects."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "In a plant shoe-box maze experiment testing phototropism, what is the independent variable?",
+      "options": [
+        "The height of the plant",
+        "The pathway towards light",
+        "The amount of light entering the box",
+        "The type of soil used"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which method is used to measure the volume of an irregular solid object like a stone?",
+      "options": [
+        "Using a ruler to measure width",
+        "Water displacement in a graduated cylinder",
+        "Weighing it on a digital scale",
+        "Melting the stone into liquid"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What is the angle of reflection if light hits a flat mirror at an angle of 30 degrees?",
+      "options": [
+        "15 degrees",
+        "30 degrees",
+        "60 degrees",
+        "90 degrees"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Viscosity is a liquid's resistance to flow.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What is a control group in a scientific experiment?",
+      "options": [
+        "The group that controls the equipment.",
+        "The group kept under standard conditions to act as a baseline comparison.",
+        "The group where all variables are changed.",
+        "The group that is ignored."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which variable is changed when testing the effect of salt concentration on water's boiling point?",
+      "options": [
+        "The boiling temperature",
+        "The concentration of salt added",
+        "The volume of water used",
+        "The heat source used"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What happens to water molecules at the surface to create surface tension?",
+      "options": [
+        "They push each other away.",
+        "They pull tightly towards each other due to cohesive forces.",
+        "They turn into air.",
+        "They freeze into ice."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What hormone in plants is responsible for cell elongation on the dark side of a stem during phototropism?",
+      "options": [
+        "Chlorophyll",
+        "Auxin",
+        "Humus",
+        "Glucose"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which material has the highest thermal conductivity?",
+      "options": [
+        "Plastic spoon",
+        "Wooden stick",
+        "Copper wire",
+        "Rubber eraser"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "How does increasing the frequency of a sound wave affect its pitch?",
+      "options": [
+        "The pitch gets lower.",
+        "The pitch gets higher.",
+        "The volume increases.",
+        "The sound stops."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Capillary action occurs because water molecules adhere to the tube walls and cohere to each other.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What does pH measure in a soil sample?",
+      "options": [
+        "Soil density",
+        "Acidity or alkalinity",
+        "Water absorption rate",
+        "Organic matter percentage"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which question is non-testable because it contains subjective terms?",
+      "options": [
+        "How many leaves does the plant grow in one week?",
+        "Is loam soil the best soil for growing roses?",
+        "Does clay soil hold more water than sandy soil?",
+        "What is the height of the plant after ten days?"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What is the density of a 100-gram rock that displaces 20 milliliters of water?",
+      "options": [
+        "2 g/mL",
+        "5 g/mL",
+        "10 g/mL",
+        "50 g/mL"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Changing both the type of soil and the amount of water in a plant test is a confounding setup.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What do we call unexpected data points that do not align with the hypothesis?",
+      "options": [
+        "Errors",
+        "Anomalies",
+        "Constants",
+        "Results"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following is an operational definition of plant growth rate?",
+      "options": [
+        "How happy the plant looks",
+        "The change in plant height in centimeters per day",
+        "The greenness of the leaves",
+        "The quality of the fruit produced"
+      ],
+      "answer": 1
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "You are testing if temperature affects the viscosity of oil. You measure the flow time in seconds. What is the dependent variable?",
+      "options": [
+        "The temperature of the oil",
+        "The flow time in seconds",
+        "The type of oil used",
+        "The slope of the ramp"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "How would you set up a control group to test if a new plant food accelerates tomato production?",
+      "options": [
+        "Grow one plant with double fertilizer.",
+        "Grow a group of identical plants under the exact same conditions, but with NO plant food added.",
+        "Grow plants in different soils.",
+        "Grow different plant species with the food."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "A student measures the displacement of a toy figurine in a cylinder. The water rises from 50 mL to 68 mL. What is the volume of the figurine?",
+      "options": [
+        "18 mL",
+        "50 mL",
+        "68 mL",
+        "118 mL"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following is a testable hypothesis based on the question: 'Does surface texture affect top speed?'",
+      "options": [
+        "If the surface is rough, the top will spin slower due to friction.",
+        "Rough surfaces are very bad for spinning tops.",
+        "Circular force keeps tops standing upright.",
+        "Spinning tops is a fun science game."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What error is committed if a scientist rejects data points that contradict their hypothesis without investigation?",
+      "options": [
+        "Confounding error",
+        "Selection bias (cherry-picking data)",
+        "Measurement error",
+        "Sampling bias"
+      ],
+      "answer": 1
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Experimental Variable & Protocol Architect",
+    "desc": "Identify a advanced inquiry question (e.g., 'How does salt concentration affect the surface tension of water measured by the number of drops on a coin?'). Formulate a testable hypothesis, write down a step-by-step experimental protocol including a control group, and construct a blank data table to record your variables.",
+    "labels": [
+      "Wrote a mathematically testable hypothesis with isolated variables",
+      "Detailed a logical experimental protocol with a clear control setup",
+      "Designed a professional data table with labeled units (e.g., mL, drops, seconds)"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Testable vs. Non-Testable Questions</h3>\n                  <p class=\"ws-instruction\">Classify each scientific query as either <strong>Testable</strong> (can be measured and tested) or <strong>Non-Testable</strong> (subjective or vague).</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Is clay the most fun material to play with in class?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Non-Testable</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Does heating modeling clay reduce the force needed to bend it by 50%?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Testable</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Do plants like music better than quiet rooms?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Non-Testable</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Identifying Confounding Variables</h3>\n                  <p class=\"ws-instruction\">Read the scenario below and identify the mistake in the experimental design.</p>\n                  <div class=\"ws-item-row\">\n                    <p><em>Scenario: Matteo wants to test if wing size affects paper plane distance. He folds a small-winged plane using heavy cardboard and a large-winged plane using thin copy paper. He throws them both in the wind.</em></p>\n                    <div class=\"ws-q\">Identify the confounding variables that make this test unfair:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 100%;\"><span class=\"ws-answer\">Matteo changed both the wing size and the paper thickness/weight,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 100%;\"><span class=\"ws-answer\">making it impossible to know which factor affected the flight distance.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Advanced Variable Control Protocol</h3>\n                  <p class=\"ws-instruction\">Write down the operational definition and the baseline control for the following question.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Question: <strong>How does water salinity affect capillary action in cotton fabric?</strong></div>\n                    <div class=\"ws-q\" style=\"margin-top: 15px;\">1. Operational Definition of Capillary Action:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 90%;\"><span class=\"ws-answer\">The height in millimeters that liquid climbs up a fabric strip in 5 minutes</span></div>\n                    <div class=\"ws-q\" style=\"margin-top: 15px;\">2. Baseline Control Group:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 90%;\"><span class=\"ws-answer\">A cotton fabric strip placed in pure tap water with zero salt added</span></div>\n                  </div>\n                </div>"
+    ]
+  }
+}

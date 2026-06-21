@@ -258,270 +258,270 @@
   "standard": [
     {
       "type": "choice",
-      "q": "Ano ang tawag sa mga salitang naglalarawan sa katangian ng pangngalan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What are the words that describe the characteristics of the noun called?\">Ano ang tawag sa mga salitang naglalarawan sa katangian ng pangngalan?</span>",
       "options": [
-        "pandiwa",
-        "panghalip",
-        "pang-uri",
-        "pangatnig"
+        "<span class=\"fil-sentence\" data-translation=\"verb\">pandiwa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"pronoun\">panghalip</span>",
+        "<span class=\"fil-sentence\" data-translation=\"adjective\">pang-uri</span>",
+        "<span class=\"fil-sentence\" data-translation=\"consonant\">pangatnig</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang isang pang-uri na naglalarawan ng texture?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is an adjective describing texture?\">Alin sa mga sumusunod ang isang pang-uri na naglalarawan ng texture?</span>",
       "options": [
-        "bato",
-        "magaspang",
-        "lapis",
-        "pusa"
+        "<span class=\"fil-sentence\" data-translation=\"rock\">bato</span>",
+        "<span class=\"fil-sentence\" data-translation=\"rough\">magaspang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"pencil\">lapis</span>",
+        "<span class=\"fil-sentence\" data-translation=\"cat\">pusa</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Aling pang-uri ang angkop para sa bulak na ginagamit sa klinika?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which adjective is appropriate for cotton used in the clinic?\">Aling pang-uri ang angkop para sa bulak na ginagamit sa klinika?</span>",
       "options": [
-        "matigas",
-        "malambot",
-        "makintab",
-        "mabigat"
+        "<span class=\"fil-sentence\" data-translation=\"tough\">matigas</span>",
+        "<span class=\"fil-sentence\" data-translation=\"soft\">malambot</span>",
+        "<span class=\"fil-sentence\" data-translation=\"shiny\">makintab</span>",
+        "<span class=\"fil-sentence\" data-translation=\"heavy\">mabigat</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Aling pang-uri ang angkop para sa bakal na susi sa pintuan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which adjective is appropriate for a steel door key?\">Aling pang-uri ang angkop para sa bakal na susi sa pintuan?</span>",
       "options": [
-        "malambot",
-        "matigas",
-        "magaan",
-        "mabango"
+        "<span class=\"fil-sentence\" data-translation=\"soft\">malambot</span>",
+        "<span class=\"fil-sentence\" data-translation=\"tough\">matigas</span>",
+        "<span class=\"fil-sentence\" data-translation=\"light\">magaan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"fragrant\">mabango</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang texture ng isang salamin o glass desk?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the texture of a mirror or glass desk?\">Ano ang texture ng isang salamin o glass desk?</span>",
       "options": [
-        "magaspang",
-        "makinis",
-        "malambot",
-        "mabuhangin"
+        "<span class=\"fil-sentence\" data-translation=\"rough\">magaspang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"smooth\">makinis</span>",
+        "<span class=\"fil-sentence\" data-translation=\"soft\">malambot</span>",
+        "<span class=\"fil-sentence\" data-translation=\"sandy\">mabuhangin</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Tukuyin ang pang-uri sa parirala: 'pulang krayola'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the adjective in the phrase: &#x27;red crayon&#x27;\">Tukuyin ang pang-uri sa parirala: 'pulang krayola'</span>",
       "options": [
-        "krayola",
-        "pulang",
-        "pulang krayola",
-        "walang pang-uri"
+        "<span class=\"fil-sentence\" data-translation=\"crayon\">krayola</span>",
+        "<span class=\"fil-sentence\" data-translation=\"red\">pulang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"red crayon\">pulang krayola</span>",
+        "<span class=\"fil-sentence\" data-translation=\"no adjective\">walang pang-uri</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Tukuyin ang pang-uri sa pangungusap: 'Ang matigas na semento ay hindi mabali.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the adjective in the sentence: &#x27;Hard concrete cannot be broken.&#x27;\">Tukuyin ang pang-uri sa pangungusap: 'Ang matigas na semento ay hindi mabali.'</span>",
       "options": [
-        "semento",
-        "mabali",
-        "matigas",
-        "hindi"
+        "<span class=\"fil-sentence\" data-translation=\"cement\">semento</span>",
+        "<span class=\"fil-sentence\" data-translation=\"break\">mabali</span>",
+        "<span class=\"fil-sentence\" data-translation=\"tough\">matigas</span>",
+        "<span class=\"fil-sentence\" data-translation=\"no\">hindi</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Ano ang angkop na pang-uri para sa liha na ginagamit sa kahoy?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is an appropriate adjective for sandpaper used on wood?\">Ano ang angkop na pang-uri para sa liha na ginagamit sa kahoy?</span>",
       "options": [
-        "makinis",
-        "magaspang",
-        "malambot",
-        "makintab"
+        "<span class=\"fil-sentence\" data-translation=\"smooth\">makinis</span>",
+        "<span class=\"fil-sentence\" data-translation=\"rough\">magaspang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"soft\">malambot</span>",
+        "<span class=\"fil-sentence\" data-translation=\"shiny\">makintab</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang pang-uri na naglalarawan ng hitsura ng gintong barya?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is an adjective that describes the appearance of a gold coin?\">Alin sa mga sumusunod ang pang-uri na naglalarawan ng hitsura ng gintong barya?</span>",
       "options": [
-        "malambot",
-        "makintab",
-        "magaspang",
-        "magaan"
+        "<span class=\"fil-sentence\" data-translation=\"soft\">malambot</span>",
+        "<span class=\"fil-sentence\" data-translation=\"shiny\">makintab</span>",
+        "<span class=\"fil-sentence\" data-translation=\"rough\">magaspang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"light\">magaan</span>"
       ],
       "answer": 1
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang salitang 'bato' ay isang pang-uri.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: The word &#x27;stone&#x27; is an adjective.\">Tama o Mali: Ang salitang 'bato' ay isang pang-uri.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Aling pang-uri ang angkop para sa unan na ginagamit sa higaan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which adjective is appropriate for a pillow used on a bed?\">Aling pang-uri ang angkop para sa unan na ginagamit sa higaan?</span>",
       "options": [
-        "matigas",
-        "mabigat",
-        "malambot",
-        "magaspang"
+        "<span class=\"fil-sentence\" data-translation=\"tough\">matigas</span>",
+        "<span class=\"fil-sentence\" data-translation=\"heavy\">mabigat</span>",
+        "<span class=\"fil-sentence\" data-translation=\"soft\">malambot</span>",
+        "<span class=\"fil-sentence\" data-translation=\"rough\">magaspang</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Tukuyin ang pang-uri sa pangungusap: 'Bumili si Matteo ng makintab na coin.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the adjective in the sentence: &#x27;Matteo bought a shiny coin.&#x27;\">Tukuyin ang pang-uri sa pangungusap: 'Bumili si Matteo ng makintab na coin.'</span>",
       "options": [
         "Matteo",
-        "coin",
-        "makintab",
-        "Bumili"
+        "<span class=\"fil-sentence\" data-translation=\"coins\">coin</span>",
+        "<span class=\"fil-sentence\" data-translation=\"shiny\">makintab</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Buy\">Bumili</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Ano ang angkop na pang-uri para sa pader na semento na hindi pa napapakinis?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the appropriate adjective for a concrete wall that has not been smoothed?\">Ano ang angkop na pang-uri para sa pader na semento na hindi pa napapakinis?</span>",
       "options": [
-        "makinis",
-        "magaspang",
-        "malambot",
-        "makintab"
+        "<span class=\"fil-sentence\" data-translation=\"smooth\">makinis</span>",
+        "<span class=\"fil-sentence\" data-translation=\"rough\">magaspang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"soft\">malambot</span>",
+        "<span class=\"fil-sentence\" data-translation=\"shiny\">makintab</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Aling pang-uri ang naglalarawan sa ibabaw ng bagong papel sa pagsulat?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which adjective describes the surface of the new writing paper?\">Aling pang-uri ang naglalarawan sa ibabaw ng bagong papel sa pagsulat?</span>",
       "options": [
-        "magaspang",
-        "makinis",
-        "malambot",
-        "mabigat"
+        "<span class=\"fil-sentence\" data-translation=\"rough\">magaspang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"smooth\">makinis</span>",
+        "<span class=\"fil-sentence\" data-translation=\"soft\">malambot</span>",
+        "<span class=\"fil-sentence\" data-translation=\"heavy\">mabigat</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang naglalarawan sa 'modeling clay' kapag ito ay pinipisa ng kamay?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What describes &#x27;modeling clay&#x27; when it is hand-moulded?\">Ano ang naglalarawan sa 'modeling clay' kapag ito ay pinipisa ng kamay?</span>",
       "options": [
-        "matigas",
-        "malambot",
-        "makintab",
-        "magaspang"
+        "<span class=\"fil-sentence\" data-translation=\"tough\">matigas</span>",
+        "<span class=\"fil-sentence\" data-translation=\"soft\">malambot</span>",
+        "<span class=\"fil-sentence\" data-translation=\"shiny\">makintab</span>",
+        "<span class=\"fil-sentence\" data-translation=\"rough\">magaspang</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Tukuyin ang pang-uri sa pangungusap: 'Malilim ang malawak na plaza.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the adjective in the sentence: &#x27;The wide square is shady.&#x27;\">Tukuyin ang pang-uri sa pangungusap: 'Malilim ang malawak na plaza.'</span>",
       "options": [
-        "Malilim",
-        "malawak",
+        "<span class=\"fil-sentence\" data-translation=\"shady\">Malilim</span>",
+        "<span class=\"fil-sentence\" data-translation=\"wide\">malawak</span>",
         "plaza",
-        "ang"
+        "<span class=\"fil-sentence\" data-translation=\"The\">ang</span>"
       ],
       "answer": 1
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang 'makinis' at 'magaspang' ay mga pang-uri na tumutukoy sa texture ng bagay.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: &#x27;Smooth&#x27; and &#x27;rough&#x27; are adjectives that refer to the texture of an object.\">Tama o Mali: Ang 'makinis' at 'magaspang' ay mga pang-uri na tumutukoy sa texture ng bagay.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod na parirala ang may wastong pang-angkop sa wika?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following phrases has the correct linguistic form?\">Alin sa mga sumusunod na parirala ang may wastong pang-angkop sa wika?</span>",
       "options": [
-        "matigas ng semento",
-        "matigas na semento",
-        "matigas semento",
-        "matigasang semento"
+        "<span class=\"fil-sentence\" data-translation=\"cement hard\">matigas ng semento</span>",
+        "<span class=\"fil-sentence\" data-translation=\"hard concrete\">matigas na semento</span>",
+        "<span class=\"fil-sentence\" data-translation=\"hard cement\">matigas semento</span>",
+        "<span class=\"fil-sentence\" data-translation=\"hard cement\">matigasang semento</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Aling salita ang pang-uri sa pangungusap: 'Si Gng. Santos ay nagdala ng pulang bulaklak.'?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which word is the adjective in the sentence: &#x27;Si Gng. Santos brought red flowers.&#x27;?\">Aling salita ang pang-uri sa pangungusap: 'Si Gng. Santos ay nagdala ng pulang bulaklak.'?</span>",
       "options": [
-        "Santos",
-        "bulaklak",
-        "pulang",
-        "nagdala"
+        "<span class=\"fil-sentence\" data-translation=\"saint\">Santos</span>",
+        "<span class=\"fil-sentence\" data-translation=\"flower\">bulaklak</span>",
+        "<span class=\"fil-sentence\" data-translation=\"red\">pulang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"brought\">nagdala</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Ano ang tinutukoy ng pang-uri sa pangungusap?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What does the adjective refer to in the sentence?\">Ano ang tinutukoy ng pang-uri sa pangungusap?</span>",
       "options": [
-        "katangian ng pangngalan",
-        "kilos ng tao",
-        "lugar ng pangyayari",
-        "ngalan ng hayop"
+        "<span class=\"fil-sentence\" data-translation=\"characteristic of the noun\">katangian ng pangngalan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"human behavior\">kilos ng tao</span>",
+        "<span class=\"fil-sentence\" data-translation=\"place of occurrence\">lugar ng pangyayari</span>",
+        "<span class=\"fil-sentence\" data-translation=\"animal name\">ngalan ng hayop</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Aling pang-uri ang angkop para sa tuyong balat ng puno ng narra?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which adjective is appropriate for the dry bark of the narra tree?\">Aling pang-uri ang angkop para sa tuyong balat ng puno ng narra?</span>",
       "options": [
-        "makinis",
-        "magaspang",
-        "malambot",
-        "makintab"
+        "<span class=\"fil-sentence\" data-translation=\"smooth\">makinis</span>",
+        "<span class=\"fil-sentence\" data-translation=\"rough\">magaspang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"soft\">malambot</span>",
+        "<span class=\"fil-sentence\" data-translation=\"shiny\">makintab</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Tukuyin ang pang-uri: 'Ang malinis na ilog ay malamig sa paa.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the adjective: &#x27;A clean river is cool to the feet.&#x27;\">Tukuyin ang pang-uri: 'Ang malinis na ilog ay malamig sa paa.'</span>",
       "options": [
-        "ilog",
-        "malinis",
-        "paa",
-        "sa"
+        "<span class=\"fil-sentence\" data-translation=\"river\">ilog</span>",
+        "<span class=\"fil-sentence\" data-translation=\"clean\">malinis</span>",
+        "<span class=\"fil-sentence\" data-translation=\"foot\">paa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"in\">sa</span>"
       ],
       "answer": 1
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang 'makintab' ay ginagamit para sa mga bagay na hindi sumasalamin sa liwanag.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: &#x27;Shiny&#x27; is used for things that do not reflect light.\">Tama o Mali: Ang 'makintab' ay ginagamit para sa mga bagay na hindi sumasalamin sa liwanag.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang pang-uri na naglalarawan ng sukat ng isang pook?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is an adjective that describes the size of an area?\">Alin sa mga sumusunod ang pang-uri na naglalarawan ng sukat ng isang pook?</span>",
       "options": [
-        "malawak",
-        "mabango",
-        "matigas",
-        "makintab"
+        "<span class=\"fil-sentence\" data-translation=\"wide\">malawak</span>",
+        "<span class=\"fil-sentence\" data-translation=\"fragrant\">mabango</span>",
+        "<span class=\"fil-sentence\" data-translation=\"tough\">matigas</span>",
+        "<span class=\"fil-sentence\" data-translation=\"shiny\">makintab</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Paano isinusulat ang pariralang 'maganda + papel' gamit ang pang-angkop?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"How to write the phrase &#x27;beautiful + paper&#x27; using the appropriate?\">Paano isinusulat ang pariralang 'maganda + papel' gamit ang pang-angkop?</span>",
       "options": [
-        "maganda na papel",
-        "magandang papel",
-        "magandag papel",
-        "maganda papel"
+        "<span class=\"fil-sentence\" data-translation=\"nice paper\">maganda na papel</span>",
+        "<span class=\"fil-sentence\" data-translation=\"good paper\">magandang papel</span>",
+        "<span class=\"fil-sentence\" data-translation=\"nice paper\">magandag papel</span>",
+        "<span class=\"fil-sentence\" data-translation=\"nice paper\">maganda papel</span>"
       ],
       "answer": 1
     }
@@ -529,56 +529,56 @@
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge: Aling pangungusap ang naglalaman ng parehong pang-uri para sa texture at pang-uri para sa hardness?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Which sentence contains both an adjective for texture and an adjective for hardness?\">Challenge: Aling pangungusap ang naglalaman ng parehong pang-uri para sa texture at pang-uri para sa hardness?</span>",
       "options": [
-        "Ang makinis na glass desk ay may matigas na paa na bakal.",
-        "Naglalaro ang aso sa malawak na kalsada.",
-        "Si Gng. Santos ay nagdala ng pulang bulaklak.",
-        "Masaya si Muning habang kumakain ng malambot na isda."
+        "<span class=\"fil-sentence\" data-translation=\"The sleek glass desk has sturdy steel legs.\">Ang makinis na glass desk ay may matigas na paa na bakal.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"The dog is playing on the wide road.\">Naglalaro ang aso sa malawak na kalsada.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Mrs. Santos brought red flowers.\">Si Gng. Santos ay nagdala ng pulang bulaklak.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Muning was happy while eating soft fish.\">Masaya si Muning habang kumakain ng malambot na isda.</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge: Aling parirala ang may pagkakamali sa pagkakagamit ng pang-angkop?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Which phrase has an adverbial error?\">Challenge: Aling parirala ang may pagkakamali sa pagkakagamit ng pang-angkop?</span>",
       "options": [
-        "makinis na papel",
-        "matigas na bakal",
-        "malambot na bulak",
-        "makintab na aso"
+        "<span class=\"fil-sentence\" data-translation=\"smooth paper\">makinis na papel</span>",
+        "<span class=\"fil-sentence\" data-translation=\"hard steel\">matigas na bakal</span>",
+        "<span class=\"fil-sentence\" data-translation=\"soft cotton\">malambot na bulak</span>",
+        "<span class=\"fil-sentence\" data-translation=\"shiny dog\">makintab na aso</span>"
       ],
       "answer": 3
     },
     {
       "type": "choice",
-      "q": "Challenge: Suriin ang pahayag: 'Ang bagong coin ay makintab.' Ano ang pangngalan na inilalarawan ng 'makintab'?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Check the statement: &#x27;The new coin is shiny.&#x27; What noun does &#x27;shiny&#x27; describe?\">Challenge: Suriin ang pahayag: 'Ang bagong coin ay makintab.' Ano ang pangngalan na inilalarawan ng 'makintab'?</span>",
       "options": [
-        "bagong",
-        "coin",
-        "ay",
-        "barya"
+        "<span class=\"fil-sentence\" data-translation=\"new\">bagong</span>",
+        "<span class=\"fil-sentence\" data-translation=\"coins\">coin</span>",
+        "<span class=\"fil-sentence\" data-translation=\"is\">ay</span>",
+        "<span class=\"fil-sentence\" data-translation=\"coin\">barya</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Challenge: Tukuyin kung gaano karaming pang-uri ang nasa pangungusap: 'Ang malinis at malawak na plaza ay may pulang bulaklak.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Determine how many adjectives are in the sentence: &#x27;The clean and wide square has red flowers.&#x27;\">Challenge: Tukuyin kung gaano karaming pang-uri ang nasa pangungusap: 'Ang malinis at malawak na plaza ay may pulang bulaklak.'</span>",
       "options": [
-        "isa",
-        "dalawa",
-        "tatlo",
-        "apat"
+        "<span class=\"fil-sentence\" data-translation=\"one\">isa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"two\">dalawa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"three\">tatlo</span>",
+        "<span class=\"fil-sentence\" data-translation=\"four\">apat</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Challenge: Aling pang-uri ang HINDI angkop gamitin para sa solid na materyal na 'modeling clay'?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Which adjective is NOT appropriate to use for the solid material &#x27;modeling clay&#x27;?\">Challenge: Aling pang-uri ang HINDI angkop gamitin para sa solid na materyal na 'modeling clay'?</span>",
       "options": [
-        "malambot",
+        "<span class=\"fil-sentence\" data-translation=\"soft\">malambot</span>",
         "malleable",
-        "matigas",
-        "makulay"
+        "<span class=\"fil-sentence\" data-translation=\"tough\">matigas</span>",
+        "<span class=\"fil-sentence\" data-translation=\"colorful\">makulay</span>"
       ],
       "answer": 2
     }

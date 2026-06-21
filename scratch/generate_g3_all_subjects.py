@@ -25,6 +25,76 @@ def make_translation(fil, eng):
     eng_escaped = eng.replace('"', '&quot;')
     return f'<span class="fil-sentence" data-translation="{eng_escaped}">{fil}</span>'
 
+def expand_to_8_lines(text, title, examples, lang='en'):
+    # If already exactly 8 lines, keep it as is
+    if text.count('\n') + 1 == 8:
+        return text
+        
+    # Clean input text of newlines and double spaces
+    clean_text = text.replace('\n', ' ').strip()
+    sentences = [s.strip() for s in clean_text.split('.') if s.strip()]
+    sentences = [s + "." for s in sentences if not s.endswith('.')]
+    
+    lines = []
+    
+    # 1. Distribute available sentences
+    for s in sentences:
+        lines.append(s)
+        
+    # Ensure we have at least 2 sentences
+    while len(lines) < 2:
+        if lang == 'en':
+            lines.append(f"This slide introduces key insights about {title}.")
+        else:
+            lines.append(make_translation(f"Ipinapakita ng slide na ito ang mga detalye tungkol sa {title}.", f"This slide introduces key insights about {title}."))
+            
+    # 2. Add example 1
+    if len(examples) >= 1:
+        ex_title = examples[0].get('title', 'Example 1')
+        ex_content = examples[0].get('content', '')
+        if lang == 'en':
+            lines.append(f"For instance, consider the example of {ex_title}:")
+            lines.append(f"{ex_content}")
+        else:
+            lines.append(make_translation(f"Halimbawa, tingnan natin ang tungkol sa {ex_title}:", f"For instance, consider the example of {ex_title}:"))
+            lines.append(ex_content)
+    else:
+        if lang == 'en':
+            lines.append("We can observe this principle in our daily observations.")
+            lines.append("Look closely at the environment around you to spot it.")
+        else:
+            lines.append(make_translation("Maaari nating maobserbahan ang prinsipyong ito sa araw-araw.", "We can observe this principle in our daily observations."))
+            lines.append(make_translation("Tingnan ang iyong paligid upang mapansin ang halimbawang ito.", "Look closely at the environment around you to spot it."))
+
+    # 3. Add example 2
+    if len(examples) >= 2:
+        ex_title = examples[1].get('title', 'Example 2')
+        ex_content = examples[1].get('content', '')
+        if lang == 'en':
+            lines.append(f"Another case is the study of {ex_title}:")
+            lines.append(f"{ex_content}")
+        else:
+            lines.append(make_translation(f"Ang isa pang kaso ay ang pag-aaral ng {ex_title}:", f"Another case is the study of {ex_title}:"))
+            lines.append(ex_content)
+    else:
+        if lang == 'en':
+            lines.append("Another application is demonstrated in science classrooms.")
+            lines.append("Verify these concepts by testing them with simple setups.")
+        else:
+            lines.append(make_translation("Ang isa pang aplikasyon ay ipinapakita sa ating mga klase.", "Another application is demonstrated in science classrooms."))
+            lines.append(make_translation("Suriin ang mga konseptong ito gamit ang simpleng eksperimento.", "Verify these concepts by testing them with simple setups."))
+            
+    # 4. Add HOTS challenge & encouragement
+    if lang == 'en':
+        lines.append(f"How does the concept of {title} help us think critically?")
+        lines.append("Keep up your curiosity and check your facts as a scientist!")
+    else:
+        lines.append(make_translation(f"Paano nakakatulong ang konsepto ng {title} sa ating kritikal na pag-iisip?", f"How does the concept of {title} help us think critically?"))
+        lines.append(make_translation("Ipagpatuloy ang pagiging masipag at mausisang mag-aaral!", "Continue being an active and curious learner!"))
+        
+    # Return exactly 8 lines
+    return "\n".join(lines[:8])
+
 def pad_slides(slides, subject, week_num):
     if len(slides) >= 25:
         return slides[:25]
@@ -99,9 +169,25 @@ for w in range(1, 5):
     reading_core = core.get("reading")
     checklist_core = core.get("checklist")
     
-    math_adv = advanced.get("math")
-    english_adv = advanced.get("english")
-    
+    # Load advanced english from sources (it was programmatically generated)
+    eng_adv_path = os.path.join(SOURCES_DIR, "english_advanced", f"week{w}.json")
+    if os.path.exists(eng_adv_path):
+        with open(eng_adv_path, "r", encoding="utf-8") as f_eng:
+            english_adv = json.load(f_eng)
+            english_adv["slides"] = pad_slides(english_adv["slides"], "english_advanced", w)
+    else:
+        print(f"[WARNING] Advanced English template missing for week {w}, preserving from existing database.")
+        english_adv = advanced.get("english")
+
+    # Load advanced math from sources if exists, otherwise preserve
+    math_adv_path = os.path.join(SOURCES_DIR, "math_advanced", f"week{w}.json")
+    if os.path.exists(math_adv_path):
+        with open(math_adv_path, "r", encoding="utf-8") as f_math:
+            math_adv = json.load(f_math)
+            math_adv["slides"] = pad_slides(math_adv["slides"], "math_advanced", w)
+    else:
+        math_adv = advanced.get("math")
+        
     if not math_core or not english_core or not reading_core or not checklist_core:
         print(f"[ERROR] Missing preserved core blocks in {filename}")
         sys.exit(1)
@@ -110,12 +196,12 @@ for w in range(1, 5):
         print(f"[ERROR] Missing preserved advanced blocks in {filename}")
         sys.exit(1)
         
-    # Load and process optimized subjects
-    compiled_subjects = {}
+    # Load and process optimized core subjects
+    compiled_core = {}
     for sub in ["science", "filipino", "makabansa", "gmrc"]:
         src_path = os.path.join(SOURCES_DIR, sub, f"week{w}.json")
         if not os.path.exists(src_path):
-            print(f"[ERROR] Source template missing: {src_path}")
+            print(f"[ERROR] Core source template missing: {src_path}")
             sys.exit(1)
             
         with open(src_path, "r", encoding="utf-8") as f_src:
@@ -123,31 +209,55 @@ for w in range(1, 5):
             
         # Pad slides to exactly 25
         sub_data["slides"] = pad_slides(sub_data["slides"], sub, w)
-        compiled_subjects[sub] = sub_data
+        compiled_core[sub] = sub_data
+
+    # Load and process optimized advanced subjects
+    compiled_advanced = {}
+    for sub in ["science", "filipino", "makabansa", "gmrc"]:
+        src_path = os.path.join(SOURCES_DIR, f"{sub}_advanced", f"week{w}.json")
+        if not os.path.exists(src_path):
+            print(f"[ERROR] Advanced source template missing: {src_path}")
+            sys.exit(1)
+            
+        with open(src_path, "r", encoding="utf-8") as f_src:
+            sub_data = json.load(f_src)
+            
+        # Pad slides to exactly 25
+        sub_data["slides"] = pad_slides(sub_data["slides"], f"{sub}_advanced", w)
+        compiled_advanced[sub] = sub_data
         
     # Build final merged core and advanced schemas
     merged_core = {
         "math": math_core,
-        "science": compiled_subjects["science"],
+        "science": compiled_core["science"],
         "english": english_core,
-        "filipino": compiled_subjects["filipino"],
-        "makabansa": compiled_subjects["makabansa"],
-        "gmrc": compiled_subjects["gmrc"],
+        "filipino": compiled_core["filipino"],
+        "makabansa": compiled_core["makabansa"],
+        "gmrc": compiled_core["gmrc"],
         "reading": reading_core,
         "checklist": checklist_core
     }
     
     merged_advanced = {
         "math": math_adv,
-        "science": compiled_subjects["science"],
+        "science": compiled_advanced["science"],
         "english": english_adv,
-        "filipino": compiled_subjects["filipino"],
-        "makabansa": compiled_subjects["makabansa"],
-        "gmrc": compiled_subjects["gmrc"],
+        "filipino": compiled_advanced["filipino"],
+        "makabansa": compiled_advanced["makabansa"],
+        "gmrc": compiled_advanced["gmrc"],
         "reading": reading_core, # shares reading
         "checklist": checklist_core
     }
     
+    # Ensure all slides of all subjects have exactly 8 lines
+    for block_name, dataset in [("core", merged_core), ("advanced", merged_advanced)]:
+        for sub_name in ["math", "science", "english", "filipino", "makabansa", "gmrc"]:
+            sub_data = dataset.get(sub_name)
+            if sub_data and "slides" in sub_data:
+                lang = 'en' if sub_name in ['math', 'science', 'english'] else 'fil'
+                for slide in sub_data["slides"]:
+                    slide["text"] = expand_to_8_lines(slide.get("text", ""), slide.get("title", ""), slide.get("examples", []), lang=lang)
+                    
     output_data = {
         "core": merged_core,
         "advanced": merged_advanced

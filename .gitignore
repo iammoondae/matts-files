@@ -17,3 +17,26 @@ node_modules/
 .gradle/
 build/
 local.properties
+
+# Secrets & credentials
+.env
+.env.*
+*.keystore
+*.jks
+google-services.json
+GoogleService-Info.plist
+firebase-adminsdk-*.json
+**/secrets.xml
+
+# Signing keys (Android release signing)
+*.pepk
+keystore.properties
+
+# Build artifacts
+/.gradle
+/build
+*.aab
+
+# IDE/OS noise
+*.iml
+.DS_Store

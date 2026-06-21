@@ -1,0 +1,699 @@
+{
+  "color": "#10b981",
+  "icon": "🔬",
+  "title": "Science",
+  "subtitle": "Week 4: Science Process Skills [Advanced]",
+  "slides": [
+    {
+      "title": "Scientific Process Integration (Advanced)",
+      "text": "Scientific research integrates multiple process skills to establish causal relationships and document empirical evidence.\nThis slide introduces key insights about Scientific Process Integration.\nFor instance, consider the example of Causal Relationship:\nA link where one event (cause) makes another event happen (effect).\nAnother case is the study of Systematic Observation:\nObserving with standardized protocols to eliminate human bias.\nHow does the concept of Scientific Process Integration help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Causal Relationship",
+          "content": "A link where one event (cause) makes another event happen (effect)."
+        },
+        {
+          "title": "Systematic Observation",
+          "content": "Observing with standardized protocols to eliminate human bias."
+        }
+      ]
+    },
+    {
+      "title": "Advanced Vocabulary (Advanced)",
+      "text": "Terms of empirical research: Quantitative analysis, Extrapolation, Interpolation, and Correlation.\nThis slide introduces key insights about Advanced Vocabulary.\nFor instance, consider the example of Extrapolation:\nEstimating values beyond the observed range based on a trend.\nAnother case is the study of Correlation:\nA mutual relationship or connection between two variables.\nHow does the concept of Advanced Vocabulary help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Extrapolation",
+          "content": "Estimating values beyond the observed range based on a trend."
+        },
+        {
+          "title": "Correlation",
+          "content": "A mutual relationship or connection between two variables."
+        }
+      ]
+    },
+    {
+      "title": "Empirical Reasoning (Advanced)",
+      "text": "Scientists use process skills to construct models, communicate raw data tables, and formulate theories.\nThis slide introduces key insights about Empirical Reasoning.\nFor instance, consider the example of Scientific Theory:\nA well-substantiated explanation of some aspect of the natural world.\nAnother case is the study of Model Construction:\nCreating physical or digital representations to study systems.\nHow does the concept of Empirical Reasoning help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Scientific Theory",
+          "content": "A well-substantiated explanation of some aspect of the natural world."
+        },
+        {
+          "title": "Model Construction",
+          "content": "Creating physical or digital representations to study systems."
+        }
+      ]
+    },
+    {
+      "title": "Process: Botanical Observation (Advanced)",
+      "text": "Using high-magnification tools to observe plant guard cell behavior under different humidity levels.\nThis slide introduces key insights about Process: Botanical Observation.\nFor instance, consider the example of Stomata:\nMicroscopic pores on leaves that open and close to regulate gas exchange.\nAnother case is the study of Osmotic Pressure:\nThe force that drives water in and out of guard cells.\nHow does the concept of Process: Botanical Observation help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Stomata",
+          "content": "Microscopic pores on leaves that open and close to regulate gas exchange."
+        },
+        {
+          "title": "Osmotic Pressure",
+          "content": "The force that drives water in and out of guard cells."
+        }
+      ]
+    },
+    {
+      "title": "Process: Buoyancy Predictions (Advanced)",
+      "text": "Predicting displacement volume and buoyant forces using Archimedes' principle.\nThis slide introduces key insights about Process: Buoyancy Predictions.\nFor instance, consider the example of Archimedes Principle:\nAn object floats when the buoyant force equals the weight of displaced fluid.\nAnother case is the study of Volume Displacement:\nMeasuring exactly how much water is pushed aside in cubic centimeters.\nHow does the concept of Process: Buoyancy Predictions help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Archimedes Principle",
+          "content": "An object floats when the buoyant force equals the weight of displaced fluid."
+        },
+        {
+          "title": "Volume Displacement",
+          "content": "Measuring exactly how much water is pushed aside in cubic centimeters."
+        }
+      ]
+    },
+    {
+      "title": "Process: Precise Calibration (Advanced)",
+      "text": "Measuring liquid meniscus levels with graduated glassware, adjusting for thermal expansion of liquids.\nThis slide introduces key insights about Process: Precise Calibration.\nFor instance, consider the example of Cohesive Forces:\nAttraction between similar molecules, pulling water into a curve.\nAnother case is the study of Thermal Expansion:\nLiquids expand slightly when heated, changing volume readings.\nHow does the concept of Process: Precise Calibration help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Cohesive Forces",
+          "content": "Attraction between similar molecules, pulling water into a curve."
+        },
+        {
+          "title": "Thermal Expansion",
+          "content": "Liquids expand slightly when heated, changing volume readings."
+        }
+      ]
+    },
+    {
+      "title": "Process: Taxonomic Classification (Advanced)",
+      "text": "Classifying organisms using a dichotomous key based on binary morphological characteristics.\nThis slide introduces key insights about Process: Taxonomic Classification.\nFor instance, consider the example of Dichotomous Key:\nA tool that allows the user to identify organisms through progressive choices.\nAnother case is the study of Morphology:\nThe physical shape and structure of an organism.\nHow does the concept of Process: Taxonomic Classification help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Dichotomous Key",
+          "content": "A tool that allows the user to identify organisms through progressive choices."
+        },
+        {
+          "title": "Morphology",
+          "content": "The physical shape and structure of an organism."
+        }
+      ]
+    },
+    {
+      "title": "Process: Graphical Communication (Advanced)",
+      "text": "Communicating multi-variable datasets using scatter plots, line graphs, and regression lines.\nThis slide introduces key insights about Process: Graphical Communication.\nFor instance, consider the example of Independent Axis:\nThe X-axis, representing the independent variable.\nAnother case is the study of Dependent Axis:\nThe Y-axis, representing the dependent variable.\nHow does the concept of Process: Graphical Communication help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Independent Axis",
+          "content": "The X-axis, representing the independent variable."
+        },
+        {
+          "title": "Dependent Axis",
+          "content": "The Y-axis, representing the dependent variable."
+        }
+      ]
+    },
+    {
+      "title": "Process: Causal Inferences (Advanced)",
+      "text": "Differentiating between correlation and causation when observing environmental phenomena.\nThis slide introduces key insights about Process: Causal Inferences.\nFor instance, consider the example of Causation:\nOne event directly producing the other (e.g., gravity causing objects to fall).\nAnother case is the study of Coincidence:\nTwo events happening together without a direct causal link.\nHow does the concept of Process: Causal Inferences help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Causation",
+          "content": "One event directly producing the other (e.g., gravity causing objects to fall)."
+        },
+        {
+          "title": "Coincidence",
+          "content": "Two events happening together without a direct causal link."
+        }
+      ]
+    },
+    {
+      "title": "Process: Kinetic Observations (Advanced)",
+      "text": "Observing molecular activity in substances during phase transitions.\nThis slide introduces key insights about Process: Kinetic Observations.\nFor instance, consider the example of Kinetic Theory:\nAll matter consists of tiny particles in constant motion.\nAnother case is the study of Phase Transitions:\nHeat changes particle motion, causing solid/liquid/gas shifts.\nHow does the concept of Process: Kinetic Observations help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Kinetic Theory",
+          "content": "All matter consists of tiny particles in constant motion."
+        },
+        {
+          "title": "Phase Transitions",
+          "content": "Heat changes particle motion, causing solid/liquid/gas shifts."
+        }
+      ]
+    },
+    {
+      "title": "Process: Pressure Predictions (Advanced)",
+      "text": "Predicting air pressure variations inside a closed cylinder when volume is compressed.\nThis slide introduces key insights about Process: Pressure Predictions.\nFor instance, consider the example of Boyle's Law:\nPressure of a gas is inversely proportional to its volume at constant temp.\nAnother case is the study of Prediction:\nDecreasing volume by half will double the internal pressure.\nHow does the concept of Process: Pressure Predictions help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Boyle's Law",
+          "content": "Pressure of a gas is inversely proportional to its volume at constant temp."
+        },
+        {
+          "title": "Prediction",
+          "content": "Decreasing volume by half will double the internal pressure."
+        }
+      ]
+    },
+    {
+      "title": "Process: Spatial Measurements (Advanced)",
+      "text": "Measuring the coordinates of objects to map positions in three-dimensional space.\nThis slide introduces key insights about Process: Spatial Measurements.\nFor instance, consider the example of Cartesian Coordinates:\nUsing X, Y, and Z axes to define exact locations.\nAnother case is the study of Reference Point:\nThe fixed origin (0,0,0) from which all distances are measured.\nHow does the concept of Process: Spatial Measurements help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Cartesian Coordinates",
+          "content": "Using X, Y, and Z axes to define exact locations."
+        },
+        {
+          "title": "Reference Point",
+          "content": "The fixed origin (0,0,0) from which all distances are measured."
+        }
+      ]
+    },
+    {
+      "title": "Process: Chemical Classification (Advanced)",
+      "text": "Classifying household liquids into acids, bases, or neutrals using litmus paper.\nThis slide introduces key insights about Process: Chemical Classification.\nFor instance, consider the example of Indicator:\nChemicals that change color depending on pH levels.\nAnother case is the study of Litmus Paper:\nTurns red in acids, blue in bases, and remains unchanged in neutrals.\nHow does the concept of Process: Chemical Classification help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Indicator",
+          "content": "Chemicals that change color depending on pH levels."
+        },
+        {
+          "title": "Litmus Paper",
+          "content": "Turns red in acids, blue in bases, and remains unchanged in neutrals."
+        }
+      ]
+    },
+    {
+      "title": "Process: Geological Inferences (Advanced)",
+      "text": "Inferring the history of an area by observing layers of rock and soil (stratigraphy).\nThis slide introduces key insights about Process: Geological Inferences.\nFor instance, consider the example of Law of Superposition:\nOlder rock layers are found at the bottom, younger at the top.\nAnother case is the study of Sedimentation:\nThe accumulation of minerals settling out of water over time.\nHow does the concept of Process: Geological Inferences help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Law of Superposition",
+          "content": "Older rock layers are found at the bottom, younger at the top."
+        },
+        {
+          "title": "Sedimentation",
+          "content": "The accumulation of minerals settling out of water over time."
+        }
+      ]
+    },
+    {
+      "title": "Process: Cell Biology Observations (Advanced)",
+      "text": "Observing cellular structures under a microscope during cell division (mitosis).\nThis slide introduces key insights about Process: Cell Biology Observations.\nFor instance, consider the example of Chromosomes:\nThread-like structures carrying genetic info that separate during division.\nAnother case is the study of Staining:\nAdding dye to make cell structures visible under light.\nHow does the concept of Process: Cell Biology Observations help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Chromosomes",
+          "content": "Thread-like structures carrying genetic info that separate during division."
+        },
+        {
+          "title": "Staining",
+          "content": "Adding dye to make cell structures visible under light."
+        }
+      ]
+    },
+    {
+      "title": "Process: Thermodynamic Predictions (Advanced)",
+      "text": "Predicting the rate of cooling of a hot liquid based on insulation materials.\nThis slide introduces key insights about Process: Thermodynamic Predictions.\nFor instance, consider the example of Newton's Law of Cooling:\nRate of heat loss is proportional to temperature difference.\nAnother case is the study of Insulator:\nMaterials with low conductivity that slow down heat transfer.\nHow does the concept of Process: Thermodynamic Predictions help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Newton's Law of Cooling",
+          "content": "Rate of heat loss is proportional to temperature difference."
+        },
+        {
+          "title": "Insulator",
+          "content": "Materials with low conductivity that slow down heat transfer."
+        }
+      ]
+    },
+    {
+      "title": "Process: Mass displacement (Advanced)",
+      "text": "Measuring mass changes in a chemical reaction to verify conservation of mass.\nThis slide introduces key insights about Process: Mass displacement.\nFor instance, consider the example of Conservation of Mass:\nMatter cannot be created or destroyed in a chemical reaction.\nAnother case is the study of Closed System:\nA sealed container preventing gas from escaping during tests.\nHow does the concept of Process: Mass displacement help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Conservation of Mass",
+          "content": "Matter cannot be created or destroyed in a chemical reaction."
+        },
+        {
+          "title": "Closed System",
+          "content": "A sealed container preventing gas from escaping during tests."
+        }
+      ]
+    },
+    {
+      "title": "Process: Ecological Classification (Advanced)",
+      "text": "Classifying ecosystems into biomes based on average precipitation and temperature.\nThis slide introduces key insights about Process: Ecological Classification.\nFor instance, consider the example of Biome:\nA large community of plants and animals occupying a distinct region.\nAnother case is the study of Climograph:\nA graph showing monthly precipitation and temperature of a biome.\nHow does the concept of Process: Ecological Classification help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Biome",
+          "content": "A large community of plants and animals occupying a distinct region."
+        },
+        {
+          "title": "Climograph",
+          "content": "A graph showing monthly precipitation and temperature of a biome."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Dichotomous Keys (Advanced)",
+      "text": "Navigating a key to classify an unknown leaf specimen.\nThis slide introduces key insights about Guided Practice: Dichotomous Keys.\nFor instance, consider the example of Key Step 1:\nChoose: Broad leaf (go to 2) or Needle-like leaf (Pine).\nAnother case is the study of Key Step 2:\nChoose: Smooth edge (Oak) or Jagged edge (Maple).\nHow does the concept of Guided Practice: Dichotomous Keys help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Key Step 1",
+          "content": "Choose: Broad leaf (go to 2) or Needle-like leaf (Pine)."
+        },
+        {
+          "title": "Key Step 2",
+          "content": "Choose: Smooth edge (Oak) or Jagged edge (Maple)."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Interpolating Data (Advanced)",
+      "text": "Estimating value points between measured data markers on a graph.\nThis slide introduces key insights about Guided Practice: Interpolating Data.\nFor instance, consider the example of Method:\nFind the value on the line between the plotted points.\nAnother case is the study of Accuracy:\nEnsures data trend line is followed correctly.\nHow does the concept of Guided Practice: Interpolating Data help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Method",
+          "content": "Find the value on the line between the plotted points."
+        },
+        {
+          "title": "Accuracy",
+          "content": "Ensures data trend line is followed correctly."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Extrapolating Trends (Advanced)",
+      "text": "Extrapolating a growth curve beyond the measured time frame.\nThis slide introduces key insights about Guided Practice: Extrapolating Trends.\nFor instance, consider the example of Method:\nExtend the trend line forward, maintaining the rate slope.\nAnother case is the study of Risk:\nAssumes environmental factors remain constant in the future.\nHow does the concept of Guided Practice: Extrapolating Trends help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Method",
+          "content": "Extend the trend line forward, maintaining the rate slope."
+        },
+        {
+          "title": "Risk",
+          "content": "Assumes environmental factors remain constant in the future."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Inferences from Fossils (Advanced)",
+      "text": "Inferring ancient diets by observing fossilized tooth shapes.\nThis slide introduces key insights about Guided Practice: Inferences from Fossils.\nFor instance, consider the example of Fossil tooth:\nSharp, pointed teeth observed in fossil skull.\nAnother case is the study of Inference:\nThe animal was a carnivore (meat eater) because of tooth structure.\nHow does the concept of Guided Practice: Inferences from Fossils help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Fossil tooth",
+          "content": "Sharp, pointed teeth observed in fossil skull."
+        },
+        {
+          "title": "Inference",
+          "content": "The animal was a carnivore (meat eater) because of tooth structure."
+        }
+      ]
+    },
+    {
+      "title": "Common Error: Mistaking Correlation for Causation (Advanced)",
+      "text": "Assuming that because two trends rise together, one must cause the other.\nThis slide introduces key insights about Common Error: Mistaking Correlation for Causation.\nFor instance, consider the example of Incorrect:\nSaying 'Ice cream sales cause sunburns because both rise in summer.'\nAnother case is the study of Correct:\nThe sun's heat causes both ice cream sales and sunburns.\nHow does the concept of Common Error: Mistaking Correlation for Causation help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Incorrect",
+          "content": "Saying 'Ice cream sales cause sunburns because both rise in summer.'"
+        },
+        {
+          "title": "Correct",
+          "content": "The sun's heat causes both ice cream sales and sunburns."
+        }
+      ]
+    },
+    {
+      "title": "Common Error: Cherry-Picking Data (Advanced)",
+      "text": "Only selecting data points that confirm your hypothesis while ignoring exceptions.\nThis slide introduces key insights about Common Error: Cherry-Picking Data.\nFor instance, consider the example of Incorrect:\nRecording only the fast car runs and ignoring the slow ones.\nAnother case is the study of Correct:\nCalculating the average of all trials, including anomalies.\nHow does the concept of Common Error: Cherry-Picking Data help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Incorrect",
+          "content": "Recording only the fast car runs and ignoring the slow ones."
+        },
+        {
+          "title": "Correct",
+          "content": "Calculating the average of all trials, including anomalies."
+        }
+      ]
+    },
+    {
+      "title": "Summary of Week 4 Advanced (Advanced)",
+      "text": "You completed Week 4 Advanced! You now possess a complete toolkit of science process skills.\nThis slide introduces key insights about Summary of Week 4 Advanced.\nFor instance, consider the example of Key Takeaway:\nProcess skills are integrated to build models and establish laws.\nAnother case is the study of Next Step:\nReview your learnings and prepare for the term culminating tasks!\nHow does the concept of Summary of Week 4 Advanced help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Key Takeaway",
+          "content": "Process skills are integrated to build models and establish laws."
+        },
+        {
+          "title": "Next Step",
+          "content": "Review your learnings and prepare for the term culminating tasks!"
+        }
+      ]
+    }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Which process skill involves estimating values between observed data points on a graph?",
+      "options": [
+        "Extrapolation",
+        "Interpolation",
+        "Inference",
+        "Classification"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What do we call the morphological characteristic key used to identify organisms?",
+      "options": [
+        "Dichotomous key",
+        "Taxonomic scale",
+        "Calipers",
+        "Spring scale"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "According to Archimedes' principle, what force keeps a boat floating?",
+      "options": [
+        "Friction force",
+        "Buoyant force equal to the displaced water weight",
+        "Magnetic force",
+        "Gravitational force"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following is a scientific inference based on superposed rock layers?",
+      "options": [
+        "The top layer is black.",
+        "The bottom layer was deposited earlier than the top layer.",
+        "The rock layer is 3 meters thick.",
+        "The rock layer contains sand."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What does the Law of Conservation of Mass state about chemical reactions?",
+      "options": [
+        "Mass increases during heating.",
+        "Mass is neither created nor destroyed in a closed system.",
+        "Mass turns into energy and disappears.",
+        "Mass decreases when gas forms."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Correlation always proves that one variable caused the change in another.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which axis on a standard line graph represents the independent variable?",
+      "options": [
+        "Y-axis (vertical)",
+        "X-axis (horizontal)",
+        "Z-axis (depth)",
+        "The legend"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What is the term for estimating values BEYOND the measured data range?",
+      "options": [
+        "Interpolation",
+        "Extrapolation",
+        "Inference",
+        "Observation"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Why do scientists use a dichotomous key?",
+      "options": [
+        "To weigh specimens",
+        "To systematically identify organisms based on physical characteristics",
+        "To measure tree height",
+        "To calculate light refraction"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What color does blue litmus paper turn when dipped in an acid?",
+      "options": [
+        "Remains blue",
+        "Turns red",
+        "Turns green",
+        "Turns yellow"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Boyle's Law states that gas pressure increases as volume decreases at constant temperature.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which type of heat transfer occurs through fluid currents?",
+      "options": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "Insulation"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What is the meniscus point for reading water volume in glass cylinders?",
+      "options": [
+        "The top edge",
+        "The bottom of the concave curve",
+        "The middle of the cylinder",
+        "The zero mark"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What plant structures open and close to regulate gas exchange?",
+      "options": [
+        "Stomata",
+        "Chloroplasts",
+        "Xylem",
+        "Phloem"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Why do we stain cells before viewing them under a light microscope?",
+      "options": [
+        "To kill the bacteria",
+        "To increase contrast and make cellular structures visible",
+        "To magnify them",
+        "To freeze cell division"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following is a physical property of a base?",
+      "options": [
+        "Tastes sour",
+        "Turns red litmus paper blue",
+        "Does not conduct electricity",
+        "Feels rough"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Newton's Law of Cooling states that cooling rate depends on the temperature difference between object and surroundings.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What organic layer of soil holds nutrients and water for agriculture?",
+      "options": [
+        "Humus (topsoil)",
+        "Subsoil",
+        "Parent rock",
+        "Bedrock"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which tool measures atmospheric pressure trends?",
+      "options": [
+        "Barometer",
+        "Anemometer",
+        "Thermometer",
+        "Anemograph"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Extrapolating data carries the risk of assuming trends continue indefinitely without change.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What happens to water density when it freezes into ice?",
+      "options": [
+        "It increases.",
+        "It decreases, which is why ice floats.",
+        "It remains constant.",
+        "It turns to zero."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following is a morphological characteristic of a leaf?",
+      "options": [
+        "The price of the leaf",
+        "The serrated or smooth edge structure",
+        "The popularity of the tree",
+        "How nice it smells"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: A closed system prevents mass exchange with the outside environment.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What hormone causes phototropism by gathering on the shaded side of stems?",
+      "options": [
+        "Chlorophyll",
+        "Auxin",
+        "Insulin",
+        "Glucose"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which process skill is main tool for identifying rock age in geologic layers?",
+      "options": [
+        "Predicting",
+        "Inferring layer sequence based on superposition laws",
+        "Measuring weight",
+        "Classifying color"
+      ],
+      "answer": 1
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "A student plots water cooling rates. At 0 mins temp is 90C; at 5 mins it is 70C; at 10 mins it is 55C. What is the interpolated temperature at 7 minutes?",
+      "options": [
+        "Approximately 62C",
+        "Exactly 90C",
+        "Exactly 55C",
+        "Approximately 45C"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "You are using a dichotomous key to identify a tree. The key states: 1a. Needle-like leaves (Pine); 1b. Broad leaves (go to 2). The specimen has broad leaves. What is the next step?",
+      "options": [
+        "Conclude it is a Pine.",
+        "Proceed to step 2 in the key.",
+        "Measure the leaf width.",
+        "Tare the scale."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Why does a closed jar containing vinegar and baking soda weigh the same before and after they react?",
+      "options": [
+        "The reaction did not occur.",
+        "Mass is conserved because no atoms could escape the sealed container.",
+        "Gas has no weight.",
+        "The scale was broken."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What type of error is committed if a weather model predicts sunny weather based on a trend but ignores an incoming low-pressure front?",
+      "options": [
+        "Parallax error",
+        "Extrapolation error due to ignoring changing variables",
+        "Zeroing error",
+        "Viscosity error"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "An ecologist wants to classify a biome. The climograph shows low precipitation and high temperatures year-round. What is the classification?",
+      "options": [
+        "Desert",
+        "Tundra",
+        "Tropical Rainforest",
+        "Deciduous Forest"
+      ],
+      "answer": 0
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Archimedes' Buoyancy & Density Investigation",
+    "desc": "Select three solid objects (e.g., a plastic toy, a metal bolt, a piece of wood). Measure the mass of each object. Build a water displacement cup to measure the volume of displaced water for each. Calculate the density of each object, write down a prediction about their buoyancy, and explain how the buoyant force relates to water displacement to your parent.",
+    "labels": [
+      "Accurately measured mass and displaced water volume",
+      "Correctly calculated density using the mass/volume formula",
+      "Wrote a clear, scientific explanation of buoyant force based on Archimedes' principle"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Dichotomous Key Navigation</h3>\n                  <p class=\"ws-instruction\">Use the dichotomous key below to identify the animal specimen: <em>A vertebrate with feathers and wings.</em></p>\n                  <div class=\"ws-item-row\" style=\"font-size: 14px; line-height: 1.8;\">\n                    <div>1a. Has backbone (go to 2) | 1b. No backbone (Invertebrate)</div>\n                    <div>2a. Has feathers (Bird) | 2b. No feathers (go to 3)</div>\n                  </div>\n                  <div class=\"ws-item-row\" style=\"margin-top: 15px;\">\n                    <div class=\"ws-q\">What is the classification of the specimen?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Bird</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Interpolation & Extrapolation</h3>\n                  <p class=\"ws-instruction\">Read the graph data table and write the estimated values.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Time (minutes)</th>\n                        <th>0</th>\n                        <th>2</th>\n                        <th>4</th>\n                        <th>6 (estimated)</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Plant Height (cm)</td>\n                        <td>10</td>\n                        <td>12</td>\n                        <td>14</td>\n                        <td><span class=\"ws-answer\">16</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                  <div class=\"ws-item-row\" style=\"margin-top: 15px;\">\n                    <div class=\"ws-q\">Was finding the height at 6 minutes an example of interpolation or extrapolation?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Extrapolation</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Conservation of Mass</h3>\n                  <p class=\"ws-instruction\">Verify the law of conservation of mass using experimental values.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Scenario: <em>10g of baking soda reacts with 50g of vinegar in a closed flask. A gas forms.</em></div>\n                    <div class=\"ws-q\" style=\"margin-top: 15px;\">1. What is the total mass of the flask contents after the chemical reaction?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">60g</span></div>\n                    <div class=\"ws-q\" style=\"margin-top: 15px;\">2. What scientific law justifies this answer?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 90%;\"><span class=\"ws-answer\">Law of Conservation of Mass</span></div>\n                  </div>\n                </div>"
+    ]
+  }
+}

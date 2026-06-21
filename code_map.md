@@ -1,6 +1,6 @@
 # Matteo's Learning Hub - Codebase Mapping & Debug References
 
-This index maps the main architectural structures, settings systems, layouts, and logic components across the codebase. Developers and AI assistants should refer to these lines/sections directly for debugging and edits.
+This index maps the main architectural structures, settings systems, layouts, logic components, and files across the codebase. Developers and AI assistants must refer to these lines/sections directly for debugging and edits.
 
 ---
 
@@ -10,47 +10,101 @@ This index maps the main architectural structures, settings systems, layouts, an
 * **File Path**: [index.html](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/index.html)
 * **Key Components**:
   * **Confetti Canvas**: Line 18 (`#confetti-canvas`)
-  * **Sidebar Navigation**: Lines 20-82 (`#sidebar-nav`) - includes level selector, week selector, learning modes list, subject keys, and diagnostic report buttons.
-  * **Main Content Area**: Lines 87-137 (`main.content`) - includes toolbar header, subject title wrapper, action toggles, main viewer card (`#viewer-card`), progress bar, and slide controllers footer (`#viewport-footer`).
-  * **Settings Drawer**: Lines 140-317 (`#settings-drawer`) - includes nickname profile input, grade levels, avatar image upload, light mode slider, background music toggle, custom audio upload, accessibility global font scales, weekly schedule table, parental PIN config, and account sign-out panel.
-  * **Onboarding Overlay**: Lines 320-341 (`#onboarding-overlay`) - shown to new users to prompt profile naming.
-  * **Parents PIN Modal**: Lines 344-380 (`#parents-pin-modal`) - custom numerical keypad lock screen with PIN reset link.
-  * **Competencies Modal**: Lines 382-401 (`#competencies-modal`) - accessibility font controls (`[A+]`, `[A-]`, `[Reset]`) and content body.
-  * **Wardrobe & Shop Modals**: Lines 416-444 (`#hub-shop-modal` and `#mascot-wardrobe-modal`)
-  * **Game Play Window**: Lines 446-457 (`#game-play-modal`) - holds canvas areas for interactive learning games.
-  * **Mascot Interaction Modal**: Lines 459-480 (`#mascot-interactive-modal`) - dialog bubble for character feedback.
+  * **Sidebar Navigation**: Lines 21-82 (`#sidebar-nav`) - academic level toggles, week dropdown selector, learning mode tabs, subject buttons, and parents dashboard buttons.
+  * **Main Content Area**: Lines 88-137 (`main.content`) - toolbar headers, action toggles (Theme, Music, Update, Settings), viewer card viewport (`#viewer-card`), progress bar, and slide controllers footer (`#viewport-footer`).
+  * **Settings Drawer**: Lines 141-317 (`#settings-drawer`) - profile avatar config, name inputs, light/dark slider, music toggles, font sliders, parent PIN changers, sign-out button, and updates checkers.
+  * **Onboarding Overlay**: Lines 320-341 (`#onboarding-overlay`) - nickname profile naming screen for fresh installs.
+  * **Parents PIN Modal**: Lines 344-380 (`#parents-pin-modal`) - custom numerical lock screen keypad with recover PIN link.
+  * **Competencies Modal**: Lines 383-401 (`#competencies-modal`) - list of DepEd MATATAG competencies with accessibility scaling buttons.
+  * **About Modal**: Lines 404-414 (`#about-modal`) - credits, curriculum statement, developer logs, and privacy statements.
+  * **Wardrobe & Shop Modals**: Lines 417-444 (`#hub-shop-modal` and `#mascot-wardrobe-modal`) - shop layout grid and outfit selectors.
+  * **Game Play Window**: Lines 447-457 (`#game-play-modal`) - dynamic canvas container for running educational games.
+  * **Mascot Interaction Modal**: Lines 460-480 (`#mascot-interactive-modal`) - interactive dashboard feedback pop-up with motivational messages and quick actions.
 
 ### B. Core Styling System (`index.css`)
 * **File Path**: [index.css](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/index.css)
 * **Key Components**:
-  * **Default (Dark) variables**: Lines 1-25 (`:root`) - defines default variables for gradients, border cards, primary colors, and subject variables.
+  * **Default (Dark) variables**: Lines 1-25 (`:root`) - color palette gradients, subject variables, sizes, and borders.
   * **Light mode overrides**: Lines 27-36 (`body.light-mode`) - overrides background gradients, borders, and text colors.
   * **Global Body & Reset**: Lines 38-54
-  * **Sidebar navigation**: Lines 56-137 (`nav.sidebar`)
-  * **Advanced mode amber styles**: Lines 138-148
-  * **Select/Dropdowns styling**: Lines 149-213
-  * **Mode tabs & navigation buttons**: Lines 214-295
-  * **Viewer Card**: Lines 412-450 (`.viewer-card`)
-  * **Slide transition effects**: Lines 451-503 (includes `.example-box`)
-  * **Quiz controls & buttons**: Lines 504-606 (includes choice selection buttons with correct/incorrect feedback states)
-  * **Blank inputs & submit**: Lines 607-641
-  * **Rubric rating sliders**: Lines 642-690 (`.rubric-slider`)
-  * **Review Panel**: Lines 745-798
+  * **Sidebar Navigation styling**: Lines 55-137 (`nav.sidebar`)
+  * **Advanced Level amber styles**: Lines 138-148 (`body.advanced-level`)
+  * **Selector & Dropdowns**: Lines 149-213 (`.week-selector-wrapper select`)
+  * **Mode selectors**: Lines 223-257 (`.mode-tabs`)
+  * **Subject Selection Buttons**: Lines 258-295 (`.subject-buttons-list`)
+  * **Main Content Area & header layouts**: Lines 296-349 (`main.content`)
+  * **Custom switch toggles**: Lines 350-410 (`.toggle-container`)
+  * **Viewer Card**: Lines 411-451 (`.viewer-card`)
+  * **Examples container & boxes**: Lines 474-502 (`.example-box`)
+  * **Slide footer controls**: Lines 503-547 (`.viewport-footer`)
+  * **Quiz Choices Grid**: Lines 548-606 (`.choices-grid`)
+  * **Blank inputs**: Lines 607-641
+  * **Rubrics rating sliders**: Lines 642-690 (`.rubric-slider`)
+  * **Summary view**: Lines 691-744 (`.summary-view`)
+  * **Incorrect Answers Review box**: Lines 745-798 (`.review-panel`)
+  * **Competency satisfaction checklist**: Lines 799-837 (`.checklist-card`)
+  * **Canvas Confetti**: Lines 838-848 (`#confetti-canvas`)
+  * **Bilingual translations**: Lines 849-902 (`.fil-phrase`)
+  * **Sidebar responsiveness & mobile overrides**: Lines 903-1111 (`.menu-toggle-btn`)
+  * **Worksheet paper layouts**: Lines 1112-1153 (`.worksheet-viewport`)
+  * **Handwriting paper base lines**: Lines 1154-1203 (`.writing-line-svg`)
+  * **Math Grid & drawing block**: Lines 1204-1228 (`.math-grid`)
+  * **Worksheet tables**: Lines 1248-1344 (`.ws-table`)
+  * **Priority review alert cards & grades table**: Lines 1345-1480 (`.priority-item`)
+  * **Daily Reading & Pomodoro widgets**: Lines 1481-1696 (`.reading-container`, `.study-timer-widget`)
+  * **Header action buttons & Settings panel styling**: Lines 1697-1921 (`.header-action-btn`, `.settings-drawer`)
+  * **Onboarding overlay styling**: Lines 1922-2067 (`.onboarding-card`)
+  * **Greeting card & weekly schedule widgets**: Lines 2068-2553 (`.home-greeting-card`, `.schedule-grid`)
+  * **Mobile overrides**: Lines 2554-3674 (responsive media queries)
 
 ### C. Client Script Engine (`app.js`)
 * **File Path**: [app.js](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/app.js)
 * **Key Components**:
-  * **Global states**: Lines 50-200 (includes PIN buffers, nicknames, theme configs, wallet coins, levels, modes, and subjects).
-  * **Session Restorers**: Lines 365-385 (retrieves saved themes, volume configurations, and loads active week session data).
-  * **Theme Helpers**: Lines 423-435 (`updateThemeColorMeta`) and Lines 2568-2580 (`toggleTheme`).
-  * **Mascot Interface**: Lines 170-178 and Lines 3918-3957 (`interactMascotDashboard`).
-  * **Touch Gestures Engine**: Lines 1886-1920 (`setupSwipeGestures`) - registers swipe event listeners to handle horizontal page flips for study/reading cards.
-  * **Bilingual Translation**: Lines 2529-2547 (`toggleTranslation` & `toggleTranslationHeader`) - toggles class `show-translation` on body elements.
-  * **Worksheet Mark / Parent Gate**: Lines 2548-2565 (`toggleWorksheetAnswers` & `applyWorksheetAnswersVisibility`).
-  * **Parent PIN Validation**: Lines 4030-4113 (`tryOpenParentDashboard`, `showPinModal`, `validateEnteredPin`).
-  * **Forgot PIN Arithmetic Gate**: Lines 4114-4134 (`handleForgotPin`) - prompts user with multiplication equation to verify age and resets PIN to default (`0000`).
-  * **Parent Dashboard & Remediation**: Lines 4186-4455 (`renderParentDashboard`) - reports user quiz history, compiles worksheet override checkboxes, logs mistake databases, and lists remediation triggers.
-  * **Competencies Modal Font scaling**: Lines 7568-7580 (`adjustCompetenciesFontSize`) - scales fonts between `0.7` and `2.0` dynamically inside the modal block.
+  * **Global configurations & thresholds**: Lines 43-49 (remote update URL, passing scores, school start date).
+  * **Parents PIN security state**: Lines 50-61 (`isParentUnlocked`, `enteredPinBuffer`, `clearAllActiveNavButtons`).
+  * **Pomodoro timer state & grade level modifiers**: Lines 62-78 (`timerSeconds`, `getLearnerGrade`, `getActiveGradeNumber`).
+  * **IndexedDB music helper**: Lines 79-138 (`musicDB`).
+  * **Global APP states**: Lines 139-187 (week, subject, mode, slide variables, coins, wardrobe states).
+  * **Sidebar navigation controllers**: Lines 188-209 (`toggleSidebar`, `closeSidebar`).
+  * **Grade level modifiers**: Lines 210-221 (`setLevel`).
+  * **Profile settings and avatar uploader**: Lines 222-344 (`updateProfileName`, `handleProfilePicUpload`, `removeProfilePic`).
+  * **On startup settings loader**: Lines 345-422 (`loadSettings`).
+  * **Theme managers**: Lines 423-431 (`updateThemeColorMeta`) and Lines 2556-2567 (`toggleTheme`).
+  * **Pomodoro timer handlers**: Lines 432-519 (`formatTime`, `updateTimerUI`, Pomodoro ticks).
+  * **Calendar alignment checkers**: Lines 1000-1034 (`getTodayAcademicWeek`, `checkDateWeekAlignment`).
+  * **Curriculum database loader**: Lines 1035-1120 (`loadWeekData`).
+  * **Review data loaders**: Lines 1121-1180 (`loadReviewData`).
+  * **Unified completion checklist utilities**: Lines 1300-1467 (`isTaskComplete`).
+  * **Mode selectors and routing dispatcher**: Lines 1468-1639 (`setMode`, `setSubject`).
+  * **Main viewport renderer**: Lines 1640-1751 (`renderCurrentView`).
+  * **Subject modes content generators**:
+    * **Study Guide Slide Renderer**: Lines 1752-1841 (`renderStudySlide`).
+    * **Slide navigators**: Lines 1842-1876 (`prevSlide`, `nextSlide`).
+    * **Touch gesture recognizers**: Lines 1877-1910 (`setupSwipeGestures`).
+    * **Quiz Question Renderer**: Lines 1911-1989 (`renderQuizQuestion`).
+    * **Quiz action handlers**: Lines 1990-2122 (`selectChoice`, `selectTF`, `submitBlank`).
+    * **Performance Task Renderer**: Lines 2123-2290 (`renderPerformanceView`).
+    * **Competencies checklist renderer**: Lines 2291-2392 (`renderMonthlyChecklist`).
+  * **Ambient sound helpers**: Lines 2393-2516 (`setupBgMusic`, `toggleMusic`).
+  * **Bilingual translation selectors**: Lines 2517-2535 (`toggleTranslation`, `toggleTranslationHeader`).
+  * **Worksheet parent check & verification logic**: Lines 2536-2555 (`toggleWorksheetAnswers`, `applyWorksheetAnswersVisibility`).
+  * **Practice Worksheet layout renderer**: Lines 2619-2773 (`renderWorksheetView`).
+  * **Practice Worksheet parent complete submitter**: Lines 2774-2841 (`submitWorksheetComplete`).
+  * **Daily Reading text-to-speech module**: Lines 3139-3300 (`renderReadingView`).
+  * **Welcome Dashboard (Home) generator**: Lines 3609-3905 (`renderWelcomeDashboard`).
+  * **Mascot interaction overlay manager**: Lines 3906-3945 (`interactMascotDashboard`, `closeMascotInteractiveModal`).
+  * **Task launcher navigation helper**: Lines 3946-3975 (`launchTask`).
+  * **Parent Gate authentication challenge**: Lines 4018-4113 (`showPinModal`, `validateEnteredPin`).
+  * **PIN recovery verification**: Lines 4114-4134 (`handleForgotPin`).
+  * **Parent's Dashboard reporting layout**: Lines 4186-4455 (`renderParentDashboard`).
+  * **DepEd Competencies viewer**: Lines 4478-4530 (`renderCompetenciesDashboard`).
+  * **Gaming Center core launcher dashboard**: Lines 4606-4660 (`renderGamesDashboard`).
+  * **Trophies & achievement system**: Lines 4864-4900 (`renderTrophiesGrid`).
+  * **Educational Quick Play Games Engines**:
+    * **Word Scramble**: Lines 5810-6001 (`setupScrambleGame`, `renderScrambleWord`)
+    * **Speed Math**: Lines 6002-6103 (`setupSpeedMathGame`, `renderSpeedMathQuestion`)
+    * **Word Garden**: Lines 8820-9074 (`setupWordGardenGame`, `renderWordGardenQuestion`)
+    * **Science Sort**: Lines 9075-9262 (`setupScienceSortGame`, `renderScienceSortQuestion`)
 
 ---
 
@@ -79,12 +133,24 @@ This index maps the main architectural structures, settings systems, layouts, an
 
 ---
 
-## ⚙️ 3. Quality Gate & Context Layer
+## ⚙️ 3. Quality Gate, Context & Build Layer
 
-### A. Alignment Reference (`master_context.md`)
+### A. Quality Control Standards (`moon_standards_mlh.md`)
+* **File Path**: [moon_standards_mlh.md](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/moon_standards_mlh.md)
+* **Role**: Quality gate guidelines establishing requirements for onboarding login options, theme mappings, accessibility guides, and the 8-line slide content rule.
+
+### B. Alignment Reference (`master_context.md`)
 * **File Path**: [master_context.md](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/master_context.md)
-* **Role**: Primary context store defining curriculum alignment, unlock card logic, and Android TV removal.
+* **Role**: Primary context store defining curriculum alignment, unlock card logic, and Android TV deprecation statements.
 
-### B. Database Validator (`validate_db.py`)
+### C. Curriculum Database Compiler (`generate_g3_all_subjects.py`)
+* **File Path**: [generate_g3_all_subjects.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/generate_g3_all_subjects.py)
+* **Role**: Python builder script extracting raw curriculum structures and compiling them into weekly JSON formats.
+
+### D. Database Validator (`validate_db.py`)
 * **File Path**: [validate_db.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/validate_db.py)
-* **Role**: Python script verifying completeness and JSON structure of subject weeks.
+* **Role**: Python verification script checking completeness, formatting, and structural integrity of the compiled databases.
+
+### E. Native Build Script (`build_apk.sh`)
+* **File Path**: [build_apk.sh](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/build_apk.sh)
+* **Role**: Android build orchestration script compiling assets, managing version numbers, and building debug/release APK files.

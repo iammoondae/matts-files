@@ -40,6 +40,58 @@ const localStorage = (() => {
   };
 })();
 
+function stripStoryPrefix(title) {
+  if (!title) return '';
+  return title.replace(/^(Short Story:|Story:|PERFORMANCE TASK:)\s*/i, '').trim();
+}
+
+const PARENT_LEARNER_ACTIVITIES = [
+  {
+    title: "Everyday Material Tinkering Log",
+    objectives: "Identify, categorize, and document materials found in the home based on their state of matter (solid, liquid, or gas).",
+    steps: [
+      "Gather 5 to 10 different objects from around your house (e.g. key, water bottle, cooking oil, balloon, soap).",
+      "Touch and examine each object. Discuss whether it can hold its shape (solid), flow to fill a container (liquid), or disperse into the air (gas).",
+      "Create a table in your study log and classify each item under Solid, Liquid, or Gas.",
+      "Write down the properties of each material: is it hard, soft, transparent, sticky, or odorless?",
+      "Discuss how these properties make the material useful for its purpose (e.g., why is a key made of hard metal instead of liquid?)."
+    ]
+  },
+  {
+    title: "Floating and Sinking Investigation Log",
+    objectives: "Investigate how shape, weight, and material properties affect whether an object floats or sinks in water.",
+    steps: [
+      "Fill a clean basin or bucket with room-temperature tap water.",
+      "Select 6 test items: a metal spoon, a plastic toy, a dry leaf, a coin, a cork, and a stone.",
+      "Before testing, write down your prediction (Float or Sink) for each item.",
+      "Drop each item one by one into the water and observe what happens. Write down the actual result.",
+      "Take a small piece of aluminum foil. Float it as a flat sheet, then crumple it into a tight ball and drop it again. Discuss why the shape changed its buoyancy."
+    ]
+  },
+  {
+    title: "Solid to Liquid Melting Activity",
+    objectives: "Observe thermal energy transfer and state changes by melting solid substances under safe supervision.",
+    steps: [
+      "Collect three test substances: an ice cube, a small block of butter or margarine, and a small piece of chocolate.",
+      "Place each substance in a separate saucer or small bowl.",
+      "Place them in a warm area (such as under direct sunlight or near a warm stove under parent supervision).",
+      "Set a timer and observe how many minutes it takes for each solid substance to turn into liquid.",
+      "Compare the melting speeds of the three items and explain why heat is required to break down solid structures."
+    ]
+  },
+  {
+    title: "Air Compression and Syringe Investigation Log",
+    objectives: "Demonstrate that air occupies physical space and is compressible, unlike water.",
+    steps: [
+      "Obtain a clean plastic oral medicine syringe (without a needle).",
+      "Pull the plunger back to fill the syringe barrel with air, then seal the tip firmly with your thumb.",
+      "Try to push the plunger forward. Observe how the trapped air compresses, and how the plunger springs back when released.",
+      "Now, fill the syringe with liquid water and seal the tip with your thumb.",
+      "Try to push the plunger forward again. Notice how water cannot be compressed compared to air. Discuss how molecules are arranged differently in liquids and gases."
+    ]
+  }
+];
+
 const REMOTE_UPDATE_URL = "https://raw.githubusercontent.com/iammoondae/matts-files/main";
 
 // PASSING SCORE THRESHOLDS
@@ -1054,7 +1106,13 @@ function loadWeekData(weekIdentifier, isRestore) {
   const localContent = localStorage.getItem(`local_${learnerGrade}_week_data_${weekNumber}`);
   if (localContent) {
     try {
-      (0, eval)(localContent);
+      if (localContent.trim().startsWith('{')) {
+        const parsed = JSON.parse(localContent);
+        window[`WEEK${weekNumber}_DATA`] = parsed.core;
+        window[`WEEK${weekNumber}_ADVANCED_DATA`] = parsed.advanced;
+      } else {
+        (0, eval)(localContent);
+      }
       
       const data = window[`WEEK${weekNumber}_DATA`];
       const advData = window[`WEEK${weekNumber}_ADVANCED_DATA`];
@@ -1129,7 +1187,13 @@ function loadReviewData(date, isRestore) {
   const localContent = localStorage.getItem(`local_${learnerGrade}_review_data_${date}`);
   if (localContent) {
     try {
-      (0, eval)(localContent);
+      if (localContent.trim().startsWith('{')) {
+        const parsed = JSON.parse(localContent);
+        window[`REVIEW_${date}_DATA`] = parsed.core;
+        window[`REVIEW_${date}_ADVANCED_DATA`] = parsed.advanced;
+      } else {
+        (0, eval)(localContent);
+      }
       
       const data = window[`REVIEW_${date}_DATA`];
       const advData = window[`REVIEW_${date}_ADVANCED_DATA`];
@@ -1332,33 +1396,31 @@ function checkWeeklyUpdates() {
       let loadedImages = [];
       let loadedReviews = [];
 
-      // A. Download week JS files
+      // A. Download week JSON files
       weeksToDownload.forEach(w => {
-        const url = `${REMOTE_UPDATE_URL}/data/${learnerGrade}/week${w}.js`;
+        const url = `${REMOTE_UPDATE_URL}/data/${learnerGrade}/week${w}.json`;
         const task = fetch(url, { cache: 'no-store' })
           .then(res => {
             if (!res.ok) throw new Error(`Week ${w} download failed (HTTP ${res.status})`);
-            return res.text();
+            return res.json();
           })
-          .then(content => {
-            (0, eval)(content);
-            localStorage.setItem(`local_${learnerGrade}_week_data_${w}`, content);
+          .then(jsonData => {
+            localStorage.setItem(`local_${learnerGrade}_week_data_${w}`, JSON.stringify(jsonData));
             loadedWeeks.push(w);
           });
         tasks.push(task);
       });
 
-      // B. Download review JS files
+      // B. Download review JSON files
       reviewsToDownload.forEach(r => {
-        const url = `${REMOTE_UPDATE_URL}/data/${learnerGrade}/review_${r}.js`;
+        const url = `${REMOTE_UPDATE_URL}/data/${learnerGrade}/review_${r}.json`;
         const task = fetch(url, { cache: 'no-store' })
           .then(res => {
             if (!res.ok) throw new Error(`Review ${r} download failed (HTTP ${res.status})`);
-            return res.text();
+            return res.json();
           })
-          .then(content => {
-            (0, eval)(content);
-            localStorage.setItem(`local_${learnerGrade}_review_data_${r}`, content);
+          .then(jsonData => {
+            localStorage.setItem(`local_${learnerGrade}_review_data_${r}`, JSON.stringify(jsonData));
             loadedReviews.push(r);
           });
         tasks.push(task);
@@ -1680,7 +1742,7 @@ function renderCurrentView() {
     document.documentElement.style.setProperty('--active-subject-color', 'var(--accent)');
     document.getElementById('header-icon').innerText = '📚';
     document.getElementById('header-title').innerText = 'Daily Reading';
-    document.getElementById('header-subtitle').innerText = `Week ${currentWeek}: Daily Stories & Reading Comprehension`;
+    document.getElementById('header-subtitle').innerText = '';
     
     document.querySelectorAll('.subject-buttons-list .nav-btn').forEach(btn => btn.classList.remove('active'));
 
@@ -1703,7 +1765,11 @@ function renderCurrentView() {
     document.documentElement.style.setProperty('--active-subject-color', subjectData.color);
     document.getElementById('header-icon').innerText = subjectData.icon;
     document.getElementById('header-title').innerText = subjectData.title;
-    document.getElementById('header-subtitle').innerText = subjectData.subtitle;
+    if (currentSubject === 'science') {
+      document.getElementById('header-subtitle').innerText = '';
+    } else {
+      document.getElementById('header-subtitle').innerText = subjectData.subtitle;
+    }
   }
   
   // Reset progress bar visibility
@@ -1804,7 +1870,7 @@ function renderStudySlide(subjectData, qBody) {
   qBody.innerHTML = `
     <div class="slide-flip-container" id="study-swipe-container">
       <div class="slide-card-inner ${flipClass}">
-        <h2>${formatMarkdown(slide.title)}</h2>
+        <h2>${formatMarkdown(stripStoryPrefix(slide.title))}</h2>
         ${imageHTML}
         <p>${formatMarkdown(slide.text)}</p>
         ${examplesHTML}
@@ -2165,7 +2231,7 @@ function renderPerformanceView(subjectData, qBody) {
   });
 
   qBody.innerHTML = `
-    <div class="question-text">📋 PERFORMANCE TASK: ${formatMarkdown(q.title)}</div>
+    <div class="question-text">📋 ${formatMarkdown(stripStoryPrefix(q.title))}</div>
     <p style="margin-bottom: 20px; line-height: 1.6; font-size: 15px;">${formatMarkdown(q.desc)}</p>
     
     <div style="background: rgba(37, 99, 235, 0.08); border-left: 4px solid var(--accent); padding: 12px 16px; border-radius: 8px; margin-bottom: 20px; font-size: 14px; font-weight: 600; display: flex; align-items: center; gap: 8px; color: var(--text-main);">
@@ -2779,7 +2845,6 @@ function submitWorksheetComplete() {
   checkAndSaveNewBadges();
   playSFX(true);
   initConfetti();
-  alert('✅ Progress has been recorded!');
   
   wsShowAnswers = false;
   
@@ -3210,7 +3275,7 @@ function renderReadingView(data, qBody) {
       <div class="slide-flip-container" id="reading-swipe-container">
         <div class="slide-card-inner ${flipClass}">
           <div class="reading-slide-deck">
-            <h3>${formatMarkdown(slide.title)}</h3>
+            <h3>${formatMarkdown(stripStoryPrefix(slide.title))}</h3>
             <p class="reading-text-body">${formatMarkdown(slide.text)}</p>
           </div>
         </div>
@@ -4323,6 +4388,20 @@ function renderParentDashboard() {
 
       </div>
 
+      <!-- Parent-Learner Activities Link -->
+      <div class="parents-section-card" style="margin-bottom: 20px; cursor: pointer; background: rgba(99, 102, 241, 0.08); border: 2px dashed var(--accent); transition: transform 0.2s; padding: 15px;" onclick="renderParentLearnerActivities()">
+        <div style="display: flex; align-items: center; justify-content: space-between;">
+          <div style="display: flex; align-items: center; gap: 15px;">
+            <span style="font-size: 32px;">🧪</span>
+            <div style="text-align: left;">
+              <h3 style="margin: 0; font-size: 15px; font-weight: 700; color: var(--accent);">Parent-Learner Activities</h3>
+              <p style="margin: 3px 0 0 0; font-size: 12.5px; color: var(--text-muted);">Explore 4 interactive science experiments to perform together at home!</p>
+            </div>
+          </div>
+          <span style="font-size: 20px; color: var(--accent); font-weight: bold;">➔</span>
+        </div>
+      </div>
+
       <!-- Main Columns Grid -->
       <div class="parents-grid">
         
@@ -4473,6 +4552,54 @@ function renderParentDashboard() {
   `;
 
   qBody.innerHTML = html;
+}
+
+function renderParentLearnerActivities() {
+  currentMode = 'parents';
+  saveSessionState();
+  
+  const qBody = document.getElementById('viewport-body');
+  if (!qBody) return;
+  
+  let activitiesHTML = '';
+  PARENT_LEARNER_ACTIVITIES.forEach((act, idx) => {
+    let stepsHTML = '';
+    act.steps.forEach((step, sIdx) => {
+      stepsHTML += `<li style="margin-bottom: 8px; line-height: 1.5;">${step}</li>`;
+    });
+    
+    activitiesHTML += `
+      <div class="parents-section-card" style="padding: 20px; text-align: left; margin-bottom: 20px;">
+        <h3 style="margin: 0 0 10px 0; color: var(--accent); font-size: 16px; font-weight: 700; border-bottom: 1px dashed var(--border-color); padding-bottom: 8px;">
+          ${idx + 1}. ${act.title}
+        </h3>
+        <p style="font-size: 13.5px; line-height: 1.5; margin: 0 0 15px 0; background: rgba(99, 102, 241, 0.03); padding: 10px; border-left: 3px solid var(--accent); border-radius: 4px;">
+          <strong>🎯 Objective:</strong> ${act.objectives}
+        </p>
+        <div style="font-size: 13px;">
+          <strong style="display: block; margin-bottom: 8px;">📋 Step-by-Step Instructions:</strong>
+          <ol style="margin: 0; padding-left: 20px;">
+            ${stepsHTML}
+          </ol>
+        </div>
+      </div>
+    `;
+  });
+  
+  qBody.innerHTML = `
+    <div class="parents-dashboard-container">
+      <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+        <h2 style="margin: 0; font-size: 18px; font-weight: 800;">🧪 Parent-Learner Activities</h2>
+        <button class="settings-btn-primary" onclick="renderParentDashboard()" style="margin: 0; padding: 6px 14px; width: auto; font-size: 13px;">
+          🔙 Back to Dashboard
+        </button>
+      </div>
+      <p style="font-size: 13.5px; color: var(--text-muted); line-height: 1.6; margin-bottom: 20px; text-align: left;">
+        These hands-on science activities are designed for parents and children to explore together. They require simple materials easily found in the home and align with Grade 3 basic sciences.
+      </p>
+      ${activitiesHTML}
+    </div>
+  `;
 }
 
 function renderCompetenciesDashboard() {
@@ -4808,17 +4935,6 @@ function renderGamesDashboard() {
           <div class="game-card-info">
             <h4>🧪 Science Sort Lab</h4>
             <p>Sort animals, materials, and phenomena into the correct science category — no timer needed!</p>
-          </div>
-          <div class="game-card-meta">
-            <span class="game-card-rewards">➕ 10 🪙 / 40 XP</span>
-            <button class="game-card-btn">Play Now</button>
-          </div>
-        </div>
-
-        <div class="game-card" onclick="launchGame('sentencerain')">
-          <div class="game-card-info">
-            <h4>🌧️ Sentence Rain</h4>
-            <p>Catch the falling words to construct correct sentences using speech or touch!</p>
           </div>
           <div class="game-card-meta">
             <span class="game-card-rewards">➕ 10 🪙 / 40 XP</span>
@@ -5489,9 +5605,6 @@ function launchGame(gameId) {
   } else if (gameId === 'sciencesort') {
     title.innerText = '🧪 Science Sort Lab';
     setupScienceSortGame(canvasArea);
-  } else if (gameId === 'sentencerain') {
-    title.innerText = '🌧️ Sentence Rain';
-    setupSentenceRainGame(canvasArea);
   }
 }
 
@@ -5512,22 +5625,7 @@ function exitActiveGame() {
     clearInterval(gameNumberBuilderTimerInterval);
     gameNumberBuilderTimerInterval = null;
   }
-  if (gameSentenceRainAnimFrame) {
-    cancelAnimationFrame(gameSentenceRainAnimFrame);
-    gameSentenceRainAnimFrame = null;
-  }
-  gameSentenceRainPaused = false;
-  if (gameSentenceRainPauseTimeout) {
-    clearTimeout(gameSentenceRainPauseTimeout);
-    gameSentenceRainPauseTimeout = null;
-  }
-  if (gameSentenceRainRecognition) {
-    try {
-      gameSentenceRainRecognition.stop();
-    } catch(e){}
-    gameSentenceRainRecognition = null;
-  }
-  gameSentenceRainSpeechActive = false;
+  // Sentence Rain cleanup removed
 
   renderGamesDashboard();
 }
@@ -6753,6 +6851,7 @@ function checkAppVersionUpgrade() {
 
 function refreshAccountSettings() {
   const accountLabel = document.getElementById('settings-active-account');
+  const loginBtn = document.getElementById('settings-login-btn');
   const logoutBtn = document.getElementById('settings-logout-btn');
   if (!accountLabel) return;
   
@@ -6760,15 +6859,26 @@ function refreshAccountSettings() {
     const isGuest = AndroidAuth.isGuest() === 'true';
     if (isGuest) {
       accountLabel.innerText = 'Guest Mode';
+      if (loginBtn) loginBtn.style.display = 'block';
       if (logoutBtn) logoutBtn.style.display = 'none';
     } else {
       const email = AndroidAuth.getUserEmail();
       accountLabel.innerText = email || 'Signed In';
+      if (loginBtn) loginBtn.style.display = 'none';
       if (logoutBtn) logoutBtn.style.display = 'block';
     }
   } else {
     accountLabel.innerText = 'Guest Mode (Web Preview)';
+    if (loginBtn) loginBtn.style.display = 'block';
     if (logoutBtn) logoutBtn.style.display = 'none';
+  }
+}
+
+function loginAccount() {
+  if (typeof AndroidAuth !== 'undefined') {
+    AndroidAuth.logout();
+  } else {
+    alert("Login is only available in the Android application.");
   }
 }
 
@@ -9166,699 +9276,4 @@ function answerScienceSort(chosenCategory) {
 
 
 
-// 9. Sentence Rain Game Logic
-let gameSentenceRainScore = 0;
-let gameSentenceRainMistakes = 0;
-let gameSentenceRainLevel = 3;
-let gameSentenceRainIndex = 0;
-let gameSentenceRainSentences = [];
-let gameSentenceRainActiveWords = [];
-let gameSentenceRainCurrentWordIndex = 0;
-let gameSentenceRainExpectedWord = '';
-let gameSentenceRainMissingWordIndex = -1;
-let gameSentenceRainAnimFrame = null;
-let gameSentenceRainRecognition = null;
-let gameSentenceRainSpeechActive = false;
-let gameSentenceRainStartTime = 0;
-let gameSentenceRainSpeechFails = 0;
-let gameSentenceRainLastTime = 0;
-let gameSentenceRainPaused = false;
-let gameSentenceRainPauseTimeout = null;
-
-const sentenceRainPool = {
-  g1: [
-    "I like school.",
-    "A dog can bark.",
-    "She has a pen.",
-    "The cat is cute.",
-    "Ang aso ay masaya.",
-    "Matteo eats an apple.",
-    "Water is clean.",
-    "This is my book.",
-    "Ang bata ay naglalaro.",
-    "The sun is bright."
-  ],
-  g2: [
-    "Plants need sunlight to grow.",
-    "We must share our toys.",
-    "Ang guro ay mabait sa amin.",
-    "Birds can fly in the sky.",
-    "Always brush your teeth daily.",
-    "Ang pusa ay natutulog sa silya.",
-    "We eat healthy vegetables every day.",
-    "The library has many books.",
-    "Ang hangin ay malamig ngayon.",
-    "Books help us learn new things."
-  ],
-  g3: [
-    "Lungs help us breathe fresh air.",
-    "A polygon has straight closed sides.",
-    "Always speak the truth to everyone.",
-    "Ang aking pamilya ay nagtutulungan.",
-    "Spiders have eight legs and spin webs.",
-    "Makinig sa mga payo ng magulang.",
-    "Matter can be solid liquid or gas.",
-    "A healthy mind is very important.",
-    "Ang Luneta ay isang magandang parke.",
-    "We use subtraction to find differences."
-  ],
-  g4: [
-    "We must protect our natural resources carefully.",
-    "Fractions represent equal parts of a whole shape.",
-    "Maging magalang sa mga nakatatanda sa atin.",
-    "Mammals are warm-blooded animals with hair.",
-    "The earth revolves around the sun once a year.",
-    "Ang pangngalan ay ngalan ng tao o bagay.",
-    "We should recycle plastic bottles to save energy.",
-    "Clean water is essential for all living creatures.",
-    "Nagtatanim kami ng mga puno sa bakuran.",
-    "Angles are measured in degrees using a protractor."
-  ],
-  g5: [
-    "Photosynthesis is how plants produce their own food.",
-    "Respecting other cultures helps build a peaceful community.",
-    "Ang pang-uri ay salitang naglalarawan sa pangngalan.",
-    "Decimals and percentages are related to fractional values.",
-    "The respiratory system brings oxygen into our bodies.",
-    "Dapat nating pahalagahan ang ating pambansang wika.",
-    "A healthy ecosystem has a wide variety of species.",
-    "Electrical energy can be converted into heat and light.",
-    "Ang bulkang Mayon ay kilala sa perpektong hugis nito.",
-    "Force is a push or pull that changes motion."
-  ],
-  g6: [
-    "Energy can neither be created nor destroyed only transformed.",
-    "The democratic system allows citizens to vote for leaders.",
-    "Ang pang-angkop ay nag-uugnay sa panuring at salitang tinuturingan.",
-    "Circulatory organs pump nutrient-rich blood throughout the human body.",
-    "We solve algebraic equations by finding the value of variables.",
-    "Pahalagahan ang kapayapaan at pagkakaisa sa ating lipunan.",
-    "Gravity is the invisible force that pulls objects toward Earth.",
-    "Good digital citizens protect their personal information online.",
-    "Ang pambansang bayani ng Pilipinas ay si Dr. Jose Rizal.",
-    "Biodiversity is crucial for maintaining environmental balance."
-  ]
-};
-
-function setupSentenceRainGame(container) {
-  gameSentenceRainScore = 0;
-  gameSentenceRainMistakes = 0;
-  gameSentenceRainIndex = 0;
-  gameSentenceRainLevel = parseInt(localStorage.getItem('session_grade') || '3');
-  gameSentenceRainLastTime = 0;
-  gameSentenceRainPaused = false;
-  if (gameSentenceRainPauseTimeout) {
-    clearTimeout(gameSentenceRainPauseTimeout);
-    gameSentenceRainPauseTimeout = null;
-  }
-  
-  const grade = gameSentenceRainLevel;
-  let pool = sentenceRainPool.g3;
-  if (grade === 1) pool = sentenceRainPool.g1;
-  else if (grade === 2) pool = sentenceRainPool.g2;
-  else if (grade === 3) pool = sentenceRainPool.g3;
-  else if (grade === 4) pool = sentenceRainPool.g4;
-  else if (grade === 5) pool = sentenceRainPool.g5;
-  else if (grade === 6) pool = sentenceRainPool.g6;
-  
-  gameSentenceRainSentences = [...pool].sort(() => Math.random() - 0.5).slice(0, 3);
-  gameSentenceRainStartTime = Date.now();
-  gameSentenceRainActiveWords = [];
-  gameSentenceRainSpeechFails = 0;
-  
-  if (gameSentenceRainAnimFrame) {
-    cancelAnimationFrame(gameSentenceRainAnimFrame);
-    gameSentenceRainAnimFrame = null;
-  }
-  
-  startSentenceRainQuestion(container);
-}
-
-function startSentenceRainQuestion(container) {
-  if (gameSentenceRainIndex >= gameSentenceRainSentences.length) {
-    completeSentenceRainRewards();
-    return;
-  }
-  
-  const rawSentence = gameSentenceRainSentences[gameSentenceRainIndex];
-  const words = rawSentence.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, "").split(/\s+/).filter(Boolean);
-  
-  gameSentenceRainCurrentWordIndex = 0;
-  gameSentenceRainSpeechFails = 0;
-  
-  let modeName = "Guided Sentence";
-  if (gameSentenceRainLevel === 2) modeName = "Missing Word";
-  else if (gameSentenceRainLevel === 3) modeName = "Scrambled Rain";
-  else if (gameSentenceRainLevel === 4 || gameSentenceRainLevel === 5) modeName = "Listen & Build";
-  else if (gameSentenceRainLevel === 6) modeName = "Story Builder";
-  
-  if (gameSentenceRainLevel === 2) {
-    let hidIdx = Math.floor(Math.random() * words.length);
-    gameSentenceRainMissingWordIndex = hidIdx;
-    gameSentenceRainExpectedWord = words[hidIdx];
-  } else {
-    gameSentenceRainExpectedWord = words[0];
-  }
-  
-  let slotsHTML = '';
-  if (gameSentenceRainLevel === 2) {
-    words.forEach((w, idx) => {
-      if (idx === gameSentenceRainMissingWordIndex) {
-        slotsHTML += `<span class="word-slot empty-blank" id="rain-slot-${idx}">?</span>`;
-      } else {
-        slotsHTML += `<span class="word-slot filled" id="rain-slot-${idx}">${w}</span>`;
-      }
-    });
-  } else if (gameSentenceRainLevel === 4 || gameSentenceRainLevel === 5) {
-    words.forEach((w, idx) => {
-      slotsHTML += `<span class="word-slot empty" id="rain-slot-${idx}" style="min-width: 40px;">?</span>`;
-    });
-    speakSentenceRainPrompt(rawSentence);
-  } else {
-    words.forEach((w, idx) => {
-      slotsHTML += `<span class="word-slot empty" id="rain-slot-${idx}">___</span>`;
-    });
-  }
-  
-  container.innerHTML = `
-    <div style="text-align: center; width: 100%; max-width: 500px; padding: 10px; display: flex; flex-direction: column;">
-      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
-        <span style="font-size: 13px; color: var(--accent); font-weight: 700;">Mode: ${modeName}</span>
-        <span style="font-size: 13px; color: var(--text-muted); font-weight: 600;">Sentence ${gameSentenceRainIndex + 1} of 3</span>
-      </div>
-      
-      <div class="target-sentence-box" id="rain-target-box">
-        ${slotsHTML}
-      </div>
-      
-      <div class="rain-catch-banner" id="rain-catch-banner" style="background: rgba(59, 130, 246, 0.08); border: 1.5px solid var(--accent); border-radius: 12px; padding: 10px; margin-bottom: 12px; font-size: 16px; font-weight: 700; color: var(--text-main); text-align: center; font-family: 'Outfit', sans-serif;">
-        Catch: <span style="color: var(--accent); font-size: 18px; text-decoration: underline;">${gameSentenceRainExpectedWord}</span>
-      </div>
-      
-      <div class="rain-game-viewport" id="rain-viewport"></div>
-      
-      <div class="speech-control-panel">
-        <div class="mic-btn-container">
-          <button class="mic-btn" id="rain-mic-btn" onclick="toggleSentenceRainSpeech()">🎤</button>
-          <div class="mic-pulse-ring"></div>
-        </div>
-        <div id="rain-speech-status" style="font-size: 13px; font-weight: 600; color: var(--text-muted);">
-          Tap word or press 🎤 to speak the correct word
-        </div>
-        <div class="speech-wave-indicator" style="display: flex; justify-content: center; gap: 3px;">
-          <div class="speech-wave-bar"></div>
-          <div class="speech-wave-bar"></div>
-          <div class="speech-wave-bar"></div>
-          <div class="speech-wave-bar"></div>
-          <div class="speech-wave-bar"></div>
-        </div>
-      </div>
-      
-      <div style="font-size: 12px; color: var(--text-muted); display: flex; justify-content: space-between;">
-        <span>Accuracy: ${calculateSentenceRainAccuracy()}%</span>
-        <span>Score: ${gameSentenceRainScore} words</span>
-      </div>
-    </div>
-  `;
-  
-  const viewport = document.getElementById('rain-viewport');
-  if (viewport) {
-    viewport.onclick = (e) => {
-      if (e.target === viewport) {
-        triggerSentenceRainPause();
-      }
-    };
-  }
-  
-  spawnSentenceRainWordBatch();
-}
-
-function updateRainCatchBanner() {
-  const banner = document.getElementById('rain-catch-banner');
-  if (banner) {
-    banner.innerHTML = `Catch: <span style="color: var(--accent); font-size: 18px; text-decoration: underline;">${gameSentenceRainExpectedWord}</span>`;
-  }
-}
-
-function triggerSentenceRainPause() {
-  if (gameSentenceRainPaused) return;
-  gameSentenceRainPaused = true;
-  
-  const viewport = document.getElementById('rain-viewport');
-  if (viewport) {
-    viewport.classList.add('paused-active');
-    let pauseIndicator = document.getElementById('rain-pause-indicator');
-    if (!pauseIndicator) {
-      pauseIndicator = document.createElement('div');
-      pauseIndicator.id = 'rain-pause-indicator';
-      pauseIndicator.innerHTML = '⏸️ Paused';
-      viewport.appendChild(pauseIndicator);
-    }
-    pauseIndicator.style.display = 'flex';
-  }
-  
-  if (gameSentenceRainPauseTimeout) clearTimeout(gameSentenceRainPauseTimeout);
-  gameSentenceRainPauseTimeout = setTimeout(() => {
-    gameSentenceRainPaused = false;
-    const viewport = document.getElementById('rain-viewport');
-    if (viewport) {
-      viewport.classList.remove('paused-active');
-      const pauseIndicator = document.getElementById('rain-pause-indicator');
-      if (pauseIndicator) pauseIndicator.style.display = 'none';
-    }
-  }, 1300);
-}
-
-function spawnSentenceRainWordBatch() {
-  const viewport = document.getElementById('rain-viewport');
-  if (!viewport) return;
-  
-  viewport.innerHTML = '';
-  
-  if (gameSentenceRainAnimFrame) {
-    cancelAnimationFrame(gameSentenceRainAnimFrame);
-    gameSentenceRainAnimFrame = null;
-  }
-  
-  gameSentenceRainActiveWords = [];
-  gameSentenceRainLastTime = 0;
-  
-  const rawSentence = gameSentenceRainSentences[gameSentenceRainIndex];
-  const words = rawSentence.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, "").split(/\s+/).filter(Boolean);
-  
-  let fallingList = [];
-  if (gameSentenceRainLevel === 2) {
-    fallingList = [gameSentenceRainExpectedWord];
-    const distractors = getSentenceRainDistractors(gameSentenceRainExpectedWord);
-    distractors.forEach(d => fallingList.push(d));
-  } else {
-    fallingList = [gameSentenceRainExpectedWord];
-    const distractors = getSentenceRainDistractors(gameSentenceRainExpectedWord);
-    distractors.slice(0, 2).forEach(d => fallingList.push(d));
-  }
-  
-  fallingList.sort(() => Math.random() - 0.5);
-  
-  fallingList.forEach((wordText, i) => {
-    const el = document.createElement('div');
-    el.className = 'falling-word';
-    el.innerText = wordText;
-    el.style.opacity = '0';
-    
-    const xPos = 5 + Math.random() * 75;
-    el.style.left = `${xPos}%`;
-    
-    const yPos = 10;
-    el.style.top = `${yPos}px`;
-    
-    viewport.appendChild(el);
-    
-    let speed = 0.35;
-    if (gameSentenceRainLevel <= 2) speed = 0.25;
-    else if (gameSentenceRainLevel <= 4) speed = 0.4;
-    else speed = 0.55;
-    speed += Math.random() * 0.1;
-    
-    const isDistractor = (wordText !== gameSentenceRainExpectedWord);
-    
-    const fallingWordObj = {
-      text: wordText,
-      cleanText: wordText.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, "").toLowerCase().trim(),
-      x: xPos,
-      y: yPos,
-      speed: speed,
-      el: el,
-      isSolved: false,
-      isDistractor: isDistractor,
-      visibleTime: Date.now() + (i * 1000)
-    };
-    
-    el.onclick = () => {
-      handleSentenceRainWordClick(fallingWordObj);
-    };
-    
-    gameSentenceRainActiveWords.push(fallingWordObj);
-  });
-  
-  runSentenceRainAnimation();
-}
-
-function getSentenceRainDistractors(sampleWord) {
-  const wordsG1 = ["cat", "dog", "run", "toy", "pen", "red", "big", "sun", "play", "see"];
-  const wordsG3 = ["plant", "water", "earth", "learn", "clean", "light", "space", "shape", "equal", "heart"];
-  const wordsG5 = ["energy", "growth", "system", "nature", "science", "force", "degree", "matter", "oxygen", "forest"];
-  
-  let pool = wordsG3;
-  if (gameSentenceRainLevel <= 2) pool = wordsG1;
-  else if (gameSentenceRainLevel >= 5) pool = wordsG5;
-  
-  const filtered = pool.filter(w => w.toLowerCase() !== sampleWord.toLowerCase());
-  return filtered.sort(() => Math.random() - 0.5).slice(0, 3);
-}
-
-function runSentenceRainAnimation(timestamp) {
-  if (activeGame !== 'sentencerain') return;
-  
-  if (gameSentenceRainPaused) {
-    gameSentenceRainLastTime = timestamp || performance.now();
-    gameSentenceRainAnimFrame = requestAnimationFrame(runSentenceRainAnimation);
-    return;
-  }
-  
-  if (!gameSentenceRainLastTime) {
-    gameSentenceRainLastTime = timestamp || performance.now();
-  }
-  const now = timestamp || performance.now();
-  const dt = Math.min(3.0, (now - gameSentenceRainLastTime) / 16.666);
-  gameSentenceRainLastTime = now;
-  
-  const viewportHeight = 350;
-  const nowTime = Date.now();
-  
-  gameSentenceRainActiveWords.forEach(word => {
-    if (word.isSolved) return;
-    
-    if (nowTime < word.visibleTime) {
-      word.el.style.opacity = '0';
-      return;
-    }
-    
-    // Freeze period: 800ms
-    if (nowTime >= word.visibleTime && nowTime < word.visibleTime + 800) {
-      word.el.style.opacity = '1';
-      return;
-    }
-    
-    // Fall period
-    word.el.style.opacity = '1';
-    word.y += word.speed * dt;
-    word.el.style.top = `${word.y}px`;
-  });
-  
-  const allFinished = gameSentenceRainActiveWords.every(word => word.isSolved || word.y > viewportHeight);
-  if (allFinished) {
-    if (gameSentenceRainAnimFrame) {
-      cancelAnimationFrame(gameSentenceRainAnimFrame);
-      gameSentenceRainAnimFrame = null;
-    }
-    setTimeout(handleSentenceRainBatchEnd, 800);
-  } else {
-    gameSentenceRainAnimFrame = requestAnimationFrame(runSentenceRainAnimation);
-  }
-}
-
-function handleSentenceRainBatchEnd() {
-  if (activeGame !== 'sentencerain') return;
-  
-  const targetWord = gameSentenceRainActiveWords.find(w => !w.isDistractor);
-  if (targetWord && !targetWord.isSolved) {
-    playIncorrectAudio();
-    gameSentenceRainMistakes++;
-    updateSentenceRainAccuracyDisplay();
-    
-    const status = document.getElementById('rain-speech-status');
-    if (status) {
-      status.innerText = `Missed "${gameSentenceRainExpectedWord}"! Let's try again.`;
-      status.style.color = 'var(--incorrect)';
-      setTimeout(() => {
-        status.style.color = 'var(--text-muted)';
-        updateSpeechStatusPrompt();
-      }, 1500);
-    }
-    
-    spawnSentenceRainWordBatch();
-  }
-}
-
-function handleSentenceRainWordClick(wordObj) {
-  if (wordObj.isSolved) return;
-  
-  const rawSentence = gameSentenceRainSentences[gameSentenceRainIndex];
-  const wordsClean = rawSentence.replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, "").split(/\s+/).filter(Boolean);
-  
-  let isCorrect = false;
-  if (gameSentenceRainLevel === 2) {
-    isCorrect = (wordObj.cleanText === gameSentenceRainExpectedWord.toLowerCase().trim());
-  } else {
-    isCorrect = (wordObj.cleanText === gameSentenceRainExpectedWord.toLowerCase().trim());
-  }
-  
-  if (isCorrect) {
-    wordObj.isSolved = true;
-    wordObj.el.classList.add('correct');
-    wordObj.el.style.opacity = '0';
-    setTimeout(() => { wordObj.el.style.display = 'none'; }, 200);
-    
-    playCorrectAudio();
-    
-    if (gameSentenceRainLevel === 2) {
-      const slot = document.getElementById(`rain-slot-${gameSentenceRainMissingWordIndex}`);
-      if (slot) {
-        slot.innerText = gameSentenceRainExpectedWord;
-        slot.classList.remove('empty-blank');
-        slot.classList.add('filled');
-      }
-      gameSentenceRainScore++;
-      setTimeout(advanceSentenceRainQuestion, 800);
-    } else {
-      const slot = document.getElementById(`rain-slot-${gameSentenceRainCurrentWordIndex}`);
-      if (slot) {
-        slot.innerText = wordsClean[gameSentenceRainCurrentWordIndex];
-        slot.classList.remove('empty');
-        slot.classList.add('filled');
-      }
-      gameSentenceRainScore++;
-      gameSentenceRainCurrentWordIndex++;
-      
-      if (gameSentenceRainCurrentWordIndex >= wordsClean.length) {
-        setTimeout(advanceSentenceRainQuestion, 800);
-      } else {
-        gameSentenceRainExpectedWord = wordsClean[gameSentenceRainCurrentWordIndex];
-        gameSentenceRainSpeechFails = 0;
-        updateSpeechStatusPrompt();
-        setTimeout(() => {
-          if (gameSentenceRainAnimFrame) {
-            cancelAnimationFrame(gameSentenceRainAnimFrame);
-            gameSentenceRainAnimFrame = null;
-          }
-          spawnSentenceRainWordBatch();
-        }, 800);
-      }
-    }
-  } else {
-    gameSentenceRainMistakes++;
-    wordObj.el.classList.add('incorrect');
-    setTimeout(() => { wordObj.el.classList.remove('incorrect'); }, 500);
-    playIncorrectAudio();
-    
-    updateSentenceRainAccuracyDisplay();
-  }
-}
-
-function playCorrectAudio() {
-  if (musicEnabled) {
-    const sfx = new Audio('correct.wav');
-    sfx.play().catch(() => {});
-  }
-}
-
-function playIncorrectAudio() {
-  if (musicEnabled) {
-    const sfx = new Audio('incorrect.wav');
-    sfx.play().catch(() => {});
-  }
-}
-
-function toggleSentenceRainSpeech() {
-  const btn = document.getElementById('rain-mic-btn');
-  const status = document.getElementById('rain-speech-status');
-  if (!btn || !status) return;
-  
-  if (gameSentenceRainSpeechActive) {
-    gameSentenceRainSpeechActive = false;
-    btn.classList.remove('listening');
-    status.innerText = "Microphone paused. Tap to speak again.";
-    if (gameSentenceRainRecognition) {
-      try {
-        gameSentenceRainRecognition.stop();
-      } catch(e){}
-    }
-  } else {
-    if (!gameSentenceRainRecognition) {
-      initSentenceRainSpeechRecognition();
-    }
-    if (gameSentenceRainRecognition) {
-      try {
-        gameSentenceRainRecognition.start();
-        gameSentenceRainSpeechActive = true;
-        btn.classList.add('listening');
-        status.innerText = "Listening... Speak: \"" + gameSentenceRainExpectedWord + "\"";
-      } catch (e) {
-        console.error("Failed to start speech recognition:", e);
-        status.innerText = "Microphone error. Tap to play.";
-        gameSentenceRainSpeechActive = false;
-        btn.classList.remove('listening');
-      }
-    } else {
-      status.innerText = "Speech not supported. Tap mode active!";
-    }
-  }
-}
-
-function initSentenceRainSpeechRecognition() {
-  const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
-  if (!SpeechRecognition) {
-    console.warn("Speech Recognition not supported in this browser.");
-    return;
-  }
-  
-  gameSentenceRainRecognition = new SpeechRecognition();
-  gameSentenceRainRecognition.continuous = true;
-  gameSentenceRainRecognition.interimResults = true;
-  
-  const rawSentence = gameSentenceRainSentences[gameSentenceRainIndex];
-  if (rawSentence.includes('ang') || rawSentence.includes('aso') || rawSentence.includes('guro') || rawSentence.includes('bata')) {
-    gameSentenceRainRecognition.lang = 'fil-PH';
-  } else {
-    gameSentenceRainRecognition.lang = 'en-US';
-  }
-  
-  gameSentenceRainRecognition.onstart = () => {
-    gameSentenceRainSpeechActive = true;
-  };
-  
-  gameSentenceRainRecognition.onend = () => {
-    if (gameSentenceRainSpeechActive && activeGame === 'sentencerain') {
-      try {
-        gameSentenceRainRecognition.start();
-      } catch (e) {}
-    }
-  };
-  
-  gameSentenceRainRecognition.onresult = (event) => {
-    let interimTranscript = '';
-    let finalTranscript = '';
-    for (let i = event.resultIndex; i < event.results.length; ++i) {
-      if (event.results[i].isFinal) {
-        finalTranscript += event.results[i][0].transcript;
-      } else {
-        interimTranscript += event.results[i][0].transcript;
-      }
-    }
-    const spokenText = (finalTranscript || interimTranscript).toLowerCase().trim();
-    if (spokenText) {
-      processSentenceRainSpokenText(spokenText);
-    }
-  };
-  
-  gameSentenceRainRecognition.onerror = (event) => {
-    console.error("Speech Recognition Error:", event.error);
-    if (event.error === 'not-allowed') {
-      gameSentenceRainSpeechActive = false;
-      const btn = document.getElementById('rain-mic-btn');
-      if (btn) btn.classList.remove('listening');
-      const status = document.getElementById('rain-speech-status');
-      if (status) status.innerText = "Mic Permission Denied. Play using TAP mode!";
-    }
-  };
-}
-
-function processSentenceRainSpokenText(spokenText) {
-  const expectedClean = gameSentenceRainExpectedWord.toLowerCase().trim();
-  if (spokenText.includes(expectedClean)) {
-    const matchedWordObj = gameSentenceRainActiveWords.find(word => word.cleanText === expectedClean && !word.isSolved);
-    if (matchedWordObj) {
-      handleSentenceRainWordClick(matchedWordObj);
-    }
-  } else {
-    gameSentenceRainSpeechFails++;
-    if (gameSentenceRainSpeechFails >= 2) {
-      const status = document.getElementById('rain-speech-status');
-      if (status) {
-        const mascotName = getMascotName();
-        status.innerHTML = `<span style="color: var(--accent); font-weight:700;">🦉 ${mascotName}:</span> "Try tapping the word '${gameSentenceRainExpectedWord}' if speech is tricky!"`;
-      }
-    }
-  }
-}
-
-function updateSpeechStatusPrompt() {
-  const status = document.getElementById('rain-speech-status');
-  if (!status) return;
-  
-  if (gameSentenceRainSpeechActive) {
-    status.innerText = "Listening... Speak: \"" + gameSentenceRainExpectedWord + "\"";
-  } else {
-    status.innerText = "Tap word or press 🎤 to speak: \"" + gameSentenceRainExpectedWord + "\"";
-  }
-  
-  if (gameSentenceRainRecognition) {
-    const rawSentence = gameSentenceRainSentences[gameSentenceRainIndex];
-    if (rawSentence.includes('ang') || rawSentence.includes('aso') || rawSentence.includes('guro') || rawSentence.includes('bata')) {
-      gameSentenceRainRecognition.lang = 'fil-PH';
-    } else {
-      gameSentenceRainRecognition.lang = 'en-US';
-    }
-  }
-}
-
-function calculateSentenceRainAccuracy() {
-  const totalAttempts = gameSentenceRainScore + gameSentenceRainMistakes;
-  if (totalAttempts === 0) return 100;
-  return Math.round((gameSentenceRainScore / totalAttempts) * 100);
-}
-
-function updateSentenceRainAccuracyDisplay() {
-  const container = document.getElementById('game-canvas-area');
-  if (!container) return;
-  const accuracyText = container.querySelector('div[style*="font-size: 12px;"]');
-  if (accuracyText) {
-    accuracyText.innerHTML = `
-      <span>Accuracy: ${calculateSentenceRainAccuracy()}%</span>
-      <span>Score: ${gameSentenceRainScore} words</span>
-    `;
-  }
-}
-
-function advanceSentenceRainQuestion() {
-  gameSentenceRainIndex++;
-  const container = document.getElementById('game-canvas-area');
-  if (!container) return;
-  
-  if (gameSentenceRainIndex >= gameSentenceRainSentences.length) {
-    completeSentenceRainRewards();
-  } else {
-    startSentenceRainQuestion(container);
-  }
-}
-
-function completeSentenceRainRewards() {
-  if (gameSentenceRainAnimFrame) {
-    cancelAnimationFrame(gameSentenceRainAnimFrame);
-    gameSentenceRainAnimFrame = null;
-  }
-  gameSentenceRainPaused = false;
-  if (gameSentenceRainRecognition) {
-    try {
-      gameSentenceRainRecognition.stop();
-    } catch(e){}
-    gameSentenceRainRecognition = null;
-  }
-  gameSentenceRainSpeechActive = false;
-  
-  completeGameRewards('sentencerain');
-}
-
-function speakSentenceRainPrompt(text) {
-  if ('speechSynthesis' in window) {
-    window.speechSynthesis.cancel();
-    const utterance = new SpeechSynthesisUtterance(text);
-    if (text.includes('ang') || text.includes('aso') || text.includes('guro') || text.includes('bata')) {
-      utterance.lang = 'fil-PH';
-    } else {
-      utterance.lang = 'en-US';
-    }
-    window.speechSynthesis.speak(utterance);
-  }
-}
-
+// Sentence Rain Game Engine Removed

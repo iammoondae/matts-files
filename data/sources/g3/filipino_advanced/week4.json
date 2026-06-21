@@ -1,0 +1,703 @@
+{
+  "color": "#ec4899",
+  "icon": "🗣️",
+  "title": "Filipino",
+  "subtitle": "Week 4: Pang-uri at Katangian ng Materyal [Advanced]",
+  "slides": [
+    {
+      "title": "Maligayang Pagdating sa Week 4! (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"How are you, student? Welcome to the fourth week!\">Kumusta ka, mag-aaral? Welcome sa ikaapat na linggo!</span> <span class=\"fil-sentence\" data-translation=\"This week, we will study about adjectives in grammar.\n\">Ngayong linggo, mag-aaral tayo tungkol sa pang-uri.\n</span> <span class=\"fil-sentence\" data-translation=\"Adjectives are words that describe nouns or pronouns.\n\">Ang pang-uri ay salitang naglalarawan sa pangngalan.\n</span> <span class=\"fil-sentence\" data-translation=\"We will connect this grammar lesson to our Science class.\n\">Ikokonekta natin ito sa ating aralin sa Science.\n</span> <span class=\"fil-sentence\" data-translation=\"Let's describe the properties of different solid materials.\n\">Ilarawan natin ang mga katangian ng iba't ibang solid.",
+      "examples": [
+        {
+          "title": "Layunin ng Aralin",
+          "content": "Tukuyin at gamitin ang pang-uri sa paglalarawan ng mga solid na materyal."
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Ano ang Pang-uri? (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Adjectives describe the characteristics of nouns.\n\">Ang pang-uri ay nagbibigay-turing sa pangngalan.\n</span> <span class=\"fil-sentence\" data-translation=\"It shows the color, shape, size, and physical properties.\n\">Ipinapakita nito ang kulay, hugis, laki, at katangian.\n</span> <span class=\"fil-sentence\" data-translation=\"E.\ng.\n, in 'red crayon', the adjective is 'red'.\n\">E.",
+      "examples": [
+        {
+          "title": "Pang-uri",
+          "content": "matigas (hard), makintab (shiny), malambot (soft)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Ang Katangiang: Matigas (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Hardness is a physical property of many solid things.\n\">Ang katigasan ay isang katangian ng maraming solid.\n</span> <span class=\"fil-sentence\" data-translation=\"The adjective 'hard' describes these sturdy materials.\n\">Ang pang-uring 'matigas' ay naglalarawan sa kanila.\n</span> <span class=\"fil-sentence\" data-translation=\"They do not easily bend or change shape under pressure.\n\">Hindi sila madaling mayupi o mabago ang hugis.\n</span> <span class=\"fil-sentence\" data-translation=\"Example: 'The big stone on the road is very hard.\n'\">Halimbawa: 'Ang malaking bato sa daan ay matigas.",
+      "examples": [
+        {
+          "title": "Matigas",
+          "content": "bato (stone), bakal (iron key), semento (concrete)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Ang Katangiang: Malambot (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Softness is the opposite of hardness in materials.\n\">Ang kalambutan ay kabaligtaran ng katigasan.\n</span> <span class=\"fil-sentence\" data-translation=\"The adjective 'soft' describes these flexible things.\n\">Ang pang-uring 'malambot' ay naglalarawan sa kanila.\n</span> <span class=\"fil-sentence\" data-translation=\"They are easy to squeeze or reshape using hand force.\n\">Madali silang pisilin o baguhin ang hugis.\n</span> <span class=\"fil-sentence\" data-translation=\"Example: 'The cotton in the clinic is very soft.\n'\">Halimbawa: 'Ang bulak sa klinika ay malambot.",
+      "examples": [
+        {
+          "title": "Malambot",
+          "content": "bulak (cotton), modeling clay, unan (pillow)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Ang Katangiang: Makintab (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Some objects reflect the light of the sun beautifully.\n\">May mga bagay na sumasalamin sa liwanag ng araw.\n</span> <span class=\"fil-sentence\" data-translation=\"The adjective 'shiny' describes these bright materials.\n\">Ang pang-uring 'makintab' ay naglalarawan sa kanila.\n</span> <span class=\"fil-sentence\" data-translation=\"Example: 'The new metal key is very shiny.\n'\">Halimbawa: 'Ang bagong metal na susi ay makintab.\n'</span> <span class=\"fil-sentence\" data-translation=\"The word 'shiny' describes the common noun 'key'.\n\">Ang 'makintab' ay naglalarawan sa bagay na 'susi'.",
+      "examples": [
+        {
+          "title": "Makintab",
+          "content": "susi (metal key), barya (coin), salamin (mirror)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Ang Katangiang: Magaspang (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The texture of objects is felt by our sense of touch.\n\">Ang texture ng bagay ay nararamdaman ng balat.\n</span> <span class=\"fil-sentence\" data-translation=\"The adjective 'rough' describes uneven surfaces.\n\">Ang pang-uring 'magaspang' ay naglalarawan sa kanila.\n</span> <span class=\"fil-sentence\" data-translation=\"There are bumps and uneven parts on the solid surface.\n\">May mga uka at hindi pantay ang ibabaw ng solid.\n</span> <span class=\"fil-sentence\" data-translation=\"Example: 'The bark of the narra tree is very rough.\n'\">Halimbawa: 'Ang balat ng puno ng narra ay magaspang.",
+      "examples": [
+        {
+          "title": "Magaspang",
+          "content": "balat ng puno (tree bark), buhangin (sand), liha (sandpaper)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Ang Katangiang: Makinis (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Some solids have flat and slippery physical surfaces.\n\">May mga solid na may pantay at madulas na ibabaw.\n</span> <span class=\"fil-sentence\" data-translation=\"The adjective 'smooth' describes these even textures.\n\">Ang pang-uring 'makinis' ay naglalarawan sa kanila.\n</span> <span class=\"fil-sentence\" data-translation=\"There are no bumps or lines when touched by your hand.\n\">Walang mga uka o guhit kapag hinawakan ng kamay.\n</span> <span class=\"fil-sentence\" data-translation=\"Example: 'The surface of the glass desk is very smooth.\n'\">Halimbawa: 'Ang ibabaw ng glass desk ay makinis.",
+      "examples": [
+        {
+          "title": "Makinis",
+          "content": "papel (paper), plato (plate), salamin (glass)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Paglalarawan sa Pook (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"We can also describe the physical places around us.\n\">Maaari din nating ilarawan ang mga pook sa atin.\n</span> <span class=\"fil-sentence\" data-translation=\"Using adjectives like wide, spacious, or clean.\n\">Gamit ang mga pang-uri tulad ng malawak o malinis.\n</span> <span class=\"fil-sentence\" data-translation=\"Example: 'The wide town plaza is full of people.\n'\">Halimbawa: 'Ang malawak na plaza ay puno ng tao.\n'</span> <span class=\"fil-sentence\" data-translation=\"The word 'wide' is the adjective describing 'plaza'.\n\">Ang 'malawak' ay pang-uri na naglalarawan sa 'plaza'.",
+      "examples": [
+        {
+          "title": "Pook",
+          "content": "malawak na plaza (wide plaza), malinis na ilog (clean river)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Pang-uri at Pandama (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Adjectives are gathered using our five senses daily.\n\">Ang pang-uri ay nakukuha gamit ang limang pandama.\n</span> <span class=\"fil-sentence\" data-translation=\"We can see the color and shape of solid objects.\n\">Nakikita natin ang kulay at hugis ng solid.\n</span> <span class=\"fil-sentence\" data-translation=\"Our skin feels their physical texture and temperature.\n\">Nararamdaman ng skin ang texture at temperature nito.\n</span> <span class=\"fil-sentence\" data-translation=\"E.\ng.",
+      "examples": [
+        {
+          "title": "Pandama",
+          "content": "malamig na yelo (cold ice), malakas na tunog (loud sound)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Pagsusuri sa Pangungusap (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze the adjective in this sentence.\n\">Suriin natin ang pang-uri sa pangungusap na ito.\n</span> <span class=\"fil-sentence\" data-translation=\"Read: 'Matteo got a hard stone from the local river.\n'\">Pahayag: 'Kumuha si Matteo ng matigas na bato sa ilog.\n'</span> <span class=\"fil-sentence\" data-translation=\"What is the adjective used in our statement here?\">Ano ang pang-uri na ginamit sa ating pahayag?</span> <span class=\"fil-sentence\" data-translation=\"The adjective is 'hard' describing the common noun 'stone'.\n\">Ang pang-uri ay 'matigas' na naglalarawan sa 'bato'.\n</span> <span class=\"fil-sentence\" data-translation=\"The 'stone' is the noun; 'hard' is the physical property.\n\">Ang 'bato' ay pangngalan; ang 'matigas' ay katangian.",
+      "examples": [
+        {
+          "title": "Pagsusuri",
+          "content": "matigas (pang-uri) -> bato (pangngalan)"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Pagsasanay: Matigas o Malambot? (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's identify the correct adjective for the solid.\n\">Tukuyin natin ang tamang pang-uri para sa solid.\n</span> <span class=\"fil-sentence\" data-translation=\"Statement: 'The pillow we use at night is ___.\n'\">Pahayag: 'Ang unan na ginagamit sa gabi ay ___.\n'</span> <span class=\"fil-sentence\" data-translation=\"Since the pillow is made of cotton, it is 'soft'.\n\">Dahil ang unan ay yari sa cotton, ito ay 'malambot'.\n</span> <span class=\"fil-sentence\" data-translation=\"Statement: 'The metal key on the door is ___.\n'\">Pahayag: 'Ang bakal na susi sa pintuan ay ___.",
+      "examples": [
+        {
+          "title": "Pagsasanay",
+          "content": "unan -> malambot, susi -> matigas, clay -> malambot"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Pagsasanay: Makinis o Magaspang? (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Identify the texture of the following solid objects.\n\">Tukuyin ang texture ng mga sumusunod na solid.\n</span> <span class=\"fil-sentence\" data-translation=\"Statement: 'The sandpaper used for wood is ___.\n'\">Pahayag: 'Ang liha na pampakinis ng kahoy ay ___.\n'</span> <span class=\"fil-sentence\" data-translation=\"Since it has bumps, it is 'rough' to the touch.\n\">Dahil may mga uka ito, ito ay 'magaspang' sa balat.\n</span> <span class=\"fil-sentence\" data-translation=\"Statement: 'The surface of the new paper is ___.\n'\">Pahayag: 'Ang ibabaw ng bagong papel ay ___.",
+      "examples": [
+        {
+          "title": "Pagsasanay Texture",
+          "content": "liha -> magaspang, papel -> makinis, puno -> magaspang"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Maling Pagtukoy ng Katangian (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid incorrect descriptions of solid materials.\n\">Iwasan ang maling paglalarawan sa mga solid.\n</span> <span class=\"fil-sentence\" data-translation=\"Do not say a rough piece of sandpaper is 'smooth'.\n\">Huwag sabihing 'makinis' ang isang magaspang na liha.\n</span> <span class=\"fil-sentence\" data-translation=\"Or that a hard piece of metal iron key is 'soft'.\n\">O di kaya ay 'malambot' ang isang matigas na bakal.\n</span> <span class=\"fil-sentence\" data-translation=\"This does not match the physical reality of the object.\n\">Ito ay hindi tumutugma sa pisikal na katotohanan.",
+      "examples": [
+        {
+          "title": "Maling Katangian",
+          "content": "mali: matigas na bulak -> tama: malambot na bulak"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Wastong Pagsulat at Pangkopla (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Use the ligatures 'na' or 'ng' in your writing.\n\">Gamitin ang pang-angkop na 'na' o 'ng' sa pagsulat.\n</span> <span class=\"fil-sentence\" data-translation=\"If the adjective ends in a consonant, use 'na'.\n\">Kung ang pang-uri ay nagtatapos sa katinig, gamitin ang 'na'.\n</span> <span class=\"fil-sentence\" data-translation=\"Example: 'matigas na key' or 'malambot na papel'.\n\">Halimbawa: 'matigas na key' o 'malambot na papel'.\n</span> <span class=\"fil-sentence\" data-translation=\"If it ends in a vowel, attach 'ng' at the end.\n\">Kung nagtatapos sa patinig, idikit ang 'ng' sa dulo.",
+      "examples": [
+        {
+          "title": "Pang-angkop",
+          "content": "matigas + na = matigas na, maganda + ng = magandang"
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 1 (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
+      "examples": [
+        {
+          "title": "Pagsasanay 1",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 2 (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
+      "examples": [
+        {
+          "title": "Pagsasanay 2",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 3 (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
+      "examples": [
+        {
+          "title": "Pagsasanay 3",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 4 (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
+      "examples": [
+        {
+          "title": "Pagsasanay 4",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 5 (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
+      "examples": [
+        {
+          "title": "Pagsasanay 5",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 6 (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
+      "examples": [
+        {
+          "title": "Pagsasanay 6",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 7 (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
+      "examples": [
+        {
+          "title": "Pagsasanay 7",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 8 (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
+      "examples": [
+        {
+          "title": "Pagsasanay 8",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 9 (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
+      "examples": [
+        {
+          "title": "Pagsasanay 9",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Karagdagang Pagsasanay 10 (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
+      "examples": [
+        {
+          "title": "Pagsasanay 10",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    },
+    {
+      "title": "Buod ng Ikaapat na Linggo (Advanced)",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed all the slides for this week.\n\">Binabati kita! Natapos mo ang lahat ng slide sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We learned the use of adjectives in our writing classes.\n\">Natutunan natin ang paggamit ng pang-uri sa pagsulat.\n</span> <span class=\"fil-sentence\" data-translation=\"We connected adjectives to the properties of solids.\n\">Ikinonekta natin ang pang-uri sa katangian ng solid.\n</span> <span class=\"fil-sentence\" data-translation=\"We learned about hard, soft, and shiny properties.\n\">Natutunan natin ang matigas, malambot, at makintab.",
+      "examples": [
+        {
+          "title": "Tandaan",
+          "content": "Pang-uri = Naglalarawan. Solid = Matigas, malambot, makinis, magaspang."
+        },
+        {
+          "title": "HOTS Hamon",
+          "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
+        }
+      ]
+    }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What are the words that describe the characteristics of the noun called?\">Ano ang tawag sa mga salitang naglalarawan sa katangian ng pangngalan?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"verb\">pandiwa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"pronoun\">panghalip</span>",
+        "<span class=\"fil-sentence\" data-translation=\"adjective\">pang-uri</span>",
+        "<span class=\"fil-sentence\" data-translation=\"consonant\">pangatnig</span>"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is an adjective describing texture?\">Alin sa mga sumusunod ang isang pang-uri na naglalarawan ng texture?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"rock\">bato</span>",
+        "<span class=\"fil-sentence\" data-translation=\"rough\">magaspang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"pencil\">lapis</span>",
+        "<span class=\"fil-sentence\" data-translation=\"cat\">pusa</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which adjective is appropriate for cotton used in the clinic?\">Aling pang-uri ang angkop para sa bulak na ginagamit sa klinika?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"tough\">matigas</span>",
+        "<span class=\"fil-sentence\" data-translation=\"soft\">malambot</span>",
+        "<span class=\"fil-sentence\" data-translation=\"shiny\">makintab</span>",
+        "<span class=\"fil-sentence\" data-translation=\"heavy\">mabigat</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which adjective is appropriate for a steel door key?\">Aling pang-uri ang angkop para sa bakal na susi sa pintuan?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"soft\">malambot</span>",
+        "<span class=\"fil-sentence\" data-translation=\"tough\">matigas</span>",
+        "<span class=\"fil-sentence\" data-translation=\"light\">magaan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"fragrant\">mabango</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the texture of a mirror or glass desk?\">Ano ang texture ng isang salamin o glass desk?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"rough\">magaspang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"smooth\">makinis</span>",
+        "<span class=\"fil-sentence\" data-translation=\"soft\">malambot</span>",
+        "<span class=\"fil-sentence\" data-translation=\"sandy\">mabuhangin</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the adjective in the phrase: &#x27;red crayon&#x27;\">Tukuyin ang pang-uri sa parirala: 'pulang krayola'</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"crayon\">krayola</span>",
+        "<span class=\"fil-sentence\" data-translation=\"red\">pulang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"red crayon\">pulang krayola</span>",
+        "<span class=\"fil-sentence\" data-translation=\"no adjective\">walang pang-uri</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the adjective in the sentence: &#x27;Hard concrete cannot be broken.&#x27;\">Tukuyin ang pang-uri sa pangungusap: 'Ang matigas na semento ay hindi mabali.'</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"cement\">semento</span>",
+        "<span class=\"fil-sentence\" data-translation=\"break\">mabali</span>",
+        "<span class=\"fil-sentence\" data-translation=\"tough\">matigas</span>",
+        "<span class=\"fil-sentence\" data-translation=\"no\">hindi</span>"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is an appropriate adjective for sandpaper used on wood?\">Ano ang angkop na pang-uri para sa liha na ginagamit sa kahoy?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"smooth\">makinis</span>",
+        "<span class=\"fil-sentence\" data-translation=\"rough\">magaspang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"soft\">malambot</span>",
+        "<span class=\"fil-sentence\" data-translation=\"shiny\">makintab</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is an adjective that describes the appearance of a gold coin?\">Alin sa mga sumusunod ang pang-uri na naglalarawan ng hitsura ng gintong barya?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"soft\">malambot</span>",
+        "<span class=\"fil-sentence\" data-translation=\"shiny\">makintab</span>",
+        "<span class=\"fil-sentence\" data-translation=\"rough\">magaspang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"light\">magaan</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: The word &#x27;stone&#x27; is an adjective.\">Tama o Mali: Ang salitang 'bato' ay isang pang-uri.</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which adjective is appropriate for a pillow used on a bed?\">Aling pang-uri ang angkop para sa unan na ginagamit sa higaan?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"tough\">matigas</span>",
+        "<span class=\"fil-sentence\" data-translation=\"heavy\">mabigat</span>",
+        "<span class=\"fil-sentence\" data-translation=\"soft\">malambot</span>",
+        "<span class=\"fil-sentence\" data-translation=\"rough\">magaspang</span>"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the adjective in the sentence: &#x27;Matteo bought a shiny coin.&#x27;\">Tukuyin ang pang-uri sa pangungusap: 'Bumili si Matteo ng makintab na coin.'</span>",
+      "options": [
+        "Matteo",
+        "<span class=\"fil-sentence\" data-translation=\"coins\">coin</span>",
+        "<span class=\"fil-sentence\" data-translation=\"shiny\">makintab</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Buy\">Bumili</span>"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the appropriate adjective for a concrete wall that has not been smoothed?\">Ano ang angkop na pang-uri para sa pader na semento na hindi pa napapakinis?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"smooth\">makinis</span>",
+        "<span class=\"fil-sentence\" data-translation=\"rough\">magaspang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"soft\">malambot</span>",
+        "<span class=\"fil-sentence\" data-translation=\"shiny\">makintab</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which adjective describes the surface of the new writing paper?\">Aling pang-uri ang naglalarawan sa ibabaw ng bagong papel sa pagsulat?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"rough\">magaspang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"smooth\">makinis</span>",
+        "<span class=\"fil-sentence\" data-translation=\"soft\">malambot</span>",
+        "<span class=\"fil-sentence\" data-translation=\"heavy\">mabigat</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What describes &#x27;modeling clay&#x27; when it is hand-moulded?\">Ano ang naglalarawan sa 'modeling clay' kapag ito ay pinipisa ng kamay?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"tough\">matigas</span>",
+        "<span class=\"fil-sentence\" data-translation=\"soft\">malambot</span>",
+        "<span class=\"fil-sentence\" data-translation=\"shiny\">makintab</span>",
+        "<span class=\"fil-sentence\" data-translation=\"rough\">magaspang</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the adjective in the sentence: &#x27;The wide square is shady.&#x27;\">Tukuyin ang pang-uri sa pangungusap: 'Malilim ang malawak na plaza.'</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"shady\">Malilim</span>",
+        "<span class=\"fil-sentence\" data-translation=\"wide\">malawak</span>",
+        "plaza",
+        "<span class=\"fil-sentence\" data-translation=\"The\">ang</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: &#x27;Smooth&#x27; and &#x27;rough&#x27; are adjectives that refer to the texture of an object.\">Tama o Mali: Ang 'makinis' at 'magaspang' ay mga pang-uri na tumutukoy sa texture ng bagay.</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following phrases has the correct linguistic form?\">Alin sa mga sumusunod na parirala ang may wastong pang-angkop sa wika?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"cement hard\">matigas ng semento</span>",
+        "<span class=\"fil-sentence\" data-translation=\"hard concrete\">matigas na semento</span>",
+        "<span class=\"fil-sentence\" data-translation=\"hard cement\">matigas semento</span>",
+        "<span class=\"fil-sentence\" data-translation=\"hard cement\">matigasang semento</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which word is the adjective in the sentence: &#x27;Si Gng. Santos brought red flowers.&#x27;?\">Aling salita ang pang-uri sa pangungusap: 'Si Gng. Santos ay nagdala ng pulang bulaklak.'?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"saint\">Santos</span>",
+        "<span class=\"fil-sentence\" data-translation=\"flower\">bulaklak</span>",
+        "<span class=\"fil-sentence\" data-translation=\"red\">pulang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"brought\">nagdala</span>"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What does the adjective refer to in the sentence?\">Ano ang tinutukoy ng pang-uri sa pangungusap?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"characteristic of the noun\">katangian ng pangngalan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"human behavior\">kilos ng tao</span>",
+        "<span class=\"fil-sentence\" data-translation=\"place of occurrence\">lugar ng pangyayari</span>",
+        "<span class=\"fil-sentence\" data-translation=\"animal name\">ngalan ng hayop</span>"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which adjective is appropriate for the dry bark of the narra tree?\">Aling pang-uri ang angkop para sa tuyong balat ng puno ng narra?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"smooth\">makinis</span>",
+        "<span class=\"fil-sentence\" data-translation=\"rough\">magaspang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"soft\">malambot</span>",
+        "<span class=\"fil-sentence\" data-translation=\"shiny\">makintab</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the adjective: &#x27;A clean river is cool to the feet.&#x27;\">Tukuyin ang pang-uri: 'Ang malinis na ilog ay malamig sa paa.'</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"river\">ilog</span>",
+        "<span class=\"fil-sentence\" data-translation=\"clean\">malinis</span>",
+        "<span class=\"fil-sentence\" data-translation=\"foot\">paa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"in\">sa</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: &#x27;Shiny&#x27; is used for things that do not reflect light.\">Tama o Mali: Ang 'makintab' ay ginagamit para sa mga bagay na hindi sumasalamin sa liwanag.</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is an adjective that describes the size of an area?\">Alin sa mga sumusunod ang pang-uri na naglalarawan ng sukat ng isang pook?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"wide\">malawak</span>",
+        "<span class=\"fil-sentence\" data-translation=\"fragrant\">mabango</span>",
+        "<span class=\"fil-sentence\" data-translation=\"tough\">matigas</span>",
+        "<span class=\"fil-sentence\" data-translation=\"shiny\">makintab</span>"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"How to write the phrase &#x27;beautiful + paper&#x27; using the appropriate?\">Paano isinusulat ang pariralang 'maganda + papel' gamit ang pang-angkop?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"nice paper\">maganda na papel</span>",
+        "<span class=\"fil-sentence\" data-translation=\"good paper\">magandang papel</span>",
+        "<span class=\"fil-sentence\" data-translation=\"nice paper\">magandag papel</span>",
+        "<span class=\"fil-sentence\" data-translation=\"nice paper\">maganda papel</span>"
+      ],
+      "answer": 1
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Which sentence contains both an adjective for texture and an adjective for hardness?\">Challenge: Aling pangungusap ang naglalaman ng parehong pang-uri para sa texture at pang-uri para sa hardness?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"The sleek glass desk has sturdy steel legs.\">Ang makinis na glass desk ay may matigas na paa na bakal.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"The dog is playing on the wide road.\">Naglalaro ang aso sa malawak na kalsada.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Mrs. Santos brought red flowers.\">Si Gng. Santos ay nagdala ng pulang bulaklak.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Muning was happy while eating soft fish.\">Masaya si Muning habang kumakain ng malambot na isda.</span>"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Which phrase has an adverbial error?\">Challenge: Aling parirala ang may pagkakamali sa pagkakagamit ng pang-angkop?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"smooth paper\">makinis na papel</span>",
+        "<span class=\"fil-sentence\" data-translation=\"hard steel\">matigas na bakal</span>",
+        "<span class=\"fil-sentence\" data-translation=\"soft cotton\">malambot na bulak</span>",
+        "<span class=\"fil-sentence\" data-translation=\"shiny dog\">makintab na aso</span>"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Check the statement: &#x27;The new coin is shiny.&#x27; What noun does &#x27;shiny&#x27; describe?\">Challenge: Suriin ang pahayag: 'Ang bagong coin ay makintab.' Ano ang pangngalan na inilalarawan ng 'makintab'?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"new\">bagong</span>",
+        "<span class=\"fil-sentence\" data-translation=\"coins\">coin</span>",
+        "<span class=\"fil-sentence\" data-translation=\"is\">ay</span>",
+        "<span class=\"fil-sentence\" data-translation=\"coin\">barya</span>"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Determine how many adjectives are in the sentence: &#x27;The clean and wide square has red flowers.&#x27;\">Challenge: Tukuyin kung gaano karaming pang-uri ang nasa pangungusap: 'Ang malinis at malawak na plaza ay may pulang bulaklak.'</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"one\">isa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"two\">dalawa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"three\">tatlo</span>",
+        "<span class=\"fil-sentence\" data-translation=\"four\">apat</span>"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Which adjective is NOT appropriate to use for the solid material &#x27;modeling clay&#x27;?\">Challenge: Aling pang-uri ang HINDI angkop gamitin para sa solid na materyal na 'modeling clay'?</span>",
+      "options": [
+        "<span class=\"fil-sentence\" data-translation=\"soft\">malambot</span>",
+        "malleable",
+        "<span class=\"fil-sentence\" data-translation=\"tough\">matigas</span>",
+        "<span class=\"fil-sentence\" data-translation=\"colorful\">makulay</span>"
+      ],
+      "answer": 2
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Pagsusuri ng Materyal sa Bahay",
+    "desc": "Pumili ng tatlong magkakaibang bagay sa inyong tahanan (tulad ng kutsara, unan, at bato). Hawakan at suriin ang kanilang pisikal na katangian. Isulat sa isang papel ang ngalan ng bawat bagay at ilarawan ang mga ito gamit ang hindi bababa sa dalawang pang-uri (hal. kutsara -> matigas, makinis). Basahin at ipaliwanag ang iyong mga isinulat na pang-uri sa iyong magulang.",
+    "labels": [
+      "Wastong nakapili ng tatlong magkakaibang bagay sa bahay",
+      "Wastong nagamit ang dalawang pang-uri para sa bawat napiling bagay",
+      "Maayos na naipaliwanag ang mga katangian (texture, hardness) sa magulang"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 1: Tukuyin ang Pang-uri</h3>\n                  <p class=\"ws-instruction\">Isulat ang pang-uri na ginamit sa bawat parirala sa ibaba gamit ang iyong stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. matigas na bato <span class=\"fil-sentence\" data-translation=\"(hard stone)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">matigas</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. makinis na papel <span class=\"fil-sentence\" data-translation=\"(smooth paper)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">makinis</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. pulang krayola <span class=\"fil-sentence\" data-translation=\"(red crayon)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">pulang</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 2: Katangian ng Solid</h3>\n                  <p class=\"ws-instruction\">Isulat kung ang bagay ay <strong>Matigas</strong> o <strong>Malambot</strong> batay sa pisikal na katangian nito.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. bulak na pampunas <span class=\"fil-sentence\" data-translation=\"(cotton wipe)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Malambot</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. bakal na susi <span class=\"fil-sentence\" data-translation=\"(metal key)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Matigas</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. unan sa higaan <span class=\"fil-sentence\" data-translation=\"(sleeping pillow)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Malambot</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 3: Pagsulat ng Paglalarawan</h3>\n                  <p class=\"ws-instruction\">Sumulat ng isang pangungusap upang ilarawan ang ibinigay na bagay gamit ang angkop na pang-uri.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Ilarawan ang texture ng isang magaspang na liha: <span class=\"fil-sentence\" data-translation=\"(Describe the texture of a rough sandpaper:)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Ang liha ay magaspang kapag hinawakan ng kamay.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Ilarawan ang hitsura ng isang makintab na barya sa araw: <span class=\"fil-sentence\" data-translation=\"(Describe the appearance of a shiny coin in the sun:)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Ang barya ay makintab dahil sumasalamin ito sa liwanag.</span></div>\n                  </div>\n                </div>"
+    ]
+  }
+}

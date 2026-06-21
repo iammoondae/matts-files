@@ -258,270 +258,270 @@
   "standard": [
     {
       "type": "choice",
-      "q": "Ano ang tawag sa mga salitang ginagamit na pamalit sa pangngalan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What are the words used instead of nouns called?\">Ano ang tawag sa mga salitang ginagamit na pamalit sa pangngalan?</span>",
       "options": [
-        "pang-uri",
-        "panghalip",
-        "pandiwa",
-        "pangatnig"
+        "<span class=\"fil-sentence\" data-translation=\"adjective\">pang-uri</span>",
+        "<span class=\"fil-sentence\" data-translation=\"pronoun\">panghalip</span>",
+        "<span class=\"fil-sentence\" data-translation=\"verb\">pandiwa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"consonant\">pangatnig</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang isang panghalip panao?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is a possessive pronoun?\">Alin sa mga sumusunod ang isang panghalip panao?</span>",
       "options": [
-        "lapis",
-        "siya",
-        "paaralan",
-        "Pasko"
+        "<span class=\"fil-sentence\" data-translation=\"pencil\">lapis</span>",
+        "<span class=\"fil-sentence\" data-translation=\"he\">siya</span>",
+        "<span class=\"fil-sentence\" data-translation=\"school\">paaralan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Christmas\">Pasko</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang isang panghalip pamatlig?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is a relative pronoun?\">Alin sa mga sumusunod ang isang panghalip pamatlig?</span>",
       "options": [
-        "ako",
-        "iyon",
-        "sila",
-        "siya"
+        "<span class=\"fil-sentence\" data-translation=\"I\">ako</span>",
+        "<span class=\"fil-sentence\" data-translation=\"that\">iyon</span>",
+        "<span class=\"fil-sentence\" data-translation=\"they\">sila</span>",
+        "<span class=\"fil-sentence\" data-translation=\"he\">siya</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Anong panghalip panao ang gagamitin kung ang nagsasalita ang tinutukoy?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What pronoun is used when referring to the speaker?\">Anong panghalip panao ang gagamitin kung ang nagsasalita ang tinutukoy?</span>",
       "options": [
-        "ikaw",
-        "ako",
-        "siya",
-        "sila"
+        "<span class=\"fil-sentence\" data-translation=\"you\">ikaw</span>",
+        "<span class=\"fil-sentence\" data-translation=\"I\">ako</span>",
+        "<span class=\"fil-sentence\" data-translation=\"he\">siya</span>",
+        "<span class=\"fil-sentence\" data-translation=\"they\">sila</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Anong panghalip panao ang gagamitin kung ang kausap ang tinutukoy?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What pronoun to use when referring to the other person?\">Anong panghalip panao ang gagamitin kung ang kausap ang tinutukoy?</span>",
       "options": [
-        "ako",
-        "ikaw",
-        "siya",
-        "kami"
+        "<span class=\"fil-sentence\" data-translation=\"I\">ako</span>",
+        "<span class=\"fil-sentence\" data-translation=\"you\">ikaw</span>",
+        "<span class=\"fil-sentence\" data-translation=\"he\">siya</span>",
+        "<span class=\"fil-sentence\" data-translation=\"us\">kami</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Anong panghalip panao ang gagamitin para kay Matteo na iyong pinag-uusapan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What pronoun would you use for Matteo you are talking about?\">Anong panghalip panao ang gagamitin para kay Matteo na iyong pinag-uusapan?</span>",
       "options": [
-        "ako",
-        "ikaw",
-        "siya",
-        "sila"
+        "<span class=\"fil-sentence\" data-translation=\"I\">ako</span>",
+        "<span class=\"fil-sentence\" data-translation=\"you\">ikaw</span>",
+        "<span class=\"fil-sentence\" data-translation=\"he\">siya</span>",
+        "<span class=\"fil-sentence\" data-translation=\"they\">sila</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Punan ang patlang: 'Si Matteo at Kiko ay masaya. ___ ay naglalaro.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Fill in the blank: &#x27;Matteo and Kiko are happy. ___ is playing.&#x27;\">Punan ang patlang: 'Si Matteo at Kiko ay masaya. ___ ay naglalaro.'</span>",
       "options": [
-        "Siya",
-        "Sila",
-        "Kami",
-        "Ako"
+        "<span class=\"fil-sentence\" data-translation=\"he\">Siya</span>",
+        "<span class=\"fil-sentence\" data-translation=\"they\">Sila</span>",
+        "<span class=\"fil-sentence\" data-translation=\"us\">Kami</span>",
+        "<span class=\"fil-sentence\" data-translation=\"I\">Ako</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Anong pamatlig ang gagamitin para sa lapis na hawak mo ngayon?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What support would be used for the pencil you are holding now?\">Anong pamatlig ang gagamitin para sa lapis na hawak mo ngayon?</span>",
       "options": [
-        "ito",
-        "iyan",
-        "iyon",
-        "sila"
+        "<span class=\"fil-sentence\" data-translation=\"this\">ito</span>",
+        "<span class=\"fil-sentence\" data-translation=\"that&#x27;s it\">iyan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"that\">iyon</span>",
+        "<span class=\"fil-sentence\" data-translation=\"they\">sila</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong pamatlig ang gagamitin para sa aklat na hawak ng iyong kausap?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What support would be used for the book your interlocutor is holding?\">Anong pamatlig ang gagamitin para sa aklat na hawak ng iyong kausap?</span>",
       "options": [
-        "ito",
-        "iyan",
-        "iyon",
-        "ako"
+        "<span class=\"fil-sentence\" data-translation=\"this\">ito</span>",
+        "<span class=\"fil-sentence\" data-translation=\"that&#x27;s it\">iyan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"that\">iyon</span>",
+        "<span class=\"fil-sentence\" data-translation=\"I\">ako</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Anong pamatlig ang gagamitin para sa saranggola na lumilipad sa malayang langit?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What support would be used for a kite flying in the open sky?\">Anong pamatlig ang gagamitin para sa saranggola na lumilipad sa malayang langit?</span>",
       "options": [
-        "ito",
-        "iyan",
-        "iyon",
-        "ikaw"
+        "<span class=\"fil-sentence\" data-translation=\"this\">ito</span>",
+        "<span class=\"fil-sentence\" data-translation=\"that&#x27;s it\">iyan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"that\">iyon</span>",
+        "<span class=\"fil-sentence\" data-translation=\"you\">ikaw</span>"
       ],
       "answer": 2
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang 'kami' ay ginagamit kapag kasama ang nagsasalita sa grupo.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: &#x27;we&#x27; is used when the speaker is in a group.\">Tama o Mali: Ang 'kami' ay ginagamit kapag kasama ang nagsasalita sa grupo.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Tukuyin ang panghalip panao sa pangungusap: 'Siya ay pumunta sa malaking aklatan.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the subject pronoun in the sentence: &#x27;He went to the big library.&#x27;\">Tukuyin ang panghalip panao sa pangungusap: 'Siya ay pumunta sa malaking aklatan.'</span>",
       "options": [
-        "pumunta",
-        "aklatan",
-        "Siya",
-        "malaking"
+        "<span class=\"fil-sentence\" data-translation=\"go\">pumunta</span>",
+        "<span class=\"fil-sentence\" data-translation=\"library\">aklatan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"he\">Siya</span>",
+        "<span class=\"fil-sentence\" data-translation=\"big\">malaking</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Tukuyin ang panghalip pamatlig sa pangungusap: 'Ang hawak kong laruan na ito ay maganda.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the dependent pronoun in the sentence: &#x27;This toy I&#x27;m holding is beautiful.&#x27;\">Tukuyin ang panghalip pamatlig sa pangungusap: 'Ang hawak kong laruan na ito ay maganda.'</span>",
       "options": [
-        "hawak",
-        "laruan",
-        "ito",
-        "maganda"
+        "<span class=\"fil-sentence\" data-translation=\"holding\">hawak</span>",
+        "<span class=\"fil-sentence\" data-translation=\"toy\">laruan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"this\">ito</span>",
+        "<span class=\"fil-sentence\" data-translation=\"nice\">maganda</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Punan ang patlang: 'Itinuro ko ang malayong bundok: ___ ang Bundok Makiling.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Fill in the blank: &#x27;I pointed to the distant mountain: ___ Mount Makiling.&#x27;\">Punan ang patlang: 'Itinuro ko ang malayong bundok: ___ ang Bundok Makiling.'</span>",
       "options": [
-        "Ito",
-        "Iyan",
-        "Iyon",
-        "Sila"
+        "<span class=\"fil-sentence\" data-translation=\"this\">Ito</span>",
+        "<span class=\"fil-sentence\" data-translation=\"that&#x27;s it\">Iyan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"that\">Iyon</span>",
+        "<span class=\"fil-sentence\" data-translation=\"they\">Sila</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Anong panghalip ang pumapalit sa ngalang 'Lani'?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What pronoun replaces the name &#x27;Lani&#x27;?\">Anong panghalip ang pumapalit sa ngalang 'Lani'?</span>",
       "options": [
-        "ako",
-        "ikaw",
-        "siya",
-        "sila"
+        "<span class=\"fil-sentence\" data-translation=\"I\">ako</span>",
+        "<span class=\"fil-sentence\" data-translation=\"you\">ikaw</span>",
+        "<span class=\"fil-sentence\" data-translation=\"he\">siya</span>",
+        "<span class=\"fil-sentence\" data-translation=\"they\">sila</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Punan ang patlang: 'Tingnan mo ang papel na ___ sa iyong mesa.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Fill in the blank: &#x27;Look at the paper ___ on your desk.&#x27;\">Punan ang patlang: 'Tingnan mo ang papel na ___ sa iyong mesa.'</span>",
       "options": [
-        "ito",
-        "iyan",
-        "iyon",
-        "sila"
+        "<span class=\"fil-sentence\" data-translation=\"this\">ito</span>",
+        "<span class=\"fil-sentence\" data-translation=\"that&#x27;s it\">iyan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"that\">iyon</span>",
+        "<span class=\"fil-sentence\" data-translation=\"they\">sila</span>"
       ],
       "answer": 1
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ginagamit ang 'iyon' kapag hawak ng nagsasalita ang bagay.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: &#x27;That&#x27; is used when the speaker is holding the object.\">Tama o Mali: Ginagamit ang 'iyon' kapag hawak ng nagsasalita ang bagay.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Aling panghalip panao ang angkop sa nagsasalita at kanyang mga kaibigan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which pronoun is appropriate for the speaker and his friends?\">Aling panghalip panao ang angkop sa nagsasalita at kanyang mga kaibigan?</span>",
       "options": [
-        "ako",
-        "ikaw",
-        "kami",
-        "siya"
+        "<span class=\"fil-sentence\" data-translation=\"I\">ako</span>",
+        "<span class=\"fil-sentence\" data-translation=\"you\">ikaw</span>",
+        "<span class=\"fil-sentence\" data-translation=\"us\">kami</span>",
+        "<span class=\"fil-sentence\" data-translation=\"he\">siya</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Aling salita ang panghalip sa pangungusap: 'Binigyan sila ni Gng. Santos ng aklat.'?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which word is the pronoun in the sentence: &#x27;Gng gave them. Saint of the book.&#x27;?\">Aling salita ang panghalip sa pangungusap: 'Binigyan sila ni Gng. Santos ng aklat.'?</span>",
       "options": [
-        "Santos",
-        "aklat",
-        "sila",
-        "Binigyan"
+        "<span class=\"fil-sentence\" data-translation=\"saint\">Santos</span>",
+        "<span class=\"fil-sentence\" data-translation=\"book\">aklat</span>",
+        "<span class=\"fil-sentence\" data-translation=\"they\">sila</span>",
+        "<span class=\"fil-sentence\" data-translation=\"given\">Binigyan</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Ano ang tinutukoy ng panghalip pamatlig na 'ito'?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What does the relative pronoun &#x27;it&#x27; refer to?\">Ano ang tinutukoy ng panghalip pamatlig na 'ito'?</span>",
       "options": [
-        "bagay na hawak o malapit sa nagsasalita",
-        "bagay na malapit sa kausap",
-        "bagay na malayo sa kapwa",
-        "isang tao"
+        "<span class=\"fil-sentence\" data-translation=\"thing held by or near the speaker\">bagay na hawak o malapit sa nagsasalita</span>",
+        "<span class=\"fil-sentence\" data-translation=\"something close to the other person\">bagay na malapit sa kausap</span>",
+        "<span class=\"fil-sentence\" data-translation=\"things far from each other\">bagay na malayo sa kapwa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"a person\">isang tao</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin ang angkop na panghalip panao para sa kausap mo na si Kiko?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which is the appropriate pronoun for the person you are talking to, Kiko?\">Alin ang angkop na panghalip panao para sa kausap mo na si Kiko?</span>",
       "options": [
-        "ako",
-        "ikaw",
-        "siya",
-        "kami"
+        "<span class=\"fil-sentence\" data-translation=\"I\">ako</span>",
+        "<span class=\"fil-sentence\" data-translation=\"you\">ikaw</span>",
+        "<span class=\"fil-sentence\" data-translation=\"he\">siya</span>",
+        "<span class=\"fil-sentence\" data-translation=\"us\">kami</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Tukuyin ang panghalip pamatlig: 'Ang krayola na iyan sa iyong kamay ay mapula.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the relative pronoun: &#x27;That crayon in your hand is red.&#x27;\">Tukuyin ang panghalip pamatlig: 'Ang krayola na iyan sa iyong kamay ay mapula.'</span>",
       "options": [
-        "krayola",
-        "iyan",
-        "kamay",
-        "mapula"
+        "<span class=\"fil-sentence\" data-translation=\"crayon\">krayola</span>",
+        "<span class=\"fil-sentence\" data-translation=\"that&#x27;s it\">iyan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"hand\">kamay</span>",
+        "<span class=\"fil-sentence\" data-translation=\"red\">mapula</span>"
       ],
       "answer": 1
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang 'sila' ay panghalip panao para sa isang tao lamang na pinag-uusapan.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: &#x27;They&#x27; is a pronoun for only one person being talked about.\">Tama o Mali: Ang 'sila' ay panghalip panao para sa isang tao lamang na pinag-uusapan.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang panghalip panao na maramihan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is a plural pronoun?\">Alin sa mga sumusunod ang panghalip panao na maramihan?</span>",
       "options": [
-        "ako",
-        "ikaw",
-        "siya",
-        "sila"
+        "<span class=\"fil-sentence\" data-translation=\"I\">ako</span>",
+        "<span class=\"fil-sentence\" data-translation=\"you\">ikaw</span>",
+        "<span class=\"fil-sentence\" data-translation=\"he\">siya</span>",
+        "<span class=\"fil-sentence\" data-translation=\"they\">sila</span>"
       ],
       "answer": 3
     },
     {
       "type": "choice",
-      "q": "Anong pamatlig ang angkop gamitin para sa ibon na nasa mataas na sanga ng malayong puno?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What support is appropriate to use for a bird in a high branch of a distant tree?\">Anong pamatlig ang angkop gamitin para sa ibon na nasa mataas na sanga ng malayong puno?</span>",
       "options": [
-        "ito",
-        "iyan",
-        "iyon",
-        "kami"
+        "<span class=\"fil-sentence\" data-translation=\"this\">ito</span>",
+        "<span class=\"fil-sentence\" data-translation=\"that&#x27;s it\">iyan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"that\">iyon</span>",
+        "<span class=\"fil-sentence\" data-translation=\"us\">kami</span>"
       ],
       "answer": 2
     }
@@ -529,56 +529,56 @@
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge: Aling pangungusap ang naglalaman ng parehong panghalip panao at panghalip pamatlig?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Which sentence contains both a passive and a passive pronoun?\">Challenge: Aling pangungusap ang naglalaman ng parehong panghalip panao at panghalip pamatlig?</span>",
       "options": [
-        "Siya ay nagdala ng bangka na ito sa malaking ilog.",
-        "Naglalaro ang mga aso sa malawak na plaza.",
-        "Kami ay nag-aaral ng balarila sa paaralan.",
-        "Itinuro ko ang ibon na iyon sa aking guro kahapon."
+        "<span class=\"fil-sentence\" data-translation=\"He took this boat to the big river.\">Siya ay nagdala ng bangka na ito sa malaking ilog.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Dogs play in the wide square.\">Naglalaro ang mga aso sa malawak na plaza.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"We are studying grammar at school.\">Kami ay nag-aaral ng balarila sa paaralan.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"I pointed out that bird to my teacher yesterday.\">Itinuro ko ang ibon na iyon sa aking guro kahapon.</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge: Aling panghalip panao ang pumapalit sa mga nakasalungguhit na pangngalan sa pangungusap: 'Si Matteo at ako ay magkasamang pumunta sa aklatan.'?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Which pronoun replaces the underlined nouns in the sentence: &#x27;Matteo and I went to the library together.&#x27;?\">Challenge: Aling panghalip panao ang pumapalit sa mga nakasalungguhit na pangngalan sa pangungusap: 'Si Matteo at ako ay magkasamang pumunta sa aklatan.'?</span>",
       "options": [
-        "Sila",
-        "Kami",
-        "Kayo",
-        "Siya"
+        "<span class=\"fil-sentence\" data-translation=\"they\">Sila</span>",
+        "<span class=\"fil-sentence\" data-translation=\"us\">Kami</span>",
+        "<span class=\"fil-sentence\" data-translation=\"You guys\">Kayo</span>",
+        "<span class=\"fil-sentence\" data-translation=\"he\">Siya</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Challenge: Suriin ang pahayag: 'Ang bituin na iyon ay kumukutikutitap.' Bakit 'iyon' ang ginamit na panghalip pamatlig?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Analyze the statement: &#x27;That star is twinkling.&#x27; Why is &#x27;that&#x27; used as a pronoun?\">Challenge: Suriin ang pahayag: 'Ang bituin na iyon ay kumukutikutitap.' Bakit 'iyon' ang ginamit na panghalip pamatlig?</span>",
       "options": [
-        "Dahil hawak ng nagsasalita ang bituin.",
-        "Dahil malapit sa kausap ang bituin.",
-        "Dahil malayo sa nagsasalita at kausap ang bituin.",
-        "Dahil ang bituin ay isang hayop."
+        "<span class=\"fil-sentence\" data-translation=\"Because the speaker is holding the star.\">Dahil hawak ng nagsasalita ang bituin.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Because the star is close to the interlocutor.\">Dahil malapit sa kausap ang bituin.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Because the star is far from the speaker and interlocutor.\">Dahil malayo sa nagsasalita at kausap ang bituin.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Because the star is an animal.\">Dahil ang bituin ay isang hayop.</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Challenge: Tukuyin kung gaano karaming panghalip panao at pamatlig ang nasa pangungusap: 'Sinabi niya sa akin na ang lapis na ito ay bago.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Determine how many past and present pronouns are in the sentence: &#x27;He told me that this pencil was new.&#x27;\">Challenge: Tukuyin kung gaano karaming panghalip panao at pamatlig ang nasa pangungusap: 'Sinabi niya sa akin na ang lapis na ito ay bago.'</span>",
       "options": [
-        "isa",
-        "dalawa",
-        "tatlo",
-        "apat"
+        "<span class=\"fil-sentence\" data-translation=\"one\">isa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"two\">dalawa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"three\">tatlo</span>",
+        "<span class=\"fil-sentence\" data-translation=\"four\">apat</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Challenge: Aling panghalip pamatlig ang dapat gamitin kung ang bagay ay malayo sa nagsasalita ngunit hawak ng kausap?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Which dependent pronoun should be used if the object is far from the speaker but is held by the interlocutor?\">Challenge: Aling panghalip pamatlig ang dapat gamitin kung ang bagay ay malayo sa nagsasalita ngunit hawak ng kausap?</span>",
       "options": [
-        "ito",
-        "iyan",
-        "iyon",
-        "sila"
+        "<span class=\"fil-sentence\" data-translation=\"this\">ito</span>",
+        "<span class=\"fil-sentence\" data-translation=\"that&#x27;s it\">iyan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"that\">iyon</span>",
+        "<span class=\"fil-sentence\" data-translation=\"they\">sila</span>"
       ],
       "answer": 1
     }

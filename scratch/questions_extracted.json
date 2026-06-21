@@ -1,0 +1,3074 @@
+[
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 0,
+    "q": "Alin sa mga sumusunod ang pangngalang pambalana sa pook?",
+    "options": [
+      "ospital",
+      "Laguna",
+      "Ilog Pasig",
+      "Rizal Park"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 1,
+    "q": "Alin sa mga sumusunod ang pangngalang pantangi sa pook?",
+    "options": [
+      "paaralan",
+      "simbahan",
+      "Lungsod ng Calamba",
+      "palengke"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 2,
+    "q": "Paano isinusulat ang pangngalang pantangi sa pook?",
+    "options": [
+      "Nagsisimula sa maliit na titik",
+      "Nagsisimula sa malaking titik",
+      "Lahat ay malalaking titik",
+      "Lahat ay maliliit na titik"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 3,
+    "q": "Tukuyin ang pook sa pangungusap: 'Pumunta si Matteo sa parke.'",
+    "options": [
+      "Matteo",
+      "Pumunta",
+      "parke",
+      "sa"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 4,
+    "q": "Alin ang may wastong pagsulat ng pangngalang pantangi ng barangay?",
+    "options": [
+      "barangay san jose",
+      "Barangay san jose",
+      "Barangay San Jose",
+      "barangay San Jose"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 5,
+    "q": "Ano ang pambalana ng 'Ilog Pasig'?",
+    "options": [
+      "bundok",
+      "ilog",
+      "dagat",
+      "lawa"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 6,
+    "q": "Ano ang pantangi ng 'bansa'?",
+    "options": [
+      "lalawigan",
+      "lungsod",
+      "Pilipinas",
+      "barangay"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 7,
+    "q": "Tukuyin ang pangngalang pambalana sa pook: 'Ang silid-aralan ay malinis.'",
+    "options": [
+      "silid-aralan",
+      "malinis",
+      "Ang",
+      "ay"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 8,
+    "q": "Alin sa mga sumusunod ang HINDI pook?",
+    "options": [
+      "aklatan",
+      "palikuran",
+      "guro",
+      "palengke"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 9,
+    "q": "Tama o Mali: Ang salitang 'lalawigan' ay isang pangngalang pantangi.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 10,
+    "q": "Alin ang wastong baybay ng tiyak na ngalan ng sikat na bundok sa Laguna?",
+    "options": [
+      "bundok makiling",
+      "Bundok makiling",
+      "Bundok Makiling",
+      "bundok Makiling"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 11,
+    "q": "Tukuyin ang pantangi sa pook sa pangungusap: 'Nakatira ang aking lola sa Laguna.'",
+    "options": [
+      "Nakatira",
+      "lola",
+      "Laguna",
+      "aking"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 12,
+    "q": "Ano ang pambalana ng 'SM City Calamba'?",
+    "options": [
+      "tahanan",
+      "paaralan",
+      "mall",
+      "simbahan"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 13,
+    "q": "Alin sa mga sumusunod ang pambalana sa pook na ginagamit para sa pag-aalaga ng may-sakit?",
+    "options": [
+      "palengke",
+      "ospital",
+      "simbahan",
+      "parke"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 14,
+    "q": "Ano ang pantangi ng 'lalawigan'?",
+    "options": [
+      "bansa",
+      "Cavite",
+      "lungsod",
+      "bayan"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 15,
+    "q": "Tukuyin ang pambalana sa pook: 'Maraming bata ang naglalaro sa plaza.'",
+    "options": [
+      "bata",
+      "naglalaro",
+      "plaza",
+      "maraming"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 16,
+    "q": "Tama o Mali: Ang 'ospital ng maynila' ay isinusulat nang may maliliit na titik lamang.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 17,
+    "q": "Alin sa mga sumusunod ang pambalana sa pook na ngalan ng daan ng sasakyan?",
+    "options": [
+      "kalsada",
+      "ilog",
+      "bundok",
+      "dagat"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 18,
+    "q": "Aling salita ang may pagkakamali sa pagkakagamit ng malaking titik sa pangungusap: 'Pumunta kami sa isang Simbahan kahapon.'?",
+    "options": [
+      "Pumunta",
+      "Simbahan",
+      "kami",
+      "kahapon"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 19,
+    "q": "Ano ang tinutukoy ng pangngalang pook?",
+    "options": [
+      "ngalan ng tao",
+      "ngalan ng lugar o pook",
+      "ngalan ng bagay",
+      "ngalan ng hayop"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 20,
+    "q": "Alin ang pantangi ng 'simbahan'?",
+    "options": [
+      "Moske ng Quiapo",
+      "paaralan",
+      "ospital",
+      "bahay"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 21,
+    "q": "Tukuyin ang pambalana sa pook: 'Malilim ang puno sa aming bakuran.'",
+    "options": [
+      "puno",
+      "bakuran",
+      "malilim",
+      "aming"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 22,
+    "q": "Tama o Mali: Ang 'Pilipinas' ay isang pangngalang pantangi dahil ito ay tiyak na ngalan ng bansa.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 23,
+    "q": "Alin sa mga sumusunod ang pambalana sa pook kung saan binabasa ang mga aklat?",
+    "options": [
+      "aklatan",
+      "palikuran",
+      "opisina",
+      "tindahan"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "standard",
+    "index": 24,
+    "q": "Saan dapat magsimula ang pagsulat ng pangngalang pantangi?",
+    "options": [
+      "maliit na titik",
+      "gitnang titik",
+      "malaking titik",
+      "huling titik"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "challenge",
+    "index": 0,
+    "q": "Challenge: Aling pangungusap ang naglalaman ng parehong pangngalang pambalana at pantangi sa pook?",
+    "options": [
+      "Pumunta si Caloy sa ilog ng Pasig upang mamasyal.",
+      "Nakatira kami sa isang malaking lungsod.",
+      "Maganda ang Lungsod ng Baguio dahil ito ay malamig.",
+      "Ang Paaralang Elementarya ng Calamba ay isang malaking paaralan."
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "challenge",
+    "index": 1,
+    "q": "Challenge: Alin sa mga sumusunod ang may wastong pagsulat ng lahat ng pantangi sa pook?",
+    "options": [
+      "Lungsod Ng Calamba, bulkang Taal",
+      "Lungsod ng Calamba, Bulkang Taal",
+      "lungsod ng calamba, Bulkang taal",
+      "Lungsod ng calamba, bulkang taal"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "challenge",
+    "index": 2,
+    "q": "Challenge: Kung ang 'silid-aralan' ay pambalana, alin ang maaaring maging katapat nitong pantangi sa isang paaralan?",
+    "options": [
+      "Silid ng Grade 3-Rizal",
+      "aklatan",
+      "Paaralang Elementarya",
+      "guro"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "challenge",
+    "index": 3,
+    "q": "Challenge: Tukuyin kung gaano karaming pangngalang pook ang nasa pangungusap: 'Mula sa aming tahanan, dumaan ako sa kalsada patungo sa paaralan.'",
+    "options": [
+      "isa",
+      "dalawa",
+      "tatlo",
+      "apat"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 1,
+    "type": "challenge",
+    "index": 4,
+    "q": "Challenge: Suriin ang pahayag: 'Pumunta si Dr. Rizal sa Europa.' Ano ang kategorya ng 'Europa' sa pangngalan?",
+    "options": [
+      "Pantangi sa tao",
+      "Pambalana sa pook",
+      "Pantangi sa pook",
+      "Pambalana sa bagay"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 0,
+    "q": "Alin sa mga sumusunod ang pangngalang pantangi sa tao?",
+    "options": [
+      "guro",
+      "doktor",
+      "Gng. Santos",
+      "nanay"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 1,
+    "q": "Alin sa mga sumusunod ang pangngalang pambalana sa bagay?",
+    "options": [
+      "Nike",
+      "sapatos",
+      "Toyota",
+      "Mongol"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 2,
+    "q": "Ano ang tiyak na ngalan (pantangi) ng hayop?",
+    "options": [
+      "pusa",
+      "aso",
+      "Bantay",
+      "kalabaw"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 3,
+    "q": "Alin sa mga sumusunod ang pangkalahatang ngalan (pambalana) ng pangyayari?",
+    "options": [
+      "Pasko",
+      "kaarawan",
+      "Bagong Taon",
+      "Araw ng Kalayaan"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 4,
+    "q": "Tukuyin ang pantangi sa tao sa pangungusap: 'Si Matteo ay nag-aaral ng leksyon.'",
+    "options": [
+      "nag-aaral",
+      "Matteo",
+      "leksyon",
+      "Si"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 5,
+    "q": "Ano ang pambalana ng 'Mongol'?",
+    "options": [
+      "sapatos",
+      "lapis",
+      "papel",
+      "gatas"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 6,
+    "q": "Ano ang pantangi ng 'pusa'?",
+    "options": [
+      "aso",
+      "ibon",
+      "Muning",
+      "hayop"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 7,
+    "q": "Paano isinusulat ang tatak ng isang bagay tulad ng 'Toyota'?",
+    "options": [
+      "Maliit na titik",
+      "Malaking titik sa simula",
+      "Lahat ay malalaking titik",
+      "Lahat ay maliliit na titik"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 8,
+    "q": "Tukuyin ang pambalana sa tao: 'Ang bumbero ay tumulong sa pamilya.'",
+    "options": [
+      "bumbero",
+      "tumulong",
+      "pamilya",
+      "Ang"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 9,
+    "q": "Tama o Mali: Ang salitang 'sapatos' ay isang pangngalang pantangi.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 10,
+    "q": "Aling okasyon ang isang pangngalang pantangi sa pangyayari?",
+    "options": [
+      "kasal",
+      "pista",
+      "Bagong Taon",
+      "binyag"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 11,
+    "q": "Tukuyin ang pantangi sa bagay sa pangungusap: 'Bumili si nanay ng bagong gatas na Bear Brand.'",
+    "options": [
+      "gatas",
+      "nanay",
+      "Bear Brand",
+      "bagong"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 12,
+    "q": "Ano ang pambalana ng 'Dr. Jose Rizal'?",
+    "options": [
+      "doktor",
+      "bayani",
+      "guro",
+      "pulis"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 13,
+    "q": "Alin sa mga sumusunod ang pambalana sa hayop na nagbibigay ng gatas?",
+    "options": [
+      "Bantay",
+      "kalabaw",
+      "Muning",
+      "Tweetie"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 14,
+    "q": "Ano ang pantangi ng 'bagay'?",
+    "options": [
+      "sapatos",
+      "kotse",
+      "Lego",
+      "manika"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 15,
+    "q": "Tukuyin ang pambalana sa bagay: 'Naglalaro ang bata gamit ang kanyang pulang bola.'",
+    "options": [
+      "bata",
+      "pulang",
+      "bola",
+      "gamit"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 16,
+    "q": "Tama o Mali: Ang 'Pasko' ay isinusulat gamit ang maliit na titik p.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 17,
+    "q": "Alin sa mga sumusunod ang pambalana sa tao na nag-aalaga ng ngipin?",
+    "options": [
+      "doktor",
+      "dentista",
+      "guro",
+      "pulis"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 18,
+    "q": "Aling salita ang may pagkakamali sa pagkakagamit ng malaking titik sa pangungusap: 'May alagang Pusa si Kiko.'?",
+    "options": [
+      "May",
+      "Pusa",
+      "Kiko",
+      "alagang"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 19,
+    "q": "Ano ang tinutukoy ng pangngalang hayop?",
+    "options": [
+      "ngalan ng tao",
+      "ngalan ng lugar",
+      "ngalan ng hayop",
+      "ngalan ng okasyon"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 20,
+    "q": "Alin ang pantangi ng 'kaarawan'?",
+    "options": [
+      "Pasko",
+      "okasyon",
+      "pista",
+      "kaarawan ni Matteo"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 21,
+    "q": "Tukuyin ang pambalana sa hayop: 'Lumipad ang ibon sa sanga ng puno.'",
+    "options": [
+      "ibon",
+      "sanga",
+      "puno",
+      "Lumipad"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 22,
+    "q": "Tama o Mali: Ang 'Mongol' ay isang pangngalang pantangi dahil ito ay tiyak na tatak ng lapis.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 23,
+    "q": "Alin sa mga sumusunod ang pambalana sa tao na nagtatanggol sa bayan?",
+    "options": [
+      "guro",
+      "sundalo",
+      "doktor",
+      "dentista"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "standard",
+    "index": 24,
+    "q": "Saan dapat magsimula ang pagsulat ng pangalan ng iyong alagang aso?",
+    "options": [
+      "maliit na titik",
+      "gitnang titik",
+      "malaking titik",
+      "huling titik"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "challenge",
+    "index": 0,
+    "q": "Challenge: Aling pangungusap ang naglalaman ng parehong pantangi sa tao at pantangi sa bagay?",
+    "options": [
+      "Bumili si Matteo ng bagong sapatos na Nike.",
+      "Naglalaro ang aso sa malawak na kalsada.",
+      "Si Gng. Santos ay nagtuturo sa silid-aralan.",
+      "Masaya si Muning habang kumakain ng isda."
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "challenge",
+    "index": 1,
+    "q": "Challenge: Alin sa mga sumusunod ang may wastong pagsulat ng lahat ng pantangi?",
+    "options": [
+      "dr. Rizal, Bear brand, Muning",
+      "Dr. Rizal, Bear Brand, Muning",
+      "Dr. rizal, Bear brand, muning",
+      "dr. rizal, bear brand, Muning"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "challenge",
+    "index": 2,
+    "q": "Challenge: Kung ang 'laruan' ay pambalana, alin ang maaaring maging katapat nitong pantangi?",
+    "options": [
+      "Lego",
+      "bola",
+      "manika",
+      "krayola"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "challenge",
+    "index": 3,
+    "q": "Challenge: Tukuyin kung gaano karaming pangngalan ang nasa kategorya ng bagay at tao sa pangungusap: 'Binigyan ng guro ang bata ng bagong lapis.'",
+    "options": [
+      "isa",
+      "dalawa",
+      "tatlo",
+      "apat"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 2,
+    "type": "challenge",
+    "index": 4,
+    "q": "Challenge: Suriin ang pahayag: 'Ipinagdiwang ang Pasko sa buong komunidad.' Ano ang kategorya ng 'Pasko' sa pangngalan?",
+    "options": [
+      "Pantangi sa tao",
+      "Pambalana sa pangyayari",
+      "Pantangi sa pangyayari",
+      "Pambalana sa pook"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 0,
+    "q": "Ano ang tawag sa mga salitang ginagamit na pamalit sa pangngalan?",
+    "options": [
+      "pang-uri",
+      "panghalip",
+      "pandiwa",
+      "pangatnig"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 1,
+    "q": "Alin sa mga sumusunod ang isang panghalip panao?",
+    "options": [
+      "lapis",
+      "siya",
+      "paaralan",
+      "Pasko"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 2,
+    "q": "Alin sa mga sumusunod ang isang panghalip pamatlig?",
+    "options": [
+      "ako",
+      "iyon",
+      "sila",
+      "siya"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 3,
+    "q": "Anong panghalip panao ang gagamitin kung ang nagsasalita ang tinutukoy?",
+    "options": [
+      "ikaw",
+      "ako",
+      "siya",
+      "sila"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 4,
+    "q": "Anong panghalip panao ang gagamitin kung ang kausap ang tinutukoy?",
+    "options": [
+      "ako",
+      "ikaw",
+      "siya",
+      "kami"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 5,
+    "q": "Anong panghalip panao ang gagamitin para kay Matteo na iyong pinag-uusapan?",
+    "options": [
+      "ako",
+      "ikaw",
+      "siya",
+      "sila"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 6,
+    "q": "Punan ang patlang: 'Si Matteo at Kiko ay masaya. ___ ay naglalaro.'",
+    "options": [
+      "Siya",
+      "Sila",
+      "Kami",
+      "Ako"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 7,
+    "q": "Anong pamatlig ang gagamitin para sa lapis na hawak mo ngayon?",
+    "options": [
+      "ito",
+      "iyan",
+      "iyon",
+      "sila"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 8,
+    "q": "Anong pamatlig ang gagamitin para sa aklat na hawak ng iyong kausap?",
+    "options": [
+      "ito",
+      "iyan",
+      "iyon",
+      "ako"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 9,
+    "q": "Anong pamatlig ang gagamitin para sa saranggola na lumilipad sa malayang langit?",
+    "options": [
+      "ito",
+      "iyan",
+      "iyon",
+      "ikaw"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 10,
+    "q": "Tama o Mali: Ang 'kami' ay ginagamit kapag kasama ang nagsasalita sa grupo.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 11,
+    "q": "Tukuyin ang panghalip panao sa pangungusap: 'Siya ay pumunta sa malaking aklatan.'",
+    "options": [
+      "pumunta",
+      "aklatan",
+      "Siya",
+      "malaking"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 12,
+    "q": "Tukuyin ang panghalip pamatlig sa pangungusap: 'Ang hawak kong laruan na ito ay maganda.'",
+    "options": [
+      "hawak",
+      "laruan",
+      "ito",
+      "maganda"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 13,
+    "q": "Punan ang patlang: 'Itinuro ko ang malayong bundok: ___ ang Bundok Makiling.'",
+    "options": [
+      "Ito",
+      "Iyan",
+      "Iyon",
+      "Sila"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 14,
+    "q": "Anong panghalip ang pumapalit sa ngalang 'Lani'?",
+    "options": [
+      "ako",
+      "ikaw",
+      "siya",
+      "sila"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 15,
+    "q": "Punan ang patlang: 'Tingnan mo ang papel na ___ sa iyong mesa.'",
+    "options": [
+      "ito",
+      "iyan",
+      "iyon",
+      "sila"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 16,
+    "q": "Tama o Mali: Ginagamit ang 'iyon' kapag hawak ng nagsasalita ang bagay.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 17,
+    "q": "Aling panghalip panao ang angkop sa nagsasalita at kanyang mga kaibigan?",
+    "options": [
+      "ako",
+      "ikaw",
+      "kami",
+      "siya"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 18,
+    "q": "Aling salita ang panghalip sa pangungusap: 'Binigyan sila ni Gng. Santos ng aklat.'?",
+    "options": [
+      "Santos",
+      "aklat",
+      "sila",
+      "Binigyan"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 19,
+    "q": "Ano ang tinutukoy ng panghalip pamatlig na 'ito'?",
+    "options": [
+      "bagay na hawak o malapit sa nagsasalita",
+      "bagay na malapit sa kausap",
+      "bagay na malayo sa kapwa",
+      "isang tao"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 20,
+    "q": "Alin ang angkop na panghalip panao para sa kausap mo na si Kiko?",
+    "options": [
+      "ako",
+      "ikaw",
+      "siya",
+      "kami"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 21,
+    "q": "Tukuyin ang panghalip pamatlig: 'Ang krayola na iyan sa iyong kamay ay mapula.'",
+    "options": [
+      "krayola",
+      "iyan",
+      "kamay",
+      "mapula"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 22,
+    "q": "Tama o Mali: Ang 'sila' ay panghalip panao para sa isang tao lamang na pinag-uusapan.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 23,
+    "q": "Alin sa mga sumusunod ang panghalip panao na maramihan?",
+    "options": [
+      "ako",
+      "ikaw",
+      "siya",
+      "sila"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "standard",
+    "index": 24,
+    "q": "Anong pamatlig ang angkop gamitin para sa ibon na nasa mataas na sanga ng malayong puno?",
+    "options": [
+      "ito",
+      "iyan",
+      "iyon",
+      "kami"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "challenge",
+    "index": 0,
+    "q": "Challenge: Aling pangungusap ang naglalaman ng parehong panghalip panao at panghalip pamatlig?",
+    "options": [
+      "Siya ay nagdala ng bangka na ito sa malaking ilog.",
+      "Naglalaro ang mga aso sa malawak na plaza.",
+      "Kami ay nag-aaral ng balarila sa paaralan.",
+      "Itinuro ko ang ibon na iyon sa aking guro kahapon."
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "challenge",
+    "index": 1,
+    "q": "Challenge: Aling panghalip panao ang pumapalit sa mga nakasalungguhit na pangngalan sa pangungusap: 'Si Matteo at ako ay magkasamang pumunta sa aklatan.'?",
+    "options": [
+      "Sila",
+      "Kami",
+      "Kayo",
+      "Siya"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "challenge",
+    "index": 2,
+    "q": "Challenge: Suriin ang pahayag: 'Ang bituin na iyon ay kumukutikutitap.' Bakit 'iyon' ang ginamit na panghalip pamatlig?",
+    "options": [
+      "Dahil hawak ng nagsasalita ang bituin.",
+      "Dahil malapit sa kausap ang bituin.",
+      "Dahil malayo sa nagsasalita at kausap ang bituin.",
+      "Dahil ang bituin ay isang hayop."
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "challenge",
+    "index": 3,
+    "q": "Challenge: Tukuyin kung gaano karaming panghalip panao at pamatlig ang nasa pangungusap: 'Sinabi niya sa akin na ang lapis na ito ay bago.'",
+    "options": [
+      "isa",
+      "dalawa",
+      "tatlo",
+      "apat"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 3,
+    "type": "challenge",
+    "index": 4,
+    "q": "Challenge: Aling panghalip pamatlig ang dapat gamitin kung ang bagay ay malayo sa nagsasalita ngunit hawak ng kausap?",
+    "options": [
+      "ito",
+      "iyan",
+      "iyon",
+      "sila"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 0,
+    "q": "Ano ang tawag sa mga salitang naglalarawan sa katangian ng pangngalan?",
+    "options": [
+      "pandiwa",
+      "panghalip",
+      "pang-uri",
+      "pangatnig"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 1,
+    "q": "Alin sa mga sumusunod ang isang pang-uri na naglalarawan ng texture?",
+    "options": [
+      "bato",
+      "magaspang",
+      "lapis",
+      "pusa"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 2,
+    "q": "Aling pang-uri ang angkop para sa bulak na ginagamit sa klinika?",
+    "options": [
+      "matigas",
+      "malambot",
+      "makintab",
+      "mabigat"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 3,
+    "q": "Aling pang-uri ang angkop para sa bakal na susi sa pintuan?",
+    "options": [
+      "malambot",
+      "matigas",
+      "magaan",
+      "mabango"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 4,
+    "q": "Ano ang texture ng isang salamin o glass desk?",
+    "options": [
+      "magaspang",
+      "makinis",
+      "malambot",
+      "mabuhangin"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 5,
+    "q": "Tukuyin ang pang-uri sa parirala: 'pulang krayola'",
+    "options": [
+      "krayola",
+      "pulang",
+      "pulang krayola",
+      "walang pang-uri"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 6,
+    "q": "Tukuyin ang pang-uri sa pangungusap: 'Ang matigas na semento ay hindi mabali.'",
+    "options": [
+      "semento",
+      "mabali",
+      "matigas",
+      "hindi"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 7,
+    "q": "Ano ang angkop na pang-uri para sa liha na ginagamit sa kahoy?",
+    "options": [
+      "makinis",
+      "magaspang",
+      "malambot",
+      "makintab"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 8,
+    "q": "Alin sa mga sumusunod ang pang-uri na naglalarawan ng hitsura ng gintong barya?",
+    "options": [
+      "malambot",
+      "makintab",
+      "magaspang",
+      "magaan"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 9,
+    "q": "Tama o Mali: Ang salitang 'bato' ay isang pang-uri.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 10,
+    "q": "Aling pang-uri ang angkop para sa unan na ginagamit sa higaan?",
+    "options": [
+      "matigas",
+      "mabigat",
+      "malambot",
+      "magaspang"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 11,
+    "q": "Tukuyin ang pang-uri sa pangungusap: 'Bumili si Matteo ng makintab na coin.'",
+    "options": [
+      "Matteo",
+      "coin",
+      "makintab",
+      "Bumili"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 12,
+    "q": "Ano ang angkop na pang-uri para sa pader na semento na hindi pa napapakinis?",
+    "options": [
+      "makinis",
+      "magaspang",
+      "malambot",
+      "makintab"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 13,
+    "q": "Aling pang-uri ang naglalarawan sa ibabaw ng bagong papel sa pagsulat?",
+    "options": [
+      "magaspang",
+      "makinis",
+      "malambot",
+      "mabigat"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 14,
+    "q": "Ano ang naglalarawan sa 'modeling clay' kapag ito ay pinipisa ng kamay?",
+    "options": [
+      "matigas",
+      "malambot",
+      "makintab",
+      "magaspang"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 15,
+    "q": "Tukuyin ang pang-uri sa pangungusap: 'Malilim ang malawak na plaza.'",
+    "options": [
+      "Malilim",
+      "malawak",
+      "plaza",
+      "ang"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 16,
+    "q": "Tama o Mali: Ang 'makinis' at 'magaspang' ay mga pang-uri na tumutukoy sa texture ng bagay.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 17,
+    "q": "Alin sa mga sumusunod na parirala ang may wastong pang-angkop sa wika?",
+    "options": [
+      "matigas ng semento",
+      "matigas na semento",
+      "matigas semento",
+      "matigasang semento"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 18,
+    "q": "Aling salita ang pang-uri sa pangungusap: 'Si Gng. Santos ay nagdala ng pulang bulaklak.'?",
+    "options": [
+      "Santos",
+      "bulaklak",
+      "pulang",
+      "nagdala"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 19,
+    "q": "Ano ang tinutukoy ng pang-uri sa pangungusap?",
+    "options": [
+      "katangian ng pangngalan",
+      "kilos ng tao",
+      "lugar ng pangyayari",
+      "ngalan ng hayop"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 20,
+    "q": "Aling pang-uri ang angkop para sa tuyong balat ng puno ng narra?",
+    "options": [
+      "makinis",
+      "magaspang",
+      "malambot",
+      "makintab"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 21,
+    "q": "Tukuyin ang pang-uri: 'Ang malinis na ilog ay malamig sa paa.'",
+    "options": [
+      "ilog",
+      "malinis",
+      "paa",
+      "sa"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 22,
+    "q": "Tama o Mali: Ang 'makintab' ay ginagamit para sa mga bagay na hindi sumasalamin sa liwanag.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 23,
+    "q": "Alin sa mga sumusunod ang pang-uri na naglalarawan ng sukat ng isang pook?",
+    "options": [
+      "malawak",
+      "mabango",
+      "matigas",
+      "makintab"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "standard",
+    "index": 24,
+    "q": "Paano isinusulat ang pariralang 'maganda + papel' gamit ang pang-angkop?",
+    "options": [
+      "maganda na papel",
+      "magandang papel",
+      "magandag papel",
+      "maganda papel"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "challenge",
+    "index": 0,
+    "q": "Challenge: Aling pangungusap ang naglalaman ng parehong pang-uri para sa texture at pang-uri para sa hardness?",
+    "options": [
+      "Ang makinis na glass desk ay may matigas na paa na bakal.",
+      "Naglalaro ang aso sa malawak na kalsada.",
+      "Si Gng. Santos ay nagdala ng pulang bulaklak.",
+      "Masaya si Muning habang kumakain ng malambot na isda."
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "challenge",
+    "index": 1,
+    "q": "Challenge: Aling parirala ang may pagkakamali sa pagkakagamit ng pang-angkop?",
+    "options": [
+      "makinis na papel",
+      "matigas na bakal",
+      "malambot na bulak",
+      "makintab na aso"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "challenge",
+    "index": 2,
+    "q": "Challenge: Suriin ang pahayag: 'Ang bagong coin ay makintab.' Ano ang pangngalan na inilalarawan ng 'makintab'?",
+    "options": [
+      "bagong",
+      "coin",
+      "ay",
+      "barya"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "challenge",
+    "index": 3,
+    "q": "Challenge: Tukuyin kung gaano karaming pang-uri ang nasa pangungusap: 'Ang malinis at malawak na plaza ay may pulang bulaklak.'",
+    "options": [
+      "isa",
+      "dalawa",
+      "tatlo",
+      "apat"
+    ]
+  },
+  {
+    "subject": "filipino",
+    "week": 4,
+    "type": "challenge",
+    "index": 4,
+    "q": "Challenge: Aling pang-uri ang HINDI angkop gamitin para sa solid na materyal na 'modeling clay'?",
+    "options": [
+      "malambot",
+      "malleable",
+      "matigas",
+      "makulay"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 0,
+    "q": "Ano ang tawag sa pag-aaral ng may-saysay na nakaraang pangyayari sa komunidad?",
+    "options": [
+      "heograpiya",
+      "kasaysayan",
+      "matematika",
+      "sining"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 1,
+    "q": "Alin sa mga sumusunod ang HINDI kabilang sa apat na elemento ng kasaysayan?",
+    "options": [
+      "tao",
+      "lugar",
+      "panahon",
+      "laruan"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 2,
+    "q": "Sino ang pambansang bayani na ipinanganak sa Lungsod ng Calamba, Laguna?",
+    "options": [
+      "Andres Bonifacio",
+      "Dr. Jose Rizal",
+      "Apolinario Mabini",
+      "Emilio Aguinaldo"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 3,
+    "q": "Ano ang tawag sa pagkakasunod-sunod ng mga taon at pangyayari sa kasaysayan?",
+    "options": [
+      "mapa",
+      "timeline",
+      "logo",
+      "selyo"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 4,
+    "q": "Alin sa mga sumusunod ang isang halimbawa ng primary source na artifact?",
+    "options": [
+      "history textbook",
+      "lumang barya",
+      "kwento ng guro",
+      "encyclopedia"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 5,
+    "q": "Alin sa mga sumusunod ang isang halimbawa ng nakasulat na primary source?",
+    "options": [
+      "lumang sulat o diary",
+      "kasaysayang aklat ngayon",
+      "monumento",
+      "palayok"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 6,
+    "q": "Ano ang tawag sa mga aklat o textbooks na isinulat pagkatapos ng pangyayari?",
+    "options": [
+      "primary source",
+      "sekondaryang batayan",
+      "artifact",
+      "oral history"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 7,
+    "q": "Saan karaniwang nagmumula ang pangalan ng mga lumang barangay?",
+    "options": [
+      "tatak ng sapatos",
+      "halaman, hayop o patron ng pook",
+      "mga dayuhang bansa",
+      "mga modernong sasakyan"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 8,
+    "q": "Ano ang isinasagisag ng simbolo ng palay sa logo ng isang barangay?",
+    "options": [
+      "pangingisda",
+      "pagsasaka o agrikultura",
+      "pabrika at makina",
+      "pananalangin"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 9,
+    "q": "Tama o Mali: Ang pag-aaral ng kasaysayan ay nakatutulong upang maunawaan ang kasalukuyan.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 10,
+    "q": "Ano ang tawag sa kasaysayan na isinasalin sa pamamagitan ng pagkukuwento ng mga lolo at lola?",
+    "options": [
+      "nakasulat na batas",
+      "oral history (saling-bibig)",
+      "monumento",
+      "mapa"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 11,
+    "q": "Alin sa mga sumusunod ang simbolo ng industriya at pabrika sa logo ng komunidad?",
+    "options": [
+      "palay",
+      "gear o gulong ng makina",
+      "ilog",
+      "araw"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 12,
+    "q": "Ano ang ipinapakita ng timeline ng paglaki ng isang bata?",
+    "options": [
+      "mga paboritong pagkain",
+      "pagbabago sa paglipas ng panahon",
+      "mga tatak ng laruan",
+      "mga pangalan ng hayop"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 13,
+    "q": "Aling awitin ang isang lokal na folk song na naglalarawan ng pamumuhay sa Laguna?",
+    "options": [
+      "Leron Leron Sinta",
+      "Happy Birthday",
+      "Lupang Hinirang",
+      "Bahay Kubo"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 14,
+    "q": "Tukuyin ang elemento ng lugar sa pahayag: 'Ipinanganak si Rizal sa Calamba noong 1861.'",
+    "options": [
+      "Rizal",
+      "Calamba",
+      "noong 1861",
+      "Ipinanganak"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 15,
+    "q": "Tukuyin ang elemento ng panahon sa pahayag: 'Itinatag ang paaralan noong taong 2005.'",
+    "options": [
+      "paaralan",
+      "noong taong 2005",
+      "Itinatag",
+      "paaralang pook"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 16,
+    "q": "Tama o Mali: Ang lumang mapa ng isang bayan ay isang primaryang batayan ng kasaysayan nito.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 17,
+    "q": "Alin sa mga sumusunod ang pambalana sa pook na makasaysayan?",
+    "options": [
+      "monumento",
+      "Rizal Park",
+      "Fort Santiago",
+      "Bahay ni Rizal"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 18,
+    "q": "Anong simbolo ang karaniwang ginagamit sa logo upang ipakita ang ilog o dagat?",
+    "options": [
+      "kulay berde",
+      "guhit ng alon o kulay asul",
+      "guhit ng palay",
+      "guhit ng makina"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 19,
+    "q": "Sino ang gumagawa ng mga pangyayaring nagiging bahagi ng kasaysayan?",
+    "options": [
+      "mga kotse",
+      "mga tao",
+      "mga laruan",
+      "mga pusa"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 20,
+    "q": "Paano isinusulat ang timeline ng mga taon?",
+    "options": [
+      "mula kasalukuyan patungong nakaraan",
+      "mula pinakamaagang taon hanggang pinakahuli",
+      "walang pagkakasunod-sunod",
+      "mula pinakamalaking numero lamang"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 21,
+    "q": "Alin sa mga sumusunod ang HINDI primary source?",
+    "options": [
+      "lumang barya",
+      "diary ng sundalo",
+      "aklat sa kasaysayan na isinulat nitong 2020",
+      "lumang larawan"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 22,
+    "q": "Tama o Mali: Ang pagkain mo ng saging kaninang umaga ay isang makasaysayang pangyayari sa inyong barangay.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 23,
+    "q": "Alin sa mga sumusunod na hugis ang katutubong disenyo mula sa kalikasan?",
+    "options": [
+      "kotse",
+      "dahon at bulaklak",
+      "telebisyon",
+      "computer"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "standard",
+    "index": 24,
+    "q": "Bakit mahalagang ingatan ang mga primary source tulad ng lumang sulat at barya?",
+    "options": [
+      "upang ibenta sa palengke",
+      "upang mapanatili ang tumpak na tala ng kasaysayan",
+      "upang gawing laruan ng bata",
+      "upang itapon sa ilog"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "challenge",
+    "index": 0,
+    "q": "Challenge: Aling batayan ang pinakamahusay gamitin upang malaman ang buhay sa barangay noong panahon ng Hapon (1942)?",
+    "options": [
+      "isang diary na isinulat ng isang lola noong 1943 sa pook",
+      "isang aklat na isinulat ng dayuhan nitong 2025",
+      "isang kwento sa komiks",
+      "isang modernong mapa ng barangay"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "challenge",
+    "index": 1,
+    "q": "Challenge: Kung ang isang barangay logo ay may simbolo ng gear at palay, ano ang mahihinuha mo sa pamumuhay doon?",
+    "options": [
+      "Pawang mga mangingisda ang nakatira doon.",
+      "May ugnayan ng agrikultura at industriya sa kanilang kabuhayan.",
+      "Walang kabuhayan ang mga mamamayan doon.",
+      "Puro sining lamang ang ginagawa doon."
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "challenge",
+    "index": 2,
+    "q": "Challenge: Aling pagkakasunod-sunod ng timeline ang tama para sa kasaysayan ng isang eskwelahan?",
+    "options": [
+      "2005 (Pagtatag) -> 2015 (Bagong Aklatan) -> 2025 (Sports Center)",
+      "2025 (Sports Center) -> 2015 (Bagong Aklatan) -> 2005 (Pagtatag)",
+      "2015 (Bagong Aklatan) -> 2005 (Pagtatag) -> 2025 (Sports Center)",
+      "2005 (Pagtatag) -> 2025 (Sports Center) -> 2015 (Bagong Aklatan)"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "challenge",
+    "index": 3,
+    "q": "Challenge: Paano nagkakaugnay ang kasaysayan ng inyong barangay sa kasaysayan ng inyong bayan o lungsod?",
+    "options": [
+      "Ang barangay ay may hiwalay na bansa at batas.",
+      "Ang kasaysayan ng bawat barangay ang bumubuo sa mas malawak na kwento ng bayan.",
+      "Walang ugnayan ang dalawa sa kasaysayan.",
+      "Ang bayan ay walang kinalaman sa barangay."
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 1,
+    "type": "challenge",
+    "index": 4,
+    "q": "Challenge: Suriin ang pahayag: 'Ang tulay na itinayo noong 1920 ay nagdugtong sa dalawang barangay.' Anong uri ng batayan ang pisikal na tulay na ito ngayon?",
+    "options": [
+      "Nakasulat na dokumento",
+      "Artifact o pisikal na primary source",
+      "Sekondaryang aklat",
+      "Oral history lamang"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 0,
+    "q": "Aling pook ang sentro ng pamamalakad at pamamahala sa isang barangay?",
+    "options": [
+      "paaralan",
+      "barangay hall",
+      "palengke",
+      "monumento"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 1,
+    "q": "Saan pumupunta ang mga pamilya upang pabakunahan ang kanilang mga sanggol nang libre?",
+    "options": [
+      "palengke",
+      "health center",
+      "munisipyo",
+      "plaza"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 2,
+    "q": "Anong pook ang nagsisilbing tahanan ng karunungan kung saan nagtuturo ang guro?",
+    "options": [
+      "simbahan",
+      "palengke",
+      "paaralan",
+      "outpost"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 3,
+    "q": "Alin sa mga sumusunod ang pook-pagsamba ng mga Muslim?",
+    "options": [
+      "simbahan",
+      "kapilya",
+      "moske",
+      "plaza"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 4,
+    "q": "Saan pumupunta ang mga tao upang bumili ng sariwang gulay at isda sa umaga?",
+    "options": [
+      "paaralan",
+      "palengke",
+      "barangay hall",
+      "monumento"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 5,
+    "q": "Anong malawak at bukas na pook sa bayan ang ginagamit para sa paglalaro at pista?",
+    "options": [
+      "health center",
+      "police outpost",
+      "plaza o parke",
+      "aklatan"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 6,
+    "q": "Sino ang pinuno ng pamahalaan na naglilingkod sa loob ng munisipyo ng bayan?",
+    "options": [
+      "Barangay Kapitan",
+      "Alkalde o Mayor",
+      "Pulis",
+      "Doktor"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 7,
+    "q": "Alin sa mga sumusunod ang pook na nagpapanatili ng seguridad at kapayapaan sa kalsada?",
+    "options": [
+      "palengke",
+      "police outpost o tanod outpost",
+      "aklatan",
+      "simbahan"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 8,
+    "q": "Ano ang isinasagisag ng simbolo ng gear o makina sa selyo ng munisipyo?",
+    "options": [
+      "pagsasaka",
+      "industriya o mga pabrika sa bayan",
+      "pangingisda sa lawa",
+      "pananalangin"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 9,
+    "q": "Tama o Mali: Ang health center ay nagbibigay ng mga libreng gamot para sa mamamayan.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 10,
+    "q": "Alin sa mga sumusunod ang isang makasaysayang pook na matatagpuan sa Calamba, Laguna?",
+    "options": [
+      "SM City Calamba",
+      "Bahay ni Dr. Jose Rizal",
+      "Enchanted Kingdom",
+      "Ospital ng Laguna"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 11,
+    "q": "Sino ang nagtatrabaho sa paaralan upang gabayan ang mga mag-aaral sa Grade 3?",
+    "options": [
+      "Kagawad",
+      "Guro",
+      "Barangay Tanod",
+      "Tindero"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 12,
+    "q": "Anong simbolo sa logo ang nagpapakita ng kabuhayan sa pangingisda?",
+    "options": [
+      "guhit ng palay",
+      "guhit ng isda at lambat",
+      "guhit ng bundok",
+      "guhit ng semento"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 13,
+    "q": "Alin sa mga sumusunod ang tungkulin ng mga pulis at barangay tanod?",
+    "options": [
+      "magturo ng pagbasa",
+      "magbenta ng gulay",
+      "panatilihin ang seguridad at kapayapaan",
+      "magbakuna ng sanggol"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 14,
+    "q": "Ano ang pangunahing layunin ng pagtatayo ng barangay hall?",
+    "options": [
+      "magbenta ng laruan",
+      "magbigay ng serbisyo at pamahalaan ang barangay",
+      "magsilbing palaruan",
+      "mag-alaga ng may-sakit"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 15,
+    "q": "Saan matatagpuan ang opisina ng Mayor o Alkalde ng lungsod?",
+    "options": [
+      "barangay hall",
+      "munisipyo o kapitolyo",
+      "health center",
+      "simbahan"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 16,
+    "q": "Tama o Mali: Ang simbahan o moske ay pook para sa maingay na paglalaro ng soccer.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 17,
+    "q": "Aling likas na yaman ang makukuha natin sa lawa ng Laguna de Bay?",
+    "options": [
+      "ginto at pilak",
+      "sariwang isda",
+      "gulong ng makina",
+      "bakal na susi"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 18,
+    "q": "Ano ang dapat gawin ng mga mamamayan sa mga monumento ng mga bayani sa plaza?",
+    "options": [
+      "sulatan at sirain ito",
+      "igalang at panatilihing malinis ito",
+      "ipaubaya sa ulan na lamang",
+      "itapon sa basura"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 19,
+    "q": "Ano ang ibig sabihin ng asul na kulay sa selyo ng isang bayan na malapit sa ilog?",
+    "options": [
+      "mayaman sa kagubatan",
+      "mayaman sa agrikultura",
+      "mayaman sa yamang-tubig o ilog",
+      "maraming pabrika doon"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 20,
+    "q": "Saan pumupunta ang mga guro at mag-aaral upang magbasa ng maraming aklat sa paaralan?",
+    "options": [
+      "palikuran",
+      "aklatan",
+      "opisina ng principal",
+      "kantina"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 21,
+    "q": "Sino ang namumuno sa pananalangin sa loob ng isang moske?",
+    "options": [
+      "Pari",
+      "Pastor",
+      "Imam",
+      "Kagawad"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 22,
+    "q": "Tama o Mali: Ang munisipyo ay mas maliit kaysa sa barangay hall ng komunidad.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 23,
+    "q": "Alin sa mga sumusunod ang pook kung saan tayo maaaring makabili ng mga delata sa tapat ng bahay?",
+    "options": [
+      "munisipyo",
+      "sari-sari store o tindahan sa barangay",
+      "ospital",
+      "monumento"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "standard",
+    "index": 24,
+    "q": "Anong katangian ng solid ang ginagamit sa paggawa ng monumento ng bayani?",
+    "options": [
+      "malambot na clay",
+      "matigas na bato o bronze na metal",
+      "magaan na papel",
+      "stickers"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "challenge",
+    "index": 0,
+    "q": "Challenge: Kung ang isang komunidad ay walang health center, ano ang maaaring maging epekto nito sa mga mamamayan?",
+    "options": [
+      "Hindi makapag-aaral ang mga bata ng science.",
+      "Mahihirapan ang mga tao na makakuha ng agarang libreng bakuna at gamot.",
+      "Walang magbabantay sa trapiko sa gabi.",
+      "Hindi makapamimili ng gulay ang mga nanay."
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "challenge",
+    "index": 1,
+    "q": "Challenge: Paano nagtutulungan ang barangay hall at munisipyo sa pamamahala ng pook?",
+    "options": [
+      "Ang barangay hall ang nagbibigay ng ulat at serbisyo sa maliit na pook, habang ang munisipyo ang nagpapatupad ng mas malalaking programa sa bayan.",
+      "Walang ugnayan ang dalawang pook na ito.",
+      "Ang munisipyo ay sumusunod sa mga kagawad ng barangay lamang.",
+      "Ang barangay hall ang nagpapasweldo sa Mayor."
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "challenge",
+    "index": 2,
+    "q": "Challenge: Aling pook ang pinaka-angkop na bisitahin ng mga mag-aaral upang makakuha ng primaryang batayan (mga sulat-kamay) ng kasaysayan ng ating bayani?",
+    "options": [
+      "SM City Calamba mall",
+      "Bahay-Monumento ni Dr. Jose Rizal sa Calamba",
+      "Laguna Hospital",
+      "isang sari-sari store"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "challenge",
+    "index": 3,
+    "q": "Challenge: Bakit mahalagang ilagay ang simbolo ng palay at isda sa logo ng lalawigan ng Laguna?",
+    "options": [
+      "Dahil ito ang paboritong pagkain ng Mayor lamang.",
+      "Dahil ang Laguna ay may malawak na bukirin ng palay at malapit sa lawa ng Laguna de Bay.",
+      "Dahil walang ibang hayop o halaman sa lalawigan.",
+      "Dahil ito ay palamuti lamang sa selyo ng gobernador."
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 2,
+    "type": "challenge",
+    "index": 4,
+    "q": "Challenge: Kung may gulo o away sa inyong kapitbahayan sa gabi, aling pook ang pinakamabilis na lapitan ng tulong?",
+    "options": [
+      "aklatan ng paaralan",
+      "barangay tanod outpost o police outpost",
+      "health center",
+      "palengke ng bayan"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 0,
+    "q": "Ano ang Pista ng Pahiyas na ipinagdiriwang tuwing Mayo 15?",
+    "options": [
+      "pambalana sa pook",
+      "pantangi sa pangyayari",
+      "pantangi sa tao",
+      "pambalana sa bagay"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 1,
+    "q": "Saan ipinagdiriwang ang sikat na Pista ng Pahiyas?",
+    "options": [
+      "Calamba, Laguna",
+      "Lucban, Quezon",
+      "Balayan, Batangas",
+      "Daet, Camarines"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 2,
+    "q": "Sino ang patron ng mga magsasaka na ipinagdiriwang sa Pista ng Pahiyas?",
+    "options": [
+      "San Juan Bautista",
+      "San Isidro Labrador",
+      "San Jose",
+      "San Pablo"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 3,
+    "q": "Ano ang tawag sa palamuti na yari sa bigas na may iba't ibang kulay sa Pahiyas?",
+    "options": [
+      "lechon",
+      "kiping",
+      "banig",
+      "bakya"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 4,
+    "q": "Saan ipinagdiriwang ang sikat na Pista ng Lechon tuwing Hunyo 24?",
+    "options": [
+      "Lucban, Quezon",
+      "Balayan, Batangas",
+      "Daet, Camarines Norte",
+      "Calamba, Laguna"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 5,
+    "q": "Sino ang patron na kasabay ng pagdiriwang ng Pista ng Lechon?",
+    "options": [
+      "San Isidro Labrador",
+      "San Juan Bautista",
+      "San Jose",
+      "San Pablo"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 6,
+    "q": "Anong prutas ang ipinagdiriwang sa Daet, Camarines Norte dahil sa tamis nito?",
+    "options": [
+      "papaya",
+      "pinya",
+      "saging",
+      "mangga"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 7,
+    "q": "Ano ang tawag sa sikat na katutubong sayaw na gumagamit ng kawayan sa pagsayaw?",
+    "options": [
+      "Cariñosa",
+      "Tinikling",
+      "Pandanggo sa Ilaw",
+      "Singkil"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 8,
+    "q": "Aling ibon ang ginagaya ng sayaw na Tinikling habang umiiwas sa patibong?",
+    "options": [
+      "agila",
+      "loro",
+      "tikling",
+      "pabo"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 9,
+    "q": "Tama o Mali: Ang 'Leron Leron Sinta' ay isang lokal na folk song na naglalarawan ng buhay-bukid.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 10,
+    "q": "Alin sa mga sumusunod ang lokal na sining na gawa sa hinabing dahon ng pandan?",
+    "options": [
+      "basket",
+      "banig",
+      "bakya",
+      "lechon"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 11,
+    "q": "Anong materyal ang ginagamit sa paggawa ng basket sa ating komunidad?",
+    "options": [
+      "bakal",
+      "kawayan o rattan",
+      "plastik",
+      "papel"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 12,
+    "q": "Ano ang tawag sa tradisyonal na kahoy na sapatos ng mga Pilipino?",
+    "options": [
+      "sapatos",
+      "tsinelas",
+      "bakya",
+      "boots"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 13,
+    "q": "Punan ang patlang sa kanta: 'Leron, leron sinta, buko ng ___...'",
+    "options": [
+      "saging",
+      "papaya",
+      "mangga",
+      "pinya"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 14,
+    "q": "Ano ang layunin ng pagdaraos ng Pista ng Pinya sa Daet?",
+    "options": [
+      "mag-import ng dayuhang prutas",
+      "ipagmalaki ang saganang ani ng pinyang Formosa",
+      "magbenta ng laruan",
+      "magtayo ng bagong tulay"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 15,
+    "q": "Anong okasyon ang ipinagdiriwang tuwing Hunyo 24 na may basaan ng tubig?",
+    "options": [
+      "Pasko",
+      "Kapistahan ni San Juan Bautista",
+      "Pista ng Pahiyas",
+      "Bagong Taon"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 16,
+    "q": "Tama o Mali: Ang Pista ng Pahiyas ay ginaganap tuwing Mayo 15 sa Laguna.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 17,
+    "q": "Alin sa mga sumusunod ang pambalana sa sining na yari sa kahoy?",
+    "options": [
+      "ukit sa kahoy",
+      "habing tela",
+      "banig",
+      "lechon"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 18,
+    "q": "Ano ang dapat iwasan kapag sumasayaw ng Tinikling sa ibabaw ng kawayan?",
+    "options": [
+      "ngumiti sa mambabasa",
+      "maipit ang paa sa pagitan ng kawayan",
+      "kumanta ng Leron Leron Sinta",
+      "tumingin sa guro"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 19,
+    "q": "Sino ang nagtuturo ng mga katutubong sayaw at awitin sa paaralan?",
+    "options": [
+      "doktor",
+      "guro",
+      "pulis",
+      "tanod"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 20,
+    "q": "Ano ang ginagawa sa mga inihaw na lechon sa parada sa Balayan?",
+    "options": [
+      "kinakain habang mainit pa sa parada",
+      "binibihisan at pinapalamutian",
+      "itinatapon sa ilog",
+      "itinatago sa aklatan"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 21,
+    "q": "Tukuyin ang pambalana sa pangyayari: 'Masaya ang mga tao sa pista.'",
+    "options": [
+      "tao",
+      "masaya",
+      "pista",
+      "mga"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 22,
+    "q": "Tama o Mali: Ang kiping ay palamuti na pwedeng kainin dahil ito ay gawa sa bigas.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 23,
+    "q": "Aling likas na yaman ang ginagamit sa paghabi ng banig?",
+    "options": [
+      "bakal",
+      "dahon ng pandan o palm",
+      "bato",
+      "semento"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "standard",
+    "index": 24,
+    "q": "Ano ang pangunahing mensahe ng mga lokal na pagdiriwang sa komunidad?",
+    "options": [
+      "pagkakaisa at pasasalamat sa mga biyaya",
+      "pagbili ng bagong sapatos",
+      "paggawa ng makina",
+      "digmaan"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "challenge",
+    "index": 0,
+    "q": "Challenge: Aling pagkakaiba ang totoo sa pagitan ng Pista ng Pahiyas at Pista ng Lechon?",
+    "options": [
+      "Ang Pahiyas ay parangal sa patron ng magsasaka sa Quezon, habang ang Lechon ay kasabay ng pista ni San Juan sa Batangas.",
+      "Ang Pahiyas ay gumagamit ng lechon, habang ang Lechon ay gumagamit ng kiping.",
+      "Ang Pahiyas ay ginaganap sa Batangas, habang ang Lechon ay sa Quezon.",
+      "Walang pagkakaiba ang dalawang pagdiriwang na ito."
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "challenge",
+    "index": 1,
+    "q": "Challenge: Paano nagkakaugnay ang awiting 'Leron Leron Sinta' sa kabuhayan ng mga tao sa Laguna noong araw?",
+    "options": [
+      "Ipinapakita nito na pangingisda ang tanging gawa doon.",
+      "Inilalarawan nito ang pamumuhay sa pagsasaka at pagpitas ng mga lokal na prutas.",
+      "Wala itong kinalaman sa kabuhayan ng mga tao.",
+      "Ipinapakita nito ang mga pabrika at makina sa lungsod."
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "challenge",
+    "index": 2,
+    "q": "Challenge: Kung ang isang mag-aaral ay nais mag-aral ng kasaysayan ng sayaw na Tinikling, aling batayan ang primary source?",
+    "options": [
+      "isang video record ng mga katutubong sumasayaw noong 1930",
+      "isang modernong aklat sa MAPEH na isinulat nitong 2026",
+      "isang kwento ng kaibigan",
+      "isang encyclopedia"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "challenge",
+    "index": 3,
+    "q": "Challenge: Bakit pinalalamutian ng kiping at gulay ang mga bahay sa Pahiyas sa halip na mga plastik na laruan?",
+    "options": [
+      "Dahil walang plastik na laruan sa Quezon.",
+      "Dahil ang kiping at gulay ay sumasagisag sa pasasalamat sa saganang ani ng agrikultura.",
+      "Dahil mas mura ang kiping kaysa sa laruan.",
+      "Dahil ang Mayor ang nag-utos nito."
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 3,
+    "type": "challenge",
+    "index": 4,
+    "q": "Challenge: Aling pagkakasunod-sunod ng mga pagdiriwang sa taon ang tama batay sa kalendaryo?",
+    "options": [
+      "Pista ng Pahiyas (Mayo 15) -> Pista ng Lechon (Hunyo 24) -> Pasko (Disyembre 25)",
+      "Pista ng Lechon (Hunyo 24) -> Pista ng Pahiyas (Mayo 15) -> Pasko (Disyembre 25)",
+      "Pasko (Disyembre 25) -> Pista ng Pahiyas (Mayo 15) -> Pista ng Lechon (Hunyo 24)",
+      "Pista ng Pahiyas (Mayo 15) -> Pasko (Disyembre 25) -> Pista ng Lechon (Hunyo 24)"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 0,
+    "q": "Ano ang tawag sa pinakamaliliit na yunit ng pamahalaan sa ating bansa?",
+    "options": [
+      "bansa",
+      "lalawigan",
+      "lungsod",
+      "barangay"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 1,
+    "q": "Paano nagkakaugnay ang barangay at ang bayan o lungsod?",
+    "options": [
+      "Ang barangay ay hiwalay na bansa.",
+      "Ang barangay ay maliit na bahagi ng isang bayan o lungsod.",
+      "Walang ugnayan ang dalawa.",
+      "Ang lungsod ay sumusunod sa barangay lamang."
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 2,
+    "q": "Saan nagmula ang pangalan ng Lungsod ng Calamba batay sa alamat?",
+    "options": [
+      "sapatos",
+      "kalan-banga o palayok ng luwad",
+      "isang uri ng isda",
+      "isang sikat na bundok"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 3,
+    "q": "Ano ang kalan-banga na pinagmulan ng pangalan ng Calamba?",
+    "options": [
+      "isang kutsara",
+      "isang palayok ng luwad para sa pagluluto",
+      "isang laruan",
+      "isang gintong barya"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 4,
+    "q": "Saan matatagpuan ang malaking monumento ng Kalan-Banga na simbolo ng pagkakaisa?",
+    "options": [
+      "sa aklatan ng paaralan",
+      "sa plaza ng Lungsod ng Calamba",
+      "sa loob ng health center",
+      "sa tuktok ng Bundok Makiling"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 5,
+    "q": "Ano ang nakasulat sa labas ng monumento ng Kalan-Banga sa Calamba?",
+    "options": [
+      "mga pangalan ng mga bayani",
+      "mga pangalan ng mga barangay ng Calamba",
+      "mga numero ng telepono",
+      "mga pangalan ng mga prutas"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 6,
+    "q": "Sa aling lalawigan kabilang ang Lungsod ng Calamba?",
+    "options": [
+      "Batangas",
+      "Laguna",
+      "Quezon",
+      "Cavite"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 7,
+    "q": "Ano ang ibig sabihin ng pangalan ng lalawigan ng 'Laguna' sa wikang Kastila?",
+    "options": [
+      "ang bundok",
+      "ang lawa (la laguna)",
+      "ang kalsada",
+      "ang palengke"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 8,
+    "q": "Anong malawak na lawa ang nagdugtong sa kalakalan ng maraming bayan sa Laguna?",
+    "options": [
+      "Taal Lake",
+      "Laguna de Bay",
+      "Lawa ng Sampaloc",
+      "Lawa ng Pandin"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 9,
+    "q": "Tama o Mali: Ang kasaysayan ng bawat barangay ay hindi mahalaga sa kasaysayan ng buong bayan.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 10,
+    "q": "Sino ang nagtutulungan upang mapanatili ang seguridad sa kalsada ng barangay at bayan?",
+    "options": [
+      "mga nars at doktor",
+      "mga barangay tanod at pulis ng munisipyo",
+      "mga tindero sa palengke",
+      "mga guro sa eskwelahan"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 11,
+    "q": "Saan dinadala ng mga mangingisda ang kanilang huling isda mula sa lawa upang ibenta?",
+    "options": [
+      "sa barangay hall",
+      "sa palengke ng bayan",
+      "sa aklatan",
+      "sa health center"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 12,
+    "q": "Ano ang ginagawa ng pamahalaan ng barangay at bayan kapag may kalamidad tulad ng bagyo?",
+    "options": [
+      "naglalaro sa plaza",
+      "nagtutulungan sa pamamahagi ng relief goods",
+      "nagsasara ng mga ospital",
+      "nagtatago sa bahay"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 13,
+    "q": "Aling monumento ang simbolo ng pinagmulan ng Lungsod ng Calamba?",
+    "options": [
+      "monumento ng bumbero",
+      "Kalan-Banga monument",
+      "monumento ng aso",
+      "monumento ng palayok ng plastik"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 14,
+    "q": "Ano ang tawag sa yunit na mas malaki kaysa sa lungsod o bayan sa pamamahala?",
+    "options": [
+      "bansa",
+      "lalawigan",
+      "barangay",
+      "sitio"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 15,
+    "q": "Tukuyin ang ugnayan sa pangungusap: 'Ang Barangay San Jose ay bahagi ng lungsod ng Calamba.'",
+    "options": [
+      "hiwalay na lungsod",
+      "bahagi o sakop ng lungsod",
+      "walang kinalaman",
+      "mas malaki ang barangay"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 16,
+    "q": "Tama o Mali: Ang 'kalan-banga' ay isang palayok na gawa sa plastik na nakuha mula sa Espanya.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 17,
+    "q": "Aling likas na yaman ang nagdurugtong sa mga bayan sa Laguna para sa pangingisda?",
+    "options": [
+      "Bundok Makiling",
+      "Lawa ng Laguna de Bay",
+      "kalsadang semento",
+      "mga pabrika"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 18,
+    "q": "Sino ang namumuno sa munisipyo ng bayan o lungsod?",
+    "options": [
+      "Barangay Kapitan",
+      "Mayor o Alkalde",
+      "Pulis",
+      "Principal"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 19,
+    "q": "Ano ang pangunahing kabuhayan ng mga barangay na malapit sa lawa ng Laguna?",
+    "options": [
+      "pagsasaka sa bundok",
+      "pangingisda sa lawa",
+      "pagtatrabaho sa opisina",
+      "paghabi ng tela"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 20,
+    "q": "Ano ang ipinapakita ng mga pangalan ng barangay na nakasulat sa Kalan-Banga monument?",
+    "options": [
+      "mga paboritong pagkain ng Mayor",
+      "pagkakaisa ng lahat ng barangay sa Calamba",
+      "mga emergency numbers",
+      "mga pangalan ng mga guro"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 21,
+    "q": "Saan ipinanganak ang pambansang bayani na si Dr. Jose Rizal?",
+    "options": [
+      "Lungsod ng Maynila",
+      "Lungsod ng Calamba, Laguna",
+      "Lungsod ng Baguio",
+      "Balayan, Batangas"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 22,
+    "q": "Tama o Mali: Ang bawat mamamayan ay may bahagi sa pag-unlad ng kanyang barangay at bayan.",
+    "options": [
+      "Tama",
+      "Mali"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 23,
+    "q": "Alin sa mga sumusunod ang tungkulin ng munisipyo para sa kalusugan ng bayan?",
+    "options": [
+      "magpatakbo ng malalaking ospital at klinika",
+      "magbenta ng gulay sa palengke",
+      "magturo ng pagbasa",
+      "magtapon ng basura sa ilog"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "standard",
+    "index": 24,
+    "q": "Paano natin maipapakita ang pagmamahal sa ating barangay at bayan?",
+    "options": [
+      "magtapon ng basura sa kalsada",
+      "sumunod sa mga batas at makipagtulungan sa mga programa",
+      "makipag-away sa kapitbahay",
+      "sirain ang mga monumento"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "challenge",
+    "index": 0,
+    "q": "Challenge: Aling pahayag ang naglalarawan ng totoong ugnayan sa pagitan ng kasaysayan ng barangay at kasaysayan ng bayan?",
+    "options": [
+      "Ang kasaysayan ng barangay ay walang ugnayan sa kasaysayan ng bayan.",
+      "Ang kasaysayan ng bawat barangay ay ang mga pahina na bumubuo sa kasaysayan ng buong bayan.",
+      "Ang kasaysayan ng bayan ay mas nauna kaysa sa kasaysayan ng mga barangay.",
+      "Ang barangay ay walang sariling kasaysayan."
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "challenge",
+    "index": 1,
+    "q": "Challenge: Bakit kalan-banga o palayok ng luwad ang napiling simbolo at pangalan ng Lungsod ng Calamba?",
+    "options": [
+      "Dahil ito ang paboritong lutuan ng mga Espanyol.",
+      "Dahil ang pagpapalayok ay isang mahalagang katutubong sining at kabuhayan ng mga ninuno sa pook.",
+      "Dahil walang ibang kagamitan sa lungsod noong araw.",
+      "Dahil ito ay kulay pula lamang."
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "challenge",
+    "index": 2,
+    "q": "Challenge: Kung ang lawa ng Laguna de Bay ay madumi at polluted, aling pook o sektor ang unang maapektuhan sa kalakalan?",
+    "options": [
+      "mga guro sa paaralan",
+      "mga mangingisda at palengke na nagbebenta ng isda mula sa lawa",
+      "mga factory workers sa munisipyo",
+      "mga bumbero"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "challenge",
+    "index": 3,
+    "q": "Challenge: Aling pagkakaayos ng mga yunit ng pamahalaan ang nagpapakita ng tamang sakop mula sa pinakamalaki hanggang sa pinakamaliit?",
+    "options": [
+      "Bansa -> Lalawigan -> Bayan/Lungsod -> Barangay",
+      "Barangay -> Bayan/Lungsod -> Lalawigan -> Bansa",
+      "Lalawigan -> Bansa -> Barangay -> Bayan/Lungsod",
+      "Bayan/Lungsod -> Barangay -> Lalawigan -> Bansa"
+    ]
+  },
+  {
+    "subject": "makabansa",
+    "week": 4,
+    "type": "challenge",
+    "index": 4,
+    "q": "Challenge: Paano nakatutulong ang Kalan-Banga monument sa plaza upang paalalahanan ang mga mamamayan tungkol sa kasaysayan ng pook?",
+    "options": [
+      "Nagsisilbi itong palamuti na walang kwento.",
+      "Nagsisilbi itong pisikal na primary source (monumento) na nagpapaalala sa alamat ng pangalan ng lungsod at pagkakaisa ng mga barangay.",
+      "Nagpapakita ito ng presyo ng mga palayok sa palengke.",
+      "Wala itong kinalaman sa kasaysayan ng mga tao."
+    ]
+  }
+]

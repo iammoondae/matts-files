@@ -258,29 +258,29 @@
   "standard": [
     {
       "type": "choice",
-      "q": "Ano ang tawag sa pag-aaral ng may-saysay na nakaraang pangyayari sa komunidad?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the study of meaningful past events in the community called?\">Ano ang tawag sa pag-aaral ng may-saysay na nakaraang pangyayari sa komunidad?</span>",
       "options": [
-        "heograpiya",
-        "kasaysayan",
-        "matematika",
-        "sining"
+        "<span class=\"fil-sentence\" data-translation=\"geography\">heograpiya</span>",
+        "<span class=\"fil-sentence\" data-translation=\"history\">kasaysayan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"mathematics\">matematika</span>",
+        "<span class=\"fil-sentence\" data-translation=\"art\">sining</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang HINDI kabilang sa apat na elemento ng kasaysayan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is NOT among the four elements of history?\">Alin sa mga sumusunod ang HINDI kabilang sa apat na elemento ng kasaysayan?</span>",
       "options": [
-        "tao",
-        "lugar",
-        "panahon",
-        "laruan"
+        "<span class=\"fil-sentence\" data-translation=\"people\">tao</span>",
+        "<span class=\"fil-sentence\" data-translation=\"place\">lugar</span>",
+        "<span class=\"fil-sentence\" data-translation=\"time\">panahon</span>",
+        "<span class=\"fil-sentence\" data-translation=\"toy\">laruan</span>"
       ],
       "answer": 3
     },
     {
       "type": "choice",
-      "q": "Sino ang pambansang bayani na ipinanganak sa Lungsod ng Calamba, Laguna?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Who is the national hero born in the City of Calamba, Laguna?\">Sino ang pambansang bayani na ipinanganak sa Lungsod ng Calamba, Laguna?</span>",
       "options": [
         "Andres Bonifacio",
         "Dr. Jose Rizal",
@@ -291,237 +291,237 @@
     },
     {
       "type": "choice",
-      "q": "Ano ang tawag sa pagkakasunod-sunod ng mga taon at pangyayari sa kasaysayan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the sequence of years and events in history called?\">Ano ang tawag sa pagkakasunod-sunod ng mga taon at pangyayari sa kasaysayan?</span>",
       "options": [
-        "mapa",
+        "<span class=\"fil-sentence\" data-translation=\"map\">mapa</span>",
         "timeline",
         "logo",
-        "selyo"
+        "<span class=\"fil-sentence\" data-translation=\"seal\">selyo</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang isang halimbawa ng primary source na artifact?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is an example of a primary source artifact?\">Alin sa mga sumusunod ang isang halimbawa ng primary source na artifact?</span>",
       "options": [
         "history textbook",
-        "lumang barya",
-        "kwento ng guro",
+        "<span class=\"fil-sentence\" data-translation=\"old coin\">lumang barya</span>",
+        "<span class=\"fil-sentence\" data-translation=\"teacher&#x27;s story\">kwento ng guro</span>",
         "encyclopedia"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang isang halimbawa ng nakasulat na primary source?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is an example of a written primary source?\">Alin sa mga sumusunod ang isang halimbawa ng nakasulat na primary source?</span>",
       "options": [
-        "lumang sulat o diary",
-        "kasaysayang aklat ngayon",
-        "monumento",
-        "palayok"
+        "<span class=\"fil-sentence\" data-translation=\"old letter or diary\">lumang sulat o diary</span>",
+        "<span class=\"fil-sentence\" data-translation=\"today&#x27;s history book\">kasaysayang aklat ngayon</span>",
+        "<span class=\"fil-sentence\" data-translation=\"monument\">monumento</span>",
+        "<span class=\"fil-sentence\" data-translation=\"pot\">palayok</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Ano ang tawag sa mga aklat o textbooks na isinulat pagkatapos ng pangyayari?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What are books or textbooks written after the event called?\">Ano ang tawag sa mga aklat o textbooks na isinulat pagkatapos ng pangyayari?</span>",
       "options": [
         "primary source",
-        "sekondaryang batayan",
-        "artifact",
+        "<span class=\"fil-sentence\" data-translation=\"secondary basis\">sekondaryang batayan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"artifacts\">artifact</span>",
         "oral history"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Saan karaniwang nagmumula ang pangalan ng mga lumang barangay?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Where do the names of old barangays usually come from?\">Saan karaniwang nagmumula ang pangalan ng mga lumang barangay?</span>",
       "options": [
-        "tatak ng sapatos",
-        "halaman, hayop o patron ng pook",
-        "mga dayuhang bansa",
-        "mga modernong sasakyan"
+        "<span class=\"fil-sentence\" data-translation=\"shoe brand\">tatak ng sapatos</span>",
+        "<span class=\"fil-sentence\" data-translation=\"plants, animals or patrons of the area\">halaman, hayop o patron ng pook</span>",
+        "<span class=\"fil-sentence\" data-translation=\"foreign countries\">mga dayuhang bansa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"modern cars\">mga modernong sasakyan</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang isinasagisag ng simbolo ng palay sa logo ng isang barangay?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What does the rice symbol in the logo of a barangay represent?\">Ano ang isinasagisag ng simbolo ng palay sa logo ng isang barangay?</span>",
       "options": [
-        "pangingisda",
-        "pagsasaka o agrikultura",
-        "pabrika at makina",
-        "pananalangin"
+        "<span class=\"fil-sentence\" data-translation=\"fishing\">pangingisda</span>",
+        "<span class=\"fil-sentence\" data-translation=\"farming or agriculture\">pagsasaka o agrikultura</span>",
+        "<span class=\"fil-sentence\" data-translation=\"factories and machines\">pabrika at makina</span>",
+        "<span class=\"fil-sentence\" data-translation=\"prayer\">pananalangin</span>"
       ],
       "answer": 1
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang pag-aaral ng kasaysayan ay nakatutulong upang maunawaan ang kasalukuyan.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: Studying history helps to understand the present.\">Tama o Mali: Ang pag-aaral ng kasaysayan ay nakatutulong upang maunawaan ang kasalukuyan.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Ano ang tawag sa kasaysayan na isinasalin sa pamamagitan ng pagkukuwento ng mga lolo at lola?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the history that is translated through the stories of grandparents called?\">Ano ang tawag sa kasaysayan na isinasalin sa pamamagitan ng pagkukuwento ng mga lolo at lola?</span>",
       "options": [
-        "nakasulat na batas",
-        "oral history (saling-bibig)",
-        "monumento",
-        "mapa"
+        "<span class=\"fil-sentence\" data-translation=\"written law\">nakasulat na batas</span>",
+        "<span class=\"fil-sentence\" data-translation=\"oral history\">oral history (saling-bibig)</span>",
+        "<span class=\"fil-sentence\" data-translation=\"monument\">monumento</span>",
+        "<span class=\"fil-sentence\" data-translation=\"map\">mapa</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang simbolo ng industriya at pabrika sa logo ng komunidad?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the symbol of industry and factory in the logo of the community?\">Alin sa mga sumusunod ang simbolo ng industriya at pabrika sa logo ng komunidad?</span>",
       "options": [
-        "palay",
-        "gear o gulong ng makina",
-        "ilog",
-        "araw"
+        "<span class=\"fil-sentence\" data-translation=\"rice\">palay</span>",
+        "<span class=\"fil-sentence\" data-translation=\"engine gear or wheel\">gear o gulong ng makina</span>",
+        "<span class=\"fil-sentence\" data-translation=\"river\">ilog</span>",
+        "<span class=\"fil-sentence\" data-translation=\"day\">araw</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang ipinapakita ng timeline ng paglaki ng isang bata?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What does a child&#x27;s growth timeline show?\">Ano ang ipinapakita ng timeline ng paglaki ng isang bata?</span>",
       "options": [
-        "mga paboritong pagkain",
-        "pagbabago sa paglipas ng panahon",
-        "mga tatak ng laruan",
-        "mga pangalan ng hayop"
+        "<span class=\"fil-sentence\" data-translation=\"favorite foods\">mga paboritong pagkain</span>",
+        "<span class=\"fil-sentence\" data-translation=\"change over time\">pagbabago sa paglipas ng panahon</span>",
+        "<span class=\"fil-sentence\" data-translation=\"toy brands\">mga tatak ng laruan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"animal names\">mga pangalan ng hayop</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Aling awitin ang isang lokal na folk song na naglalarawan ng pamumuhay sa Laguna?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which is a local folk song that describes life in Laguna?\">Aling awitin ang isang lokal na folk song na naglalarawan ng pamumuhay sa Laguna?</span>",
       "options": [
-        "Leron Leron Sinta",
+        "<span class=\"fil-sentence\" data-translation=\"Leron Leron Darling\">Leron Leron Sinta</span>",
         "Happy Birthday",
-        "Lupang Hinirang",
-        "Bahay Kubo"
+        "<span class=\"fil-sentence\" data-translation=\"Chosen Land\">Lupang Hinirang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"House Hut\">Bahay Kubo</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Tukuyin ang elemento ng lugar sa pahayag: 'Ipinanganak si Rizal sa Calamba noong 1861.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the place element in the statement: &#x27;Rizal was born in Calamba in 1861.&#x27;\">Tukuyin ang elemento ng lugar sa pahayag: 'Ipinanganak si Rizal sa Calamba noong 1861.'</span>",
       "options": [
         "Rizal",
         "Calamba",
-        "noong 1861",
-        "Ipinanganak"
+        "<span class=\"fil-sentence\" data-translation=\"in 1861\">noong 1861</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Born\">Ipinanganak</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Tukuyin ang elemento ng panahon sa pahayag: 'Itinatag ang paaralan noong taong 2005.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the time element in the statement: &#x27;The school was established in the year 2005.&#x27;\">Tukuyin ang elemento ng panahon sa pahayag: 'Itinatag ang paaralan noong taong 2005.'</span>",
       "options": [
-        "paaralan",
-        "noong taong 2005",
-        "Itinatag",
-        "paaralang pook"
+        "<span class=\"fil-sentence\" data-translation=\"school\">paaralan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"in the year 2005\">noong taong 2005</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Established\">Itinatag</span>",
+        "<span class=\"fil-sentence\" data-translation=\"school district\">paaralang pook</span>"
       ],
       "answer": 1
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang lumang mapa ng isang bayan ay isang primaryang batayan ng kasaysayan nito.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: An old map of a town is a primary source of its history.\">Tama o Mali: Ang lumang mapa ng isang bayan ay isang primaryang batayan ng kasaysayan nito.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang pambalana sa pook na makasaysayan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is a historical site?\">Alin sa mga sumusunod ang pambalana sa pook na makasaysayan?</span>",
       "options": [
-        "monumento",
+        "<span class=\"fil-sentence\" data-translation=\"monument\">monumento</span>",
         "Rizal Park",
         "Fort Santiago",
-        "Bahay ni Rizal"
+        "<span class=\"fil-sentence\" data-translation=\"Rizal&#x27;s house\">Bahay ni Rizal</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Anong simbolo ang karaniwang ginagamit sa logo upang ipakita ang ilog o dagat?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What symbol is commonly used in logos to represent a river or sea?\">Anong simbolo ang karaniwang ginagamit sa logo upang ipakita ang ilog o dagat?</span>",
       "options": [
-        "kulay berde",
-        "guhit ng alon o kulay asul",
-        "guhit ng palay",
-        "guhit ng makina"
+        "<span class=\"fil-sentence\" data-translation=\"green color\">kulay berde</span>",
+        "<span class=\"fil-sentence\" data-translation=\"wave stripe or blue color\">guhit ng alon o kulay asul</span>",
+        "<span class=\"fil-sentence\" data-translation=\"strip of rice\">guhit ng palay</span>",
+        "<span class=\"fil-sentence\" data-translation=\"machine drawing\">guhit ng makina</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Sino ang gumagawa ng mga pangyayaring nagiging bahagi ng kasaysayan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Who creates events that become part of history?\">Sino ang gumagawa ng mga pangyayaring nagiging bahagi ng kasaysayan?</span>",
       "options": [
-        "mga kotse",
-        "mga tao",
-        "mga laruan",
-        "mga pusa"
+        "<span class=\"fil-sentence\" data-translation=\"cars\">mga kotse</span>",
+        "<span class=\"fil-sentence\" data-translation=\"people\">mga tao</span>",
+        "<span class=\"fil-sentence\" data-translation=\"toys\">mga laruan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"cats\">mga pusa</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Paano isinusulat ang timeline ng mga taon?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"How is the timeline of years written?\">Paano isinusulat ang timeline ng mga taon?</span>",
       "options": [
-        "mula kasalukuyan patungong nakaraan",
-        "mula pinakamaagang taon hanggang pinakahuli",
-        "walang pagkakasunod-sunod",
-        "mula pinakamalaking numero lamang"
+        "<span class=\"fil-sentence\" data-translation=\"from present to past\">mula kasalukuyan patungong nakaraan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"from the earliest years to the latest\">mula pinakamaagang taon hanggang pinakahuli</span>",
+        "<span class=\"fil-sentence\" data-translation=\"no order\">walang pagkakasunod-sunod</span>",
+        "<span class=\"fil-sentence\" data-translation=\"from the largest number only\">mula pinakamalaking numero lamang</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang HINDI primary source?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is NOT a primary source?\">Alin sa mga sumusunod ang HINDI primary source?</span>",
       "options": [
-        "lumang barya",
-        "diary ng sundalo",
-        "aklat sa kasaysayan na isinulat nitong 2020",
-        "lumang larawan"
+        "<span class=\"fil-sentence\" data-translation=\"old coin\">lumang barya</span>",
+        "<span class=\"fil-sentence\" data-translation=\"soldier&#x27;s diary\">diary ng sundalo</span>",
+        "<span class=\"fil-sentence\" data-translation=\"history book written in 2020\">aklat sa kasaysayan na isinulat nitong 2020</span>",
+        "<span class=\"fil-sentence\" data-translation=\"old picture\">lumang larawan</span>"
       ],
       "answer": 2
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang pagkain mo ng saging kaninang umaga ay isang makasaysayang pangyayari sa inyong barangay.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: Your eating a banana this morning is a historical event in your barangay.\">Tama o Mali: Ang pagkain mo ng saging kaninang umaga ay isang makasaysayang pangyayari sa inyong barangay.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod na hugis ang katutubong disenyo mula sa kalikasan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following shapes is an indigenous design from nature?\">Alin sa mga sumusunod na hugis ang katutubong disenyo mula sa kalikasan?</span>",
       "options": [
-        "kotse",
-        "dahon at bulaklak",
-        "telebisyon",
+        "<span class=\"fil-sentence\" data-translation=\"car\">kotse</span>",
+        "<span class=\"fil-sentence\" data-translation=\"leaves and flowers\">dahon at bulaklak</span>",
+        "<span class=\"fil-sentence\" data-translation=\"television\">telebisyon</span>",
         "computer"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Bakit mahalagang ingatan ang mga primary source tulad ng lumang sulat at barya?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Why is it important to preserve primary sources such as old letters and coins?\">Bakit mahalagang ingatan ang mga primary source tulad ng lumang sulat at barya?</span>",
       "options": [
-        "upang ibenta sa palengke",
-        "upang mapanatili ang tumpak na tala ng kasaysayan",
-        "upang gawing laruan ng bata",
-        "upang itapon sa ilog"
+        "<span class=\"fil-sentence\" data-translation=\"to sell in the market\">upang ibenta sa palengke</span>",
+        "<span class=\"fil-sentence\" data-translation=\"to maintain an accurate historical record\">upang mapanatili ang tumpak na tala ng kasaysayan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"to make a child&#x27;s toy\">upang gawing laruan ng bata</span>",
+        "<span class=\"fil-sentence\" data-translation=\"to throw into the river\">upang itapon sa ilog</span>"
       ],
       "answer": 1
     }
@@ -529,56 +529,56 @@
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge: Aling batayan ang pinakamahusay gamitin upang malaman ang buhay sa barangay noong panahon ng Hapon (1942)?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Which basis is the best to use to know the barangay life during the Japanese era (1942)?\">Challenge: Aling batayan ang pinakamahusay gamitin upang malaman ang buhay sa barangay noong panahon ng Hapon (1942)?</span>",
       "options": [
-        "isang diary na isinulat ng isang lola noong 1943 sa pook",
-        "isang aklat na isinulat ng dayuhan nitong 2025",
-        "isang kwento sa komiks",
-        "isang modernong mapa ng barangay"
+        "<span class=\"fil-sentence\" data-translation=\"a diary written by a grandmother in 1943 in the area\">isang diary na isinulat ng isang lola noong 1943 sa pook</span>",
+        "<span class=\"fil-sentence\" data-translation=\"a book written by an alien in 2025\">isang aklat na isinulat ng dayuhan nitong 2025</span>",
+        "<span class=\"fil-sentence\" data-translation=\"a comic book story\">isang kwento sa komiks</span>",
+        "<span class=\"fil-sentence\" data-translation=\"a modern barangay map\">isang modernong mapa ng barangay</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge: Kung ang isang barangay logo ay may simbolo ng gear at palay, ano ang mahihinuha mo sa pamumuhay doon?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: If a barangay logo has a symbol of gear and rice, what can you conclude about living there?\">Challenge: Kung ang isang barangay logo ay may simbolo ng gear at palay, ano ang mahihinuha mo sa pamumuhay doon?</span>",
       "options": [
-        "Pawang mga mangingisda ang nakatira doon.",
-        "May ugnayan ng agrikultura at industriya sa kanilang kabuhayan.",
-        "Walang kabuhayan ang mga mamamayan doon.",
-        "Puro sining lamang ang ginagawa doon."
+        "<span class=\"fil-sentence\" data-translation=\"All fishermen live there.\">Pawang mga mangingisda ang nakatira doon.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"There is a relationship between agriculture and industry in their livelihood.\">May ugnayan ng agrikultura at industriya sa kanilang kabuhayan.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"The people there have no livelihood.\">Walang kabuhayan ang mga mamamayan doon.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Only pure art is done there.\">Puro sining lamang ang ginagawa doon.</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Challenge: Aling pagkakasunod-sunod ng timeline ang tama para sa kasaysayan ng isang eskwelahan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Which timeline sequence is correct for the history of a school?\">Challenge: Aling pagkakasunod-sunod ng timeline ang tama para sa kasaysayan ng isang eskwelahan?</span>",
       "options": [
-        "2005 (Pagtatag) -> 2015 (Bagong Aklatan) -> 2025 (Sports Center)",
-        "2025 (Sports Center) -> 2015 (Bagong Aklatan) -> 2005 (Pagtatag)",
-        "2015 (Bagong Aklatan) -> 2005 (Pagtatag) -> 2025 (Sports Center)",
-        "2005 (Pagtatag) -> 2025 (Sports Center) -> 2015 (Bagong Aklatan)"
+        "<span class=\"fil-sentence\" data-translation=\"2005 (Establishment) -&gt; 2015 (New Library) -&gt; 2025 (Sports Center)\">2005 (Pagtatag) -> 2015 (Bagong Aklatan) -> 2025 (Sports Center)</span>",
+        "<span class=\"fil-sentence\" data-translation=\"2025 (Sports Center) -&gt; 2015 (New Library) -&gt; 2005 (Establishment)\">2025 (Sports Center) -> 2015 (Bagong Aklatan) -> 2005 (Pagtatag)</span>",
+        "<span class=\"fil-sentence\" data-translation=\"2015 (New Library) -&gt; 2005 (Establishment) -&gt; 2025 (Sports Center)\">2015 (Bagong Aklatan) -> 2005 (Pagtatag) -> 2025 (Sports Center)</span>",
+        "<span class=\"fil-sentence\" data-translation=\"2005 (Establishment) -&gt; 2025 (Sports Center) -&gt; 2015 (New Library)\">2005 (Pagtatag) -> 2025 (Sports Center) -> 2015 (Bagong Aklatan)</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge: Paano nagkakaugnay ang kasaysayan ng inyong barangay sa kasaysayan ng inyong bayan o lungsod?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: How is the history of your barangay related to the history of your town or city?\">Challenge: Paano nagkakaugnay ang kasaysayan ng inyong barangay sa kasaysayan ng inyong bayan o lungsod?</span>",
       "options": [
-        "Ang barangay ay may hiwalay na bansa at batas.",
-        "Ang kasaysayan ng bawat barangay ang bumubuo sa mas malawak na kwento ng bayan.",
-        "Walang ugnayan ang dalawa sa kasaysayan.",
-        "Ang bayan ay walang kinalaman sa barangay."
+        "<span class=\"fil-sentence\" data-translation=\"The barangay has a separate country and law.\">Ang barangay ay may hiwalay na bansa at batas.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"The history of each barangay makes up the broader story of the town.\">Ang kasaysayan ng bawat barangay ang bumubuo sa mas malawak na kwento ng bayan.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"The two have no connection in history.\">Walang ugnayan ang dalawa sa kasaysayan.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"The town has nothing to do with the barangay.\">Ang bayan ay walang kinalaman sa barangay.</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Challenge: Suriin ang pahayag: 'Ang tulay na itinayo noong 1920 ay nagdugtong sa dalawang barangay.' Anong uri ng batayan ang pisikal na tulay na ito ngayon?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Check the statement: &#x27;The bridge built in 1920 connected two barangays.&#x27; What kind of basis is this physical bridge now?\">Challenge: Suriin ang pahayag: 'Ang tulay na itinayo noong 1920 ay nagdugtong sa dalawang barangay.' Anong uri ng batayan ang pisikal na tulay na ito ngayon?</span>",
       "options": [
-        "Nakasulat na dokumento",
-        "Artifact o pisikal na primary source",
-        "Sekondaryang aklat",
-        "Oral history lamang"
+        "<span class=\"fil-sentence\" data-translation=\"Written document\">Nakasulat na dokumento</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Artifact or physical primary source\">Artifact o pisikal na primary source</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Secondary book\">Sekondaryang aklat</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Oral history only\">Oral history lamang</span>"
       ],
       "answer": 1
     }

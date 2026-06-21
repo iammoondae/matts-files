@@ -258,18 +258,18 @@
   "standard": [
     {
       "type": "choice",
-      "q": "Ano ang Pista ng Pahiyas na ipinagdiriwang tuwing Mayo 15?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is Pista ng Pahiyas celebrated every May 15?\">Ano ang Pista ng Pahiyas na ipinagdiriwang tuwing Mayo 15?</span>",
       "options": [
-        "pambalana sa pook",
-        "pantangi sa pangyayari",
-        "pantangi sa tao",
-        "pambalana sa bagay"
+        "<span class=\"fil-sentence\" data-translation=\"Strategically located\">pambalana sa pook</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Unique to the event\">pantangi sa pangyayari</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Unique to humans\">pantangi sa tao</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Be careful with things\">pambalana sa bagay</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Saan ipinagdiriwang ang sikat na Pista ng Pahiyas?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Where is the famous Jewelry Festival celebrated?\">Saan ipinagdiriwang ang sikat na Pista ng Pahiyas?</span>",
       "options": [
         "Calamba, Laguna",
         "Lucban, Quezon",
@@ -280,29 +280,29 @@
     },
     {
       "type": "choice",
-      "q": "Sino ang patron ng mga magsasaka na ipinagdiriwang sa Pista ng Pahiyas?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Who is the patron saint of farmers who is celebrated in Pista ng Pahiyas?\">Sino ang patron ng mga magsasaka na ipinagdiriwang sa Pista ng Pahiyas?</span>",
       "options": [
-        "San Juan Bautista",
+        "<span class=\"fil-sentence\" data-translation=\"St. John the Baptist\">San Juan Bautista</span>",
         "San Isidro Labrador",
         "San Jose",
-        "San Pablo"
+        "<span class=\"fil-sentence\" data-translation=\"Saint Paul\">San Pablo</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang tawag sa palamuti na yari sa bigas na may iba't ibang kulay sa Pahiyas?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the name of the decoration made of rice with different colors in Pahiyas?\">Ano ang tawag sa palamuti na yari sa bigas na may iba't ibang kulay sa Pahiyas?</span>",
       "options": [
         "lechon",
         "kiping",
-        "banig",
-        "bakya"
+        "<span class=\"fil-sentence\" data-translation=\"mat\">banig</span>",
+        "<span class=\"fil-sentence\" data-translation=\"clog\">bakya</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Saan ipinagdiriwang ang sikat na Pista ng Lechon tuwing Hunyo 24?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Where is the famous Lechon Festival celebrated every June 24?\">Saan ipinagdiriwang ang sikat na Pista ng Lechon tuwing Hunyo 24?</span>",
       "options": [
         "Lucban, Quezon",
         "Balayan, Batangas",
@@ -313,215 +313,215 @@
     },
     {
       "type": "choice",
-      "q": "Sino ang patron na kasabay ng pagdiriwang ng Pista ng Lechon?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Who is the patron saint of the Lechon Festival?\">Sino ang patron na kasabay ng pagdiriwang ng Pista ng Lechon?</span>",
       "options": [
         "San Isidro Labrador",
-        "San Juan Bautista",
+        "<span class=\"fil-sentence\" data-translation=\"St. John the Baptist\">San Juan Bautista</span>",
         "San Jose",
-        "San Pablo"
+        "<span class=\"fil-sentence\" data-translation=\"Saint Paul\">San Pablo</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Anong prutas ang ipinagdiriwang sa Daet, Camarines Norte dahil sa tamis nito?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What fruit is celebrated in Daet, Camarines Norte because of its sweetness?\">Anong prutas ang ipinagdiriwang sa Daet, Camarines Norte dahil sa tamis nito?</span>",
       "options": [
         "papaya",
-        "pinya",
-        "saging",
-        "mangga"
+        "<span class=\"fil-sentence\" data-translation=\"pineapple\">pinya</span>",
+        "<span class=\"fil-sentence\" data-translation=\"banana\">saging</span>",
+        "<span class=\"fil-sentence\" data-translation=\"please\">mangga</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang tawag sa sikat na katutubong sayaw na gumagamit ng kawayan sa pagsayaw?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the name of the popular folk dance that uses bamboo to dance?\">Ano ang tawag sa sikat na katutubong sayaw na gumagamit ng kawayan sa pagsayaw?</span>",
       "options": [
         "Cariñosa",
-        "Tinikling",
-        "Pandanggo sa Ilaw",
-        "Singkil"
+        "<span class=\"fil-sentence\" data-translation=\"Tasted\">Tinikling</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Landing in the Light\">Pandanggo sa Ilaw</span>",
+        "<span class=\"fil-sentence\" data-translation=\"charge\">Singkil</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Aling ibon ang ginagaya ng sayaw na Tinikling habang umiiwas sa patibong?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which bird does the Tinikling dance imitate while avoiding the snare?\">Aling ibon ang ginagaya ng sayaw na Tinikling habang umiiwas sa patibong?</span>",
       "options": [
-        "agila",
-        "loro",
-        "tikling",
-        "pabo"
+        "<span class=\"fil-sentence\" data-translation=\"eagle\">agila</span>",
+        "<span class=\"fil-sentence\" data-translation=\"parrot\">loro</span>",
+        "<span class=\"fil-sentence\" data-translation=\"tickle\">tikling</span>",
+        "<span class=\"fil-sentence\" data-translation=\"turkey\">pabo</span>"
       ],
       "answer": 2
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang 'Leron Leron Sinta' ay isang lokal na folk song na naglalarawan ng buhay-bukid.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: &#x27;Leron Leron Sinta&#x27; is a local folk song that describes farm life.\">Tama o Mali: Ang 'Leron Leron Sinta' ay isang lokal na folk song na naglalarawan ng buhay-bukid.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang lokal na sining na gawa sa hinabing dahon ng pandan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is a local art made from woven pandan leaves?\">Alin sa mga sumusunod ang lokal na sining na gawa sa hinabing dahon ng pandan?</span>",
       "options": [
         "basket",
-        "banig",
-        "bakya",
+        "<span class=\"fil-sentence\" data-translation=\"mat\">banig</span>",
+        "<span class=\"fil-sentence\" data-translation=\"clog\">bakya</span>",
         "lechon"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Anong materyal ang ginagamit sa paggawa ng basket sa ating komunidad?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What material is used to make baskets in our community?\">Anong materyal ang ginagamit sa paggawa ng basket sa ating komunidad?</span>",
       "options": [
-        "bakal",
-        "kawayan o rattan",
-        "plastik",
-        "papel"
+        "<span class=\"fil-sentence\" data-translation=\"iron\">bakal</span>",
+        "<span class=\"fil-sentence\" data-translation=\"bamboo or rattan\">kawayan o rattan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"plastic\">plastik</span>",
+        "<span class=\"fil-sentence\" data-translation=\"paper\">papel</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang tawag sa tradisyonal na kahoy na sapatos ng mga Pilipino?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the traditional wooden shoe of Filipinos called?\">Ano ang tawag sa tradisyonal na kahoy na sapatos ng mga Pilipino?</span>",
       "options": [
-        "sapatos",
-        "tsinelas",
-        "bakya",
+        "<span class=\"fil-sentence\" data-translation=\"shoes\">sapatos</span>",
+        "<span class=\"fil-sentence\" data-translation=\"slippers\">tsinelas</span>",
+        "<span class=\"fil-sentence\" data-translation=\"clog\">bakya</span>",
         "boots"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Punan ang patlang sa kanta: 'Leron, leron sinta, buko ng ___...'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Fill in the blank in the song: &#x27;Leron, leron sinta, nuko ___...&#x27;\">Punan ang patlang sa kanta: 'Leron, leron sinta, buko ng ___...'</span>",
       "options": [
-        "saging",
+        "<span class=\"fil-sentence\" data-translation=\"banana\">saging</span>",
         "papaya",
-        "mangga",
-        "pinya"
+        "<span class=\"fil-sentence\" data-translation=\"please\">mangga</span>",
+        "<span class=\"fil-sentence\" data-translation=\"pineapple\">pinya</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang layunin ng pagdaraos ng Pista ng Pinya sa Daet?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the purpose of holding the Pineapple Festival in Daet?\">Ano ang layunin ng pagdaraos ng Pista ng Pinya sa Daet?</span>",
       "options": [
-        "mag-import ng dayuhang prutas",
-        "ipagmalaki ang saganang ani ng pinyang Formosa",
-        "magbenta ng laruan",
-        "magtayo ng bagong tulay"
+        "<span class=\"fil-sentence\" data-translation=\"import foreign fruit\">mag-import ng dayuhang prutas</span>",
+        "<span class=\"fil-sentence\" data-translation=\"boast the bountiful harvest of Formosa pineapples\">ipagmalaki ang saganang ani ng pinyang Formosa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"sell toys\">magbenta ng laruan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"build a new bridge\">magtayo ng bagong tulay</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Anong okasyon ang ipinagdiriwang tuwing Hunyo 24 na may basaan ng tubig?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What occasion is celebrated every June 24 with a water bath?\">Anong okasyon ang ipinagdiriwang tuwing Hunyo 24 na may basaan ng tubig?</span>",
       "options": [
-        "Pasko",
-        "Kapistahan ni San Juan Bautista",
-        "Pista ng Pahiyas",
-        "Bagong Taon"
+        "<span class=\"fil-sentence\" data-translation=\"Christmas\">Pasko</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Feast of San Juan Bautista\">Kapistahan ni San Juan Bautista</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Festival of Jewels\">Pista ng Pahiyas</span>",
+        "<span class=\"fil-sentence\" data-translation=\"New Year\">Bagong Taon</span>"
       ],
       "answer": 1
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang Pista ng Pahiyas ay ginaganap tuwing Mayo 15 sa Laguna.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: The Jewelry Festival is held every May 15 in Laguna.\">Tama o Mali: Ang Pista ng Pahiyas ay ginaganap tuwing Mayo 15 sa Laguna.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang pambalana sa sining na yari sa kahoy?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the fate of wood art?\">Alin sa mga sumusunod ang pambalana sa sining na yari sa kahoy?</span>",
       "options": [
-        "ukit sa kahoy",
-        "habing tela",
-        "banig",
+        "<span class=\"fil-sentence\" data-translation=\"wood carving\">ukit sa kahoy</span>",
+        "<span class=\"fil-sentence\" data-translation=\"woven fabric\">habing tela</span>",
+        "<span class=\"fil-sentence\" data-translation=\"mat\">banig</span>",
         "lechon"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Ano ang dapat iwasan kapag sumasayaw ng Tinikling sa ibabaw ng kawayan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What should be avoided when dancing Tinikling on top of bamboo?\">Ano ang dapat iwasan kapag sumasayaw ng Tinikling sa ibabaw ng kawayan?</span>",
       "options": [
-        "ngumiti sa mambabasa",
-        "maipit ang paa sa pagitan ng kawayan",
-        "kumanta ng Leron Leron Sinta",
-        "tumingin sa guro"
+        "<span class=\"fil-sentence\" data-translation=\"smile at the reader\">ngumiti sa mambabasa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"get your foot stuck between the bamboo\">maipit ang paa sa pagitan ng kawayan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"sing Leron Leron Sinta\">kumanta ng Leron Leron Sinta</span>",
+        "<span class=\"fil-sentence\" data-translation=\"look at the teacher\">tumingin sa guro</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Sino ang nagtuturo ng mga katutubong sayaw at awitin sa paaralan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Who teaches folk dances and songs at school?\">Sino ang nagtuturo ng mga katutubong sayaw at awitin sa paaralan?</span>",
       "options": [
-        "doktor",
-        "guro",
-        "pulis",
-        "tanod"
+        "<span class=\"fil-sentence\" data-translation=\"doctor\">doktor</span>",
+        "<span class=\"fil-sentence\" data-translation=\"teacher\">guro</span>",
+        "<span class=\"fil-sentence\" data-translation=\"police\">pulis</span>",
+        "<span class=\"fil-sentence\" data-translation=\"bodyguard\">tanod</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang ginagawa sa mga inihaw na lechon sa parada sa Balayan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is done with the grilled lechons in the Balayan parade?\">Ano ang ginagawa sa mga inihaw na lechon sa parada sa Balayan?</span>",
       "options": [
-        "kinakain habang mainit pa sa parada",
-        "binibihisan at pinapalamutian",
-        "itinatapon sa ilog",
-        "itinatago sa aklatan"
+        "<span class=\"fil-sentence\" data-translation=\"eaten while still hot in the parade\">kinakain habang mainit pa sa parada</span>",
+        "<span class=\"fil-sentence\" data-translation=\"dressed and decorated\">binibihisan at pinapalamutian</span>",
+        "<span class=\"fil-sentence\" data-translation=\"thrown into the river\">itinatapon sa ilog</span>",
+        "<span class=\"fil-sentence\" data-translation=\"kept in the library\">itinatago sa aklatan</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Tukuyin ang pambalana sa pangyayari: 'Masaya ang mga tao sa pista.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Determine the predicate of the event: &#x27;People are happy at the festival.&#x27;\">Tukuyin ang pambalana sa pangyayari: 'Masaya ang mga tao sa pista.'</span>",
       "options": [
-        "tao",
-        "masaya",
-        "pista",
-        "mga"
+        "<span class=\"fil-sentence\" data-translation=\"people\">tao</span>",
+        "<span class=\"fil-sentence\" data-translation=\"happy\">masaya</span>",
+        "<span class=\"fil-sentence\" data-translation=\"festival\">pista</span>",
+        "<span class=\"fil-sentence\" data-translation=\"those\">mga</span>"
       ],
       "answer": 2
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang kiping ay palamuti na pwedeng kainin dahil ito ay gawa sa bigas.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: Kiping is a decoration that can be eaten because it is made of rice.\">Tama o Mali: Ang kiping ay palamuti na pwedeng kainin dahil ito ay gawa sa bigas.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Aling likas na yaman ang ginagamit sa paghabi ng banig?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which natural resource is used to weave the mat?\">Aling likas na yaman ang ginagamit sa paghabi ng banig?</span>",
       "options": [
-        "bakal",
-        "dahon ng pandan o palm",
-        "bato",
-        "semento"
+        "<span class=\"fil-sentence\" data-translation=\"iron\">bakal</span>",
+        "<span class=\"fil-sentence\" data-translation=\"pandan or palm leaves\">dahon ng pandan o palm</span>",
+        "<span class=\"fil-sentence\" data-translation=\"rock\">bato</span>",
+        "<span class=\"fil-sentence\" data-translation=\"cement\">semento</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang pangunahing mensahe ng mga lokal na pagdiriwang sa komunidad?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the main message of local festivals in the community?\">Ano ang pangunahing mensahe ng mga lokal na pagdiriwang sa komunidad?</span>",
       "options": [
-        "pagkakaisa at pasasalamat sa mga biyaya",
-        "pagbili ng bagong sapatos",
-        "paggawa ng makina",
-        "digmaan"
+        "<span class=\"fil-sentence\" data-translation=\"unity and gratitude for blessings\">pagkakaisa at pasasalamat sa mga biyaya</span>",
+        "<span class=\"fil-sentence\" data-translation=\"buying new shoes\">pagbili ng bagong sapatos</span>",
+        "<span class=\"fil-sentence\" data-translation=\"machine manufacturing\">paggawa ng makina</span>",
+        "<span class=\"fil-sentence\" data-translation=\"war\">digmaan</span>"
       ],
       "answer": 0
     }
@@ -529,56 +529,56 @@
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge: Aling pagkakaiba ang totoo sa pagitan ng Pista ng Pahiyas at Pista ng Lechon?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Which difference is true between the Jewel Festival and the Lechon Festival?\">Challenge: Aling pagkakaiba ang totoo sa pagitan ng Pista ng Pahiyas at Pista ng Lechon?</span>",
       "options": [
-        "Ang Pahiyas ay parangal sa patron ng magsasaka sa Quezon, habang ang Lechon ay kasabay ng pista ni San Juan sa Batangas.",
-        "Ang Pahiyas ay gumagamit ng lechon, habang ang Lechon ay gumagamit ng kiping.",
-        "Ang Pahiyas ay ginaganap sa Batangas, habang ang Lechon ay sa Quezon.",
-        "Walang pagkakaiba ang dalawang pagdiriwang na ito."
+        "<span class=\"fil-sentence\" data-translation=\"Pahiyas is a tribute to the patron saint of farmers in Quezon, while Lechon coincides with the festival of San Juan in Batangas.\">Ang Pahiyas ay parangal sa patron ng magsasaka sa Quezon, habang ang Lechon ay kasabay ng pista ni San Juan sa Batangas.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Pahiyas uses lechon, while Lechon uses kiping.\">Ang Pahiyas ay gumagamit ng lechon, habang ang Lechon ay gumagamit ng kiping.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Pahiyas is held in Batangas, while Lechon is in Quezon.\">Ang Pahiyas ay ginaganap sa Batangas, habang ang Lechon ay sa Quezon.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"There is no difference between these two festivals.\">Walang pagkakaiba ang dalawang pagdiriwang na ito.</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge: Paano nagkakaugnay ang awiting 'Leron Leron Sinta' sa kabuhayan ng mga tao sa Laguna noong araw?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: How is the song &#x27;Leron Leron Sinta&#x27; related to the livelihood of the people in Laguna back in the day?\">Challenge: Paano nagkakaugnay ang awiting 'Leron Leron Sinta' sa kabuhayan ng mga tao sa Laguna noong araw?</span>",
       "options": [
-        "Ipinapakita nito na pangingisda ang tanging gawa doon.",
-        "Inilalarawan nito ang pamumuhay sa pagsasaka at pagpitas ng mga lokal na prutas.",
-        "Wala itong kinalaman sa kabuhayan ng mga tao.",
-        "Ipinapakita nito ang mga pabrika at makina sa lungsod."
+        "<span class=\"fil-sentence\" data-translation=\"It shows that fishing is the only activity there.\">Ipinapakita nito na pangingisda ang tanging gawa doon.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"It depicts the farming lifestyle and picking of local fruits.\">Inilalarawan nito ang pamumuhay sa pagsasaka at pagpitas ng mga lokal na prutas.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"It has nothing to do with people&#x27;s livelihood.\">Wala itong kinalaman sa kabuhayan ng mga tao.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"It shows the factories and machines in the city.\">Ipinapakita nito ang mga pabrika at makina sa lungsod.</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Challenge: Kung ang isang mag-aaral ay nais mag-aral ng kasaysayan ng sayaw na Tinikling, aling batayan ang primary source?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: If a student wants to study the history of Tinikling dance, which basis is the primary source?\">Challenge: Kung ang isang mag-aaral ay nais mag-aral ng kasaysayan ng sayaw na Tinikling, aling batayan ang primary source?</span>",
       "options": [
-        "isang video record ng mga katutubong sumasayaw noong 1930",
-        "isang modernong aklat sa MAPEH na isinulat nitong 2026",
-        "isang kwento ng kaibigan",
-        "isang encyclopedia"
+        "<span class=\"fil-sentence\" data-translation=\"a video record of folk dancing in the 1930s\">isang video record ng mga katutubong sumasayaw noong 1930</span>",
+        "<span class=\"fil-sentence\" data-translation=\"a modern MAPEH book written in 2026\">isang modernong aklat sa MAPEH na isinulat nitong 2026</span>",
+        "<span class=\"fil-sentence\" data-translation=\"a story of a friend\">isang kwento ng kaibigan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"an encyclopedia\">isang encyclopedia</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge: Bakit pinalalamutian ng kiping at gulay ang mga bahay sa Pahiyas sa halip na mga plastik na laruan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Why are houses in Pahiyas decorated with kiping and vegetables instead of plastic toys?\">Challenge: Bakit pinalalamutian ng kiping at gulay ang mga bahay sa Pahiyas sa halip na mga plastik na laruan?</span>",
       "options": [
-        "Dahil walang plastik na laruan sa Quezon.",
-        "Dahil ang kiping at gulay ay sumasagisag sa pasasalamat sa saganang ani ng agrikultura.",
-        "Dahil mas mura ang kiping kaysa sa laruan.",
-        "Dahil ang Mayor ang nag-utos nito."
+        "<span class=\"fil-sentence\" data-translation=\"Because there are no plastic toys in Quezon.\">Dahil walang plastik na laruan sa Quezon.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Because the kiping and vegetables symbolize gratitude for the abundant harvest of agriculture.\">Dahil ang kiping at gulay ay sumasagisag sa pasasalamat sa saganang ani ng agrikultura.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Because kiping is cheaper than a toy.\">Dahil mas mura ang kiping kaysa sa laruan.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Because the Mayor ordered it.\">Dahil ang Mayor ang nag-utos nito.</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Challenge: Aling pagkakasunod-sunod ng mga pagdiriwang sa taon ang tama batay sa kalendaryo?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Which order of the year&#x27;s festivals is correct based on the calendar?\">Challenge: Aling pagkakasunod-sunod ng mga pagdiriwang sa taon ang tama batay sa kalendaryo?</span>",
       "options": [
-        "Pista ng Pahiyas (Mayo 15) -> Pista ng Lechon (Hunyo 24) -> Pasko (Disyembre 25)",
-        "Pista ng Lechon (Hunyo 24) -> Pista ng Pahiyas (Mayo 15) -> Pasko (Disyembre 25)",
-        "Pasko (Disyembre 25) -> Pista ng Pahiyas (Mayo 15) -> Pista ng Lechon (Hunyo 24)",
-        "Pista ng Pahiyas (Mayo 15) -> Pasko (Disyembre 25) -> Pista ng Lechon (Hunyo 24)"
+        "<span class=\"fil-sentence\" data-translation=\"Jewel Festival (May 15) -&gt; Lechon Festival (June 24) -&gt; Christmas (December 25)\">Pista ng Pahiyas (Mayo 15) -> Pista ng Lechon (Hunyo 24) -> Pasko (Disyembre 25)</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Lechon Festival (June 24) -&gt; Jewelry Festival (May 15) -&gt; Christmas (December 25)\">Pista ng Lechon (Hunyo 24) -> Pista ng Pahiyas (Mayo 15) -> Pasko (Disyembre 25)</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Christmas (December 25) -&gt; Jewel Festival (May 15) -&gt; Lechon Festival (June 24)\">Pasko (Disyembre 25) -> Pista ng Pahiyas (Mayo 15) -> Pista ng Lechon (Hunyo 24)</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Jewelry Festival (May 15) -&gt; Christmas (December 25) -&gt; Lechon Festival (June 24)\">Pista ng Pahiyas (Mayo 15) -> Pasko (Disyembre 25) -> Pista ng Lechon (Hunyo 24)</span>"
       ],
       "answer": 0
     }

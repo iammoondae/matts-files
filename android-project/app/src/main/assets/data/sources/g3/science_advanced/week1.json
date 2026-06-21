@@ -1,0 +1,701 @@
+{
+  "color": "#10b981",
+  "icon": "🔬",
+  "title": "Science",
+  "subtitle": "Week 1: Science in Our Daily Life [Advanced]",
+  "slides": [
+    {
+      "title": "Advanced Scientific Inquiry (Advanced)",
+      "text": "Scientific inquiry is a systematic way of exploring the natural world.\nIt involves making observations, asking testable questions, and forming hypotheses.\nFor instance, consider the example of Hypothesis:\nAn educated guess that can be tested through experiments.\nAnother case is the study of Systematic:\nFollowing a step-by-step method to ensure results are reliable.\nHow does the concept of Advanced Scientific Inquiry help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Hypothesis",
+          "content": "An educated guess that can be tested through experiments."
+        },
+        {
+          "title": "Systematic",
+          "content": "Following a step-by-step method to ensure results are reliable."
+        }
+      ]
+    },
+    {
+      "title": "Quantitative vs. Qualitative (Advanced)",
+      "text": "Observations can be qualitative (describing qualities using senses) or quantitative (using numbers and measurements).\nThis slide introduces key insights about Quantitative vs. Qualitative.\nFor instance, consider the example of Qualitative:\nExample: 'The chemical solution smells sour and has a bright blue color.'\nAnother case is the study of Quantitative:\nExample: 'The plant grew 3.5 centimeters in five days.'\nHow does the concept of Quantitative vs. Qualitative help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Qualitative",
+          "content": "Example: 'The chemical solution smells sour and has a bright blue color.'"
+        },
+        {
+          "title": "Quantitative",
+          "content": "Example: 'The plant grew 3.5 centimeters in five days.'"
+        }
+      ]
+    },
+    {
+      "title": "The Scientific Method (Advanced)",
+      "text": "The scientific method is a tool used by scientists to study problems.\nIt begins with an observation and a question.\nFor instance, consider the example of Testable Question:\nA question that can be answered by doing an experiment, not just looking up facts.\nAnother case is the study of Variables:\nFactors in an experiment that can change, like temperature or water amount.\nHow does the concept of The Scientific Method help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Testable Question",
+          "content": "A question that can be answered by doing an experiment, not just looking up facts."
+        },
+        {
+          "title": "Variables",
+          "content": "Factors in an experiment that can change, like temperature or water amount."
+        }
+      ]
+    },
+    {
+      "title": "Atmospheric Science: Weather (Advanced)",
+      "text": "Weather is driven by temperature, air pressure, and moisture in the atmosphere.\nScience helps us forecast these shifts.\nFor instance, consider the example of Air Temperature:\nDetermines whether moisture falls as rain, snow, or hail.\nAnother case is the study of Evaporation Cycle:\nSolar energy turns surface water into vapor, fueling cloud formation.\nHow does the concept of Atmospheric Science: Weather help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Air Temperature",
+          "content": "Determines whether moisture falls as rain, snow, or hail."
+        },
+        {
+          "title": "Evaporation Cycle",
+          "content": "Solar energy turns surface water into vapor, fueling cloud formation."
+        }
+      ]
+    },
+    {
+      "title": "Botanical Adaptations (Advanced)",
+      "text": "Plants have specialized structures that help them survive in their local environment.\nThis slide introduces key insights about Botanical Adaptations.\nFor instance, consider the example of Photosynthesis:\nThe process by which plants use sunlight, carbon dioxide, and water to create chemical energy.\nAnother case is the study of Tropism:\nGrowth response towards an external stimulus, such as phototropism (light).\nHow does the concept of Botanical Adaptations help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Photosynthesis",
+          "content": "The process by which plants use sunlight, carbon dioxide, and water to create chemical energy."
+        },
+        {
+          "title": "Tropism",
+          "content": "Growth response towards an external stimulus, such as phototropism (light)."
+        }
+      ]
+    },
+    {
+      "title": "Zoological Classification (Advanced)",
+      "text": "Animals are classified by their physical structures, diets, and habitats.\nThis slide introduces key insights about Zoological Classification.\nFor instance, consider the example of Vertebrates:\nAnimals with backbones, like mammals, birds, reptiles, amphibians, and fish.\nAnother case is the study of Invertebrates:\nAnimals without backbones, like insects, spiders, and crabs.\nHow does the concept of Zoological Classification help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Vertebrates",
+          "content": "Animals with backbones, like mammals, birds, reptiles, amphibians, and fish."
+        },
+        {
+          "title": "Invertebrates",
+          "content": "Animals without backbones, like insects, spiders, and crabs."
+        }
+      ]
+    },
+    {
+      "title": "Thermodynamics: Heat Transfer (Advanced)",
+      "text": "Heat transfers from hotter objects to colder ones until they reach the same temperature.\nThis slide introduces key insights about Thermodynamics: Heat Transfer.\nFor instance, consider the example of Conduction:\nHeat transfer through direct touch, like a spoon heating up in hot soup.\nAnother case is the study of Convection:\nHeat transfer in liquids and gases as warm parts rise and cool parts sink.\nHow does the concept of Thermodynamics: Heat Transfer help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Conduction",
+          "content": "Heat transfer through direct touch, like a spoon heating up in hot soup."
+        },
+        {
+          "title": "Convection",
+          "content": "Heat transfer in liquids and gases as warm parts rise and cool parts sink."
+        }
+      ]
+    },
+    {
+      "title": "Optics: Light Refraction (Advanced)",
+      "text": "Light bends when it passes from one medium to another, such as from air into water.\nThis slide introduces key insights about Optics: Light Refraction.\nFor instance, consider the example of Refraction:\nBending of light waves which makes straws in water look broken.\nAnother case is the study of Lenses:\nCurved glass pieces that bend light to magnify objects.\nHow does the concept of Optics: Light Refraction help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Refraction",
+          "content": "Bending of light waves which makes straws in water look broken."
+        },
+        {
+          "title": "Lenses",
+          "content": "Curved glass pieces that bend light to magnify objects."
+        }
+      ]
+    },
+    {
+      "title": "Physics: Force and Friction (Advanced)",
+      "text": "Friction is a force that opposes motion when two surfaces rub against each other.\nThis slide introduces key insights about Physics: Force and Friction.\nFor instance, consider the example of Friction:\nRough surfaces create more friction, slowing moving objects down.\nAnother case is the study of Lubricants:\nOil or water reduces friction, allowing parts to slide smoothly.\nHow does the concept of Physics: Force and Friction help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Friction",
+          "content": "Rough surfaces create more friction, slowing moving objects down."
+        },
+        {
+          "title": "Lubricants",
+          "content": "Oil or water reduces friction, allowing parts to slide smoothly."
+        }
+      ]
+    },
+    {
+      "title": "Phase Changes of Matter (Advanced)",
+      "text": "Adding or removing heat energy causes matter to change its physical state.\nThis slide introduces key insights about Phase Changes of Matter.\nFor instance, consider the example of Sublimation:\nSolid turning directly into gas, like dry ice evaporating.\nAnother case is the study of Condensation:\nGas cooling down to turn into a liquid, like dew on grass.\nHow does the concept of Phase Changes of Matter help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Sublimation",
+          "content": "Solid turning directly into gas, like dry ice evaporating."
+        },
+        {
+          "title": "Condensation",
+          "content": "Gas cooling down to turn into a liquid, like dew on grass."
+        }
+      ]
+    },
+    {
+      "title": "Meteorology: Clouds & Rain (Advanced)",
+      "text": "Clouds are made of billions of tiny water droplets that condense around dust particles in the air.\nThis slide introduces key insights about Meteorology: Clouds & Rain.\nFor instance, consider the example of Precipitation:\nWhen droplets grow too heavy, gravity pulls them down as rain.\nAnother case is the study of Cloud Types:\nCumulus (fluffy), Stratus (flat layers), and Cirrus (wispy high clouds).\nHow does the concept of Meteorology: Clouds & Rain help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Precipitation",
+          "content": "When droplets grow too heavy, gravity pulls them down as rain."
+        },
+        {
+          "title": "Cloud Types",
+          "content": "Cumulus (fluffy), Stratus (flat layers), and Cirrus (wispy high clouds)."
+        }
+      ]
+    },
+    {
+      "title": "Aerodynamics: Air Resistance (Advanced)",
+      "text": "Air resistance is a type of friction that slows down objects moving through the air.\nThis slide introduces key insights about Aerodynamics: Air Resistance.\nFor instance, consider the example of Drag:\nFlat objects experience more drag because they push more air.\nAnother case is the study of Streamlining:\nShapes that cut through air easily, like airplanes or birds.\nHow does the concept of Aerodynamics: Air Resistance help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Drag",
+          "content": "Flat objects experience more drag because they push more air."
+        },
+        {
+          "title": "Streamlining",
+          "content": "Shapes that cut through air easily, like airplanes or birds."
+        }
+      ]
+    },
+    {
+      "title": "Pedology: Soil Composition (Advanced)",
+      "text": "Soil is a mixture of weathered rock, organic matter, water, and air.\nThis slide introduces key insights about Pedology: Soil Composition.\nFor instance, consider the example of Humus:\nDecayed plant and animal matter that provides nutrients for plants.\nAnother case is the study of Soil Horizons:\nLayers of soil: topsoil (rich in humus), subsoil, and bedrock.\nHow does the concept of Pedology: Soil Composition help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Humus",
+          "content": "Decayed plant and animal matter that provides nutrients for plants."
+        },
+        {
+          "title": "Soil Horizons",
+          "content": "Layers of soil: topsoil (rich in humus), subsoil, and bedrock."
+        }
+      ]
+    },
+    {
+      "title": "Astronomy: Earth's Rotation (Advanced)",
+      "text": "The Earth rotates counter-clockwise on its axis once every 24 hours.\nThis slide introduces key insights about Astronomy: Earth's Rotation.\nFor instance, consider the example of Apparent Motion:\nThe Sun appears to move across the sky because of Earth's spin.\nAnother case is the study of Time Zones:\nDifferent parts of Earth experience daylight at different times.\nHow does the concept of Astronomy: Earth's Rotation help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Apparent Motion",
+          "content": "The Sun appears to move across the sky because of Earth's spin."
+        },
+        {
+          "title": "Time Zones",
+          "content": "Different parts of Earth experience daylight at different times."
+        }
+      ]
+    },
+    {
+      "title": "Chemistry: Oxidation (Advanced)",
+      "text": "Rusting is a chemical reaction called oxidation, where iron combines with oxygen and moisture.\nThis slide introduces key insights about Chemistry: Oxidation.\nFor instance, consider the example of Iron Oxide:\nThe chemical name for rust, which ruins the strength of metal.\nAnother case is the study of Galvanization:\nCoating iron with zinc to prevent oxygen from reaching the metal.\nHow does the concept of Chemistry: Oxidation help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Iron Oxide",
+          "content": "The chemical name for rust, which ruins the strength of metal."
+        },
+        {
+          "title": "Galvanization",
+          "content": "Coating iron with zinc to prevent oxygen from reaching the metal."
+        }
+      ]
+    },
+    {
+      "title": "Microbiology: Pathogens (Advanced)",
+      "text": "Germs are microscopic pathogens (bacteria, viruses, fungi) that can cause infections.\nThis slide introduces key insights about Microbiology: Pathogens.\nFor instance, consider the example of Antiseptic:\nChemicals that kill or prevent the growth of microorganisms.\nAnother case is the study of Immune System:\nThe body's natural defense network that fights off pathogens.\nHow does the concept of Microbiology: Pathogens help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Antiseptic",
+          "content": "Chemicals that kill or prevent the growth of microorganisms."
+        },
+        {
+          "title": "Immune System",
+          "content": "The body's natural defense network that fights off pathogens."
+        }
+      ]
+    },
+    {
+      "title": "Biochemistry: Cellular Energy (Advanced)",
+      "text": "Cells break down glucose molecules to release energy in a process called respiration.\nThis slide introduces key insights about Biochemistry: Cellular Energy.\nFor instance, consider the example of Glucose:\nA simple sugar that serves as the primary energy source for cells.\nAnother case is the study of Metabolism:\nAll chemical reactions in a living organism that sustain life.\nHow does the concept of Biochemistry: Cellular Energy help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Glucose",
+          "content": "A simple sugar that serves as the primary energy source for cells."
+        },
+        {
+          "title": "Metabolism",
+          "content": "All chemical reactions in a living organism that sustain life."
+        }
+      ]
+    },
+    {
+      "title": "Acoustics: Sound Waves (Advanced)",
+      "text": "Sound travels as longitudinal waves through solids, liquids, and gases, but cannot travel through a vacuum.\nThis slide introduces key insights about Acoustics: Sound Waves.\nFor instance, consider the example of Medium:\nMaterial that sound waves travel through; sound travels fastest in solids.\nAnother case is the study of Frequency:\nThe number of vibrations per second, which determines the pitch.\nHow does the concept of Acoustics: Sound Waves help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Medium",
+          "content": "Material that sound waves travel through; sound travels fastest in solids."
+        },
+        {
+          "title": "Frequency",
+          "content": "The number of vibrations per second, which determines the pitch."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Hypothesizing (Advanced)",
+      "text": "Formulating a testable hypothesis based on an observation.\nThis slide introduces key insights about Guided Practice: Hypothesizing.\nFor instance, consider the example of Observation:\nIron nails in salty water rust faster than in tap water.\nAnother case is the study of Hypothesis:\nIf water contains salt, then iron will rust at a faster rate.\nHow does the concept of Guided Practice: Hypothesizing help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Observation",
+          "content": "Iron nails in salty water rust faster than in tap water."
+        },
+        {
+          "title": "Hypothesis",
+          "content": "If water contains salt, then iron will rust at a faster rate."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Variables (Advanced)",
+      "text": "Identifying independent, dependent, and controlled variables in an experiment.\nThis slide introduces key insights about Guided Practice: Variables.\nFor instance, consider the example of Independent Variable:\nThe factor you change (e.g., amount of sunlight).\nAnother case is the study of Dependent Variable:\nThe factor you measure (e.g., plant height).\nHow does the concept of Guided Practice: Variables help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Independent Variable",
+          "content": "The factor you change (e.g., amount of sunlight)."
+        },
+        {
+          "title": "Dependent Variable",
+          "content": "The factor you measure (e.g., plant height)."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: State Changes (Advanced)",
+      "text": "Analyzing thermodynamic state changes in materials.\nThis slide introduces key insights about Guided Practice: State Changes.\nFor instance, consider the example of Scenario:\nSolid candle wax melting into liquid when a wick is lit.\nAnother case is the study of Scientific Analysis:\nHeat increases molecule vibration, breaking solid bonds.\nHow does the concept of Guided Practice: State Changes help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Scenario",
+          "content": "Solid candle wax melting into liquid when a wick is lit."
+        },
+        {
+          "title": "Scientific Analysis",
+          "content": "Heat increases molecule vibration, breaking solid bonds."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Weather Prediction (Advanced)",
+      "text": "Analyzing meteorological data to predict weather patterns.\nThis slide introduces key insights about Guided Practice: Weather Prediction.\nFor instance, consider the example of Data:\nFalling air pressure, rising humidity, and dark clouds.\nAnother case is the study of Prediction:\nA rainstorm or low-pressure weather system is approaching.\nHow does the concept of Guided Practice: Weather Prediction help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Data",
+          "content": "Falling air pressure, rising humidity, and dark clouds."
+        },
+        {
+          "title": "Prediction",
+          "content": "A rainstorm or low-pressure weather system is approaching."
+        }
+      ]
+    },
+    {
+      "title": "Common Error: Non-testable Hypotheses (Advanced)",
+      "text": "Avoid forming statements that cannot be proven true or false through testing.\nThis slide introduces key insights about Common Error: Non-testable Hypotheses.\nFor instance, consider the example of Incorrect:\nHypothesis: 'Plants grow better when they are happy.'\nAnother case is the study of Correct:\nHypothesis: 'Plants grow taller when watered daily.'\nHow does the concept of Common Error: Non-testable Hypotheses help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Incorrect",
+          "content": "Hypothesis: 'Plants grow better when they are happy.'"
+        },
+        {
+          "title": "Correct",
+          "content": "Hypothesis: 'Plants grow taller when watered daily.'"
+        }
+      ]
+    },
+    {
+      "title": "Common Error: Concluding Too Early (Advanced)",
+      "text": "Do not draw scientific conclusions from a single trial.\nRepeat experiments for accuracy.\nFor instance, consider the example of Incorrect:\nTesting one seed and concluding that all seeds grow in three days.\nAnother case is the study of Correct:\nTesting twenty seeds and calculating the average germination rate.\nHow does the concept of Common Error: Concluding Too Early help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Incorrect",
+          "content": "Testing one seed and concluding that all seeds grow in three days."
+        },
+        {
+          "title": "Correct",
+          "content": "Testing twenty seeds and calculating the average germination rate."
+        }
+      ]
+    },
+    {
+      "title": "Summary of Week 1 Advanced (Advanced)",
+      "text": "You completed Week 1 Advanced! You are now ready to apply the scientific method systematically.\nThis slide introduces key insights about Summary of Week 1 Advanced.\nFor instance, consider the example of Key Takeaway:\nScientific inquiry requires precision, control, and testable questions.\nAnother case is the study of Next Step:\nAdvance to Week 2 to practice the art of scientific questioning.\nHow does the concept of Summary of Week 1 Advanced help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Key Takeaway",
+          "content": "Scientific inquiry requires precision, control, and testable questions."
+        },
+        {
+          "title": "Next Step",
+          "content": "Advance to Week 2 to practice the art of scientific questioning."
+        }
+      ]
+    }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "Which of the following is a quantitative observation?",
+      "options": [
+        "The liquid turned red.",
+        "The plant grew 5 centimeters.",
+        "The chemical smells bad.",
+        "The stone feels heavy."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What do we call a testable statement that predicts the outcome of an experiment?",
+      "options": [
+        "Observation",
+        "Hypothesis",
+        "Opinion",
+        "Conclusion"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which variable is measured by the scientist during an experiment?",
+      "options": [
+        "Independent variable",
+        "Dependent variable",
+        "Controlled variable",
+        "Constant variable"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Why does sound travel faster in solid steel than in air?",
+      "options": [
+        "Steel is colder than air.",
+        "Molecules in solids are packed tightly together.",
+        "Sound waves prefer metals.",
+        "Air blocks sound vibrations."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What is the chemical name for the compound formed during rusting?",
+      "options": [
+        "Iron oxide",
+        "Sodium chloride",
+        "Carbon dioxide",
+        "Copper sulfate"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "verify",
+      "q": "True or False: An experiment must have more than one independent variable to be fair.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What process is happening when water vapor cools down to form liquid droplets on a glass?",
+      "options": [
+        "Evaporation",
+        "Condensation",
+        "Sublimation",
+        "Melting"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What is the term for a plant's growth response towards light?",
+      "options": [
+        "Geotropism",
+        "Phototropism",
+        "Hydrotropism",
+        "Thigmotropism"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "In thermodynamics, what is heat transfer by direct contact called?",
+      "options": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "Insulation"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which type of soil contains a high concentration of decayed organic matter?",
+      "options": [
+        "Sand",
+        "Clay",
+        "Loam with humus",
+        "Silt"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Qualitative observations describe qualities using numbers and units.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What force opposes the forward motion of an airplane flying in the sky?",
+      "options": [
+        "Gravity",
+        "Air resistance (drag)",
+        "Thrust",
+        "Lift"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Why does oil reduce friction in machine parts?",
+      "options": [
+        "It makes them colder.",
+        "It creates a slippery barrier between surfaces.",
+        "It turns the metal into liquid.",
+        "It increases air resistance."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which cloud type is high, thin, and wispy, made of ice crystals?",
+      "options": [
+        "Cumulus",
+        "Stratus",
+        "Cirrus",
+        "Nimbus"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "How long does it take for the Earth to rotate once on its axis?",
+      "options": [
+        "12 hours",
+        "24 hours",
+        "30 days",
+        "365 days"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What chemical process keeps germs from multiplying on your skin when washing hands?",
+      "options": [
+        "Soap breaks down germ membranes.",
+        "Water turns into gas.",
+        "Germs freeze.",
+        "Skin absorbs the soap."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which variable must be kept the same in an experiment to make it a fair test?",
+      "options": [
+        "Independent variable",
+        "Dependent variable",
+        "Controlled variable",
+        "Changing variable"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "What state change occurs when dry ice turns directly into gas?",
+      "options": [
+        "Melting",
+        "Sublimation",
+        "Evaporation",
+        "Condensation"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: A sound wave can travel through outer space (a vacuum).",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What kind of heat transfer causes warm air to rise and cool air to sink?",
+      "options": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "Conjugation"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following is a testable question?",
+      "options": [
+        "Are red roses beautiful?",
+        "Does watering plants with milk affect their growth rate?",
+        "Why is science the best subject?",
+        "Do plants look nice in the garden?"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What splits light in a rainbow into its component colors?",
+      "options": [
+        "Reflection",
+        "Refraction",
+        "Absorption",
+        "Transmission"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Replicating an experiment multiple times reduces the effect of errors.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What organic component of soil provides essential nutrients to plants?",
+      "options": [
+        "Sand",
+        "Humus",
+        "Clay",
+        "Rock particles"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following describes the dependent variable in a plant growth experiment?",
+      "options": [
+        "The amount of fertilizer added",
+        "The height of the plant measured",
+        "The type of plant used",
+        "The amount of water given"
+      ],
+      "answer": 1
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "Design a test: You want to find out if fertilizer brand A makes plants grow faster than brand B. What is the independent variable?",
+      "options": [
+        "The height of the plants",
+        "The brand of fertilizer used",
+        "The amount of water given",
+        "The type of soil used"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "If you heat water in a sealed container, what phase change will happen first, and what will happen next?",
+      "options": [
+        "Evaporation followed by condensation on the lid",
+        "Freezing followed by melting",
+        "Sublimation followed by deposition",
+        "Condensation followed by evaporation"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "A scientist wants to study the effect of temperature on the rusting of iron. Which variable should be controlled?",
+      "options": [
+        "The temperature of the environment",
+        "The level of humidity and type of iron nail",
+        "The amount of rust formed",
+        "The duration of the experiment only"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Why does a metal spoon feel much colder than a wooden spoon when both are left in a cold refrigerator?",
+      "options": [
+        "Metal produces cold energy.",
+        "Metal is a better conductor of heat, absorbing heat from your hand faster.",
+        "Wood is a cold insulator.",
+        "Metal is heavier than wood."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which statement represents a hypothesis rather than an observation?",
+      "options": [
+        "The liquid turned yellow when mixed.",
+        "If we increase the water temperature, the sugar will dissolve faster.",
+        "The beaker felt warm to the touch.",
+        "The experiment took 15 minutes to complete."
+      ],
+      "answer": 1
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Scientific Variable & Hypothesis Designer",
+    "desc": "Identify a question you want to test at home (e.g., 'Do wet paper towels dry faster inside or outside?'). Write down a formal hypothesis using 'If... then...', identify the Independent, Dependent, and Controlled variables, and draw a diagram showing how you would set up this fair test.",
+    "labels": [
+      "Wrote a clear, testable hypothesis in the correct format",
+      "Correctly identified all three types of variables (Independent, Dependent, Controlled)",
+      "Drew a detailed, labeled diagram of the experimental setup"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Qualitative vs. Quantitative</h3>\n                  <p class=\"ws-instruction\">Classify each statement below as either a <strong>Qualitative Observation</strong> or a <strong>Quantitative Observation</strong>.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. The liquid turned cloudy green and emitted a sweet scent.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Qualitative Observation</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. The temperature of the mixture rose by 12 degrees Celsius.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Quantitative Observation</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. The leaf width is 45 millimeters and its weight is 1.5 grams.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Quantitative Observation</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Experimental Variables</h3>\n                  <p class=\"ws-instruction\">Identify the variables in the following experiment description: <em>Testing if the amount of water given to tomato plants affects the number of tomatoes they produce.</em></p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the <strong>Independent Variable</strong> (the factor you change)?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"><span class=\"ws-answer\">The amount of water given to the plants</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. What is the <strong>Dependent Variable</strong> (the factor you measure)?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"><span class=\"ws-answer\">The number of tomatoes produced</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. List one <strong>Controlled Variable</strong> (factors kept the same):</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"><span class=\"ws-answer\">The type of soil, type of plant, or amount of sunlight</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Advanced Hypothesis Writing</h3>\n                  <p class=\"ws-instruction\">Write a testable hypothesis for the given scientific question using the 'If... then...' format.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Question: Does salt affect the boiling point of water?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">If we add salt to water, then the water will boil at a higher temperature.</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">This is because dissolved salt changes the physical properties of the liquid.</span></div>\n                  </div>\n                </div>"
+    ]
+  }
+}

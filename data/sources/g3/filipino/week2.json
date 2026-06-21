@@ -258,151 +258,151 @@
   "standard": [
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang pangngalang pantangi sa tao?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is a personal noun?\">Alin sa mga sumusunod ang pangngalang pantangi sa tao?</span>",
       "options": [
-        "guro",
-        "doktor",
-        "Gng. Santos",
-        "nanay"
+        "<span class=\"fil-sentence\" data-translation=\"teacher\">guro</span>",
+        "<span class=\"fil-sentence\" data-translation=\"doctor\">doktor</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Mrs. saint\">Gng. Santos</span>",
+        "<span class=\"fil-sentence\" data-translation=\"mother\">nanay</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang pangngalang pambalana sa bagay?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is an object noun?\">Alin sa mga sumusunod ang pangngalang pambalana sa bagay?</span>",
       "options": [
         "Nike",
-        "sapatos",
+        "<span class=\"fil-sentence\" data-translation=\"shoes\">sapatos</span>",
         "Toyota",
-        "Mongol"
+        "<span class=\"fil-sentence\" data-translation=\"Mongolian\">Mongol</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang tiyak na ngalan (pantangi) ng hayop?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the specific name (proper) of the animal?\">Ano ang tiyak na ngalan (pantangi) ng hayop?</span>",
       "options": [
-        "pusa",
-        "aso",
-        "Bantay",
-        "kalabaw"
+        "<span class=\"fil-sentence\" data-translation=\"cat\">pusa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"dog\">aso</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Guard\">Bantay</span>",
+        "<span class=\"fil-sentence\" data-translation=\"buffalo\">kalabaw</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang pangkalahatang ngalan (pambalana) ng pangyayari?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the general name (fatal) of the event?\">Alin sa mga sumusunod ang pangkalahatang ngalan (pambalana) ng pangyayari?</span>",
       "options": [
-        "Pasko",
-        "kaarawan",
-        "Bagong Taon",
-        "Araw ng Kalayaan"
+        "<span class=\"fil-sentence\" data-translation=\"Christmas\">Pasko</span>",
+        "<span class=\"fil-sentence\" data-translation=\"birthday\">kaarawan</span>",
+        "<span class=\"fil-sentence\" data-translation=\"New Year\">Bagong Taon</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Independence Day\">Araw ng Kalayaan</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Tukuyin ang pantangi sa tao sa pangungusap: 'Si Matteo ay nag-aaral ng leksyon.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the person singular in the sentence: &#x27;Matteo is studying the lesson.&#x27;\">Tukuyin ang pantangi sa tao sa pangungusap: 'Si Matteo ay nag-aaral ng leksyon.'</span>",
       "options": [
-        "nag-aaral",
+        "<span class=\"fil-sentence\" data-translation=\"studying\">nag-aaral</span>",
         "Matteo",
-        "leksyon",
-        "Si"
+        "<span class=\"fil-sentence\" data-translation=\"lesson\">leksyon</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Mr\">Si</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang pambalana ng 'Mongol'?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the fate of the &#x27;Mongol&#x27;?\">Ano ang pambalana ng 'Mongol'?</span>",
       "options": [
-        "sapatos",
-        "lapis",
-        "papel",
-        "gatas"
+        "<span class=\"fil-sentence\" data-translation=\"shoes\">sapatos</span>",
+        "<span class=\"fil-sentence\" data-translation=\"pencil\">lapis</span>",
+        "<span class=\"fil-sentence\" data-translation=\"paper\">papel</span>",
+        "<span class=\"fil-sentence\" data-translation=\"milk\">gatas</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang pantangi ng 'pusa'?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is special about &#x27;cat&#x27;?\">Ano ang pantangi ng 'pusa'?</span>",
       "options": [
-        "aso",
-        "ibon",
+        "<span class=\"fil-sentence\" data-translation=\"dog\">aso</span>",
+        "<span class=\"fil-sentence\" data-translation=\"bird\">ibon</span>",
         "Muning",
-        "hayop"
+        "<span class=\"fil-sentence\" data-translation=\"animal\">hayop</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Paano isinusulat ang tatak ng isang bagay tulad ng 'Toyota'?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"How do you spell the brand name of something like &#x27;Toyota&#x27;?\">Paano isinusulat ang tatak ng isang bagay tulad ng 'Toyota'?</span>",
       "options": [
-        "Maliit na titik",
-        "Malaking titik sa simula",
-        "Lahat ay malalaking titik",
-        "Lahat ay maliliit na titik"
+        "<span class=\"fil-sentence\" data-translation=\"small letter\">Maliit na titik</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Capital letters at the beginning\">Malaking titik sa simula</span>",
+        "<span class=\"fil-sentence\" data-translation=\"All capital letters\">Lahat ay malalaking titik</span>",
+        "<span class=\"fil-sentence\" data-translation=\"All lowercase letters\">Lahat ay maliliit na titik</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Tukuyin ang pambalana sa tao: 'Ang bumbero ay tumulong sa pamilya.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the plight of the person: &#x27;The fireman helped the family.&#x27;\">Tukuyin ang pambalana sa tao: 'Ang bumbero ay tumulong sa pamilya.'</span>",
       "options": [
-        "bumbero",
-        "tumulong",
-        "pamilya",
-        "Ang"
+        "<span class=\"fil-sentence\" data-translation=\"fireman\">bumbero</span>",
+        "<span class=\"fil-sentence\" data-translation=\"help\">tumulong</span>",
+        "<span class=\"fil-sentence\" data-translation=\"family\">pamilya</span>",
+        "<span class=\"fil-sentence\" data-translation=\"The\">Ang</span>"
       ],
       "answer": 0
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang salitang 'sapatos' ay isang pangngalang pantangi.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: The word &#x27;shoe&#x27; is a proper noun.\">Tama o Mali: Ang salitang 'sapatos' ay isang pangngalang pantangi.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Aling okasyon ang isang pangngalang pantangi sa pangyayari?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which occasion is an event proper noun?\">Aling okasyon ang isang pangngalang pantangi sa pangyayari?</span>",
       "options": [
-        "kasal",
-        "pista",
-        "Bagong Taon",
-        "binyag"
+        "<span class=\"fil-sentence\" data-translation=\"marriage\">kasal</span>",
+        "<span class=\"fil-sentence\" data-translation=\"festival\">pista</span>",
+        "<span class=\"fil-sentence\" data-translation=\"New Year\">Bagong Taon</span>",
+        "<span class=\"fil-sentence\" data-translation=\"baptism\">binyag</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Tukuyin ang pantangi sa bagay sa pangungusap: 'Bumili si nanay ng bagong gatas na Bear Brand.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Identify the object clause in the sentence: &#x27;Mom bought the new Bear Brand milk.&#x27;\">Tukuyin ang pantangi sa bagay sa pangungusap: 'Bumili si nanay ng bagong gatas na Bear Brand.'</span>",
       "options": [
-        "gatas",
-        "nanay",
+        "<span class=\"fil-sentence\" data-translation=\"milk\">gatas</span>",
+        "<span class=\"fil-sentence\" data-translation=\"mother\">nanay</span>",
         "Bear Brand",
-        "bagong"
+        "<span class=\"fil-sentence\" data-translation=\"new\">bagong</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Ano ang pambalana ng 'Dr. Jose Rizal'?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is the fate of &#x27;Dr. Jose Rizal&#x27;?\">Ano ang pambalana ng 'Dr. Jose Rizal'?</span>",
       "options": [
-        "doktor",
-        "bayani",
-        "guro",
-        "pulis"
+        "<span class=\"fil-sentence\" data-translation=\"doctor\">doktor</span>",
+        "<span class=\"fil-sentence\" data-translation=\"hero\">bayani</span>",
+        "<span class=\"fil-sentence\" data-translation=\"teacher\">guro</span>",
+        "<span class=\"fil-sentence\" data-translation=\"police\">pulis</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang pambalana sa hayop na nagbibigay ng gatas?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the fate of the animal that gives milk?\">Alin sa mga sumusunod ang pambalana sa hayop na nagbibigay ng gatas?</span>",
       "options": [
-        "Bantay",
-        "kalabaw",
+        "<span class=\"fil-sentence\" data-translation=\"Guard\">Bantay</span>",
+        "<span class=\"fil-sentence\" data-translation=\"buffalo\">kalabaw</span>",
         "Muning",
         "Tweetie"
       ],
@@ -410,118 +410,118 @@
     },
     {
       "type": "choice",
-      "q": "Ano ang pantangi ng 'bagay'?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What is special about &#x27;thing&#x27;?\">Ano ang pantangi ng 'bagay'?</span>",
       "options": [
-        "sapatos",
-        "kotse",
+        "<span class=\"fil-sentence\" data-translation=\"shoes\">sapatos</span>",
+        "<span class=\"fil-sentence\" data-translation=\"car\">kotse</span>",
         "Lego",
-        "manika"
+        "<span class=\"fil-sentence\" data-translation=\"doll\">manika</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Tukuyin ang pambalana sa bagay: 'Naglalaro ang bata gamit ang kanyang pulang bola.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Determine the predicate in the object: &#x27;The boy is playing with his red ball.&#x27;\">Tukuyin ang pambalana sa bagay: 'Naglalaro ang bata gamit ang kanyang pulang bola.'</span>",
       "options": [
-        "bata",
-        "pulang",
-        "bola",
-        "gamit"
+        "<span class=\"fil-sentence\" data-translation=\"child\">bata</span>",
+        "<span class=\"fil-sentence\" data-translation=\"red\">pulang</span>",
+        "<span class=\"fil-sentence\" data-translation=\"ball\">bola</span>",
+        "<span class=\"fil-sentence\" data-translation=\"use\">gamit</span>"
       ],
       "answer": 2
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang 'Pasko' ay isinusulat gamit ang maliit na titik p.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: &#x27;Christmas&#x27; is written with a lowercase p.\">Tama o Mali: Ang 'Pasko' ay isinusulat gamit ang maliit na titik p.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang pambalana sa tao na nag-aalaga ng ngipin?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the prognosis for the person who takes care of the teeth?\">Alin sa mga sumusunod ang pambalana sa tao na nag-aalaga ng ngipin?</span>",
       "options": [
-        "doktor",
-        "dentista",
-        "guro",
-        "pulis"
+        "<span class=\"fil-sentence\" data-translation=\"doctor\">doktor</span>",
+        "<span class=\"fil-sentence\" data-translation=\"dentist\">dentista</span>",
+        "<span class=\"fil-sentence\" data-translation=\"teacher\">guro</span>",
+        "<span class=\"fil-sentence\" data-translation=\"police\">pulis</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Aling salita ang may pagkakamali sa pagkakagamit ng malaking titik sa pangungusap: 'May alagang Pusa si Kiko.'?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which word has a capitalization error in the sentence: &#x27;Kiko has a cat.&#x27;?\">Aling salita ang may pagkakamali sa pagkakagamit ng malaking titik sa pangungusap: 'May alagang Pusa si Kiko.'?</span>",
       "options": [
         "May",
-        "Pusa",
+        "<span class=\"fil-sentence\" data-translation=\"cat\">Pusa</span>",
         "Kiko",
-        "alagang"
+        "<span class=\"fil-sentence\" data-translation=\"pet\">alagang</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Ano ang tinutukoy ng pangngalang hayop?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"What does the noun animal refer to?\">Ano ang tinutukoy ng pangngalang hayop?</span>",
       "options": [
-        "ngalan ng tao",
-        "ngalan ng lugar",
-        "ngalan ng hayop",
-        "ngalan ng okasyon"
+        "<span class=\"fil-sentence\" data-translation=\"person&#x27;s name\">ngalan ng tao</span>",
+        "<span class=\"fil-sentence\" data-translation=\"place name\">ngalan ng lugar</span>",
+        "<span class=\"fil-sentence\" data-translation=\"animal name\">ngalan ng hayop</span>",
+        "<span class=\"fil-sentence\" data-translation=\"on behalf of the occasion\">ngalan ng okasyon</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Alin ang pantangi ng 'kaarawan'?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which one is special about &#x27;birthday&#x27;?\">Alin ang pantangi ng 'kaarawan'?</span>",
       "options": [
-        "Pasko",
-        "okasyon",
-        "pista",
-        "kaarawan ni Matteo"
+        "<span class=\"fil-sentence\" data-translation=\"Christmas\">Pasko</span>",
+        "<span class=\"fil-sentence\" data-translation=\"occasion\">okasyon</span>",
+        "<span class=\"fil-sentence\" data-translation=\"festival\">pista</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Matteo&#x27;s birthday\">kaarawan ni Matteo</span>"
       ],
       "answer": 3
     },
     {
       "type": "choice",
-      "q": "Tukuyin ang pambalana sa hayop: 'Lumipad ang ibon sa sanga ng puno.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Determine the fate of the animal: &#x27;The bird flew to the branch of the tree.&#x27;\">Tukuyin ang pambalana sa hayop: 'Lumipad ang ibon sa sanga ng puno.'</span>",
       "options": [
-        "ibon",
-        "sanga",
-        "puno",
-        "Lumipad"
+        "<span class=\"fil-sentence\" data-translation=\"bird\">ibon</span>",
+        "<span class=\"fil-sentence\" data-translation=\"branch\">sanga</span>",
+        "<span class=\"fil-sentence\" data-translation=\"full\">puno</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Fly away\">Lumipad</span>"
       ],
       "answer": 0
     },
     {
       "type": "verify",
-      "q": "Tama o Mali: Ang 'Mongol' ay isang pangngalang pantangi dahil ito ay tiyak na tatak ng lapis.",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: &#x27;Mongol&#x27; is a proper noun because it is a specific brand of pencil.\">Tama o Mali: Ang 'Mongol' ay isang pangngalang pantangi dahil ito ay tiyak na tatak ng lapis.</span>",
       "options": [
-        "Tama",
-        "Mali"
+        "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
+        "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Alin sa mga sumusunod ang pambalana sa tao na nagtatanggol sa bayan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the fate of the person who defends the town?\">Alin sa mga sumusunod ang pambalana sa tao na nagtatanggol sa bayan?</span>",
       "options": [
-        "guro",
-        "sundalo",
-        "doktor",
-        "dentista"
+        "<span class=\"fil-sentence\" data-translation=\"teacher\">guro</span>",
+        "<span class=\"fil-sentence\" data-translation=\"soldier\">sundalo</span>",
+        "<span class=\"fil-sentence\" data-translation=\"doctor\">doktor</span>",
+        "<span class=\"fil-sentence\" data-translation=\"dentist\">dentista</span>"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Saan dapat magsimula ang pagsulat ng pangalan ng iyong alagang aso?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Where should you start writing your pet dog&#x27;s name?\">Saan dapat magsimula ang pagsulat ng pangalan ng iyong alagang aso?</span>",
       "options": [
-        "maliit na titik",
-        "gitnang titik",
-        "malaking titik",
-        "huling titik"
+        "<span class=\"fil-sentence\" data-translation=\"small letter\">maliit na titik</span>",
+        "<span class=\"fil-sentence\" data-translation=\"middle letter\">gitnang titik</span>",
+        "<span class=\"fil-sentence\" data-translation=\"capital letter\">malaking titik</span>",
+        "<span class=\"fil-sentence\" data-translation=\"last letter\">huling titik</span>"
       ],
       "answer": 2
     }
@@ -529,18 +529,18 @@
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge: Aling pangungusap ang naglalaman ng parehong pantangi sa tao at pantangi sa bagay?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Which sentence contains both the personal pronoun and the object pronoun?\">Challenge: Aling pangungusap ang naglalaman ng parehong pantangi sa tao at pantangi sa bagay?</span>",
       "options": [
-        "Bumili si Matteo ng bagong sapatos na Nike.",
-        "Naglalaro ang aso sa malawak na kalsada.",
-        "Si Gng. Santos ay nagtuturo sa silid-aralan.",
-        "Masaya si Muning habang kumakain ng isda."
+        "<span class=\"fil-sentence\" data-translation=\"Matteo bought new Nike shoes.\">Bumili si Matteo ng bagong sapatos na Nike.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"The dog is playing on the wide road.\">Naglalaro ang aso sa malawak na kalsada.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Mrs. Santos teaches in the classroom.\">Si Gng. Santos ay nagtuturo sa silid-aralan.</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Muning was happy while eating fish.\">Masaya si Muning habang kumakain ng isda.</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge: Alin sa mga sumusunod ang may wastong pagsulat ng lahat ng pantangi?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Which of the following has all the adjectives correctly written?\">Challenge: Alin sa mga sumusunod ang may wastong pagsulat ng lahat ng pantangi?</span>",
       "options": [
         "dr. Rizal, Bear brand, Muning",
         "Dr. Rizal, Bear Brand, Muning",
@@ -551,34 +551,34 @@
     },
     {
       "type": "choice",
-      "q": "Challenge: Kung ang 'laruan' ay pambalana, alin ang maaaring maging katapat nitong pantangi?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: If the &#x27;toy&#x27; is fate, which can be its counterpart?\">Challenge: Kung ang 'laruan' ay pambalana, alin ang maaaring maging katapat nitong pantangi?</span>",
       "options": [
         "Lego",
-        "bola",
-        "manika",
-        "krayola"
+        "<span class=\"fil-sentence\" data-translation=\"ball\">bola</span>",
+        "<span class=\"fil-sentence\" data-translation=\"doll\">manika</span>",
+        "<span class=\"fil-sentence\" data-translation=\"crayon\">krayola</span>"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge: Tukuyin kung gaano karaming pangngalan ang nasa kategorya ng bagay at tao sa pangungusap: 'Binigyan ng guro ang bata ng bagong lapis.'",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Determine how many nouns are in the object and person categories in the sentence: &#x27;The teacher gave the boy a new pencil.&#x27;\">Challenge: Tukuyin kung gaano karaming pangngalan ang nasa kategorya ng bagay at tao sa pangungusap: 'Binigyan ng guro ang bata ng bagong lapis.'</span>",
       "options": [
-        "isa",
-        "dalawa",
-        "tatlo",
-        "apat"
+        "<span class=\"fil-sentence\" data-translation=\"one\">isa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"two\">dalawa</span>",
+        "<span class=\"fil-sentence\" data-translation=\"three\">tatlo</span>",
+        "<span class=\"fil-sentence\" data-translation=\"four\">apat</span>"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "Challenge: Suriin ang pahayag: 'Ipinagdiwang ang Pasko sa buong komunidad.' Ano ang kategorya ng 'Pasko' sa pangngalan?",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: Analyze the statement: &#x27;Christmas was celebrated throughout the community.&#x27; What is the category of &#x27;Christmas&#x27; in the noun?\">Challenge: Suriin ang pahayag: 'Ipinagdiwang ang Pasko sa buong komunidad.' Ano ang kategorya ng 'Pasko' sa pangngalan?</span>",
       "options": [
-        "Pantangi sa tao",
-        "Pambalana sa pangyayari",
-        "Pantangi sa pangyayari",
-        "Pambalana sa pook"
+        "<span class=\"fil-sentence\" data-translation=\"Unique to humans\">Pantangi sa tao</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Fateful in the event\">Pambalana sa pangyayari</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Unique to the event\">Pantangi sa pangyayari</span>",
+        "<span class=\"fil-sentence\" data-translation=\"Strategically located\">Pambalana sa pook</span>"
       ],
       "answer": 2
     }

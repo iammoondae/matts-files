@@ -1,0 +1,469 @@
+{
+  "color": "#3b82f6",
+  "icon": "🔢",
+  "title": "Mathematics",
+  "subtitle": "Week 3: Parallel, Perpendicular, & Intersecting Lines [Advanced]",
+  "slides": [
+    {
+      "title": "Introduction to Lines in Geometry (Advanced)",
+      "text": "In geometry, a line is a straight path that extends infinitely in both directions without ending.\nWe represent lines with arrows on both ends.\nToday, we will study how lines relate to each other when they are on the same flat surface.\nFor instance, consider the example of Line vs Line Segment:\nA line segment has two fixed endpoints (like a ruler's edge), while a line extends forever in both directions.\nAnother case is the study of Naming Lines:\nWe name a line using two points on it, like line AB, or with a single lowercase letter, like line l.\nHow does the concept of Introduction to Lines in Geometry (Advanced) help us think critically?",
+      "examples": [
+        {
+          "title": "Line vs Line Segment",
+          "content": "A line segment has two fixed endpoints (like a ruler's edge), while a line extends forever in both directions."
+        },
+        {
+          "title": "Naming Lines",
+          "content": "We name a line using two points on it, like line AB, or with a single lowercase letter, like line l."
+        }
+      ]
+    },
+    {
+      "title": "What are Parallel Lines? (Advanced)",
+      "text": "Parallel lines are lines on the same flat surface that are always the same distance apart (equidistant) and never meet or cross each other, no matter how far they extend.\nThis slide introduces key insights about What are Parallel Lines? (Advanced).\nFor instance, consider the example of Railway Tracks:\nThe two rails of a straight train track are parallel. They must never cross, or the train would derail.\nAnother case is the study of Lined Paper:\nThe horizontal blue lines on your writing notebook are parallel lines.\nHow does the concept of What are Parallel Lines? (Advanced) help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Railway Tracks",
+          "content": "The two rails of a straight train track are parallel. They must never cross, or the train would derail."
+        },
+        {
+          "title": "Lined Paper",
+          "content": "The horizontal blue lines on your writing notebook are parallel lines."
+        }
+      ]
+    },
+    {
+      "title": "Identifying Parallel Lines (Advanced)",
+      "text": "We use the symbol || to show that two lines are parallel.\nFor example, if line AB is parallel to line CD, we write AB || CD.\nThey will never intersect.\nFor instance, consider the example of Opposite Edges:\nThe top and bottom edges of a rectangular blackboard or tablet screen are parallel.\nAnother case is the study of Window Grids:\nVertical bars in a window grid are parallel to each other to form a protective cage.\nHow does the concept of Identifying Parallel Lines (Advanced) help us think critically?",
+      "examples": [
+        {
+          "title": "Opposite Edges",
+          "content": "The top and bottom edges of a rectangular blackboard or tablet screen are parallel."
+        },
+        {
+          "title": "Window Grids",
+          "content": "Vertical bars in a window grid are parallel to each other to form a protective cage."
+        }
+      ]
+    },
+    {
+      "title": "What are Intersecting Lines? (Advanced)",
+      "text": "Intersecting lines are lines that cross each other at exactly one point.\nThe point where they cross is called the point of intersection.\nWhen they cross, they form angles.\nFor instance, consider the example of Crossroads:\nA street intersection where two roads cross each other represents intersecting lines.\nAnother case is the study of Opened Scissors:\nThe two blades of an opened pair of scissors form intersecting lines crossing at the central pivot screw.\nHow does the concept of What are Intersecting Lines? (Advanced) help us think critically?",
+      "examples": [
+        {
+          "title": "Crossroads",
+          "content": "A street intersection where two roads cross each other represents intersecting lines."
+        },
+        {
+          "title": "Opened Scissors",
+          "content": "The two blades of an opened pair of scissors form intersecting lines crossing at the central pivot screw."
+        }
+      ]
+    },
+    {
+      "title": "What are Perpendicular Lines? (Advanced)",
+      "text": "Perpendicular lines are a special type of intersecting lines that cross each other to form exactly four right angles (90 degrees).\nThe symbol for perpendicular is ⊥.\nFor instance, consider the example of Perfect Cross:\nA plus sign (+) or a letter 'T' forms perpendicular lines. The angles formed are exactly 90°.\nAnother case is the study of Wall and Floor:\nA vertical wall meets the flat floor perpendicularly to ensure the building is stable.\nHow does the concept of What are Perpendicular Lines? (Advanced) help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Perfect Cross",
+          "content": "A plus sign (+) or a letter 'T' forms perpendicular lines. The angles formed are exactly 90°."
+        },
+        {
+          "title": "Wall and Floor",
+          "content": "A vertical wall meets the flat floor perpendicularly to ensure the building is stable."
+        }
+      ]
+    },
+    {
+      "title": "Identifying Perpendicular Lines (Advanced)",
+      "text": "If line AB is perpendicular to line CD, we write AB ⊥ CD.\nYou can verify this by placing a protractor or the corner of a sheet of paper at the intersection to see if it fits perfectly.\nFor instance, consider the example of Corner Check:\nThe corner of your textbook is formed by two perpendicular lines meeting at a 90° angle.\nAnother case is the study of Crossroad Corners:\nA grid-style street layout has roads intersecting perpendicularly, creating 90-degree corners.\nHow does the concept of Identifying Perpendicular Lines (Advanced) help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Corner Check",
+          "content": "The corner of your textbook is formed by two perpendicular lines meeting at a 90° angle."
+        },
+        {
+          "title": "Crossroad Corners",
+          "content": "A grid-style street layout has roads intersecting perpendicularly, creating 90-degree corners."
+        }
+      ]
+    },
+    {
+      "title": "Lines in the Real World (Advanced)",
+      "text": "Architects, engineers, and designers use parallel, perpendicular, and intersecting lines to create houses, bridges, and beautiful artworks.\nLook around and find these lines!.\nFor instance, consider the example of Eiffel Tower:\nThe Eiffel Tower contains intersecting support beams and parallel vertical columns.\nAnother case is the study of Bridges:\nSuspension bridges use parallel vertical cables and perpendicular steel trusses.\nHow does the concept of Lines in the Real World (Advanced) help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Eiffel Tower",
+          "content": "The Eiffel Tower contains intersecting support beams and parallel vertical columns."
+        },
+        {
+          "title": "Bridges",
+          "content": "Suspension bridges use parallel vertical cables and perpendicular steel trusses."
+        }
+      ]
+    },
+    {
+      "title": "Drawing Geometric Lines (Advanced)",
+      "text": "To draw parallel or perpendicular lines, we use a ruler (straightedge) and a set square (triangle ruler).\nA set square helps us align a perfect 90-degree angle.\nFor instance, consider the example of Drawing Parallel Lines:\nSlide a ruler along a fixed edge to draw two lines that maintain the same distance.\nAnother case is the study of Drawing Perpendiculars:\nPlace the 90° corner of a set square against a line, then draw along the vertical edge.\nHow does the concept of Drawing Geometric Lines (Advanced) help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Drawing Parallel Lines",
+          "content": "Slide a ruler along a fixed edge to draw two lines that maintain the same distance."
+        },
+        {
+          "title": "Drawing Perpendiculars",
+          "content": "Place the 90° corner of a set square against a line, then draw along the vertical edge."
+        }
+      ]
+    },
+    {
+      "title": "Summary: Geometric Lines (Advanced)",
+      "text": "Superb! You have mastered lines in geometry: Parallel lines (||, never meet), Intersecting lines (cross at a point), and Perpendicular lines (⊥, cross at exactly 90 degrees).\nThese concepts are the foundation of shape study and drafting.\nFor instance, consider the example of Key Symbols:\n|| means Parallel. ⊥ means Perpendicular. Vertex: Intersection point.\nAnother case is the study of Daily Practice:\nScan your room today: count 5 parallel lines and 5 perpendicular lines in your furniture!\nHow does the concept of Summary: Geometric Lines (Advanced) help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "examples": [
+        {
+          "title": "Key Symbols",
+          "content": "|| means Parallel. ⊥ means Perpendicular. Vertex: Intersection point."
+        },
+        {
+          "title": "Daily Practice",
+          "content": "Scan your room today: count 5 parallel lines and 5 perpendicular lines in your furniture!"
+        }
+      ]
+    }
+  ],
+  "standard": [
+    {
+      "type": "choice",
+      "q": "What are parallel lines?",
+      "options": [
+        "Lines that cross at exactly 90 degrees.",
+        "Lines that will never meet or cross.",
+        "Lines that curve.",
+        "Lines that form a circle."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which symbol represents that two lines are parallel?",
+      "options": [
+        "⊥",
+        "+",
+        "||",
+        "="
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "What are perpendicular lines?",
+      "options": [
+        "Lines that never meet.",
+        "Lines that cross to form exactly 90-degree angles.",
+        "Lines that are curved.",
+        "Lines that go in opposite directions."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which symbol represents that two lines are perpendicular?",
+      "options": [
+        "||",
+        "⊥",
+        ">",
+        "<"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What is the point where two intersecting lines cross called?",
+      "options": [
+        "Vertex or Point of Intersection",
+        "Parallel point",
+        "Line segment",
+        "Degree"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following is a real-world example of parallel lines?",
+      "options": [
+        "A letter 'X'",
+        "A plus sign",
+        "Lined writing paper",
+        "A street corner"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following represents perpendicular lines?",
+      "options": [
+        "The rails of a train track",
+        "The opposite sides of a book",
+        "A letter 'T'",
+        "The hands of a clock showing 12:20"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "If two lines cross each other at a 45-degree angle, they are:",
+      "options": [
+        "Parallel",
+        "Perpendicular",
+        "Intersecting but not perpendicular",
+        "Not lines"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "How many degrees are in the angles formed by perpendicular lines?",
+      "options": [
+        "45°",
+        "90°",
+        "180°",
+        "360°"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "If line L1 || L2, and L1 is extended by 10 meters, will they cross?",
+      "options": [
+        "Yes, they will meet.",
+        "No, they will never cross.",
+        "They will merge into one.",
+        "Only if L2 is also extended."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which capital letter has parallel lines?",
+      "options": [
+        "T",
+        "X",
+        "H",
+        "V"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Which capital letter has perpendicular lines but no parallel lines?",
+      "options": [
+        "H",
+        "L",
+        "Z",
+        "M"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which capital letter contains intersecting lines that are NOT perpendicular?",
+      "options": [
+        "H",
+        "E",
+        "X",
+        "L"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Which tool is best for checking if two drawn lines are perpendicular?",
+      "options": [
+        "A scale balance",
+        "A thermometer",
+        "A set square or protractor",
+        "A magnifying lens"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "How many intersection points do two parallel lines have?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "infinite"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "How many intersection points do two intersecting lines have?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "infinite"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "If line AB ⊥ CD, how many right angles are formed around the intersection?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following shapes has opposite sides that are parallel?",
+      "options": [
+        "Triangle",
+        "Rectangle",
+        "Circle",
+        "Pentagon"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following shapes has adjacent sides that are perpendicular?",
+      "options": [
+        "Square",
+        "Triangle",
+        "Hexagon",
+        "Circle"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What type of lines are formed by the letter 'V'?",
+      "options": [
+        "Parallel",
+        "Perpendicular",
+        "Intersecting",
+        "None"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following is a property of a line?",
+      "options": [
+        "It has a fixed length.",
+        "It has one endpoint.",
+        "It extends infinitely in both directions.",
+        "It is curved."
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following is a property of a line segment?",
+      "options": [
+        "It extends infinitely.",
+        "It has exactly two endpoints and a fixed length.",
+        "It has no endpoints.",
+        "It has arrows on both ends."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "Which of the following statements is true?",
+      "options": [
+        "Statement A: All perpendicular lines are intersecting, but not all intersecting lines are perpendicular.",
+        "Statement B: All intersecting lines are perpendicular, but not all perpendicular lines are intersecting."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "What geometric term describes lines that are in the same plane and never cross? (use lowercase)",
+      "answer": "parallel"
+    },
+    {
+      "type": "choice",
+      "q": "Which letter has both parallel and perpendicular lines?",
+      "options": [
+        "A",
+        "E",
+        "X",
+        "O"
+      ],
+      "answer": 1
+    }
+  ],
+  "challenge": [
+    {
+      "type": "choice",
+      "q": "If line A || line B, and line B ⊥ line C, what is the relationship between line A and line C?",
+      "options": [
+        "Line A || Line C",
+        "Line A ⊥ Line C",
+        "They are the same line",
+        "They never meet"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "How many pairs of parallel lines are there in a regular hexagon?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "In a right-angled triangle, how many pairs of perpendicular sides are there?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "Which of the following statements is true?",
+      "options": [
+        "Statement A: If two lines are parallel to the same line, they are parallel to each other.",
+        "Statement B: If two lines are perpendicular to the same line, they are perpendicular to each other."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "blank",
+      "q": "How many points of intersection are formed by three mutually intersecting lines that do not pass through the same point?",
+      "answer": "3"
+    }
+  ],
+  "performance": {
+    "type": "performance",
+    "title": "Drawing and Classifying Lines",
+    "desc": "Use a ruler to draw a line segment and label it AB. Then, draw a line CD parallel to AB (AB || CD). Next, draw a line EF perpendicular to AB (EF ⊥ AB) crossing both lines. Label all points of intersection. Color parallel lines blue and perpendicular lines red. Show it to your parent.",
+    "labels": [
+      "Correct drawing of parallel lines labeled AB and CD",
+      "Correct drawing of perpendicular line EF forming 90° angles",
+      "Neatness, color coding, and correct labeling of points"
+    ]
+  },
+  "worksheet": {
+    "pages": [
+      "\n      <div class=\"ws-page-content\">\n        <h3>Exercise 1: Drawing Parallel and Perpendicular Lines</h3>\n        <p class=\"ws-instruction\">Use your stylus to draw a parallel line and a perpendicular line for each line segment below.</p>\n        \n        <div class=\"ws-split\" style=\"margin-top: 25px; height: 180px;\">\n          <div style=\"border: 1px solid #ccc; width: 45%; height: 100%; padding: 10px; border-radius: 8px;\">\n            <strong>Draw a line Parallel to AB:</strong>\n            <div style=\"width: 80%; height: 2px; background: black; margin: 40px auto 0 auto; position: relative;\">\n              <span style=\"position: absolute; top: -15px; left: 0;\">A</span>\n              <span style=\"position: absolute; top: -15px; right: 0;\">B</span>\n            </div>\n          </div>\n          <div style=\"border: 1px solid #ccc; width: 45%; height: 100%; padding: 10px; border-radius: 8px;\">\n            <strong>Draw a line Perpendicular to CD:</strong>\n            <div style=\"width: 80%; height: 2px; background: black; margin: 40px auto 0 auto; position: relative;\">\n              <span style=\"position: absolute; top: -15px; left: 0;\">C</span>\n              <span style=\"position: absolute; top: -15px; right: 0;\">D</span>\n            </div>\n          </div>\n        </div>\n      </div>\n      ",
+      "\n      <div class=\"ws-page-content\">\n        <h3>Exercise 2: Classifying Lines in Capital Letters</h3>\n        <p class=\"ws-instruction\">Look at the capital letters below. State what types of lines they contain (Parallel, Perpendicular, or Intersecting but not Perpendicular) using your stylus.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. The letter <strong>E</strong> contains:</div>\n          <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"></div>\n        </div>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">2. The letter <strong>X</strong> contains:</div>\n          <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"></div>\n        </div>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">3. The letter <strong>M</strong> contains:</div>\n          <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"></div>\n        </div>\n      </div>\n      ",
+      "\n      <div class=\"ws-page-content\">\n        <h3>Exercise 3: Line Riddles</h3>\n        <p class=\"ws-instruction\">Write the correct answer to the geometric riddles below using your stylus.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. We are a pair of lines. We are in the same plane, we go in the same direction, and we never cross. What are we?</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"></div>\n        </div>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">2. We cross each other and form four right angles. What special lines are we?</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"></div>\n        </div>\n      </div>\n      "
+    ]
+  }
+}
