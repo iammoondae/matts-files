@@ -4201,27 +4201,27 @@ window.WEEK5_DATA.reading = {
     "slides": [
       {
         "title": "Kuwento: Ang Matsing at ang Buwaya - Bahagi 1",
-        "text": "<span class=\"fil-sentence\" data-translation=\"In a vast forest, a clever Monkey lived in a large guava tree by the river.\"><span class=\"fil-sentence\" data-translation=\"In a vast forest, a clever Monkey lived in a large guava tree by the river.\">Sa isang malawak na kagubatan, nakatira ang isang matalinong Matsing sa isang malaking puno ng bayabas sa tabi ng ilog.</span></span> <span class=\"fil-sentence\" data-translation=\"Every day he ate sweet guavas.\"><span class=\"fil-sentence\" data-translation=\"Every day he ate sweet guavas.\">Araw-araw ay kumakain siya ng matatamis na bayabas.</span></span> <span class=\"fil-sentence\" data-translation=\"One day, a large Crocodile approached the riverbank.\"><span class=\"fil-sentence\" data-translation=\"One day, a large Crocodile approached the riverbank.\">Isang araw, lumapit ang isang malaking Buwaya sa pampang ng ilog.</span></span> <span class=\"fil-sentence\" data-translation=\"'Friend Monkey, could you give me some guavas? I am hungry,' said the Crocodile.\"><span class=\"fil-sentence\" data-translation=\"'Friend Monkey, could you give me some guavas? I am hungry,' said the Crocodile.\">'Kaibigang Matsing, maaari mo ba akong bigyan ng ilang bayabas? Gutom na ako,' sabi ng Buwaya.</span></span> <span class=\"fil-sentence\" data-translation=\"Monkey immediately picked ripe guavas and dropped them to the Crocodile.\"><span class=\"fil-sentence\" data-translation=\"Monkey immediately picked ripe guavas and dropped them to the Crocodile.\">Agad na pumitas si Matsing ng mga hinog na bayabas at inihulog sa Buwaya.</span></span> <span class=\"fil-sentence\" data-translation=\"They became friends and met every day to talk and eat.\"><span class=\"fil-sentence\" data-translation=\"They became friends and met every day to talk and eat.\">Naging magkaibigan sila at nagkikita araw-araw upang magkwentuhan at kumain.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"In a vast forest, a clever Monkey lived in a large guava tree by the river.\"><span class=\"fil-sentence\" data-translation=\"In a vast forest, a clever Monkey lived in a large guava tree by the river.\"><span class=\"fil-sentence\" data-translation=\"In a vast forest, a clever Monkey lived in a large guava tree by the river.\">Sa isang malawak na kagubatan, nakatira ang isang matalinong Matsing sa isang malaking puno ng bayabas sa tabi ng ilog.</span></span></span> <span class=\"fil-sentence\" data-translation=\"Every day he ate sweet guavas.\"><span class=\"fil-sentence\" data-translation=\"Every day he ate sweet guavas.\"><span class=\"fil-sentence\" data-translation=\"Every day he ate sweet guavas.\">Araw-araw ay kumakain siya ng matatamis na bayabas.</span></span></span> <span class=\"fil-sentence\" data-translation=\"One day, a large Crocodile approached the riverbank.\"><span class=\"fil-sentence\" data-translation=\"One day, a large Crocodile approached the riverbank.\"><span class=\"fil-sentence\" data-translation=\"One day, a large Crocodile approached the riverbank.\">Isang araw, lumapit ang isang malaking Buwaya sa pampang ng ilog.</span></span></span> <span class=\"fil-sentence\" data-translation=\"'Friend Monkey, could you give me some guavas? I am hungry,' said the Crocodile.\"><span class=\"fil-sentence\" data-translation=\"'Friend Monkey, could you give me some guavas? I am hungry,' said the Crocodile.\"><span class=\"fil-sentence\" data-translation=\"'Friend Monkey, could you give me some guavas? I am hungry,' said the Crocodile.\">'Kaibigang Matsing, maaari mo ba akong bigyan ng ilang bayabas? Gutom na ako,' sabi ng Buwaya.</span></span></span> <span class=\"fil-sentence\" data-translation=\"Monkey immediately picked ripe guavas and dropped them to the Crocodile.\"><span class=\"fil-sentence\" data-translation=\"Monkey immediately picked ripe guavas and dropped them to the Crocodile.\"><span class=\"fil-sentence\" data-translation=\"Monkey immediately picked ripe guavas and dropped them to the Crocodile.\">Agad na pumitas si Matsing ng mga hinog na bayabas at inihulog sa Buwaya.</span></span></span> <span class=\"fil-sentence\" data-translation=\"They became friends and met every day to talk and eat.\"><span class=\"fil-sentence\" data-translation=\"They became friends and met every day to talk and eat.\"><span class=\"fil-sentence\" data-translation=\"They became friends and met every day to talk and eat.\">Naging magkaibigan sila at nagkikita araw-araw upang magkwentuhan at kumain.</span></span></span>"
       },
       {
         "title": "Kuwento: Ang Matsing at ang Buwaya - Bahagi 2",
-        "text": "<span class=\"fil-sentence\" data-translation=\"The Crocodile brought some guavas to his wife.\"><span class=\"fil-sentence\" data-translation=\"The Crocodile brought some guavas to his wife.\">Dinalhan ng Buwaya ang kanyang asawa ng ilang bayabas.</span></span> <span class=\"fil-sentence\" data-translation=\"But when the wife ate it, she said: 'If the guavas are this sweet, surely the heart of the Monkey who eats them daily is sweeter! I want to eat his heart.'\"><span class=\"fil-sentence\" data-translation=\"But when the wife ate it, she said: 'If the guavas are this sweet, surely the heart of the Monkey who eats them daily is sweeter! I want to eat his heart.'\">Ngunit nang makain ito ng asawa, sinabi nito: 'Kung ang bayabas ay ganito katamis, tiyak na mas matamis ang puso ng Matsing na kumakain nito araw-araw! Gusto kong kainin ang kanyang puso.'</span></span> <span class=\"fil-sentence\" data-translation=\"The Crocodile was forced to deceive his friend.\"><span class=\"fil-sentence\" data-translation=\"The Crocodile was forced to deceive his friend.\">Napilitan ang Buwaya na linlangin ang kanyang kaibigan.</span></span> <span class=\"fil-sentence\" data-translation=\"The next day, he said to Monkey: 'Monkey, my wife wants to meet you. Ride on my back and we will cross to the other side of the river where my family lives.'\"><span class=\"fil-sentence\" data-translation=\"The next day, he said to Monkey: 'Monkey, my wife wants to meet you. Ride on my back and we will cross to the other side of the river where my family lives.'\">Kinabukasan, sinabi niya kay Matsing: 'Matsing, gusto kang makilala ng asawa ko. Sumakay ka sa likod ko at tatawid tayo sa kabila ng ilog kung saan nakatira ang aking pamilya.'</span></span> <span class=\"fil-sentence\" data-translation=\"Monkey rode, but in the middle of the river, the Crocodile told the truth.\"><span class=\"fil-sentence\" data-translation=\"Monkey rode, but in the middle of the river, the Crocodile told the truth.\">Sumakay si Matsing, ngunit sa gitna ng ilog, sinabi ng Buwaya ang totoo.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"The Crocodile brought some guavas to his wife.\"><span class=\"fil-sentence\" data-translation=\"The Crocodile brought some guavas to his wife.\"><span class=\"fil-sentence\" data-translation=\"The Crocodile brought some guavas to his wife.\">Dinalhan ng Buwaya ang kanyang asawa ng ilang bayabas.</span></span></span> <span class=\"fil-sentence\" data-translation=\"But when the wife ate it, she said: 'If the guavas are this sweet, surely the heart of the Monkey who eats them daily is sweeter! I want to eat his heart.'\"><span class=\"fil-sentence\" data-translation=\"But when the wife ate it, she said: 'If the guavas are this sweet, surely the heart of the Monkey who eats them daily is sweeter! I want to eat his heart.'\"><span class=\"fil-sentence\" data-translation=\"But when the wife ate it, she said: 'If the guavas are this sweet, surely the heart of the Monkey who eats them daily is sweeter! I want to eat his heart.'\">Ngunit nang makain ito ng asawa, sinabi nito: 'Kung ang bayabas ay ganito katamis, tiyak na mas matamis ang puso ng Matsing na kumakain nito araw-araw! Gusto kong kainin ang kanyang puso.'</span></span></span> <span class=\"fil-sentence\" data-translation=\"The Crocodile was forced to deceive his friend.\"><span class=\"fil-sentence\" data-translation=\"The Crocodile was forced to deceive his friend.\"><span class=\"fil-sentence\" data-translation=\"The Crocodile was forced to deceive his friend.\">Napilitan ang Buwaya na linlangin ang kanyang kaibigan.</span></span></span> <span class=\"fil-sentence\" data-translation=\"The next day, he said to Monkey: 'Monkey, my wife wants to meet you. Ride on my back and we will cross to the other side of the river where my family lives.'\"><span class=\"fil-sentence\" data-translation=\"The next day, he said to Monkey: 'Monkey, my wife wants to meet you. Ride on my back and we will cross to the other side of the river where my family lives.'\"><span class=\"fil-sentence\" data-translation=\"The next day, he said to Monkey: 'Monkey, my wife wants to meet you. Ride on my back and we will cross to the other side of the river where my family lives.'\">Kinabukasan, sinabi niya kay Matsing: 'Matsing, gusto kang makilala ng asawa ko. Sumakay ka sa likod ko at tatawid tayo sa kabila ng ilog kung saan nakatira ang aking pamilya.'</span></span></span> <span class=\"fil-sentence\" data-translation=\"Monkey rode, but in the middle of the river, the Crocodile told the truth.\"><span class=\"fil-sentence\" data-translation=\"Monkey rode, but in the middle of the river, the Crocodile told the truth.\"><span class=\"fil-sentence\" data-translation=\"Monkey rode, but in the middle of the river, the Crocodile told the truth.\">Sumakay si Matsing, ngunit sa gitna ng ilog, sinabi ng Buwaya ang totoo.</span></span></span>"
       },
       {
         "title": "Kuwento: Ang Matsing at ang Buwaya - Bahagi 3",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Monkey was afraid but thought quickly.\"><span class=\"fil-sentence\" data-translation=\"Monkey was afraid but thought quickly.\">Natakot si Matsing ngunit nag-isip ng mabilis.</span></span> <span class=\"fil-sentence\" data-translation=\"'Oh Crocodile! Why didn't you say so earlier? I left my heart at the top of the guava tree because I was afraid it would get wet in the river. Let's go back and I'll get it,' said Monkey.\"><span class=\"fil-sentence\" data-translation=\"'Oh Crocodile! Why didn't you say so earlier? I left my heart at the top of the guava tree because I was afraid it would get wet in the river. Let's go back and I'll get it,' said Monkey.\">'Naku, Buwaya! Bakit hindi mo sinabi agad? Iniwan ko ang puso ko sa itaas ng puno ng bayabas dahil natatakot akong mabasa ito sa ilog. Bumalik tayo at kukunin ko ito,' wika ni Matsing.</span></span> <span class=\"fil-sentence\" data-translation=\"The Crocodile believed it and swam back to the shore.\"><span class=\"fil-sentence\" data-translation=\"The Crocodile believed it and swam back to the shore.\">Naniwala ang Buwaya at lumangoy pabalik sa pampang.</span></span> <span class=\"fil-sentence\" data-translation=\"Upon reaching the shore, Monkey quickly jumped onto the tree and laughed.\"><span class=\"fil-sentence\" data-translation=\"Upon reaching the shore, Monkey quickly jumped onto the tree and laughed.\">Pagdating sa pampang, mabilis na tumalon si Matsing sa puno at tumawa.</span></span> <span class=\"fil-sentence\" data-translation=\"'What foolish animal leaves their heart on a tree? You tricked me, so I tricked you too!' shouted Monkey.\"><span class=\"fil-sentence\" data-translation=\"'What foolish animal leaves their heart on a tree? You tricked me, so I tricked you too!' shouted Monkey.\">'Sino ang tangang hayop na nag-iiwan ng puso sa puno? Niloko mo ako, kaya niloko rin kita!' sigaw ni Matsing.</span></span> <span class=\"fil-sentence\" data-translation=\"The Crocodile learned that strength is not enough without intelligence, and he lost a loyal friend.\"><span class=\"fil-sentence\" data-translation=\"The Crocodile learned that strength is not enough without intelligence, and he lost a loyal friend.\">Natuto ang Buwaya na hindi sapat ang lakas kung walang talino, at nawalan siya ng matapat na kaibigan.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Monkey was afraid but thought quickly.\"><span class=\"fil-sentence\" data-translation=\"Monkey was afraid but thought quickly.\"><span class=\"fil-sentence\" data-translation=\"Monkey was afraid but thought quickly.\">Natakot si Matsing ngunit nag-isip ng mabilis.</span></span></span> <span class=\"fil-sentence\" data-translation=\"'Oh Crocodile! Why didn't you say so earlier? I left my heart at the top of the guava tree because I was afraid it would get wet in the river. Let's go back and I'll get it,' said Monkey.\"><span class=\"fil-sentence\" data-translation=\"'Oh Crocodile! Why didn't you say so earlier? I left my heart at the top of the guava tree because I was afraid it would get wet in the river. Let's go back and I'll get it,' said Monkey.\"><span class=\"fil-sentence\" data-translation=\"'Oh Crocodile! Why didn't you say so earlier? I left my heart at the top of the guava tree because I was afraid it would get wet in the river. Let's go back and I'll get it,' said Monkey.\">'Naku, Buwaya! Bakit hindi mo sinabi agad? Iniwan ko ang puso ko sa itaas ng puno ng bayabas dahil natatakot akong mabasa ito sa ilog. Bumalik tayo at kukunin ko ito,' wika ni Matsing.</span></span></span> <span class=\"fil-sentence\" data-translation=\"The Crocodile believed it and swam back to the shore.\"><span class=\"fil-sentence\" data-translation=\"The Crocodile believed it and swam back to the shore.\"><span class=\"fil-sentence\" data-translation=\"The Crocodile believed it and swam back to the shore.\">Naniwala ang Buwaya at lumangoy pabalik sa pampang.</span></span></span> <span class=\"fil-sentence\" data-translation=\"Upon reaching the shore, Monkey quickly jumped onto the tree and laughed.\"><span class=\"fil-sentence\" data-translation=\"Upon reaching the shore, Monkey quickly jumped onto the tree and laughed.\"><span class=\"fil-sentence\" data-translation=\"Upon reaching the shore, Monkey quickly jumped onto the tree and laughed.\">Pagdating sa pampang, mabilis na tumalon si Matsing sa puno at tumawa.</span></span></span> <span class=\"fil-sentence\" data-translation=\"'What foolish animal leaves their heart on a tree? You tricked me, so I tricked you too!' shouted Monkey.\"><span class=\"fil-sentence\" data-translation=\"'What foolish animal leaves their heart on a tree? You tricked me, so I tricked you too!' shouted Monkey.\"><span class=\"fil-sentence\" data-translation=\"'What foolish animal leaves their heart on a tree? You tricked me, so I tricked you too!' shouted Monkey.\">'Sino ang tangang hayop na nag-iiwan ng puso sa puno? Niloko mo ako, kaya niloko rin kita!' sigaw ni Matsing.</span></span></span> <span class=\"fil-sentence\" data-translation=\"The Crocodile learned that strength is not enough without intelligence, and he lost a loyal friend.\"><span class=\"fil-sentence\" data-translation=\"The Crocodile learned that strength is not enough without intelligence, and he lost a loyal friend.\"><span class=\"fil-sentence\" data-translation=\"The Crocodile learned that strength is not enough without intelligence, and he lost a loyal friend.\">Natuto ang Buwaya na hindi sapat ang lakas kung walang talino, at nawalan siya ng matapat na kaibigan.</span></span></span>"
       },
       {
         "title": "Talasalitaan at Pag-aaral ng Salita",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\">Mga Bokabularyo:</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Deceive - Cheat or trick using sweet words.\"><span class=\"fil-sentence\" data-translation=\"Deceive - Cheat or trick using sweet words.\">Linlangin - Dayain o lokohin gamit ang mga matatamis na salita.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Heart - The organ that circulates blood, used here as a symbol of life.\"><span class=\"fil-sentence\" data-translation=\"Heart - The organ that circulates blood, used here as a symbol of life.\">Puso - Ang organ na nagpapadaloy ng dugo, ginamit dito bilang simbolo ng buhay.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Foolish - Lacking enough intelligence or easily believing lies.\"><span class=\"fil-sentence\" data-translation=\"Foolish - Lacking enough intelligence or easily believing lies.\">Tangang - Walang sapat na talino o madaling maniwala sa kasinungalingan.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'b' sound in 'buwaya', 'bayabas', and 'buntot'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'b' sound in 'buwaya', 'bayabas', and 'buntot'.\">Tutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'b' sa 'buwaya', 'bayabas', at 'buntot'.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\">Mga Bokabularyo:</span></span></span>\n• <span class=\"fil-sentence\" data-translation=\"Deceive - Cheat or trick using sweet words.\"><span class=\"fil-sentence\" data-translation=\"Deceive - Cheat or trick using sweet words.\"><span class=\"fil-sentence\" data-translation=\"Deceive - Cheat or trick using sweet words.\">Linlangin - Dayain o lokohin gamit ang mga matatamis na salita.</span></span></span>\n• <span class=\"fil-sentence\" data-translation=\"Heart - The organ that circulates blood, used here as a symbol of life.\"><span class=\"fil-sentence\" data-translation=\"Heart - The organ that circulates blood, used here as a symbol of life.\"><span class=\"fil-sentence\" data-translation=\"Heart - The organ that circulates blood, used here as a symbol of life.\">Puso - Ang organ na nagpapadaloy ng dugo, ginamit dito bilang simbolo ng buhay.</span></span></span>\n• <span class=\"fil-sentence\" data-translation=\"Foolish - Lacking enough intelligence or easily believing lies.\"><span class=\"fil-sentence\" data-translation=\"Foolish - Lacking enough intelligence or easily believing lies.\"><span class=\"fil-sentence\" data-translation=\"Foolish - Lacking enough intelligence or easily believing lies.\">Tangang - Walang sapat na talino o madaling maniwala sa kasinungalingan.</span></span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'b' sound in 'buwaya', 'bayabas', and 'buntot'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'b' sound in 'buwaya', 'bayabas', and 'buntot'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'b' sound in 'buwaya', 'bayabas', and 'buntot'.\">Tutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'b' sa 'buwaya', 'bayabas', at 'buntot'.</span></span></span>"
       },
       {
         "title": "Mga Tanong sa Pag-unawa",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\">Mga Tanong:</span></span>\n<span class=\"fil-sentence\" data-translation=\"1. Why did the Crocodile's wife want to eat the Monkey's heart?\"><span class=\"fil-sentence\" data-translation=\"1. Why did the Crocodile's wife want to eat the Monkey's heart?\">1. Bakit nais ng asawa ng Buwaya na kainin ang puso ng Matsing?</span></span>\n<span class=\"fil-sentence\" data-translation=\"2. How did the Crocodile trick the Monkey into riding on his back?\"><span class=\"fil-sentence\" data-translation=\"2. How did the Crocodile trick the Monkey into riding on his back?\">2. Paano nalinlang ng Buwaya si Matsing upang sumakay sa kanyang likod?</span></span>\n<span class=\"fil-sentence\" data-translation=\"3. How did the Monkey escape the Crocodile's evil plan?\"><span class=\"fil-sentence\" data-translation=\"3. How did the Monkey escape the Crocodile's evil plan?\">3. Paano nakaligtas si Matsing sa masamang balak ng Buwaya?</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\">Mga Tanong:</span></span></span>\n<span class=\"fil-sentence\" data-translation=\"1. Why did the Crocodile's wife want to eat the Monkey's heart?\"><span class=\"fil-sentence\" data-translation=\"1. Why did the Crocodile's wife want to eat the Monkey's heart?\"><span class=\"fil-sentence\" data-translation=\"1. Why did the Crocodile's wife want to eat the Monkey's heart?\">1. Bakit nais ng asawa ng Buwaya na kainin ang puso ng Matsing?</span></span></span>\n<span class=\"fil-sentence\" data-translation=\"2. How did the Crocodile trick the Monkey into riding on his back?\"><span class=\"fil-sentence\" data-translation=\"2. How did the Crocodile trick the Monkey into riding on his back?\"><span class=\"fil-sentence\" data-translation=\"2. How did the Crocodile trick the Monkey into riding on his back?\">2. Paano nalinlang ng Buwaya si Matsing upang sumakay sa kanyang likod?</span></span></span>\n<span class=\"fil-sentence\" data-translation=\"3. How did the Monkey escape the Crocodile's evil plan?\"><span class=\"fil-sentence\" data-translation=\"3. How did the Monkey escape the Crocodile's evil plan?\"><span class=\"fil-sentence\" data-translation=\"3. How did the Monkey escape the Crocodile's evil plan?\">3. Paano nakaligtas si Matsing sa masamang balak ng Buwaya?</span></span></span>"
       },
       {
         "title": "Mabuting Aral at Pagninilay",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Thought: Quick thinking in times of danger saves us from disaster.\"><span class=\"fil-sentence\" data-translation=\"Thought: Quick thinking in times of danger saves us from disaster.\">Kaisipan: Ang mabilis na pag-iisip sa oras ng panganib ay nagliligtas sa atin sa kapahamakan.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Do not trust people who break friendships for their own interest. A true friend does not seek the harm of their companion.\"><span class=\"fil-sentence\" data-translation=\"Do not trust people who break friendships for their own interest. A true friend does not seek the harm of their companion.\">Huwag magtiwala sa mga taong sumisira sa pagkakaibigan para sa kanilang sariling interes. Ang tunay na kaibigan ay hindi naghahangad ng kapahamakan ng kanyang kasama.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Discuss: What will you do if you find out an acquaintance has bad intentions towards you?\"><span class=\"fil-sentence\" data-translation=\"Discuss: What will you do if you find out an acquaintance has bad intentions towards you?\">Talakayin: Ano ang gagawin mo kung malaman mong may hindi magandang balak ang isang kakilala sa iyo?</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Thought: Quick thinking in times of danger saves us from disaster.\"><span class=\"fil-sentence\" data-translation=\"Thought: Quick thinking in times of danger saves us from disaster.\"><span class=\"fil-sentence\" data-translation=\"Thought: Quick thinking in times of danger saves us from disaster.\">Kaisipan: Ang mabilis na pag-iisip sa oras ng panganib ay nagliligtas sa atin sa kapahamakan.</span></span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Do not trust people who break friendships for their own interest. A true friend does not seek the harm of their companion.\"><span class=\"fil-sentence\" data-translation=\"Do not trust people who break friendships for their own interest. A true friend does not seek the harm of their companion.\"><span class=\"fil-sentence\" data-translation=\"Do not trust people who break friendships for their own interest. A true friend does not seek the harm of their companion.\">Huwag magtiwala sa mga taong sumisira sa pagkakaibigan para sa kanilang sariling interes. Ang tunay na kaibigan ay hindi naghahangad ng kapahamakan ng kanyang kasama.</span></span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Discuss: What will you do if you find out an acquaintance has bad intentions towards you?\"><span class=\"fil-sentence\" data-translation=\"Discuss: What will you do if you find out an acquaintance has bad intentions towards you?\"><span class=\"fil-sentence\" data-translation=\"Discuss: What will you do if you find out an acquaintance has bad intentions towards you?\">Talakayin: Ano ang gagawin mo kung malaman mong may hindi magandang balak ang isang kakilala sa iyo?</span></span></span>"
       }
     ]
   },
@@ -4231,27 +4231,27 @@ window.WEEK5_DATA.reading = {
     "slides": [
       {
         "title": "Kuwento: Alamat ng Bahaghari - Bahagi 1",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Once upon a time, the colors in the world quarreled.\"><span class=\"fil-sentence\" data-translation=\"Once upon a time, the colors in the world quarreled.\">Noong unang panahon, ang mga kulay sa mundo ay nag-away-away.</span></span> <span class=\"fil-sentence\" data-translation=\"Each color claimed that it was the most important and most beautiful of all.\"><span class=\"fil-sentence\" data-translation=\"Each color claimed that it was the most important and most beautiful of all.\">Ang bawat kulay ay nag-aangkin na siya ang pinakamahalaga at pinakamaganda sa lahat.</span></span> <span class=\"fil-sentence\" data-translation=\"Red shouted: 'I am the symbol of courage and love! I am the most important!'\"><span class=\"fil-sentence\" data-translation=\"Red shouted: 'I am the symbol of courage and love! I am the most important!'\">Sigaw ni Pula: 'Ako ang simbolo ng tapang at pag-ibig! Ako ang pinakamahalaga!'</span></span> <span class=\"fil-sentence\" data-translation=\"Yellow said: 'I bring light and warmth of the sun! Without me, the world is sad!'\"><span class=\"fil-sentence\" data-translation=\"Yellow said: 'I bring light and warmth of the sun! Without me, the world is sad!'\">Sabi ni Dilaw: 'Ako ang nagdadala ng liwanag at init ng araw! Kung wala ako, malungkot ang mundo!'</span></span> <span class=\"fil-sentence\" data-translation=\"Blue said: 'I am the color of the vast ocean and peaceful sky!'\"><span class=\"fil-sentence\" data-translation=\"Blue said: 'I am the color of the vast ocean and peaceful sky!'\">Sabi naman ni Asul: 'Ako ang kulay ng malawak na karagatan at ng payapang langit!'</span></span> <span class=\"fil-sentence\" data-translation=\"Each color was proud and did not listen to the others.\"><span class=\"fil-sentence\" data-translation=\"Each color was proud and did not listen to the others.\">Ang bawat kulay ay nagmamataas at hindi nakikinig sa iba.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Once upon a time, the colors in the world quarreled.\"><span class=\"fil-sentence\" data-translation=\"Once upon a time, the colors in the world quarreled.\"><span class=\"fil-sentence\" data-translation=\"Once upon a time, the colors in the world quarreled.\">Noong unang panahon, ang mga kulay sa mundo ay nag-away-away.</span></span></span> <span class=\"fil-sentence\" data-translation=\"Each color claimed that it was the most important and most beautiful of all.\"><span class=\"fil-sentence\" data-translation=\"Each color claimed that it was the most important and most beautiful of all.\"><span class=\"fil-sentence\" data-translation=\"Each color claimed that it was the most important and most beautiful of all.\">Ang bawat kulay ay nag-aangkin na siya ang pinakamahalaga at pinakamaganda sa lahat.</span></span></span> <span class=\"fil-sentence\" data-translation=\"Red shouted: 'I am the symbol of courage and love! I am the most important!'\"><span class=\"fil-sentence\" data-translation=\"Red shouted: 'I am the symbol of courage and love! I am the most important!'\"><span class=\"fil-sentence\" data-translation=\"Red shouted: 'I am the symbol of courage and love! I am the most important!'\">Sigaw ni Pula: 'Ako ang simbolo ng tapang at pag-ibig! Ako ang pinakamahalaga!'</span></span></span> <span class=\"fil-sentence\" data-translation=\"Yellow said: 'I bring light and warmth of the sun! Without me, the world is sad!'\"><span class=\"fil-sentence\" data-translation=\"Yellow said: 'I bring light and warmth of the sun! Without me, the world is sad!'\"><span class=\"fil-sentence\" data-translation=\"Yellow said: 'I bring light and warmth of the sun! Without me, the world is sad!'\">Sabi ni Dilaw: 'Ako ang nagdadala ng liwanag at init ng araw! Kung wala ako, malungkot ang mundo!'</span></span></span> <span class=\"fil-sentence\" data-translation=\"Blue said: 'I am the color of the vast ocean and peaceful sky!'\"><span class=\"fil-sentence\" data-translation=\"Blue said: 'I am the color of the vast ocean and peaceful sky!'\"><span class=\"fil-sentence\" data-translation=\"Blue said: 'I am the color of the vast ocean and peaceful sky!'\">Sabi naman ni Asul: 'Ako ang kulay ng malawak na karagatan at ng payapang langit!'</span></span></span> <span class=\"fil-sentence\" data-translation=\"Each color was proud and did not listen to the others.\"><span class=\"fil-sentence\" data-translation=\"Each color was proud and did not listen to the others.\"><span class=\"fil-sentence\" data-translation=\"Each color was proud and did not listen to the others.\">Ang bawat kulay ay nagmamataas at hindi nakikinig sa iba.</span></span></span>"
       },
       {
         "title": "Kuwento: Alamat ng Bahaghari - Bahagi 2",
-        "text": "<span class=\"fil-sentence\" data-translation=\"As their fight grew, the sky suddenly darkened and lightning struck very loudly.\"><span class=\"fil-sentence\" data-translation=\"As their fight grew, the sky suddenly darkened and lightning struck very loudly.\">Habang lumalaki ang kanilang away, biglang dumilim ang langit at kumidlat nang napakalakas.</span></span> <span class=\"fil-sentence\" data-translation=\"A severe storm and rain poured over the whole world.\"><span class=\"fil-sentence\" data-translation=\"A severe storm and rain poured over the whole world.\">Bumuhos ang isang matinding bagyo at ulan sa buong mundo.</span></span> <span class=\"fil-sentence\" data-translation=\"The colors were afraid of the heavy rain, so they huddled together and held hands so as not to be swept away by the current.\"><span class=\"fil-sentence\" data-translation=\"The colors were afraid of the heavy rain, so they huddled together and held hands so as not to be swept away by the current.\">Natakot ang mga kulay sa lakas ng ulan, kaya nagkumpol-kumpol sila at naghawak-hawak ng kamay upang hindi tangayin ng agos.</span></span> <span class=\"fil-sentence\" data-translation=\"The Rain suddenly spoke to them: 'Colors, why are you fighting? The Creator made you to be unique, but together you are complete. Help each other and do not fight.'\"><span class=\"fil-sentence\" data-translation=\"The Rain suddenly spoke to them: 'Colors, why are you fighting? The Creator made you to be unique, but together you are complete. Help each other and do not fight.'\">Biglang nagsalita ang Ulan sa kanila: 'Mga kulay, bakit kayo nag-aaway? Nilikha kayo ng may likha upang maging natatangi, ngunit magkakasama kayo upang maging kumpleto. Magtulungan kayo at huwag mag-away.'</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"As their fight grew, the sky suddenly darkened and lightning struck very loudly.\"><span class=\"fil-sentence\" data-translation=\"As their fight grew, the sky suddenly darkened and lightning struck very loudly.\"><span class=\"fil-sentence\" data-translation=\"As their fight grew, the sky suddenly darkened and lightning struck very loudly.\">Habang lumalaki ang kanilang away, biglang dumilim ang langit at kumidlat nang napakalakas.</span></span></span> <span class=\"fil-sentence\" data-translation=\"A severe storm and rain poured over the whole world.\"><span class=\"fil-sentence\" data-translation=\"A severe storm and rain poured over the whole world.\"><span class=\"fil-sentence\" data-translation=\"A severe storm and rain poured over the whole world.\">Bumuhos ang isang matinding bagyo at ulan sa buong mundo.</span></span></span> <span class=\"fil-sentence\" data-translation=\"The colors were afraid of the heavy rain, so they huddled together and held hands so as not to be swept away by the current.\"><span class=\"fil-sentence\" data-translation=\"The colors were afraid of the heavy rain, so they huddled together and held hands so as not to be swept away by the current.\"><span class=\"fil-sentence\" data-translation=\"The colors were afraid of the heavy rain, so they huddled together and held hands so as not to be swept away by the current.\">Natakot ang mga kulay sa lakas ng ulan, kaya nagkumpol-kumpol sila at naghawak-hawak ng kamay upang hindi tangayin ng agos.</span></span></span> <span class=\"fil-sentence\" data-translation=\"The Rain suddenly spoke to them: 'Colors, why are you fighting? The Creator made you to be unique, but together you are complete. Help each other and do not fight.'\"><span class=\"fil-sentence\" data-translation=\"The Rain suddenly spoke to them: 'Colors, why are you fighting? The Creator made you to be unique, but together you are complete. Help each other and do not fight.'\"><span class=\"fil-sentence\" data-translation=\"The Rain suddenly spoke to them: 'Colors, why are you fighting? The Creator made you to be unique, but together you are complete. Help each other and do not fight.'\">Biglang nagsalita ang Ulan sa kanila: 'Mga kulay, bakit kayo nag-aaway? Nilikha kayo ng may likha upang maging natatangi, ngunit magkakasama kayo upang maging kumpleto. Magtulungan kayo at huwag mag-away.'</span></span></span>"
       },
       {
         "title": "Kuwento: Alamat ng Bahaghari - Bahagi 3",
-        "text": "<span class=\"fil-sentence\" data-translation=\"The colors were ashamed of their fighting and united.\"><span class=\"fil-sentence\" data-translation=\"The colors were ashamed of their fighting and united.\">Nahiya ang mga kulay sa kanilang pag-aaway at nagka-isa.</span></span> <span class=\"fil-sentence\" data-translation=\"When the storm stopped and the sun shone, they went up to the sky holding hands as an arch of beautiful colors.\"><span class=\"fil-sentence\" data-translation=\"When the storm stopped and the sun shone, they went up to the sky holding hands as an arch of beautiful colors.\">Nang tumigil ang bagyo at sumikat ang araw, magkakahawak-kamay silang umakyat sa langit bilang isang arko ng iba't ibang magagandang kulay.</span></span> <span class=\"fil-sentence\" data-translation=\"This was called Bahaghari (Rainbow).\"><span class=\"fil-sentence\" data-translation=\"This was called Bahaghari (Rainbow).\">Ito ang tinawag na Bahaghari (Rainbow).</span></span> <span class=\"fil-sentence\" data-translation=\"Since then, whenever the rain ends, the rainbow appears in the sky as a reminder of unity, hope, and peace in the whole world after the storm.\"><span class=\"fil-sentence\" data-translation=\"Since then, whenever the rain ends, the rainbow appears in the sky as a reminder of unity, hope, and peace in the whole world after the storm.\">Simula noon, tuwing matatapos ang ulan, lumilitaw ang bahaghari sa langit bilang paalala ng pagkakaisa, pag-asa, at kapayapaan sa buong mundo pagkatapos ng unos.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"The colors were ashamed of their fighting and united.\"><span class=\"fil-sentence\" data-translation=\"The colors were ashamed of their fighting and united.\"><span class=\"fil-sentence\" data-translation=\"The colors were ashamed of their fighting and united.\">Nahiya ang mga kulay sa kanilang pag-aaway at nagka-isa.</span></span></span> <span class=\"fil-sentence\" data-translation=\"When the storm stopped and the sun shone, they went up to the sky holding hands as an arch of beautiful colors.\"><span class=\"fil-sentence\" data-translation=\"When the storm stopped and the sun shone, they went up to the sky holding hands as an arch of beautiful colors.\"><span class=\"fil-sentence\" data-translation=\"When the storm stopped and the sun shone, they went up to the sky holding hands as an arch of beautiful colors.\">Nang tumigil ang bagyo at sumikat ang araw, magkakahawak-kamay silang umakyat sa langit bilang isang arko ng iba't ibang magagandang kulay.</span></span></span> <span class=\"fil-sentence\" data-translation=\"This was called Bahaghari (Rainbow).\"><span class=\"fil-sentence\" data-translation=\"This was called Bahaghari (Rainbow).\"><span class=\"fil-sentence\" data-translation=\"This was called Bahaghari (Rainbow).\">Ito ang tinawag na Bahaghari (Rainbow).</span></span></span> <span class=\"fil-sentence\" data-translation=\"Since then, whenever the rain ends, the rainbow appears in the sky as a reminder of unity, hope, and peace in the whole world after the storm.\"><span class=\"fil-sentence\" data-translation=\"Since then, whenever the rain ends, the rainbow appears in the sky as a reminder of unity, hope, and peace in the whole world after the storm.\"><span class=\"fil-sentence\" data-translation=\"Since then, whenever the rain ends, the rainbow appears in the sky as a reminder of unity, hope, and peace in the whole world after the storm.\">Simula noon, tuwing matatapos ang ulan, lumilitaw ang bahaghari sa langit bilang paalala ng pagkakaisa, pag-asa, at kapayapaan sa buong mundo pagkatapos ng unos.</span></span></span>"
       },
       {
         "title": "Talasalitaan at Pag-aaral ng Salita",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\">Mga Bokabularyo:</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Claiming - Declaring that one owns something.\"><span class=\"fil-sentence\" data-translation=\"Claiming - Declaring that one owns something.\">Nag-aangkin - Nagpapahayag na pagmamay-ari niya ang isang bagay.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Huddled - Gathered close to one another.\"><span class=\"fil-sentence\" data-translation=\"Huddled - Gathered close to one another.\">Nagkumpol-kumpol - Nagtipon-tipon nang malapit sa isa't isa.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Storm - Severe storm or calamity.\"><span class=\"fil-sentence\" data-translation=\"Storm - Severe storm or calamity.\">Unos - Matinding bagyo o kalamidad.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'h' sound in 'bahaghari', 'hapon', and 'hawak'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'h' sound in 'bahaghari', 'hapon', and 'hawak'.\">Tutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'h' sa 'bahaghari', 'hapon', at 'hawak'.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\">Mga Bokabularyo:</span></span></span>\n• <span class=\"fil-sentence\" data-translation=\"Claiming - Declaring that one owns something.\"><span class=\"fil-sentence\" data-translation=\"Claiming - Declaring that one owns something.\"><span class=\"fil-sentence\" data-translation=\"Claiming - Declaring that one owns something.\">Nag-aangkin - Nagpapahayag na pagmamay-ari niya ang isang bagay.</span></span></span>\n• <span class=\"fil-sentence\" data-translation=\"Huddled - Gathered close to one another.\"><span class=\"fil-sentence\" data-translation=\"Huddled - Gathered close to one another.\"><span class=\"fil-sentence\" data-translation=\"Huddled - Gathered close to one another.\">Nagkumpol-kumpol - Nagtipon-tipon nang malapit sa isa't isa.</span></span></span>\n• <span class=\"fil-sentence\" data-translation=\"Storm - Severe storm or calamity.\"><span class=\"fil-sentence\" data-translation=\"Storm - Severe storm or calamity.\"><span class=\"fil-sentence\" data-translation=\"Storm - Severe storm or calamity.\">Unos - Matinding bagyo o kalamidad.</span></span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'h' sound in 'bahaghari', 'hapon', and 'hawak'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'h' sound in 'bahaghari', 'hapon', and 'hawak'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'h' sound in 'bahaghari', 'hapon', and 'hawak'.\">Tutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'h' sa 'bahaghari', 'hapon', at 'hawak'.</span></span></span>"
       },
       {
         "title": "Mga Tanong sa Pag-unawa",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\">Mga Tanong:</span></span>\n<span class=\"fil-sentence\" data-translation=\"1. Why did the colors fight in the beginning?\"><span class=\"fil-sentence\" data-translation=\"1. Why did the colors fight in the beginning?\">1. Bakit nag-aaway ang mga kulay noong simula?</span></span>\n<span class=\"fil-sentence\" data-translation=\"2. What happened when the severe storm poured?\"><span class=\"fil-sentence\" data-translation=\"2. What happened when the severe storm poured?\">2. Ano ang nangyari nang bumuhos ang matinding bagyo?</span></span>\n<span class=\"fil-sentence\" data-translation=\"3. What does the rainbow represent when it appears in the sky?\"><span class=\"fil-sentence\" data-translation=\"3. What does the rainbow represent when it appears in the sky?\">3. Ano ang kinakatawan ng bahaghari kapag ito ay lumilitaw sa langit?</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\">Mga Tanong:</span></span></span>\n<span class=\"fil-sentence\" data-translation=\"1. Why did the colors fight in the beginning?\"><span class=\"fil-sentence\" data-translation=\"1. Why did the colors fight in the beginning?\"><span class=\"fil-sentence\" data-translation=\"1. Why did the colors fight in the beginning?\">1. Bakit nag-aaway ang mga kulay noong simula?</span></span></span>\n<span class=\"fil-sentence\" data-translation=\"2. What happened when the severe storm poured?\"><span class=\"fil-sentence\" data-translation=\"2. What happened when the severe storm poured?\"><span class=\"fil-sentence\" data-translation=\"2. What happened when the severe storm poured?\">2. Ano ang nangyari nang bumuhos ang matinding bagyo?</span></span></span>\n<span class=\"fil-sentence\" data-translation=\"3. What does the rainbow represent when it appears in the sky?\"><span class=\"fil-sentence\" data-translation=\"3. What does the rainbow represent when it appears in the sky?\"><span class=\"fil-sentence\" data-translation=\"3. What does the rainbow represent when it appears in the sky?\">3. Ano ang kinakatawan ng bahaghari kapag ito ay lumilitaw sa langit?</span></span></span>"
       },
       {
         "title": "Mabuting Aral at Pagninilay",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Thought: Unity despite diversity brings beauty and peace.\"><span class=\"fil-sentence\" data-translation=\"Thought: Unity despite diversity brings beauty and peace.\">Kaisipan: Ang pagkakaisa sa kabila ng pagkakaiba-iba ay nagdudulot ng kagandahan at kapayapaan.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Each person has their own ability and quality, but the world becomes more beautiful if we help each other and unite like the colors of the rainbow.\"><span class=\"fil-sentence\" data-translation=\"Each person has their own ability and quality, but the world becomes more beautiful if we help each other and unite like the colors of the rainbow.\">Ang bawat tao ay may sariling galing at katangian, ngunit mas nagiging maganda ang mundo kung tayo ay nagtutulungan at nagkakaisa tulad ng mga kulay sa bahaghari.</span></span>\n\nDiscuss: Paano mo maipapakita ang pagkakaisa sa inyong pangkat sa paaralan?"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Thought: Unity despite diversity brings beauty and peace.\"><span class=\"fil-sentence\" data-translation=\"Thought: Unity despite diversity brings beauty and peace.\"><span class=\"fil-sentence\" data-translation=\"Thought: Unity despite diversity brings beauty and peace.\">Kaisipan: Ang pagkakaisa sa kabila ng pagkakaiba-iba ay nagdudulot ng kagandahan at kapayapaan.</span></span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Each person has their own ability and quality, but the world becomes more beautiful if we help each other and unite like the colors of the rainbow.\"><span class=\"fil-sentence\" data-translation=\"Each person has their own ability and quality, but the world becomes more beautiful if we help each other and unite like the colors of the rainbow.\"><span class=\"fil-sentence\" data-translation=\"Each person has their own ability and quality, but the world becomes more beautiful if we help each other and unite like the colors of the rainbow.\">Ang bawat tao ay may sariling galing at katangian, ngunit mas nagiging maganda ang mundo kung tayo ay nagtutulungan at nagkakaisa tulad ng mga kulay sa bahaghari.</span></span></span>\n\nDiscuss: Paano mo maipapakita ang pagkakaisa sa inyong pangkat sa paaralan?"
       }
     ]
   }
@@ -4269,15 +4269,15 @@ window.WEEK5_ADVANCED_DATA.math = {
   "color": "#3b82f6",
   "icon": "🔢",
   "title": "Mathematics",
-  "subtitle": "Week 5: Area and Perimeter [Advanced]",
+  "subtitle": "Week 5: Area and Perimeter",
   "slides": [
     {
-      "title": "Introduction to Week 5: Area and Perimeter [Advanced]",
+      "title": "Introduction to Week 5: Area and Perimeter",
       "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Mathematics.",
       "examples": [
         {
           "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 5: Area and Perimeter [Advanced] and apply them in daily situations."
+          "content": "Understand the core elements of Week 5: Area and Perimeter and apply them in daily situations."
         },
         {
           "title": "Real-world Connection",
@@ -4301,11 +4301,11 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 5: Area and Perimeter [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of Mathematics.",
+      "text": "The main focus of this week is Week 5: Area and Perimeter. By looking closely at how these ideas work together, we can build a strong understanding of Mathematics.",
       "examples": [
         {
           "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 5: Area and Perimeter [Advanced] in simple activities."
+          "content": "How to identify, describe, and apply Week 5: Area and Perimeter in simple activities."
         },
         {
           "title": "Why It Matters",
@@ -4315,211 +4315,211 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 5: Area and Perimeter [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 1 under Week 5: Area and Perimeter. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter to observe the correct outcome."
         },
         {
           "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 5: Area and Perimeter [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 2 under Week 5: Area and Perimeter. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter to observe the correct outcome."
         },
         {
           "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 5: Area and Perimeter [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 3 under Week 5: Area and Perimeter. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter to observe the correct outcome."
         },
         {
           "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 5: Area and Perimeter [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 4 under Week 5: Area and Perimeter. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter to observe the correct outcome."
         },
         {
           "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 5: Area and Perimeter [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 5 under Week 5: Area and Perimeter. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter to observe the correct outcome."
         },
         {
           "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 5: Area and Perimeter [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 6 under Week 5: Area and Perimeter. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter to observe the correct outcome."
         },
         {
           "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 5: Area and Perimeter [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 7 under Week 5: Area and Perimeter. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter to observe the correct outcome."
         },
         {
           "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 5: Area and Perimeter [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 8 under Week 5: Area and Perimeter. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter to observe the correct outcome."
         },
         {
           "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 5: Area and Perimeter [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 9 under Week 5: Area and Perimeter. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter to observe the correct outcome."
         },
         {
           "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 5: Area and Perimeter [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 10 under Week 5: Area and Perimeter. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter to observe the correct outcome."
         },
         {
           "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 5: Area and Perimeter [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 11 under Week 5: Area and Perimeter. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter to observe the correct outcome."
         },
         {
           "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 5: Area and Perimeter [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 12 under Week 5: Area and Perimeter. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter to observe the correct outcome."
         },
         {
           "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 5: Area and Perimeter [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 13 under Week 5: Area and Perimeter. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter to observe the correct outcome."
         },
         {
           "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 5: Area and Perimeter [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 14 under Week 5: Area and Perimeter. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter to observe the correct outcome."
         },
         {
           "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 5: Area and Perimeter [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 15 under Week 5: Area and Perimeter. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Area and Perimeter to observe the correct outcome."
         },
         {
           "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Area and Perimeter in other contexts."
         }
       ]
     },
@@ -4529,7 +4529,7 @@ window.WEEK5_ADVANCED_DATA.math = {
       "examples": [
         {
           "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 5: Area and Perimeter [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: Area and Perimeter to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 1",
@@ -4543,7 +4543,7 @@ window.WEEK5_ADVANCED_DATA.math = {
       "examples": [
         {
           "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 5: Area and Perimeter [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: Area and Perimeter to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 2",
@@ -4557,7 +4557,7 @@ window.WEEK5_ADVANCED_DATA.math = {
       "examples": [
         {
           "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 5: Area and Perimeter [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: Area and Perimeter to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 3",
@@ -4571,7 +4571,7 @@ window.WEEK5_ADVANCED_DATA.math = {
       "examples": [
         {
           "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 5: Area and Perimeter [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: Area and Perimeter to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 4",
@@ -4609,7 +4609,7 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 5: Area and Perimeter [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "text": "Congratulations! You have completed all the lessons on Week 5: Area and Perimeter. You are now ready to test your knowledge with the weekly quiz and challenges.",
       "examples": [
         {
           "title": "Summary Points",
@@ -4625,7 +4625,7 @@ window.WEEK5_ADVANCED_DATA.math = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 5: Area and Perimeter [Advanced]?",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 5: Area and Perimeter?",
       "options": [
         "Core term: Comparing",
         "None of these",
@@ -4636,7 +4636,7 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 5: Area and Perimeter [Advanced]?",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 5: Area and Perimeter?",
       "options": [
         "Core term: Addition",
         "None of these",
@@ -4647,7 +4647,7 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 5: Area and Perimeter [Advanced]?",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 5: Area and Perimeter?",
       "options": [
         "Core term: Place value",
         "None of these",
@@ -4658,7 +4658,7 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 5: Area and Perimeter [Advanced]?",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 5: Area and Perimeter?",
       "options": [
         "Core term: Numbers",
         "None of these",
@@ -4669,16 +4669,16 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 5: Area and Perimeter [Advanced] is correct?",
+      "q": "Statement Check (Question 5): Which statement about Week 5: Area and Perimeter is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Area and Perimeter [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Area and Perimeter [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Area and Perimeter are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Area and Perimeter are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 5: Area and Perimeter [Advanced]?",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 5: Area and Perimeter?",
       "options": [
         "Core term: Fractions",
         "None of these",
@@ -4689,12 +4689,12 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 5: Area and Perimeter [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 7): Week 5: Area and Perimeter is a key topic in the study of ___.",
       "answer": "Mathematics"
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 5: Area and Perimeter [Advanced]?",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 5: Area and Perimeter?",
       "options": [
         "Core term: Perimeter",
         "None of these",
@@ -4705,7 +4705,7 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 5: Area and Perimeter [Advanced]?",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 5: Area and Perimeter?",
       "options": [
         "Core term: Area",
         "None of these",
@@ -4716,16 +4716,16 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 5: Area and Perimeter [Advanced] is correct?",
+      "q": "Statement Check (Question 10): Which statement about Week 5: Area and Perimeter is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Area and Perimeter [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Area and Perimeter [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Area and Perimeter are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Area and Perimeter are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 5: Area and Perimeter [Advanced]?",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 5: Area and Perimeter?",
       "options": [
         "Core term: Comparing",
         "None of these",
@@ -4736,7 +4736,7 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 5: Area and Perimeter [Advanced]?",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 5: Area and Perimeter?",
       "options": [
         "Core term: Addition",
         "None of these",
@@ -4747,7 +4747,7 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 5: Area and Perimeter [Advanced]?",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 5: Area and Perimeter?",
       "options": [
         "Core term: Place value",
         "None of these",
@@ -4758,21 +4758,21 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 5: Area and Perimeter [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 14): Week 5: Area and Perimeter is a key topic in the study of ___.",
       "answer": "Mathematics"
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 5: Area and Perimeter [Advanced] is correct?",
+      "q": "Statement Check (Question 15): Which statement about Week 5: Area and Perimeter is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Area and Perimeter [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Area and Perimeter [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Area and Perimeter are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Area and Perimeter are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 5: Area and Perimeter [Advanced]?",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 5: Area and Perimeter?",
       "options": [
         "Core term: Fractions",
         "None of these",
@@ -4783,7 +4783,7 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 5: Area and Perimeter [Advanced]?",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 5: Area and Perimeter?",
       "options": [
         "Core term: Multiplication",
         "None of these",
@@ -4794,7 +4794,7 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 5: Area and Perimeter [Advanced]?",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 5: Area and Perimeter?",
       "options": [
         "Core term: Perimeter",
         "None of these",
@@ -4805,7 +4805,7 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 5: Area and Perimeter [Advanced]?",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 5: Area and Perimeter?",
       "options": [
         "Core term: Area",
         "None of these",
@@ -4816,21 +4816,21 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 5: Area and Perimeter [Advanced] is correct?",
+      "q": "Statement Check (Question 20): Which statement about Week 5: Area and Perimeter is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Area and Perimeter [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Area and Perimeter [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Area and Perimeter are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Area and Perimeter are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 5: Area and Perimeter [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 21): Week 5: Area and Perimeter is a key topic in the study of ___.",
       "answer": "Mathematics"
     },
     {
       "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 5: Area and Perimeter [Advanced]?",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 5: Area and Perimeter?",
       "options": [
         "Core term: Addition",
         "None of these",
@@ -4841,7 +4841,7 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 5: Area and Perimeter [Advanced]?",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 5: Area and Perimeter?",
       "options": [
         "Core term: Place value",
         "None of these",
@@ -4852,7 +4852,7 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 5: Area and Perimeter [Advanced]?",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 5: Area and Perimeter?",
       "options": [
         "Core term: Numbers",
         "None of these",
@@ -4863,10 +4863,10 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 5: Area and Perimeter [Advanced] is correct?",
+      "q": "Statement Check (Question 25): Which statement about Week 5: Area and Perimeter is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Area and Perimeter [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Area and Perimeter [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Area and Perimeter are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Area and Perimeter are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -4874,7 +4874,7 @@ window.WEEK5_ADVANCED_DATA.math = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 5: Area and Perimeter [Advanced], what is the first priority?",
+      "q": "Challenge 1: In a complex situation involving Week 5: Area and Perimeter, what is the first priority?",
       "options": [
         "Analyze key terms and variables",
         "Guess the answer immediately",
@@ -4885,7 +4885,7 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 5: Area and Perimeter [Advanced]?",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 5: Area and Perimeter?",
       "options": [
         "The primary variable: Counting",
         "An external variable",
@@ -4896,7 +4896,7 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 5: Area and Perimeter [Advanced].",
+      "q": "Challenge 3: Compare two statements about Week 5: Area and Perimeter.",
       "options": [
         "Statement A: Proper methodology leads to a correct and verified solution.",
         "Statement B: Rushing through calculations is safe and rarely causes errors."
@@ -4905,12 +4905,12 @@ window.WEEK5_ADVANCED_DATA.math = {
     },
     {
       "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 5: Area and Perimeter [Advanced]?",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 5: Area and Perimeter?",
       "answer": "comparing"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 5: Area and Perimeter [Advanced]?",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 5: Area and Perimeter?",
       "options": [
         "Building logical reasoning and problem-solving skills",
         "Forgetting previous lessons",
@@ -4922,8 +4922,8 @@ window.WEEK5_ADVANCED_DATA.math = {
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 5: Area and Perimeter [Advanced]",
-    "desc": "Perform a simple observation of Week 5: Area and Perimeter [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Interactive Task: Week 5: Area and Perimeter",
+    "desc": "Perform a simple observation of Week 5: Area and Perimeter at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
       "Accurate explanation of concept",
       "Clarity and confidence in presentation",
@@ -4932,9 +4932,9 @@ window.WEEK5_ADVANCED_DATA.math = {
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 5: Area and Perimeter [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 5: Area and Perimeter [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Comparing and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 5: Area and Perimeter [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of counting</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 5: Area and Perimeter [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 5: Area and Perimeter</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 5: Area and Perimeter and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Comparing and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 5: Area and Perimeter.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of counting</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 5: Area and Perimeter.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -4943,15 +4943,15 @@ window.WEEK5_ADVANCED_DATA.science = {
   "color": "#10b981",
   "icon": "🔬",
   "title": "Science",
-  "subtitle": "Week 5: Physical Properties of Solids and Metals [Advanced]",
+  "subtitle": "Week 5: Physical Properties of Solids and Metals",
   "slides": [
     {
-      "title": "Introduction to Week 5: Physical Properties of Solids and Metals [Advanced]",
+      "title": "Introduction to Week 5: Physical Properties of Solids and Metals",
       "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Science.",
       "examples": [
         {
           "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 5: Physical Properties of Solids and Metals [Advanced] and apply them in daily situations."
+          "content": "Understand the core elements of Week 5: Physical Properties of Solids and Metals and apply them in daily situations."
         },
         {
           "title": "Real-world Connection",
@@ -4975,11 +4975,11 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 5: Physical Properties of Solids and Metals [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of Science.",
+      "text": "The main focus of this week is Week 5: Physical Properties of Solids and Metals. By looking closely at how these ideas work together, we can build a strong understanding of Science.",
       "examples": [
         {
           "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 5: Physical Properties of Solids and Metals [Advanced] in simple activities."
+          "content": "How to identify, describe, and apply Week 5: Physical Properties of Solids and Metals in simple activities."
         },
         {
           "title": "Why It Matters",
@@ -4989,211 +4989,211 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 5: Physical Properties of Solids and Metals [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 1 under Week 5: Physical Properties of Solids and Metals. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals to observe the correct outcome."
         },
         {
           "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 5: Physical Properties of Solids and Metals [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 2 under Week 5: Physical Properties of Solids and Metals. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals to observe the correct outcome."
         },
         {
           "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 5: Physical Properties of Solids and Metals [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 3 under Week 5: Physical Properties of Solids and Metals. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals to observe the correct outcome."
         },
         {
           "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 5: Physical Properties of Solids and Metals [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 4 under Week 5: Physical Properties of Solids and Metals. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals to observe the correct outcome."
         },
         {
           "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 5: Physical Properties of Solids and Metals [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 5 under Week 5: Physical Properties of Solids and Metals. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals to observe the correct outcome."
         },
         {
           "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 5: Physical Properties of Solids and Metals [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 6 under Week 5: Physical Properties of Solids and Metals. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals to observe the correct outcome."
         },
         {
           "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 5: Physical Properties of Solids and Metals [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 7 under Week 5: Physical Properties of Solids and Metals. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals to observe the correct outcome."
         },
         {
           "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 5: Physical Properties of Solids and Metals [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 8 under Week 5: Physical Properties of Solids and Metals. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals to observe the correct outcome."
         },
         {
           "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 5: Physical Properties of Solids and Metals [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 9 under Week 5: Physical Properties of Solids and Metals. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals to observe the correct outcome."
         },
         {
           "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 5: Physical Properties of Solids and Metals [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 10 under Week 5: Physical Properties of Solids and Metals. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals to observe the correct outcome."
         },
         {
           "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 5: Physical Properties of Solids and Metals [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 11 under Week 5: Physical Properties of Solids and Metals. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals to observe the correct outcome."
         },
         {
           "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 5: Physical Properties of Solids and Metals [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 12 under Week 5: Physical Properties of Solids and Metals. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals to observe the correct outcome."
         },
         {
           "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 5: Physical Properties of Solids and Metals [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 13 under Week 5: Physical Properties of Solids and Metals. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals to observe the correct outcome."
         },
         {
           "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 5: Physical Properties of Solids and Metals [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 14 under Week 5: Physical Properties of Solids and Metals. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals to observe the correct outcome."
         },
         {
           "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 5: Physical Properties of Solids and Metals [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 15 under Week 5: Physical Properties of Solids and Metals. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Physical Properties of Solids and Metals to observe the correct outcome."
         },
         {
           "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Physical Properties of Solids and Metals in other contexts."
         }
       ]
     },
@@ -5203,7 +5203,7 @@ window.WEEK5_ADVANCED_DATA.science = {
       "examples": [
         {
           "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 5: Physical Properties of Solids and Metals [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: Physical Properties of Solids and Metals to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 1",
@@ -5217,7 +5217,7 @@ window.WEEK5_ADVANCED_DATA.science = {
       "examples": [
         {
           "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 5: Physical Properties of Solids and Metals [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: Physical Properties of Solids and Metals to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 2",
@@ -5231,7 +5231,7 @@ window.WEEK5_ADVANCED_DATA.science = {
       "examples": [
         {
           "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 5: Physical Properties of Solids and Metals [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: Physical Properties of Solids and Metals to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 3",
@@ -5245,7 +5245,7 @@ window.WEEK5_ADVANCED_DATA.science = {
       "examples": [
         {
           "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 5: Physical Properties of Solids and Metals [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: Physical Properties of Solids and Metals to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 4",
@@ -5283,7 +5283,7 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 5: Physical Properties of Solids and Metals [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "text": "Congratulations! You have completed all the lessons on Week 5: Physical Properties of Solids and Metals. You are now ready to test your knowledge with the weekly quiz and challenges.",
       "examples": [
         {
           "title": "Summary Points",
@@ -5299,7 +5299,7 @@ window.WEEK5_ADVANCED_DATA.science = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals [Advanced]?",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals?",
       "options": [
         "Core term: Prediction",
         "None of these",
@@ -5310,7 +5310,7 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals [Advanced]?",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals?",
       "options": [
         "Core term: Materials",
         "None of these",
@@ -5321,7 +5321,7 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals [Advanced]?",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals?",
       "options": [
         "Core term: Body parts",
         "None of these",
@@ -5332,7 +5332,7 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals [Advanced]?",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals?",
       "options": [
         "Core term: Senses",
         "None of these",
@@ -5343,16 +5343,16 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 5: Physical Properties of Solids and Metals [Advanced] is correct?",
+      "q": "Statement Check (Question 5): Which statement about Week 5: Physical Properties of Solids and Metals is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Physical Properties of Solids and Metals [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Physical Properties of Solids and Metals [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Physical Properties of Solids and Metals are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Physical Properties of Solids and Metals are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals [Advanced]?",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals?",
       "options": [
         "Core term: Safety",
         "None of these",
@@ -5363,12 +5363,12 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 5: Physical Properties of Solids and Metals [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 7): Week 5: Physical Properties of Solids and Metals is a key topic in the study of ___.",
       "answer": "Science"
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals [Advanced]?",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals?",
       "options": [
         "Core term: Liquids",
         "None of these",
@@ -5379,7 +5379,7 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals [Advanced]?",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals?",
       "options": [
         "Core term: Gases",
         "None of these",
@@ -5390,16 +5390,16 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 5: Physical Properties of Solids and Metals [Advanced] is correct?",
+      "q": "Statement Check (Question 10): Which statement about Week 5: Physical Properties of Solids and Metals is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Physical Properties of Solids and Metals [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Physical Properties of Solids and Metals [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Physical Properties of Solids and Metals are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Physical Properties of Solids and Metals are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals [Advanced]?",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals?",
       "options": [
         "Core term: Prediction",
         "None of these",
@@ -5410,7 +5410,7 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals [Advanced]?",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals?",
       "options": [
         "Core term: Materials",
         "None of these",
@@ -5421,7 +5421,7 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals [Advanced]?",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals?",
       "options": [
         "Core term: Body parts",
         "None of these",
@@ -5432,21 +5432,21 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 5: Physical Properties of Solids and Metals [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 14): Week 5: Physical Properties of Solids and Metals is a key topic in the study of ___.",
       "answer": "Science"
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 5: Physical Properties of Solids and Metals [Advanced] is correct?",
+      "q": "Statement Check (Question 15): Which statement about Week 5: Physical Properties of Solids and Metals is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Physical Properties of Solids and Metals [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Physical Properties of Solids and Metals [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Physical Properties of Solids and Metals are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Physical Properties of Solids and Metals are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals [Advanced]?",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals?",
       "options": [
         "Core term: Safety",
         "None of these",
@@ -5457,7 +5457,7 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals [Advanced]?",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals?",
       "options": [
         "Core term: Solids",
         "None of these",
@@ -5468,7 +5468,7 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals [Advanced]?",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals?",
       "options": [
         "Core term: Liquids",
         "None of these",
@@ -5479,7 +5479,7 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals [Advanced]?",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals?",
       "options": [
         "Core term: Gases",
         "None of these",
@@ -5490,21 +5490,21 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 5: Physical Properties of Solids and Metals [Advanced] is correct?",
+      "q": "Statement Check (Question 20): Which statement about Week 5: Physical Properties of Solids and Metals is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Physical Properties of Solids and Metals [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Physical Properties of Solids and Metals [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Physical Properties of Solids and Metals are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Physical Properties of Solids and Metals are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 5: Physical Properties of Solids and Metals [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 21): Week 5: Physical Properties of Solids and Metals is a key topic in the study of ___.",
       "answer": "Science"
     },
     {
       "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals [Advanced]?",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals?",
       "options": [
         "Core term: Materials",
         "None of these",
@@ -5515,7 +5515,7 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals [Advanced]?",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals?",
       "options": [
         "Core term: Body parts",
         "None of these",
@@ -5526,7 +5526,7 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals [Advanced]?",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 5: Physical Properties of Solids and Metals?",
       "options": [
         "Core term: Senses",
         "None of these",
@@ -5537,10 +5537,10 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 5: Physical Properties of Solids and Metals [Advanced] is correct?",
+      "q": "Statement Check (Question 25): Which statement about Week 5: Physical Properties of Solids and Metals is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Physical Properties of Solids and Metals [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Physical Properties of Solids and Metals [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Physical Properties of Solids and Metals are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Physical Properties of Solids and Metals are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -5548,7 +5548,7 @@ window.WEEK5_ADVANCED_DATA.science = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 5: Physical Properties of Solids and Metals [Advanced], what is the first priority?",
+      "q": "Challenge 1: In a complex situation involving Week 5: Physical Properties of Solids and Metals, what is the first priority?",
       "options": [
         "Analyze key terms and variables",
         "Guess the answer immediately",
@@ -5559,7 +5559,7 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 5: Physical Properties of Solids and Metals [Advanced]?",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 5: Physical Properties of Solids and Metals?",
       "options": [
         "The primary variable: Observation",
         "An external variable",
@@ -5570,7 +5570,7 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 5: Physical Properties of Solids and Metals [Advanced].",
+      "q": "Challenge 3: Compare two statements about Week 5: Physical Properties of Solids and Metals.",
       "options": [
         "Statement A: Proper methodology leads to a correct and verified solution.",
         "Statement B: Rushing through calculations is safe and rarely causes errors."
@@ -5579,12 +5579,12 @@ window.WEEK5_ADVANCED_DATA.science = {
     },
     {
       "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 5: Physical Properties of Solids and Metals [Advanced]?",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 5: Physical Properties of Solids and Metals?",
       "answer": "prediction"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 5: Physical Properties of Solids and Metals [Advanced]?",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 5: Physical Properties of Solids and Metals?",
       "options": [
         "Building logical reasoning and problem-solving skills",
         "Forgetting previous lessons",
@@ -5596,8 +5596,8 @@ window.WEEK5_ADVANCED_DATA.science = {
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 5: Physical Properties of Solids and Metals [Advanced]",
-    "desc": "Perform a simple observation of Week 5: Physical Properties of Solids and Metals [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Interactive Task: Week 5: Physical Properties of Solids and Metals",
+    "desc": "Perform a simple observation of Week 5: Physical Properties of Solids and Metals at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
       "Accurate explanation of concept",
       "Clarity and confidence in presentation",
@@ -5606,9 +5606,9 @@ window.WEEK5_ADVANCED_DATA.science = {
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 5: Physical Properties of Solids and Metals [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 5: Physical Properties of Solids and Metals [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Prediction and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 5: Physical Properties of Solids and Metals [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of observation</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 5: Physical Properties of Solids and Metals [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 5: Physical Properties of Solids and Metals</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 5: Physical Properties of Solids and Metals and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Prediction and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 5: Physical Properties of Solids and Metals.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of observation</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 5: Physical Properties of Solids and Metals.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -5617,15 +5617,15 @@ window.WEEK5_ADVANCED_DATA.english = {
   "color": "#8b5cf6",
   "icon": "📖",
   "title": "English",
-  "subtitle": "Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]",
+  "subtitle": "Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences",
   "slides": [
     {
-      "title": "Introduction to Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]",
+      "title": "Introduction to Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences",
       "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in English.",
       "examples": [
         {
           "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] and apply them in daily situations."
+          "content": "Understand the core elements of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences and apply them in daily situations."
         },
         {
           "title": "Real-world Connection",
@@ -5649,11 +5649,11 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of English.",
+      "text": "The main focus of this week is Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences. By looking closely at how these ideas work together, we can build a strong understanding of English.",
       "examples": [
         {
           "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] in simple activities."
+          "content": "How to identify, describe, and apply Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences in simple activities."
         },
         {
           "title": "Why It Matters",
@@ -5663,211 +5663,211 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 1 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences to observe the correct outcome."
         },
         {
           "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 2 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences to observe the correct outcome."
         },
         {
           "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 3 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences to observe the correct outcome."
         },
         {
           "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 4 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences to observe the correct outcome."
         },
         {
           "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 5 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences to observe the correct outcome."
         },
         {
           "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 6 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences to observe the correct outcome."
         },
         {
           "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 7 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences to observe the correct outcome."
         },
         {
           "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 8 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences to observe the correct outcome."
         },
         {
           "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 9 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences to observe the correct outcome."
         },
         {
           "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 10 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences to observe the correct outcome."
         },
         {
           "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 11 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences to observe the correct outcome."
         },
         {
           "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 12 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences to observe the correct outcome."
         },
         {
           "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 13 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences to observe the correct outcome."
         },
         {
           "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 14 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences to observe the correct outcome."
         },
         {
           "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 15 under Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences to observe the correct outcome."
         },
         {
           "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences in other contexts."
         }
       ]
     },
@@ -5877,7 +5877,7 @@ window.WEEK5_ADVANCED_DATA.english = {
       "examples": [
         {
           "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 1",
@@ -5891,7 +5891,7 @@ window.WEEK5_ADVANCED_DATA.english = {
       "examples": [
         {
           "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 2",
@@ -5905,7 +5905,7 @@ window.WEEK5_ADVANCED_DATA.english = {
       "examples": [
         {
           "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 3",
@@ -5919,7 +5919,7 @@ window.WEEK5_ADVANCED_DATA.english = {
       "examples": [
         {
           "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 4",
@@ -5957,7 +5957,7 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "text": "Congratulations! You have completed all the lessons on Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences. You are now ready to test your knowledge with the weekly quiz and challenges.",
       "examples": [
         {
           "title": "Summary Points",
@@ -5973,7 +5973,7 @@ window.WEEK5_ADVANCED_DATA.english = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]?",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences?",
       "options": [
         "Core term: Vowels",
         "None of these",
@@ -5984,7 +5984,7 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]?",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences?",
       "options": [
         "Core term: Consonants",
         "None of these",
@@ -5995,7 +5995,7 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]?",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences?",
       "options": [
         "Core term: Words",
         "None of these",
@@ -6006,7 +6006,7 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]?",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences?",
       "options": [
         "Core term: Nouns",
         "None of these",
@@ -6017,16 +6017,16 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] is correct?",
+      "q": "Statement Check (Question 5): Which statement about Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]?",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences?",
       "options": [
         "Core term: Pronouns",
         "None of these",
@@ -6037,12 +6037,12 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 7): Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences is a key topic in the study of ___.",
       "answer": "English"
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]?",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences?",
       "options": [
         "Core term: Sentences",
         "None of these",
@@ -6053,7 +6053,7 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]?",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences?",
       "options": [
         "Core term: Synonyms",
         "None of these",
@@ -6064,16 +6064,16 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] is correct?",
+      "q": "Statement Check (Question 10): Which statement about Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]?",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences?",
       "options": [
         "Core term: Vowels",
         "None of these",
@@ -6084,7 +6084,7 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]?",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences?",
       "options": [
         "Core term: Consonants",
         "None of these",
@@ -6095,7 +6095,7 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]?",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences?",
       "options": [
         "Core term: Words",
         "None of these",
@@ -6106,21 +6106,21 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 14): Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences is a key topic in the study of ___.",
       "answer": "English"
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] is correct?",
+      "q": "Statement Check (Question 15): Which statement about Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]?",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences?",
       "options": [
         "Core term: Pronouns",
         "None of these",
@@ -6131,7 +6131,7 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]?",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences?",
       "options": [
         "Core term: Adjectives",
         "None of these",
@@ -6142,7 +6142,7 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]?",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences?",
       "options": [
         "Core term: Sentences",
         "None of these",
@@ -6153,7 +6153,7 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]?",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences?",
       "options": [
         "Core term: Synonyms",
         "None of these",
@@ -6164,21 +6164,21 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] is correct?",
+      "q": "Statement Check (Question 20): Which statement about Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 21): Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences is a key topic in the study of ___.",
       "answer": "English"
     },
     {
       "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]?",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences?",
       "options": [
         "Core term: Consonants",
         "None of these",
@@ -6189,7 +6189,7 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]?",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences?",
       "options": [
         "Core term: Words",
         "None of these",
@@ -6200,7 +6200,7 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]?",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences?",
       "options": [
         "Core term: Nouns",
         "None of these",
@@ -6211,10 +6211,10 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] is correct?",
+      "q": "Statement Check (Question 25): Which statement about Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -6222,7 +6222,7 @@ window.WEEK5_ADVANCED_DATA.english = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced], what is the first priority?",
+      "q": "Challenge 1: In a complex situation involving Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences, what is the first priority?",
       "options": [
         "Analyze key terms and variables",
         "Guess the answer immediately",
@@ -6233,7 +6233,7 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]?",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences?",
       "options": [
         "The primary variable: Alphabet",
         "An external variable",
@@ -6244,7 +6244,7 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced].",
+      "q": "Challenge 3: Compare two statements about Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences.",
       "options": [
         "Statement A: Proper methodology leads to a correct and verified solution.",
         "Statement B: Rushing through calculations is safe and rarely causes errors."
@@ -6253,12 +6253,12 @@ window.WEEK5_ADVANCED_DATA.english = {
     },
     {
       "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]?",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences?",
       "answer": "vowels"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]?",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences?",
       "options": [
         "Building logical reasoning and problem-solving skills",
         "Forgetting previous lessons",
@@ -6270,8 +6270,8 @@ window.WEEK5_ADVANCED_DATA.english = {
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]",
-    "desc": "Perform a simple observation of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Interactive Task: Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences",
+    "desc": "Perform a simple observation of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
       "Accurate explanation of concept",
       "Clarity and confidence in presentation",
@@ -6280,9 +6280,9 @@ window.WEEK5_ADVANCED_DATA.english = {
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Vowels and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alphabet</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Vowels and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alphabet</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 5: VCCV Words, Science Vocabulary & Exclamatory Sentences.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -6291,15 +6291,15 @@ window.WEEK5_ADVANCED_DATA.filipino = {
   "color": "#ec4899",
   "icon": "🗣️",
   "title": "Filipino",
-  "subtitle": "Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]",
+  "subtitle": "Week 5: Aspekto ng Pandiwa, Simuno at Panaguri",
   "slides": [
     {
-      "title": "Introduction to Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]",
+      "title": "Introduction to Week 5: Aspekto ng Pandiwa, Simuno at Panaguri",
       "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Filipino.",
       "examples": [
         {
           "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] and apply them in daily situations."
+          "content": "Understand the core elements of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri and apply them in daily situations."
         },
         {
           "title": "Real-world Connection",
@@ -6323,11 +6323,11 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of Filipino.",
+      "text": "The main focus of this week is Week 5: Aspekto ng Pandiwa, Simuno at Panaguri. By looking closely at how these ideas work together, we can build a strong understanding of Filipino.",
       "examples": [
         {
           "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] in simple activities."
+          "content": "How to identify, describe, and apply Week 5: Aspekto ng Pandiwa, Simuno at Panaguri in simple activities."
         },
         {
           "title": "Why It Matters",
@@ -6337,211 +6337,211 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 1 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri to observe the correct outcome."
         },
         {
           "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 2 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri to observe the correct outcome."
         },
         {
           "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 3 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri to observe the correct outcome."
         },
         {
           "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 4 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri to observe the correct outcome."
         },
         {
           "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 5 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri to observe the correct outcome."
         },
         {
           "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 6 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri to observe the correct outcome."
         },
         {
           "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 7 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri to observe the correct outcome."
         },
         {
           "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 8 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri to observe the correct outcome."
         },
         {
           "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 9 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri to observe the correct outcome."
         },
         {
           "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 10 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri to observe the correct outcome."
         },
         {
           "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 11 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri to observe the correct outcome."
         },
         {
           "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 12 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri to observe the correct outcome."
         },
         {
           "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 13 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri to observe the correct outcome."
         },
         {
           "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 14 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri to observe the correct outcome."
         },
         {
           "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 15 under Week 5: Aspekto ng Pandiwa, Simuno at Panaguri. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Aspekto ng Pandiwa, Simuno at Panaguri to observe the correct outcome."
         },
         {
           "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Aspekto ng Pandiwa, Simuno at Panaguri in other contexts."
         }
       ]
     },
@@ -6551,7 +6551,7 @@ window.WEEK5_ADVANCED_DATA.filipino = {
       "examples": [
         {
           "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 1",
@@ -6565,7 +6565,7 @@ window.WEEK5_ADVANCED_DATA.filipino = {
       "examples": [
         {
           "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 2",
@@ -6579,7 +6579,7 @@ window.WEEK5_ADVANCED_DATA.filipino = {
       "examples": [
         {
           "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 3",
@@ -6593,7 +6593,7 @@ window.WEEK5_ADVANCED_DATA.filipino = {
       "examples": [
         {
           "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 4",
@@ -6631,7 +6631,7 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "text": "Congratulations! You have completed all the lessons on Week 5: Aspekto ng Pandiwa, Simuno at Panaguri. You are now ready to test your knowledge with the weekly quiz and challenges.",
       "examples": [
         {
           "title": "Summary Points",
@@ -6647,7 +6647,7 @@ window.WEEK5_ADVANCED_DATA.filipino = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]?",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri?",
       "options": [
         "Core term: Patinig",
         "None of these",
@@ -6658,7 +6658,7 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]?",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri?",
       "options": [
         "Core term: Katinig",
         "None of these",
@@ -6669,7 +6669,7 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]?",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri?",
       "options": [
         "Core term: Pangngalan",
         "None of these",
@@ -6680,7 +6680,7 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]?",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri?",
       "options": [
         "Core term: Pantangi",
         "None of these",
@@ -6691,16 +6691,16 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] is correct?",
+      "q": "Statement Check (Question 5): Which statement about Week 5: Aspekto ng Pandiwa, Simuno at Panaguri is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]?",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri?",
       "options": [
         "Core term: Panghalip",
         "None of these",
@@ -6711,12 +6711,12 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 7): Week 5: Aspekto ng Pandiwa, Simuno at Panaguri is a key topic in the study of ___.",
       "answer": "Filipino"
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]?",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri?",
       "options": [
         "Core term: Pang-uri",
         "None of these",
@@ -6727,7 +6727,7 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]?",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri?",
       "options": [
         "Core term: Pang-abay",
         "None of these",
@@ -6738,16 +6738,16 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] is correct?",
+      "q": "Statement Check (Question 10): Which statement about Week 5: Aspekto ng Pandiwa, Simuno at Panaguri is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]?",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri?",
       "options": [
         "Core term: Patinig",
         "None of these",
@@ -6758,7 +6758,7 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]?",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri?",
       "options": [
         "Core term: Katinig",
         "None of these",
@@ -6769,7 +6769,7 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]?",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri?",
       "options": [
         "Core term: Pangngalan",
         "None of these",
@@ -6780,21 +6780,21 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 14): Week 5: Aspekto ng Pandiwa, Simuno at Panaguri is a key topic in the study of ___.",
       "answer": "Filipino"
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] is correct?",
+      "q": "Statement Check (Question 15): Which statement about Week 5: Aspekto ng Pandiwa, Simuno at Panaguri is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]?",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri?",
       "options": [
         "Core term: Panghalip",
         "None of these",
@@ -6805,7 +6805,7 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]?",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri?",
       "options": [
         "Core term: Pandiwa",
         "None of these",
@@ -6816,7 +6816,7 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]?",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri?",
       "options": [
         "Core term: Pang-uri",
         "None of these",
@@ -6827,7 +6827,7 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]?",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri?",
       "options": [
         "Core term: Pang-abay",
         "None of these",
@@ -6838,21 +6838,21 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] is correct?",
+      "q": "Statement Check (Question 20): Which statement about Week 5: Aspekto ng Pandiwa, Simuno at Panaguri is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 21): Week 5: Aspekto ng Pandiwa, Simuno at Panaguri is a key topic in the study of ___.",
       "answer": "Filipino"
     },
     {
       "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]?",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri?",
       "options": [
         "Core term: Katinig",
         "None of these",
@@ -6863,7 +6863,7 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]?",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri?",
       "options": [
         "Core term: Pangngalan",
         "None of these",
@@ -6874,7 +6874,7 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]?",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 5: Aspekto ng Pandiwa, Simuno at Panaguri?",
       "options": [
         "Core term: Pantangi",
         "None of these",
@@ -6885,10 +6885,10 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] is correct?",
+      "q": "Statement Check (Question 25): Which statement about Week 5: Aspekto ng Pandiwa, Simuno at Panaguri is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -6896,7 +6896,7 @@ window.WEEK5_ADVANCED_DATA.filipino = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced], what is the first priority?",
+      "q": "Challenge 1: In a complex situation involving Week 5: Aspekto ng Pandiwa, Simuno at Panaguri, what is the first priority?",
       "options": [
         "Analyze key terms and variables",
         "Guess the answer immediately",
@@ -6907,7 +6907,7 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]?",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri?",
       "options": [
         "The primary variable: Alpabeto",
         "An external variable",
@@ -6918,7 +6918,7 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced].",
+      "q": "Challenge 3: Compare two statements about Week 5: Aspekto ng Pandiwa, Simuno at Panaguri.",
       "options": [
         "Statement A: Proper methodology leads to a correct and verified solution.",
         "Statement B: Rushing through calculations is safe and rarely causes errors."
@@ -6927,12 +6927,12 @@ window.WEEK5_ADVANCED_DATA.filipino = {
     },
     {
       "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]?",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 5: Aspekto ng Pandiwa, Simuno at Panaguri?",
       "answer": "patinig"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]?",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 5: Aspekto ng Pandiwa, Simuno at Panaguri?",
       "options": [
         "Building logical reasoning and problem-solving skills",
         "Forgetting previous lessons",
@@ -6944,8 +6944,8 @@ window.WEEK5_ADVANCED_DATA.filipino = {
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]",
-    "desc": "Perform a simple observation of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Interactive Task: Week 5: Aspekto ng Pandiwa, Simuno at Panaguri",
+    "desc": "Perform a simple observation of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
       "Accurate explanation of concept",
       "Clarity and confidence in presentation",
@@ -6954,9 +6954,9 @@ window.WEEK5_ADVANCED_DATA.filipino = {
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Patinig and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alpabeto</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 5: Aspekto ng Pandiwa, Simuno at Panaguri [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 5: Aspekto ng Pandiwa, Simuno at Panaguri</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 5: Aspekto ng Pandiwa, Simuno at Panaguri and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Patinig and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 5: Aspekto ng Pandiwa, Simuno at Panaguri.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alpabeto</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 5: Aspekto ng Pandiwa, Simuno at Panaguri.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -6965,15 +6965,15 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
   "color": "#f59e0b",
   "icon": "🏝️",
   "title": "Makabansa",
-  "subtitle": "Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]",
+  "subtitle": "Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda",
   "slides": [
     {
-      "title": "Introduction to Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]",
+      "title": "Introduction to Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda",
       "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Makabansa.",
       "examples": [
         {
           "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] and apply them in daily situations."
+          "content": "Understand the core elements of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda and apply them in daily situations."
         },
         {
           "title": "Real-world Connection",
@@ -6997,11 +6997,11 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of Makabansa.",
+      "text": "The main focus of this week is Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda. By looking closely at how these ideas work together, we can build a strong understanding of Makabansa.",
       "examples": [
         {
           "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] in simple activities."
+          "content": "How to identify, describe, and apply Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda in simple activities."
         },
         {
           "title": "Why It Matters",
@@ -7011,211 +7011,211 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 1 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda to observe the correct outcome."
         },
         {
           "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 2 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda to observe the correct outcome."
         },
         {
           "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 3 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda to observe the correct outcome."
         },
         {
           "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 4 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda to observe the correct outcome."
         },
         {
           "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 5 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda to observe the correct outcome."
         },
         {
           "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 6 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda to observe the correct outcome."
         },
         {
           "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 7 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda to observe the correct outcome."
         },
         {
           "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 8 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda to observe the correct outcome."
         },
         {
           "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 9 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda to observe the correct outcome."
         },
         {
           "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 10 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda to observe the correct outcome."
         },
         {
           "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 11 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda to observe the correct outcome."
         },
         {
           "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 12 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda to observe the correct outcome."
         },
         {
           "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 13 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda to observe the correct outcome."
         },
         {
           "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 14 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda to observe the correct outcome."
         },
         {
           "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 15 under Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda to observe the correct outcome."
         },
         {
           "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda in other contexts."
         }
       ]
     },
@@ -7225,7 +7225,7 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
       "examples": [
         {
           "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 1",
@@ -7239,7 +7239,7 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
       "examples": [
         {
           "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 2",
@@ -7253,7 +7253,7 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
       "examples": [
         {
           "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 3",
@@ -7267,7 +7267,7 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
       "examples": [
         {
           "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 4",
@@ -7305,7 +7305,7 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "text": "Congratulations! You have completed all the lessons on Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda. You are now ready to test your knowledge with the weekly quiz and challenges.",
       "examples": [
         {
           "title": "Summary Points",
@@ -7321,7 +7321,7 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]?",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda?",
       "options": [
         "Core term: Pamilya",
         "None of these",
@@ -7332,7 +7332,7 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]?",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda?",
       "options": [
         "Core term: Tungkulin",
         "None of these",
@@ -7343,7 +7343,7 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]?",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda?",
       "options": [
         "Core term: Komunidad",
         "None of these",
@@ -7354,7 +7354,7 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]?",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda?",
       "options": [
         "Core term: Kasaysayan",
         "None of these",
@@ -7365,16 +7365,16 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] is correct?",
+      "q": "Statement Check (Question 5): Which statement about Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]?",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda?",
       "options": [
         "Core term: Landmarks",
         "None of these",
@@ -7385,12 +7385,12 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 7): Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda is a key topic in the study of ___.",
       "answer": "Makabansa"
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]?",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda?",
       "options": [
         "Core term: Tradisyon",
         "None of these",
@@ -7401,7 +7401,7 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]?",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda?",
       "options": [
         "Core term: Lokasyon",
         "None of these",
@@ -7412,16 +7412,16 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] is correct?",
+      "q": "Statement Check (Question 10): Which statement about Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]?",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda?",
       "options": [
         "Core term: Pamilya",
         "None of these",
@@ -7432,7 +7432,7 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]?",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda?",
       "options": [
         "Core term: Tungkulin",
         "None of these",
@@ -7443,7 +7443,7 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]?",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda?",
       "options": [
         "Core term: Komunidad",
         "None of these",
@@ -7454,21 +7454,21 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 14): Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda is a key topic in the study of ___.",
       "answer": "Makabansa"
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] is correct?",
+      "q": "Statement Check (Question 15): Which statement about Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]?",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda?",
       "options": [
         "Core term: Landmarks",
         "None of these",
@@ -7479,7 +7479,7 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]?",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda?",
       "options": [
         "Core term: Timeline",
         "None of these",
@@ -7490,7 +7490,7 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]?",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda?",
       "options": [
         "Core term: Tradisyon",
         "None of these",
@@ -7501,7 +7501,7 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]?",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda?",
       "options": [
         "Core term: Lokasyon",
         "None of these",
@@ -7512,21 +7512,21 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] is correct?",
+      "q": "Statement Check (Question 20): Which statement about Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 21): Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda is a key topic in the study of ___.",
       "answer": "Makabansa"
     },
     {
       "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]?",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda?",
       "options": [
         "Core term: Tungkulin",
         "None of these",
@@ -7537,7 +7537,7 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]?",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda?",
       "options": [
         "Core term: Komunidad",
         "None of these",
@@ -7548,7 +7548,7 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]?",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda?",
       "options": [
         "Core term: Kasaysayan",
         "None of these",
@@ -7559,10 +7559,10 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] is correct?",
+      "q": "Statement Check (Question 25): Which statement about Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -7570,7 +7570,7 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced], what is the first priority?",
+      "q": "Challenge 1: In a complex situation involving Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda, what is the first priority?",
       "options": [
         "Analyze key terms and variables",
         "Guess the answer immediately",
@@ -7581,7 +7581,7 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]?",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda?",
       "options": [
         "The primary variable: Sarili",
         "An external variable",
@@ -7592,7 +7592,7 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced].",
+      "q": "Challenge 3: Compare two statements about Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda.",
       "options": [
         "Statement A: Proper methodology leads to a correct and verified solution.",
         "Statement B: Rushing through calculations is safe and rarely causes errors."
@@ -7601,12 +7601,12 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]?",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda?",
       "answer": "pamilya"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]?",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda?",
       "options": [
         "Building logical reasoning and problem-solving skills",
         "Forgetting previous lessons",
@@ -7618,8 +7618,8 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]",
-    "desc": "Perform a simple observation of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Interactive Task: Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda",
+    "desc": "Perform a simple observation of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
       "Accurate explanation of concept",
       "Clarity and confidence in presentation",
@@ -7628,9 +7628,9 @@ window.WEEK5_ADVANCED_DATA.makabansa = {
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Pamilya and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of sarili</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Pamilya and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of sarili</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 5: Timeline ng Komunidad at Panayam sa Nakatatanda.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -7639,15 +7639,15 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
   "color": "#06b6d4",
   "icon": "🧘‍♂️",
   "title": "GMRC",
-  "subtitle": "Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]",
+  "subtitle": "Week 5: Responsable - Aking mga Gampanin sa Tahanan",
   "slides": [
     {
-      "title": "Introduction to Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]",
+      "title": "Introduction to Week 5: Responsable - Aking mga Gampanin sa Tahanan",
       "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in GMRC.",
       "examples": [
         {
           "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] and apply them in daily situations."
+          "content": "Understand the core elements of Week 5: Responsable - Aking mga Gampanin sa Tahanan and apply them in daily situations."
         },
         {
           "title": "Real-world Connection",
@@ -7671,11 +7671,11 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of GMRC.",
+      "text": "The main focus of this week is Week 5: Responsable - Aking mga Gampanin sa Tahanan. By looking closely at how these ideas work together, we can build a strong understanding of GMRC.",
       "examples": [
         {
           "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] in simple activities."
+          "content": "How to identify, describe, and apply Week 5: Responsable - Aking mga Gampanin sa Tahanan in simple activities."
         },
         {
           "title": "Why It Matters",
@@ -7685,211 +7685,211 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 1 under Week 5: Responsable - Aking mga Gampanin sa Tahanan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan to observe the correct outcome."
         },
         {
           "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 2 under Week 5: Responsable - Aking mga Gampanin sa Tahanan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan to observe the correct outcome."
         },
         {
           "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 3 under Week 5: Responsable - Aking mga Gampanin sa Tahanan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan to observe the correct outcome."
         },
         {
           "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 4 under Week 5: Responsable - Aking mga Gampanin sa Tahanan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan to observe the correct outcome."
         },
         {
           "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 5 under Week 5: Responsable - Aking mga Gampanin sa Tahanan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan to observe the correct outcome."
         },
         {
           "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 6 under Week 5: Responsable - Aking mga Gampanin sa Tahanan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan to observe the correct outcome."
         },
         {
           "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 7 under Week 5: Responsable - Aking mga Gampanin sa Tahanan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan to observe the correct outcome."
         },
         {
           "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 8 under Week 5: Responsable - Aking mga Gampanin sa Tahanan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan to observe the correct outcome."
         },
         {
           "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 9 under Week 5: Responsable - Aking mga Gampanin sa Tahanan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan to observe the correct outcome."
         },
         {
           "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 10 under Week 5: Responsable - Aking mga Gampanin sa Tahanan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan to observe the correct outcome."
         },
         {
           "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 11 under Week 5: Responsable - Aking mga Gampanin sa Tahanan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan to observe the correct outcome."
         },
         {
           "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 12 under Week 5: Responsable - Aking mga Gampanin sa Tahanan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan to observe the correct outcome."
         },
         {
           "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 13 under Week 5: Responsable - Aking mga Gampanin sa Tahanan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan to observe the correct outcome."
         },
         {
           "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 14 under Week 5: Responsable - Aking mga Gampanin sa Tahanan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan to observe the correct outcome."
         },
         {
           "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 15 under Week 5: Responsable - Aking mga Gampanin sa Tahanan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 5: Responsable - Aking mga Gampanin sa Tahanan to observe the correct outcome."
         },
         {
           "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 5: Responsable - Aking mga Gampanin sa Tahanan in other contexts."
         }
       ]
     },
@@ -7899,7 +7899,7 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
       "examples": [
         {
           "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 1",
@@ -7913,7 +7913,7 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
       "examples": [
         {
           "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 2",
@@ -7927,7 +7927,7 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
       "examples": [
         {
           "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 3",
@@ -7941,7 +7941,7 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
       "examples": [
         {
           "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 4",
@@ -7979,7 +7979,7 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "text": "Congratulations! You have completed all the lessons on Week 5: Responsable - Aking mga Gampanin sa Tahanan. You are now ready to test your knowledge with the weekly quiz and challenges.",
       "examples": [
         {
           "title": "Summary Points",
@@ -7995,7 +7995,7 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]?",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan?",
       "options": [
         "Core term: Kalinisan",
         "None of these",
@@ -8006,7 +8006,7 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]?",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan?",
       "options": [
         "Core term: Disiplina",
         "None of these",
@@ -8017,7 +8017,7 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]?",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan?",
       "options": [
         "Core term: Paggalang",
         "None of these",
@@ -8028,7 +8028,7 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]?",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan?",
       "options": [
         "Core term: Katapatan",
         "None of these",
@@ -8039,16 +8039,16 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] is correct?",
+      "q": "Statement Check (Question 5): Which statement about Week 5: Responsable - Aking mga Gampanin sa Tahanan is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]?",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan?",
       "options": [
         "Core term: Pagtitipid",
         "None of these",
@@ -8059,12 +8059,12 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 7): Week 5: Responsable - Aking mga Gampanin sa Tahanan is a key topic in the study of ___.",
       "answer": "GMRC"
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]?",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan?",
       "options": [
         "Core term: Bayanihan",
         "None of these",
@@ -8075,7 +8075,7 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]?",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan?",
       "options": [
         "Core term: Pag-iimpok",
         "None of these",
@@ -8086,16 +8086,16 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] is correct?",
+      "q": "Statement Check (Question 10): Which statement about Week 5: Responsable - Aking mga Gampanin sa Tahanan is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]?",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan?",
       "options": [
         "Core term: Kalinisan",
         "None of these",
@@ -8106,7 +8106,7 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]?",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan?",
       "options": [
         "Core term: Disiplina",
         "None of these",
@@ -8117,7 +8117,7 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]?",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan?",
       "options": [
         "Core term: Paggalang",
         "None of these",
@@ -8128,21 +8128,21 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 14): Week 5: Responsable - Aking mga Gampanin sa Tahanan is a key topic in the study of ___.",
       "answer": "GMRC"
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] is correct?",
+      "q": "Statement Check (Question 15): Which statement about Week 5: Responsable - Aking mga Gampanin sa Tahanan is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]?",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan?",
       "options": [
         "Core term: Pagtitipid",
         "None of these",
@@ -8153,7 +8153,7 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]?",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan?",
       "options": [
         "Core term: Responsable",
         "None of these",
@@ -8164,7 +8164,7 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]?",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan?",
       "options": [
         "Core term: Bayanihan",
         "None of these",
@@ -8175,7 +8175,7 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]?",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan?",
       "options": [
         "Core term: Pag-iimpok",
         "None of these",
@@ -8186,21 +8186,21 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] is correct?",
+      "q": "Statement Check (Question 20): Which statement about Week 5: Responsable - Aking mga Gampanin sa Tahanan is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 21): Week 5: Responsable - Aking mga Gampanin sa Tahanan is a key topic in the study of ___.",
       "answer": "GMRC"
     },
     {
       "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]?",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan?",
       "options": [
         "Core term: Disiplina",
         "None of these",
@@ -8211,7 +8211,7 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]?",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan?",
       "options": [
         "Core term: Paggalang",
         "None of these",
@@ -8222,7 +8222,7 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]?",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 5: Responsable - Aking mga Gampanin sa Tahanan?",
       "options": [
         "Core term: Katapatan",
         "None of these",
@@ -8233,10 +8233,10 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] is correct?",
+      "q": "Statement Check (Question 25): Which statement about Week 5: Responsable - Aking mga Gampanin sa Tahanan is correct?",
       "options": [
-        "Statement A: The core rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan are applied to solve these cases.",
+        "Statement B: The core rules of Week 5: Responsable - Aking mga Gampanin sa Tahanan are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -8244,7 +8244,7 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced], what is the first priority?",
+      "q": "Challenge 1: In a complex situation involving Week 5: Responsable - Aking mga Gampanin sa Tahanan, what is the first priority?",
       "options": [
         "Analyze key terms and variables",
         "Guess the answer immediately",
@@ -8255,7 +8255,7 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]?",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 5: Responsable - Aking mga Gampanin sa Tahanan?",
       "options": [
         "The primary variable: Pagmamahal",
         "An external variable",
@@ -8266,7 +8266,7 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced].",
+      "q": "Challenge 3: Compare two statements about Week 5: Responsable - Aking mga Gampanin sa Tahanan.",
       "options": [
         "Statement A: Proper methodology leads to a correct and verified solution.",
         "Statement B: Rushing through calculations is safe and rarely causes errors."
@@ -8275,12 +8275,12 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]?",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 5: Responsable - Aking mga Gampanin sa Tahanan?",
       "answer": "kalinisan"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]?",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 5: Responsable - Aking mga Gampanin sa Tahanan?",
       "options": [
         "Building logical reasoning and problem-solving skills",
         "Forgetting previous lessons",
@@ -8292,8 +8292,8 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]",
-    "desc": "Perform a simple observation of Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Interactive Task: Week 5: Responsable - Aking mga Gampanin sa Tahanan",
+    "desc": "Perform a simple observation of Week 5: Responsable - Aking mga Gampanin sa Tahanan at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
       "Accurate explanation of concept",
       "Clarity and confidence in presentation",
@@ -8302,9 +8302,9 @@ window.WEEK5_ADVANCED_DATA.gmrc = {
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Kalinisan and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of pagmamahal</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 5: Responsable - Aking mga Gampanin sa Tahanan [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 5: Responsable - Aking mga Gampanin sa Tahanan</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 5: Responsable - Aking mga Gampanin sa Tahanan and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Kalinisan and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 5: Responsable - Aking mga Gampanin sa Tahanan.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of pagmamahal</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 5: Responsable - Aking mga Gampanin sa Tahanan.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };

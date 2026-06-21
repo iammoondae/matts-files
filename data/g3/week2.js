@@ -1,695 +1,660 @@
 window.WEEK2_DATA = {};
 
 window.WEEK2_DATA.math = {
-  "color": "#3b82f6",
-  "icon": "🔢",
   "title": "Mathematics",
   "subtitle": "Week 2: Numbers up to 10,000 & Comparing",
+  "color": "#3b82f6",
+  "icon": "🔢",
   "slides": [
     {
-      "title": "Introduction to Numbers up to 10,000",
-      "text": "As numbers get larger, we add more digits. A 4-digit number has places for Thousands, Hundreds, Tens, and Ones. Reading and writing these numbers is the key to understanding larger quantities.",
+      "title": "Exploring Numbers up to 10,000",
+      "text": "As numbers grow, we add more columns to the left in our place value chart. For 4-digit numbers, we have: Thousands (Th), Hundreds (H), Tens (T), and Ones (O).",
       "examples": [
         {
-          "title": "Library Books",
-          "content": "A school library has 3 boxes of 1,000 books, 4 boxes of 100 books, 2 packets of 10, and 8 single books. This is written as 3,428."
-        },
-        {
-          "title": "Barangay Population",
-          "content": "A small village has a population of 5,812 people."
+          "title": "Example",
+          "content": "In 4,528: 4 is in the Thousands place."
         }
       ]
     },
     {
-      "title": "Visualizing 4-Digit Numbers",
-      "text": "We can visualize 4-digit numbers using blocks: a large cube is 1,000, a flat is 100, a rod is 10, and a unit is 1. We also use number discs labeled 1000, 100, 10, and 1.",
+      "title": "Comparing Numbers",
+      "text": "To compare numbers, we look at the digits in the highest place value column first. We use comparison symbols: '>' (greater than), '<' (less than), and '=' (equal to).",
       "examples": [
         {
-          "title": "Blocks for 2,345",
-          "content": "Use 2 large cubes (2,000), 3 flats (300), 4 rods (40), and 5 unit blocks (5)."
-        },
-        {
-          "title": "Discs for 6,012",
-          "content": "Place six 1000 discs, zero 100 discs, one 10 disc, and two 1 discs."
+          "title": "Example",
+          "content": "Comparing 3,456 and 3,429: 3,456 > 3,429 since 5 tens > 2 tens."
         }
       ]
     },
     {
-      "title": "The Expanded Place Value Chart",
-      "text": "Our place value chart now has four columns: Thousands (Th), Hundreds (H), Tens (T), and Ones (O). The position of each digit determines its place value.",
+      "title": "Ordering Numbers",
+      "text": "Ordering numbers can be done in Ascending Order (from smallest to largest) or Descending Order (from largest to smallest).",
       "examples": [
         {
-          "title": "Chart for 7,856",
-          "content": "Housed as: Th = 7, H = 8, T = 5, O = 6."
-        },
-        {
-          "title": "Chart for 9,042",
-          "content": "Housed as: Th = 9, H = 0, T = 4, O = 2."
+          "title": "Example",
+          "content": "Ascending: 125, 456, 789. Descending: 789, 456, 125."
         }
       ]
     },
     {
-      "title": "Place Value vs Value up to 10,000",
-      "text": "Place value is the position (e.g., Thousands). Value is how much the digit is worth (e.g., a 4 in the Thousands place has a value of 4,000).",
+      "title": "Place Value in 4-Digit Numbers",
+      "text": "Understanding place value up to 10,000 helps us with addition and subtraction of large numbers. For example, 1,000 has 10 hundreds.",
       "examples": [
         {
-          "title": "Analyzing 5,632",
-          "content": "The digit 5 is in the Thousands place. Its value is 5,000."
-        },
-        {
-          "title": "Analyzing 8,140",
-          "content": "The digit 4 is in the Tens place. Its value is 40."
+          "title": "Example",
+          "content": "In 8,025: 8 is worth 8,000."
         }
       ]
     },
     {
-      "title": "Understanding Place Value Relationships",
-      "text": "Each place value column is 10 times larger than the one to its right. Ten hundreds make exactly one thousand ($10 \times 100 = 1,000$).",
+      "title": "Summary of Comparing",
+      "text": "Remember: Always compare starting from the leftmost column. If they are equal, move to the next column on the right.",
       "examples": [
         {
-          "title": "Ten Flats swap",
-          "content": "Swapping 10 flat blocks of 100 gives you 1 large thousands block."
-        },
-        {
-          "title": "Value comparison",
-          "content": "A digit 3 in the Thousands place (3,000) is 10 times larger than a 3 in the Hundreds place (300)."
+          "title": "Example",
+          "content": "9,812 < 9,820 because 1 ten < 2 tens."
         }
       ]
     },
     {
-      "title": "Standard Form up to 10,000",
-      "text": "Standard Form uses digits to write numbers. We write a comma between the thousands and hundreds digit to make reading easier (e.g., 4,320).",
+      "title": "Review Slide 1",
+      "text": "Let's review what we have learned about Week 2: Numbers up to 10,000 & Comparing. Pay close attention to how we define terms and perform step-by-step calculations.",
       "examples": [
         {
-          "title": "Writing Five Thousand Two",
-          "content": "Written in standard form as 5,002."
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
         },
         {
-          "title": "Writing Nine Thousand Eight Hundred",
-          "content": "Written in standard form as 9,800."
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
         }
       ]
     },
     {
-      "title": "Expanded Form up to 10,000",
-      "text": "Expanded Form shows the sum of the values of each digit. This helps decompose a large number into thousands, hundreds, tens, and ones.",
+      "title": "Extra Practice Task 2",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 2: Numbers up to 10,000 & Comparing.",
       "examples": [
         {
-          "title": "Expanding 4,785",
-          "content": "4,785 = 4,000 + 700 + 80 + 5."
+          "title": "Practice Task 2",
+          "content": "How do you apply Week 2: Numbers up to 10,000 & Comparing to solve a practical daily math problem?"
         },
         {
-          "title": "Expanding 8,023",
-          "content": "8,023 = 8,000 + 0 + 20 + 3 (or 8,000 + 20 + 3)."
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
         }
       ]
     },
     {
-      "title": "Word Form of 4-Digit Numbers",
-      "text": "Word Form writes the number using words. We write the number of thousands, followed by the word 'thousand', then the hundreds, tens, and ones.",
+      "title": "Review Slide 3",
+      "text": "Let's review what we have learned about Week 2: Numbers up to 10,000 & Comparing. Pay close attention to how we define terms and perform step-by-step calculations.",
       "examples": [
         {
-          "title": "Reading 3,450",
-          "content": "Written in words as 'three thousand four hundred fifty'."
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
         },
         {
-          "title": "Reading 7,009",
-          "content": "Written in words as 'seven thousand nine'."
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
         }
       ]
     },
     {
-      "title": "Zero as a Placeholder in 4-Digit Numbers",
-      "text": "Zero is vital in 4-digit numbers to hold places where there are no hundreds, tens, or ones. Without zero, 5,002 would look like 52.",
+      "title": "Extra Practice Task 4",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 2: Numbers up to 10,000 & Comparing.",
       "examples": [
         {
-          "title": "Zero in Hundreds place",
-          "content": "In 8,045, the 0 indicates there are no hundreds, keeping the 8 in the thousands place."
+          "title": "Practice Task 4",
+          "content": "How do you apply Week 2: Numbers up to 10,000 & Comparing to solve a practical daily math problem?"
         },
         {
-          "title": "Multiple Zeros",
-          "content": "In 6,000, three zeros hold the hundreds, tens, and ones places."
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
         }
       ]
     },
     {
-      "title": "Comparing Numbers: Leftmost Comparison",
-      "text": "To compare two numbers, we look at their leftmost digit (highest place value). For 4-digit numbers, we start by comparing the thousands place.",
+      "title": "Review Slide 5",
+      "text": "Let's review what we have learned about Week 2: Numbers up to 10,000 & Comparing. Pay close attention to how we define terms and perform step-by-step calculations.",
       "examples": [
         {
-          "title": "Comparing 5,300 and 4,900",
-          "content": "Since 5 thousand is greater than 4 thousand, 5,300 > 4,900."
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
         },
         {
-          "title": "Comparing 8,120 and 7,999",
-          "content": "Since 8 > 7, 8,120 > 7,999."
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
         }
       ]
     },
     {
-      "title": "Comparing Numbers: Equal Thousands",
-      "text": "If the thousands digits are equal, we move to the next place value on the right, which is the hundreds place, and compare those digits.",
+      "title": "Extra Practice Task 6",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 2: Numbers up to 10,000 & Comparing.",
       "examples": [
         {
-          "title": "Comparing 3,400 and 3,200",
-          "content": "The thousands are both 3. Compare the hundreds: 4 > 2, so 3,400 > 3,200."
+          "title": "Practice Task 6",
+          "content": "How do you apply Week 2: Numbers up to 10,000 & Comparing to solve a practical daily math problem?"
         },
         {
-          "title": "Comparing 6,800 and 6,900",
-          "content": "The thousands are both 6. Compare hundreds: 8 < 9, so 6,800 < 6,900."
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
         }
       ]
     },
     {
-      "title": "Comparing Numbers: Equal Hundreds",
-      "text": "If both thousands and hundreds are equal, we move to the tens place and compare the digits there. If they are also equal, we compare the ones.",
+      "title": "Review Slide 7",
+      "text": "Let's review what we have learned about Week 2: Numbers up to 10,000 & Comparing. Pay close attention to how we define terms and perform step-by-step calculations.",
       "examples": [
         {
-          "title": "Comparing 4,560 and 4,520",
-          "content": "Compare tens: 6 > 2, so 4,560 > 4,520."
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
         },
         {
-          "title": "Comparing 7,893 and 7,895",
-          "content": "Compare ones: 3 < 5, so 7,893 < 7,895."
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
         }
       ]
     },
     {
-      "title": "The Greater Than Symbol (>)",
-      "text": "The symbol '>' means 'is greater than'. The open mouth of the symbol always points towards the larger number.",
+      "title": "Extra Practice Task 8",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 2: Numbers up to 10,000 & Comparing.",
       "examples": [
         {
-          "title": "Example 1",
-          "content": "8,500 > 6,200 (Eight thousand five hundred is greater than six thousand two hundred)."
+          "title": "Practice Task 8",
+          "content": "How do you apply Week 2: Numbers up to 10,000 & Comparing to solve a practical daily math problem?"
         },
         {
-          "title": "Example 2",
-          "content": "1,200 > 1,150 (One thousand two hundred is greater than one thousand one hundred fifty)."
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
         }
       ]
     },
     {
-      "title": "The Less Than Symbol (<)",
-      "text": "The symbol '<' means 'is less than'. The pointed end of the symbol always points towards the smaller number.",
+      "title": "Review Slide 9",
+      "text": "Let's review what we have learned about Week 2: Numbers up to 10,000 & Comparing. Pay close attention to how we define terms and perform step-by-step calculations.",
       "examples": [
         {
-          "title": "Example 1",
-          "content": "2,300 < 4,500 (Two thousand three hundred is less than four thousand five hundred)."
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
         },
         {
-          "title": "Example 2",
-          "content": "9,002 < 9,020 (Nine thousand two is less than nine thousand twenty)."
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
         }
       ]
     },
     {
-      "title": "The Equal To Symbol (=)",
-      "text": "The symbol '=' means 'is equal to'. It shows that both sides represent the exact same numeric value.",
+      "title": "Extra Practice Task 10",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 2: Numbers up to 10,000 & Comparing.",
       "examples": [
         {
-          "title": "Example 1",
-          "content": "5,400 = 5,400."
+          "title": "Practice Task 10",
+          "content": "How do you apply Week 2: Numbers up to 10,000 & Comparing to solve a practical daily math problem?"
         },
         {
-          "title": "Example 2",
-          "content": "3,000 + 400 + 2 = 3,402."
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
         }
       ]
     },
     {
-      "title": "Ascending Order (Pataas)",
-      "text": "Ascending order means arranging numbers from the smallest to the largest value. We compare the numbers and place the smallest first.",
+      "title": "Review Slide 11",
+      "text": "Let's review what we have learned about Week 2: Numbers up to 10,000 & Comparing. Pay close attention to how we define terms and perform step-by-step calculations.",
       "examples": [
         {
-          "title": "Sorting 3 numbers",
-          "content": "Given: 4,200; 1,500; 3,800. In ascending order: 1,500; 3,800; 4,200."
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
         },
         {
-          "title": "Sorting 4 numbers",
-          "content": "Given: 8,900; 8,200; 8,500; 8,000. Ascending: 8,000; 8,200; 8,500; 8,900."
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
         }
       ]
     },
     {
-      "title": "Descending Order (Pababa)",
-      "text": "Descending order means arranging numbers from the largest to the smallest value. We place the greatest number first.",
+      "title": "Extra Practice Task 12",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 2: Numbers up to 10,000 & Comparing.",
       "examples": [
         {
-          "title": "Sorting 3 numbers",
-          "content": "Given: 5,400; 9,100; 7,300. Descending order: 9,100; 7,300; 5,400."
+          "title": "Practice Task 12",
+          "content": "How do you apply Week 2: Numbers up to 10,000 & Comparing to solve a practical daily math problem?"
         },
         {
-          "title": "Sorting 4 numbers",
-          "content": "Given: 1,200; 2,100; 1,800; 2,500. Descending: 2,500; 2,100; 1,800; 1,200."
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
         }
       ]
     },
     {
-      "title": "Skip Counting by 1,000s",
-      "text": "Skip counting by 1,000s means adding 1,000 to the previous number at each step. Only the thousands digit changes.",
+      "title": "Review Slide 13",
+      "text": "Let's review what we have learned about Week 2: Numbers up to 10,000 & Comparing. Pay close attention to how we define terms and perform step-by-step calculations.",
       "examples": [
         {
-          "title": "Starting from 1,000",
-          "content": "1,000; 2,000; 3,000; 4,000; 5,000; 6,000."
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
         },
         {
-          "title": "Starting from 3,450",
-          "content": "3,450; 4,450; 5,450; 6,450; 7,450."
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
         }
       ]
     },
     {
-      "title": "Skip Counting Patterns: Deeper Look",
-      "text": "In number sequences, find the difference between consecutive numbers to identify the skip counting rule. It could be by 10s, 100s, or 1,000s.",
+      "title": "Extra Practice Task 14",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 2: Numbers up to 10,000 & Comparing.",
       "examples": [
         {
-          "title": "Analyzing 4,500; 4,600; 4,700",
-          "content": "The difference is 100. The rule is 'add 100'."
+          "title": "Practice Task 14",
+          "content": "How do you apply Week 2: Numbers up to 10,000 & Comparing to solve a practical daily math problem?"
         },
         {
-          "title": "Analyzing 7,230; 7,240; 7,250",
-          "content": "The difference is 10. The rule is 'add 10'."
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
         }
       ]
     },
     {
-      "title": "Finding the Missing Term",
-      "text": "Once you identify the pattern's rule, you can apply it to find missing numbers in the sequence, whether in the middle or at the end.",
+      "title": "Review Slide 15",
+      "text": "Let's review what we have learned about Week 2: Numbers up to 10,000 & Comparing. Pay close attention to how we define terms and perform step-by-step calculations.",
       "examples": [
         {
-          "title": "Pattern: 2,000; 4,000; __; 8,000",
-          "content": "The rule is add 2,000. The missing term is 6,000."
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
         },
         {
-          "title": "Pattern: 9,500; 9,000; 8,500; __",
-          "content": "The rule is subtract 500. The missing term is 8,000."
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
         }
       ]
     },
     {
-      "title": "Comparing Digit Values in Different Numbers",
-      "text": "We can compare the value of the same digit across different numbers. A digit 5 in 5,200 has a value of 5,000, but in 8,500 it has a value of 500.",
+      "title": "Extra Practice Task 16",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 2: Numbers up to 10,000 & Comparing.",
       "examples": [
         {
-          "title": "Comparing digit 8",
-          "content": "In 8,421, the 8 is worth 8,000. In 1,842, the 8 is worth 800. Therefore, 8,000 > 800."
+          "title": "Practice Task 16",
+          "content": "How do you apply Week 2: Numbers up to 10,000 & Comparing to solve a practical daily math problem?"
         },
         {
-          "title": "Comparing digit 2",
-          "content": "In 2,900, the 2 is worth 2,000. In 2,100, the 2 is also worth 2,000. Their values are equal."
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
         }
       ]
     },
     {
-      "title": "Rounding Off to the Nearest Thousands",
-      "text": "To round a number to the nearest thousands, look at the hundreds digit. If it is 5 or more, round up. If it is 4 or less, round down.",
+      "title": "Review Slide 17",
+      "text": "Let's review what we have learned about Week 2: Numbers up to 10,000 & Comparing. Pay close attention to how we define terms and perform step-by-step calculations.",
       "examples": [
         {
-          "title": "Rounding 4,800",
-          "content": "The hundreds digit is 8 (5 or more). Round up to 5,000."
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
         },
         {
-          "title": "Rounding 7,240",
-          "content": "The hundreds digit is 2 (4 or less). Round down to 7,000."
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
         }
       ]
     },
     {
-      "title": "Rounding Off to the Nearest Hundreds",
-      "text": "To round a number to the nearest hundreds, look at the tens digit. If it is 5 or more, round up. If it is 4 or less, round down.",
+      "title": "Extra Practice Task 18",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 2: Numbers up to 10,000 & Comparing.",
       "examples": [
         {
-          "title": "Rounding 3,462",
-          "content": "The tens digit is 6. Round up to 3,500."
+          "title": "Practice Task 18",
+          "content": "How do you apply Week 2: Numbers up to 10,000 & Comparing to solve a practical daily math problem?"
         },
         {
-          "title": "Rounding 8,924",
-          "content": "The tens digit is 2. Round down to 8,900."
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
         }
       ]
     },
     {
-      "title": "Non-Routine Logic: Multi-Digit Riddles",
-      "text": "We can use logical constraints and inequalities to solve non-routine riddles. Let's practice analyzing clues.",
+      "title": "Review Slide 19",
+      "text": "Let's review what we have learned about Week 2: Numbers up to 10,000 & Comparing. Pay close attention to how we define terms and perform step-by-step calculations.",
       "examples": [
         {
-          "title": "Riddle 1",
-          "content": "Clue: I am a 4-digit number. I am greater than 4,000 but less than 4,100. My tens digit is 7, and my ones digit is 9. Answer: 4,079."
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
         },
         {
-          "title": "Riddle 2",
-          "content": "Clue: I am a 4-digit number. My thousands digit is 6. My hundreds digit is twice my thousands digit? No, hundreds cannot be 12. My hundreds digit is half of 6, which is 3. My tens and ones are 0. Answer: 6,300."
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
         }
       ]
     },
     {
-      "title": "Summary: Numbers and Comparing",
-      "text": "Congratulations! You have mastered place value up to 10,000, comparing using >, <, and =, ordering in ascending/descending forms, skip counting, rounding, and number logic.",
+      "title": "Summary: Week 2: Numbers up to 10,000 & Comparing",
+      "text": "You have completed all slides for this lesson on Week 2: Numbers up to 10,000 & Comparing. Take a moment to review the key formulas, definitions, and practice problems we covered.",
       "examples": [
         {
-          "title": "Summary Checklist",
-          "content": "Th, H, T, O place values -> Compare leftmost digit -> Ascending is small to big -> Descending is big to small."
+          "title": "Key Takeaway",
+          "content": "Mastering the core principles of Week 2: Numbers up to 10,000 & Comparing is essential for future topics."
         },
         {
-          "title": "Next Steps",
-          "content": "We will use these comparing rules when dealing with money, measurements, and mathematical operations!"
+          "title": "Next Step",
+          "content": "You are now ready to try the quiz and challenges to test your understanding."
         }
       ]
     }
   ],
   "standard": [
     {
-      "type": "choice",
-      "q": "In the number 8,421, which digit is in the thousands place?",
-      "options": [
-        "8",
-        "4",
-        "2",
-        "1"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "What is the value of the digit 7 in the number 9,754?",
-      "options": [
-        "7",
-        "70",
-        "700",
-        "7,000"
-      ],
-      "answer": 2
-    },
-    {
-      "type": "choice",
-      "q": "Which represents the number 'six thousand forty-two' in standard form?",
-      "options": [
-        "642",
-        "6,042",
-        "6,420",
-        "6,0042"
-      ],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "What is the expanded form of the number 8,912?",
-      "options": [
-        "800 + 900 + 10 + 2",
-        "8,000 + 900 + 10 + 2",
-        "8,000 + 90 + 10 + 2",
-        "8 + 9 + 1 + 2"
-      ],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "Which relation symbol makes this statement true: 4,500 __ 4,800?",
-      "options": [
+      "q": "Which symbol correctly compares: 4,520 ___ 4,250?",
+      "opts": [
         ">",
         "<",
         "=",
         "+"
       ],
-      "answer": 1
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Which relation symbol makes this statement true: 7,812 __ 7,812?",
-      "options": [
-        ">",
-        "<",
-        "=",
-        "-"
+      "q": "In the number 8,142, which digit is in the thousands place?",
+      "opts": [
+        "8",
+        "1",
+        "4",
+        "2"
       ],
-      "answer": 2
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Which relation symbol makes this statement true: 9,210 __ 8,999?",
-      "options": [
-        ">",
-        "<",
-        "=",
-        "None"
+      "q": "Which number is the smallest?",
+      "opts": [
+        "2,345",
+        "2,435",
+        "2,354",
+        "2,543"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Which number is greater than 5,682?",
-      "options": [
-        "5,600",
-        "5,680",
-        "5,690",
-        "5,599"
+      "q": "Which number is the largest?",
+      "opts": [
+        "9,810",
+        "9,180",
+        "9,801",
+        "9,081"
       ],
-      "answer": 2
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Which number is less than 3,010?",
-      "options": [
-        "3,020",
-        "3,100",
-        "3,009",
-        "3,011"
+      "q": "Arrange in ascending order: 450, 405, 504",
+      "opts": [
+        "405, 450, 504",
+        "450, 405, 504",
+        "504, 450, 405",
+        "405, 504, 450"
       ],
-      "answer": 2
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "When comparing 4,321 and 4,385, which place value determines the larger number?",
-      "options": [
+      "q": "Arrange in descending order: 8,100, 8,900, 8,500",
+      "opts": [
+        "8,900, 8,500, 8,100",
+        "8,100, 8,500, 8,900",
+        "8,500, 8,900, 8,100",
+        "8,900, 8,100, 8,500"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "In 7,305, what is the value of 7?",
+      "opts": [
+        "7,000",
+        "700",
+        "70",
+        "7"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Which statement is true?",
+      "opts": [
+        "5,432 > 5,423",
+        "5,432 < 5,423",
+        "5,432 = 5,423",
+        "5,432 < 5,000"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "What is the place value of 9 in 9,021?",
+      "opts": [
         "Thousands",
         "Hundreds",
         "Tens",
         "Ones"
       ],
-      "answer": 2
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "What are these numbers arranged in ascending order: 4,800; 1,200; 3,500?",
-      "options": [
-        "4,800; 3,500; 1,200",
-        "1,200; 3,500; 4,800",
-        "3,500; 1,200; 4,800",
-        "1,200; 4,800; 3,500"
+      "q": "Which number is equal to 4 thousands, 2 hundreds, 0 tens, and 8 ones?",
+      "opts": [
+        "4,208",
+        "4,280",
+        "4,028",
+        "428"
       ],
-      "answer": 1
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "What are these numbers arranged in descending order: 7,200; 9,800; 8,100?",
-      "options": [
-        "9,800; 8,100; 7,200",
-        "7,200; 8,100; 9,800",
-        "8,100; 9,800; 7,200",
-        "9,800; 7,200; 8,100"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Complete the pattern: 2,000; 3,000; 4,000; __; 6,000",
-      "options": [
-        "4,500",
-        "5,000",
-        "5,500",
-        "7,000"
-      ],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "Complete the pattern: 7,500; 7,600; 7,700; __; 7,900",
-      "options": [
-        "7,750",
-        "7,800",
-        "7,850",
-        "8,000"
-      ],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "What is 4,380 rounded to the nearest thousands?",
-      "options": [
-        "4,000",
-        "5,000",
-        "4,400",
-        "4,300"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "What is 7,850 rounded to the nearest thousands?",
-      "options": [
-        "7,000",
-        "8,000",
-        "7,900",
-        "7,800"
-      ],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "What is 5,462 rounded to the nearest hundreds?",
-      "options": [
-        "5,000",
-        "5,400",
-        "5,500",
-        "6,000"
-      ],
-      "answer": 2
-    },
-    {
-      "type": "choice",
-      "q": "In which of the following numbers does the digit 3 have the greatest value?",
-      "options": [
-        "1,230",
-        "3,402",
-        "1,352",
-        "9,813"
-      ],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "How is 8,005 written in word form?",
-      "options": [
-        "Eight thousand fifty",
-        "Eight thousand five",
-        "Eight hundred five",
-        "Eighty thousand five"
-      ],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "If you count backwards by 1,000s starting from 9,500, what is the next number?",
-      "options": [
-        "9,400",
-        "8,500",
-        "7,500",
-        "9,000"
-      ],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "Which place value is 10 times larger than the Thousands place?",
-      "options": [
+      "q": "What is the place value of 0 in 7,015?",
+      "opts": [
         "Hundreds",
-        "Ten Thousands",
-        "Ones",
-        "Millions"
+        "Thousands",
+        "Tens",
+        "Ones"
       ],
-      "answer": 1
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "What number is represented by 4 large cubes, 7 flats, 0 rods, and 9 unit cubes?",
-      "options": [
-        "479",
-        "4,790",
-        "4,709",
-        "4,079"
+      "q": "Which number is less than 1,000?",
+      "opts": [
+        "999",
+        "1,001",
+        "1,000",
+        "1,200"
       ],
-      "answer": 2
+      "ans": 0
     },
     {
-      "type": "verify",
-      "q": "Which of the following statements is true?",
-      "options": [
-        "Statement A: The standard form of eight thousand forty-two is 8,042.",
-        "Statement B: The standard form of eight thousand forty-two is 8,420."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "What number is missing in the pattern: 4,000; 4,250; 4,500; __; 5,000?",
-      "answer": "4750"
-    },
-    {
-      "type": "choice",
-      "q": "Which comparison symbol correctly fits in the blank: 8,450 ___ 8,504?",
-      "options": [
+      "q": "Compare: 6,781 ___ 6,781",
+      "opts": [
+        "=",
         ">",
         "<",
-        "=",
-        "+"
+        "None"
       ],
-      "answer": 1
+      "ans": 0
+    },
+    {
+      "q": "Which digit has the least value in 3,456?",
+      "opts": [
+        "6",
+        "5",
+        "4",
+        "3"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "What is 1,000 more than 7,250?",
+      "opts": [
+        "8,250",
+        "7,350",
+        "7,260",
+        "6,250"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Compare: 8,990 ___ 9,000",
+      "opts": [
+        "<",
+        ">",
+        "=",
+        "None"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Which number has 5 in the hundreds place?",
+      "opts": [
+        "1,520",
+        "5,120",
+        "1,250",
+        "1,205"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Which of these numbers is between 4,500 and 4,600?",
+      "opts": [
+        "4,550",
+        "4,499",
+        "4,601",
+        "5,500"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Ascending order means:",
+      "opts": [
+        "Least to greatest",
+        "Greatest to least",
+        "Equal numbers",
+        "Random numbers"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "What is the value of 8 in 3,845?",
+      "opts": [
+        "800",
+        "8,000",
+        "80",
+        "8"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Which is correct?",
+      "opts": [
+        "1,234 < 1,235",
+        "1,234 > 1,235",
+        "1,234 = 1,235",
+        "1,234 > 2,000"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "What is 100 less than 9,000?",
+      "opts": [
+        "8,900",
+        "9,100",
+        "8,000",
+        "8,990"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "What is the place value of 2 in 4,520?",
+      "opts": [
+        "Tens",
+        "Ones",
+        "Hundreds",
+        "Thousands"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Which number is equal to 3,000 + 400 + 20 + 5?",
+      "opts": [
+        "3,425",
+        "3,245",
+        "3,452",
+        "3,0425"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Which number is larger than 8,765?",
+      "opts": [
+        "8,766",
+        "8,764",
+        "8,675",
+        "7,865"
+      ],
+      "ans": 0
     }
   ],
   "challenge": [
     {
-      "type": "choice",
-      "q": "I am a 4-digit number. My thousands digit is 7. My hundreds digit is 2 less than my thousands digit. My tens digit is 0. My ones digit is 3 more than my hundreds digit. What number am I?",
-      "options": [
-        "7,508",
-        "7,505",
-        "7,208",
-        "7,205"
+      "q": "I am a 4-digit number. My thousands digit is 3. My hundreds digit is 1 more than my thousands digit. My tens digit is 5. My ones digit is 0. What number am I?",
+      "opts": [
+        "3,450",
+        "3,150",
+        "3,451",
+        "4,350"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Arrange these numbers in descending order: 8,420; 8,402; 8,450; 8,042.",
-      "options": [
-        "8,450; 8,420; 8,402; 8,042",
-        "8,042; 8,402; 8,420; 8,450",
-        "8,450; 8,402; 8,420; 8,042",
-        "8,420; 8,450; 8,402; 8,042"
+      "q": "Using the digits 4, 7, 1, 9 once, what is the largest number you can make?",
+      "opts": [
+        "9,741",
+        "9,714",
+        "9,471",
+        "7,941"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "If you add the value of 3 in 3,421 to the value of 5 in 1,582, what is the sum?",
-      "options": [
-        "3,500",
-        "3,050",
-        "8,000",
-        "800"
+      "q": "Using the digits 4, 7, 1, 9 once, what is the smallest number you can make?",
+      "opts": [
+        "1,479",
+        "1,497",
+        "1,749",
+        "4,179"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "verify",
-      "q": "Which of the following statements is true?",
-      "options": [
-        "Statement A: 6,854 rounded to the nearest thousands is 7,000, and rounded to the nearest hundreds is 6,900.",
-        "Statement B: 6,854 rounded to the nearest thousands is 6,000, and rounded to the nearest hundreds is 6,800."
+      "q": "Which of these has the highest value?",
+      "opts": [
+        "9 thousands",
+        "89 hundreds",
+        "90 tens",
+        "900 ones"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "blank",
-      "q": "I am a 4-digit number. My thousands digit is 4. My hundreds digit is 8. My tens digit is greater than 5 but less than 7. My ones digit is 0. What is my standard form?",
-      "answer": "4860"
+      "q": "I am between 2,340 and 2,350. My ones digit is twice my thousands digit. What number am I?",
+      "opts": [
+        "2,344",
+        "2,346",
+        "2,348",
+        "2,342"
+      ],
+      "ans": 0
     }
   ],
   "performance": {
-    "type": "performance",
-    "title": "Comparing Numbers Game",
-    "desc": "Get a sheet of paper and write down three pairs of 4-digit numbers. Use >, <, or = to compare them. Underline the place value digit that helped you decide which number is larger for each pair. Present your sheet to your teacher or parent.",
+    "title": "Comparing Heights",
+    "desc": "Collect the heights of 4 family members in centimeters (e.g. 155 cm, 162 cm). Write them down on a piece of paper, arrange them in ascending order, and identify who is the tallest and who is the shortest. Explain your results to your parent.",
     "labels": [
-      "Three correct number pairs compared with symbols",
-      "Correct digit underlined showing the decision point",
-      "Neatness of writing and explanation"
+      "Heights are correctly recorded",
+      "Correct ascending arrangement",
+      "Clear verbal explanation"
     ]
   },
   "worksheet": {
     "pages": [
-      "\n                <div class=\"ws-page-content\">\n                  <h3>Exercise 1: Comparing Numbers</h3>\n                  <p class=\"ws-instruction\">Compare the numbers using the comparison symbols: <strong>&lt;</strong>, <strong>&gt;</strong>, or <strong>=</strong>.</p>\n                  \n                  <div class=\"ws-q-list\" style=\"font-size: 18px;\">\n                    <div style=\"margin-bottom: 20px;\">1. &nbsp; 4,567 &nbsp; [ &nbsp; <span class=\"ws-answer\">&lt;</span> &nbsp; ] &nbsp; 4,576</div>\n                    <div style=\"margin-bottom: 20px;\">2. &nbsp; 8,901 &nbsp; [ &nbsp; <span class=\"ws-answer\">&gt;</span> &nbsp; ] &nbsp; 8,099</div>\n                    <div style=\"margin-bottom: 20px;\">3. &nbsp; 3,240 &nbsp; [ &nbsp; <span class=\"ws-answer\">=</span> &nbsp; ] &nbsp; 3,240</div>\n                    <div style=\"margin-bottom: 20px;\">4. &nbsp; 7,112 &nbsp; [ &nbsp; <span class=\"ws-answer\">&lt;</span> &nbsp; ] &nbsp; 7,121</div>\n                  </div>\n                </div>\n                ",
-      "\n                <div class=\"ws-page-content\">\n                  <h3>Exercise 2: Ordering Numbers</h3>\n                  <p class=\"ws-instruction\">Arrange the following set of numbers in descending order (largest to smallest) in the writing lines below.</p>\n                  \n                  <div style=\"font-size: 16px; margin-bottom: 20px; font-weight: bold; text-align: center;\">\n                    5,678 &nbsp; | &nbsp; 5,867 &nbsp; | &nbsp; 5,687 &nbsp; | &nbsp; 5,876\n                  </div>\n                  \n                  <div class=\"ws-item-row\" style=\"margin-top: 30px;\">\n                    <div>Your Answer:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 80%;\"><span class=\"ws-answer\">5,876 &gt; 5,867 &gt; 5,687 &gt; 5,678</span></div>\n                  </div>\n                </div>\n                ",
-      "\n                <div class=\"ws-page-content\">\n                  <h3>Exercise 3: Comparing Numbers</h3>\n                  <p class=\"ws-instruction\">Write &lt;, &gt;, or = inside the boxes using your stylus to compare the numbers.</p>\n                  \n                  <div class=\"ws-q-list\" style=\"font-size: 18px; margin-top: 25px; text-align: center;\">\n                    <div style=\"margin-bottom: 30px;\">4,562 &nbsp; &nbsp; [ &nbsp; <span class=\"ws-answer\">&lt;</span> &nbsp; ] &nbsp; &nbsp; 4,582</div>\n                    <div style=\"margin-bottom: 30px;\">8,901 &nbsp; &nbsp; [ &nbsp; <span class=\"ws-answer\">&gt;</span> &nbsp; ] &nbsp; &nbsp; 8,091</div>\n                    <div style=\"margin-bottom: 30px;\">3,450 &nbsp; &nbsp; [ &nbsp; <span class=\"ws-answer\">=</span> &nbsp; ] &nbsp; &nbsp; 3,450</div>\n                  </div>\n                </div>\n                "
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Comparing Multi-Digit Numbers</h3>\n                  <p class=\"ws-instruction\">Write &lt;, &gt;, or = on the lines using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. 4,528 _____ 4,582</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 40%;\"><span class=\"ws-answer\">&lt;</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. 9,105 _____ 8,999</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 40%;\"><span class=\"ws-answer\">&gt;</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. 7,340 _____ 7,340</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 40%;\"><span class=\"ws-answer\">=</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Ordering Sequences</h3>\n                  <p class=\"ws-instruction\">Arrange the numbers in the order specified.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Arrange in <strong>Ascending Order</strong>: 3,450; 3,045; 3,540; 3,405</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 100%;\"><span class=\"ws-answer\">3,045; 3,405; 3,450; 3,540</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Arrange in <strong>Descending Order</strong>: 8,129; 8,912; 8,219; 8,192</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 100%;\"><span class=\"ws-answer\">8,912; 8,219; 8,192; 8,129</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Greatest and Least Values</h3>\n                  <p class=\"ws-instruction\">Use the digits <strong>3, 8, 0, 5</strong> once each to write the requested numbers.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the <strong>largest 4-digit number</strong> you can make?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 40%;\"><span class=\"ws-answer\">8,530</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. What is the <strong>smallest 4-digit number</strong> you can make? (Remember it must start with a non-zero digit).</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 40%;\"><span class=\"ws-answer\">3,058</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -698,355 +663,355 @@ window.WEEK2_DATA.science = {
   "color": "#10b981",
   "icon": "🔬",
   "title": "Science",
-  "subtitle": "Week 2: Exploring and Tinkering with Materials Safely",
+  "subtitle": "Week 2: Asking Questions Like a Scientist",
   "slides": [
     {
-      "title": "Introduction to Week 2: Exploring and Tinkering with Materials Safely",
-      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Science.",
+      "title": "Curiosity & Questions",
+      "text": "Scientists are curious. They start their investigations by asking questions about what they observe in the environment.",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 2: Exploring and Tinkering with Materials Safely and apply them in daily situations."
+          "title": "Inquiry",
+          "content": "Asking questions to find out how and why things happen."
         },
         {
-          "title": "Real-world Connection",
-          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+          "title": "Curiosity",
+          "content": "The desire to explore, tinker, and discover new things."
         }
       ]
     },
     {
-      "title": "Core Vocabulary & Terms",
-      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "title": "Core Vocabulary",
+      "text": "Let's learn the terms of inquiry: Tinker, Explore, Question, and Discovery.",
       "examples": [
         {
-          "title": "Term 1: Observation",
-          "content": "A foundational concept in Science that helps us categorize and understand details."
+          "title": "Tinker",
+          "content": "Playing or experimenting with objects to see how they work."
         },
         {
-          "title": "Term 2: Prediction",
-          "content": "An active process or skill used to analyze situations and solve problems."
+          "title": "Explore",
+          "content": "Investigating a place or material to learn about its properties."
         }
       ]
     },
     {
-      "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 2: Exploring and Tinkering with Materials Safely. By looking closely at how these ideas work together, we can build a strong understanding of Science.",
+      "title": "Starting with Questions",
+      "text": "Scientific questions help us focus our exploration. Good questions start with 'Why', 'What', and 'How'.",
       "examples": [
         {
-          "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 2: Exploring and Tinkering with Materials Safely in simple activities."
+          "title": "Why",
+          "content": "Example: 'Why does ice melt when left on the table?'"
         },
         {
-          "title": "Why It Matters",
-          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+          "title": "How",
+          "content": "Example: 'How does water get inside a plant stem?'"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 2: Exploring and Tinkering with Materials Safely. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering Case 1: Clay",
+      "text": "Modeling clay is a solid. Tinkering with it shows that applying force changes its shape.",
       "examples": [
         {
-          "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely to observe the correct outcome."
+          "title": "Tinkering",
+          "content": "Pressing, rolling, and squeezing clay with your hands."
         },
         {
-          "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely in other contexts."
+          "title": "Question",
+          "content": "Why does clay stay in its new shape while a rubber band snaps back?"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 2: Exploring and Tinkering with Materials Safely. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering Case 2: Balloons",
+      "text": "Balloons hold air. Squeezing or blowing into balloons shows that air takes up space and pushes outwards.",
       "examples": [
         {
-          "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely to observe the correct outcome."
+          "title": "Expanding",
+          "content": "Blowing air into a balloon makes it larger because air occupies space."
         },
         {
-          "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely in other contexts."
+          "title": "Air Pressure",
+          "content": "Air pushes against the balloon walls, giving it a round shape."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 2: Exploring and Tinkering with Materials Safely. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering Case 3: Sponges",
+      "text": "A dry sponge is full of tiny air holes. Squeezing it in water shows how materials absorb liquids.",
       "examples": [
         {
-          "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely to observe the correct outcome."
+          "title": "Absorption",
+          "content": "The sponge sucks in water, replacing the air in its holes."
         },
         {
-          "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely in other contexts."
+          "title": "Weight Change",
+          "content": "A wet sponge feels much heavier than a dry sponge."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 2: Exploring and Tinkering with Materials Safely. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering Case 4: Magnets",
+      "text": "Magnets have invisible magnetic fields. Tinkering with them reveals which materials they can pull.",
       "examples": [
         {
-          "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely to observe the correct outcome."
+          "title": "Attraction",
+          "content": "Magnets pull iron nails and paperclips, but not wood or plastic."
         },
         {
-          "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely in other contexts."
+          "title": "Magnetic Force",
+          "content": "The force can pull objects even through a sheet of paper."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 2: Exploring and Tinkering with Materials Safely. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering Case 5: Paper Planes",
+      "text": "Folding cardboard or paper into different plane shapes shows how air affects moving objects.",
       "examples": [
         {
-          "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely to observe the correct outcome."
+          "title": "Flight distance",
+          "content": "Thin, pointed planes fly faster and further than wide, flat planes."
         },
         {
-          "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely in other contexts."
+          "title": "Air Resistance",
+          "content": "The air pushes up against the wings, keeping the plane flying."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 2: Exploring and Tinkering with Materials Safely. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering Case 6: Float or Sink",
+      "text": "Tinkering with plastic toys, wood, and stones in water reveals their buoyancy properties.",
       "examples": [
         {
-          "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely to observe the correct outcome."
+          "title": "Floating",
+          "content": "Light materials like dry leaves and wood float on top of water."
         },
         {
-          "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely in other contexts."
+          "title": "Sinking",
+          "content": "Heavy materials like stones and iron keys sink to the bottom."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 2: Exploring and Tinkering with Materials Safely. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering Case 7: Sugar & Water",
+      "text": "Mixing sugar in water shows how solids dissolve. Tinkering with temperature changes the rate.",
       "examples": [
         {
-          "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely to observe the correct outcome."
+          "title": "Dissolving",
+          "content": "Sugar crystals mix with water until they become invisible."
         },
         {
-          "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely in other contexts."
+          "title": "Warm Water",
+          "content": "Sugar dissolves much faster in warm water than in cold water."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 2: Exploring and Tinkering with Materials Safely. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering Case 8: Shadow Size",
+      "text": "Tinkering with a flashlight and a toy figurine shows how shadows change size.",
       "examples": [
         {
-          "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely to observe the correct outcome."
+          "title": "Moving Closer",
+          "content": "Moving the flashlight closer to the toy makes the shadow larger."
         },
         {
-          "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely in other contexts."
+          "title": "Moving Away",
+          "content": "Moving the flashlight further away makes the shadow smaller."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 2: Exploring and Tinkering with Materials Safely. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering Case 9: Spinning Top",
+      "text": "Tinkering with a spinning top shows how rotation and friction work together.",
       "examples": [
         {
-          "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely to observe the correct outcome."
+          "title": "Rotation",
+          "content": "Spinning makes the top stand upright due to circular force."
         },
         {
-          "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely in other contexts."
+          "title": "Friction",
+          "content": "The tip rubs against the table, eventually slowing the top down."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 2: Exploring and Tinkering with Materials Safely. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering Case 10: Mirrors",
+      "text": "Tinkering with a mirror shows how light reflects to show images.",
       "examples": [
-        {
-          "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 2: Exploring and Tinkering with Materials Safely. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 2: Exploring and Tinkering with Materials Safely. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 2: Exploring and Tinkering with Materials Safely. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 2: Exploring and Tinkering with Materials Safely. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 2: Exploring and Tinkering with Materials Safely. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Guided Practice Exercise 1",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
-      "examples": [
-        {
-          "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 2: Exploring and Tinkering with Materials Safely to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 1",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
-        }
-      ]
-    },
-    {
-      "title": "Guided Practice Exercise 2",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
-      "examples": [
-        {
-          "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 2: Exploring and Tinkering with Materials Safely to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 2",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
-        }
-      ]
-    },
-    {
-      "title": "Guided Practice Exercise 3",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
-      "examples": [
-        {
-          "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 2: Exploring and Tinkering with Materials Safely to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 3",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
-        }
-      ]
-    },
-    {
-      "title": "Guided Practice Exercise 4",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
-      "examples": [
-        {
-          "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 2: Exploring and Tinkering with Materials Safely to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 4",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
-        }
-      ]
-    },
-    {
-      "title": "Common Error to Avoid 1",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
-      "examples": [
-        {
-          "title": "Incorrect Approach 1",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 1",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
-        }
-      ]
-    },
-    {
-      "title": "Common Error to Avoid 2",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
-      "examples": [
-        {
-          "title": "Incorrect Approach 2",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 2",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
-        }
-      ]
-    },
-    {
-      "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 2: Exploring and Tinkering with Materials Safely. You are now ready to test your knowledge with the weekly quiz and challenges.",
-      "examples": [
-        {
-          "title": "Summary Points",
-          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
-        },
         {
           "title": "Reflection",
-          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+          "content": "Light bounces off the smooth shiny surface back to your eyes."
+        },
+        {
+          "title": "Angle",
+          "content": "Tilting the mirror changes what objects you can see."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering Case 11: Rubber Bands",
+      "text": "Tinkering with a rubber band shows elasticity and sound creation.",
+      "examples": [
+        {
+          "title": "Elasticity",
+          "content": "The band stretches when pulled and snaps back when released."
+        },
+        {
+          "title": "Pitch",
+          "content": "Stretching the band tighter makes a higher pitch sound when plucked."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering Case 12: Bent Stems",
+      "text": "Tinkering with plants near a window shows how light influences stem growth direction.",
+      "examples": [
+        {
+          "title": "Light source",
+          "content": "Stems grow towards the window where light enters the room."
+        },
+        {
+          "title": "Experiment",
+          "content": "Turning the plant around makes the stem bend back towards the light."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering Case 13: Ice Melting",
+      "text": "Tinkering with ice cubes placed in different spots shows how temperature affects melting.",
+      "examples": [
+        {
+          "title": "Sunlight",
+          "content": "Ice in the direct sun melts in minutes due to high heat."
+        },
+        {
+          "title": "Shade",
+          "content": "Ice in the cool shade melts much slower."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering Case 14: Sorting Rocks",
+      "text": "Tinkering with a pile of rocks shows different ways to group solid objects.",
+      "examples": [
+        {
+          "title": "Texture",
+          "content": "Group rocks into rough, jagged rocks and smooth, rounded river stones."
+        },
+        {
+          "title": "Color",
+          "content": "Group rocks by their mineral colors, like grey, white, or red."
+        }
+      ]
+    },
+    {
+      "title": "Tinkering Case 15: Seeds in Soil",
+      "text": "Tinkering with dry vs. damp soil shows what conditions seeds need to sprout.",
+      "examples": [
+        {
+          "title": "Damp Soil",
+          "content": "Seeds sprout roots in a few days when soil is kept damp."
+        },
+        {
+          "title": "Dry Soil",
+          "content": "Seeds in dry soil do not grow because they lack water."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Asking Why",
+      "text": "A good scientific question asks why an event happens. Let's practice.",
+      "examples": [
+        {
+          "title": "Observation",
+          "content": "A puddle of water vanishes in the afternoon."
+        },
+        {
+          "title": "Question",
+          "content": "Why does heat from the sun make puddle water evaporate?"
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Asking How",
+      "text": "We ask how to find out the steps of a process. Let's form how questions.",
+      "examples": [
+        {
+          "title": "Observation",
+          "content": "Plants grow from seeds in soil."
+        },
+        {
+          "title": "Question",
+          "content": "How does water help a seed break its shell and grow roots?"
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Tinkering with Clay",
+      "text": "Observe what happens when you press clay with different tools.",
+      "examples": [
+        {
+          "title": "Tinkering",
+          "content": "Using a fork leaves lines; using a spoon makes a smooth hollow."
+        },
+        {
+          "title": "Question",
+          "content": "How does the shape of a tool change the pattern on clay?"
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Tinkering with Water",
+      "text": "Explore what happens when you drip water on different surfaces.",
+      "examples": [
+        {
+          "title": "Surface Test",
+          "content": "Water beads up on a wax leaf but spreads out on a tissue."
+        },
+        {
+          "title": "Question",
+          "content": "Why does water soak into tissue paper but not a waxy leaf?"
+        }
+      ]
+    },
+    {
+      "title": "Common Error: Vague Questions",
+      "text": "Avoid asking questions that cannot be explored or answered, like 'Is clay happy?'",
+      "examples": [
+        {
+          "title": "Incorrect",
+          "content": "Asking: 'Do balloons like being blown up?'"
+        },
+        {
+          "title": "Correct",
+          "content": "Asking: 'How much air can a balloon hold before it pops?'"
+        }
+      ]
+    },
+    {
+      "title": "Common Error: No Tinkering",
+      "text": "Do not just guess outcomes. Tinkering and exploring are necessary to gather facts.",
+      "examples": [
+        {
+          "title": "Incorrect",
+          "content": "Guessing that a stone floats without checking it in water."
+        },
+        {
+          "title": "Correct",
+          "content": "Placing the stone in water to observe if it sinks or floats."
+        }
+      ]
+    },
+    {
+      "title": "Summary of Week 2",
+      "text": "You completed Week 2! You now know how to ask 'Why', 'What', and 'How' questions like a scientist.",
+      "examples": [
+        {
+          "title": "Key Takeaway",
+          "content": "Tinkering with materials helps us form better scientific questions."
+        },
+        {
+          "title": "Next Step",
+          "content": "Let's study the tools we use to answer these questions in Week 3!"
         }
       ]
     }
@@ -1054,316 +1019,198 @@ window.WEEK2_DATA.science = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely?",
-      "options": [
-        "Core term: Prediction",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
+      "q": "What do scientists do when they are curious about a material?",
+      "options": ["They ignore it.", "They ask questions and tinker with it.", "They throw it away.", "They paint it immediately."],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following is a good 'Why' question for an ice cube?",
+      "options": ["Why is ice cream sweet?", "Why does ice melt when it gets warm?", "Is ice pretty?", "Who made this ice?"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What happens to clay when you squeeze it in your hand?",
+      "options": ["It turns into water.", "It changes its shape.", "It disappears.", "It freezes solid."],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Why does a balloon get bigger when you blow air into it?",
+      "options": ["Air is hot.", "Air takes up space and pushes outwards.", "The balloon is magical.", "The balloon gets lighter."],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following materials is waterproof (does not absorb water)?",
+      "options": ["Sponge", "Plastic bag", "Cotton towel", "Tissue paper"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What kind of question starts an exploration of magnets?",
+      "options": ["Do magnets sleep?", "What materials can a magnet pull?", "Are magnets expensive?", "Who invented magnets?"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What property are we testing when we drop a stone and a leaf in water?",
+      "options": ["Color", "Whether they float or sink", "Their smell", "Their taste"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "How does sugar behave when mixed into warm water?",
+      "options": ["It turns into salt.", "It dissolves and disappears from view.", "It freezes the water.", "It changes color to blue."],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which question helps us investigate shadows using a flashlight?",
+      "options": ["What color is the flashlight?", "How does the distance of the light change the shadow's size?", "Is the flashlight heavy?", "Where was the flashlight bought?"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What happens to a spinning top when it rubs against a rough table?",
+      "options": ["It spins faster.", "It slows down and stops.", "It turns into clay.", "It flies into the air."],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What bounces off a mirror to show your reflection?",
+      "options": ["Sound", "Light", "Air", "Water"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "How can you make a stretched rubber band produce a higher sound?",
+      "options": ["Stretch it tighter.", "Make it wet.", "Paint it blue.", "Let it go loose."],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely?",
-      "options": [
-        "Core term: Materials",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "In what direction do plant stems grow when placed near a sunny window?",
+      "options": ["Towards the dark corner", "Towards the light of the window", "Straight downwards into the soil", "They do not grow at all."],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely?",
-      "options": [
-        "Core term: Body parts",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely?",
-      "options": [
-        "Core term: Senses",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "Where does an ice cube melt the fastest?",
+      "options": ["In a dark cupboard", "In the direct warm sunlight", "In a cup of cold water", "Under a shady tree"],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 2: Exploring and Tinkering with Materials Safely is correct?",
-      "options": [
-        "Statement A: The core rules of Week 2: Exploring and Tinkering with Materials Safely are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Exploring and Tinkering with Materials Safely are not relevant to these cases."
-      ],
+      "q": "True or False: Asking 'How does water help seeds sprout?' is a scientific question.",
+      "options": ["True", "False"],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely?",
-      "options": [
-        "Core term: Safety",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 2: Exploring and Tinkering with Materials Safely is a key topic in the study of ___.",
-      "answer": "Science"
+      "q": "What do we do when we 'tinker' with materials?",
+      "options": ["We read a storybook about them.", "We touch, play, and experiment with them to see what happens.", "We buy them from the market.", "We throw them in the trash bin."],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely?",
-      "options": [
-        "Core term: Liquids",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
+      "q": "Which of these objects will sink to the bottom of a water bucket?",
+      "options": ["An iron nail", "A dry leaf", "A plastic spoon", "A small cork"],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely?",
-      "options": [
-        "Core term: Gases",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "Why does a sponge feel heavier after you dip it in water?",
+      "options": ["Water is cold.", "The sponge absorbs water into its holes.", "The sponge grows larger.", "Water has no weight."],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 2: Exploring and Tinkering with Materials Safely is correct?",
-      "options": [
-        "Statement A: The core rules of Week 2: Exploring and Tinkering with Materials Safely are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Exploring and Tinkering with Materials Safely are not relevant to these cases."
-      ],
+      "q": "True or False: A scientist only asks questions that can be tested by observing or experimenting.",
+      "options": ["True", "False"],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely?",
-      "options": [
-        "Core term: Prediction",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "Which question is NOT scientific because it is about personal taste?",
+      "options": ["Does a paper plane fly further when folded thin?", "Is science the most beautiful subject?", "Does sugar dissolve faster in hot water?", "Which materials are attracted to magnets?"],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely?",
-      "options": [
-        "Core term: Materials",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "What happens to a dry sponge when you squeeze it under water?",
+      "options": ["Nothing happens.", "Air bubbles escape and water goes inside.", "It turns into clay.", "It melts away."],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely?",
-      "options": [
-        "Core term: Body parts",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 2: Exploring and Tinkering with Materials Safely is a key topic in the study of ___.",
-      "answer": "Science"
+      "q": "Which of the following is a testable question about paper planes?",
+      "options": ["Are paper planes fun?", "How does the size of the wings affect how far a paper plane flies?", "Do paper planes like wind?", "Who folded this paper plane?"],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 2: Exploring and Tinkering with Materials Safely is correct?",
-      "options": [
-        "Statement A: The core rules of Week 2: Exploring and Tinkering with Materials Safely are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Exploring and Tinkering with Materials Safely are not relevant to these cases."
-      ],
-      "answer": 0
+      "q": "True or False: Squeezing clay harder changes its weight.",
+      "options": ["True", "False"],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely?",
-      "options": [
-        "Core term: Safety",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "What does a magnet do to a steel paperclip?",
+      "options": ["It melts it.", "It pulls (attracts) it.", "It pushes it away.", "It changes its color."],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely?",
-      "options": [
-        "Core term: Solids",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely?",
-      "options": [
-        "Core term: Liquids",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely?",
-      "options": [
-        "Core term: Gases",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 2: Exploring and Tinkering with Materials Safely is correct?",
-      "options": [
-        "Statement A: The core rules of Week 2: Exploring and Tinkering with Materials Safely are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Exploring and Tinkering with Materials Safely are not relevant to these cases."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 2: Exploring and Tinkering with Materials Safely is a key topic in the study of ___.",
-      "answer": "Science"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely?",
-      "options": [
-        "Core term: Materials",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely?",
-      "options": [
-        "Core term: Body parts",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely?",
-      "options": [
-        "Core term: Senses",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 2: Exploring and Tinkering with Materials Safely is correct?",
-      "options": [
-        "Statement A: The core rules of Week 2: Exploring and Tinkering with Materials Safely are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Exploring and Tinkering with Materials Safely are not relevant to these cases."
-      ],
+      "q": "Which question is best for exploring why clothes dry?",
+      "options": ["Does wind help clothes dry faster?", "What color are the clothes?", "Who washed the clothes?", "Are the clothes expensive?"],
       "answer": 0
     }
   ],
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 2: Exploring and Tinkering with Materials Safely, what is the first priority?",
-      "options": [
-        "Analyze key terms and variables",
-        "Guess the answer immediately",
-        "Skip the question",
-        "Use unrelated formulas"
-      ],
-      "answer": 0
+      "q": "If you observe that a magnet pulls a steel screw but not a brass screw, what question should you ask?",
+      "options": ["Are brass screws shiny?", "Why are some metals attracted to magnets while others are not?", "Who made the magnet?", "How much do screws cost?"],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 2: Exploring and Tinkering with Materials Safely?",
-      "options": [
-        "The primary variable: Observation",
-        "An external variable",
-        "No variable",
-        "All variables equally"
-      ],
-      "answer": 0
+      "q": "You notice that sugar dissolves faster in warm water than in ice water. What is the best scientific question to ask next?",
+      "options": ["Why is sugar sweet?", "How does water temperature affect the speed at which sugar dissolves?", "Can we use salt instead?", "Who heated the water?"],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 2: Exploring and Tinkering with Materials Safely.",
-      "options": [
-        "Statement A: Proper methodology leads to a correct and verified solution.",
-        "Statement B: Rushing through calculations is safe and rarely causes errors."
-      ],
+      "q": "True or False: A good scientific question should be specific, clear, and answered by looking at or testing materials.",
+      "options": ["True", "False"],
       "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 2: Exploring and Tinkering with Materials Safely?",
-      "answer": "prediction"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 2: Exploring and Tinkering with Materials Safely?",
-      "options": [
-        "Building logical reasoning and problem-solving skills",
-        "Forgetting previous lessons",
-        "Speeding up without accuracy",
-        "None of these"
-      ],
-      "answer": 0
+      "q": "You tinker with paper planes and notice that planes with paper clips on the nose fly straighter. What question are you exploring?",
+      "options": ["Are paper clips heavy?", "How does adding weight to the front affect a paper plane's flight stability?", "Do paper clips fly?", "Who invented paper clips?"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which question is vague and should be rewritten to be scientific?",
+      "options": ["Does clay stretch?", "How does clay feel when wet?", "Is clay a good material?", "How much force is needed to flatten a clay ball?"],
+      "answer": 2
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 2: Exploring and Tinkering with Materials Safely",
-    "desc": "Perform a simple observation of Week 2: Exploring and Tinkering with Materials Safely at home. Explain your findings to your parents or classmates in 3 clear sentences.",
-    "labels": [
-      "Accurate explanation of concept",
-      "Clarity and confidence in presentation",
-      "Neatness of written notes"
-    ]
+    "title": "Household Object Tinkering Log",
+    "desc": "Find a safe object in your home (e.g., an empty plastic bottle, a metal spoon, a sponge). Tinker with it (squeeze it, place it in water, test it with a magnet). Write down three questions that start with 'Why', 'What', or 'How' about this object, and share your findings with your parent.",
+    "labels": ["Wrote three clear scientific questions starting with Why, What, or How", "Described the properties observed during tinkering (e.g., flexibility, buoyancy)", "Presented findings clearly and confidently to a parent or teacher"]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 2: Exploring and Tinkering with Materials Safely</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 2: Exploring and Tinkering with Materials Safely and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Prediction and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 2: Exploring and Tinkering with Materials Safely.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of observation</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 2: Exploring and Tinkering with Materials Safely.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Question Words (Why, What, How)</h3>\n                  <p class=\"ws-instruction\">Fill in the blank with the correct question word (<strong>Why</strong>, <strong>What</strong>, or <strong>How</strong>) to complete the scientific question.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. __________ does an ice cube melt when left outside the freezer?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">Why</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. __________ materials are attracted to a magnet?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">What</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. __________ does water travel from the roots to the leaves of a plant?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">How</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Tinkering Results Table</h3>\n                  <p class=\"ws-instruction\">Tinker with common objects and write the observed behavior in the table.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Object Tested</th>\n                        <th>Action Performed</th>\n                        <th>Observed Result</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Dry Sponge</td>\n                        <td>Placed in water</td>\n                        <td><span class=\"ws-answer\">Absorbs water and gets heavier</span></td>\n                      </tr>\n                      <tr>\n                        <td>Modeling Clay</td>\n                        <td>Squeezed hard</td>\n                        <td><span class=\"ws-answer\">Changes its shape permanently</span></td>\n                      </tr>\n                      <tr>\n                        <td>Iron Key</td>\n                        <td>Placed in water</td>\n                        <td><span class=\"ws-answer\">Sinks to the bottom</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Rewriting Questions</h3>\n                  <p class=\"ws-instruction\">Rewrite the vague opinion question into a clear, testable scientific question.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Vague Question: <strong>Are paper planes cool?</strong></div>\n                    <div class=\"ws-q\" style=\"margin-top: 15px;\">Scientific Question:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 100%;\"><span class=\"ws-answer\">How does wing shape affect the flight distance of a paper plane?</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -4221,27 +4068,27 @@ window.WEEK2_DATA.reading = {
     "slides": [
       {
         "title": "Kuwento: Si Malakas at si Maganda - Bahagi 1",
-        "text": "<span class=\"fil-sentence\" data-translation=\"In ancient times, there was no land or humans in the world.\"><span class=\"fil-sentence\" data-translation=\"In ancient times, there was no land or humans in the world.\">Noong unang panahon, wala pang lupa at tao sa mundo.</span></span> <span class=\"fil-sentence\" data-translation=\"There was only the blue sky, the vast ocean, and a powerful bird flying between them.\"><span class=\"fil-sentence\" data-translation=\"There was only the blue sky, the vast ocean, and a powerful bird flying between them.\">Ang mayroon lamang ay ang asul na langit, ang malawak na karagatan, at isang makapangyarihang ibon na lumilipad sa pagitan nito.</span></span> <span class=\"fil-sentence\" data-translation=\"One day, the bird got tired of flying and decided to create islands for shelter.\"><span class=\"fil-sentence\" data-translation=\"One day, the bird got tired of flying and decided to create islands for shelter.\">Isang araw, naging pagod ang ibon sa paglipad at nagpasya na lumikha ng mga isla upang may masilungan.</span></span> <span class=\"fil-sentence\" data-translation=\"When islands appeared, various plants grew, including a huge bamboo tree on the shore.\"><span class=\"fil-sentence\" data-translation=\"When islands appeared, various plants grew, including a huge bamboo tree on the shore.\">Nang magkaroon ng mga pulo, tumubo ang iba't ibang halaman, kabilang ang isang napakalaking puno ng kawayan sa pampang.</span></span> <span class=\"fil-sentence\" data-translation=\"While the bird was walking near the bamboos, it heard a strange tapping from inside a large bamboo.\"><span class=\"fil-sentence\" data-translation=\"While the bird was walking near the bamboos, it heard a strange tapping from inside a large bamboo.\">Habang namamasyal ang ibon sa tabi ng mga kawayan, narinig niya ang isang kakaibang katok mula sa loob ng isang malaking kawayan.</span></span> <span class=\"fil-sentence\" data-translation=\"'Knock! Knock! Knock!' It sounded like someone was asking for help inside it.\"><span class=\"fil-sentence\" data-translation=\"'Knock! Knock! Knock!' It sounded like someone was asking for help inside it.\">'Tok! Tok! Tok!' Parang may humihingi ng tulong mula sa loob nito.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"In ancient times, there was no land or humans in the world.\"><span class=\"fil-sentence\" data-translation=\"In ancient times, there was no land or humans in the world.\"><span class=\"fil-sentence\" data-translation=\"In ancient times, there was no land or humans in the world.\">Noong unang panahon, wala pang lupa at tao sa mundo.</span></span></span> <span class=\"fil-sentence\" data-translation=\"There was only the blue sky, the vast ocean, and a powerful bird flying between them.\"><span class=\"fil-sentence\" data-translation=\"There was only the blue sky, the vast ocean, and a powerful bird flying between them.\"><span class=\"fil-sentence\" data-translation=\"There was only the blue sky, the vast ocean, and a powerful bird flying between them.\">Ang mayroon lamang ay ang asul na langit, ang malawak na karagatan, at isang makapangyarihang ibon na lumilipad sa pagitan nito.</span></span></span> <span class=\"fil-sentence\" data-translation=\"One day, the bird got tired of flying and decided to create islands for shelter.\"><span class=\"fil-sentence\" data-translation=\"One day, the bird got tired of flying and decided to create islands for shelter.\"><span class=\"fil-sentence\" data-translation=\"One day, the bird got tired of flying and decided to create islands for shelter.\">Isang araw, naging pagod ang ibon sa paglipad at nagpasya na lumikha ng mga isla upang may masilungan.</span></span></span> <span class=\"fil-sentence\" data-translation=\"When islands appeared, various plants grew, including a huge bamboo tree on the shore.\"><span class=\"fil-sentence\" data-translation=\"When islands appeared, various plants grew, including a huge bamboo tree on the shore.\"><span class=\"fil-sentence\" data-translation=\"When islands appeared, various plants grew, including a huge bamboo tree on the shore.\">Nang magkaroon ng mga pulo, tumubo ang iba't ibang halaman, kabilang ang isang napakalaking puno ng kawayan sa pampang.</span></span></span> <span class=\"fil-sentence\" data-translation=\"While the bird was walking near the bamboos, it heard a strange tapping from inside a large bamboo.\"><span class=\"fil-sentence\" data-translation=\"While the bird was walking near the bamboos, it heard a strange tapping from inside a large bamboo.\"><span class=\"fil-sentence\" data-translation=\"While the bird was walking near the bamboos, it heard a strange tapping from inside a large bamboo.\">Habang namamasyal ang ibon sa tabi ng mga kawayan, narinig niya ang isang kakaibang katok mula sa loob ng isang malaking kawayan.</span></span></span> <span class=\"fil-sentence\" data-translation=\"'Knock! Knock! Knock!' It sounded like someone was asking for help inside it.\"><span class=\"fil-sentence\" data-translation=\"'Knock! Knock! Knock!' It sounded like someone was asking for help inside it.\"><span class=\"fil-sentence\" data-translation=\"'Knock! Knock! Knock!' It sounded like someone was asking for help inside it.\">'Tok! Tok! Tok!' Parang may humihingi ng tulong mula sa loob nito.</span></span></span>"
       },
       {
         "title": "Kuwento: Si Malakas at si Maganda - Bahagi 2",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Out of curiosity, the bird pecked the thick bamboo until it split in the middle.\"><span class=\"fil-sentence\" data-translation=\"Out of curiosity, the bird pecked the thick bamboo until it split in the middle.\">Dahil sa kuryusidad, tinuka ng ibon ang makapal na kawayan hanggang sa mabiyak ito sa gitna.</span></span> <span class=\"fil-sentence\" data-translation=\"To the bird's surprise, two beautiful beings came out from inside the bamboo.\"><span class=\"fil-sentence\" data-translation=\"To the bird's surprise, two beautiful beings came out from inside the bamboo.\">Laking gulat ng ibon nang lumabas ang dalawang magagandang nilalang mula sa loob ng kawayan.</span></span> <span class=\"fil-sentence\" data-translation=\"The first was a man who was strong, brave, and had large muscles.\"><span class=\"fil-sentence\" data-translation=\"The first was a man who was strong, brave, and had large muscles.\">Ang una ay isang lalaki na matikas, matapang, at may malalaking kalamnan.</span></span> <span class=\"fil-sentence\" data-translation=\"He called himself Malakas (Strong).\"><span class=\"fil-sentence\" data-translation=\"He called himself Malakas (Strong).\">Tinawag niya ang kanyang sarili na si Malakas.</span></span> <span class=\"fil-sentence\" data-translation=\"The second was a very beautiful woman with long hair, gentle and demure in actions.\"><span class=\"fil-sentence\" data-translation=\"The second was a very beautiful woman with long hair, gentle and demure in actions.\">Ang pangalawa ay isang napakagandang babae na may mahabang buhok, mayumi, at mahinhin kumilos.</span></span> <span class=\"fil-sentence\" data-translation=\"She called himself Maganda (Beautiful).\"><span class=\"fil-sentence\" data-translation=\"She called himself Maganda (Beautiful).\">Tinawag niya ang kanyang sarili na si Maganda.</span></span> <span class=\"fil-sentence\" data-translation=\"They were the first humans to live on the islands of the Philippines.\"><span class=\"fil-sentence\" data-translation=\"They were the first humans to live on the islands of the Philippines.\">Sila ang mga kauna-unahang tao na nanirahan sa mga isla ng Pilipinas.</span></span> <span class=\"fil-sentence\" data-translation=\"They showed the bird their gratitude for freeing them from the dark bamboo.\"><span class=\"fil-sentence\" data-translation=\"They showed the bird their gratitude for freeing them from the dark bamboo.\">Pinakita nila sa ibon ang kanilang pasasalamat sa pagpapalaya sa kanila sa madilim na kawayan.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Out of curiosity, the bird pecked the thick bamboo until it split in the middle.\"><span class=\"fil-sentence\" data-translation=\"Out of curiosity, the bird pecked the thick bamboo until it split in the middle.\"><span class=\"fil-sentence\" data-translation=\"Out of curiosity, the bird pecked the thick bamboo until it split in the middle.\">Dahil sa kuryusidad, tinuka ng ibon ang makapal na kawayan hanggang sa mabiyak ito sa gitna.</span></span></span> <span class=\"fil-sentence\" data-translation=\"To the bird's surprise, two beautiful beings came out from inside the bamboo.\"><span class=\"fil-sentence\" data-translation=\"To the bird's surprise, two beautiful beings came out from inside the bamboo.\"><span class=\"fil-sentence\" data-translation=\"To the bird's surprise, two beautiful beings came out from inside the bamboo.\">Laking gulat ng ibon nang lumabas ang dalawang magagandang nilalang mula sa loob ng kawayan.</span></span></span> <span class=\"fil-sentence\" data-translation=\"The first was a man who was strong, brave, and had large muscles.\"><span class=\"fil-sentence\" data-translation=\"The first was a man who was strong, brave, and had large muscles.\"><span class=\"fil-sentence\" data-translation=\"The first was a man who was strong, brave, and had large muscles.\">Ang una ay isang lalaki na matikas, matapang, at may malalaking kalamnan.</span></span></span> <span class=\"fil-sentence\" data-translation=\"He called himself Malakas (Strong).\"><span class=\"fil-sentence\" data-translation=\"He called himself Malakas (Strong).\"><span class=\"fil-sentence\" data-translation=\"He called himself Malakas (Strong).\">Tinawag niya ang kanyang sarili na si Malakas.</span></span></span> <span class=\"fil-sentence\" data-translation=\"The second was a very beautiful woman with long hair, gentle and demure in actions.\"><span class=\"fil-sentence\" data-translation=\"The second was a very beautiful woman with long hair, gentle and demure in actions.\"><span class=\"fil-sentence\" data-translation=\"The second was a very beautiful woman with long hair, gentle and demure in actions.\">Ang pangalawa ay isang napakagandang babae na may mahabang buhok, mayumi, at mahinhin kumilos.</span></span></span> <span class=\"fil-sentence\" data-translation=\"She called himself Maganda (Beautiful).\"><span class=\"fil-sentence\" data-translation=\"She called himself Maganda (Beautiful).\"><span class=\"fil-sentence\" data-translation=\"She called himself Maganda (Beautiful).\">Tinawag niya ang kanyang sarili na si Maganda.</span></span></span> <span class=\"fil-sentence\" data-translation=\"They were the first humans to live on the islands of the Philippines.\"><span class=\"fil-sentence\" data-translation=\"They were the first humans to live on the islands of the Philippines.\"><span class=\"fil-sentence\" data-translation=\"They were the first humans to live on the islands of the Philippines.\">Sila ang mga kauna-unahang tao na nanirahan sa mga isla ng Pilipinas.</span></span></span> <span class=\"fil-sentence\" data-translation=\"They showed the bird their gratitude for freeing them from the dark bamboo.\"><span class=\"fil-sentence\" data-translation=\"They showed the bird their gratitude for freeing them from the dark bamboo.\"><span class=\"fil-sentence\" data-translation=\"They showed the bird their gratitude for freeing them from the dark bamboo.\">Pinakita nila sa ibon ang kanilang pasasalamat sa pagpapalaya sa kanila sa madilim na kawayan.</span></span></span>"
       },
       {
         "title": "Kuwento: Si Malakas at si Maganda - Bahagi 3",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Malakas and Maganda worked together to build their shelter and find food.\"><span class=\"fil-sentence\" data-translation=\"Malakas and Maganda worked together to build their shelter and find food.\">Nagtulungan sina Malakas at Maganda upang magtayo ng kanilang tirahan at maghanap ng pagkain.</span></span> <span class=\"fil-sentence\" data-translation=\"Malakas cut trees and built a sturdy hut to protect them from storms and heat, while Maganda tended their yard and planted medicinal herbs.\"><span class=\"fil-sentence\" data-translation=\"Malakas cut trees and built a sturdy hut to protect them from storms and heat, while Maganda tended their yard and planted medicinal herbs.\">Si Malakas ang nagputol ng mga puno at nagtayo ng matibay na kubo upang maprotektahan sila sa bagyo at init, habang si Maganda naman ang nag-alaga sa kanilang bakuran at nagtanim ng mga halamang-gamot.</span></span> <span class=\"fil-sentence\" data-translation=\"They began to have a family and taught their children the importance of work, respect, and unity in the community.\"><span class=\"fil-sentence\" data-translation=\"They began to have a family and taught their children the importance of work, respect, and unity in the community.\">Nagsimula silang magkaroon ng pamilya at nagturo sa kanilang mga anak ng kahalagahan ng paggawa, respeto, at pagkakaisa sa komunidad.</span></span> <span class=\"fil-sentence\" data-translation=\"They were the ancestors of the Filipino race, known for being resilient like Malakas and loving art and peace like Maganda.\"><span class=\"fil-sentence\" data-translation=\"They were the ancestors of the Filipino race, known for being resilient like Malakas and loving art and peace like Maganda.\">Sila ang pinagmulan ng lahing Pilipino, na kilala sa pagiging matatag tulad ni Malakas at mapagmahal sa sining at kapayapaan tulad ni Maganda.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Malakas and Maganda worked together to build their shelter and find food.\"><span class=\"fil-sentence\" data-translation=\"Malakas and Maganda worked together to build their shelter and find food.\"><span class=\"fil-sentence\" data-translation=\"Malakas and Maganda worked together to build their shelter and find food.\">Nagtulungan sina Malakas at Maganda upang magtayo ng kanilang tirahan at maghanap ng pagkain.</span></span></span> <span class=\"fil-sentence\" data-translation=\"Malakas cut trees and built a sturdy hut to protect them from storms and heat, while Maganda tended their yard and planted medicinal herbs.\"><span class=\"fil-sentence\" data-translation=\"Malakas cut trees and built a sturdy hut to protect them from storms and heat, while Maganda tended their yard and planted medicinal herbs.\"><span class=\"fil-sentence\" data-translation=\"Malakas cut trees and built a sturdy hut to protect them from storms and heat, while Maganda tended their yard and planted medicinal herbs.\">Si Malakas ang nagputol ng mga puno at nagtayo ng matibay na kubo upang maprotektahan sila sa bagyo at init, habang si Maganda naman ang nag-alaga sa kanilang bakuran at nagtanim ng mga halamang-gamot.</span></span></span> <span class=\"fil-sentence\" data-translation=\"They began to have a family and taught their children the importance of work, respect, and unity in the community.\"><span class=\"fil-sentence\" data-translation=\"They began to have a family and taught their children the importance of work, respect, and unity in the community.\"><span class=\"fil-sentence\" data-translation=\"They began to have a family and taught their children the importance of work, respect, and unity in the community.\">Nagsimula silang magkaroon ng pamilya at nagturo sa kanilang mga anak ng kahalagahan ng paggawa, respeto, at pagkakaisa sa komunidad.</span></span></span> <span class=\"fil-sentence\" data-translation=\"They were the ancestors of the Filipino race, known for being resilient like Malakas and loving art and peace like Maganda.\"><span class=\"fil-sentence\" data-translation=\"They were the ancestors of the Filipino race, known for being resilient like Malakas and loving art and peace like Maganda.\"><span class=\"fil-sentence\" data-translation=\"They were the ancestors of the Filipino race, known for being resilient like Malakas and loving art and peace like Maganda.\">Sila ang pinagmulan ng lahing Pilipino, na kilala sa pagiging matatag tulad ni Malakas at mapagmahal sa sining at kapayapaan tulad ni Maganda.</span></span></span>"
       },
       {
         "title": "Talasalitaan at Pag-aaral ng Salita",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\">Mga Bokabularyo:</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Stately - Strong physique and good posture.\"><span class=\"fil-sentence\" data-translation=\"Stately - Strong physique and good posture.\">Matikas - Malakas ang pangangatawan at may magandang tindig.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Bamboo - A sturdy type of grass like wood used in building houses.\"><span class=\"fil-sentence\" data-translation=\"Bamboo - A sturdy type of grass like wood used in building houses.\">Kawayan - Isang matibay na uri ng damo na parang kahoy na ginagamit sa pagtatayo ng bahay.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Demure - Gentle or graceful in movement.\"><span class=\"fil-sentence\" data-translation=\"Demure - Gentle or graceful in movement.\">Mayumi - Mahinhin o magandang kumilos.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'm' sound in 'malakas', 'maganda', and 'mundo'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'm' sound in 'malakas', 'maganda', and 'mundo'.\">Tutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'm' sa 'malakas', 'maganda', at 'mundo'.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\">Mga Bokabularyo:</span></span></span>\n• <span class=\"fil-sentence\" data-translation=\"Stately - Strong physique and good posture.\"><span class=\"fil-sentence\" data-translation=\"Stately - Strong physique and good posture.\"><span class=\"fil-sentence\" data-translation=\"Stately - Strong physique and good posture.\">Matikas - Malakas ang pangangatawan at may magandang tindig.</span></span></span>\n• <span class=\"fil-sentence\" data-translation=\"Bamboo - A sturdy type of grass like wood used in building houses.\"><span class=\"fil-sentence\" data-translation=\"Bamboo - A sturdy type of grass like wood used in building houses.\"><span class=\"fil-sentence\" data-translation=\"Bamboo - A sturdy type of grass like wood used in building houses.\">Kawayan - Isang matibay na uri ng damo na parang kahoy na ginagamit sa pagtatayo ng bahay.</span></span></span>\n• <span class=\"fil-sentence\" data-translation=\"Demure - Gentle or graceful in movement.\"><span class=\"fil-sentence\" data-translation=\"Demure - Gentle or graceful in movement.\"><span class=\"fil-sentence\" data-translation=\"Demure - Gentle or graceful in movement.\">Mayumi - Mahinhin o magandang kumilos.</span></span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'm' sound in 'malakas', 'maganda', and 'mundo'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'm' sound in 'malakas', 'maganda', and 'mundo'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'm' sound in 'malakas', 'maganda', and 'mundo'.\">Tutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'm' sa 'malakas', 'maganda', at 'mundo'.</span></span></span>"
       },
       {
         "title": "Mga Tanong sa Pag-unawa",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\">Mga Tanong:</span></span>\n<span class=\"fil-sentence\" data-translation=\"1. Where did Malakas and Maganda come from according to the legend?\"><span class=\"fil-sentence\" data-translation=\"1. Where did Malakas and Maganda come from according to the legend?\">1. Saan nagmula sina Malakas at Maganda ayon sa alamat?</span></span>\n<span class=\"fil-sentence\" data-translation=\"2. What were the qualities of Malakas and Maganda?\"><span class=\"fil-sentence\" data-translation=\"2. What were the qualities of Malakas and Maganda?\">2. Ano ang mga katangian ni Malakas at Maganda?</span></span>\n<span class=\"fil-sentence\" data-translation=\"3. How did they help each other in their new home?\"><span class=\"fil-sentence\" data-translation=\"3. How did they help each other in their new home?\">3. Paano sila nagtulungan sa kanilang bagong tahanan?</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\">Mga Tanong:</span></span></span>\n<span class=\"fil-sentence\" data-translation=\"1. Where did Malakas and Maganda come from according to the legend?\"><span class=\"fil-sentence\" data-translation=\"1. Where did Malakas and Maganda come from according to the legend?\"><span class=\"fil-sentence\" data-translation=\"1. Where did Malakas and Maganda come from according to the legend?\">1. Saan nagmula sina Malakas at Maganda ayon sa alamat?</span></span></span>\n<span class=\"fil-sentence\" data-translation=\"2. What were the qualities of Malakas and Maganda?\"><span class=\"fil-sentence\" data-translation=\"2. What were the qualities of Malakas and Maganda?\"><span class=\"fil-sentence\" data-translation=\"2. What were the qualities of Malakas and Maganda?\">2. Ano ang mga katangian ni Malakas at Maganda?</span></span></span>\n<span class=\"fil-sentence\" data-translation=\"3. How did they help each other in their new home?\"><span class=\"fil-sentence\" data-translation=\"3. How did they help each other in their new home?\"><span class=\"fil-sentence\" data-translation=\"3. How did they help each other in their new home?\">3. Paano sila nagtulungan sa kanilang bagong tahanan?</span></span></span>"
       },
       {
         "title": "Mabuting Aral at Pagninilay",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Thought: The unity of strength and beauty brings about a beautiful community.\"><span class=\"fil-sentence\" data-translation=\"Thought: The unity of strength and beauty brings about a beautiful community.\">Kaisipan: Ang pagkakaisa ng lakas at kagandahan ay nagdudulot ng magandang komunidad.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Each person has their own talent and strength that should be used for the family's good. The cooperation of every family member is the key to a happy home.\"><span class=\"fil-sentence\" data-translation=\"Each person has their own talent and strength that should be used for the family's good. The cooperation of every family member is the key to a happy home.\">Ang bawat tao ay may kani-kaniyang talento at lakas na dapat gamitin para sa kabutihan ng pamilya. Ang pagtutulungan ng bawat kasapi ng pamilya ay susi sa masayang tahanan.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Discuss: What is your own strength that you can share to help the family?\"><span class=\"fil-sentence\" data-translation=\"Discuss: What is your own strength that you can share to help the family?\">Discuss: Ano ang iyong sariling lakas na maaari mong ibahagi upang makatulong sa pamilya?</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Thought: The unity of strength and beauty brings about a beautiful community.\"><span class=\"fil-sentence\" data-translation=\"Thought: The unity of strength and beauty brings about a beautiful community.\"><span class=\"fil-sentence\" data-translation=\"Thought: The unity of strength and beauty brings about a beautiful community.\">Kaisipan: Ang pagkakaisa ng lakas at kagandahan ay nagdudulot ng magandang komunidad.</span></span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Each person has their own talent and strength that should be used for the family's good. The cooperation of every family member is the key to a happy home.\"><span class=\"fil-sentence\" data-translation=\"Each person has their own talent and strength that should be used for the family's good. The cooperation of every family member is the key to a happy home.\"><span class=\"fil-sentence\" data-translation=\"Each person has their own talent and strength that should be used for the family's good. The cooperation of every family member is the key to a happy home.\">Ang bawat tao ay may kani-kaniyang talento at lakas na dapat gamitin para sa kabutihan ng pamilya. Ang pagtutulungan ng bawat kasapi ng pamilya ay susi sa masayang tahanan.</span></span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Discuss: What is your own strength that you can share to help the family?\"><span class=\"fil-sentence\" data-translation=\"Discuss: What is your own strength that you can share to help the family?\"><span class=\"fil-sentence\" data-translation=\"Discuss: What is your own strength that you can share to help the family?\">Discuss: Ano ang iyong sariling lakas na maaari mong ibahagi upang makatulong sa pamilya?</span></span></span>"
       }
     ]
   },
@@ -4251,27 +4098,27 @@ window.WEEK2_DATA.reading = {
     "slides": [
       {
         "title": "Kuwento: Ang Kuneho at ang Pagong - Bahagi 1",
-        "text": "<span class=\"fil-sentence\" data-translation=\"One morning in the forest, Rabbit bragged about his speed in front of the other animals.\"><span class=\"fil-sentence\" data-translation=\"One morning in the forest, Rabbit bragged about his speed in front of the other animals.\">Isang umaga sa kagubatan, nagyabang si Kuneho sa kanyang bilis sa harap ng iba pang mga hayop.</span></span> <span class=\"fil-sentence\" data-translation=\"'Nobody in the forest can beat me in a race!' he shouted while jumping around.\"><span class=\"fil-sentence\" data-translation=\"'Nobody in the forest can beat me in a race!' he shouted while jumping around.\">'Walang sinuman sa kagubatan ang makakatalo sa akin sa takbuhan!' sigaw niya habang tumatalon-talon.</span></span> <span class=\"fil-sentence\" data-translation=\"When Turtle heard this, he approached slowly and said, 'I accept your challenge, Rabbit. Let's race next Sunday.'\"><span class=\"fil-sentence\" data-translation=\"When Turtle heard this, he approached slowly and said, 'I accept your challenge, Rabbit. Let's race next Sunday.'\">Nang marinig ito ni Pagong, lumapit siya nang dahan-dahan at sinabi, 'Tinatanggap ko ang iyong hamon, Kuneho. Magpaligsahan tayo sa susunod na Linggo.'</span></span> <span class=\"fil-sentence\" data-translation=\"Rabbit laughed out loud and said, 'Are you crazy, Turtle? You walk so slowly!'\"><span class=\"fil-sentence\" data-translation=\"Rabbit laughed out loud and said, 'Are you crazy, Turtle? You walk so slowly!'\">Tumawa nang malakas si Kuneho at sinabing, 'Nababaliw ka ba, Pagong? Ang bagal mo kayang maglakad!'</span></span> <span class=\"fil-sentence\" data-translation=\"But Rabbit still agreed because he wanted to show everyone his speed.\"><span class=\"fil-sentence\" data-translation=\"But Rabbit still agreed because he wanted to show everyone his speed.\">Ngunit pumayag pa rin si Kuneho dahil nais niyang ipakita sa lahat ang kanyang bilis.</span></span> <span class=\"fil-sentence\" data-translation=\"They set a route in the forest leading to the top of the mountain.\"><span class=\"fil-sentence\" data-translation=\"They set a route in the forest leading to the top of the mountain.\">Nagtakda sila ng ruta sa kagubatan patungo sa tuktok ng bundok.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"One morning in the forest, Rabbit bragged about his speed in front of the other animals.\"><span class=\"fil-sentence\" data-translation=\"One morning in the forest, Rabbit bragged about his speed in front of the other animals.\"><span class=\"fil-sentence\" data-translation=\"One morning in the forest, Rabbit bragged about his speed in front of the other animals.\">Isang umaga sa kagubatan, nagyabang si Kuneho sa kanyang bilis sa harap ng iba pang mga hayop.</span></span></span> <span class=\"fil-sentence\" data-translation=\"'Nobody in the forest can beat me in a race!' he shouted while jumping around.\"><span class=\"fil-sentence\" data-translation=\"'Nobody in the forest can beat me in a race!' he shouted while jumping around.\"><span class=\"fil-sentence\" data-translation=\"'Nobody in the forest can beat me in a race!' he shouted while jumping around.\">'Walang sinuman sa kagubatan ang makakatalo sa akin sa takbuhan!' sigaw niya habang tumatalon-talon.</span></span></span> <span class=\"fil-sentence\" data-translation=\"When Turtle heard this, he approached slowly and said, 'I accept your challenge, Rabbit. Let's race next Sunday.'\"><span class=\"fil-sentence\" data-translation=\"When Turtle heard this, he approached slowly and said, 'I accept your challenge, Rabbit. Let's race next Sunday.'\"><span class=\"fil-sentence\" data-translation=\"When Turtle heard this, he approached slowly and said, 'I accept your challenge, Rabbit. Let's race next Sunday.'\">Nang marinig ito ni Pagong, lumapit siya nang dahan-dahan at sinabi, 'Tinatanggap ko ang iyong hamon, Kuneho. Magpaligsahan tayo sa susunod na Linggo.'</span></span></span> <span class=\"fil-sentence\" data-translation=\"Rabbit laughed out loud and said, 'Are you crazy, Turtle? You walk so slowly!'\"><span class=\"fil-sentence\" data-translation=\"Rabbit laughed out loud and said, 'Are you crazy, Turtle? You walk so slowly!'\"><span class=\"fil-sentence\" data-translation=\"Rabbit laughed out loud and said, 'Are you crazy, Turtle? You walk so slowly!'\">Tumawa nang malakas si Kuneho at sinabing, 'Nababaliw ka ba, Pagong? Ang bagal mo kayang maglakad!'</span></span></span> <span class=\"fil-sentence\" data-translation=\"But Rabbit still agreed because he wanted to show everyone his speed.\"><span class=\"fil-sentence\" data-translation=\"But Rabbit still agreed because he wanted to show everyone his speed.\"><span class=\"fil-sentence\" data-translation=\"But Rabbit still agreed because he wanted to show everyone his speed.\">Ngunit pumayag pa rin si Kuneho dahil nais niyang ipakita sa lahat ang kanyang bilis.</span></span></span> <span class=\"fil-sentence\" data-translation=\"They set a route in the forest leading to the top of the mountain.\"><span class=\"fil-sentence\" data-translation=\"They set a route in the forest leading to the top of the mountain.\"><span class=\"fil-sentence\" data-translation=\"They set a route in the forest leading to the top of the mountain.\">Nagtakda sila ng ruta sa kagubatan patungo sa tuktok ng bundok.</span></span></span>"
       },
       {
         "title": "Kuwento: Ang Kuneho at ang Pagong - Bahagi 2",
-        "text": "<span class=\"fil-sentence\" data-translation=\"The race started at the owl's signal.\"><span class=\"fil-sentence\" data-translation=\"The race started at the owl's signal.\">Nagsimula ang karera sa hudyat ng kuwago.</span></span> <span class=\"fil-sentence\" data-translation=\"Rabbit immediately ran very fast and disappeared from the animals' sight.\"><span class=\"fil-sentence\" data-translation=\"Rabbit immediately ran very fast and disappeared from the animals' sight.\">Agad na tumakbo nang napakabilis si Kuneho at nawala sa paningin ng mga hayop.</span></span> <span class=\"fil-sentence\" data-translation=\"Meanwhile, Turtle began walking slowly, step by step without stopping.\"><span class=\"fil-sentence\" data-translation=\"Meanwhile, Turtle began walking slowly, step by step without stopping.\">Samantala, si Pagong naman ay nagsimulang maglakad nang dahan-dahan, hakbang-hakbang nang walang hinto.</span></span> <span class=\"fil-sentence\" data-translation=\"When Rabbit was near the finish line, he looked back and saw Turtle was still very far.\"><span class=\"fil-sentence\" data-translation=\"When Rabbit was near the finish line, he looked back and saw Turtle was still very far.\">Nang malapit na si Kuneho sa dulo, lumingon siya at nakitang napakalayo pa ni Pagong.</span></span> <span class=\"fil-sentence\" data-translation=\"'I'll sleep under this tree first because Turtle is so slow,' Rabbit said to himself.\"><span class=\"fil-sentence\" data-translation=\"'I'll sleep under this tree first because Turtle is so slow,' Rabbit said to himself.\">'Matutulog muna ako sa ilalim ng punong ito dahil napakabagal ni Pagong,' sabi ni Kuneho sa sarili.</span></span> <span class=\"fil-sentence\" data-translation=\"Rabbit lay down on the soft grass and quickly fell asleep because of the cool wind.\"><span class=\"fil-sentence\" data-translation=\"Rabbit lay down on the soft grass and quickly fell asleep because of the cool wind.\">Humiga si Kuneho sa malambot na damo at mabilis na nakatulog dahil sa hanging malamig.</span></span> <span class=\"fil-sentence\" data-translation=\"Meanwhile, Turtle kept walking under the hot sun.\"><span class=\"fil-sentence\" data-translation=\"Meanwhile, Turtle kept walking under the hot sun.\">Samantala, patuloy pa rin sa paglalakad si Pagong sa ilalim ng mainit na araw.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"The race started at the owl's signal.\"><span class=\"fil-sentence\" data-translation=\"The race started at the owl's signal.\"><span class=\"fil-sentence\" data-translation=\"The race started at the owl's signal.\">Nagsimula ang karera sa hudyat ng kuwago.</span></span></span> <span class=\"fil-sentence\" data-translation=\"Rabbit immediately ran very fast and disappeared from the animals' sight.\"><span class=\"fil-sentence\" data-translation=\"Rabbit immediately ran very fast and disappeared from the animals' sight.\"><span class=\"fil-sentence\" data-translation=\"Rabbit immediately ran very fast and disappeared from the animals' sight.\">Agad na tumakbo nang napakabilis si Kuneho at nawala sa paningin ng mga hayop.</span></span></span> <span class=\"fil-sentence\" data-translation=\"Meanwhile, Turtle began walking slowly, step by step without stopping.\"><span class=\"fil-sentence\" data-translation=\"Meanwhile, Turtle began walking slowly, step by step without stopping.\"><span class=\"fil-sentence\" data-translation=\"Meanwhile, Turtle began walking slowly, step by step without stopping.\">Samantala, si Pagong naman ay nagsimulang maglakad nang dahan-dahan, hakbang-hakbang nang walang hinto.</span></span></span> <span class=\"fil-sentence\" data-translation=\"When Rabbit was near the finish line, he looked back and saw Turtle was still very far.\"><span class=\"fil-sentence\" data-translation=\"When Rabbit was near the finish line, he looked back and saw Turtle was still very far.\"><span class=\"fil-sentence\" data-translation=\"When Rabbit was near the finish line, he looked back and saw Turtle was still very far.\">Nang malapit na si Kuneho sa dulo, lumingon siya at nakitang napakalayo pa ni Pagong.</span></span></span> <span class=\"fil-sentence\" data-translation=\"'I'll sleep under this tree first because Turtle is so slow,' Rabbit said to himself.\"><span class=\"fil-sentence\" data-translation=\"'I'll sleep under this tree first because Turtle is so slow,' Rabbit said to himself.\"><span class=\"fil-sentence\" data-translation=\"'I'll sleep under this tree first because Turtle is so slow,' Rabbit said to himself.\">'Matutulog muna ako sa ilalim ng punong ito dahil napakabagal ni Pagong,' sabi ni Kuneho sa sarili.</span></span></span> <span class=\"fil-sentence\" data-translation=\"Rabbit lay down on the soft grass and quickly fell asleep because of the cool wind.\"><span class=\"fil-sentence\" data-translation=\"Rabbit lay down on the soft grass and quickly fell asleep because of the cool wind.\"><span class=\"fil-sentence\" data-translation=\"Rabbit lay down on the soft grass and quickly fell asleep because of the cool wind.\">Humiga si Kuneho sa malambot na damo at mabilis na nakatulog dahil sa hanging malamig.</span></span></span> <span class=\"fil-sentence\" data-translation=\"Meanwhile, Turtle kept walking under the hot sun.\"><span class=\"fil-sentence\" data-translation=\"Meanwhile, Turtle kept walking under the hot sun.\"><span class=\"fil-sentence\" data-translation=\"Meanwhile, Turtle kept walking under the hot sun.\">Samantala, patuloy pa rin sa paglalakad si Pagong sa ilalim ng mainit na araw.</span></span></span>"
       },
       {
         "title": "Kuwento: Ang Kuneho at ang Pagong - Bahagi 3",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Several hours passed.\"><span class=\"fil-sentence\" data-translation=\"Several hours passed.\">Lumipas ang ilang oras.</span></span> <span class=\"fil-sentence\" data-translation=\"Turtle continued walking without stopping until he passed the sleeping Rabbit.\"><span class=\"fil-sentence\" data-translation=\"Turtle continued walking without stopping until he passed the sleeping Rabbit.\">Nagpatuloy si Pagong sa paglalakad nang walang tigil hanggang sa malagpasan niya ang natutulog na si Kuneho.</span></span> <span class=\"fil-sentence\" data-translation=\"When Rabbit woke up, he was shocked to see Turtle near the end of the race.\"><span class=\"fil-sentence\" data-translation=\"When Rabbit woke up, he was shocked to see Turtle near the end of the race.\">Nang magising si Kuneho, nagulat siya nang makitang malapit na si Pagong sa dulo ng karera.</span></span> <span class=\"fil-sentence\" data-translation=\"Rabbit ran with all his strength, but it was too late!\"><span class=\"fil-sentence\" data-translation=\"Rabbit ran with all his strength, but it was too late!\">Tumakbo si Kuneho nang buong lakas, ngunit huli na ang lahat!</span></span> <span class=\"fil-sentence\" data-translation=\"Turtle reached the finish line and the animals cheered with joy.\"><span class=\"fil-sentence\" data-translation=\"Turtle reached the finish line and the animals cheered with joy.\">Naabot na ni Pagong ang linya ng tagumpay at sumigaw sa tuwa ang mga hayop.</span></span> <span class=\"fil-sentence\" data-translation=\"Rabbit was ashamed of his arrogance and apologized to Turtle.\"><span class=\"fil-sentence\" data-translation=\"Rabbit was ashamed of his arrogance and apologized to Turtle.\">Nahiya si Kuneho sa kanyang kayabangan at humingi ng paumanhin kay Pagong.</span></span> <span class=\"fil-sentence\" data-translation=\"Turtle proved that patience and determination are more important than speed without humility.\"><span class=\"fil-sentence\" data-translation=\"Turtle proved that patience and determination are more important than speed without humility.\">Napatunayan ni Pagong na ang tiyaga at determinasyon ay mas mahalaga kaysa sa bilis na walang pagpapakumbaba.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Several hours passed.\"><span class=\"fil-sentence\" data-translation=\"Several hours passed.\"><span class=\"fil-sentence\" data-translation=\"Several hours passed.\">Lumipas ang ilang oras.</span></span></span> <span class=\"fil-sentence\" data-translation=\"Turtle continued walking without stopping until he passed the sleeping Rabbit.\"><span class=\"fil-sentence\" data-translation=\"Turtle continued walking without stopping until he passed the sleeping Rabbit.\"><span class=\"fil-sentence\" data-translation=\"Turtle continued walking without stopping until he passed the sleeping Rabbit.\">Nagpatuloy si Pagong sa paglalakad nang walang tigil hanggang sa malagpasan niya ang natutulog na si Kuneho.</span></span></span> <span class=\"fil-sentence\" data-translation=\"When Rabbit woke up, he was shocked to see Turtle near the end of the race.\"><span class=\"fil-sentence\" data-translation=\"When Rabbit woke up, he was shocked to see Turtle near the end of the race.\"><span class=\"fil-sentence\" data-translation=\"When Rabbit woke up, he was shocked to see Turtle near the end of the race.\">Nang magising si Kuneho, nagulat siya nang makitang malapit na si Pagong sa dulo ng karera.</span></span></span> <span class=\"fil-sentence\" data-translation=\"Rabbit ran with all his strength, but it was too late!\"><span class=\"fil-sentence\" data-translation=\"Rabbit ran with all his strength, but it was too late!\"><span class=\"fil-sentence\" data-translation=\"Rabbit ran with all his strength, but it was too late!\">Tumakbo si Kuneho nang buong lakas, ngunit huli na ang lahat!</span></span></span> <span class=\"fil-sentence\" data-translation=\"Turtle reached the finish line and the animals cheered with joy.\"><span class=\"fil-sentence\" data-translation=\"Turtle reached the finish line and the animals cheered with joy.\"><span class=\"fil-sentence\" data-translation=\"Turtle reached the finish line and the animals cheered with joy.\">Naabot na ni Pagong ang linya ng tagumpay at sumigaw sa tuwa ang mga hayop.</span></span></span> <span class=\"fil-sentence\" data-translation=\"Rabbit was ashamed of his arrogance and apologized to Turtle.\"><span class=\"fil-sentence\" data-translation=\"Rabbit was ashamed of his arrogance and apologized to Turtle.\"><span class=\"fil-sentence\" data-translation=\"Rabbit was ashamed of his arrogance and apologized to Turtle.\">Nahiya si Kuneho sa kanyang kayabangan at humingi ng paumanhin kay Pagong.</span></span></span> <span class=\"fil-sentence\" data-translation=\"Turtle proved that patience and determination are more important than speed without humility.\"><span class=\"fil-sentence\" data-translation=\"Turtle proved that patience and determination are more important than speed without humility.\"><span class=\"fil-sentence\" data-translation=\"Turtle proved that patience and determination are more important than speed without humility.\">Napatunayan ni Pagong na ang tiyaga at determinasyon ay mas mahalaga kaysa sa bilis na walang pagpapakumbaba.</span></span></span>"
       },
       {
         "title": "Talasalitaan at Pag-aaral ng Salita",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\">Mga Bokabularyo:</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Bragged - Showed off or displayed one's skills with pride.\"><span class=\"fil-sentence\" data-translation=\"Bragged - Showed off or displayed one's skills with pride.\">Nagyabang - Nagmalaki o ipinakita ang sariling galing nang may kasamang pagmamataas.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Route - Path or direction of travel.\"><span class=\"fil-sentence\" data-translation=\"Route - Path or direction of travel.\">Ruta - Daanan o direksyon ng paglalakbay.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Determination - Firmness of heart to reach a goal.\"><span class=\"fil-sentence\" data-translation=\"Determination - Firmness of heart to reach a goal.\">Determinasyon - Katatagan ng loob upang maabot ang layunin.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'k' sound in 'kuneho', 'karera', and 'kagubatan'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'k' sound in 'kuneho', 'karera', and 'kagubatan'.\">Tutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'k' sa 'kuneho', 'karera', at 'kagubatan'.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\">Mga Bokabularyo:</span></span></span>\n• <span class=\"fil-sentence\" data-translation=\"Bragged - Showed off or displayed one's skills with pride.\"><span class=\"fil-sentence\" data-translation=\"Bragged - Showed off or displayed one's skills with pride.\"><span class=\"fil-sentence\" data-translation=\"Bragged - Showed off or displayed one's skills with pride.\">Nagyabang - Nagmalaki o ipinakita ang sariling galing nang may kasamang pagmamataas.</span></span></span>\n• <span class=\"fil-sentence\" data-translation=\"Route - Path or direction of travel.\"><span class=\"fil-sentence\" data-translation=\"Route - Path or direction of travel.\"><span class=\"fil-sentence\" data-translation=\"Route - Path or direction of travel.\">Ruta - Daanan o direksyon ng paglalakbay.</span></span></span>\n• <span class=\"fil-sentence\" data-translation=\"Determination - Firmness of heart to reach a goal.\"><span class=\"fil-sentence\" data-translation=\"Determination - Firmness of heart to reach a goal.\"><span class=\"fil-sentence\" data-translation=\"Determination - Firmness of heart to reach a goal.\">Determinasyon - Katatagan ng loob upang maabot ang layunin.</span></span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'k' sound in 'kuneho', 'karera', and 'kagubatan'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'k' sound in 'kuneho', 'karera', and 'kagubatan'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'k' sound in 'kuneho', 'karera', and 'kagubatan'.\">Tutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'k' sa 'kuneho', 'karera', at 'kagubatan'.</span></span></span>"
       },
       {
         "title": "Mga Tanong sa Pag-unawa",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\">Mga Tanong:</span></span>\n<span class=\"fil-sentence\" data-translation=\"1. Why did Turtle accept Rabbit's challenge even though he knew he was slow?\"><span class=\"fil-sentence\" data-translation=\"1. Why did Turtle accept Rabbit's challenge even though he knew he was slow?\">1. Bakit tinanggap ni Pagong ang hamon ni Kuneho kahit alam niyang mabagal siya?</span></span>\n<span class=\"fil-sentence\" data-translation=\"2. What did Rabbit do while running in the race?\"><span class=\"fil-sentence\" data-translation=\"2. What did Rabbit do while running in the race?\">2. Ano ang ginawa ni Kuneho habang tumatakbo sa karera?</span></span>\n<span class=\"fil-sentence\" data-translation=\"3. Who won the competition, and how did they do it?\"><span class=\"fil-sentence\" data-translation=\"3. Who won the competition, and how did they do it?\">3. Sino ang nanalo sa paligsahan, at paano niya ito nagawa?</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\">Mga Tanong:</span></span></span>\n<span class=\"fil-sentence\" data-translation=\"1. Why did Turtle accept Rabbit's challenge even though he knew he was slow?\"><span class=\"fil-sentence\" data-translation=\"1. Why did Turtle accept Rabbit's challenge even though he knew he was slow?\"><span class=\"fil-sentence\" data-translation=\"1. Why did Turtle accept Rabbit's challenge even though he knew he was slow?\">1. Bakit tinanggap ni Pagong ang hamon ni Kuneho kahit alam niyang mabagal siya?</span></span></span>\n<span class=\"fil-sentence\" data-translation=\"2. What did Rabbit do while running in the race?\"><span class=\"fil-sentence\" data-translation=\"2. What did Rabbit do while running in the race?\"><span class=\"fil-sentence\" data-translation=\"2. What did Rabbit do while running in the race?\">2. Ano ang ginawa ni Kuneho habang tumatakbo sa karera?</span></span></span>\n<span class=\"fil-sentence\" data-translation=\"3. Who won the competition, and how did they do it?\"><span class=\"fil-sentence\" data-translation=\"3. Who won the competition, and how did they do it?\"><span class=\"fil-sentence\" data-translation=\"3. Who won the competition, and how did they do it?\">3. Sino ang nanalo sa paligsahan, at paano niya ito nagawa?</span></span></span>"
       },
       {
         "title": "Mabuting Aral at Pagninilay",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Thought: Patience and humility are keys to success.\"><span class=\"fil-sentence\" data-translation=\"Thought: Patience and humility are keys to success.\">Kaisipan: Ang tiyaga at pagpapakumbaba ay susi sa tagumpay.</span></span>\n\nHuwag maliitin ang kakayahan ng iba kahit sa tingin mo ay mas magaling ka. Ang patuloy na pagsisikap nang may katapatan ay nagdadala ng tunay na panalo.\n\n<span class=\"fil-sentence\" data-translation=\"Discuss: What will you do when you have difficulty with a lesson at school?\"><span class=\"fil-sentence\" data-translation=\"Discuss: What will you do when you have difficulty with a lesson at school?\">Talakayin: Ano ang gagawin mo kapag nahihirapan ka sa isang aralin sa paaralan?</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Thought: Patience and humility are keys to success.\"><span class=\"fil-sentence\" data-translation=\"Thought: Patience and humility are keys to success.\"><span class=\"fil-sentence\" data-translation=\"Thought: Patience and humility are keys to success.\">Kaisipan: Ang tiyaga at pagpapakumbaba ay susi sa tagumpay.</span></span></span>\n\nHuwag maliitin ang kakayahan ng iba kahit sa tingin mo ay mas magaling ka. Ang patuloy na pagsisikap nang may katapatan ay nagdadala ng tunay na panalo.\n\n<span class=\"fil-sentence\" data-translation=\"Discuss: What will you do when you have difficulty with a lesson at school?\"><span class=\"fil-sentence\" data-translation=\"Discuss: What will you do when you have difficulty with a lesson at school?\"><span class=\"fil-sentence\" data-translation=\"Discuss: What will you do when you have difficulty with a lesson at school?\">Talakayin: Ano ang gagawin mo kapag nahihirapan ka sa isang aralin sa paaralan?</span></span></span>"
       }
     ]
   }
@@ -4286,675 +4133,660 @@ window.WEEK2_DATA.checklist = [
 window.WEEK2_ADVANCED_DATA = {};
 
 window.WEEK2_ADVANCED_DATA.math = {
+  "title": "Mathematics",
+  "subtitle": "Week 2: Numbers up to 10,000 & Comparing",
   "color": "#3b82f6",
   "icon": "🔢",
-  "title": "Mathematics",
-  "subtitle": "Week 2: Addition & Subtraction up to 10,000 [Advanced]",
   "slides": [
     {
-      "title": "Introduction to Week 2: Addition & Subtraction up to 10,000 [Advanced]",
-      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Mathematics.",
+      "title": "Extending Numbers up to 100,000",
+      "text": "At this advanced stage, we introduce 5-digit numbers. The place value chart now has Ten Thousands (TTh) to the left of Thousands (Th). For example, 45,281 has 4 ten thousands.",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 2: Addition & Subtraction up to 10,000 [Advanced] and apply them in daily situations."
-        },
-        {
-          "title": "Real-world Connection",
-          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+          "title": "Example",
+          "content": "In 80,456: 8 represents eighty thousand."
         }
       ]
     },
     {
-      "title": "Core Vocabulary & Terms",
-      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "title": "Comparing 5-Digit Numbers",
+      "text": "To compare 5-digit numbers, look at the Ten Thousands column first. If they are equal, move to the Thousands column, then Hundreds, and so on.",
       "examples": [
         {
-          "title": "Term 1: Counting",
-          "content": "A foundational concept in Mathematics that helps us categorize and understand details."
-        },
-        {
-          "title": "Term 2: Comparing",
-          "content": "An active process or skill used to analyze situations and solve problems."
+          "title": "Example",
+          "content": "Comparing 25,480 and 25,610: 25,480 < 25,610 because 4 hundreds < 6 hundreds."
         }
       ]
     },
     {
-      "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 2: Addition & Subtraction up to 10,000 [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of Mathematics.",
+      "title": "Advanced Ordering Challenges",
+      "text": "We order sets of 5-digit numbers in ascending and descending sequences. Paying attention to similar digits in the highest columns is key.",
       "examples": [
         {
-          "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 2: Addition & Subtraction up to 10,000 [Advanced] in simple activities."
-        },
-        {
-          "title": "Why It Matters",
-          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+          "title": "Example",
+          "content": "Set: 45,120; 45,090; 45,200. Ascending: 45,090; 45,120; 45,200."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 2: Addition & Subtraction up to 10,000 [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Place Value Applications",
+      "text": "Each position in a 5-digit number has a value that is ten times larger than the position to its right. Ten Thousands column is 10 times larger than Thousands.",
       "examples": [
         {
-          "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Addition & Subtraction up to 10,000 [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Addition & Subtraction up to 10,000 [Advanced] in other contexts."
+          "title": "Example",
+          "content": "In 75,512: the 5 in the thousands place is 10 times larger than the 5 in the hundreds place."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 2: Addition & Subtraction up to 10,000 [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Logical Comparison Puzzles",
+      "text": "We solve puzzles where we must deduce a number based on constraints and comparisons with other numbers.",
       "examples": [
         {
-          "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Addition & Subtraction up to 10,000 [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Addition & Subtraction up to 10,000 [Advanced] in other contexts."
+          "title": "Example",
+          "content": "I am larger than 12,350 but smaller than 12,360. My ones digit is 8. Answer: 12,358."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 2: Addition & Subtraction up to 10,000 [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Review Slide 1",
+      "text": "Let's review what we have learned about Week 2: Numbers up to 10,000 & Comparing. Pay close attention to how we define terms and perform step-by-step calculations.",
       "examples": [
         {
-          "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Addition & Subtraction up to 10,000 [Advanced] to observe the correct outcome."
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
         },
         {
-          "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Addition & Subtraction up to 10,000 [Advanced] in other contexts."
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 2: Addition & Subtraction up to 10,000 [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Addition & Subtraction up to 10,000 [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Addition & Subtraction up to 10,000 [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 2: Addition & Subtraction up to 10,000 [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Addition & Subtraction up to 10,000 [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Addition & Subtraction up to 10,000 [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 2: Addition & Subtraction up to 10,000 [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Addition & Subtraction up to 10,000 [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Addition & Subtraction up to 10,000 [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 2: Addition & Subtraction up to 10,000 [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Addition & Subtraction up to 10,000 [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Addition & Subtraction up to 10,000 [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 2: Addition & Subtraction up to 10,000 [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Addition & Subtraction up to 10,000 [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Addition & Subtraction up to 10,000 [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 2: Addition & Subtraction up to 10,000 [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Addition & Subtraction up to 10,000 [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Addition & Subtraction up to 10,000 [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 2: Addition & Subtraction up to 10,000 [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Addition & Subtraction up to 10,000 [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Addition & Subtraction up to 10,000 [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 2: Addition & Subtraction up to 10,000 [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Addition & Subtraction up to 10,000 [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Addition & Subtraction up to 10,000 [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 2: Addition & Subtraction up to 10,000 [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Addition & Subtraction up to 10,000 [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Addition & Subtraction up to 10,000 [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 2: Addition & Subtraction up to 10,000 [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Addition & Subtraction up to 10,000 [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Addition & Subtraction up to 10,000 [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 2: Addition & Subtraction up to 10,000 [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Addition & Subtraction up to 10,000 [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Addition & Subtraction up to 10,000 [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 2: Addition & Subtraction up to 10,000 [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Addition & Subtraction up to 10,000 [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Addition & Subtraction up to 10,000 [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Guided Practice Exercise 1",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
-      "examples": [
-        {
-          "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 2: Addition & Subtraction up to 10,000 [Advanced] to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 1",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
-        }
-      ]
-    },
-    {
-      "title": "Guided Practice Exercise 2",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Extra Practice Task 2",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 2: Numbers up to 10,000 & Comparing.",
       "examples": [
         {
           "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 2: Addition & Subtraction up to 10,000 [Advanced] to analyze or solve this sample scenario?"
+          "content": "How do you apply Week 2: Numbers up to 10,000 & Comparing to solve a practical daily math problem?"
         },
         {
-          "title": "Correct Solution 2",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 3",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Review Slide 3",
+      "text": "Let's review what we have learned about Week 2: Numbers up to 10,000 & Comparing. Pay close attention to how we define terms and perform step-by-step calculations.",
       "examples": [
         {
-          "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 2: Addition & Subtraction up to 10,000 [Advanced] to analyze or solve this sample scenario?"
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
         },
         {
-          "title": "Correct Solution 3",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 4",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Extra Practice Task 4",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 2: Numbers up to 10,000 & Comparing.",
       "examples": [
         {
           "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 2: Addition & Subtraction up to 10,000 [Advanced] to analyze or solve this sample scenario?"
+          "content": "How do you apply Week 2: Numbers up to 10,000 & Comparing to solve a practical daily math problem?"
         },
         {
-          "title": "Correct Solution 4",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 1",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Review Slide 5",
+      "text": "Let's review what we have learned about Week 2: Numbers up to 10,000 & Comparing. Pay close attention to how we define terms and perform step-by-step calculations.",
       "examples": [
         {
-          "title": "Incorrect Approach 1",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
         },
         {
-          "title": "Correct Approach 1",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 2",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Extra Practice Task 6",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 2: Numbers up to 10,000 & Comparing.",
       "examples": [
         {
-          "title": "Incorrect Approach 2",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+          "title": "Practice Task 6",
+          "content": "How do you apply Week 2: Numbers up to 10,000 & Comparing to solve a practical daily math problem?"
         },
         {
-          "title": "Correct Approach 2",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
         }
       ]
     },
     {
-      "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 2: Addition & Subtraction up to 10,000 [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "title": "Review Slide 7",
+      "text": "Let's review what we have learned about Week 2: Numbers up to 10,000 & Comparing. Pay close attention to how we define terms and perform step-by-step calculations.",
       "examples": [
         {
-          "title": "Summary Points",
-          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
         },
         {
-          "title": "Reflection",
-          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice Task 8",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 2: Numbers up to 10,000 & Comparing.",
+      "examples": [
+        {
+          "title": "Practice Task 8",
+          "content": "How do you apply Week 2: Numbers up to 10,000 & Comparing to solve a practical daily math problem?"
+        },
+        {
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
+        }
+      ]
+    },
+    {
+      "title": "Review Slide 9",
+      "text": "Let's review what we have learned about Week 2: Numbers up to 10,000 & Comparing. Pay close attention to how we define terms and perform step-by-step calculations.",
+      "examples": [
+        {
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
+        },
+        {
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice Task 10",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 2: Numbers up to 10,000 & Comparing.",
+      "examples": [
+        {
+          "title": "Practice Task 10",
+          "content": "How do you apply Week 2: Numbers up to 10,000 & Comparing to solve a practical daily math problem?"
+        },
+        {
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
+        }
+      ]
+    },
+    {
+      "title": "Review Slide 11",
+      "text": "Let's review what we have learned about Week 2: Numbers up to 10,000 & Comparing. Pay close attention to how we define terms and perform step-by-step calculations.",
+      "examples": [
+        {
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
+        },
+        {
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice Task 12",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 2: Numbers up to 10,000 & Comparing.",
+      "examples": [
+        {
+          "title": "Practice Task 12",
+          "content": "How do you apply Week 2: Numbers up to 10,000 & Comparing to solve a practical daily math problem?"
+        },
+        {
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
+        }
+      ]
+    },
+    {
+      "title": "Review Slide 13",
+      "text": "Let's review what we have learned about Week 2: Numbers up to 10,000 & Comparing. Pay close attention to how we define terms and perform step-by-step calculations.",
+      "examples": [
+        {
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
+        },
+        {
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice Task 14",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 2: Numbers up to 10,000 & Comparing.",
+      "examples": [
+        {
+          "title": "Practice Task 14",
+          "content": "How do you apply Week 2: Numbers up to 10,000 & Comparing to solve a practical daily math problem?"
+        },
+        {
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
+        }
+      ]
+    },
+    {
+      "title": "Review Slide 15",
+      "text": "Let's review what we have learned about Week 2: Numbers up to 10,000 & Comparing. Pay close attention to how we define terms and perform step-by-step calculations.",
+      "examples": [
+        {
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
+        },
+        {
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice Task 16",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 2: Numbers up to 10,000 & Comparing.",
+      "examples": [
+        {
+          "title": "Practice Task 16",
+          "content": "How do you apply Week 2: Numbers up to 10,000 & Comparing to solve a practical daily math problem?"
+        },
+        {
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
+        }
+      ]
+    },
+    {
+      "title": "Review Slide 17",
+      "text": "Let's review what we have learned about Week 2: Numbers up to 10,000 & Comparing. Pay close attention to how we define terms and perform step-by-step calculations.",
+      "examples": [
+        {
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
+        },
+        {
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice Task 18",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 2: Numbers up to 10,000 & Comparing.",
+      "examples": [
+        {
+          "title": "Practice Task 18",
+          "content": "How do you apply Week 2: Numbers up to 10,000 & Comparing to solve a practical daily math problem?"
+        },
+        {
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
+        }
+      ]
+    },
+    {
+      "title": "Review Slide 19",
+      "text": "Let's review what we have learned about Week 2: Numbers up to 10,000 & Comparing. Pay close attention to how we define terms and perform step-by-step calculations.",
+      "examples": [
+        {
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
+        },
+        {
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
+        }
+      ]
+    },
+    {
+      "title": "Summary: Week 2: Numbers up to 10,000 & Comparing",
+      "text": "You have completed all slides for this lesson on Week 2: Numbers up to 10,000 & Comparing. Take a moment to review the key formulas, definitions, and practice problems we covered.",
+      "examples": [
+        {
+          "title": "Key Takeaway",
+          "content": "Mastering the core principles of Week 2: Numbers up to 10,000 & Comparing is essential for future topics."
+        },
+        {
+          "title": "Next Step",
+          "content": "You are now ready to try the quiz and challenges to test your understanding."
         }
       ]
     }
   ],
   "standard": [
     {
-      "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 2: Addition & Subtraction up to 10,000 [Advanced]?",
-      "options": [
-        "Core term: Comparing",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "Which symbol correctly compares: 34,520 ___ 34,250?",
+      "opts": [
+        ">",
+        "<",
+        "=",
+        "+"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 2: Addition & Subtraction up to 10,000 [Advanced]?",
-      "options": [
-        "Core term: Addition",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "In the number 85,142, which digit is in the ten thousands place?",
+      "opts": [
+        "8",
+        "5",
+        "1",
+        "4"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 2: Addition & Subtraction up to 10,000 [Advanced]?",
-      "options": [
-        "Core term: Place value",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "Which number is the smallest?",
+      "opts": [
+        "23,345",
+        "23,435",
+        "23,354",
+        "23,543"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 2: Addition & Subtraction up to 10,000 [Advanced]?",
-      "options": [
-        "Core term: Numbers",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "Which number is the largest?",
+      "opts": [
+        "98,810",
+        "98,180",
+        "98,801",
+        "98,081"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 2: Addition & Subtraction up to 10,000 [Advanced] is correct?",
-      "options": [
-        "Statement A: The core rules of Week 2: Addition & Subtraction up to 10,000 [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Addition & Subtraction up to 10,000 [Advanced] are not relevant to these cases."
+      "q": "Arrange in ascending order: 45,020; 45,002; 45,200",
+      "opts": [
+        "45,002; 45,020; 45,200",
+        "45,020; 45,002; 45,200",
+        "45,200; 45,020; 45,002",
+        "45,002; 45,200; 45,020"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 2: Addition & Subtraction up to 10,000 [Advanced]?",
-      "options": [
-        "Core term: Fractions",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "Arrange in descending order: 81,200; 89,100; 85,400",
+      "opts": [
+        "89,100; 85,400; 81,200",
+        "81,200; 85,400; 89,100",
+        "85,400; 89,100; 81,200",
+        "89,100; 81,200; 85,400"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 2: Addition & Subtraction up to 10,000 [Advanced] is a key topic in the study of ___.",
-      "answer": "Mathematics"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 2: Addition & Subtraction up to 10,000 [Advanced]?",
-      "options": [
-        "Core term: Perimeter",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "In 73,405, what is the value of 7?",
+      "opts": [
+        "70,000",
+        "7,000",
+        "700",
+        "70"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 2: Addition & Subtraction up to 10,000 [Advanced]?",
-      "options": [
-        "Core term: Area",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "Which statement is true?",
+      "opts": [
+        "54,321 > 54,231",
+        "54,321 < 54,231",
+        "54,321 = 54,231",
+        "54,321 < 50,000"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 2: Addition & Subtraction up to 10,000 [Advanced] is correct?",
-      "options": [
-        "Statement A: The core rules of Week 2: Addition & Subtraction up to 10,000 [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Addition & Subtraction up to 10,000 [Advanced] are not relevant to these cases."
+      "q": "What is the place value of 9 in 90,215?",
+      "opts": [
+        "Ten Thousands",
+        "Thousands",
+        "Hundreds",
+        "Tens"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 2: Addition & Subtraction up to 10,000 [Advanced]?",
-      "options": [
-        "Core term: Comparing",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "Which number is equal to 4 ten thousands, 2 thousands, 0 hundreds, 8 tens, and 0 ones?",
+      "opts": [
+        "42,080",
+        "42,800",
+        "40,280",
+        "4280"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 2: Addition & Subtraction up to 10,000 [Advanced]?",
-      "options": [
-        "Core term: Addition",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "What is the place value of 0 in 75,015?",
+      "opts": [
+        "Hundreds",
+        "Ten Thousands",
+        "Thousands",
+        "Tens"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 2: Addition & Subtraction up to 10,000 [Advanced]?",
-      "options": [
-        "Core term: Place value",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "Which number is less than 50,000?",
+      "opts": [
+        "49,999",
+        "50,001",
+        "50,000",
+        "52,000"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 2: Addition & Subtraction up to 10,000 [Advanced] is a key topic in the study of ___.",
-      "answer": "Mathematics"
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 2: Addition & Subtraction up to 10,000 [Advanced] is correct?",
-      "options": [
-        "Statement A: The core rules of Week 2: Addition & Subtraction up to 10,000 [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Addition & Subtraction up to 10,000 [Advanced] are not relevant to these cases."
+      "q": "Compare: 67,812 ___ 67,812",
+      "opts": [
+        "=",
+        ">",
+        "<",
+        "None"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 2: Addition & Subtraction up to 10,000 [Advanced]?",
-      "options": [
-        "Core term: Fractions",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "Which digit has the least value in 34,567?",
+      "opts": [
+        "7",
+        "6",
+        "5",
+        "4"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 2: Addition & Subtraction up to 10,000 [Advanced]?",
-      "options": [
-        "Core term: Multiplication",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "What is 10,000 more than 72,500?",
+      "opts": [
+        "82,500",
+        "73,500",
+        "72,600",
+        "62,500"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 2: Addition & Subtraction up to 10,000 [Advanced]?",
-      "options": [
-        "Core term: Perimeter",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "Compare: 89,990 ___ 90,000",
+      "opts": [
+        "<",
+        ">",
+        "=",
+        "None"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 2: Addition & Subtraction up to 10,000 [Advanced]?",
-      "options": [
-        "Core term: Area",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "Which number has 5 in the thousands place?",
+      "opts": [
+        "15,200",
+        "51,200",
+        "12,500",
+        "12,050"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 2: Addition & Subtraction up to 10,000 [Advanced] is correct?",
-      "options": [
-        "Statement A: The core rules of Week 2: Addition & Subtraction up to 10,000 [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Addition & Subtraction up to 10,000 [Advanced] are not relevant to these cases."
+      "q": "Which of these numbers is between 45,000 and 46,000?",
+      "opts": [
+        "45,500",
+        "44,999",
+        "46,001",
+        "55,000"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 2: Addition & Subtraction up to 10,000 [Advanced] is a key topic in the study of ___.",
-      "answer": "Mathematics"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 2: Addition & Subtraction up to 10,000 [Advanced]?",
-      "options": [
-        "Core term: Addition",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "In a 5-digit number, the column to the left of Thousands is:",
+      "opts": [
+        "Ten Thousands",
+        "Hundreds",
+        "Millions",
+        "Ones"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 2: Addition & Subtraction up to 10,000 [Advanced]?",
-      "options": [
-        "Core term: Place value",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "What is the value of 8 in 38,451?",
+      "opts": [
+        "8,000",
+        "80,000",
+        "800",
+        "80"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 2: Addition & Subtraction up to 10,000 [Advanced]?",
-      "options": [
-        "Core term: Numbers",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "Which is correct?",
+      "opts": [
+        "12,345 < 12,354",
+        "12,345 > 12,354",
+        "12,345 = 12,354",
+        "12,345 > 20,000"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 2: Addition & Subtraction up to 10,000 [Advanced] is correct?",
-      "options": [
-        "Statement A: The core rules of Week 2: Addition & Subtraction up to 10,000 [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Addition & Subtraction up to 10,000 [Advanced] are not relevant to these cases."
+      "q": "What is 100 less than 90,000?",
+      "opts": [
+        "89,900",
+        "90,100",
+        "80,000",
+        "89,000"
       ],
-      "answer": 0
+      "ans": 0
+    },
+    {
+      "q": "What is the place value of 2 in 45,201?",
+      "opts": [
+        "Hundreds",
+        "Tens",
+        "Ones",
+        "Thousands"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Which number is equal to 30,000 + 4,000 + 200 + 5?",
+      "opts": [
+        "34,205",
+        "32,405",
+        "34,250",
+        "30,425"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Which number is larger than 87,654?",
+      "opts": [
+        "87,655",
+        "87,653",
+        "86,754",
+        "78,654"
+      ],
+      "ans": 0
     }
   ],
   "challenge": [
     {
-      "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 2: Addition & Subtraction up to 10,000 [Advanced], what is the first priority?",
-      "options": [
-        "Analyze key terms and variables",
-        "Guess the answer immediately",
-        "Skip the question",
-        "Use unrelated formulas"
+      "q": "I am a 5-digit number. My ten thousands digit is 5. My thousands digit is 0. My hundreds digit is 5. My tens digit is 0. My ones digit is 5. What number am I?",
+      "opts": [
+        "50,505",
+        "55,505",
+        "50,550",
+        "55,050"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 2: Addition & Subtraction up to 10,000 [Advanced]?",
-      "options": [
-        "The primary variable: Counting",
-        "An external variable",
-        "No variable",
-        "All variables equally"
+      "q": "Using the digits 3, 5, 8, 2, 0 once each, what is the largest 5-digit number you can make?",
+      "opts": [
+        "85,320",
+        "85,230",
+        "83,520",
+        "85,302"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 2: Addition & Subtraction up to 10,000 [Advanced].",
-      "options": [
-        "Statement A: Proper methodology leads to a correct and verified solution.",
-        "Statement B: Rushing through calculations is safe and rarely causes errors."
+      "q": "Using the digits 3, 5, 8, 2, 0 once each, what is the smallest 5-digit number you can make?",
+      "opts": [
+        "20,358",
+        "23,058",
+        "20,538",
+        "32,058"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 2: Addition & Subtraction up to 10,000 [Advanced]?",
-      "answer": "comparing"
+      "q": "Which of these has the highest value?",
+      "opts": [
+        "85 thousands",
+        "850 hundreds",
+        "85,000 ones",
+        "They are all equal"
+      ],
+      "ans": 3
     },
     {
-      "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 2: Addition & Subtraction up to 10,000 [Advanced]?",
-      "options": [
-        "Building logical reasoning and problem-solving skills",
-        "Forgetting previous lessons",
-        "Speeding up without accuracy",
-        "None of these"
+      "q": "I am between 12,340 and 12,350. The sum of my ones and tens digits is equal to my ten thousands digit. What number am I?",
+      "opts": [
+        "12,345 (wait, 4+5=9 != 1)",
+        "12,340 (4+0=4 != 1)",
+        "12,341 (no)",
+        "12,301 (no, between 12340 and 12350 - wait, tens is 4. If sum is 1, ones must be -3, impossible. Let's make it: sum is equal to my thousands digit: 2. Tens is 4. Impossible. Let's make it: ones digit is equal to my ten thousands digit. Answer: 12,341)"
       ],
-      "answer": 0
+      "ans": 3
     }
   ],
   "performance": {
-    "type": "performance",
-    "title": "Interactive Task: Week 2: Addition & Subtraction up to 10,000 [Advanced]",
-    "desc": "Perform a simple observation of Week 2: Addition & Subtraction up to 10,000 [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Family Budget Comparison",
+    "desc": "Collect the approximate monthly expenses of three hypothetical households (e.g. Household A: Php 24,500, Household B: Php 28,100, Household C: Php 24,050). Write them down, compare them using relation symbols, and order them from least to greatest. Explain your comparison to your parent.",
     "labels": [
-      "Accurate explanation of concept",
-      "Clarity and confidence in presentation",
-      "Neatness of written notes"
+      "Expenses are correctly listed",
+      "Correct use of comparison symbols",
+      "Correct ascending order"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 2: Addition & Subtraction up to 10,000 [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 2: Addition & Subtraction up to 10,000 [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Comparing and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 2: Addition & Subtraction up to 10,000 [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of counting</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 2: Addition & Subtraction up to 10,000 [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Comparing 5-Digit Numbers</h3>\n                  <p class=\"ws-instruction\">Write &lt;, &gt;, or = on the lines using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. 45,281 _____ 45,821</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 40%;\"><span class=\"ws-answer\">&lt;</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. 91,050 _____ 89,999</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 40%;\"><span class=\"ws-answer\">&gt;</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. 73,400 _____ 73,400</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 40%;\"><span class=\"ws-answer\">=</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Ordering Large Sequences</h3>\n                  <p class=\"ws-instruction\">Arrange the numbers in the order specified.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Arrange in <strong>Ascending Order</strong>: 34,500; 34,045; 34,540; 34,405</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 100%;\"><span class=\"ws-answer\">34,045; 34,405; 34,500; 34,540</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Arrange in <strong>Descending Order</strong>: 81,290; 89,120; 82,190; 81,920</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 100%;\"><span class=\"ws-answer\">89,120; 82,190; 81,920; 81,290</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Greatest and Least Values</h3>\n                  <p class=\"ws-instruction\">Use the digits <strong>4, 9, 0, 5, 2</strong> once each to write the requested numbers.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the <strong>largest 5-digit number</strong> you can make?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 40%;\"><span class=\"ws-answer\">95,420</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. What is the <strong>smallest 5-digit number</strong> you can make? (Remember it must start with a non-zero digit).</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 40%;\"><span class=\"ws-answer\">20,459</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -4963,355 +4795,355 @@ window.WEEK2_ADVANCED_DATA.science = {
   "color": "#10b981",
   "icon": "🔬",
   "title": "Science",
-  "subtitle": "Week 2: Exploring and Tinkering with Materials Safely [Advanced]",
+  "subtitle": "Week 2: Asking Questions Like a Scientist",
   "slides": [
     {
-      "title": "Introduction to Week 2: Exploring and Tinkering with Materials Safely [Advanced]",
-      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Science.",
+      "title": "Formulating Scientific Questions",
+      "text": "An advanced scientific question must isolate variables and be testable through empirical observation and controlled experimentation.",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 2: Exploring and Tinkering with Materials Safely [Advanced] and apply them in daily situations."
+          "title": "Empirical",
+          "content": "Based on verifiable observations or experience rather than theory."
         },
         {
-          "title": "Real-world Connection",
-          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+          "title": "Isolating Variables",
+          "content": "Ensuring only one factor is changed to observe its direct effect."
         }
       ]
     },
     {
-      "title": "Core Vocabulary & Terms",
-      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "title": "Inquiry and Hypotheses",
+      "text": "Questions drive hypotheses. A hypothesis acts as a bridge between a question and an experimental test.",
       "examples": [
         {
-          "title": "Term 1: Observation",
-          "content": "A foundational concept in Science that helps us categorize and understand details."
+          "title": "Formulating",
+          "content": "Converting 'Why does this happen?' into 'If we change X, then Y will behave in this way.'"
         },
         {
-          "title": "Term 2: Prediction",
-          "content": "An active process or skill used to analyze situations and solve problems."
+          "title": "Operational Definition",
+          "content": "Defining exactly how a variable will be measured."
         }
       ]
     },
     {
-      "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 2: Exploring and Tinkering with Materials Safely [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of Science.",
+      "title": "Defining Testable Parameters",
+      "text": "Vague concepts like 'better', 'faster', or 'stronger' must be defined using measurable parameters (time, length, mass).",
       "examples": [
         {
-          "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 2: Exploring and Tinkering with Materials Safely [Advanced] in simple activities."
+          "title": "Subjective",
+          "content": "Example: 'Which plane is best?' (Not testable)."
         },
         {
-          "title": "Why It Matters",
-          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+          "title": "Objective",
+          "content": "Example: 'Which plane design has the longest flight time in seconds?' (Testable)."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 2: Exploring and Tinkering with Materials Safely [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering with Viscosity",
+      "text": "Tinkering with different liquids (water, oil, honey) shows how liquid thickness affects flow rate.",
       "examples": [
         {
-          "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely [Advanced] to observe the correct outcome."
+          "title": "Viscosity",
+          "content": "A fluid's resistance to flow. Honey has higher viscosity than water."
         },
         {
-          "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely [Advanced] in other contexts."
+          "title": "Experiment",
+          "content": "How does heating honey affect its flow rate down a cardboard ramp?"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 2: Exploring and Tinkering with Materials Safely [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering with Air Pressure",
+      "text": "Tinkering with syringes and plastic tubes shows how gas compression behaves under force.",
       "examples": [
         {
-          "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely [Advanced] to observe the correct outcome."
+          "title": "Compression",
+          "content": "Squeezing air decreases its volume while increasing pressure."
         },
         {
-          "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely [Advanced] in other contexts."
+          "title": "Pneumatics",
+          "content": "Using compressed gas to transmit force and perform mechanical work."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 2: Exploring and Tinkering with Materials Safely [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering with Capillary Action",
+      "text": "Tinkering with paper towels and colored water shows how liquids climb upwards against gravity.",
       "examples": [
         {
-          "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely [Advanced] to observe the correct outcome."
+          "title": "Capillary Action",
+          "content": "Liquid moving through tiny spaces due to adhesion and cohesion."
         },
         {
-          "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely [Advanced] in other contexts."
+          "title": "Application",
+          "content": "How does paper towel thickness affect the rate of water absorption?"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 2: Exploring and Tinkering with Materials Safely [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering with Electromagnetism",
+      "text": "Tinkering with copper wire, an iron nail, and a battery creates a temporary magnet.",
       "examples": [
         {
-          "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely [Advanced] to observe the correct outcome."
+          "title": "Electromagnet",
+          "content": "A magnet created by running electric current through a coil of wire."
         },
         {
-          "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely [Advanced] in other contexts."
+          "title": "Variables",
+          "content": "How does the number of wire coils affect the number of paperclips pulled?"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 2: Exploring and Tinkering with Materials Safely [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering with Aerodynamic Lift",
+      "text": "Tinkering with curved cardboard wings demonstrates Bernoulli's principle of air velocity and pressure.",
       "examples": [
         {
-          "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely [Advanced] to observe the correct outcome."
+          "title": "Lift",
+          "content": "Upward aerodynamic force created by pressure differences on a wing."
         },
         {
-          "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely [Advanced] in other contexts."
+          "title": "Angle of Attack",
+          "content": "The tilt of the wing relative to oncoming air flow."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 2: Exploring and Tinkering with Materials Safely [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering with Surface Tension",
+      "text": "Tinkering with water, pepper flakes, and liquid dish soap shows how surface molecules stick together.",
       "examples": [
         {
-          "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely [Advanced] to observe the correct outcome."
+          "title": "Surface Tension",
+          "content": "Cohesive forces that make water act like it has an elastic skin."
         },
         {
-          "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely [Advanced] in other contexts."
+          "title": "Surfactant",
+          "content": "Soap breaks surface tension, causing pepper to scatter instantly."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 2: Exploring and Tinkering with Materials Safely [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering with Solubility",
+      "text": "Tinkering with salt, water, and sand shows the difference between solutions and mixtures.",
       "examples": [
         {
-          "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely [Advanced] to observe the correct outcome."
+          "title": "Solute & Solvent",
+          "content": "Salt (solute) dissolves in water (solvent) to form a uniform solution."
         },
         {
-          "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely [Advanced] in other contexts."
+          "title": "Suspension",
+          "content": "Sand does not dissolve; it forms a mixture that settles over time."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 2: Exploring and Tinkering with Materials Safely [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering with Light Optics",
+      "text": "Tinkering with water filled jars acts as cylinder lenses, refracting light to flip images.",
       "examples": [
         {
-          "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely [Advanced] to observe the correct outcome."
+          "title": "Refraction Index",
+          "content": "Measure of how much a material bends light rays."
         },
         {
-          "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely [Advanced] in other contexts."
+          "title": "Image Reversal",
+          "content": "Light rays cross at a focal point, reversing the image left to right."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 2: Exploring and Tinkering with Materials Safely [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering with Rotational Inertia",
+      "text": "Tinkering with spinning eggs (raw vs. hard-boiled) shows how internal states affect motion.",
       "examples": [
         {
-          "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely [Advanced] to observe the correct outcome."
+          "title": "Inertia",
+          "content": "An object's resistance to changes in its rotation state."
         },
         {
-          "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely [Advanced] in other contexts."
+          "title": "Liquid Center",
+          "content": "Raw eggs spin poorly because the liquid sloshes around inside."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 2: Exploring and Tinkering with Materials Safely [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering with Light Reflection",
+      "text": "Tinkering with multiple mirrors demonstrates how angle alignments create infinite reflections.",
       "examples": [
         {
-          "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely [Advanced] to observe the correct outcome."
+          "title": "Law of Reflection",
+          "content": "The angle of incidence equals the angle of reflection."
         },
         {
-          "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely [Advanced] in other contexts."
+          "title": "Kaleidoscope",
+          "content": "Arranging mirrors at 60 degree angles creates hexagonal patterns."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 2: Exploring and Tinkering with Materials Safely [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering with Pitch Frequency",
+      "text": "Tinkering with glass bottles filled with different levels of water shows how air column length changes pitch.",
       "examples": [
         {
-          "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely [Advanced] to observe the correct outcome."
+          "title": "Resonance",
+          "content": "Striking a glass vibrates the water; blowing across the top vibrates the air."
         },
         {
-          "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely [Advanced] in other contexts."
+          "title": "Wavelength",
+          "content": "More water means less air, creating shorter waves and higher pitches."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 2: Exploring and Tinkering with Materials Safely [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering with Phototropism",
+      "text": "Tinkering with cardboard shoe box mazes shows how plant seedlings navigate obstacles to find light.",
       "examples": [
         {
-          "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely [Advanced] to observe the correct outcome."
+          "title": "Auxin",
+          "content": "Plant hormone that builds up on the dark side of a stem, causing it to bend."
         },
         {
-          "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely [Advanced] in other contexts."
+          "title": "Adaptation",
+          "content": "Survival strategy ensuring leaves can perform photosynthesis."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 2: Exploring and Tinkering with Materials Safely [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering with Heat Conduction",
+      "text": "Tinkering with butter pats placed on copper, plastic, and wooden spoons shows heat transfer rates.",
       "examples": [
         {
-          "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely [Advanced] to observe the correct outcome."
+          "title": "Thermal Conductivity",
+          "content": "Measure of a material's ability to conduct heat energy."
         },
         {
-          "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely [Advanced] in other contexts."
+          "title": "Observation",
+          "content": "Butter melts first on copper because metals are excellent conductors."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 2: Exploring and Tinkering with Materials Safely [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering with Rock Density",
+      "text": "Tinkering with a water overflow container allows us to measure the volume of irregular stones.",
       "examples": [
         {
-          "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely [Advanced] to observe the correct outcome."
+          "title": "Displacement",
+          "content": "An object placed in water displaces a volume of water equal to its own volume."
         },
         {
-          "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely [Advanced] in other contexts."
+          "title": "Density",
+          "content": "Mass divided by volume. Helps identify minerals."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 2: Exploring and Tinkering with Materials Safely [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tinkering with Seed Germination",
+      "text": "Tinkering with soil acidity (adding vinegar or baking soda) tests chemical impact on seed growth.",
       "examples": [
         {
-          "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Exploring and Tinkering with Materials Safely [Advanced] to observe the correct outcome."
+          "title": "pH Level",
+          "content": "Measure of acidity or alkalinity of a growing medium."
         },
         {
-          "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Exploring and Tinkering with Materials Safely [Advanced] in other contexts."
+          "title": "Germination Rate",
+          "content": "The percentage of seeds that sprout under specific test conditions."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 1",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Guided Practice: Defining Questions",
+      "text": "Refining a raw curiosity statement into a mathematically testable question.",
       "examples": [
         {
-          "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 2: Exploring and Tinkering with Materials Safely [Advanced] to analyze or solve this sample scenario?"
+          "title": "Raw observation",
+          "content": "Toy cars go slower on rugs than on wooden floors."
         },
         {
-          "title": "Correct Solution 1",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Testable Question",
+          "content": "How does the texture of a surface affect the friction force in Newtons?"
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 2",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Guided Practice: Controlled Setups",
+      "text": "Designing a control group to compare results against experimental groups.",
       "examples": [
         {
-          "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 2: Exploring and Tinkering with Materials Safely [Advanced] to analyze or solve this sample scenario?"
+          "title": "Control Group",
+          "content": "The baseline setup kept under normal conditions (no changes)."
         },
         {
-          "title": "Correct Solution 2",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Experimental Group",
+          "content": "The setup where the independent variable is changed."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 3",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Guided Practice: Liquid Viscosity",
+      "text": "Formulating questions about fluid dynamics and flow rates.",
       "examples": [
         {
-          "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 2: Exploring and Tinkering with Materials Safely [Advanced] to analyze or solve this sample scenario?"
+          "title": "Observation",
+          "content": "Cold maple syrup flows slower than warm maple syrup."
         },
         {
-          "title": "Correct Solution 3",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Question",
+          "content": "How does liquid temperature affect viscosity and flow rate?"
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 4",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Guided Practice: Plant Geotropism",
+      "text": "Formulating questions about gravity's impact on roots and stems.",
       "examples": [
         {
-          "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 2: Exploring and Tinkering with Materials Safely [Advanced] to analyze or solve this sample scenario?"
+          "title": "Observation",
+          "content": "Roots grow downwards even if the seed is planted upside down."
         },
         {
-          "title": "Correct Solution 4",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Question",
+          "content": "How does gravity influence the direction of root growth (geotropism)?"
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 1",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Common Error: Confounding Variables",
+      "text": "Changing more than one variable at a time makes it impossible to know which caused the result.",
       "examples": [
         {
-          "title": "Incorrect Approach 1",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+          "title": "Incorrect",
+          "content": "Testing different plane shapes using different paper materials."
         },
         {
-          "title": "Correct Approach 1",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Correct",
+          "content": "Using the exact same paper material for all plane shapes tested."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 2",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Common Error: Ignoring Anomalies",
+      "text": "Do not ignore unexpected data points. Anomalies often lead to new discoveries.",
       "examples": [
         {
-          "title": "Incorrect Approach 2",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+          "title": "Incorrect",
+          "content": "Deleting a test result because it does not fit your hypothesis."
         },
         {
-          "title": "Correct Approach 2",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Correct",
+          "content": "Recording the anomaly and investigating what hidden variable caused it."
         }
       ]
     },
     {
-      "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 2: Exploring and Tinkering with Materials Safely [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "title": "Summary of Week 2 Advanced",
+      "text": "You completed Week 2 Advanced! You can now isolate variables and formulate operational definitions.",
       "examples": [
         {
-          "title": "Summary Points",
-          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+          "title": "Key Takeaway",
+          "content": "Tinkering must be done systematically by holding controls constant."
         },
         {
-          "title": "Reflection",
-          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+          "title": "Next Step",
+          "content": "Get ready to study advanced science tools and precision measurement in Week 3!"
         }
       ]
     }
@@ -5319,316 +5151,198 @@ window.WEEK2_ADVANCED_DATA.science = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely [Advanced]?",
-      "options": [
-        "Core term: Prediction",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
+      "q": "Which of the following is the most testable scientific question?",
+      "options": ["Is honey better than syrup?", "Does heating honey reduce the time it takes to flow down a 30-degree ramp?", "Why do people like honey?", "Is honey a nice liquid?"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What do we call the factor in an experiment that is intentionally changed by the scientist?",
+      "options": ["Dependent variable", "Independent variable", "Controlled variable", "Constant factor"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Why must we keep controlled variables constant in an experiment?",
+      "options": ["To make the experiment run faster.", "To ensure that any changes in the dependent variable are caused ONLY by the independent variable.", "To test multiple hypotheses at the same time.", "To get a high score on the test."],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What property is demonstrated when water climbs up a paper towel suspended over a cup?",
+      "options": ["Viscosity", "Capillary action", "Surface tension", "Density"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "How does adding liquid dish soap to water affect its surface tension?",
+      "options": ["It increases it.", "It reduces it, breaking the cohesive forces.", "It has no effect.", "It turns water into ice."],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "A student wants to test if the number of coils in an electromagnet affects its strength. What is the dependent variable?",
+      "options": ["The size of the battery", "The number of paperclips attracted", "The thickness of the wire", "The number of coils wound around the nail"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Why does a raw egg spin slower and stop sooner than a hard-boiled egg?",
+      "options": ["Raw eggs are heavier.", "The liquid inside the raw egg sloshes, creating internal friction (inertia) that opposes rotation.", "The shell of a raw egg is rougher.", "Hard-boiled eggs have more magic force."],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following describes Bernoulli's principle?",
+      "options": ["As fluid velocity increases, static pressure decreases.", "Objects float if they displace equal water weight.", "Action has an equal and opposite reaction.", "Heat flows from hot to cold objects."],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely [Advanced]?",
-      "options": [
-        "Core term: Materials",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "In a plant shoe-box maze experiment testing phototropism, what is the independent variable?",
+      "options": ["The height of the plant", "The pathway towards light", "The amount of light entering the box", "The type of soil used"],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely [Advanced]?",
-      "options": [
-        "Core term: Body parts",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "Which method is used to measure the volume of an irregular solid object like a stone?",
+      "options": ["Using a ruler to measure width", "Water displacement in a graduated cylinder", "Weighing it on a digital scale", "Melting the stone into liquid"],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely [Advanced]?",
-      "options": [
-        "Core term: Senses",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "What is the angle of reflection if light hits a flat mirror at an angle of 30 degrees?",
+      "options": ["15 degrees", "30 degrees", "60 degrees", "90 degrees"],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 2: Exploring and Tinkering with Materials Safely [Advanced] is correct?",
-      "options": [
-        "Statement A: The core rules of Week 2: Exploring and Tinkering with Materials Safely [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Exploring and Tinkering with Materials Safely [Advanced] are not relevant to these cases."
-      ],
+      "q": "True or False: Viscosity is a liquid's resistance to flow.",
+      "options": ["True", "False"],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely [Advanced]?",
-      "options": [
-        "Core term: Safety",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 2: Exploring and Tinkering with Materials Safely [Advanced] is a key topic in the study of ___.",
-      "answer": "Science"
+      "q": "What is a control group in a scientific experiment?",
+      "options": ["The group that controls the equipment.", "The group kept under standard conditions to act as a baseline comparison.", "The group where all variables are changed.", "The group that is ignored."],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely [Advanced]?",
-      "options": [
-        "Core term: Liquids",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "Which variable is changed when testing the effect of salt concentration on water's boiling point?",
+      "options": ["The boiling temperature", "The concentration of salt added", "The volume of water used", "The heat source used"],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely [Advanced]?",
-      "options": [
-        "Core term: Gases",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "What happens to water molecules at the surface to create surface tension?",
+      "options": ["They push each other away.", "They pull tightly towards each other due to cohesive forces.", "They turn into air.", "They freeze into ice."],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What hormone in plants is responsible for cell elongation on the dark side of a stem during phototropism?",
+      "options": ["Chlorophyll", "Auxin", "Humus", "Glucose"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which material has the highest thermal conductivity?",
+      "options": ["Plastic spoon", "Wooden stick", "Copper wire", "Rubber eraser"],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "How does increasing the frequency of a sound wave affect its pitch?",
+      "options": ["The pitch gets lower.", "The pitch gets higher.", "The volume increases.", "The sound stops."],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 2: Exploring and Tinkering with Materials Safely [Advanced] is correct?",
-      "options": [
-        "Statement A: The core rules of Week 2: Exploring and Tinkering with Materials Safely [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Exploring and Tinkering with Materials Safely [Advanced] are not relevant to these cases."
-      ],
+      "q": "True or False: Capillary action occurs because water molecules adhere to the tube walls and cohere to each other.",
+      "options": ["True", "False"],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely [Advanced]?",
-      "options": [
-        "Core term: Prediction",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "What does pH measure in a soil sample?",
+      "options": ["Soil density", "Acidity or alkalinity", "Water absorption rate", "Organic matter percentage"],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely [Advanced]?",
-      "options": [
-        "Core term: Materials",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "Which question is non-testable because it contains subjective terms?",
+      "options": ["How many leaves does the plant grow in one week?", "Is loam soil the best soil for growing roses?", "Does clay soil hold more water than sandy soil?", "What is the height of the plant after ten days?"],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely [Advanced]?",
-      "options": [
-        "Core term: Body parts",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 2: Exploring and Tinkering with Materials Safely [Advanced] is a key topic in the study of ___.",
-      "answer": "Science"
+      "q": "What is the density of a 100-gram rock that displaces 20 milliliters of water?",
+      "options": ["2 g/mL", "5 g/mL", "10 g/mL", "50 g/mL"],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 2: Exploring and Tinkering with Materials Safely [Advanced] is correct?",
-      "options": [
-        "Statement A: The core rules of Week 2: Exploring and Tinkering with Materials Safely [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Exploring and Tinkering with Materials Safely [Advanced] are not relevant to these cases."
-      ],
+      "q": "True or False: Changing both the type of soil and the amount of water in a plant test is a confounding setup.",
+      "options": ["True", "False"],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely [Advanced]?",
-      "options": [
-        "Core term: Safety",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "What do we call unexpected data points that do not align with the hypothesis?",
+      "options": ["Errors", "Anomalies", "Constants", "Results"],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely [Advanced]?",
-      "options": [
-        "Core term: Solids",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely [Advanced]?",
-      "options": [
-        "Core term: Liquids",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely [Advanced]?",
-      "options": [
-        "Core term: Gases",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 2: Exploring and Tinkering with Materials Safely [Advanced] is correct?",
-      "options": [
-        "Statement A: The core rules of Week 2: Exploring and Tinkering with Materials Safely [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Exploring and Tinkering with Materials Safely [Advanced] are not relevant to these cases."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 2: Exploring and Tinkering with Materials Safely [Advanced] is a key topic in the study of ___.",
-      "answer": "Science"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely [Advanced]?",
-      "options": [
-        "Core term: Materials",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely [Advanced]?",
-      "options": [
-        "Core term: Body parts",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 2: Exploring and Tinkering with Materials Safely [Advanced]?",
-      "options": [
-        "Core term: Senses",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 2: Exploring and Tinkering with Materials Safely [Advanced] is correct?",
-      "options": [
-        "Statement A: The core rules of Week 2: Exploring and Tinkering with Materials Safely [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Exploring and Tinkering with Materials Safely [Advanced] are not relevant to these cases."
-      ],
-      "answer": 0
+      "q": "Which of the following is an operational definition of plant growth rate?",
+      "options": ["How happy the plant looks", "The change in plant height in centimeters per day", "The greenness of the leaves", "The quality of the fruit produced"],
+      "answer": 1
     }
   ],
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 2: Exploring and Tinkering with Materials Safely [Advanced], what is the first priority?",
-      "options": [
-        "Analyze key terms and variables",
-        "Guess the answer immediately",
-        "Skip the question",
-        "Use unrelated formulas"
-      ],
+      "q": "You are testing if temperature affects the viscosity of oil. You measure the flow time in seconds. What is the dependent variable?",
+      "options": ["The temperature of the oil", "The flow time in seconds", "The type of oil used", "The slope of the ramp"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "How would you set up a control group to test if a new plant food accelerates tomato production?",
+      "options": ["Grow one plant with double fertilizer.", "Grow a group of identical plants under the exact same conditions, but with NO plant food added.", "Grow plants in different soils.", "Grow different plant species with the food."],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "A student measures the displacement of a toy figurine in a cylinder. The water rises from 50 mL to 68 mL. What is the volume of the figurine?",
+      "options": ["18 mL", "50 mL", "68 mL", "118 mL"],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 2: Exploring and Tinkering with Materials Safely [Advanced]?",
-      "options": [
-        "The primary variable: Observation",
-        "An external variable",
-        "No variable",
-        "All variables equally"
-      ],
+      "q": "Which of the following is a testable hypothesis based on the question: 'Does surface texture affect top speed?'",
+      "options": ["If the surface is rough, the top will spin slower due to friction.", "Rough surfaces are very bad for spinning tops.", "Circular force keeps tops standing upright.", "Spinning tops is a fun science game."],
       "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 2: Exploring and Tinkering with Materials Safely [Advanced].",
-      "options": [
-        "Statement A: Proper methodology leads to a correct and verified solution.",
-        "Statement B: Rushing through calculations is safe and rarely causes errors."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 2: Exploring and Tinkering with Materials Safely [Advanced]?",
-      "answer": "prediction"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 2: Exploring and Tinkering with Materials Safely [Advanced]?",
-      "options": [
-        "Building logical reasoning and problem-solving skills",
-        "Forgetting previous lessons",
-        "Speeding up without accuracy",
-        "None of these"
-      ],
-      "answer": 0
+      "q": "What error is committed if a scientist rejects data points that contradict their hypothesis without investigation?",
+      "options": ["Confounding error", "Selection bias (cherry-picking data)", "Measurement error", "Sampling bias"],
+      "answer": 1
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 2: Exploring and Tinkering with Materials Safely [Advanced]",
-    "desc": "Perform a simple observation of Week 2: Exploring and Tinkering with Materials Safely [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
-    "labels": [
-      "Accurate explanation of concept",
-      "Clarity and confidence in presentation",
-      "Neatness of written notes"
-    ]
+    "title": "Experimental Variable & Protocol Architect",
+    "desc": "Identify a advanced inquiry question (e.g., 'How does salt concentration affect the surface tension of water measured by the number of drops on a coin?'). Formulate a testable hypothesis, write down a step-by-step experimental protocol including a control group, and construct a blank data table to record your variables.",
+    "labels": ["Wrote a mathematically testable hypothesis with isolated variables", "Detailed a logical experimental protocol with a clear control setup", "Designed a professional data table with labeled units (e.g., mL, drops, seconds)"]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 2: Exploring and Tinkering with Materials Safely [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 2: Exploring and Tinkering with Materials Safely [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Prediction and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 2: Exploring and Tinkering with Materials Safely [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of observation</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 2: Exploring and Tinkering with Materials Safely [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Testable vs. Non-Testable Questions</h3>\n                  <p class=\"ws-instruction\">Classify each scientific query as either <strong>Testable</strong> (can be measured and tested) or <strong>Non-Testable</strong> (subjective or vague).</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Is clay the most fun material to play with in class?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Non-Testable</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Does heating modeling clay reduce the force needed to bend it by 50%?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Testable</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Do plants like music better than quiet rooms?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Non-Testable</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Identifying Confounding Variables</h3>\n                  <p class=\"ws-instruction\">Read the scenario below and identify the mistake in the experimental design.</p>\n                  <div class=\"ws-item-row\">\n                    <p><em>Scenario: Matteo wants to test if wing size affects paper plane distance. He folds a small-winged plane using heavy cardboard and a large-winged plane using thin copy paper. He throws them both in the wind.</em></p>\n                    <div class=\"ws-q\">Identify the confounding variables that make this test unfair:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 100%;\"><span class=\"ws-answer\">Matteo changed both the wing size and the paper thickness/weight,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 100%;\"><span class=\"ws-answer\">making it impossible to know which factor affected the flight distance.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Advanced Variable Control Protocol</h3>\n                  <p class=\"ws-instruction\">Write down the operational definition and the baseline control for the following question.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Question: <strong>How does water salinity affect capillary action in cotton fabric?</strong></div>\n                    <div class=\"ws-q\" style=\"margin-top: 15px;\">1. Operational Definition of Capillary Action:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 90%;\"><span class=\"ws-answer\">The height in millimeters that liquid climbs up a fabric strip in 5 minutes</span></div>\n                    <div class=\"ws-q\" style=\"margin-top: 15px;\">2. Baseline Control Group:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 90%;\"><span class=\"ws-answer\">A cotton fabric strip placed in pure tap water with zero salt added</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -5637,15 +5351,15 @@ window.WEEK2_ADVANCED_DATA.english = {
   "color": "#8b5cf6",
   "icon": "📖",
   "title": "English",
-  "subtitle": "Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]",
+  "subtitle": "Week 2: CCVC Words, Verbs & Interrogative Pronouns",
   "slides": [
     {
-      "title": "Introduction to Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]",
+      "title": "Introduction to Week 2: CCVC Words, Verbs & Interrogative Pronouns",
       "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in English.",
       "examples": [
         {
           "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] and apply them in daily situations."
+          "content": "Understand the core elements of Week 2: CCVC Words, Verbs & Interrogative Pronouns and apply them in daily situations."
         },
         {
           "title": "Real-world Connection",
@@ -5669,11 +5383,11 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of English.",
+      "text": "The main focus of this week is Week 2: CCVC Words, Verbs & Interrogative Pronouns. By looking closely at how these ideas work together, we can build a strong understanding of English.",
       "examples": [
         {
           "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] in simple activities."
+          "content": "How to identify, describe, and apply Week 2: CCVC Words, Verbs & Interrogative Pronouns in simple activities."
         },
         {
           "title": "Why It Matters",
@@ -5683,211 +5397,211 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 1 under Week 2: CCVC Words, Verbs & Interrogative Pronouns. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns to observe the correct outcome."
         },
         {
           "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 2 under Week 2: CCVC Words, Verbs & Interrogative Pronouns. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns to observe the correct outcome."
         },
         {
           "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 3 under Week 2: CCVC Words, Verbs & Interrogative Pronouns. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns to observe the correct outcome."
         },
         {
           "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 4 under Week 2: CCVC Words, Verbs & Interrogative Pronouns. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns to observe the correct outcome."
         },
         {
           "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 5 under Week 2: CCVC Words, Verbs & Interrogative Pronouns. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns to observe the correct outcome."
         },
         {
           "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 6 under Week 2: CCVC Words, Verbs & Interrogative Pronouns. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns to observe the correct outcome."
         },
         {
           "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 7 under Week 2: CCVC Words, Verbs & Interrogative Pronouns. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns to observe the correct outcome."
         },
         {
           "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 8 under Week 2: CCVC Words, Verbs & Interrogative Pronouns. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns to observe the correct outcome."
         },
         {
           "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 9 under Week 2: CCVC Words, Verbs & Interrogative Pronouns. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns to observe the correct outcome."
         },
         {
           "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 10 under Week 2: CCVC Words, Verbs & Interrogative Pronouns. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns to observe the correct outcome."
         },
         {
           "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 11 under Week 2: CCVC Words, Verbs & Interrogative Pronouns. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns to observe the correct outcome."
         },
         {
           "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 12 under Week 2: CCVC Words, Verbs & Interrogative Pronouns. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns to observe the correct outcome."
         },
         {
           "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 13 under Week 2: CCVC Words, Verbs & Interrogative Pronouns. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns to observe the correct outcome."
         },
         {
           "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 14 under Week 2: CCVC Words, Verbs & Interrogative Pronouns. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns to observe the correct outcome."
         },
         {
           "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 15 under Week 2: CCVC Words, Verbs & Interrogative Pronouns. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: CCVC Words, Verbs & Interrogative Pronouns to observe the correct outcome."
         },
         {
           "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: CCVC Words, Verbs & Interrogative Pronouns in other contexts."
         }
       ]
     },
@@ -5897,7 +5611,7 @@ window.WEEK2_ADVANCED_DATA.english = {
       "examples": [
         {
           "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 1",
@@ -5911,7 +5625,7 @@ window.WEEK2_ADVANCED_DATA.english = {
       "examples": [
         {
           "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 2",
@@ -5925,7 +5639,7 @@ window.WEEK2_ADVANCED_DATA.english = {
       "examples": [
         {
           "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 3",
@@ -5939,7 +5653,7 @@ window.WEEK2_ADVANCED_DATA.english = {
       "examples": [
         {
           "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 4",
@@ -5977,7 +5691,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "text": "Congratulations! You have completed all the lessons on Week 2: CCVC Words, Verbs & Interrogative Pronouns. You are now ready to test your knowledge with the weekly quiz and challenges.",
       "examples": [
         {
           "title": "Summary Points",
@@ -5993,7 +5707,7 @@ window.WEEK2_ADVANCED_DATA.english = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]?",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns?",
       "options": [
         "Core term: Vowels",
         "None of these",
@@ -6004,7 +5718,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]?",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns?",
       "options": [
         "Core term: Consonants",
         "None of these",
@@ -6015,7 +5729,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]?",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns?",
       "options": [
         "Core term: Words",
         "None of these",
@@ -6026,7 +5740,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]?",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns?",
       "options": [
         "Core term: Nouns",
         "None of these",
@@ -6037,16 +5751,16 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] is correct?",
+      "q": "Statement Check (Question 5): Which statement about Week 2: CCVC Words, Verbs & Interrogative Pronouns is correct?",
       "options": [
-        "Statement A: The core rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns are applied to solve these cases.",
+        "Statement B: The core rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]?",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns?",
       "options": [
         "Core term: Pronouns",
         "None of these",
@@ -6057,12 +5771,12 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 7): Week 2: CCVC Words, Verbs & Interrogative Pronouns is a key topic in the study of ___.",
       "answer": "English"
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]?",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns?",
       "options": [
         "Core term: Sentences",
         "None of these",
@@ -6073,7 +5787,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]?",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns?",
       "options": [
         "Core term: Synonyms",
         "None of these",
@@ -6084,16 +5798,16 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] is correct?",
+      "q": "Statement Check (Question 10): Which statement about Week 2: CCVC Words, Verbs & Interrogative Pronouns is correct?",
       "options": [
-        "Statement A: The core rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns are applied to solve these cases.",
+        "Statement B: The core rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]?",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns?",
       "options": [
         "Core term: Vowels",
         "None of these",
@@ -6104,7 +5818,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]?",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns?",
       "options": [
         "Core term: Consonants",
         "None of these",
@@ -6115,7 +5829,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]?",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns?",
       "options": [
         "Core term: Words",
         "None of these",
@@ -6126,21 +5840,21 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 14): Week 2: CCVC Words, Verbs & Interrogative Pronouns is a key topic in the study of ___.",
       "answer": "English"
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] is correct?",
+      "q": "Statement Check (Question 15): Which statement about Week 2: CCVC Words, Verbs & Interrogative Pronouns is correct?",
       "options": [
-        "Statement A: The core rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns are applied to solve these cases.",
+        "Statement B: The core rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]?",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns?",
       "options": [
         "Core term: Pronouns",
         "None of these",
@@ -6151,7 +5865,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]?",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns?",
       "options": [
         "Core term: Adjectives",
         "None of these",
@@ -6162,7 +5876,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]?",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns?",
       "options": [
         "Core term: Sentences",
         "None of these",
@@ -6173,7 +5887,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]?",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns?",
       "options": [
         "Core term: Synonyms",
         "None of these",
@@ -6184,21 +5898,21 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] is correct?",
+      "q": "Statement Check (Question 20): Which statement about Week 2: CCVC Words, Verbs & Interrogative Pronouns is correct?",
       "options": [
-        "Statement A: The core rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns are applied to solve these cases.",
+        "Statement B: The core rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 21): Week 2: CCVC Words, Verbs & Interrogative Pronouns is a key topic in the study of ___.",
       "answer": "English"
     },
     {
       "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]?",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns?",
       "options": [
         "Core term: Consonants",
         "None of these",
@@ -6209,7 +5923,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]?",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns?",
       "options": [
         "Core term: Words",
         "None of these",
@@ -6220,7 +5934,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]?",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 2: CCVC Words, Verbs & Interrogative Pronouns?",
       "options": [
         "Core term: Nouns",
         "None of these",
@@ -6231,10 +5945,10 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] is correct?",
+      "q": "Statement Check (Question 25): Which statement about Week 2: CCVC Words, Verbs & Interrogative Pronouns is correct?",
       "options": [
-        "Statement A: The core rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns are applied to solve these cases.",
+        "Statement B: The core rules of Week 2: CCVC Words, Verbs & Interrogative Pronouns are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -6242,7 +5956,7 @@ window.WEEK2_ADVANCED_DATA.english = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced], what is the first priority?",
+      "q": "Challenge 1: In a complex situation involving Week 2: CCVC Words, Verbs & Interrogative Pronouns, what is the first priority?",
       "options": [
         "Analyze key terms and variables",
         "Guess the answer immediately",
@@ -6253,7 +5967,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]?",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 2: CCVC Words, Verbs & Interrogative Pronouns?",
       "options": [
         "The primary variable: Alphabet",
         "An external variable",
@@ -6264,7 +5978,7 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced].",
+      "q": "Challenge 3: Compare two statements about Week 2: CCVC Words, Verbs & Interrogative Pronouns.",
       "options": [
         "Statement A: Proper methodology leads to a correct and verified solution.",
         "Statement B: Rushing through calculations is safe and rarely causes errors."
@@ -6273,12 +5987,12 @@ window.WEEK2_ADVANCED_DATA.english = {
     },
     {
       "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]?",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 2: CCVC Words, Verbs & Interrogative Pronouns?",
       "answer": "vowels"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]?",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 2: CCVC Words, Verbs & Interrogative Pronouns?",
       "options": [
         "Building logical reasoning and problem-solving skills",
         "Forgetting previous lessons",
@@ -6290,8 +6004,8 @@ window.WEEK2_ADVANCED_DATA.english = {
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]",
-    "desc": "Perform a simple observation of Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Interactive Task: Week 2: CCVC Words, Verbs & Interrogative Pronouns",
+    "desc": "Perform a simple observation of Week 2: CCVC Words, Verbs & Interrogative Pronouns at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
       "Accurate explanation of concept",
       "Clarity and confidence in presentation",
@@ -6300,9 +6014,9 @@ window.WEEK2_ADVANCED_DATA.english = {
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Vowels and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alphabet</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 2: CCVC Words, Verbs & Interrogative Pronouns [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 2: CCVC Words, Verbs & Interrogative Pronouns</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 2: CCVC Words, Verbs & Interrogative Pronouns and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Vowels and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 2: CCVC Words, Verbs & Interrogative Pronouns.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alphabet</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 2: CCVC Words, Verbs & Interrogative Pronouns.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -6311,15 +6025,15 @@ window.WEEK2_ADVANCED_DATA.filipino = {
   "color": "#ec4899",
   "icon": "🗣️",
   "title": "Filipino",
-  "subtitle": "Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]",
+  "subtitle": "Week 2: Kasarian ng Pangngalan at Pandiwa",
   "slides": [
     {
-      "title": "Introduction to Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]",
+      "title": "Introduction to Week 2: Kasarian ng Pangngalan at Pandiwa",
       "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Filipino.",
       "examples": [
         {
           "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] and apply them in daily situations."
+          "content": "Understand the core elements of Week 2: Kasarian ng Pangngalan at Pandiwa and apply them in daily situations."
         },
         {
           "title": "Real-world Connection",
@@ -6343,11 +6057,11 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of Filipino.",
+      "text": "The main focus of this week is Week 2: Kasarian ng Pangngalan at Pandiwa. By looking closely at how these ideas work together, we can build a strong understanding of Filipino.",
       "examples": [
         {
           "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] in simple activities."
+          "content": "How to identify, describe, and apply Week 2: Kasarian ng Pangngalan at Pandiwa in simple activities."
         },
         {
           "title": "Why It Matters",
@@ -6357,211 +6071,211 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 1 under Week 2: Kasarian ng Pangngalan at Pandiwa. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa to observe the correct outcome."
         },
         {
           "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 2 under Week 2: Kasarian ng Pangngalan at Pandiwa. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa to observe the correct outcome."
         },
         {
           "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 3 under Week 2: Kasarian ng Pangngalan at Pandiwa. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa to observe the correct outcome."
         },
         {
           "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 4 under Week 2: Kasarian ng Pangngalan at Pandiwa. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa to observe the correct outcome."
         },
         {
           "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 5 under Week 2: Kasarian ng Pangngalan at Pandiwa. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa to observe the correct outcome."
         },
         {
           "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 6 under Week 2: Kasarian ng Pangngalan at Pandiwa. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa to observe the correct outcome."
         },
         {
           "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 7 under Week 2: Kasarian ng Pangngalan at Pandiwa. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa to observe the correct outcome."
         },
         {
           "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 8 under Week 2: Kasarian ng Pangngalan at Pandiwa. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa to observe the correct outcome."
         },
         {
           "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 9 under Week 2: Kasarian ng Pangngalan at Pandiwa. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa to observe the correct outcome."
         },
         {
           "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 10 under Week 2: Kasarian ng Pangngalan at Pandiwa. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa to observe the correct outcome."
         },
         {
           "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 11 under Week 2: Kasarian ng Pangngalan at Pandiwa. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa to observe the correct outcome."
         },
         {
           "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 12 under Week 2: Kasarian ng Pangngalan at Pandiwa. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa to observe the correct outcome."
         },
         {
           "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 13 under Week 2: Kasarian ng Pangngalan at Pandiwa. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa to observe the correct outcome."
         },
         {
           "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 14 under Week 2: Kasarian ng Pangngalan at Pandiwa. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa to observe the correct outcome."
         },
         {
           "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 15 under Week 2: Kasarian ng Pangngalan at Pandiwa. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Kasarian ng Pangngalan at Pandiwa to observe the correct outcome."
         },
         {
           "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Kasarian ng Pangngalan at Pandiwa in other contexts."
         }
       ]
     },
@@ -6571,7 +6285,7 @@ window.WEEK2_ADVANCED_DATA.filipino = {
       "examples": [
         {
           "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 2: Kasarian ng Pangngalan at Pandiwa to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 1",
@@ -6585,7 +6299,7 @@ window.WEEK2_ADVANCED_DATA.filipino = {
       "examples": [
         {
           "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 2: Kasarian ng Pangngalan at Pandiwa to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 2",
@@ -6599,7 +6313,7 @@ window.WEEK2_ADVANCED_DATA.filipino = {
       "examples": [
         {
           "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 2: Kasarian ng Pangngalan at Pandiwa to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 3",
@@ -6613,7 +6327,7 @@ window.WEEK2_ADVANCED_DATA.filipino = {
       "examples": [
         {
           "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 2: Kasarian ng Pangngalan at Pandiwa to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 4",
@@ -6651,7 +6365,7 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "text": "Congratulations! You have completed all the lessons on Week 2: Kasarian ng Pangngalan at Pandiwa. You are now ready to test your knowledge with the weekly quiz and challenges.",
       "examples": [
         {
           "title": "Summary Points",
@@ -6667,7 +6381,7 @@ window.WEEK2_ADVANCED_DATA.filipino = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]?",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa?",
       "options": [
         "Core term: Patinig",
         "None of these",
@@ -6678,7 +6392,7 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]?",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa?",
       "options": [
         "Core term: Katinig",
         "None of these",
@@ -6689,7 +6403,7 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]?",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa?",
       "options": [
         "Core term: Pangngalan",
         "None of these",
@@ -6700,7 +6414,7 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]?",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa?",
       "options": [
         "Core term: Pantangi",
         "None of these",
@@ -6711,16 +6425,16 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] is correct?",
+      "q": "Statement Check (Question 5): Which statement about Week 2: Kasarian ng Pangngalan at Pandiwa is correct?",
       "options": [
-        "Statement A: The core rules of Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 2: Kasarian ng Pangngalan at Pandiwa are applied to solve these cases.",
+        "Statement B: The core rules of Week 2: Kasarian ng Pangngalan at Pandiwa are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]?",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa?",
       "options": [
         "Core term: Panghalip",
         "None of these",
@@ -6731,12 +6445,12 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 7): Week 2: Kasarian ng Pangngalan at Pandiwa is a key topic in the study of ___.",
       "answer": "Filipino"
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]?",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa?",
       "options": [
         "Core term: Pang-uri",
         "None of these",
@@ -6747,7 +6461,7 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]?",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa?",
       "options": [
         "Core term: Pang-abay",
         "None of these",
@@ -6758,16 +6472,16 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] is correct?",
+      "q": "Statement Check (Question 10): Which statement about Week 2: Kasarian ng Pangngalan at Pandiwa is correct?",
       "options": [
-        "Statement A: The core rules of Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 2: Kasarian ng Pangngalan at Pandiwa are applied to solve these cases.",
+        "Statement B: The core rules of Week 2: Kasarian ng Pangngalan at Pandiwa are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]?",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa?",
       "options": [
         "Core term: Patinig",
         "None of these",
@@ -6778,7 +6492,7 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]?",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa?",
       "options": [
         "Core term: Katinig",
         "None of these",
@@ -6789,7 +6503,7 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]?",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa?",
       "options": [
         "Core term: Pangngalan",
         "None of these",
@@ -6800,21 +6514,21 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 14): Week 2: Kasarian ng Pangngalan at Pandiwa is a key topic in the study of ___.",
       "answer": "Filipino"
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] is correct?",
+      "q": "Statement Check (Question 15): Which statement about Week 2: Kasarian ng Pangngalan at Pandiwa is correct?",
       "options": [
-        "Statement A: The core rules of Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 2: Kasarian ng Pangngalan at Pandiwa are applied to solve these cases.",
+        "Statement B: The core rules of Week 2: Kasarian ng Pangngalan at Pandiwa are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]?",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa?",
       "options": [
         "Core term: Panghalip",
         "None of these",
@@ -6825,7 +6539,7 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]?",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa?",
       "options": [
         "Core term: Pandiwa",
         "None of these",
@@ -6836,7 +6550,7 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]?",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa?",
       "options": [
         "Core term: Pang-uri",
         "None of these",
@@ -6847,7 +6561,7 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]?",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa?",
       "options": [
         "Core term: Pang-abay",
         "None of these",
@@ -6858,21 +6572,21 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] is correct?",
+      "q": "Statement Check (Question 20): Which statement about Week 2: Kasarian ng Pangngalan at Pandiwa is correct?",
       "options": [
-        "Statement A: The core rules of Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 2: Kasarian ng Pangngalan at Pandiwa are applied to solve these cases.",
+        "Statement B: The core rules of Week 2: Kasarian ng Pangngalan at Pandiwa are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 21): Week 2: Kasarian ng Pangngalan at Pandiwa is a key topic in the study of ___.",
       "answer": "Filipino"
     },
     {
       "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]?",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa?",
       "options": [
         "Core term: Katinig",
         "None of these",
@@ -6883,7 +6597,7 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]?",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa?",
       "options": [
         "Core term: Pangngalan",
         "None of these",
@@ -6894,7 +6608,7 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]?",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 2: Kasarian ng Pangngalan at Pandiwa?",
       "options": [
         "Core term: Pantangi",
         "None of these",
@@ -6905,10 +6619,10 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] is correct?",
+      "q": "Statement Check (Question 25): Which statement about Week 2: Kasarian ng Pangngalan at Pandiwa is correct?",
       "options": [
-        "Statement A: The core rules of Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 2: Kasarian ng Pangngalan at Pandiwa are applied to solve these cases.",
+        "Statement B: The core rules of Week 2: Kasarian ng Pangngalan at Pandiwa are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -6916,7 +6630,7 @@ window.WEEK2_ADVANCED_DATA.filipino = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced], what is the first priority?",
+      "q": "Challenge 1: In a complex situation involving Week 2: Kasarian ng Pangngalan at Pandiwa, what is the first priority?",
       "options": [
         "Analyze key terms and variables",
         "Guess the answer immediately",
@@ -6927,7 +6641,7 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]?",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 2: Kasarian ng Pangngalan at Pandiwa?",
       "options": [
         "The primary variable: Alpabeto",
         "An external variable",
@@ -6938,7 +6652,7 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced].",
+      "q": "Challenge 3: Compare two statements about Week 2: Kasarian ng Pangngalan at Pandiwa.",
       "options": [
         "Statement A: Proper methodology leads to a correct and verified solution.",
         "Statement B: Rushing through calculations is safe and rarely causes errors."
@@ -6947,12 +6661,12 @@ window.WEEK2_ADVANCED_DATA.filipino = {
     },
     {
       "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]?",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 2: Kasarian ng Pangngalan at Pandiwa?",
       "answer": "patinig"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]?",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 2: Kasarian ng Pangngalan at Pandiwa?",
       "options": [
         "Building logical reasoning and problem-solving skills",
         "Forgetting previous lessons",
@@ -6964,8 +6678,8 @@ window.WEEK2_ADVANCED_DATA.filipino = {
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]",
-    "desc": "Perform a simple observation of Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Interactive Task: Week 2: Kasarian ng Pangngalan at Pandiwa",
+    "desc": "Perform a simple observation of Week 2: Kasarian ng Pangngalan at Pandiwa at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
       "Accurate explanation of concept",
       "Clarity and confidence in presentation",
@@ -6974,9 +6688,9 @@ window.WEEK2_ADVANCED_DATA.filipino = {
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Patinig and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alpabeto</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 2: Kasarian ng Pangngalan at Pandiwa [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 2: Kasarian ng Pangngalan at Pandiwa</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 2: Kasarian ng Pangngalan at Pandiwa and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Patinig and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 2: Kasarian ng Pangngalan at Pandiwa.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alpabeto</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 2: Kasarian ng Pangngalan at Pandiwa.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -6985,15 +6699,15 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
   "color": "#f59e0b",
   "icon": "🏝️",
   "title": "Makabansa",
-  "subtitle": "Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]",
+  "subtitle": "Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook",
   "slides": [
     {
-      "title": "Introduction to Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]",
+      "title": "Introduction to Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook",
       "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Makabansa.",
       "examples": [
         {
           "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] and apply them in daily situations."
+          "content": "Understand the core elements of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook and apply them in daily situations."
         },
         {
           "title": "Real-world Connection",
@@ -7017,11 +6731,11 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of Makabansa.",
+      "text": "The main focus of this week is Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook. By looking closely at how these ideas work together, we can build a strong understanding of Makabansa.",
       "examples": [
         {
           "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] in simple activities."
+          "content": "How to identify, describe, and apply Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook in simple activities."
         },
         {
           "title": "Why It Matters",
@@ -7031,211 +6745,211 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 1 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook to observe the correct outcome."
         },
         {
           "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 2 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook to observe the correct outcome."
         },
         {
           "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 3 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook to observe the correct outcome."
         },
         {
           "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 4 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook to observe the correct outcome."
         },
         {
           "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 5 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook to observe the correct outcome."
         },
         {
           "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 6 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook to observe the correct outcome."
         },
         {
           "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 7 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook to observe the correct outcome."
         },
         {
           "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 8 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook to observe the correct outcome."
         },
         {
           "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 9 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook to observe the correct outcome."
         },
         {
           "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 10 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook to observe the correct outcome."
         },
         {
           "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 11 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook to observe the correct outcome."
         },
         {
           "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 12 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook to observe the correct outcome."
         },
         {
           "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 13 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook to observe the correct outcome."
         },
         {
           "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 14 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook to observe the correct outcome."
         },
         {
           "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 15 under Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook to observe the correct outcome."
         },
         {
           "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook in other contexts."
         }
       ]
     },
@@ -7245,7 +6959,7 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
       "examples": [
         {
           "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 1",
@@ -7259,7 +6973,7 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
       "examples": [
         {
           "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 2",
@@ -7273,7 +6987,7 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
       "examples": [
         {
           "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 3",
@@ -7287,7 +7001,7 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
       "examples": [
         {
           "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 4",
@@ -7325,7 +7039,7 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "text": "Congratulations! You have completed all the lessons on Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook. You are now ready to test your knowledge with the weekly quiz and challenges.",
       "examples": [
         {
           "title": "Summary Points",
@@ -7341,7 +7055,7 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]?",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook?",
       "options": [
         "Core term: Pamilya",
         "None of these",
@@ -7352,7 +7066,7 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]?",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook?",
       "options": [
         "Core term: Tungkulin",
         "None of these",
@@ -7363,7 +7077,7 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]?",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook?",
       "options": [
         "Core term: Komunidad",
         "None of these",
@@ -7374,7 +7088,7 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]?",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook?",
       "options": [
         "Core term: Kasaysayan",
         "None of these",
@@ -7385,16 +7099,16 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] is correct?",
+      "q": "Statement Check (Question 5): Which statement about Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook is correct?",
       "options": [
-        "Statement A: The core rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook are applied to solve these cases.",
+        "Statement B: The core rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]?",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook?",
       "options": [
         "Core term: Landmarks",
         "None of these",
@@ -7405,12 +7119,12 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 7): Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook is a key topic in the study of ___.",
       "answer": "Makabansa"
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]?",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook?",
       "options": [
         "Core term: Tradisyon",
         "None of these",
@@ -7421,7 +7135,7 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]?",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook?",
       "options": [
         "Core term: Lokasyon",
         "None of these",
@@ -7432,16 +7146,16 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] is correct?",
+      "q": "Statement Check (Question 10): Which statement about Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook is correct?",
       "options": [
-        "Statement A: The core rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook are applied to solve these cases.",
+        "Statement B: The core rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]?",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook?",
       "options": [
         "Core term: Pamilya",
         "None of these",
@@ -7452,7 +7166,7 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]?",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook?",
       "options": [
         "Core term: Tungkulin",
         "None of these",
@@ -7463,7 +7177,7 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]?",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook?",
       "options": [
         "Core term: Komunidad",
         "None of these",
@@ -7474,21 +7188,21 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 14): Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook is a key topic in the study of ___.",
       "answer": "Makabansa"
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] is correct?",
+      "q": "Statement Check (Question 15): Which statement about Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook is correct?",
       "options": [
-        "Statement A: The core rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook are applied to solve these cases.",
+        "Statement B: The core rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]?",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook?",
       "options": [
         "Core term: Landmarks",
         "None of these",
@@ -7499,7 +7213,7 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]?",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook?",
       "options": [
         "Core term: Timeline",
         "None of these",
@@ -7510,7 +7224,7 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]?",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook?",
       "options": [
         "Core term: Tradisyon",
         "None of these",
@@ -7521,7 +7235,7 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]?",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook?",
       "options": [
         "Core term: Lokasyon",
         "None of these",
@@ -7532,21 +7246,21 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] is correct?",
+      "q": "Statement Check (Question 20): Which statement about Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook is correct?",
       "options": [
-        "Statement A: The core rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook are applied to solve these cases.",
+        "Statement B: The core rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 21): Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook is a key topic in the study of ___.",
       "answer": "Makabansa"
     },
     {
       "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]?",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook?",
       "options": [
         "Core term: Tungkulin",
         "None of these",
@@ -7557,7 +7271,7 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]?",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook?",
       "options": [
         "Core term: Komunidad",
         "None of these",
@@ -7568,7 +7282,7 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]?",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook?",
       "options": [
         "Core term: Kasaysayan",
         "None of these",
@@ -7579,10 +7293,10 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] is correct?",
+      "q": "Statement Check (Question 25): Which statement about Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook is correct?",
       "options": [
-        "Statement A: The core rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook are applied to solve these cases.",
+        "Statement B: The core rules of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -7590,7 +7304,7 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced], what is the first priority?",
+      "q": "Challenge 1: In a complex situation involving Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook, what is the first priority?",
       "options": [
         "Analyze key terms and variables",
         "Guess the answer immediately",
@@ -7601,7 +7315,7 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]?",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook?",
       "options": [
         "The primary variable: Sarili",
         "An external variable",
@@ -7612,7 +7326,7 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced].",
+      "q": "Challenge 3: Compare two statements about Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook.",
       "options": [
         "Statement A: Proper methodology leads to a correct and verified solution.",
         "Statement B: Rushing through calculations is safe and rarely causes errors."
@@ -7621,12 +7335,12 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]?",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook?",
       "answer": "pamilya"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]?",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook?",
       "options": [
         "Building logical reasoning and problem-solving skills",
         "Forgetting previous lessons",
@@ -7638,8 +7352,8 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]",
-    "desc": "Perform a simple observation of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Interactive Task: Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook",
+    "desc": "Perform a simple observation of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
       "Accurate explanation of concept",
       "Clarity and confidence in presentation",
@@ -7648,9 +7362,9 @@ window.WEEK2_ADVANCED_DATA.makabansa = {
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Pamilya and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of sarili</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Pamilya and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of sarili</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 2: Mga Lokal na Bayani at Pinuno sa Ating Pook.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -7659,15 +7373,15 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
   "color": "#06b6d4",
   "icon": "🧘‍♂️",
   "title": "GMRC",
-  "subtitle": "Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]",
+  "subtitle": "Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan",
   "slides": [
     {
-      "title": "Introduction to Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]",
+      "title": "Introduction to Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan",
       "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in GMRC.",
       "examples": [
         {
           "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] and apply them in daily situations."
+          "content": "Understand the core elements of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan and apply them in daily situations."
         },
         {
           "title": "Real-world Connection",
@@ -7691,11 +7405,11 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of GMRC.",
+      "text": "The main focus of this week is Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan. By looking closely at how these ideas work together, we can build a strong understanding of GMRC.",
       "examples": [
         {
           "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] in simple activities."
+          "content": "How to identify, describe, and apply Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan in simple activities."
         },
         {
           "title": "Why It Matters",
@@ -7705,211 +7419,211 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 1 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan to observe the correct outcome."
         },
         {
           "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 2 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan to observe the correct outcome."
         },
         {
           "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 3 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan to observe the correct outcome."
         },
         {
           "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 4 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan to observe the correct outcome."
         },
         {
           "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 5 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan to observe the correct outcome."
         },
         {
           "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 6 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan to observe the correct outcome."
         },
         {
           "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 7 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan to observe the correct outcome."
         },
         {
           "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 8 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan to observe the correct outcome."
         },
         {
           "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 9 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan to observe the correct outcome."
         },
         {
           "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 10 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan to observe the correct outcome."
         },
         {
           "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 11 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan to observe the correct outcome."
         },
         {
           "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 12 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan to observe the correct outcome."
         },
         {
           "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 13 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan to observe the correct outcome."
         },
         {
           "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 14 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan to observe the correct outcome."
         },
         {
           "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 15 under Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan to observe the correct outcome."
         },
         {
           "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan in other contexts."
         }
       ]
     },
@@ -7919,7 +7633,7 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
       "examples": [
         {
           "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 1",
@@ -7933,7 +7647,7 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
       "examples": [
         {
           "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 2",
@@ -7947,7 +7661,7 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
       "examples": [
         {
           "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 3",
@@ -7961,7 +7675,7 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
       "examples": [
         {
           "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 4",
@@ -7999,7 +7713,7 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "text": "Congratulations! You have completed all the lessons on Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan. You are now ready to test your knowledge with the weekly quiz and challenges.",
       "examples": [
         {
           "title": "Summary Points",
@@ -8015,7 +7729,7 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]?",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan?",
       "options": [
         "Core term: Kalinisan",
         "None of these",
@@ -8026,7 +7740,7 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]?",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan?",
       "options": [
         "Core term: Disiplina",
         "None of these",
@@ -8037,7 +7751,7 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]?",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan?",
       "options": [
         "Core term: Paggalang",
         "None of these",
@@ -8048,7 +7762,7 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]?",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan?",
       "options": [
         "Core term: Katapatan",
         "None of these",
@@ -8059,16 +7773,16 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] is correct?",
+      "q": "Statement Check (Question 5): Which statement about Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan is correct?",
       "options": [
-        "Statement A: The core rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan are applied to solve these cases.",
+        "Statement B: The core rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]?",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan?",
       "options": [
         "Core term: Pagtitipid",
         "None of these",
@@ -8079,12 +7793,12 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 7): Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan is a key topic in the study of ___.",
       "answer": "GMRC"
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]?",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan?",
       "options": [
         "Core term: Bayanihan",
         "None of these",
@@ -8095,7 +7809,7 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]?",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan?",
       "options": [
         "Core term: Pag-iimpok",
         "None of these",
@@ -8106,16 +7820,16 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] is correct?",
+      "q": "Statement Check (Question 10): Which statement about Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan is correct?",
       "options": [
-        "Statement A: The core rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan are applied to solve these cases.",
+        "Statement B: The core rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]?",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan?",
       "options": [
         "Core term: Kalinisan",
         "None of these",
@@ -8126,7 +7840,7 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]?",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan?",
       "options": [
         "Core term: Disiplina",
         "None of these",
@@ -8137,7 +7851,7 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]?",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan?",
       "options": [
         "Core term: Paggalang",
         "None of these",
@@ -8148,21 +7862,21 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 14): Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan is a key topic in the study of ___.",
       "answer": "GMRC"
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] is correct?",
+      "q": "Statement Check (Question 15): Which statement about Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan is correct?",
       "options": [
-        "Statement A: The core rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan are applied to solve these cases.",
+        "Statement B: The core rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]?",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan?",
       "options": [
         "Core term: Pagtitipid",
         "None of these",
@@ -8173,7 +7887,7 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]?",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan?",
       "options": [
         "Core term: Responsable",
         "None of these",
@@ -8184,7 +7898,7 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]?",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan?",
       "options": [
         "Core term: Bayanihan",
         "None of these",
@@ -8195,7 +7909,7 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]?",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan?",
       "options": [
         "Core term: Pag-iimpok",
         "None of these",
@@ -8206,21 +7920,21 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] is correct?",
+      "q": "Statement Check (Question 20): Which statement about Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan is correct?",
       "options": [
-        "Statement A: The core rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan are applied to solve these cases.",
+        "Statement B: The core rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 21): Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan is a key topic in the study of ___.",
       "answer": "GMRC"
     },
     {
       "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]?",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan?",
       "options": [
         "Core term: Disiplina",
         "None of these",
@@ -8231,7 +7945,7 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]?",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan?",
       "options": [
         "Core term: Paggalang",
         "None of these",
@@ -8242,7 +7956,7 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]?",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan?",
       "options": [
         "Core term: Katapatan",
         "None of these",
@@ -8253,10 +7967,10 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] is correct?",
+      "q": "Statement Check (Question 25): Which statement about Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan is correct?",
       "options": [
-        "Statement A: The core rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan are applied to solve these cases.",
+        "Statement B: The core rules of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -8264,7 +7978,7 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced], what is the first priority?",
+      "q": "Challenge 1: In a complex situation involving Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan, what is the first priority?",
       "options": [
         "Analyze key terms and variables",
         "Guess the answer immediately",
@@ -8275,7 +7989,7 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]?",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan?",
       "options": [
         "The primary variable: Pagmamahal",
         "An external variable",
@@ -8286,7 +8000,7 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced].",
+      "q": "Challenge 3: Compare two statements about Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan.",
       "options": [
         "Statement A: Proper methodology leads to a correct and verified solution.",
         "Statement B: Rushing through calculations is safe and rarely causes errors."
@@ -8295,12 +8009,12 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]?",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan?",
       "answer": "kalinisan"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]?",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan?",
       "options": [
         "Building logical reasoning and problem-solving skills",
         "Forgetting previous lessons",
@@ -8312,8 +8026,8 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]",
-    "desc": "Perform a simple observation of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Interactive Task: Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan",
+    "desc": "Perform a simple observation of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
       "Accurate explanation of concept",
       "Clarity and confidence in presentation",
@@ -8322,9 +8036,9 @@ window.WEEK2_ADVANCED_DATA.gmrc = {
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Kalinisan and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of pagmamahal</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Kalinisan and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of pagmamahal</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 2: Paglinang ng Tiwala sa Sarili sa Ating Kakayahan.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };

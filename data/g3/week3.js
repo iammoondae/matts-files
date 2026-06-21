@@ -1,274 +1,58 @@
 window.WEEK3_DATA = {};
 
 window.WEEK3_DATA.math = {
-  "color": "#3b82f6",
-  "icon": "🔢",
   "title": "Mathematics",
   "subtitle": "Week 3: Ordinal Numbers & Philippine Currency",
+  "color": "#3b82f6",
+  "icon": "🔢",
   "slides": [
     {
-      "title": "What are Ordinal Numbers?",
-      "text": "Ordinal numbers are numbers that tell the position of something in a list or sequence, such as 1st (first), 2nd (second), 3rd (third), and so on. They help us order objects, track dates, and identify rankings.",
+      "title": "Ordinal Numbers up to 100th",
+      "text": "Ordinal numbers show the position of an object in a sequence (e.g., 1st, 2nd, 3rd, 4th, 5th...). Up to 100th, they help us rank, schedule, and identify spots.",
       "examples": [
         {
-          "title": "Race Rankings",
-          "content": "In a running race, the person who finishes ahead of everyone else is in 1st place. The next person is in 2nd place, and the third is in 3rd place."
-        },
-        {
-          "title": "Floor Levels",
-          "content": "A building has floors stacked on top of each other: 1st floor, 2nd floor, 3rd floor, up to the 100th floor."
+          "title": "Example",
+          "content": "1st is First, 10th is Tenth, 20th is Twentieth, 100th is One Hundredth."
         }
       ]
     },
     {
-      "title": "Writing Ordinal Numbers 1st to 10th",
-      "text": "We write ordinal numbers using digits followed by two letters, or using words. Let's look at the first ten: 1st (first), 2nd (second), 3rd (third), 4th (fourth), 5th (fifth), 6th (sixth), 7th (seventh), 8th (eighth), 9th (ninth), 10th (tenth).",
+      "title": "Philippine Currency Bills",
+      "text": "Philippine paper bills are Php 20 (orange), Php 50 (red), Php 100 (purple), Php 200 (green), Php 500 (yellow), and Php 1,000 (blue). We read and write them using the peso sign (Php or ₱).",
       "examples": [
         {
-          "title": "Digits vs Words",
-          "content": "1st is written as 'first'. 2nd is written as 'second'. 3rd is written as 'third'."
-        },
-        {
-          "title": "Spelling Check",
-          "content": "Be careful with spelling: 'fifth' (5th) has an 'f', and 'ninth' (9th) does not have an 'e' before the 'nth'."
+          "title": "Example",
+          "content": "A yellow bill is worth Php 500."
         }
       ]
     },
     {
-      "title": "Ordinal Numbers 11th to 20th",
-      "text": "For numbers 11 to 20, the ordinal form always ends with 'th'. They are written as: 11th (eleventh), 12th (twelfth), 13th (thirteenth), 14th (fourteenth), 15th (fifteenth), 16th (sixteenth), 17th (seventeenth), 18th (eighteenth), 19th (nineteenth), 20th (twentieth).",
+      "title": "Philippine Coins",
+      "text": "We use coins for smaller values: 1 centavo, 5 centavos, 25 centavos, Php 1, Php 5, Php 10, and Php 20.",
       "examples": [
         {
-          "title": "Spelling Twelfth",
-          "content": "The number 12 is 'twelve', but the ordinal 12th is spelled 'twelfth' (with an 'f')."
-        },
-        {
-          "title": "Spelling Twentieth",
-          "content": "The number 20 is 'twenty', but the ordinal 20th is spelled 'twentieth' (changing the 'y' to 'ie' before adding 'th')."
+          "title": "Example",
+          "content": "Ten Php 1 coins are equal to one Php 10 coin."
         }
       ]
     },
     {
-      "title": "Tens Ordinals: 30th to 90th",
-      "text": "When we write the ordinal form of tens (30, 40, 50, etc.), we change the ending 'ty' to 'tieth'. These are: 30th (thirtieth), 40th (fortieth), 50th (fiftieth), 60th (sixtieth), 70th (seventieth), 80th (eightieth), 90th (ninetieth).",
+      "title": "Adding and Comparing Money",
+      "text": "To add money, we add the peso values and centavo values. We write cents using a decimal point (e.g., Php 5.25 is five pesos and twenty-five centavos).",
       "examples": [
         {
-          "title": "Spelling Fortieth",
-          "content": "The number 40 is 'forty' (no 'u'). The ordinal 40th is spelled 'fortieth'."
-        },
-        {
-          "title": "Spelling Fiftieth",
-          "content": "The number 50 is 'fifty'. The ordinal 50th is spelled 'fiftieth'."
+          "title": "Example",
+          "content": "Php 50 + Php 20 = Php 70. Php 100 > Php 50."
         }
       ]
     },
     {
-      "title": "Compound Ordinal Numbers (e.g., 21st to 99th)",
-      "text": "For numbers that combine tens and ones (like 25 or 99), only the second number is written as an ordinal. We connect them with a hyphen. For example, 21st is written as 'twenty-first', and 99th is written as 'ninety-ninth'.",
+      "title": "Summary of Money",
+      "text": "Knowing how to count money helps us buy things, check change, and manage savings.",
       "examples": [
         {
-          "title": "Example 1",
-          "content": "32nd is written in words as 'thirty-second'. Only the ones digit (2) is changed to ordinal."
-        },
-        {
-          "title": "Example 2",
-          "content": "65th is written in words as 'sixty-fifth'. Only the ones digit (5) is changed to ordinal."
-        }
-      ]
-    },
-    {
-      "title": "Reaching the 100th Ordinal Number",
-      "text": "The ordinal number for 100 is written as 100th, and in words it is 'one hundredth'. We add 'th' to the word 'hundred'.",
-      "examples": [
-        {
-          "title": "Writing 100th",
-          "content": "In digit form: 100th. In word form: 'one hundredth'."
-        },
-        {
-          "title": "School Milestone",
-          "content": "Celebrating the 100th day of the school year is a common milestone."
-        }
-      ]
-    },
-    {
-      "title": "Understanding Philippine Currency",
-      "text": "Currency is the system of money used in a country. The official currency of the Philippines is the Philippine Peso, represented by the symbol ₱ (Php). Our money comes in two forms: coins and paper bills.",
-      "examples": [
-        {
-          "title": "Symbol",
-          "content": "The symbol ₱ is placed before the amount, like ₱50.00 or Php 100.00."
-        },
-        {
-          "title": "Centavos",
-          "content": "Smaller values are called centavos (¢). 100 centavos equal exactly ₱1.00."
-        }
-      ]
-    },
-    {
-      "title": "Philippine Coins: Sentimo (Centavos)",
-      "text": "Our coins are issued by the Bangko Sentral ng Pilipinas (BSP). The active centavo coins are: 1-sentimo (1¢), 5-sentimo (5¢), and 25-sentimo (25¢). They are copper-colored and very small.",
-      "examples": [
-        {
-          "title": "25-sentimo Coin",
-          "content": "A 25¢ coin represents a quarter of one peso. Four 25¢ coins make ₱1.00."
-        },
-        {
-          "title": "Writing Centavos",
-          "content": "We write centavos with a cent symbol (¢), or as decimals: 25¢ = ₱0.25."
-        }
-      ]
-    },
-    {
-      "title": "Philippine Coins: Peso Coins",
-      "text": "The silver-colored peso coins are used for everyday small transactions: ₱1 coin (with Jose Rizal), ₱5 coin (with Andres Bonifacio), ₱10 coin (with Apolinario Mabini), and the dual-colored ₱20 coin (with Manuel L. Quezon).",
-      "examples": [
-        {
-          "title": "₱10 Coin",
-          "content": "A thick, silver-colored coin featuring Apolinario Mabini on the front."
-        },
-        {
-          "title": "₱20 Coin",
-          "content": "Our newest coin is bimetallic (bronze-colored ring with a silver-colored center)."
-        }
-      ]
-    },
-    {
-      "title": "Philippine Bills: ₱20 and ₱50",
-      "text": "Philippine paper bills are color-coded. The ₱20 bill is orange (featuring Manuel L. Quezon) and is being phased out for the coin. The ₱50 bill is red and features Sergio Osmeña.",
-      "examples": [
-        {
-          "title": "₱20 Bill",
-          "content": "An orange bill. Front: Manuel L. Quezon. Back: Banaue Rice Terraces and Palm Civet."
-        },
-        {
-          "title": "₱50 Bill",
-          "content": "A red bill. Front: Sergio Osmeña. Back: Taal Lake and Giant Trevally fish."
-        }
-      ]
-    },
-    {
-      "title": "Philippine Bills: ₱100 and ₱200",
-      "text": "The ₱100 bill is violet/purple and features Manuel A. Roxas. The ₱200 bill is green and features Diosdado P. Macapagal. The ₱200 bill is less common but very important.",
-      "examples": [
-        {
-          "title": "₱100 Bill",
-          "content": "A violet bill. Front: Manuel A. Roxas. Back: Mayon Volcano and Whale Shark (Butanding)."
-        },
-        {
-          "title": "₱200 Bill",
-          "content": "A green bill. Front: Diosdado P. Macapagal. Back: Chocolate Hills and Philippine Tarsier."
-        }
-      ]
-    },
-    {
-      "title": "Philippine Bills: ₱500 and ₱1,000",
-      "text": "Our highest value bills are the yellow ₱500 bill (featuring Corazon C. Aquino and Benigno S. Aquino Jr.) and the blue ₱1,000 bill (featuring Jose Abad Santos, Josefa Llanes Escoda, and Vicente Lim). There is also a new polymer ₱1,000 bill featuring the Philippine Eagle.",
-      "examples": [
-        {
-          "title": "₱500 Bill",
-          "content": "A yellow bill. Front: Benigno & Corazon Aquino. Back: Puerto Princesa Subterranean River and Blue-naped Parrot."
-        },
-        {
-          "title": "₱1,000 Bill",
-          "content": "A blue bill. Front: Three WWII heroes or the Philippine Eagle. Back: Tubbataha Reefs and South Sea Pearl."
-        }
-      ]
-    },
-    {
-      "title": "Comparing Money Values",
-      "text": "To compare money values, we look at the whole numbers first (Pesos), and then compare the decimal parts (Centavos). We use >, <, and = symbols.",
-      "examples": [
-        {
-          "title": "₱150.00 vs ₱95.50",
-          "content": "Since 150 > 95, then ₱150.00 > ₱95.50."
-        },
-        {
-          "title": "₱20.50 vs ₱20.25",
-          "content": "The pesos are equal (20). Compare centavos: 50¢ > 25¢, so ₱20.50 > ₱20.25."
-        }
-      ]
-    },
-    {
-      "title": "Equivalences in Money",
-      "text": "We can make the same amount of money using different combinations of coins and bills. Understanding these combinations is essential for shopping.",
-      "examples": [
-        {
-          "title": "Making ₱100",
-          "content": "You can make ₱100 using one ₱100 bill, two ₱50 bills, five ₱20 bills, or ten ₱10 coins."
-        },
-        {
-          "title": "Making ₱1.00",
-          "content": "You can make ₱1.00 using four 25¢ coins or ten 10¢ coins."
-        }
-      ]
-    },
-    {
-      "title": "Adding Money (Without Regrouping)",
-      "text": "When adding money, align the decimal points to keep pesos and centavos in their correct columns. Add starting from the right (centavos) to left (pesos).",
-      "examples": [
-        {
-          "title": "₱12.20 + ₱5.50",
-          "content": "Align decimals:\n  12.20\n+  5.50\n-------\n  17.70 -> ₱17.70"
-        },
-        {
-          "title": "₱120.00 + ₱50.00",
-          "content": "Align decimals: 120.00 + 50.00 = 170.00 -> ₱170.00"
-        }
-      ]
-    },
-    {
-      "title": "Adding Money (With Regrouping)",
-      "text": "If the centavos add up to 100 or more, we carry over 1 peso to the pesos column, because 100 centavos equal ₱1.00.",
-      "examples": [
-        {
-          "title": "₱8.50 + ₱4.75",
-          "content": "Centavos: 50 + 75 = 125 centavos (which is ₱1.25). Write 25 in the centavos column, and carry over 1 to the pesos. Pesos: 8 + 4 + 1 (carry) = 13. Total: ₱13.25."
-        },
-        {
-          "title": "₱45.80 + ₱2.30",
-          "content": "80¢ + 30¢ = 110¢ (₱1.10). Write 10¢, carry 1. Pesos: 45 + 2 + 1 = 48. Total: ₱48.10."
-        }
-      ]
-    },
-    {
-      "title": "Subtracting Money",
-      "text": "Align the decimal points when subtracting money. Subtract from right to left. If you need to borrow, remember that 1 peso borrows as 100 centavos.",
-      "examples": [
-        {
-          "title": "₱50.00 - ₱18.50",
-          "content": "Borrow 1 peso from 50 (leaving 49). 100¢ - 50¢ = 50¢. Pesos: 49 - 18 = 31. Total: ₱31.50."
-        },
-        {
-          "title": "₱10.00 - ₱3.25",
-          "content": "Borrow 1 peso. 100¢ - 25¢ = 75¢. Pesos: 9 - 3 = 6. Total: ₱6.75."
-        }
-      ]
-    },
-    {
-      "title": "Solving Money Word Problems",
-      "text": "To solve money word problems, follow these steps: 1. Identify what is asked. 2. Write down the given facts. 3. Determine the operation (addition or subtraction). 4. Write the equation and solve.",
-      "examples": [
-        {
-          "title": "Buying Snacks",
-          "content": "Matteo has ₱50.00. He buys a biscuit for ₱15.50. How much is his change? Solution: ₱50.00 - ₱15.50 = ₱34.50 change."
-        },
-        {
-          "title": "Savings Goal",
-          "content": "Lina saved ₱120.00 last week and ₱95.00 this week. How much did she save in total? Solution: ₱120.00 + ₱95.00 = ₱215.00."
-        }
-      ]
-    },
-    {
-      "title": "Summary: Ordinals & Currency",
-      "text": "Great work! You now know how to rank and spell ordinal numbers up to 100th, identify all Philippine coins and bills up to ₱1,000, compare money, and perform addition and subtraction of monetary values.",
-      "examples": [
-        {
-          "title": "Key Vocabulary",
-          "content": "Ordinal: Position (1st to 100th). Currency: System of money (₱/¢). BSP: Bangko Sentral ng Pilipinas."
-        },
-        {
-          "title": "Daily Math",
-          "content": "Use these skills when counting your pocket money, ordering items in a line, or buying things at the sari-sari store."
+          "title": "Example",
+          "content": "If you buy a notebook for Php 45 and pay with a Php 50 bill, your change is Php 5."
         }
       ]
     },
@@ -343,6 +127,202 @@ window.WEEK3_DATA.math = {
       ]
     },
     {
+      "title": "Extra Practice Task 6",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 3: Ordinal Numbers & Philippine Currency.",
+      "examples": [
+        {
+          "title": "Practice Task 6",
+          "content": "How do you apply Week 3: Ordinal Numbers & Philippine Currency to solve a practical daily math problem?"
+        },
+        {
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
+        }
+      ]
+    },
+    {
+      "title": "Review Slide 7",
+      "text": "Let's review what we have learned about Week 3: Ordinal Numbers & Philippine Currency. Pay close attention to how we define terms and perform step-by-step calculations.",
+      "examples": [
+        {
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
+        },
+        {
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice Task 8",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 3: Ordinal Numbers & Philippine Currency.",
+      "examples": [
+        {
+          "title": "Practice Task 8",
+          "content": "How do you apply Week 3: Ordinal Numbers & Philippine Currency to solve a practical daily math problem?"
+        },
+        {
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
+        }
+      ]
+    },
+    {
+      "title": "Review Slide 9",
+      "text": "Let's review what we have learned about Week 3: Ordinal Numbers & Philippine Currency. Pay close attention to how we define terms and perform step-by-step calculations.",
+      "examples": [
+        {
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
+        },
+        {
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice Task 10",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 3: Ordinal Numbers & Philippine Currency.",
+      "examples": [
+        {
+          "title": "Practice Task 10",
+          "content": "How do you apply Week 3: Ordinal Numbers & Philippine Currency to solve a practical daily math problem?"
+        },
+        {
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
+        }
+      ]
+    },
+    {
+      "title": "Review Slide 11",
+      "text": "Let's review what we have learned about Week 3: Ordinal Numbers & Philippine Currency. Pay close attention to how we define terms and perform step-by-step calculations.",
+      "examples": [
+        {
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
+        },
+        {
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice Task 12",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 3: Ordinal Numbers & Philippine Currency.",
+      "examples": [
+        {
+          "title": "Practice Task 12",
+          "content": "How do you apply Week 3: Ordinal Numbers & Philippine Currency to solve a practical daily math problem?"
+        },
+        {
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
+        }
+      ]
+    },
+    {
+      "title": "Review Slide 13",
+      "text": "Let's review what we have learned about Week 3: Ordinal Numbers & Philippine Currency. Pay close attention to how we define terms and perform step-by-step calculations.",
+      "examples": [
+        {
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
+        },
+        {
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice Task 14",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 3: Ordinal Numbers & Philippine Currency.",
+      "examples": [
+        {
+          "title": "Practice Task 14",
+          "content": "How do you apply Week 3: Ordinal Numbers & Philippine Currency to solve a practical daily math problem?"
+        },
+        {
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
+        }
+      ]
+    },
+    {
+      "title": "Review Slide 15",
+      "text": "Let's review what we have learned about Week 3: Ordinal Numbers & Philippine Currency. Pay close attention to how we define terms and perform step-by-step calculations.",
+      "examples": [
+        {
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
+        },
+        {
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice Task 16",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 3: Ordinal Numbers & Philippine Currency.",
+      "examples": [
+        {
+          "title": "Practice Task 16",
+          "content": "How do you apply Week 3: Ordinal Numbers & Philippine Currency to solve a practical daily math problem?"
+        },
+        {
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
+        }
+      ]
+    },
+    {
+      "title": "Review Slide 17",
+      "text": "Let's review what we have learned about Week 3: Ordinal Numbers & Philippine Currency. Pay close attention to how we define terms and perform step-by-step calculations.",
+      "examples": [
+        {
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
+        },
+        {
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice Task 18",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 3: Ordinal Numbers & Philippine Currency.",
+      "examples": [
+        {
+          "title": "Practice Task 18",
+          "content": "How do you apply Week 3: Ordinal Numbers & Philippine Currency to solve a practical daily math problem?"
+        },
+        {
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
+        }
+      ]
+    },
+    {
+      "title": "Review Slide 19",
+      "text": "Let's review what we have learned about Week 3: Ordinal Numbers & Philippine Currency. Pay close attention to how we define terms and perform step-by-step calculations.",
+      "examples": [
+        {
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
+        },
+        {
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
+        }
+      ]
+    },
+    {
       "title": "Summary: Week 3: Ordinal Numbers & Philippine Currency",
       "text": "You have completed all slides for this lesson on Week 3: Ordinal Numbers & Philippine Currency. Take a moment to review the key formulas, definitions, and practice problems we covered.",
       "examples": [
@@ -359,337 +339,322 @@ window.WEEK3_DATA.math = {
   ],
   "standard": [
     {
-      "type": "choice",
-      "q": "What is the correct digit form of the ordinal number 'thirty-second'?",
-      "options": [
-        "30th",
-        "32nd",
-        "32th",
-        "23rd"
+      "q": "What is the symbol for the ordinal number 'twenty-third'?",
+      "opts": [
+        "23rd",
+        "23th",
+        "23st",
+        "23nd"
       ],
-      "answer": 1
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "How is the ordinal number 45th written in words?",
-      "options": [
-        "forty-five",
-        "forty-fifth",
-        "fourty-fifth",
-        "fortieth-five"
-      ],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "Which ordinal number is spelled correctly?",
-      "options": [
-        "nineth",
-        "twelth",
-        "fiftieth",
-        "fourtieth"
-      ],
-      "answer": 2
-    },
-    {
-      "type": "choice",
-      "q": "If there are 100 students in a line, what is the position of the very last student?",
-      "options": [
-        "100th",
-        "100",
-        "hundred",
-        "one hundredth"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which ordinal number represents the position directly after the 89th?",
-      "options": [
-        "88th",
-        "90th",
-        "91st",
-        "90nd"
-      ],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "What is the official currency symbol of the Philippines?",
-      "options": [
-        "$",
-        "¥",
-        "₱",
-        "€"
-      ],
-      "answer": 2
-    },
-    {
-      "type": "choice",
-      "q": "Which of the following is the portrait featured on the ₱50 paper bill?",
-      "options": [
-        "Manuel L. Quezon",
-        "Jose Rizal",
-        "Sergio Osmeña",
-        "Andres Bonifacio"
-      ],
-      "answer": 2
-    },
-    {
-      "type": "choice",
-      "q": "What color is the ₱100 Philippine paper bill?",
-      "options": [
+      "q": "What color is a Php 100 bill in Philippine currency?",
+      "opts": [
+        "Purple",
         "Red",
-        "Violet/Purple",
         "Yellow",
         "Blue"
       ],
-      "answer": 1
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "How many 25-sentimo coins are equal in value to exactly ₱1.00?",
-      "options": [
-        "2",
-        "4",
-        "5",
-        "10"
+      "q": "What is the value of three Php 50 bills?",
+      "opts": [
+        "Php 150",
+        "Php 100",
+        "Php 200",
+        "Php 50"
       ],
-      "answer": 1
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Which is the correct value of a bimetallic coin featuring Manuel L. Quezon?",
-      "options": [
-        "₱1",
-        "₱5",
-        "₱10",
-        "₱20"
+      "q": "Which coin has the highest value?",
+      "opts": [
+        "Php 20",
+        "Php 10",
+        "Php 5",
+        "25 centavos"
       ],
-      "answer": 3
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Which portrait is featured on the front of the yellow ₱500 bill?",
-      "options": [
-        "Manuel A. Roxas",
-        "Diosdado Macapagal",
-        "Corazon Aquino and Benigno Aquino Jr.",
-        "Jose Abad Santos"
+      "q": "If you have a Php 500 bill and buy a shirt for Php 350, how much change will you get?",
+      "opts": [
+        "Php 150",
+        "Php 250",
+        "Php 100",
+        "Php 50"
       ],
-      "answer": 2
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Which of the following coins features Andres Bonifacio?",
-      "options": [
-        "₱1 coin",
-        "₱5 coin",
-        "₱10 coin",
-        "₱20 coin"
+      "q": "Which is the correct written form of ₱45.50?",
+      "opts": [
+        "forty-five pesos and fifty centavos",
+        "forty-five pesos and fifteen centavos",
+        "four hundred fifty pesos",
+        "forty-five pesos"
       ],
-      "answer": 1
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Which relation symbol makes this statement true: ₱150.75 __ ₱150.80?",
-      "options": [
-        ">",
-        "<",
-        "=",
-        "+"
+      "q": "Which ordinal number is after 49th?",
+      "opts": [
+        "50th",
+        "50nd",
+        "48th",
+        "51st"
       ],
-      "answer": 1
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Which is the largest monetary value among the options?",
-      "options": [
-        "₱450.50",
-        "₱450.05",
-        "₱405.95",
-        "₱450.25"
+      "q": "How is 82nd written in words?",
+      "opts": [
+        "eighty-second",
+        "eighty-two",
+        "eighty-twoth",
+        "eighty-first"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "If you have one ₱50 bill and two ₱20 bills, how much money do you have in total?",
-      "options": [
-        "₱70.00",
-        "₱90.00",
-        "₱80.00",
-        "₱100.00"
+      "q": "Which bill has the highest value?",
+      "opts": [
+        "Php 1,000",
+        "Php 500",
+        "Php 200",
+        "Php 100"
       ],
-      "answer": 1
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Solve: ₱15.50 + ₱10.25",
-      "options": [
-        "₱25.75",
-        "₱25.50",
-        "₱25.25",
-        "₱26.75"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Solve: ₱50.00 - ₱12.50",
-      "options": [
-        "₱38.50",
-        "₱37.50",
-        "₱37.00",
-        "₱47.50"
-      ],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "Add with regrouping: ₱45.80 + ₱5.40",
-      "options": [
-        "₱50.20",
-        "₱51.20",
-        "₱51.00",
-        "₱50.80"
-      ],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "Matteo bought a notebook for ₱32.00 and a pen for ₱18.50. How much did he pay in total?",
-      "options": [
-        "₱50.00",
-        "₱50.50",
-        "₱51.00",
-        "₱49.50"
-      ],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "Lina paid with a ₱100 bill for a toy that cost ₱75.50. How much change should she receive?",
-      "options": [
-        "₱24.50",
-        "₱25.50",
-        "₱34.50",
-        "₱25.00"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "How many ₱10 coins make up a total value of ₱100.00?",
-      "options": [
-        "5",
+      "q": "How many Php 10 coins are equal to one Php 100 bill?",
+      "opts": [
         "10",
-        "20",
-        "100"
+        "5",
+        "100",
+        "20"
       ],
-      "answer": 1
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "What is the spelling of the ordinal form of 90?",
-      "options": [
-        "ninetyth",
-        "ninetieth",
-        "nintieth",
-        "nineteth"
+      "q": "Which is greater: Php 250 or Php 205?",
+      "opts": [
+        "Php 250",
+        "Php 205",
+        "They are equal",
+        "None"
       ],
-      "answer": 1
+      "ans": 0
     },
     {
-      "type": "verify",
-      "q": "Which of the following statements is true?",
-      "options": [
-        "Statement A: The Philippine ₱1,000 bill is blue and features the Philippine Eagle on its polymer version.",
-        "Statement B: The Philippine ₱1,000 bill is yellow and features Sergio Osmeña."
+      "q": "How many 25-centavo coins make up exactly one peso (Php 1)?",
+      "opts": [
+        "4",
+        "10",
+        "25",
+        "2"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "blank",
-      "q": "What is the word form of the ordinal number 73rd? (use lowercase and hyphen)",
-      "answer": "seventy-third"
+      "q": "What is the ordinal form of 'one hundred'?",
+      "opts": [
+        "100th",
+        "100nd",
+        "100st",
+        "100rd"
+      ],
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Subtract: ₱100.00 - ₱45.75",
-      "options": [
-        "₱54.25",
-        "₱55.25",
-        "₱54.75",
-        "₱64.25"
+      "q": "What is the color of the Php 20 paper bill?",
+      "opts": [
+        "Orange",
+        "Red",
+        "Green",
+        "Blue"
       ],
-      "answer": 0
+      "ans": 0
+    },
+    {
+      "q": "How do you write 'seven pesos and twenty-five centavos' using the peso sign?",
+      "opts": [
+        "Php 7.25",
+        "Php 72.5",
+        "Php 0.75",
+        "7.25 pesos"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Which ordinal number matches 'thirty-first'?",
+      "opts": [
+        "31st",
+        "31th",
+        "31rd",
+        "31nd"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "What is the total value of one Php 100 bill, one Php 50 bill, and two Php 10 coins?",
+      "opts": [
+        "Php 170",
+        "Php 160",
+        "Php 150",
+        "Php 180"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "What is the change if you pay Php 100 for a toy worth Php 85?",
+      "opts": [
+        "Php 15",
+        "Php 25",
+        "Php 5",
+        "Php 20"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Which ordinal represents the position '11th'?",
+      "opts": [
+        "eleventh",
+        "eleventst",
+        "eleven",
+        "tenth"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "What is the value of ten Php 100 bills?",
+      "opts": [
+        "Php 1,000",
+        "Php 100",
+        "Php 10,000",
+        "Php 500"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Which coin represents a centavo?",
+      "opts": [
+        "25 centavos",
+        "Php 1",
+        "Php 5",
+        "Php 10"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "What is the sum of Php 250.50 and Php 50.00?",
+      "opts": [
+        "Php 300.50",
+        "Php 300.00",
+        "Php 250.00",
+        "Php 350.50"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "How is 93rd read?",
+      "opts": [
+        "ninety-third",
+        "ninety-three",
+        "ninety-threetst",
+        "ninety-second"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Which is the smallest paper bill value in circulation?",
+      "opts": [
+        "Php 20",
+        "Php 50",
+        "Php 100",
+        "Php 10"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Which represents 'twelfth'?",
+      "opts": [
+        "12th",
+        "12st",
+        "12nd",
+        "12rd"
+      ],
+      "ans": 0
     }
   ],
   "challenge": [
     {
-      "type": "choice",
-      "q": "I am an ordinal number. I am between the 40th and 50th positions. The digit in my ones place is a prime number that is greater than 5. What position am I?",
-      "options": [
-        "47th",
-        "49th",
-        "45th",
-        "43rd"
+      "q": "If you have 4 bills in your wallet and their total value is Php 170, what bills do you have?",
+      "opts": [
+        "One Php 100, one Php 50, and two Php 10 bills (actually coins)",
+        "Three Php 50 and one Php 20",
+        "Two Php 50, one Php 50, and one Php 20",
+        "None of these"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "If you have one ₱500 bill, three ₱100 bills, and four ₱20 coins, how much more do you need to buy a bicycle that costs ₱950.00?",
-      "options": [
-        "₱70.00",
-        "₱80.00",
-        "₱150.00",
-        "₱0.00 (You have enough)"
+      "q": "What is the total value of 8 coins of Php 5 and 6 coins of Php 10?",
+      "opts": [
+        "Php 100",
+        "Php 80",
+        "Php 110",
+        "Php 90"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Solve: (₱120.50 + ₱45.75) - ₱80.40",
-      "options": [
-        "₱85.85",
-        "₱86.85",
-        "₱85.35",
-        "₱95.85"
+      "q": "If the 5th letter of a word is 'E' and the 8th letter is 'Y', which word could it be?",
+      "opts": [
+        "MONKEY (wait, length is 6, 5th is E)",
+        "DONKEY (length 6, 5th is E)",
+        "BUTTERFLY (length 9, 5th is E, 8th is L)",
+        "BLUEBERRY (length 9, 5th is E, 9th is Y - wait, let's look at standard 5th/8th: alphabet or indices)"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "verify",
-      "q": "Which of the following statements is true?",
-      "options": [
-        "Statement A: ₱0.75 is equal to 75 centavos, and three 25¢ coins can make this value.",
-        "Statement B: ₱0.75 is equal to 7.5 pesos, and seven 1-peso coins can make this value."
+      "q": "Which is greater: five Php 20 bills or two Php 50 bills?",
+      "opts": [
+        "They are equal",
+        "Five Php 20 bills",
+        "Two Php 50 bills",
+        "None"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "blank",
-      "q": "Matteo has ₱500.00. He wants to buy three books. Each book costs ₱155.50. How much change will he have left after buying the three books?",
-      "answer": "33.50"
+      "q": "If you buy three notebook items worth Php 25 each and pay with a Php 100 bill, how much change do you get?",
+      "opts": [
+        "Php 25",
+        "Php 75",
+        "Php 15",
+        "Php 5"
+      ],
+      "ans": 0
     }
   ],
   "performance": {
-    "type": "performance",
-    "title": "Market Simulation Activity",
-    "desc": "Set up a small play store at home. Label 5 items with prices in Pesos and Centavos (e.g., ₱15.50, ₱45.25). Practice buying items using play money and calculating the exact sum and change. Write down the equations on a sheet of paper and explain them to your parent.",
+    "title": "Shopkeeper Roleplay",
+    "desc": "Set up a mini-store at home using toys or canned goods. Assign prices to each item (e.g., Php 10, Php 50). Have your parent pretend to buy items and pay with paper money or coins. Practice calculating the total cost and correct change. Explain the transactions.",
     "labels": [
-      "Five items properly labeled with decimal prices",
-      "Accurate equations showing addition of items",
-      "Accurate subtraction showing change calculations"
+      "Assigned reasonable prices",
+      "Correct addition of costs",
+      "Correct calculation of change"
     ]
   },
   "worksheet": {
     "pages": [
-      "\n      <div class=\"ws-page-content\">\n        <h3>Exercise 1: Writing Ordinal Numbers</h3>\n        <p class=\"ws-instruction\">Write the ordinal numbers in word form or digit form as indicated using your stylus.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. Write in word form: <strong>52nd</strong></div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 80%;\"><span class=\"ws-answer\">fifty-second</span></div>\n        </div>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">2. Write in word form: <strong>90th</strong></div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 80%;\"><span class=\"ws-answer\">ninetieth</span></div>\n        </div>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">3. Write in digit form: <strong>seventy-seventh</strong></div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 40%;\"><span class=\"ws-answer\">77th</span></div>\n        </div>\n      </div>\n      ",
-      "\n      <div class=\"ws-page-content\">\n        <h3>Exercise 2: Money Transactions</h3>\n        <p class=\"ws-instruction\">Solve the addition and subtraction money problems in the columns below.</p>\n        \n        <table class=\"ws-table\">\n          <thead>\n            <tr>\n              <th>Problem</th>\n              <th>Show Your Alignment & Solve</th>\n            </tr>\n          </thead>\n          <tbody>\n            <tr>\n              <td>₱125.50 + ₱48.75</td>\n              <td style=\"height: 60px;\"><span class=\"ws-answer\">₱174.25</span></td>\n            </tr>\n            <tr>\n              <td>₱500.00 - ₱185.30</td>\n              <td style=\"height: 60px;\"><span class=\"ws-answer\">₱314.70</span></td>\n            </tr>\n            <tr>\n              <td>₱84.20 - ₱19.90</td>\n              <td style=\"height: 60px;\"><span class=\"ws-answer\">₱64.30</span></td>\n            </tr>\n          </tbody>\n        </table>\n      </div>\n      ",
-      "\n      <div class=\"ws-page-content\">\n        <h3>Exercise 3: Matching Currency</h3>\n        <p class=\"ws-instruction\">Draw a line using your stylus to match the portrait to the correct Philippine bill denomination.</p>\n        \n        <div class=\"ws-split\" style=\"margin-top: 20px;\">\n          <div class=\"ws-col-half\" style=\"font-size: 16px; line-height: 2.2;\">\n            <div>A. Manuel L. Quezon</div>\n            <div>B. Sergio Osmeña</div>\n            <div>C. Manuel A. Roxas</div>\n            <div>D. Josefa Llanes Escoda & Heroes</div>\n          </div>\n          <div class=\"ws-col-half\" style=\"font-size: 16px; line-height: 2.2; text-align: right; padding-right: 40px;\">\n            <div>[ &nbsp; <span class=\"ws-answer\">D</span> &nbsp; ] &nbsp; ₱1,000 Bill</div>\n            <div>[ &nbsp; <span class=\"ws-answer\">A</span> &nbsp; ] &nbsp; ₱20 Bill</div>\n            <div>[ &nbsp; <span class=\"ws-answer\">C</span> &nbsp; ] &nbsp; ₱100 Bill</div>\n            <div>[ &nbsp; <span class=\"ws-answer\">B</span> &nbsp; ] &nbsp; ₱50 Bill</div>\n          </div>\n        </div>\n      </div>\n      "
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Ordinal Position Matching</h3>\n                  <p class=\"ws-instruction\">Write the corresponding word format for each ordinal number using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. 31st:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">thirty-first</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. 45th:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">forty-fifth</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. 92nd:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">ninety-second</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Money Conversion</h3>\n                  <p class=\"ws-instruction\">Determine the total value in pesos for each group of money below.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Two ₱100 bills + three ₱20 bills = </div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 40%;\"><span class=\"ws-answer\">₱260</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. One ₱500 bill + four ₱10 coins = </div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 40%;\"><span class=\"ws-answer\">₱540</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Simple Transactions</h3>\n                  <p class=\"ws-instruction\">Solve the shopping word problem below and write your final answer.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Anna bought a notebook for ₱45 and a pencil for ₱12. She paid with a ₱100 bill. How much change did she receive?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">₱43 (Total spent: ₱57. ₱100 - ₱57 = ₱43)</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -698,355 +663,355 @@ window.WEEK3_DATA.science = {
   "color": "#10b981",
   "icon": "🔬",
   "title": "Science",
-  "subtitle": "Week 3: Scientific Observation and Prediction",
+  "subtitle": "Week 3: Science Tools and Materials",
   "slides": [
     {
-      "title": "Introduction to Week 3: Scientific Observation and Prediction",
-      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Science.",
+      "title": "Science Tools & Safety",
+      "text": "Science tools help us measure, observe, and cut materials safely. Using the correct tool makes our science activities accurate.",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 3: Scientific Observation and Prediction and apply them in daily situations."
+          "title": "Science Tool",
+          "content": "An instrument used to perform a specific action in an investigation."
         },
         {
-          "title": "Real-world Connection",
-          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+          "title": "Safety",
+          "content": "Following rules to prevent injuries and damage to equipment."
         }
       ]
     },
     {
-      "title": "Core Vocabulary & Terms",
-      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "title": "Core Vocabulary",
+      "text": "Let's learn the names of common science tools: Hand lens, Ruler, Scissors, and Modeling clay.",
       "examples": [
         {
-          "title": "Term 1: Observation",
-          "content": "A foundational concept in Science that helps us categorize and understand details."
+          "title": "Hand lens",
+          "content": "A tool with a curved glass that magnifies small details."
         },
         {
-          "title": "Term 2: Prediction",
-          "content": "An active process or skill used to analyze situations and solve problems."
+          "title": "Ruler",
+          "content": "A straight tool marked with units to measure length."
         }
       ]
     },
     {
-      "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 3: Scientific Observation and Prediction. By looking closely at how these ideas work together, we can build a strong understanding of Science.",
+      "title": "Why We Use Tools",
+      "text": "Different tools have different purposes. We choose tools based on what action we need to perform.",
       "examples": [
         {
-          "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 3: Scientific Observation and Prediction in simple activities."
+          "title": "Observation",
+          "content": "Using a hand lens to see details of a leaf."
         },
         {
-          "title": "Why It Matters",
-          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+          "title": "Measurement",
+          "content": "Using a ruler to measure length in centimeters."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 3: Scientific Observation and Prediction. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tool Case 1: Ruler",
+      "text": "A ruler is used to measure the length of solid objects in millimeters or centimeters.",
       "examples": [
         {
-          "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction to observe the correct outcome."
+          "title": "Measurement",
+          "content": "Placing the edge of an eraser at 0 on the ruler scale."
         },
         {
-          "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction in other contexts."
+          "title": "Readings",
+          "content": "The eraser is exactly 4 centimeters long."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 3: Scientific Observation and Prediction. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tool Case 2: Hand Lens",
+      "text": "A hand lens is a magnifying glass. It bends light to make tiny details look bigger to our eyes.",
       "examples": [
         {
-          "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction to observe the correct outcome."
+          "title": "Observation",
+          "content": "Looking at tiny veins on a leaf or legs on an ant."
         },
         {
-          "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction in other contexts."
+          "title": "Usage",
+          "content": "Hold the lens close to your eye and move the object closer or further."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 3: Scientific Observation and Prediction. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tool Case 3: Scissors",
+      "text": "Scissors are cutting tools with two blades. They are used to cut paper and cardboard safely.",
       "examples": [
         {
-          "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction to observe the correct outcome."
+          "title": "Safe handling",
+          "content": "Always point scissors downwards and pass them handle-first."
         },
         {
-          "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction in other contexts."
+          "title": "Cutting",
+          "content": "Cutting straight lines in cardboard to build a backing board."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 3: Scientific Observation and Prediction. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tool Case 4: Balloons",
+      "text": "Balloons are stretchable rubber containers. They are used to hold and demonstrate gas (air) volume.",
       "examples": [
         {
-          "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction to observe the correct outcome."
+          "title": "Elasticity",
+          "content": "The rubber stretches when air is forced inside."
         },
         {
-          "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction in other contexts."
+          "title": "Air volume",
+          "content": "Shows that gas expands to take the shape of its container."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 3: Scientific Observation and Prediction. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tool Case 5: Modeling Clay",
+      "text": "Modeling clay is a solid material that can be shaped. It is used to build scientific models.",
       "examples": [
         {
-          "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction to observe the correct outcome."
+          "title": "Shaping",
+          "content": "Clay can be rolled into balls, flattened, or stretched."
         },
         {
-          "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction in other contexts."
+          "title": "Representation",
+          "content": "Making a model of a leaf or a landscape."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 3: Scientific Observation and Prediction. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tool Case 6: Cardboard",
+      "text": "Cardboard is a thick, stiff paper material. It is used to provide structure and support for activities.",
       "examples": [
         {
-          "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction to observe the correct outcome."
+          "title": "Stiffness",
+          "content": "Cardboard does not bend easily like regular writing paper."
         },
         {
-          "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction in other contexts."
+          "title": "Usage",
+          "content": "Serving as a flat surface or a ramp for toy car tests."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 3: Scientific Observation and Prediction. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tool Case 7: Measuring Tape",
+      "text": "A measuring tape is a flexible ruler. It is used to measure curved objects or long distances.",
       "examples": [
         {
-          "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction to observe the correct outcome."
+          "title": "Flexibility",
+          "content": "It can bend around your wrist or waist to measure body size."
         },
         {
-          "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction in other contexts."
+          "title": "Distance",
+          "content": "Measuring the width of a table or the length of a room."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 3: Scientific Observation and Prediction. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tool Case 8: Thermometer",
+      "text": "A thermometer is a tool used to measure temperature (how hot or cold a material is) in degrees.",
       "examples": [
         {
-          "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction to observe the correct outcome."
+          "title": "Temperature",
+          "content": "Boiling water has a high temperature; ice water has a low temperature."
         },
         {
-          "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction in other contexts."
+          "title": "Reading",
+          "content": "Looking at the liquid line inside the tube to get the degrees."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 3: Scientific Observation and Prediction. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tool Case 9: Balance Scale",
+      "text": "A balance scale is used to compare the weight or mass of two solid objects.",
       "examples": [
         {
-          "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction to observe the correct outcome."
+          "title": "Comparison",
+          "content": "Placing a stone in one pan and clay in the other."
         },
         {
-          "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction in other contexts."
+          "title": "Balance",
+          "content": "The scale balances flat when both objects have equal weight."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 3: Scientific Observation and Prediction. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tool Case 10: Dropper",
+      "text": "A dropper is a glass or plastic tube with a rubber bulb. It is used to transfer tiny drops of liquid.",
       "examples": [
         {
-          "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction to observe the correct outcome."
+          "title": "Drops",
+          "content": "Squeezing the bulb pulls water up; pressing it gently releases one drop."
         },
         {
-          "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction in other contexts."
+          "title": "Precision",
+          "content": "Adding water droplet by droplet to a dry sponge."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 3: Scientific Observation and Prediction. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tool Case 11: Safety Goggles",
+      "text": "Safety goggles are protective eyewear worn to shield eyes from chemical splashes or flying debris.",
       "examples": [
         {
-          "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction to observe the correct outcome."
+          "title": "Eye safety",
+          "content": "Worn during activities that involve cutting, mixing, or heating."
         },
         {
-          "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction in other contexts."
+          "title": "Design",
+          "content": "Fits snugly around the eyes with side shields."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 3: Scientific Observation and Prediction. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tool Case 12: Measuring Cup",
+      "text": "A measuring cup is a container marked with lines. It is used to measure liquid volume in milliliters.",
       "examples": [
         {
-          "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction to observe the correct outcome."
+          "title": "Volume",
+          "content": "Shows how much space a liquid occupies inside the cup."
         },
         {
-          "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction in other contexts."
+          "title": "Reading",
+          "content": "Look at the liquid surface at eye level to read the markings."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 3: Scientific Observation and Prediction. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tool Case 13: Tweezers",
+      "text": "Tweezers or forceps are small pinching tools. They are used to pick up tiny materials safely.",
       "examples": [
         {
-          "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction to observe the correct outcome."
+          "title": "Precision",
+          "content": "Picking up tiny seeds or small insect shells without crushing them."
         },
         {
-          "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction in other contexts."
+          "title": "Handling",
+          "content": "Squeezing the metal arms together to grip small items."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 3: Scientific Observation and Prediction. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tool Case 14: Beakers",
+      "text": "A beaker is a wide cylindrical container with a pouring lip. It is used for mixing and heating liquids.",
       "examples": [
         {
-          "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction to observe the correct outcome."
+          "title": "Mixing",
+          "content": "Stirring sugar and water together with a spoon inside the beaker."
         },
         {
-          "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction in other contexts."
+          "title": "Material",
+          "content": "Made of thick glass that can withstand heat from a stove."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 3: Scientific Observation and Prediction. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tool Case 15: Flashlight",
+      "text": "A flashlight is a portable light source. It is used to explore light reflection and shadows.",
       "examples": [
         {
-          "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction to observe the correct outcome."
+          "title": "Light beam",
+          "content": "A straight beam of light that shines on objects in dark spots."
         },
         {
-          "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction in other contexts."
+          "title": "Investigation",
+          "content": "Shining light on cardboard to observe the shadow behind it."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 1",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Guided Practice: Choosing Tools",
+      "text": "Let's practice choosing the right tool for different tasks. Always match tool with action.",
       "examples": [
         {
-          "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 3: Scientific Observation and Prediction to analyze or solve this sample scenario?"
+          "title": "Task",
+          "content": "You want to find the length of a book. (Choose Ruler)."
         },
         {
-          "title": "Correct Solution 1",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Task",
+          "content": "You want to look at a small seed closely. (Choose Hand lens)."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 2",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Guided Practice: Safety Rules",
+      "text": "Safety first! Practice the core rules of handling scissors and glass containers.",
       "examples": [
         {
-          "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 3: Scientific Observation and Prediction to analyze or solve this sample scenario?"
+          "title": "Rule 1",
+          "content": "Never run while carrying scissors or glass beakers."
         },
         {
-          "title": "Correct Solution 2",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Rule 2",
+          "content": "Keep your workspace clean and wipe up spilled water immediately."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 3",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Guided Practice: Measuring Length",
+      "text": "Let's practice measuring with a ruler. Always align the start with 0.",
       "examples": [
         {
-          "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 3: Scientific Observation and Prediction to analyze or solve this sample scenario?"
+          "title": "Alignment",
+          "content": "Place the edge of a pencil at 0, not 1, on the ruler scale."
         },
         {
-          "title": "Correct Solution 3",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Reading",
+          "content": "If the tip reaches 8, the length is 8 centimeters."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 4",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Guided Practice: Liquid Volume",
+      "text": "Let's practice measuring liquid volume in a cup.",
       "examples": [
         {
-          "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 3: Scientific Observation and Prediction to analyze or solve this sample scenario?"
+          "title": "Meniscus",
+          "content": "Read the number at the bottom of the curved liquid surface."
         },
         {
-          "title": "Correct Solution 4",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Eye Level",
+          "content": "Place the cup flat on the table and bend down to look at eye level."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 1",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Common Error: Starting at 1",
+      "text": "A common error when using a ruler is starting the measurement at 1 instead of 0.",
       "examples": [
         {
-          "title": "Incorrect Approach 1",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+          "title": "Incorrect",
+          "content": "Starting at 1 makes your measurement 1 centimeter too short."
         },
         {
-          "title": "Correct Approach 1",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Correct",
+          "content": "Always align the left edge of the object with the 0 mark."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 2",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Common Error: Lens Distance",
+      "text": "Do not hold the hand lens too close to your eye without moving the object.",
       "examples": [
         {
-          "title": "Incorrect Approach 2",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+          "title": "Incorrect",
+          "content": "Holding the lens flat against your eye makes the view blurry."
         },
         {
-          "title": "Correct Approach 2",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Correct",
+          "content": "Adjust the distance between the lens and the object to find the focus."
         }
       ]
     },
     {
-      "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 3: Scientific Observation and Prediction. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "title": "Summary of Week 3",
+      "text": "You completed Week 3! You can now identify, use, and handle science tools safely and correctly.",
       "examples": [
         {
-          "title": "Summary Points",
-          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+          "title": "Key Takeaway",
+          "content": "Tools extend our senses and make measurements precise."
         },
         {
-          "title": "Reflection",
-          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+          "title": "Next Step",
+          "content": "Advance to Week 4 to study science process skills like observing and predicting!"
         }
       ]
     }
@@ -1054,316 +1019,198 @@ window.WEEK3_DATA.science = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction?",
-      "options": [
-        "Core term: Prediction",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
+      "q": "Which tool is used to measure the length of a pencil in centimeters?",
+      "options": ["Ruler", "Hand lens", "Balloon", "Modeling clay"],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction?",
-      "options": [
-        "Core term: Materials",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "What is a hand lens used for in science activities?",
+      "options": ["To cut paper safely", "To magnify tiny details of objects", "To measure water temperature", "To hold modeling clay"],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction?",
-      "options": [
-        "Core term: Body parts",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "What is the safe way to carry scissors in the science classroom?",
+      "options": ["Holding them by the blades while running", "Pointing the blades down and walking slowly", "Throwing them to a classmate", "Holding them open in your pocket"],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction?",
-      "options": [
-        "Core term: Senses",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "Which tool is used to measure the temperature of water?",
+      "options": ["Ruler", "Thermometer", "Measuring cup", "Balance scale"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What do we use to protect our eyes from splashes during science experiments?",
+      "options": ["Magnifying glass", "Safety goggles", "Ruler", "Cardboard shield"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Where should you align the edge of an object when measuring length with a ruler?",
+      "options": ["At the 1 cm mark", "At the 0 mark", "At the edge of the wood", "At any random number"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which tool is used to transfer very small drops of water?",
+      "options": ["Beaker", "Dropper", "Measuring cup", "Scissors"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What tool helps us compare the weight of a stone and a ball of clay?",
+      "options": ["Ruler", "Balance scale", "Thermometer", "Flashlight"],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 3: Scientific Observation and Prediction is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Scientific Observation and Prediction are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Scientific Observation and Prediction are not relevant to these cases."
-      ],
+      "q": "True or False: A measuring cup is used to measure liquid volume in milliliters.",
+      "options": ["True", "False"],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction?",
-      "options": [
-        "Core term: Safety",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 3: Scientific Observation and Prediction is a key topic in the study of ___.",
-      "answer": "Science"
+      "q": "Which material is used to mold and create scientific models of landforms?",
+      "options": ["Cardboard", "Modeling clay", "Balloon", "Ruler"],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction?",
-      "options": [
-        "Core term: Liquids",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "What tool is a flexible ribbon used to measure long or curved distances?",
+      "options": ["Short ruler", "Measuring tape", "Glass dropper", "Tweezers"],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction?",
-      "options": [
-        "Core term: Gases",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "Why is cardboard useful in science activities?",
+      "options": ["It melts easily.", "It provides a stiff, flat structure or ramp.", "It is magnetic.", "It dissolves in water."],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 3: Scientific Observation and Prediction is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Scientific Observation and Prediction are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Scientific Observation and Prediction are not relevant to these cases."
-      ],
-      "answer": 0
+      "q": "True or False: We should run as fast as we can when carrying glass beakers.",
+      "options": ["True", "False"],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction?",
-      "options": [
-        "Core term: Prediction",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "Which tool is best for picking up a tiny seed without touching it?",
+      "options": ["Balance scale", "Tweezers (forceps)", "Measuring cup", "Scissors"],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction?",
-      "options": [
-        "Core term: Materials",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction?",
-      "options": [
-        "Core term: Body parts",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 3: Scientific Observation and Prediction is a key topic in the study of ___.",
-      "answer": "Science"
+      "q": "What is a beaker used for in science?",
+      "options": ["To measure temperature", "To hold, mix, or heat liquids", "To cut cardboard", "To magnify details"],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 3: Scientific Observation and Prediction is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Scientific Observation and Prediction are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Scientific Observation and Prediction are not relevant to these cases."
-      ],
+      "q": "True or False: The volume of air in a balloon can be changed by squeezing it.",
+      "options": ["True", "False"],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction?",
-      "options": [
-        "Core term: Safety",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "Which tool should you choose to see the legs of an ant clearly?",
+      "options": ["Flashlight", "Hand lens", "Ruler", "Measuring cup"],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction?",
-      "options": [
-        "Core term: Solids",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction?",
-      "options": [
-        "Core term: Liquids",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction?",
-      "options": [
-        "Core term: Gases",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "What is the unit of temperature measured by a standard thermometer?",
+      "options": ["Centimeters", "Degrees (Celsius)", "Milliliters", "Grams"],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 3: Scientific Observation and Prediction is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Scientific Observation and Prediction are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Scientific Observation and Prediction are not relevant to these cases."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 3: Scientific Observation and Prediction is a key topic in the study of ___.",
-      "answer": "Science"
+      "q": "True or False: Standard rulers only show measurements in inches, not centimeters.",
+      "options": ["True", "False"],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction?",
-      "options": [
-        "Core term: Materials",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "Which tool is used to shine light and make shadows?",
+      "options": ["Ruler", "Flashlight", "Dropper", "Safety goggles"],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction?",
-      "options": [
-        "Core term: Body parts",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "What should you do if water spills on the table during an activity?",
+      "options": ["Ignore it until class ends.", "Wipe it up immediately with a cloth.", "Blow on it to dry it.", "Throw paper over it."],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction?",
-      "options": [
-        "Core term: Senses",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "If a ruler measurement starts at the 1 cm mark and ends at 6 cm, how long is the object?",
+      "options": ["6 cm", "5 cm", "7 cm", "1 cm"],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 3: Scientific Observation and Prediction is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Scientific Observation and Prediction are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Scientific Observation and Prediction are not relevant to these cases."
-      ],
-      "answer": 0
+      "q": "True or False: Tweezers are safety tools that protect our hands from hot materials.",
+      "options": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which container is marked with liquid scale lines?",
+      "options": ["Glass jar", "Measuring cup", "Cardboard box", "Balloon"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What is the primary purpose of wearing safety goggles?",
+      "options": ["To look like a scientist", "To protect the eyes from harm", "To see tiny objects better", "To keep hair out of the face"],
+      "answer": 1
     }
   ],
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 3: Scientific Observation and Prediction, what is the first priority?",
-      "options": [
-        "Analyze key terms and variables",
-        "Guess the answer immediately",
-        "Skip the question",
-        "Use unrelated formulas"
-      ],
+      "q": "You need to measure the distance around a thick pumpkin. Which tool is the most appropriate?",
+      "options": ["A wooden ruler", "A flexible measuring tape", "A balance scale", "A magnifying glass"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Why is it critical to verify the zero mark of a balance scale before putting objects on it?",
+      "options": ["To make sure the scale is clean.", "To ensure that the measurement starts from a balanced point, avoiding errors.", "To speed up the weighing process.", "To keep the pans from falling off."],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "If you measure the length of a crayon and the edge is aligned at 0 while the tip reaches 75 millimeters, how long is it in centimeters?",
+      "options": ["7.5 cm", "75 cm", "0.75 cm", "750 cm"],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: Scientific Observation and Prediction?",
-      "options": [
-        "The primary variable: Observation",
-        "An external variable",
-        "No variable",
-        "All variables equally"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 3: Scientific Observation and Prediction.",
-      "options": [
-        "Statement A: Proper methodology leads to a correct and verified solution.",
-        "Statement B: Rushing through calculations is safe and rarely causes errors."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: Scientific Observation and Prediction?",
-      "answer": "prediction"
+      "q": "Which tool combination would you use to find out if warm water dissolves sugar faster than cold water?",
+      "options": ["Ruler and balance scale", "Thermometer, beakers, and stop watch", "Hand lens and measuring tape", "Safety goggles and tweezers"],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 3: Scientific Observation and Prediction?",
-      "options": [
-        "Building logical reasoning and problem-solving skills",
-        "Forgetting previous lessons",
-        "Speeding up without accuracy",
-        "None of these"
-      ],
-      "answer": 0
+      "q": "A student wants to cut a thick piece of cardboard. What safety rule must they follow?",
+      "options": ["Use a kitchen knife instead.", "Cut away from their body and keep fingers clear of the blades.", "Cut as fast as they can.", "Hold the cardboard close to their face."],
+      "answer": 1
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 3: Scientific Observation and Prediction",
-    "desc": "Perform a simple observation of Week 3: Scientific Observation and Prediction at home. Explain your findings to your parents or classmates in 3 clear sentences.",
-    "labels": [
-      "Accurate explanation of concept",
-      "Clarity and confidence in presentation",
-      "Neatness of written notes"
-    ]
+    "title": "Science Tool Safety & Measurement Task",
+    "desc": "Select a ruler and a small object at home (e.g., a crayon, a leaf). Demonstrate how to measure the length of the object in centimeters, starting from the 0 mark. Write down the length, draw the object showing where the ruler was aligned, and explain the safety rules of using scissors or glass in science to your parent.",
+    "labels": ["Accurately measured the object starting from the 0 mark", "Clearly illustrated the alignment of the ruler and the object", "Accurately explained safety rules for handling sharp or breakable tools"]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: Scientific Observation and Prediction</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: Scientific Observation and Prediction and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Prediction and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: Scientific Observation and Prediction.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of observation</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: Scientific Observation and Prediction.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Tool Identification</h3>\n                  <p class=\"ws-instruction\">Write the name of the tool described in each sentence below.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Used to magnify tiny details of plants and insects.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Hand lens</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Markings on it show centimeters and millimeters to measure length.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Ruler</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Worn over the eyes to protect them from flying objects.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Safety goggles</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Tool Matching Table</h3>\n                  <p class=\"ws-instruction\">Match the task with the correct tool by completing the table cells.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Task to Perform</th>\n                        <th>Recommended Tool</th>\n                        <th>Key Safety Rule</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Cut thick cardboard</td>\n                        <td><span class=\"ws-answer\">Scissors</span></td>\n                        <td><span class=\"ws-answer\">Keep fingers away from blades</span></td>\n                      </tr>\n                      <tr>\n                        <td>Check temperature of water</td>\n                        <td><span class=\"ws-answer\">Thermometer</span></td>\n                        <td><span class=\"ws-answer\">Do not touch the hot liquid</span></td>\n                      </tr>\n                      <tr>\n                        <td>Add drops of water to clay</td>\n                        <td><span class=\"ws-answer\">Dropper</span></td>\n                        <td><span class=\"ws-answer\">Handle glass dropper gently</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Measuring Errors</h3>\n                  <p class=\"ws-instruction\">Explain the error shown in the description and write the correct measurement.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Description: <em>A crayon is placed from the 1 cm mark to the 8 cm mark on a ruler. The student writes that the crayon is 8 cm long.</em></div>\n                    <div class=\"ws-q\" style=\"margin-top: 15px;\">1. What is the student's error?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 90%;\"><span class=\"ws-answer\">The student started at 1 instead of 0, counting the start index.</span></div>\n                    <div class=\"ws-q\" style=\"margin-top: 15px;\">2. What is the correct length of the crayon?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">7 cm</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -4221,27 +4068,27 @@ window.WEEK3_DATA.reading = {
     "slides": [
       {
         "title": "Kuwento: Ang Langgam at ang Tipaklong - Bahagi 1",
-        "text": "<span class=\"fil-sentence\" data-translation=\"During the summer season, the whole forest was beautiful and full of food.\"><span class=\"fil-sentence\" data-translation=\"During the summer season, the whole forest was beautiful and full of food.\">Noong panahon ng tag-araw, ang buong kagubatan ay napakaganda at puno ng pagkain.</span></span> <span class=\"fil-sentence\" data-translation=\"While Grasshopper was happily singing and dancing under the hot sun, Ant was very busy searching for and carrying grains of rice and fruits to his small house.\"><span class=\"fil-sentence\" data-translation=\"While Grasshopper was happily singing and dancing under the hot sun, Ant was very busy searching for and carrying grains of rice and fruits to his small house.\">Habang si Tipaklong ay masayang kumakanta at sumasayaw sa ilalim ng init ng araw, si Langgam naman ay abalang-abala sa paghahanap at paghahakot ng mga butil ng palay at prutas patungo sa kanyang munting bahay.</span></span> <span class=\"fil-sentence\" data-translation=\"'Ant, come here first and let's have fun! There is so much food now, why do you make yourself tired?' Grasshopper asked while playing the guitar.\"><span class=\"fil-sentence\" data-translation=\"'Ant, come here first and let's have fun! There is so much food now, why do you make yourself tired?' Grasshopper asked while playing the guitar.\">'Langgam, halika muna rito at magsaya tayo! Napakaraming pagkain ngayon, bakit ka nagpapapagod?' tanong ni Tipaklong habang tumutugtog ng gitara.</span></span> <span class=\"fil-sentence\" data-translation=\"Ant replied, 'I am saving food for the coming rainy season so we won't starve. You should save too, Grasshopper.'\"><span class=\"fil-sentence\" data-translation=\"Ant replied, 'I am saving food for the coming rainy season so we won't starve. You should save too, Grasshopper.'\">Sumagot si Langgam, 'Nag-iipon ako ng pagkain para sa darating na tag-ulan upang hindi kami magutom. Dapat mag-ipon ka na rin, Tipaklong.'</span></span> <span class=\"fil-sentence\" data-translation=\"But Grasshopper just laughed at him and continued playing.\"><span class=\"fil-sentence\" data-translation=\"But Grasshopper just laughed at him and continued playing.\">Ngunit tinawanan lamang siya ni Tipaklong at nagpatuloy sa paglalaro.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"During the summer season, the whole forest was beautiful and full of food.\"><span class=\"fil-sentence\" data-translation=\"During the summer season, the whole forest was beautiful and full of food.\"><span class=\"fil-sentence\" data-translation=\"During the summer season, the whole forest was beautiful and full of food.\">Noong panahon ng tag-araw, ang buong kagubatan ay napakaganda at puno ng pagkain.</span></span></span> <span class=\"fil-sentence\" data-translation=\"While Grasshopper was happily singing and dancing under the hot sun, Ant was very busy searching for and carrying grains of rice and fruits to his small house.\"><span class=\"fil-sentence\" data-translation=\"While Grasshopper was happily singing and dancing under the hot sun, Ant was very busy searching for and carrying grains of rice and fruits to his small house.\"><span class=\"fil-sentence\" data-translation=\"While Grasshopper was happily singing and dancing under the hot sun, Ant was very busy searching for and carrying grains of rice and fruits to his small house.\">Habang si Tipaklong ay masayang kumakanta at sumasayaw sa ilalim ng init ng araw, si Langgam naman ay abalang-abala sa paghahanap at paghahakot ng mga butil ng palay at prutas patungo sa kanyang munting bahay.</span></span></span> <span class=\"fil-sentence\" data-translation=\"'Ant, come here first and let's have fun! There is so much food now, why do you make yourself tired?' Grasshopper asked while playing the guitar.\"><span class=\"fil-sentence\" data-translation=\"'Ant, come here first and let's have fun! There is so much food now, why do you make yourself tired?' Grasshopper asked while playing the guitar.\"><span class=\"fil-sentence\" data-translation=\"'Ant, come here first and let's have fun! There is so much food now, why do you make yourself tired?' Grasshopper asked while playing the guitar.\">'Langgam, halika muna rito at magsaya tayo! Napakaraming pagkain ngayon, bakit ka nagpapapagod?' tanong ni Tipaklong habang tumutugtog ng gitara.</span></span></span> <span class=\"fil-sentence\" data-translation=\"Ant replied, 'I am saving food for the coming rainy season so we won't starve. You should save too, Grasshopper.'\"><span class=\"fil-sentence\" data-translation=\"Ant replied, 'I am saving food for the coming rainy season so we won't starve. You should save too, Grasshopper.'\"><span class=\"fil-sentence\" data-translation=\"Ant replied, 'I am saving food for the coming rainy season so we won't starve. You should save too, Grasshopper.'\">Sumagot si Langgam, 'Nag-iipon ako ng pagkain para sa darating na tag-ulan upang hindi kami magutom. Dapat mag-ipon ka na rin, Tipaklong.'</span></span></span> <span class=\"fil-sentence\" data-translation=\"But Grasshopper just laughed at him and continued playing.\"><span class=\"fil-sentence\" data-translation=\"But Grasshopper just laughed at him and continued playing.\"><span class=\"fil-sentence\" data-translation=\"But Grasshopper just laughed at him and continued playing.\">Ngunit tinawanan lamang siya ni Tipaklong at nagpatuloy sa paglalaro.</span></span></span>"
       },
       {
         "title": "Kuwento: Ang Langgam at ang Tipaklong - Bahagi 2",
-        "text": "<span class=\"fil-sentence\" data-translation=\"The days passed quickly and the rainy season arrived.\"><span class=\"fil-sentence\" data-translation=\"The days passed quickly and the rainy season arrived.\">Mabilis na lumipas ang mga araw at dumating ang panahon ng tag-ulan.</span></span> <span class=\"fil-sentence\" data-translation=\"Rain here, rain there, and the entire forest became very cold.\"><span class=\"fil-sentence\" data-translation=\"Rain here, rain there, and the entire forest became very cold.\">Ulan dito, ulan doon, at naging napakalamig ng buong kagubatan.</span></span> <span class=\"fil-sentence\" data-translation=\"The leaves got wet and no food could be found around because the grass was submerged in water.\"><span class=\"fil-sentence\" data-translation=\"The leaves got wet and no food could be found around because the grass was submerged in water.\">Nabasa ang mga dahon at walang makitang pagkain sa paligid dahil nalubog sa tubig ang mga damo.</span></span> Ligtas na nanatili si Langgam sa loob ng kanyang tuyo at mainit na tahanan, kasama ang kanyang pamilya habang masayang kumakain ng mga butil na naipon nila noong tag-araw. <span class=\"fil-sentence\" data-translation=\"Meanwhile, Grasshopper was extremely hungry and shivering in the cold outside, with no shelter and nothing to eat.\"><span class=\"fil-sentence\" data-translation=\"Meanwhile, Grasshopper was extremely hungry and shivering in the cold outside, with no shelter and nothing to eat.\">Samantala, si Tipaklong ay gutom na gutom at nanginginig sa lamig sa labas, walang makitang masisilungan at walang makain.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"The days passed quickly and the rainy season arrived.\"><span class=\"fil-sentence\" data-translation=\"The days passed quickly and the rainy season arrived.\"><span class=\"fil-sentence\" data-translation=\"The days passed quickly and the rainy season arrived.\">Mabilis na lumipas ang mga araw at dumating ang panahon ng tag-ulan.</span></span></span> <span class=\"fil-sentence\" data-translation=\"Rain here, rain there, and the entire forest became very cold.\"><span class=\"fil-sentence\" data-translation=\"Rain here, rain there, and the entire forest became very cold.\"><span class=\"fil-sentence\" data-translation=\"Rain here, rain there, and the entire forest became very cold.\">Ulan dito, ulan doon, at naging napakalamig ng buong kagubatan.</span></span></span> <span class=\"fil-sentence\" data-translation=\"The leaves got wet and no food could be found around because the grass was submerged in water.\"><span class=\"fil-sentence\" data-translation=\"The leaves got wet and no food could be found around because the grass was submerged in water.\"><span class=\"fil-sentence\" data-translation=\"The leaves got wet and no food could be found around because the grass was submerged in water.\">Nabasa ang mga dahon at walang makitang pagkain sa paligid dahil nalubog sa tubig ang mga damo.</span></span></span> Ligtas na nanatili si Langgam sa loob ng kanyang tuyo at mainit na tahanan, kasama ang kanyang pamilya habang masayang kumakain ng mga butil na naipon nila noong tag-araw. <span class=\"fil-sentence\" data-translation=\"Meanwhile, Grasshopper was extremely hungry and shivering in the cold outside, with no shelter and nothing to eat.\"><span class=\"fil-sentence\" data-translation=\"Meanwhile, Grasshopper was extremely hungry and shivering in the cold outside, with no shelter and nothing to eat.\"><span class=\"fil-sentence\" data-translation=\"Meanwhile, Grasshopper was extremely hungry and shivering in the cold outside, with no shelter and nothing to eat.\">Samantala, si Tipaklong ay gutom na gutom at nanginginig sa lamig sa labas, walang makitang masisilungan at walang makain.</span></span></span>"
       },
       {
         "title": "Kuwento: Ang Langgam at ang Tipaklong - Bahagi 3",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Because of severe hunger, Grasshopper went to Ant's house and knocked.\"><span class=\"fil-sentence\" data-translation=\"Because of severe hunger, Grasshopper went to Ant's house and knocked.\">Dahil sa matinding gutom, lumapit si Tipaklong sa bahay ni Langgam at kumatok.</span></span> <span class=\"fil-sentence\" data-translation=\"'Friend Ant, please give me even a little food. I am shivering from hunger,' he pleaded.\"><span class=\"fil-sentence\" data-translation=\"'Friend Ant, please give me even a little food. I am shivering from hunger,' he pleaded.\">'Kaibigang Langgam, pakiusap at bigyan mo ako kahit kaunting pagkain. Nanginginig na ako sa gutom,' pakiusap niya.</span></span> <span class=\"fil-sentence\" data-translation=\"Ant felt pity, so he let Grasshopper in and gave him hot food and dry leaves.\"><span class=\"fil-sentence\" data-translation=\"Ant felt pity, so he let Grasshopper in and gave him hot food and dry leaves.\">Nakaramdam ng awa si Langgam, kaya pinapasok niya si Tipaklong at binigyan ng mainit na pagkain at tuyong dahon.</span></span> <span class=\"fil-sentence\" data-translation=\"'Thanks, Ant. Now I understand why you worked in the summer while I only played,' Grasshopper said with regret.\"><span class=\"fil-sentence\" data-translation=\"'Thanks, Ant. Now I understand why you worked in the summer while I only played,' Grasshopper said with regret.\">'Salamat, Langgam. Ngayon ay naintindihan ko na kung bakit ka nagtrabaho noong tag-araw habang ako ay naglaro lamang,' wika ni Tipaklong nang may pagsisisi.</span></span> <span class=\"fil-sentence\" data-translation=\"Grasshopper promised that next summer, he would also save food like his hardworking friend.\"><span class=\"fil-sentence\" data-translation=\"Grasshopper promised that next summer, he would also save food like his hardworking friend.\">Nangako si Tipaklong na sa susunod na tag-araw, mag-iipon din siya ng pagkain tulad ng kanyang masipag na kaibigan.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Because of severe hunger, Grasshopper went to Ant's house and knocked.\"><span class=\"fil-sentence\" data-translation=\"Because of severe hunger, Grasshopper went to Ant's house and knocked.\"><span class=\"fil-sentence\" data-translation=\"Because of severe hunger, Grasshopper went to Ant's house and knocked.\">Dahil sa matinding gutom, lumapit si Tipaklong sa bahay ni Langgam at kumatok.</span></span></span> <span class=\"fil-sentence\" data-translation=\"'Friend Ant, please give me even a little food. I am shivering from hunger,' he pleaded.\"><span class=\"fil-sentence\" data-translation=\"'Friend Ant, please give me even a little food. I am shivering from hunger,' he pleaded.\"><span class=\"fil-sentence\" data-translation=\"'Friend Ant, please give me even a little food. I am shivering from hunger,' he pleaded.\">'Kaibigang Langgam, pakiusap at bigyan mo ako kahit kaunting pagkain. Nanginginig na ako sa gutom,' pakiusap niya.</span></span></span> <span class=\"fil-sentence\" data-translation=\"Ant felt pity, so he let Grasshopper in and gave him hot food and dry leaves.\"><span class=\"fil-sentence\" data-translation=\"Ant felt pity, so he let Grasshopper in and gave him hot food and dry leaves.\"><span class=\"fil-sentence\" data-translation=\"Ant felt pity, so he let Grasshopper in and gave him hot food and dry leaves.\">Nakaramdam ng awa si Langgam, kaya pinapasok niya si Tipaklong at binigyan ng mainit na pagkain at tuyong dahon.</span></span></span> <span class=\"fil-sentence\" data-translation=\"'Thanks, Ant. Now I understand why you worked in the summer while I only played,' Grasshopper said with regret.\"><span class=\"fil-sentence\" data-translation=\"'Thanks, Ant. Now I understand why you worked in the summer while I only played,' Grasshopper said with regret.\"><span class=\"fil-sentence\" data-translation=\"'Thanks, Ant. Now I understand why you worked in the summer while I only played,' Grasshopper said with regret.\">'Salamat, Langgam. Ngayon ay naintindihan ko na kung bakit ka nagtrabaho noong tag-araw habang ako ay naglaro lamang,' wika ni Tipaklong nang may pagsisisi.</span></span></span> <span class=\"fil-sentence\" data-translation=\"Grasshopper promised that next summer, he would also save food like his hardworking friend.\"><span class=\"fil-sentence\" data-translation=\"Grasshopper promised that next summer, he would also save food like his hardworking friend.\"><span class=\"fil-sentence\" data-translation=\"Grasshopper promised that next summer, he would also save food like his hardworking friend.\">Nangako si Tipaklong na sa susunod na tag-araw, mag-iipon din siya ng pagkain tulad ng kanyang masipag na kaibigan.</span></span></span>"
       },
       {
         "title": "Talasalitaan at Pag-aaral ng Salita",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\">Mga Bokabularyo:</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Summer - Season of heat and sunshine.\"><span class=\"fil-sentence\" data-translation=\"Summer - Season of heat and sunshine.\">Tag-araw - Panahon ng init at sikat ng araw.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Hauling - Gathering or carrying things to a place.\"><span class=\"fil-sentence\" data-translation=\"Hauling - Gathering or carrying things to a place.\">Paghahakot - Pagsasama-sama o pagdadala ng mga bagay sa isang lugar.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Regret - Feeling of sadness because of a wrong decision made.\"><span class=\"fil-sentence\" data-translation=\"Regret - Feeling of sadness because of a wrong decision made.\">Pagsisisi - Pakiramdam ng lungkot dahil sa maling desisyong ginawa.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'l' sound in 'langgam', 'lamig', and 'laro'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'l' sound in 'langgam', 'lamig', and 'laro'.\">Tutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'l' sa 'langgam', 'lamig', at 'laro'.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\">Mga Bokabularyo:</span></span></span>\n• <span class=\"fil-sentence\" data-translation=\"Summer - Season of heat and sunshine.\"><span class=\"fil-sentence\" data-translation=\"Summer - Season of heat and sunshine.\"><span class=\"fil-sentence\" data-translation=\"Summer - Season of heat and sunshine.\">Tag-araw - Panahon ng init at sikat ng araw.</span></span></span>\n• <span class=\"fil-sentence\" data-translation=\"Hauling - Gathering or carrying things to a place.\"><span class=\"fil-sentence\" data-translation=\"Hauling - Gathering or carrying things to a place.\"><span class=\"fil-sentence\" data-translation=\"Hauling - Gathering or carrying things to a place.\">Paghahakot - Pagsasama-sama o pagdadala ng mga bagay sa isang lugar.</span></span></span>\n• <span class=\"fil-sentence\" data-translation=\"Regret - Feeling of sadness because of a wrong decision made.\"><span class=\"fil-sentence\" data-translation=\"Regret - Feeling of sadness because of a wrong decision made.\"><span class=\"fil-sentence\" data-translation=\"Regret - Feeling of sadness because of a wrong decision made.\">Pagsisisi - Pakiramdam ng lungkot dahil sa maling desisyong ginawa.</span></span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'l' sound in 'langgam', 'lamig', and 'laro'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'l' sound in 'langgam', 'lamig', and 'laro'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'l' sound in 'langgam', 'lamig', and 'laro'.\">Tutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'l' sa 'langgam', 'lamig', at 'laro'.</span></span></span>"
       },
       {
         "title": "Mga Tanong sa Pag-unawa",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\">Mga Tanong:</span></span>\n<span class=\"fil-sentence\" data-translation=\"1. What was Ant doing while Grasshopper was playing?\"><span class=\"fil-sentence\" data-translation=\"1. What was Ant doing while Grasshopper was playing?\">1. Ano ang ginagawa ni Langgam habang naglalaro si Tipaklong?</span></span>\n<span class=\"fil-sentence\" data-translation=\"2. What happened to Grasshopper when the rainy season arrived?\"><span class=\"fil-sentence\" data-translation=\"2. What happened to Grasshopper when the rainy season arrived?\">2. Ano ang nangyari kay Tipaklong nang dumating ang tag-ulan?</span></span>\n<span class=\"fil-sentence\" data-translation=\"3. How did Ant help Grasshopper at the end of the story?\"><span class=\"fil-sentence\" data-translation=\"3. How did Ant help Grasshopper at the end of the story?\">3. Paano tinulungan ni Langgam si Tipaklong sa dulo ng kwento?</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\">Mga Tanong:</span></span></span>\n<span class=\"fil-sentence\" data-translation=\"1. What was Ant doing while Grasshopper was playing?\"><span class=\"fil-sentence\" data-translation=\"1. What was Ant doing while Grasshopper was playing?\"><span class=\"fil-sentence\" data-translation=\"1. What was Ant doing while Grasshopper was playing?\">1. Ano ang ginagawa ni Langgam habang naglalaro si Tipaklong?</span></span></span>\n<span class=\"fil-sentence\" data-translation=\"2. What happened to Grasshopper when the rainy season arrived?\"><span class=\"fil-sentence\" data-translation=\"2. What happened to Grasshopper when the rainy season arrived?\"><span class=\"fil-sentence\" data-translation=\"2. What happened to Grasshopper when the rainy season arrived?\">2. Ano ang nangyari kay Tipaklong nang dumating ang tag-ulan?</span></span></span>\n<span class=\"fil-sentence\" data-translation=\"3. How did Ant help Grasshopper at the end of the story?\"><span class=\"fil-sentence\" data-translation=\"3. How did Ant help Grasshopper at the end of the story?\"><span class=\"fil-sentence\" data-translation=\"3. How did Ant help Grasshopper at the end of the story?\">3. Paano tinulungan ni Langgam si Tipaklong sa dulo ng kwento?</span></span></span>"
       },
       {
         "title": "Mabuting Aral at Pagninilay",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Thought: Being industrious and prepared for the future saves us from hardship.\"><span class=\"fil-sentence\" data-translation=\"Thought: Being industrious and prepared for the future saves us from hardship.\">Kaisipan: Ang pagiging masipag at handa sa hinaharap ay nagliligtas sa atin sa hirap.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"There is a time for play and a time for work. Being prepared shows intelligence, while helping those in need shows kindness.\"><span class=\"fil-sentence\" data-translation=\"There is a time for play and a time for work. Being prepared shows intelligence, while helping those in need shows kindness.\">May oras para sa paglalaro at may oras para sa pagtatrabaho. Ang pagiging handa ay nagpapakita ng katalinuhan, habang ang pagtulong sa nangangailangan ay nagpapakita ng kabaitan.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Discuss: What are the school lessons you can study early to be prepared for the test?\"><span class=\"fil-sentence\" data-translation=\"Discuss: What are the school lessons you can study early to be prepared for the test?\">Talakayin: Ano ang mga aralin sa paaralan na maaari mong pag-aralan nang maaga upang maging handa sa pagsusulit?</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Thought: Being industrious and prepared for the future saves us from hardship.\"><span class=\"fil-sentence\" data-translation=\"Thought: Being industrious and prepared for the future saves us from hardship.\"><span class=\"fil-sentence\" data-translation=\"Thought: Being industrious and prepared for the future saves us from hardship.\">Kaisipan: Ang pagiging masipag at handa sa hinaharap ay nagliligtas sa atin sa hirap.</span></span></span>\n\n<span class=\"fil-sentence\" data-translation=\"There is a time for play and a time for work. Being prepared shows intelligence, while helping those in need shows kindness.\"><span class=\"fil-sentence\" data-translation=\"There is a time for play and a time for work. Being prepared shows intelligence, while helping those in need shows kindness.\"><span class=\"fil-sentence\" data-translation=\"There is a time for play and a time for work. Being prepared shows intelligence, while helping those in need shows kindness.\">May oras para sa paglalaro at may oras para sa pagtatrabaho. Ang pagiging handa ay nagpapakita ng katalinuhan, habang ang pagtulong sa nangangailangan ay nagpapakita ng kabaitan.</span></span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Discuss: What are the school lessons you can study early to be prepared for the test?\"><span class=\"fil-sentence\" data-translation=\"Discuss: What are the school lessons you can study early to be prepared for the test?\"><span class=\"fil-sentence\" data-translation=\"Discuss: What are the school lessons you can study early to be prepared for the test?\">Talakayin: Ano ang mga aralin sa paaralan na maaari mong pag-aralan nang maaga upang maging handa sa pagsusulit?</span></span></span>"
       }
     ]
   },
@@ -4251,27 +4098,27 @@ window.WEEK3_DATA.reading = {
     "slides": [
       {
         "title": "Kuwento: Si Juan Tamad - Bahagi 1",
-        "text": "<span class=\"fil-sentence\" data-translation=\"In a small village, there was a boy named Juan.\"><span class=\"fil-sentence\" data-translation=\"In a small village, there was a boy named Juan.\">Sa isang maliit na baryo, may isang batang lalaki na nagngangalang Juan.</span></span> <span class=\"fil-sentence\" data-translation=\"Because of his extreme laziness, his neighbors nicknamed him Juan Tamad (Lazy Juan).\"><span class=\"fil-sentence\" data-translation=\"Because of his extreme laziness, his neighbors nicknamed him Juan Tamad (Lazy Juan).\">Dahil sa kanyang labis na katamaran, binansagan siya ng kanyang mga kapitbahay na si Juan Tamad.</span></span> <span class=\"fil-sentence\" data-translation=\"Whenever his mother ordered him, he always made excuses or found ways not to finish the task.\"><span class=\"fil-sentence\" data-translation=\"Whenever his mother ordered him, he always made excuses or found ways not to finish the task.\">Tuwing inuutusan siya ng kanyang ina, lagi siyang nagdadahilan o gumagawa ng paraan upang hindi matapos ang gawain.</span></span> <span class=\"fil-sentence\" data-translation=\"One hot afternoon, while Juan was walking along the road, he saw a guava tree full of large and ripe fruits.\"><span class=\"fil-sentence\" data-translation=\"One hot afternoon, while Juan was walking along the road, he saw a guava tree full of large and ripe fruits.\">Isang mainit na hapon, habang naglalakad si Juan sa tabi ng kalsada, nakakita siya ng isang puno ng bayabas na puno ng malalaki at hinog na bunga.</span></span> <span class=\"fil-sentence\" data-translation=\"He really wanted to eat guavas, but the tree was very tall and he did not want to tire himself climbing.\"><span class=\"fil-sentence\" data-translation=\"He really wanted to eat guavas, but the tree was very tall and he did not want to tire himself climbing.\">Gustong-gusto niyang kumain ng bayabas, ngunit napakataas ng puno at ayaw niyang magkapagod sa pag-akyat.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"In a small village, there was a boy named Juan.\"><span class=\"fil-sentence\" data-translation=\"In a small village, there was a boy named Juan.\"><span class=\"fil-sentence\" data-translation=\"In a small village, there was a boy named Juan.\">Sa isang maliit na baryo, may isang batang lalaki na nagngangalang Juan.</span></span></span> <span class=\"fil-sentence\" data-translation=\"Because of his extreme laziness, his neighbors nicknamed him Juan Tamad (Lazy Juan).\"><span class=\"fil-sentence\" data-translation=\"Because of his extreme laziness, his neighbors nicknamed him Juan Tamad (Lazy Juan).\"><span class=\"fil-sentence\" data-translation=\"Because of his extreme laziness, his neighbors nicknamed him Juan Tamad (Lazy Juan).\">Dahil sa kanyang labis na katamaran, binansagan siya ng kanyang mga kapitbahay na si Juan Tamad.</span></span></span> <span class=\"fil-sentence\" data-translation=\"Whenever his mother ordered him, he always made excuses or found ways not to finish the task.\"><span class=\"fil-sentence\" data-translation=\"Whenever his mother ordered him, he always made excuses or found ways not to finish the task.\"><span class=\"fil-sentence\" data-translation=\"Whenever his mother ordered him, he always made excuses or found ways not to finish the task.\">Tuwing inuutusan siya ng kanyang ina, lagi siyang nagdadahilan o gumagawa ng paraan upang hindi matapos ang gawain.</span></span></span> <span class=\"fil-sentence\" data-translation=\"One hot afternoon, while Juan was walking along the road, he saw a guava tree full of large and ripe fruits.\"><span class=\"fil-sentence\" data-translation=\"One hot afternoon, while Juan was walking along the road, he saw a guava tree full of large and ripe fruits.\"><span class=\"fil-sentence\" data-translation=\"One hot afternoon, while Juan was walking along the road, he saw a guava tree full of large and ripe fruits.\">Isang mainit na hapon, habang naglalakad si Juan sa tabi ng kalsada, nakakita siya ng isang puno ng bayabas na puno ng malalaki at hinog na bunga.</span></span></span> <span class=\"fil-sentence\" data-translation=\"He really wanted to eat guavas, but the tree was very tall and he did not want to tire himself climbing.\"><span class=\"fil-sentence\" data-translation=\"He really wanted to eat guavas, but the tree was very tall and he did not want to tire himself climbing.\"><span class=\"fil-sentence\" data-translation=\"He really wanted to eat guavas, but the tree was very tall and he did not want to tire himself climbing.\">Gustong-gusto niyang kumain ng bayabas, ngunit napakataas ng puno at ayaw niyang magkapagod sa pag-akyat.</span></span></span>"
       },
       {
         "title": "Kuwento: Si Juan Tamad - Bahagi 2",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Instead of climbing or getting a long bamboo to pick the guavas, Juan lay down under the tree.\"><span class=\"fil-sentence\" data-translation=\"Instead of climbing or getting a long bamboo to pick the guavas, Juan lay down under the tree.\">Sa halip na umakyat o kumuha ng mahabang kawayan upang sungkitin ang bayabas, humiga si Juan sa ilalim ng puno.</span></span> <span class=\"fil-sentence\" data-translation=\"He looked up and stared at a very ripe guava hanging on a low branch.\"><span class=\"fil-sentence\" data-translation=\"He looked up and stared at a very ripe guava hanging on a low branch.\">Tumingala siya at tinitigan ang isang napakahinog na bayabas na nakabitin sa mababang sanga.</span></span> <span class=\"fil-sentence\" data-translation=\"'I'll just lie here and open my mouth. I'll just wait for the guava to fall into my mouth,' Juan said to himself.\"><span class=\"fil-sentence\" data-translation=\"'I'll just lie here and open my mouth. I'll just wait for the guava to fall into my mouth,' Juan said to himself.\">'Hihiga na lang ako rito at bubuksan ko ang aking bibig. Hihintayin ko na lang na mahulog ang bayabas sa aking bibig,' sabi ni Juan sa sarili.</span></span> <span class=\"fil-sentence\" data-translation=\"He remained lying under the tree for several hours while the day passed and he grew hungry.\"><span class=\"fil-sentence\" data-translation=\"He remained lying under the tree for several hours while the day passed and he grew hungry.\">Nanatili siyang nakahiga sa ilalim ng puno ng ilang oras, habang lumilipas ang araw at nagugutom siya.</span></span> <span class=\"fil-sentence\" data-translation=\"Birds perched on the tree and ate some guavas at the top while watching Juan.\"><span class=\"fil-sentence\" data-translation=\"Birds perched on the tree and ate some guavas at the top while watching Juan.\">Ang mga ibon naman ay dumapo sa puno at kinain ang ilang bayabas sa itaas habang pinapanood si Juan.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Instead of climbing or getting a long bamboo to pick the guavas, Juan lay down under the tree.\"><span class=\"fil-sentence\" data-translation=\"Instead of climbing or getting a long bamboo to pick the guavas, Juan lay down under the tree.\"><span class=\"fil-sentence\" data-translation=\"Instead of climbing or getting a long bamboo to pick the guavas, Juan lay down under the tree.\">Sa halip na umakyat o kumuha ng mahabang kawayan upang sungkitin ang bayabas, humiga si Juan sa ilalim ng puno.</span></span></span> <span class=\"fil-sentence\" data-translation=\"He looked up and stared at a very ripe guava hanging on a low branch.\"><span class=\"fil-sentence\" data-translation=\"He looked up and stared at a very ripe guava hanging on a low branch.\"><span class=\"fil-sentence\" data-translation=\"He looked up and stared at a very ripe guava hanging on a low branch.\">Tumingala siya at tinitigan ang isang napakahinog na bayabas na nakabitin sa mababang sanga.</span></span></span> <span class=\"fil-sentence\" data-translation=\"'I'll just lie here and open my mouth. I'll just wait for the guava to fall into my mouth,' Juan said to himself.\"><span class=\"fil-sentence\" data-translation=\"'I'll just lie here and open my mouth. I'll just wait for the guava to fall into my mouth,' Juan said to himself.\"><span class=\"fil-sentence\" data-translation=\"'I'll just lie here and open my mouth. I'll just wait for the guava to fall into my mouth,' Juan said to himself.\">'Hihiga na lang ako rito at bubuksan ko ang aking bibig. Hihintayin ko na lang na mahulog ang bayabas sa aking bibig,' sabi ni Juan sa sarili.</span></span></span> <span class=\"fil-sentence\" data-translation=\"He remained lying under the tree for several hours while the day passed and he grew hungry.\"><span class=\"fil-sentence\" data-translation=\"He remained lying under the tree for several hours while the day passed and he grew hungry.\"><span class=\"fil-sentence\" data-translation=\"He remained lying under the tree for several hours while the day passed and he grew hungry.\">Nanatili siyang nakahiga sa ilalim ng puno ng ilang oras, habang lumilipas ang araw at nagugutom siya.</span></span></span> <span class=\"fil-sentence\" data-translation=\"Birds perched on the tree and ate some guavas at the top while watching Juan.\"><span class=\"fil-sentence\" data-translation=\"Birds perched on the tree and ate some guavas at the top while watching Juan.\"><span class=\"fil-sentence\" data-translation=\"Birds perched on the tree and ate some guavas at the top while watching Juan.\">Ang mga ibon naman ay dumapo sa puno at kinain ang ilang bayabas sa itaas habang pinapanood si Juan.</span></span></span>"
       },
       {
         "title": "Kuwento: Si Juan Tamad - Bahagi 3",
-        "text": "<span class=\"fil-sentence\" data-translation=\"When his mother passed by the road and saw Juan gaping under the tree, she shook her head in sadness and anger.\"><span class=\"fil-sentence\" data-translation=\"When his mother passed by the road and saw Juan gaping under the tree, she shook her head in sadness and anger.\">Nang dumaan ang kanyang ina sa kalsada at nakita si Juan na nakanganga sa ilalim ng puno, napa-iling ito sa lungkot at galit.</span></span> <span class=\"fil-sentence\" data-translation=\"'Juan! Why are you lying there?' his mother asked.\"><span class=\"fil-sentence\" data-translation=\"'Juan! Why are you lying there?' his mother asked.\">'Juan! Bakit ka nakahiga diyan?' tanong ng ina.</span></span> <span class=\"fil-sentence\" data-translation=\"'Mother, I am waiting for the guava to fall into my mouth,' Juan replied.\"><span class=\"fil-sentence\" data-translation=\"'Mother, I am waiting for the guava to fall into my mouth,' Juan replied.\">'Ina, hinihintay ko pong mahulog ang bayabas sa aking bibig,' sagot ni Juan.</span></span> <span class=\"fil-sentence\" data-translation=\"His mother said, 'That's a very big guava, Juan! If you had only stood up and picked it with your hand, you would have been full long ago! No food will fall on its own into the mouth of a person who doesn't want to work.'\"><span class=\"fil-sentence\" data-translation=\"His mother said, 'That's a very big guava, Juan! If you had only stood up and picked it with your hand, you would have been full long ago! No food will fall on its own into the mouth of a person who doesn't want to work.'\">Sinabi ng kanyang ina, 'Napakalaking bayabas niyan, Juan! Kung tumayo ka lamang at kinuha ito gamit ang iyong kamay, kanina ka pa busog! Walang pagkain na kusang mahuhulog sa bibig ng taong ayaw gumawa.'</span></span> <span class=\"fil-sentence\" data-translation=\"Juan was ashamed and stood up to help his mother carry firewood.\"><span class=\"fil-sentence\" data-translation=\"Juan was ashamed and stood up to help his mother carry firewood.\">Nahiya si Juan at tumayo upang tulungan ang kanyang ina sa pagdadala ng mga kahoy.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"When his mother passed by the road and saw Juan gaping under the tree, she shook her head in sadness and anger.\"><span class=\"fil-sentence\" data-translation=\"When his mother passed by the road and saw Juan gaping under the tree, she shook her head in sadness and anger.\"><span class=\"fil-sentence\" data-translation=\"When his mother passed by the road and saw Juan gaping under the tree, she shook her head in sadness and anger.\">Nang dumaan ang kanyang ina sa kalsada at nakita si Juan na nakanganga sa ilalim ng puno, napa-iling ito sa lungkot at galit.</span></span></span> <span class=\"fil-sentence\" data-translation=\"'Juan! Why are you lying there?' his mother asked.\"><span class=\"fil-sentence\" data-translation=\"'Juan! Why are you lying there?' his mother asked.\"><span class=\"fil-sentence\" data-translation=\"'Juan! Why are you lying there?' his mother asked.\">'Juan! Bakit ka nakahiga diyan?' tanong ng ina.</span></span></span> <span class=\"fil-sentence\" data-translation=\"'Mother, I am waiting for the guava to fall into my mouth,' Juan replied.\"><span class=\"fil-sentence\" data-translation=\"'Mother, I am waiting for the guava to fall into my mouth,' Juan replied.\"><span class=\"fil-sentence\" data-translation=\"'Mother, I am waiting for the guava to fall into my mouth,' Juan replied.\">'Ina, hinihintay ko pong mahulog ang bayabas sa aking bibig,' sagot ni Juan.</span></span></span> <span class=\"fil-sentence\" data-translation=\"His mother said, 'That's a very big guava, Juan! If you had only stood up and picked it with your hand, you would have been full long ago! No food will fall on its own into the mouth of a person who doesn't want to work.'\"><span class=\"fil-sentence\" data-translation=\"His mother said, 'That's a very big guava, Juan! If you had only stood up and picked it with your hand, you would have been full long ago! No food will fall on its own into the mouth of a person who doesn't want to work.'\"><span class=\"fil-sentence\" data-translation=\"His mother said, 'That's a very big guava, Juan! If you had only stood up and picked it with your hand, you would have been full long ago! No food will fall on its own into the mouth of a person who doesn't want to work.'\">Sinabi ng kanyang ina, 'Napakalaking bayabas niyan, Juan! Kung tumayo ka lamang at kinuha ito gamit ang iyong kamay, kanina ka pa busog! Walang pagkain na kusang mahuhulog sa bibig ng taong ayaw gumawa.'</span></span></span> <span class=\"fil-sentence\" data-translation=\"Juan was ashamed and stood up to help his mother carry firewood.\"><span class=\"fil-sentence\" data-translation=\"Juan was ashamed and stood up to help his mother carry firewood.\"><span class=\"fil-sentence\" data-translation=\"Juan was ashamed and stood up to help his mother carry firewood.\">Nahiya si Juan at tumayo upang tulungan ang kanyang ina sa pagdadala ng mga kahoy.</span></span></span>"
       },
       {
         "title": "Talasalitaan at Pag-aaral ng Salita",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\">Mga Bokabularyo:</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Nicknamed - Given a nickname based on behavior.\"><span class=\"fil-sentence\" data-translation=\"Nicknamed - Given a nickname based on behavior.\">Binansagan - Binigyan ng palayaw o pangalan batay sa ugali.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Pluck - Pick an object from above using a stick or bamboo.\"><span class=\"fil-sentence\" data-translation=\"Pluck - Pick an object from above using a stick or bamboo.\">Sungkitin - Kumuha ng bagay sa itaas gamit ang stick o kawayan.</span></span>\n• <span class=\"fil-sentence\" data-translation=\"Voluntarily - Happening without help or volition of others.\"><span class=\"fil-sentence\" data-translation=\"Voluntarily - Happening without help or volition of others.\">Kusang - Nangyayari nang walang tulong o kusa ng iba.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'j' or 'h' sound in 'juan', 'hinog', and 'higa'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'j' or 'h' sound in 'juan', 'hinog', and 'higa'.\">Tutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'j' o 'h' sa 'juan', 'hinog', at 'higa'.</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\"><span class=\"fil-sentence\" data-translation=\"Vocabulary:\">Mga Bokabularyo:</span></span></span>\n• <span class=\"fil-sentence\" data-translation=\"Nicknamed - Given a nickname based on behavior.\"><span class=\"fil-sentence\" data-translation=\"Nicknamed - Given a nickname based on behavior.\"><span class=\"fil-sentence\" data-translation=\"Nicknamed - Given a nickname based on behavior.\">Binansagan - Binigyan ng palayaw o pangalan batay sa ugali.</span></span></span>\n• <span class=\"fil-sentence\" data-translation=\"Pluck - Pick an object from above using a stick or bamboo.\"><span class=\"fil-sentence\" data-translation=\"Pluck - Pick an object from above using a stick or bamboo.\"><span class=\"fil-sentence\" data-translation=\"Pluck - Pick an object from above using a stick or bamboo.\">Sungkitin - Kumuha ng bagay sa itaas gamit ang stick o kawayan.</span></span></span>\n• <span class=\"fil-sentence\" data-translation=\"Voluntarily - Happening without help or volition of others.\"><span class=\"fil-sentence\" data-translation=\"Voluntarily - Happening without help or volition of others.\"><span class=\"fil-sentence\" data-translation=\"Voluntarily - Happening without help or volition of others.\">Kusang - Nangyayari nang walang tulong o kusa ng iba.</span></span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'j' or 'h' sound in 'juan', 'hinog', and 'higa'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'j' or 'h' sound in 'juan', 'hinog', and 'higa'.\"><span class=\"fil-sentence\" data-translation=\"Phonics Focus: Practice pronouncing the 'j' or 'h' sound in 'juan', 'hinog', and 'higa'.\">Tutok sa Phonics: Magsanay sa pagbigkas ng tunog ng 'j' o 'h' sa 'juan', 'hinog', at 'higa'.</span></span></span>"
       },
       {
         "title": "Mga Tanong sa Pag-unawa",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\">Mga Tanong:</span></span>\n<span class=\"fil-sentence\" data-translation=\"1. Why was Juan nicknamed 'Lazy Juan'?\"><span class=\"fil-sentence\" data-translation=\"1. Why was Juan nicknamed 'Lazy Juan'?\">1. Bakit binansagan si Juan na 'Juan Tamad'?</span></span>\n<span class=\"fil-sentence\" data-translation=\"2. How did Juan get the guava according to his plan?\"><span class=\"fil-sentence\" data-translation=\"2. How did Juan get the guava according to his plan?\">2. Paano nakuha ni Juan ang bayabas ayon sa kanyang plano?</span></span>\n<span class=\"fil-sentence\" data-translation=\"3. What did his mother say when she saw him lying under the tree?\"><span class=\"fil-sentence\" data-translation=\"3. What did his mother say when she saw him lying under the tree?\">3. Ano ang sinabi ng kanyang ina nang makita siyang nakahiga sa ilalim ng puno?</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\"><span class=\"fil-sentence\" data-translation=\"Questions:\">Mga Tanong:</span></span></span>\n<span class=\"fil-sentence\" data-translation=\"1. Why was Juan nicknamed 'Lazy Juan'?\"><span class=\"fil-sentence\" data-translation=\"1. Why was Juan nicknamed 'Lazy Juan'?\"><span class=\"fil-sentence\" data-translation=\"1. Why was Juan nicknamed 'Lazy Juan'?\">1. Bakit binansagan si Juan na 'Juan Tamad'?</span></span></span>\n<span class=\"fil-sentence\" data-translation=\"2. How did Juan get the guava according to his plan?\"><span class=\"fil-sentence\" data-translation=\"2. How did Juan get the guava according to his plan?\"><span class=\"fil-sentence\" data-translation=\"2. How did Juan get the guava according to his plan?\">2. Paano nakuha ni Juan ang bayabas ayon sa kanyang plano?</span></span></span>\n<span class=\"fil-sentence\" data-translation=\"3. What did his mother say when she saw him lying under the tree?\"><span class=\"fil-sentence\" data-translation=\"3. What did his mother say when she saw him lying under the tree?\"><span class=\"fil-sentence\" data-translation=\"3. What did his mother say when she saw him lying under the tree?\">3. Ano ang sinabi ng kanyang ina nang makita siyang nakahiga sa ilalim ng puno?</span></span></span>"
       },
       {
         "title": "Mabuting Aral at Pagninilay",
-        "text": "<span class=\"fil-sentence\" data-translation=\"Thought: Dreams and needs can only be achieved through action.\"><span class=\"fil-sentence\" data-translation=\"Thought: Dreams and needs can only be achieved through action.\">Kaisipan: Ang mga pangarap at pangangailangan ay makakamit lamang sa pamamagitan ng pagkilos.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Laziness brings hunger and lack of progress. One should not rely on fate or chance for things that can be worked for.\"><span class=\"fil-sentence\" data-translation=\"Laziness brings hunger and lack of progress. One should not rely on fate or chance for things that can be worked for.\">Ang katamaran ay nagdadala ng gutom at kawalan ng pag-unlad. Hindi dapat iasa sa tadhana o pagkakataon ang mga bagay na maaari namang pagtrabahuhan.</span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Discuss: What are your goals in life that require your effort to achieve?\"><span class=\"fil-sentence\" data-translation=\"Discuss: What are your goals in life that require your effort to achieve?\">Talakayin: Ano ang mga layunin mo sa buhay na nangangailangan ng iyong pagsisikap upang maabot?</span></span>"
+        "text": "<span class=\"fil-sentence\" data-translation=\"Thought: Dreams and needs can only be achieved through action.\"><span class=\"fil-sentence\" data-translation=\"Thought: Dreams and needs can only be achieved through action.\"><span class=\"fil-sentence\" data-translation=\"Thought: Dreams and needs can only be achieved through action.\">Kaisipan: Ang mga pangarap at pangangailangan ay makakamit lamang sa pamamagitan ng pagkilos.</span></span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Laziness brings hunger and lack of progress. One should not rely on fate or chance for things that can be worked for.\"><span class=\"fil-sentence\" data-translation=\"Laziness brings hunger and lack of progress. One should not rely on fate or chance for things that can be worked for.\"><span class=\"fil-sentence\" data-translation=\"Laziness brings hunger and lack of progress. One should not rely on fate or chance for things that can be worked for.\">Ang katamaran ay nagdadala ng gutom at kawalan ng pag-unlad. Hindi dapat iasa sa tadhana o pagkakataon ang mga bagay na maaari namang pagtrabahuhan.</span></span></span>\n\n<span class=\"fil-sentence\" data-translation=\"Discuss: What are your goals in life that require your effort to achieve?\"><span class=\"fil-sentence\" data-translation=\"Discuss: What are your goals in life that require your effort to achieve?\"><span class=\"fil-sentence\" data-translation=\"Discuss: What are your goals in life that require your effort to achieve?\">Talakayin: Ano ang mga layunin mo sa buhay na nangangailangan ng iyong pagsisikap upang maabot?</span></span></span>"
       }
     ]
   }
@@ -4286,675 +4133,660 @@ window.WEEK3_DATA.checklist = [
 window.WEEK3_ADVANCED_DATA = {};
 
 window.WEEK3_ADVANCED_DATA.math = {
+  "title": "Mathematics",
+  "subtitle": "Week 3: Ordinal Numbers & Philippine Currency",
   "color": "#3b82f6",
   "icon": "🔢",
-  "title": "Mathematics",
-  "subtitle": "Week 3: Multiplication & Division of Whole Numbers [Advanced]",
   "slides": [
     {
-      "title": "Introduction to Week 3: Multiplication & Division of Whole Numbers [Advanced]",
-      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Mathematics.",
+      "title": "Ordinal Numbers up to 1,000th",
+      "text": "Ordinal numbers stretch beyond 100th to represent position in very large sequences. We use standard abbreviations: 100th (One hundredth), 500th (Five hundredth), 1,000th (One thousandth).",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 3: Multiplication & Division of Whole Numbers [Advanced] and apply them in daily situations."
-        },
-        {
-          "title": "Real-world Connection",
-          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+          "title": "Example",
+          "content": "250th is Two hundred fiftieth. 999th is Nine hundred ninety-ninth."
         }
       ]
     },
     {
-      "title": "Core Vocabulary & Terms",
-      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "title": "Philippine Currency up to Php 10,000",
+      "text": "We work with larger sums of money up to Php 10,000. This involves adding multiple large bills (e.g. ten Php 1,000 bills equal Php 10,000).",
       "examples": [
         {
-          "title": "Term 1: Counting",
-          "content": "A foundational concept in Mathematics that helps us categorize and understand details."
-        },
-        {
-          "title": "Term 2: Comparing",
-          "content": "An active process or skill used to analyze situations and solve problems."
+          "title": "Example",
+          "content": "Five Php 1,000 bills and ten Php 500 bills make Php 10,000."
         }
       ]
     },
     {
-      "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 3: Multiplication & Division of Whole Numbers [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of Mathematics.",
+      "title": "Adding Money with Decimals",
+      "text": "Adding large transactions requires aligning the decimal point to add pesos to pesos and centavos to centavos.",
       "examples": [
         {
-          "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 3: Multiplication & Division of Whole Numbers [Advanced] in simple activities."
-        },
-        {
-          "title": "Why It Matters",
-          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+          "title": "Example",
+          "content": "Php 1,250.50 + Php 450.75: Add centavos 50 + 75 = 125c = Php 1.25. Total is Php 1,701.25."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 3: Multiplication & Division of Whole Numbers [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Comparing Large Money Transactions",
+      "text": "We compare large monetary values. For example, Php 5,450.00 is greater than Php 5,405.00.",
       "examples": [
         {
-          "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Multiplication & Division of Whole Numbers [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Multiplication & Division of Whole Numbers [Advanced] in other contexts."
+          "title": "Example",
+          "content": "Php 9,800 > Php 8,999."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 3: Multiplication & Division of Whole Numbers [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Summary of Money Math",
+      "text": "Mastery of large transactions is crucial for business, banking, and budget planning.",
       "examples": [
         {
-          "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Multiplication & Division of Whole Numbers [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Multiplication & Division of Whole Numbers [Advanced] in other contexts."
+          "title": "Example",
+          "content": "If you save Php 250 every week, in 10 weeks you will save Php 2,500."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 3: Multiplication & Division of Whole Numbers [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Review Slide 1",
+      "text": "Let's review what we have learned about Week 3: Ordinal Numbers & Philippine Currency. Pay close attention to how we define terms and perform step-by-step calculations.",
       "examples": [
         {
-          "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Multiplication & Division of Whole Numbers [Advanced] to observe the correct outcome."
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
         },
         {
-          "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Multiplication & Division of Whole Numbers [Advanced] in other contexts."
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 3: Multiplication & Division of Whole Numbers [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Multiplication & Division of Whole Numbers [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Multiplication & Division of Whole Numbers [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 3: Multiplication & Division of Whole Numbers [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Multiplication & Division of Whole Numbers [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Multiplication & Division of Whole Numbers [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 3: Multiplication & Division of Whole Numbers [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Multiplication & Division of Whole Numbers [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Multiplication & Division of Whole Numbers [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 3: Multiplication & Division of Whole Numbers [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Multiplication & Division of Whole Numbers [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Multiplication & Division of Whole Numbers [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 3: Multiplication & Division of Whole Numbers [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Multiplication & Division of Whole Numbers [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Multiplication & Division of Whole Numbers [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 3: Multiplication & Division of Whole Numbers [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Multiplication & Division of Whole Numbers [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Multiplication & Division of Whole Numbers [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 3: Multiplication & Division of Whole Numbers [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Multiplication & Division of Whole Numbers [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Multiplication & Division of Whole Numbers [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 3: Multiplication & Division of Whole Numbers [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Multiplication & Division of Whole Numbers [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Multiplication & Division of Whole Numbers [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 3: Multiplication & Division of Whole Numbers [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Multiplication & Division of Whole Numbers [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Multiplication & Division of Whole Numbers [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 3: Multiplication & Division of Whole Numbers [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Multiplication & Division of Whole Numbers [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Multiplication & Division of Whole Numbers [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 3: Multiplication & Division of Whole Numbers [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Multiplication & Division of Whole Numbers [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Multiplication & Division of Whole Numbers [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 3: Multiplication & Division of Whole Numbers [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
-      "examples": [
-        {
-          "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Multiplication & Division of Whole Numbers [Advanced] to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Multiplication & Division of Whole Numbers [Advanced] in other contexts."
-        }
-      ]
-    },
-    {
-      "title": "Guided Practice Exercise 1",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
-      "examples": [
-        {
-          "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 3: Multiplication & Division of Whole Numbers [Advanced] to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 1",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
-        }
-      ]
-    },
-    {
-      "title": "Guided Practice Exercise 2",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Extra Practice Task 2",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 3: Ordinal Numbers & Philippine Currency.",
       "examples": [
         {
           "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 3: Multiplication & Division of Whole Numbers [Advanced] to analyze or solve this sample scenario?"
+          "content": "How do you apply Week 3: Ordinal Numbers & Philippine Currency to solve a practical daily math problem?"
         },
         {
-          "title": "Correct Solution 2",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 3",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Review Slide 3",
+      "text": "Let's review what we have learned about Week 3: Ordinal Numbers & Philippine Currency. Pay close attention to how we define terms and perform step-by-step calculations.",
       "examples": [
         {
-          "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 3: Multiplication & Division of Whole Numbers [Advanced] to analyze or solve this sample scenario?"
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
         },
         {
-          "title": "Correct Solution 3",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 4",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Extra Practice Task 4",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 3: Ordinal Numbers & Philippine Currency.",
       "examples": [
         {
           "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 3: Multiplication & Division of Whole Numbers [Advanced] to analyze or solve this sample scenario?"
+          "content": "How do you apply Week 3: Ordinal Numbers & Philippine Currency to solve a practical daily math problem?"
         },
         {
-          "title": "Correct Solution 4",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 1",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Review Slide 5",
+      "text": "Let's review what we have learned about Week 3: Ordinal Numbers & Philippine Currency. Pay close attention to how we define terms and perform step-by-step calculations.",
       "examples": [
         {
-          "title": "Incorrect Approach 1",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
         },
         {
-          "title": "Correct Approach 1",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 2",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Extra Practice Task 6",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 3: Ordinal Numbers & Philippine Currency.",
       "examples": [
         {
-          "title": "Incorrect Approach 2",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+          "title": "Practice Task 6",
+          "content": "How do you apply Week 3: Ordinal Numbers & Philippine Currency to solve a practical daily math problem?"
         },
         {
-          "title": "Correct Approach 2",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
         }
       ]
     },
     {
-      "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 3: Multiplication & Division of Whole Numbers [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "title": "Review Slide 7",
+      "text": "Let's review what we have learned about Week 3: Ordinal Numbers & Philippine Currency. Pay close attention to how we define terms and perform step-by-step calculations.",
       "examples": [
         {
-          "title": "Summary Points",
-          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
         },
         {
-          "title": "Reflection",
-          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice Task 8",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 3: Ordinal Numbers & Philippine Currency.",
+      "examples": [
+        {
+          "title": "Practice Task 8",
+          "content": "How do you apply Week 3: Ordinal Numbers & Philippine Currency to solve a practical daily math problem?"
+        },
+        {
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
+        }
+      ]
+    },
+    {
+      "title": "Review Slide 9",
+      "text": "Let's review what we have learned about Week 3: Ordinal Numbers & Philippine Currency. Pay close attention to how we define terms and perform step-by-step calculations.",
+      "examples": [
+        {
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
+        },
+        {
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice Task 10",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 3: Ordinal Numbers & Philippine Currency.",
+      "examples": [
+        {
+          "title": "Practice Task 10",
+          "content": "How do you apply Week 3: Ordinal Numbers & Philippine Currency to solve a practical daily math problem?"
+        },
+        {
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
+        }
+      ]
+    },
+    {
+      "title": "Review Slide 11",
+      "text": "Let's review what we have learned about Week 3: Ordinal Numbers & Philippine Currency. Pay close attention to how we define terms and perform step-by-step calculations.",
+      "examples": [
+        {
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
+        },
+        {
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice Task 12",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 3: Ordinal Numbers & Philippine Currency.",
+      "examples": [
+        {
+          "title": "Practice Task 12",
+          "content": "How do you apply Week 3: Ordinal Numbers & Philippine Currency to solve a practical daily math problem?"
+        },
+        {
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
+        }
+      ]
+    },
+    {
+      "title": "Review Slide 13",
+      "text": "Let's review what we have learned about Week 3: Ordinal Numbers & Philippine Currency. Pay close attention to how we define terms and perform step-by-step calculations.",
+      "examples": [
+        {
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
+        },
+        {
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice Task 14",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 3: Ordinal Numbers & Philippine Currency.",
+      "examples": [
+        {
+          "title": "Practice Task 14",
+          "content": "How do you apply Week 3: Ordinal Numbers & Philippine Currency to solve a practical daily math problem?"
+        },
+        {
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
+        }
+      ]
+    },
+    {
+      "title": "Review Slide 15",
+      "text": "Let's review what we have learned about Week 3: Ordinal Numbers & Philippine Currency. Pay close attention to how we define terms and perform step-by-step calculations.",
+      "examples": [
+        {
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
+        },
+        {
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice Task 16",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 3: Ordinal Numbers & Philippine Currency.",
+      "examples": [
+        {
+          "title": "Practice Task 16",
+          "content": "How do you apply Week 3: Ordinal Numbers & Philippine Currency to solve a practical daily math problem?"
+        },
+        {
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
+        }
+      ]
+    },
+    {
+      "title": "Review Slide 17",
+      "text": "Let's review what we have learned about Week 3: Ordinal Numbers & Philippine Currency. Pay close attention to how we define terms and perform step-by-step calculations.",
+      "examples": [
+        {
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
+        },
+        {
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice Task 18",
+      "text": "Try solving this additional exercise in your mind to reinforce your understanding of Week 3: Ordinal Numbers & Philippine Currency.",
+      "examples": [
+        {
+          "title": "Practice Task 18",
+          "content": "How do you apply Week 3: Ordinal Numbers & Philippine Currency to solve a practical daily math problem?"
+        },
+        {
+          "title": "Explanation",
+          "content": "Identify the numbers, choose the correct operation, and calculate carefully."
+        }
+      ]
+    },
+    {
+      "title": "Review Slide 19",
+      "text": "Let's review what we have learned about Week 3: Ordinal Numbers & Philippine Currency. Pay close attention to how we define terms and perform step-by-step calculations.",
+      "examples": [
+        {
+          "title": "Review Concept",
+          "content": "Focus on active problem solving and step-by-step verification of your results."
+        },
+        {
+          "title": "Tip",
+          "content": "Write down key formulas on a piece of paper for quick reference."
+        }
+      ]
+    },
+    {
+      "title": "Summary: Week 3: Ordinal Numbers & Philippine Currency",
+      "text": "You have completed all slides for this lesson on Week 3: Ordinal Numbers & Philippine Currency. Take a moment to review the key formulas, definitions, and practice problems we covered.",
+      "examples": [
+        {
+          "title": "Key Takeaway",
+          "content": "Mastering the core principles of Week 3: Ordinal Numbers & Philippine Currency is essential for future topics."
+        },
+        {
+          "title": "Next Step",
+          "content": "You are now ready to try the quiz and challenges to test your understanding."
         }
       ]
     }
   ],
   "standard": [
     {
-      "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 3: Multiplication & Division of Whole Numbers [Advanced]?",
-      "options": [
-        "Core term: Comparing",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "What is the symbol for the ordinal number 'one hundred twenty-third'?",
+      "opts": [
+        "123rd",
+        "123th",
+        "123nd",
+        "123st"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 3: Multiplication & Division of Whole Numbers [Advanced]?",
-      "options": [
-        "Core term: Addition",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "What is the total value of ten Php 500 bills?",
+      "opts": [
+        "Php 5,000",
+        "Php 500",
+        "Php 1,000",
+        "Php 10,000"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 3: Multiplication & Division of Whole Numbers [Advanced]?",
-      "options": [
-        "Core term: Place value",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "Which is the correct written form of ₱4,500.50?",
+      "opts": [
+        "four thousand five hundred pesos and fifty centavos",
+        "four thousand five hundred fifty pesos",
+        "forty-five thousand pesos",
+        "four thousand five hundred pesos"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 3: Multiplication & Division of Whole Numbers [Advanced]?",
-      "options": [
-        "Core term: Numbers",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "What is the sum of three Php 1,000 bills and four Php 500 bills?",
+      "opts": [
+        "Php 5,000",
+        "Php 4,500",
+        "Php 6,000",
+        "Php 7,000"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 3: Multiplication & Division of Whole Numbers [Advanced] is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Multiplication & Division of Whole Numbers [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Multiplication & Division of Whole Numbers [Advanced] are not relevant to these cases."
+      "q": "Which ordinal number comes immediately before 100th?",
+      "opts": [
+        "99th",
+        "101st",
+        "98th",
+        "99nd"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 3: Multiplication & Division of Whole Numbers [Advanced]?",
-      "options": [
-        "Core term: Fractions",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "What is the change if you pay one Php 1,000 bill for a book worth Php 750?",
+      "opts": [
+        "Php 250",
+        "Php 150",
+        "Php 350",
+        "Php 50"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 3: Multiplication & Division of Whole Numbers [Advanced] is a key topic in the study of ___.",
-      "answer": "Mathematics"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 3: Multiplication & Division of Whole Numbers [Advanced]?",
-      "options": [
-        "Core term: Perimeter",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "Which ordinal number matches 'two hundredth'?",
+      "opts": [
+        "200th",
+        "200st",
+        "200nd",
+        "200rd"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 3: Multiplication & Division of Whole Numbers [Advanced]?",
-      "options": [
-        "Core term: Area",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "What is the value of eight Php 1,000 bills?",
+      "opts": [
+        "Php 8,000",
+        "Php 800",
+        "Php 80,000",
+        "Php 5,000"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 3: Multiplication & Division of Whole Numbers [Advanced] is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Multiplication & Division of Whole Numbers [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Multiplication & Division of Whole Numbers [Advanced] are not relevant to these cases."
+      "q": "If you add Php 2,500.50 and Php 1,250.25, what is the sum?",
+      "opts": [
+        "Php 3,750.75",
+        "Php 3,750.00",
+        "Php 3,800.75",
+        "Php 3,700.50"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 3: Multiplication & Division of Whole Numbers [Advanced]?",
-      "options": [
-        "Core term: Comparing",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "How is the ordinal '500th' written in words?",
+      "opts": [
+        "five hundredth",
+        "five hundred",
+        "five hundredst",
+        "fifty hundredth"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 3: Multiplication & Division of Whole Numbers [Advanced]?",
-      "options": [
-        "Core term: Addition",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "Which sum of money is the largest?",
+      "opts": [
+        "Ten Php 1,000 bills",
+        "Twenty Php 500 bills",
+        "Fifty Php 200 bills",
+        "They are all equal (Php 10,000)"
       ],
-      "answer": 0
+      "ans": 3
     },
     {
-      "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 3: Multiplication & Division of Whole Numbers [Advanced]?",
-      "options": [
-        "Core term: Place value",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "How many Php 50 bills make up exactly Php 1,000?",
+      "opts": [
+        "20",
+        "10",
+        "40",
+        "5"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 3: Multiplication & Division of Whole Numbers [Advanced] is a key topic in the study of ___.",
-      "answer": "Mathematics"
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 3: Multiplication & Division of Whole Numbers [Advanced] is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Multiplication & Division of Whole Numbers [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Multiplication & Division of Whole Numbers [Advanced] are not relevant to these cases."
+      "q": "What is the symbol for the ordinal 'one thousandth'?",
+      "opts": [
+        "1,000th",
+        "1,000st",
+        "1,000nd",
+        "1,000rd"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 3: Multiplication & Division of Whole Numbers [Advanced]?",
-      "options": [
-        "Core term: Fractions",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "Which is greater: Php 7,850.00 or Php 7,805.00?",
+      "opts": [
+        "Php 7,850.00",
+        "Php 7,805.00",
+        "They are equal",
+        "None"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 3: Multiplication & Division of Whole Numbers [Advanced]?",
-      "options": [
-        "Core term: Multiplication",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "How many Php 100 bills are equal to one Php 5,000 sum?",
+      "opts": [
+        "50",
+        "10",
+        "100",
+        "5"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 3: Multiplication & Division of Whole Numbers [Advanced]?",
-      "options": [
-        "Core term: Perimeter",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "Which represents 'three hundred fiftieth'?",
+      "opts": [
+        "350th",
+        "350st",
+        "350nd",
+        "350rd"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 3: Multiplication & Division of Whole Numbers [Advanced]?",
-      "options": [
-        "Core term: Area",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "What is the sum of Php 4,000.75 and Php 999.25?",
+      "opts": [
+        "Php 5,000.00",
+        "Php 4,999.00",
+        "Php 5,000.50",
+        "Php 5,000.25"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 3: Multiplication & Division of Whole Numbers [Advanced] is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Multiplication & Division of Whole Numbers [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Multiplication & Division of Whole Numbers [Advanced] are not relevant to these cases."
+      "q": "If you buy an item worth Php 1,850 and pay with two Php 1,000 bills, what is your change?",
+      "opts": [
+        "Php 150",
+        "Php 250",
+        "Php 50",
+        "Php 100"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 3: Multiplication & Division of Whole Numbers [Advanced] is a key topic in the study of ___.",
-      "answer": "Mathematics"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 3: Multiplication & Division of Whole Numbers [Advanced]?",
-      "options": [
-        "Core term: Addition",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "Which represents the position '999th' in words?",
+      "opts": [
+        "nine hundred ninety-ninth",
+        "nine hundred ninety-nine",
+        "ninety-ninth",
+        "nine thousandth"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 3: Multiplication & Division of Whole Numbers [Advanced]?",
-      "options": [
-        "Core term: Place value",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "What is the value of six Php 1,000 bills and two Php 500 bills?",
+      "opts": [
+        "Php 7,000",
+        "Php 6,500",
+        "Php 8,000",
+        "Php 6,200"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 3: Multiplication & Division of Whole Numbers [Advanced]?",
-      "options": [
-        "Core term: Numbers",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+      "q": "How many Php 20 bills make up Php 1,000?",
+      "opts": [
+        "50",
+        "20",
+        "100",
+        "10"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 3: Multiplication & Division of Whole Numbers [Advanced] is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Multiplication & Division of Whole Numbers [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Multiplication & Division of Whole Numbers [Advanced] are not relevant to these cases."
+      "q": "What is the sum of Php 8,250.00 and Php 1,750.00?",
+      "opts": [
+        "Php 10,000.00",
+        "Php 9,000.00",
+        "Php 9,900.00",
+        "Php 10,100.00"
       ],
-      "answer": 0
+      "ans": 0
+    },
+    {
+      "q": "How is 750th read?",
+      "opts": [
+        "seven hundred fiftieth",
+        "seven hundred fifty",
+        "seven hundred fifty-first",
+        "seven fiftieth"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Which of these is the largest bill in Philippine currency?",
+      "opts": [
+        "Php 1,000",
+        "Php 500",
+        "Php 200",
+        "Php 5,000"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "Which represents 'twenty-second'?",
+      "opts": [
+        "22nd",
+        "22th",
+        "22st",
+        "22rd"
+      ],
+      "ans": 0
     }
   ],
   "challenge": [
     {
-      "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 3: Multiplication & Division of Whole Numbers [Advanced], what is the first priority?",
-      "options": [
-        "Analyze key terms and variables",
-        "Guess the answer immediately",
-        "Skip the question",
-        "Use unrelated formulas"
+      "q": "If you have 12 bills in your wallet consisting only of Php 1,000 and Php 500 bills, and the total value is Php 9,500, how many of each do you have?",
+      "opts": [
+        "Seven Php 1,000 and five Php 500",
+        "Eight Php 1,000 and four Php 500",
+        "Six Php 1,000 and six Php 500",
+        "Nine Php 1,000 and three Php 500"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: Multiplication & Division of Whole Numbers [Advanced]?",
-      "options": [
-        "The primary variable: Counting",
-        "An external variable",
-        "No variable",
-        "All variables equally"
+      "q": "What is the total value of 25 coins of Php 10 and 15 bills of Php 500?",
+      "opts": [
+        "Php 7,750",
+        "Php 7,500",
+        "Php 7,650",
+        "Php 8,000"
       ],
-      "answer": 0
+      "ans": 0
     },
     {
-      "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 3: Multiplication & Division of Whole Numbers [Advanced].",
-      "options": [
-        "Statement A: Proper methodology leads to a correct and verified solution.",
-        "Statement B: Rushing through calculations is safe and rarely causes errors."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: Multiplication & Division of Whole Numbers [Advanced]?",
-      "answer": "comparing"
-    },
-    {
-      "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 3: Multiplication & Division of Whole Numbers [Advanced]?",
-      "options": [
-        "Building logical reasoning and problem-solving skills",
-        "Forgetting previous lessons",
-        "Speeding up without accuracy",
+      "q": "If an item costs Php 4,560.50 and you get Php 439.50 change, what did you pay with?",
+      "opts": [
+        "Five Php 1,000 bills (Php 5,000)",
+        "Four Php 1,000 bills and two Php 500 bills",
+        "Nine Php 500 bills",
         "None of these"
       ],
-      "answer": 0
+      "ans": 0
+    },
+    {
+      "q": "Which is greater: ten Php 500 bills or twenty-five Php 200 bills?",
+      "opts": [
+        "They are equal",
+        "Ten Php 500 bills",
+        "Twenty-five Php 200 bills",
+        "None"
+      ],
+      "ans": 0
+    },
+    {
+      "q": "If you buy three products worth Php 1,200 each and pay with four Php 1,000 bills, how much change do you get?",
+      "opts": [
+        "Php 400",
+        "Php 600",
+        "Php 200",
+        "Php 500"
+      ],
+      "ans": 0
     }
   ],
   "performance": {
-    "type": "performance",
-    "title": "Interactive Task: Week 3: Multiplication & Division of Whole Numbers [Advanced]",
-    "desc": "Perform a simple observation of Week 3: Multiplication & Division of Whole Numbers [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Savings and Budgeting Plan",
+    "desc": "Create a monthly budget sheet on paper. Assume you receive an allowance of Php 5,000. Allocate money for food, books, savings, and toys. Calculate the total of all categories and compare it to Php 5,000. Present your budget allocation chart and explain your choices to your parent.",
     "labels": [
-      "Accurate explanation of concept",
-      "Clarity and confidence in presentation",
-      "Neatness of written notes"
+      "Income matches total expenditures",
+      "Logical category division",
+      "Clear verbal presentation"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: Multiplication & Division of Whole Numbers [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: Multiplication & Division of Whole Numbers [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Comparing and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: Multiplication & Division of Whole Numbers [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of counting</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: Multiplication & Division of Whole Numbers [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Large Ordinal Positions</h3>\n                  <p class=\"ws-instruction\">Write the corresponding word format for each large ordinal number using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. 250th:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">two hundred fiftieth</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. 500th:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">five hundredth</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. 1,000th:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">one thousandth</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Large Sums of Money</h3>\n                  <p class=\"ws-instruction\">Determine the total value in pesos for each group of large bills below.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Six ₱1,000 bills + five ₱500 bills = </div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 40%;\"><span class=\"ws-answer\">₱8,500</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Nine ₱1,000 bills + four ₱200 bills = </div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 40%;\"><span class=\"ws-answer\">₱9,800</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Multi-Step Money Transactions</h3>\n                  <p class=\"ws-instruction\">Solve the word problem below and write your final answer.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Mr. Cruz bought a smartphone for ₱7,450.50 and a case for ₱450.25. He paid with eight ₱1,000 bills. How much change did he receive?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">₱99.25 (Total spent: ₱7,900.75. ₱8,000 - ₱7,900.75 = ₱99.25)</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -4963,355 +4795,355 @@ window.WEEK3_ADVANCED_DATA.science = {
   "color": "#10b981",
   "icon": "🔬",
   "title": "Science",
-  "subtitle": "Week 3: Scientific Observation and Prediction [Advanced]",
+  "subtitle": "Week 3: Science Tools and Materials",
   "slides": [
     {
-      "title": "Introduction to Week 3: Scientific Observation and Prediction [Advanced]",
-      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Science.",
+      "title": "Advanced Instrumentation",
+      "text": "Scientific research relies on high-precision instruments that extend human senses and reduce measurement error.",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 3: Scientific Observation and Prediction [Advanced] and apply them in daily situations."
+          "title": "Calibration",
+          "content": "Comparing instrument readouts against a known standard to adjust accuracy."
         },
         {
-          "title": "Real-world Connection",
-          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+          "title": "Precision",
+          "content": "The repeatability of measurements under unchanged conditions."
         }
       ]
     },
     {
-      "title": "Core Vocabulary & Terms",
-      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "title": "Advanced Vocabulary",
+      "text": "Terms of precision measurement: Graduated cylinder, Triple beam balance, Calipers, and Meniscus.",
       "examples": [
         {
-          "title": "Term 1: Observation",
-          "content": "A foundational concept in Science that helps us categorize and understand details."
+          "title": "Graduated cylinder",
+          "content": "A narrow container with accurate marks used to measure fluid volumes."
         },
         {
-          "title": "Term 2: Prediction",
-          "content": "An active process or skill used to analyze situations and solve problems."
+          "title": "Meniscus",
+          "content": "The curve at the upper surface of a liquid in a tube."
         }
       ]
     },
     {
-      "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 3: Scientific Observation and Prediction [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of Science.",
+      "title": "Instrument Selection Strategy",
+      "text": "Selecting tools requires matching the scale and physical properties of the subject with the resolution of the instrument.",
       "examples": [
         {
-          "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 3: Scientific Observation and Prediction [Advanced] in simple activities."
+          "title": "Resolution",
+          "content": "The smallest increment of change that can be detected by a tool."
         },
         {
-          "title": "Why It Matters",
-          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+          "title": "Tolerance",
+          "content": "The allowable limit of variation in a physical measurement."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 3: Scientific Observation and Prediction [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Advanced Tool: Vernier Calipers",
+      "text": "Vernier calipers measure internal, external, and depth dimensions with sub-millimeter precision.",
       "examples": [
         {
-          "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction [Advanced] to observe the correct outcome."
+          "title": "External Jaws",
+          "content": "Measuring the diameter of a clay sphere."
         },
         {
-          "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction [Advanced] in other contexts."
+          "title": "Vernier Scale",
+          "content": "Reading the fractional division of a millimeter for high accuracy."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 3: Scientific Observation and Prediction [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Advanced Tool: Microscope",
+      "text": "Microscopes use compound lenses and light refraction to magnify objects up to 1000 times their size.",
       "examples": [
         {
-          "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction [Advanced] to observe the correct outcome."
+          "title": "Coarse Adjustment",
+          "content": "Focusing the specimen under low magnification power."
         },
         {
-          "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction [Advanced] in other contexts."
+          "title": "Fine Adjustment",
+          "content": "Sharpening the focus detail under high magnification power."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 3: Scientific Observation and Prediction [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Advanced Tool: Spring Scale",
+      "text": "Spring scales measure force or weight in Newtons by stretching a calibrated internal spring.",
       "examples": [
         {
-          "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction [Advanced] to observe the correct outcome."
+          "title": "Force Measurement",
+          "content": "Measuring the pull force needed to drag a block on cardboard."
         },
         {
-          "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction [Advanced] in other contexts."
+          "title": "Gravity Impact",
+          "content": "Shows the downward gravitational force acting on a mass."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 3: Scientific Observation and Prediction [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Advanced Tool: Graduated Cylinder",
+      "text": "Graduated cylinders provide much higher liquid volume accuracy than standard beakers or cups.",
       "examples": [
         {
-          "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction [Advanced] to observe the correct outcome."
+          "title": "Material",
+          "content": "Often made of chemical resistant polypropylene or glass."
         },
         {
-          "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction [Advanced] in other contexts."
+          "title": "Meniscus Reading",
+          "content": "Always read at the lowest point of the concave water surface."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 3: Scientific Observation and Prediction [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Advanced Tool: Digital Balance",
+      "text": "Digital scales measure mass with high precision by converting force into digital electrical signals.",
       "examples": [
         {
-          "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction [Advanced] to observe the correct outcome."
+          "title": "Tare Function",
+          "content": "Resetting the scale to zero with a container on it to weigh only contents."
         },
         {
-          "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction [Advanced] in other contexts."
+          "title": "Units",
+          "content": "Reads mass in grams, ounces, or grains."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 3: Scientific Observation and Prediction [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Advanced Tool: Bunsen Burner",
+      "text": "Bunsen burners produce a single open gas flame used for heating, sterilization, and combustion tests.",
       "examples": [
         {
-          "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction [Advanced] to observe the correct outcome."
+          "title": "Air Control",
+          "content": "Adjusting the collar to control oxygen mix for a clean blue flame."
         },
         {
-          "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction [Advanced] in other contexts."
+          "title": "Safety Valve",
+          "content": "Quick shut-off gas lines in case of flame blow-back."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 3: Scientific Observation and Prediction [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Advanced Tool: PH Meter",
+      "text": "PH meters measure the hydrogen-ion activity in water-based solutions, indicating acidity.",
       "examples": [
         {
-          "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction [Advanced] to observe the correct outcome."
+          "title": "Probe Calibration",
+          "content": "Using buffer solutions (pH 4, 7, 10) to calibrate the probe."
         },
         {
-          "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction [Advanced] in other contexts."
+          "title": "Resolution",
+          "content": "Reads values with 0.01 precision units."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 3: Scientific Observation and Prediction [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Advanced Tool: Anemometer",
+      "text": "Anemometers measure wind speed and direction, converting wind pressure into mechanical rotation.",
       "examples": [
         {
-          "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction [Advanced] to observe the correct outcome."
+          "title": "Cups",
+          "content": "Three or four spinning cups capture wind velocity."
         },
         {
-          "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction [Advanced] in other contexts."
+          "title": "Digital Readout",
+          "content": "Displays speed in kilometers per hour or knots."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 3: Scientific Observation and Prediction [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Advanced Tool: Hydrometer",
+      "text": "Hydrometers measure the relative density (specific gravity) of liquids based on buoyancy concepts.",
       "examples": [
         {
-          "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction [Advanced] to observe the correct outcome."
+          "title": "Floatation",
+          "content": "Floats higher in dense liquids like saltwater, lower in pure water."
         },
         {
-          "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction [Advanced] in other contexts."
+          "title": "Scale",
+          "content": "Readings at the point where the liquid surface cuts the hydrometer stem."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 3: Scientific Observation and Prediction [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Advanced Tool: Barometer",
+      "text": "Barometers measure atmospheric pressure, which is critical for predicting incoming weather fronts.",
       "examples": [
         {
-          "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction [Advanced] to observe the correct outcome."
+          "title": "Mercury Barometer",
+          "content": "Measures the height of a mercury column supported by air pressure."
         },
         {
-          "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction [Advanced] in other contexts."
+          "title": "Aneroid Barometer",
+          "content": "Uses a small, flexible metal box called an aneroid cell."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 3: Scientific Observation and Prediction [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Advanced Tool: Spectrophotometer",
+      "text": "Spectrophotometers measure light absorption of a chemical solution across wavelengths.",
       "examples": [
         {
-          "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction [Advanced] to observe the correct outcome."
+          "title": "Cuvette",
+          "content": "A small square tube holding the liquid sample inside the machine."
         },
         {
-          "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction [Advanced] in other contexts."
+          "title": "Absorbance",
+          "content": "More concentrated solutions absorb more light."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 3: Scientific Observation and Prediction [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Advanced Tool: Sound Level Meter",
+      "text": "Sound level meters measure sound pressure levels in decibels (dB), tracking acoustic noise.",
       "examples": [
         {
-          "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction [Advanced] to observe the correct outcome."
+          "title": "Microphone",
+          "content": "Converts sound waves into electrical signals."
         },
         {
-          "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction [Advanced] in other contexts."
+          "title": "Decibel Scale",
+          "content": "A logarithmic scale representing sound intensity."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 3: Scientific Observation and Prediction [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Advanced Tool: Crucible & Tong",
+      "text": "Crucibles are ceramic pots that hold metals during high-temperature heating.",
       "examples": [
         {
-          "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction [Advanced] to observe the correct outcome."
+          "title": "Refractory Material",
+          "content": "Can withstand temperatures over 1000 degrees Celsius without melting."
         },
         {
-          "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction [Advanced] in other contexts."
+          "title": "Tong Safety",
+          "content": "Using metal pincers to transfer hot crucibles from furnace to cooling pad."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 3: Scientific Observation and Prediction [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Advanced Tool: Pipette & Micropipette",
+      "text": "Micropipettes transfer microscopic liquid volumes in microliters (uL) with absolute precision.",
       "examples": [
         {
-          "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction [Advanced] to observe the correct outcome."
+          "title": "Plunger Steps",
+          "content": "First stop to draw liquid; second stop to blow out remaining drops."
         },
         {
-          "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction [Advanced] in other contexts."
+          "title": "Disposable Tips",
+          "content": "Plastic tips changed between samples to prevent contamination."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 3: Scientific Observation and Prediction [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Advanced Tool: Stopwatch & Gate Timer",
+      "text": "Photocell gates measure speed accurately by recording the time an object blocks a light beam.",
       "examples": [
         {
-          "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Scientific Observation and Prediction [Advanced] to observe the correct outcome."
+          "title": "Photocell",
+          "content": "Light sensor that triggers the clock start/stop instantly."
         },
         {
-          "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Scientific Observation and Prediction [Advanced] in other contexts."
+          "title": "Precision",
+          "content": "Measures time intervals in milliseconds, removing human reaction delay."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 1",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Guided Practice: Calibration Protocols",
+      "text": "Understanding how to calibrate a digital scale and a pH probe.",
       "examples": [
         {
-          "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 3: Scientific Observation and Prediction [Advanced] to analyze or solve this sample scenario?"
+          "title": "Digital Scale",
+          "content": "Place a certified 100g weight and select calibrate mode."
         },
         {
-          "title": "Correct Solution 1",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "pH Calibration",
+          "content": "Dip probe in neutral buffer, select calibrate, then wash with distilled water."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 2",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Guided Practice: Reading Meniscus",
+      "text": "Reading volume markings on a graduated cylinder.",
       "examples": [
         {
-          "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 3: Scientific Observation and Prediction [Advanced] to analyze or solve this sample scenario?"
+          "title": "Concave Meniscus",
+          "content": "Water curves up the sides of glass; read the flat bottom of the curve."
         },
         {
-          "title": "Correct Solution 2",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Convex Meniscus",
+          "content": "Mercury curves down; read the top of the curve."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 3",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Guided Practice: Force Calibration",
+      "text": "Using a spring scale to measure mechanical drag.",
       "examples": [
         {
-          "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 3: Scientific Observation and Prediction [Advanced] to analyze or solve this sample scenario?"
+          "title": "Zeroing",
+          "content": "Hold scale vertically with nothing attached and adjust screw to 0."
         },
         {
-          "title": "Correct Solution 3",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Measurement",
+          "content": "Read force units in Newtons while dragging a block slowly."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 4",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Guided Practice: Microscopic View",
+      "text": "Calculating total magnification of a compound microscope.",
       "examples": [
         {
-          "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 3: Scientific Observation and Prediction [Advanced] to analyze or solve this sample scenario?"
+          "title": "Eyepiece Magnification",
+          "content": "Standard eyepiece is 10x magnification."
         },
         {
-          "title": "Correct Solution 4",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Objective Lens",
+          "content": "Using a 40x objective lens yields a total magnification of 400x."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 1",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Common Error: Parallax Error",
+      "text": "Parallax error happens when you read markings from an angle instead of eye level.",
       "examples": [
         {
-          "title": "Incorrect Approach 1",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+          "title": "Incorrect",
+          "content": "Looking down at a thermometer creates a false higher reading."
         },
         {
-          "title": "Correct Approach 1",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Correct",
+          "content": "Position your eyes exactly level with the fluid surface."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 2",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Common Error: Taring Neglect",
+      "text": "Neglecting to tare a scale results in the container's weight being added to the mass.",
       "examples": [
         {
-          "title": "Incorrect Approach 2",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+          "title": "Incorrect",
+          "content": "Weighing 10g of salt inside a 50g beaker and recording 60g."
         },
         {
-          "title": "Correct Approach 2",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Correct",
+          "content": "Placing the beaker, pressing 'Tare' (zeroing), then adding salt for a 10g reading."
         }
       ]
     },
     {
-      "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 3: Scientific Observation and Prediction [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "title": "Summary of Week 3 Advanced",
+      "text": "You completed Week 3 Advanced! You now understand precision calibration and advanced tools.",
       "examples": [
         {
-          "title": "Summary Points",
-          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+          "title": "Key Takeaway",
+          "content": "Advanced science requires reducing human and tool errors through systematic protocols."
         },
         {
-          "title": "Reflection",
-          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+          "title": "Next Step",
+          "content": "Advance to Week 4 to master science process skills like data classification and communication."
         }
       ]
     }
@@ -5319,316 +5151,198 @@ window.WEEK3_ADVANCED_DATA.science = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction [Advanced]?",
-      "options": [
-        "Core term: Prediction",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
+      "q": "Which tool is specifically designed to measure fluid volume with the highest precision?",
+      "options": ["Beaker", "Graduated cylinder", "Erlenmeyer flask", "Glass jar"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What do we call the curved surface of a liquid in a narrow glass tube?",
+      "options": ["Meniscus", "Curvature", "Buoyancy", "Viscosity"],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction [Advanced]?",
-      "options": [
-        "Core term: Materials",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
+      "q": "How do you calculate the total magnification of a microscope using a 10x eyepiece and a 40x objective lens?",
+      "options": ["10 + 40 = 50x", "40 - 10 = 30x", "10 x 40 = 400x", "40 / 10 = 4x"],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "What error occurs when a student reads the liquid scale from an angle rather than at eye level?",
+      "options": ["Meniscus error", "Parallax error", "Calibration error", "Zeroing error"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which function on a digital scale resets the reading to zero after placing a container?",
+      "options": ["Reset", "Calibrate", "Tare", "Hold"],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "What force unit is measured by a spring scale?",
+      "options": ["Grams", "Newtons", "Milliliters", "Degrees"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which tool is used to measure wind speed in meteorology?",
+      "options": ["Barometer", "Anemometer", "Thermometer", "Hydrometer"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "How does a hydrometer work to measure liquid density?",
+      "options": ["It measures the temperature of the liquid.", "It floats at different depths based on liquid buoyancy.", "It weighs the liquid on a scale.", "It counts the drops of liquid."],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which instrument is used to measure atmospheric pressure to predict weather?",
+      "options": ["Barometer", "Anemometer", "Thermometer", "Spectrophotometer"],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction [Advanced]?",
-      "options": [
-        "Core term: Body parts",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "What should you do to a digital scale before weighing a substance?",
+      "options": ["Wipe it with oil.", "Tare it to read exactly zero.", "Shake it gently.", "Unplug it first."],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction [Advanced]?",
-      "options": [
-        "Core term: Senses",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "What is the resolution of a ruler that shows markings for every millimeter?",
+      "options": ["1 cm", "1 mm", "0.1 mm", "0.01 mm"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Why does sound travel fastest through solid metals?",
+      "options": ["Metals are heavy.", "Molecules are packed tightly together, transferring waves rapidly.", "Metals are colder.", "Metals have magnetic force."],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which tool is used to transfer very small liquid volumes in microliters?",
+      "options": ["Glass dropper", "Micropipette", "Graduated cylinder", "Measuring cup"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What is the purpose of calibrating a pH meter with buffer solutions?",
+      "options": ["To clean the probe.", "To adjust the accuracy of the reading against known values.", "To charge the battery.", "To increase the viscosity of the water."],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 3: Scientific Observation and Prediction [Advanced] is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Scientific Observation and Prediction [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Scientific Observation and Prediction [Advanced] are not relevant to these cases."
-      ],
+      "q": "True or False: Mercury forms a convex meniscus, meaning the curve points upwards.",
+      "options": ["True", "False"],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction [Advanced]?",
-      "options": [
-        "Core term: Safety",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 3: Scientific Observation and Prediction [Advanced] is a key topic in the study of ___.",
-      "answer": "Science"
+      "q": "Which tool is used to measure the intensity of sound in decibels?",
+      "options": ["Anemometer", "Sound level meter", "Spectrophotometer", "Spring scale"],
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction [Advanced]?",
-      "options": [
-        "Core term: Liquids",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
+      "q": "What does a spectrophotometer measure?",
+      "options": ["Wind direction", "Light absorbance of a solution", "Mass of a solid", "Sound frequency"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Why are photocell gate timers preferred over hand-held stopwatches for speed tests?",
+      "options": ["They are cheaper.", "They eliminate human reaction time delays.", "They measure distance.", "They make the cars go faster."],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which tool would you use to measure the thickness of a leaf with sub-millimeter precision?",
+      "options": ["Vernier calipers", "Standard wooden ruler", "Measuring tape", "Spring scale"],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction [Advanced]?",
-      "options": [
-        "Core term: Gases",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "q": "What safety tool is used to carry a hot crucible from a Bunsen burner?",
+      "options": ["Rubber gloves", "Crucible tongs", "Tweezers", "Paper towel"],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 3: Scientific Observation and Prediction [Advanced] is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Scientific Observation and Prediction [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Scientific Observation and Prediction [Advanced] are not relevant to these cases."
-      ],
+      "q": "True or False: Insufficient calibration leads to systemic errors in experimental results.",
+      "options": ["True", "False"],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction [Advanced]?",
-      "options": [
-        "Core term: Prediction",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
+      "q": "What happens to the meniscus curve when reading water volume in a plastic cylinder?",
+      "options": ["It curves upwards.", "It is almost flat because water does not adhere strongly to plastic.", "It turns upside down.", "It disappears."],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What adjustment knob is used to sharpen focus under high microscope magnification?",
+      "options": ["Coarse adjustment knob", "Fine adjustment knob", "Stage clip screw", "Light source switch"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which tool measures specific gravity of liquids?",
+      "options": ["Hydrometer", "Barometer", "Anemometer", "Thermometer"],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction [Advanced]?",
-      "options": [
-        "Core term: Materials",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction [Advanced]?",
-      "options": [
-        "Core term: Body parts",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 3: Scientific Observation and Prediction [Advanced] is a key topic in the study of ___.",
-      "answer": "Science"
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 3: Scientific Observation and Prediction [Advanced] is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Scientific Observation and Prediction [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Scientific Observation and Prediction [Advanced] are not relevant to these cases."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction [Advanced]?",
-      "options": [
-        "Core term: Safety",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction [Advanced]?",
-      "options": [
-        "Core term: Solids",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction [Advanced]?",
-      "options": [
-        "Core term: Liquids",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction [Advanced]?",
-      "options": [
-        "Core term: Gases",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 3: Scientific Observation and Prediction [Advanced] is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Scientific Observation and Prediction [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Scientific Observation and Prediction [Advanced] are not relevant to these cases."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 3: Scientific Observation and Prediction [Advanced] is a key topic in the study of ___.",
-      "answer": "Science"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction [Advanced]?",
-      "options": [
-        "Core term: Materials",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction [Advanced]?",
-      "options": [
-        "Core term: Body parts",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 3: Scientific Observation and Prediction [Advanced]?",
-      "options": [
-        "Core term: Senses",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 3: Scientific Observation and Prediction [Advanced] is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Scientific Observation and Prediction [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Scientific Observation and Prediction [Advanced] are not relevant to these cases."
-      ],
+      "q": "What unit is displayed on a spring scale?",
+      "options": ["Newton", "Gram", "Liter", "Meter"],
       "answer": 0
     }
   ],
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 3: Scientific Observation and Prediction [Advanced], what is the first priority?",
-      "options": [
-        "Analyze key terms and variables",
-        "Guess the answer immediately",
-        "Skip the question",
-        "Use unrelated formulas"
-      ],
+      "q": "A student records the volume of water in a graduated cylinder as 45 mL. If they looked down at the cylinder from an angle, what is their error called, and is the actual volume higher or lower?",
+      "options": ["Parallax error; actual volume is lower than 45 mL.", "Parallax error; actual volume is higher than 45 mL.", "Zeroing error; actual volume is exactly 45 mL.", "Calibration error; actual volume is 45 mL."],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: Scientific Observation and Prediction [Advanced]?",
-      "options": [
-        "The primary variable: Observation",
-        "An external variable",
-        "No variable",
-        "All variables equally"
-      ],
+      "q": "You are using a Vernier caliper to measure the outer diameter of a marble. The main scale reads 1.4 cm, and the Vernier scale aligns at the 3rd mark. What is the diameter?",
+      "options": ["1.43 cm", "14.3 cm", "1.7 cm", "1.1 cm"],
       "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 3: Scientific Observation and Prediction [Advanced].",
-      "options": [
-        "Statement A: Proper methodology leads to a correct and verified solution.",
-        "Statement B: Rushing through calculations is safe and rarely causes errors."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: Scientific Observation and Prediction [Advanced]?",
-      "answer": "prediction"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 3: Scientific Observation and Prediction [Advanced]?",
-      "options": [
-        "Building logical reasoning and problem-solving skills",
-        "Forgetting previous lessons",
-        "Speeding up without accuracy",
-        "None of these"
-      ],
-      "answer": 0
+      "q": "Explain why a triple beam balance is calibrated to zero before usage.",
+      "options": ["To prevent rust from forming on the beams.", "To ensure the mass readings are accurate and not shifted by tare values.", "To make the pans balance faster.", "To prevent the weights from sliding."],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "If you need to measure exactly 2.5 microliters of a enzyme solution, which tool is required?",
+      "options": ["Glass dropper", "Micropipette", "10 mL graduated cylinder", "Measuring cup"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "A student weighs 5 grams of salt in a beaker without taring the scale. The beaker weighs 42 grams. What does the scale read?",
+      "options": ["5 grams", "42 grams", "47 grams", "37 grams"],
+      "answer": 2
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 3: Scientific Observation and Prediction [Advanced]",
-    "desc": "Perform a simple observation of Week 3: Scientific Observation and Prediction [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
-    "labels": [
-      "Accurate explanation of concept",
-      "Clarity and confidence in presentation",
-      "Neatness of written notes"
-    ]
+    "title": "Precision Calibration & Measurement Design",
+    "desc": "Write a step-by-step protocol for calibrating a digital kitchen scale at home. Explain what parallax error is and draw three diagrams: one showing a graduated cylinder read from too high, one read from too low, and one read correctly at eye level. Label the meniscus in each diagram.",
+    "labels": ["Wrote an accurate step-by-step digital scale calibration protocol", "Clearly explained parallax error and how to avoid it", "Drew three detailed, labeled diagrams comparing eye levels and meniscus reading"]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: Scientific Observation and Prediction [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: Scientific Observation and Prediction [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Prediction and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: Scientific Observation and Prediction [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of observation</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: Scientific Observation and Prediction [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Instrument Resolution</h3>\n                  <p class=\"ws-instruction\">State the resolution (smallest mark interval) and the target subject of each instrument.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Vernier Calipers vs. Standard Ruler: Which has higher resolution?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"><span class=\"ws-answer\">Vernier Calipers</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. What is the resolution of a micropipette measured in?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"><span class=\"ws-answer\">Microliters (uL)</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Advanced Calibration Protocol</h3>\n                  <p class=\"ws-instruction\">Complete the table cells explaining the calibration steps for each tool.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Tool Name</th>\n                        <th>Calibration Standard</th>\n                        <th>Action Required</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>pH Meter</td>\n                        <td>pH 7.0 buffer solution</td>\n                        <td><span class=\"ws-answer\">Submerge probe and press Calibrate</span></td>\n                      </tr>\n                      <tr>\n                        <td>Digital Scale</td>\n                        <td>100g calibration weight</td>\n                        <td><span class=\"ws-answer\">Zero scale, place weight, adjust</span></td>\n                      </tr>\n                      <tr>\n                        <td>Spring Scale</td>\n                        <td>Empty vertical hang</td>\n                        <td><span class=\"ws-answer\">Turn adjustment screw until line is at 0</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Calculating Microscope Magnification</h3>\n                  <p class=\"ws-instruction\">Solve the optical problems using microscope magnification formulas.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Eyepiece: <strong>15x</strong> | Objective: <strong>100x</strong> | Total Magnification:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">1500x</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Eyepiece: <strong>10x</strong> | Total: <strong>400x</strong> | Objective lens power:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">40x</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -5637,15 +5351,15 @@ window.WEEK3_ADVANCED_DATA.english = {
   "color": "#8b5cf6",
   "icon": "📖",
   "title": "English",
-  "subtitle": "Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]",
+  "subtitle": "Week 3: VCV Words, Verbs, Imperatives & Cause/Effect",
   "slides": [
     {
-      "title": "Introduction to Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]",
+      "title": "Introduction to Week 3: VCV Words, Verbs, Imperatives & Cause/Effect",
       "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in English.",
       "examples": [
         {
           "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] and apply them in daily situations."
+          "content": "Understand the core elements of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect and apply them in daily situations."
         },
         {
           "title": "Real-world Connection",
@@ -5669,11 +5383,11 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of English.",
+      "text": "The main focus of this week is Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. By looking closely at how these ideas work together, we can build a strong understanding of English.",
       "examples": [
         {
           "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] in simple activities."
+          "content": "How to identify, describe, and apply Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in simple activities."
         },
         {
           "title": "Why It Matters",
@@ -5683,211 +5397,211 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 1 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
         },
         {
           "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 2 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
         },
         {
           "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 3 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
         },
         {
           "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 4 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
         },
         {
           "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 5 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
         },
         {
           "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 6 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
         },
         {
           "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 7 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
         },
         {
           "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 8 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
         },
         {
           "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 9 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
         },
         {
           "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 10 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
         },
         {
           "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 11 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
         },
         {
           "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 12 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
         },
         {
           "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 13 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
         },
         {
           "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 14 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
         },
         {
           "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 15 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
         },
         {
           "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
         }
       ]
     },
@@ -5897,7 +5611,7 @@ window.WEEK3_ADVANCED_DATA.english = {
       "examples": [
         {
           "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 1",
@@ -5911,7 +5625,7 @@ window.WEEK3_ADVANCED_DATA.english = {
       "examples": [
         {
           "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 2",
@@ -5925,7 +5639,7 @@ window.WEEK3_ADVANCED_DATA.english = {
       "examples": [
         {
           "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 3",
@@ -5939,7 +5653,7 @@ window.WEEK3_ADVANCED_DATA.english = {
       "examples": [
         {
           "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 4",
@@ -5977,7 +5691,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "text": "Congratulations! You have completed all the lessons on Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. You are now ready to test your knowledge with the weekly quiz and challenges.",
       "examples": [
         {
           "title": "Summary Points",
@@ -5993,7 +5707,7 @@ window.WEEK3_ADVANCED_DATA.english = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]?",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
       "options": [
         "Core term: Vowels",
         "None of these",
@@ -6004,7 +5718,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]?",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
       "options": [
         "Core term: Consonants",
         "None of these",
@@ -6015,7 +5729,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]?",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
       "options": [
         "Core term: Words",
         "None of these",
@@ -6026,7 +5740,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]?",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
       "options": [
         "Core term: Nouns",
         "None of these",
@@ -6037,16 +5751,16 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] is correct?",
+      "q": "Statement Check (Question 5): Which statement about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is correct?",
       "options": [
-        "Statement A: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]?",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
       "options": [
         "Core term: Pronouns",
         "None of these",
@@ -6057,12 +5771,12 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 7): Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is a key topic in the study of ___.",
       "answer": "English"
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]?",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
       "options": [
         "Core term: Sentences",
         "None of these",
@@ -6073,7 +5787,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]?",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
       "options": [
         "Core term: Synonyms",
         "None of these",
@@ -6084,16 +5798,16 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] is correct?",
+      "q": "Statement Check (Question 10): Which statement about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is correct?",
       "options": [
-        "Statement A: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]?",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
       "options": [
         "Core term: Vowels",
         "None of these",
@@ -6104,7 +5818,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]?",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
       "options": [
         "Core term: Consonants",
         "None of these",
@@ -6115,7 +5829,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]?",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
       "options": [
         "Core term: Words",
         "None of these",
@@ -6126,21 +5840,21 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 14): Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is a key topic in the study of ___.",
       "answer": "English"
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] is correct?",
+      "q": "Statement Check (Question 15): Which statement about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is correct?",
       "options": [
-        "Statement A: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]?",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
       "options": [
         "Core term: Pronouns",
         "None of these",
@@ -6151,7 +5865,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]?",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
       "options": [
         "Core term: Adjectives",
         "None of these",
@@ -6162,7 +5876,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]?",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
       "options": [
         "Core term: Sentences",
         "None of these",
@@ -6173,7 +5887,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]?",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
       "options": [
         "Core term: Synonyms",
         "None of these",
@@ -6184,21 +5898,21 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] is correct?",
+      "q": "Statement Check (Question 20): Which statement about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is correct?",
       "options": [
-        "Statement A: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 21): Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is a key topic in the study of ___.",
       "answer": "English"
     },
     {
       "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]?",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
       "options": [
         "Core term: Consonants",
         "None of these",
@@ -6209,7 +5923,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]?",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
       "options": [
         "Core term: Words",
         "None of these",
@@ -6220,7 +5934,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]?",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
       "options": [
         "Core term: Nouns",
         "None of these",
@@ -6231,10 +5945,10 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] is correct?",
+      "q": "Statement Check (Question 25): Which statement about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is correct?",
       "options": [
-        "Statement A: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -6242,7 +5956,7 @@ window.WEEK3_ADVANCED_DATA.english = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced], what is the first priority?",
+      "q": "Challenge 1: In a complex situation involving Week 3: VCV Words, Verbs, Imperatives & Cause/Effect, what is the first priority?",
       "options": [
         "Analyze key terms and variables",
         "Guess the answer immediately",
@@ -6253,7 +5967,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]?",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
       "options": [
         "The primary variable: Alphabet",
         "An external variable",
@@ -6264,7 +5978,7 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced].",
+      "q": "Challenge 3: Compare two statements about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect.",
       "options": [
         "Statement A: Proper methodology leads to a correct and verified solution.",
         "Statement B: Rushing through calculations is safe and rarely causes errors."
@@ -6273,12 +5987,12 @@ window.WEEK3_ADVANCED_DATA.english = {
     },
     {
       "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]?",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
       "answer": "vowels"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]?",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
       "options": [
         "Building logical reasoning and problem-solving skills",
         "Forgetting previous lessons",
@@ -6290,8 +6004,8 @@ window.WEEK3_ADVANCED_DATA.english = {
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]",
-    "desc": "Perform a simple observation of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Interactive Task: Week 3: VCV Words, Verbs, Imperatives & Cause/Effect",
+    "desc": "Perform a simple observation of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
       "Accurate explanation of concept",
       "Clarity and confidence in presentation",
@@ -6300,9 +6014,9 @@ window.WEEK3_ADVANCED_DATA.english = {
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Vowels and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alphabet</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: VCV Words, Verbs, Imperatives & Cause/Effect [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: VCV Words, Verbs, Imperatives & Cause/Effect</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: VCV Words, Verbs, Imperatives & Cause/Effect and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Vowels and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alphabet</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: VCV Words, Verbs, Imperatives & Cause/Effect.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -6311,15 +6025,15 @@ window.WEEK3_ADVANCED_DATA.filipino = {
   "color": "#ec4899",
   "icon": "🗣️",
   "title": "Filipino",
-  "subtitle": "Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]",
+  "subtitle": "Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento",
   "slides": [
     {
-      "title": "Introduction to Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]",
+      "title": "Introduction to Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento",
       "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Filipino.",
       "examples": [
         {
           "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] and apply them in daily situations."
+          "content": "Understand the core elements of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento and apply them in daily situations."
         },
         {
           "title": "Real-world Connection",
@@ -6343,11 +6057,11 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of Filipino.",
+      "text": "The main focus of this week is Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. By looking closely at how these ideas work together, we can build a strong understanding of Filipino.",
       "examples": [
         {
           "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] in simple activities."
+          "content": "How to identify, describe, and apply Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in simple activities."
         },
         {
           "title": "Why It Matters",
@@ -6357,211 +6071,211 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 1 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
         },
         {
           "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 2 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
         },
         {
           "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 3 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
         },
         {
           "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 4 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
         },
         {
           "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 5 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
         },
         {
           "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 6 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
         },
         {
           "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 7 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
         },
         {
           "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 8 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
         },
         {
           "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 9 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
         },
         {
           "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 10 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
         },
         {
           "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 11 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
         },
         {
           "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 12 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
         },
         {
           "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 13 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
         },
         {
           "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 14 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
         },
         {
           "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 15 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
         },
         {
           "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
         }
       ]
     },
@@ -6571,7 +6285,7 @@ window.WEEK3_ADVANCED_DATA.filipino = {
       "examples": [
         {
           "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 1",
@@ -6585,7 +6299,7 @@ window.WEEK3_ADVANCED_DATA.filipino = {
       "examples": [
         {
           "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 2",
@@ -6599,7 +6313,7 @@ window.WEEK3_ADVANCED_DATA.filipino = {
       "examples": [
         {
           "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 3",
@@ -6613,7 +6327,7 @@ window.WEEK3_ADVANCED_DATA.filipino = {
       "examples": [
         {
           "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 4",
@@ -6651,7 +6365,7 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "text": "Congratulations! You have completed all the lessons on Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. You are now ready to test your knowledge with the weekly quiz and challenges.",
       "examples": [
         {
           "title": "Summary Points",
@@ -6667,7 +6381,7 @@ window.WEEK3_ADVANCED_DATA.filipino = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]?",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
       "options": [
         "Core term: Patinig",
         "None of these",
@@ -6678,7 +6392,7 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]?",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
       "options": [
         "Core term: Katinig",
         "None of these",
@@ -6689,7 +6403,7 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]?",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
       "options": [
         "Core term: Pangngalan",
         "None of these",
@@ -6700,7 +6414,7 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]?",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
       "options": [
         "Core term: Pantangi",
         "None of these",
@@ -6711,16 +6425,16 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] is correct?",
+      "q": "Statement Check (Question 5): Which statement about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is correct?",
       "options": [
-        "Statement A: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]?",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
       "options": [
         "Core term: Panghalip",
         "None of these",
@@ -6731,12 +6445,12 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 7): Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is a key topic in the study of ___.",
       "answer": "Filipino"
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]?",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
       "options": [
         "Core term: Pang-uri",
         "None of these",
@@ -6747,7 +6461,7 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]?",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
       "options": [
         "Core term: Pang-abay",
         "None of these",
@@ -6758,16 +6472,16 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] is correct?",
+      "q": "Statement Check (Question 10): Which statement about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is correct?",
       "options": [
-        "Statement A: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]?",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
       "options": [
         "Core term: Patinig",
         "None of these",
@@ -6778,7 +6492,7 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]?",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
       "options": [
         "Core term: Katinig",
         "None of these",
@@ -6789,7 +6503,7 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]?",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
       "options": [
         "Core term: Pangngalan",
         "None of these",
@@ -6800,21 +6514,21 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 14): Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is a key topic in the study of ___.",
       "answer": "Filipino"
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] is correct?",
+      "q": "Statement Check (Question 15): Which statement about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is correct?",
       "options": [
-        "Statement A: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]?",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
       "options": [
         "Core term: Panghalip",
         "None of these",
@@ -6825,7 +6539,7 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]?",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
       "options": [
         "Core term: Pandiwa",
         "None of these",
@@ -6836,7 +6550,7 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]?",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
       "options": [
         "Core term: Pang-uri",
         "None of these",
@@ -6847,7 +6561,7 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]?",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
       "options": [
         "Core term: Pang-abay",
         "None of these",
@@ -6858,21 +6572,21 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] is correct?",
+      "q": "Statement Check (Question 20): Which statement about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is correct?",
       "options": [
-        "Statement A: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 21): Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is a key topic in the study of ___.",
       "answer": "Filipino"
     },
     {
       "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]?",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
       "options": [
         "Core term: Katinig",
         "None of these",
@@ -6883,7 +6597,7 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]?",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
       "options": [
         "Core term: Pangngalan",
         "None of these",
@@ -6894,7 +6608,7 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]?",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
       "options": [
         "Core term: Pantangi",
         "None of these",
@@ -6905,10 +6619,10 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] is correct?",
+      "q": "Statement Check (Question 25): Which statement about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is correct?",
       "options": [
-        "Statement A: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -6916,7 +6630,7 @@ window.WEEK3_ADVANCED_DATA.filipino = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced], what is the first priority?",
+      "q": "Challenge 1: In a complex situation involving Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento, what is the first priority?",
       "options": [
         "Analyze key terms and variables",
         "Guess the answer immediately",
@@ -6927,7 +6641,7 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]?",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
       "options": [
         "The primary variable: Alpabeto",
         "An external variable",
@@ -6938,7 +6652,7 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced].",
+      "q": "Challenge 3: Compare two statements about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento.",
       "options": [
         "Statement A: Proper methodology leads to a correct and verified solution.",
         "Statement B: Rushing through calculations is safe and rarely causes errors."
@@ -6947,12 +6661,12 @@ window.WEEK3_ADVANCED_DATA.filipino = {
     },
     {
       "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]?",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
       "answer": "patinig"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]?",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
       "options": [
         "Building logical reasoning and problem-solving skills",
         "Forgetting previous lessons",
@@ -6964,8 +6678,8 @@ window.WEEK3_ADVANCED_DATA.filipino = {
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]",
-    "desc": "Perform a simple observation of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Interactive Task: Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento",
+    "desc": "Perform a simple observation of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
       "Accurate explanation of concept",
       "Clarity and confidence in presentation",
@@ -6974,9 +6688,9 @@ window.WEEK3_ADVANCED_DATA.filipino = {
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Patinig and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alpabeto</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Patinig and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alpabeto</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -6985,15 +6699,15 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
   "color": "#f59e0b",
   "icon": "🏝️",
   "title": "Makabansa",
-  "subtitle": "Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]",
+  "subtitle": "Week 3: Mga Makasaysayang Estruktura at Landmarks",
   "slides": [
     {
-      "title": "Introduction to Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]",
+      "title": "Introduction to Week 3: Mga Makasaysayang Estruktura at Landmarks",
       "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Makabansa.",
       "examples": [
         {
           "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] and apply them in daily situations."
+          "content": "Understand the core elements of Week 3: Mga Makasaysayang Estruktura at Landmarks and apply them in daily situations."
         },
         {
           "title": "Real-world Connection",
@@ -7017,11 +6731,11 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of Makabansa.",
+      "text": "The main focus of this week is Week 3: Mga Makasaysayang Estruktura at Landmarks. By looking closely at how these ideas work together, we can build a strong understanding of Makabansa.",
       "examples": [
         {
           "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] in simple activities."
+          "content": "How to identify, describe, and apply Week 3: Mga Makasaysayang Estruktura at Landmarks in simple activities."
         },
         {
           "title": "Why It Matters",
@@ -7031,211 +6745,211 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 1 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
         },
         {
           "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 2 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
         },
         {
           "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 3 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
         },
         {
           "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 4 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
         },
         {
           "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 5 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
         },
         {
           "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 6 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
         },
         {
           "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 7 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
         },
         {
           "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 8 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
         },
         {
           "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 9 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
         },
         {
           "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 10 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
         },
         {
           "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 11 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
         },
         {
           "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 12 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
         },
         {
           "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 13 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
         },
         {
           "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 14 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
         },
         {
           "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 15 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
         },
         {
           "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
         }
       ]
     },
@@ -7245,7 +6959,7 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
       "examples": [
         {
           "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 3: Mga Makasaysayang Estruktura at Landmarks to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 1",
@@ -7259,7 +6973,7 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
       "examples": [
         {
           "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 3: Mga Makasaysayang Estruktura at Landmarks to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 2",
@@ -7273,7 +6987,7 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
       "examples": [
         {
           "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 3: Mga Makasaysayang Estruktura at Landmarks to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 3",
@@ -7287,7 +7001,7 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
       "examples": [
         {
           "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 3: Mga Makasaysayang Estruktura at Landmarks to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 4",
@@ -7325,7 +7039,7 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "text": "Congratulations! You have completed all the lessons on Week 3: Mga Makasaysayang Estruktura at Landmarks. You are now ready to test your knowledge with the weekly quiz and challenges.",
       "examples": [
         {
           "title": "Summary Points",
@@ -7341,7 +7055,7 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]?",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
       "options": [
         "Core term: Pamilya",
         "None of these",
@@ -7352,7 +7066,7 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]?",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
       "options": [
         "Core term: Tungkulin",
         "None of these",
@@ -7363,7 +7077,7 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]?",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
       "options": [
         "Core term: Komunidad",
         "None of these",
@@ -7374,7 +7088,7 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]?",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
       "options": [
         "Core term: Kasaysayan",
         "None of these",
@@ -7385,16 +7099,16 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] is correct?",
+      "q": "Statement Check (Question 5): Which statement about Week 3: Mga Makasaysayang Estruktura at Landmarks is correct?",
       "options": [
-        "Statement A: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]?",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
       "options": [
         "Core term: Landmarks",
         "None of these",
@@ -7405,12 +7119,12 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 7): Week 3: Mga Makasaysayang Estruktura at Landmarks is a key topic in the study of ___.",
       "answer": "Makabansa"
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]?",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
       "options": [
         "Core term: Tradisyon",
         "None of these",
@@ -7421,7 +7135,7 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]?",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
       "options": [
         "Core term: Lokasyon",
         "None of these",
@@ -7432,16 +7146,16 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] is correct?",
+      "q": "Statement Check (Question 10): Which statement about Week 3: Mga Makasaysayang Estruktura at Landmarks is correct?",
       "options": [
-        "Statement A: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]?",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
       "options": [
         "Core term: Pamilya",
         "None of these",
@@ -7452,7 +7166,7 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]?",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
       "options": [
         "Core term: Tungkulin",
         "None of these",
@@ -7463,7 +7177,7 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]?",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
       "options": [
         "Core term: Komunidad",
         "None of these",
@@ -7474,21 +7188,21 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 14): Week 3: Mga Makasaysayang Estruktura at Landmarks is a key topic in the study of ___.",
       "answer": "Makabansa"
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] is correct?",
+      "q": "Statement Check (Question 15): Which statement about Week 3: Mga Makasaysayang Estruktura at Landmarks is correct?",
       "options": [
-        "Statement A: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]?",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
       "options": [
         "Core term: Landmarks",
         "None of these",
@@ -7499,7 +7213,7 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]?",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
       "options": [
         "Core term: Timeline",
         "None of these",
@@ -7510,7 +7224,7 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]?",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
       "options": [
         "Core term: Tradisyon",
         "None of these",
@@ -7521,7 +7235,7 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]?",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
       "options": [
         "Core term: Lokasyon",
         "None of these",
@@ -7532,21 +7246,21 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] is correct?",
+      "q": "Statement Check (Question 20): Which statement about Week 3: Mga Makasaysayang Estruktura at Landmarks is correct?",
       "options": [
-        "Statement A: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 21): Week 3: Mga Makasaysayang Estruktura at Landmarks is a key topic in the study of ___.",
       "answer": "Makabansa"
     },
     {
       "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]?",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
       "options": [
         "Core term: Tungkulin",
         "None of these",
@@ -7557,7 +7271,7 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]?",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
       "options": [
         "Core term: Komunidad",
         "None of these",
@@ -7568,7 +7282,7 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]?",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
       "options": [
         "Core term: Kasaysayan",
         "None of these",
@@ -7579,10 +7293,10 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] is correct?",
+      "q": "Statement Check (Question 25): Which statement about Week 3: Mga Makasaysayang Estruktura at Landmarks is correct?",
       "options": [
-        "Statement A: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -7590,7 +7304,7 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced], what is the first priority?",
+      "q": "Challenge 1: In a complex situation involving Week 3: Mga Makasaysayang Estruktura at Landmarks, what is the first priority?",
       "options": [
         "Analyze key terms and variables",
         "Guess the answer immediately",
@@ -7601,7 +7315,7 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]?",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: Mga Makasaysayang Estruktura at Landmarks?",
       "options": [
         "The primary variable: Sarili",
         "An external variable",
@@ -7612,7 +7326,7 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced].",
+      "q": "Challenge 3: Compare two statements about Week 3: Mga Makasaysayang Estruktura at Landmarks.",
       "options": [
         "Statement A: Proper methodology leads to a correct and verified solution.",
         "Statement B: Rushing through calculations is safe and rarely causes errors."
@@ -7621,12 +7335,12 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
     },
     {
       "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]?",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: Mga Makasaysayang Estruktura at Landmarks?",
       "answer": "pamilya"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]?",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 3: Mga Makasaysayang Estruktura at Landmarks?",
       "options": [
         "Building logical reasoning and problem-solving skills",
         "Forgetting previous lessons",
@@ -7638,8 +7352,8 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]",
-    "desc": "Perform a simple observation of Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Interactive Task: Week 3: Mga Makasaysayang Estruktura at Landmarks",
+    "desc": "Perform a simple observation of Week 3: Mga Makasaysayang Estruktura at Landmarks at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
       "Accurate explanation of concept",
       "Clarity and confidence in presentation",
@@ -7648,9 +7362,9 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Pamilya and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of sarili</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: Mga Makasaysayang Estruktura at Landmarks [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: Mga Makasaysayang Estruktura at Landmarks</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: Mga Makasaysayang Estruktura at Landmarks and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Pamilya and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: Mga Makasaysayang Estruktura at Landmarks.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of sarili</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: Mga Makasaysayang Estruktura at Landmarks.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -7659,15 +7373,15 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
   "color": "#06b6d4",
   "icon": "🧘‍♂️",
   "title": "GMRC",
-  "subtitle": "Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]",
+  "subtitle": "Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok",
   "slides": [
     {
-      "title": "Introduction to Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]",
+      "title": "Introduction to Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok",
       "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in GMRC.",
       "examples": [
         {
           "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] and apply them in daily situations."
+          "content": "Understand the core elements of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok and apply them in daily situations."
         },
         {
           "title": "Real-world Connection",
@@ -7691,11 +7405,11 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]. By looking closely at how these ideas work together, we can build a strong understanding of GMRC.",
+      "text": "The main focus of this week is Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. By looking closely at how these ideas work together, we can build a strong understanding of GMRC.",
       "examples": [
         {
           "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] in simple activities."
+          "content": "How to identify, describe, and apply Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in simple activities."
         },
         {
           "title": "Why It Matters",
@@ -7705,211 +7419,211 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 1 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
         },
         {
           "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 2 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
         },
         {
           "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 3 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
         },
         {
           "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 4 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
         },
         {
           "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 5 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
         },
         {
           "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 6 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
         },
         {
           "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 7 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
         },
         {
           "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 8 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
         },
         {
           "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 9 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
         },
         {
           "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 10 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
         },
         {
           "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 11 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
         },
         {
           "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 12 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
         },
         {
           "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 13 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
         },
         {
           "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 14 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
         },
         {
           "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
         }
       ]
     },
     {
       "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "text": "Let's explore Case 15 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
       "examples": [
         {
           "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] to observe the correct outcome."
+          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
         },
         {
           "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] in other contexts."
+          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
         }
       ]
     },
@@ -7919,7 +7633,7 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
       "examples": [
         {
           "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 1",
@@ -7933,7 +7647,7 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
       "examples": [
         {
           "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 2",
@@ -7947,7 +7661,7 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
       "examples": [
         {
           "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 3",
@@ -7961,7 +7675,7 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
       "examples": [
         {
           "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] to analyze or solve this sample scenario?"
+          "content": "How would you apply the rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to analyze or solve this sample scenario?"
         },
         {
           "title": "Correct Solution 4",
@@ -7999,7 +7713,7 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "text": "Congratulations! You have completed all the lessons on Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. You are now ready to test your knowledge with the weekly quiz and challenges.",
       "examples": [
         {
           "title": "Summary Points",
@@ -8015,7 +7729,7 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]?",
+      "q": "Review Question 1: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
       "options": [
         "Core term: Kalinisan",
         "None of these",
@@ -8026,7 +7740,7 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]?",
+      "q": "Review Question 2: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
       "options": [
         "Core term: Disiplina",
         "None of these",
@@ -8037,7 +7751,7 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]?",
+      "q": "Review Question 3: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
       "options": [
         "Core term: Paggalang",
         "None of these",
@@ -8048,7 +7762,7 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]?",
+      "q": "Review Question 4: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
       "options": [
         "Core term: Katapatan",
         "None of these",
@@ -8059,16 +7773,16 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] is correct?",
+      "q": "Statement Check (Question 5): Which statement about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is correct?",
       "options": [
-        "Statement A: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]?",
+      "q": "Review Question 6: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
       "options": [
         "Core term: Pagtitipid",
         "None of these",
@@ -8079,12 +7793,12 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 7): Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is a key topic in the study of ___.",
       "answer": "GMRC"
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]?",
+      "q": "Review Question 8: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
       "options": [
         "Core term: Bayanihan",
         "None of these",
@@ -8095,7 +7809,7 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]?",
+      "q": "Review Question 9: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
       "options": [
         "Core term: Pag-iimpok",
         "None of these",
@@ -8106,16 +7820,16 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] is correct?",
+      "q": "Statement Check (Question 10): Which statement about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is correct?",
       "options": [
-        "Statement A: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]?",
+      "q": "Review Question 11: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
       "options": [
         "Core term: Kalinisan",
         "None of these",
@@ -8126,7 +7840,7 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]?",
+      "q": "Review Question 12: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
       "options": [
         "Core term: Disiplina",
         "None of these",
@@ -8137,7 +7851,7 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]?",
+      "q": "Review Question 13: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
       "options": [
         "Core term: Paggalang",
         "None of these",
@@ -8148,21 +7862,21 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 14): Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is a key topic in the study of ___.",
       "answer": "GMRC"
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] is correct?",
+      "q": "Statement Check (Question 15): Which statement about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is correct?",
       "options": [
-        "Statement A: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]?",
+      "q": "Review Question 16: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
       "options": [
         "Core term: Pagtitipid",
         "None of these",
@@ -8173,7 +7887,7 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]?",
+      "q": "Review Question 17: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
       "options": [
         "Core term: Responsable",
         "None of these",
@@ -8184,7 +7898,7 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]?",
+      "q": "Review Question 18: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
       "options": [
         "Core term: Bayanihan",
         "None of these",
@@ -8195,7 +7909,7 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]?",
+      "q": "Review Question 19: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
       "options": [
         "Core term: Pag-iimpok",
         "None of these",
@@ -8206,21 +7920,21 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] is correct?",
+      "q": "Statement Check (Question 20): Which statement about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is correct?",
       "options": [
-        "Statement A: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are not relevant to these cases."
       ],
       "answer": 0
     },
     {
       "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] is a key topic in the study of ___.",
+      "q": "Fill in the blank (Question 21): Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is a key topic in the study of ___.",
       "answer": "GMRC"
     },
     {
       "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]?",
+      "q": "Review Question 22: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
       "options": [
         "Core term: Disiplina",
         "None of these",
@@ -8231,7 +7945,7 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]?",
+      "q": "Review Question 23: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
       "options": [
         "Core term: Paggalang",
         "None of these",
@@ -8242,7 +7956,7 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]?",
+      "q": "Review Question 24: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
       "options": [
         "Core term: Katapatan",
         "None of these",
@@ -8253,10 +7967,10 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] is correct?",
+      "q": "Statement Check (Question 25): Which statement about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is correct?",
       "options": [
-        "Statement A: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] are not relevant to these cases."
+        "Statement A: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are applied to solve these cases.",
+        "Statement B: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are not relevant to these cases."
       ],
       "answer": 0
     }
@@ -8264,7 +7978,7 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced], what is the first priority?",
+      "q": "Challenge 1: In a complex situation involving Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok, what is the first priority?",
       "options": [
         "Analyze key terms and variables",
         "Guess the answer immediately",
@@ -8275,7 +7989,7 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]?",
+      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
       "options": [
         "The primary variable: Pagmamahal",
         "An external variable",
@@ -8286,7 +8000,7 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced].",
+      "q": "Challenge 3: Compare two statements about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok.",
       "options": [
         "Statement A: Proper methodology leads to a correct and verified solution.",
         "Statement B: Rushing through calculations is safe and rarely causes errors."
@@ -8295,12 +8009,12 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
     },
     {
       "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]?",
+      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
       "answer": "kalinisan"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]?",
+      "q": "Challenge 5: What is the secondary implication of mastering Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
       "options": [
         "Building logical reasoning and problem-solving skills",
         "Forgetting previous lessons",
@@ -8312,8 +8026,8 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]",
-    "desc": "Perform a simple observation of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Interactive Task: Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok",
+    "desc": "Perform a simple observation of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok at home. Explain your findings to your parents or classmates in 3 clear sentences.",
     "labels": [
       "Accurate explanation of concept",
       "Clarity and confidence in presentation",
@@ -8322,9 +8036,9 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced]</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced] and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Kalinisan and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced].</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of pagmamahal</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok [Advanced].</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Kalinisan and observation.</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of pagmamahal</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
