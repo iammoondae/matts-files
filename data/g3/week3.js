@@ -1219,355 +1219,355 @@ window.WEEK3_DATA.english = {
   "color": "#8b5cf6",
   "icon": "📖",
   "title": "English",
-  "subtitle": "Week 3: VCV Words, Verbs, Imperatives & Cause/Effect",
+  "subtitle": "Week 3: VCV Words & Imperative Sentences",
   "slides": [
     {
-      "title": "Introduction to Week 3: VCV Words, Verbs, Imperatives & Cause/Effect",
-      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in English.",
+      "title": "Welcome to English Week 3",
+      "text": "In this week's module, we will explore key language concepts including VCV Words, Imperative Sentences, and Cause and Effect.",
       "examples": [
         {
           "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect and apply them in daily situations."
+          "content": "Understand and apply VCV Words and Imperative Sentences in reading and writing."
         },
         {
-          "title": "Real-world Connection",
-          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+          "title": "Context",
+          "content": "This module is designed in the context of Grade 3 standards."
         }
       ]
     },
     {
-      "title": "Core Vocabulary & Terms",
-      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "title": "Core Vocabulary Words",
+      "text": "Let's look at the core words for this week's phonics focus (VCV Words): baby, paper, music, silent, tiger.",
       "examples": [
         {
-          "title": "Term 1: Alphabet",
-          "content": "A foundational concept in English that helps us categorize and understand details."
+          "title": "Word 1: Baby",
+          "content": "A phonics word matching the VCV Words pattern."
         },
         {
-          "title": "Term 2: Vowels",
-          "content": "An active process or skill used to analyze situations and solve problems."
+          "title": "Word 2: Paper",
+          "content": "Another example showing correct letter sound blends."
         }
       ]
     },
     {
-      "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. By looking closely at how these ideas work together, we can build a strong understanding of English.",
+      "title": "Phonics: VCV Words",
+      "text": "VCV stands for Vowel-Consonant-Vowel. These words follow a pattern where a single consonant is between two vowels, causing the first vowel to make its long sound, like 'baby', 'music', or 'paper'.",
       "examples": [
         {
-          "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in simple activities."
+          "title": "Examples",
+          "content": "baby, paper, music, silent, tiger, spider, hotel, tulip, open, basic"
         },
         {
-          "title": "Why It Matters",
-          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+          "title": "Reading Rule",
+          "content": "Blend the letter sounds together smoothly when pronouncing the words."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Grammar: Imperative Sentences",
+      "text": "Imperative sentences give a command, order, or make a request. They start with a capital letter and end with a period. Request sentences often use polite words like 'please'.",
       "examples": [
         {
-          "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Example Sentence",
+          "content": "Please write your name."
         },
         {
-          "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Tip",
+          "content": "Notice how the pronoun helps show position or ownership."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Sentence Structure: Punctuation & Capitalization in Imperatives",
+      "text": "Imperative sentences start with a capital letter and end with a period. If they express strong commands, they can sometimes end with an exclamation mark. Using correct punctuation helps readers understand.",
       "examples": [
         {
-          "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Example",
+          "content": "Listen quietly to the story."
         },
         {
-          "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Rule",
+          "content": "Always verify that your sentence begins with a capital letter and ends with the correct mark."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Comprehension: Cause and Effect",
+      "text": "Cause and effect tells us why something happened (cause) and what happened as a result (effect). Identifying these helps us understand relationships in stories.",
       "examples": [
         {
-          "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Focus Area",
+          "content": "Analyze text elements under Cause and Effect"
         },
         {
-          "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Strategy",
+          "content": "Look for key clues, character actions, and connector words in the story."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Vocabulary & Theme: Roots of High-Frequency Words",
+      "text": "Many words have root words. Identifying the root word helps us decode and understand the meaning of longer words (e.g., 'playing' comes from root 'play').",
       "examples": [
         {
-          "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Focus",
+          "content": "Applying high-frequency words in Roots of High-Frequency Words themes."
         },
         {
-          "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Application",
+          "content": "Write short paragraphs using these words to express ideas about your local environment."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 1",
+      "text": "Let's review Case 1 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences).",
       "examples": [
         {
-          "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Practice Example 1",
+          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
         },
         {
-          "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Analysis 1",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 2",
+      "text": "Let's review Case 2 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences).",
       "examples": [
         {
-          "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Practice Example 2",
+          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
         },
         {
-          "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Analysis 2",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 3",
+      "text": "Let's review Case 3 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences).",
       "examples": [
         {
-          "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Practice Example 3",
+          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
         },
         {
-          "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Analysis 3",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 4",
+      "text": "Let's review Case 4 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences).",
       "examples": [
         {
-          "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Practice Example 4",
+          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
         },
         {
-          "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Analysis 4",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 5",
+      "text": "Let's review Case 5 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences).",
       "examples": [
         {
-          "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Practice Example 5",
+          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
         },
         {
-          "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Analysis 5",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 6",
+      "text": "Let's review Case 6 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences).",
       "examples": [
         {
-          "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Practice Example 6",
+          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
         },
         {
-          "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Analysis 6",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 7",
+      "text": "Let's review Case 7 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences).",
       "examples": [
         {
-          "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Practice Example 7",
+          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
         },
         {
-          "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Analysis 7",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 8",
+      "text": "Let's review Case 8 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences).",
       "examples": [
         {
-          "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Practice Example 8",
+          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
         },
         {
-          "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Analysis 8",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Comprehension Case 1",
+      "text": "Analyzing story events and character traits (Comprehension Case 1).",
       "examples": [
         {
-          "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Scenario Clue",
+          "content": "How do characters behave when facing a problem in the story?"
         },
         {
-          "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Logical Conclusion",
+          "content": "Evaluate character choices and find the solution based on text evidence."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Comprehension Case 2",
+      "text": "Analyzing story events and character traits (Comprehension Case 2).",
       "examples": [
         {
-          "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Scenario Clue",
+          "content": "How do characters behave when facing a problem in the story?"
         },
         {
-          "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Logical Conclusion",
+          "content": "Evaluate character choices and find the solution based on text evidence."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Comprehension Case 3",
+      "text": "Analyzing story events and character traits (Comprehension Case 3).",
       "examples": [
         {
-          "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Scenario Clue",
+          "content": "How do characters behave when facing a problem in the story?"
         },
         {
-          "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Logical Conclusion",
+          "content": "Evaluate character choices and find the solution based on text evidence."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 1",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Comprehension Case 4",
+      "text": "Analyzing story events and character traits (Comprehension Case 4).",
       "examples": [
         {
-          "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to analyze or solve this sample scenario?"
+          "title": "Scenario Clue",
+          "content": "How do characters behave when facing a problem in the story?"
         },
         {
-          "title": "Correct Solution 1",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Logical Conclusion",
+          "content": "Evaluate character choices and find the solution based on text evidence."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 2",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Comprehension Case 5",
+      "text": "Analyzing story events and character traits (Comprehension Case 5).",
       "examples": [
         {
-          "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to analyze or solve this sample scenario?"
+          "title": "Scenario Clue",
+          "content": "How do characters behave when facing a problem in the story?"
         },
         {
-          "title": "Correct Solution 2",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Logical Conclusion",
+          "content": "Evaluate character choices and find the solution based on text evidence."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 3",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Concept Review 1",
+      "text": "Let's review the main rules of Week 3 English. Pay close attention to vocabulary use and spelling patterns.",
       "examples": [
         {
-          "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to analyze or solve this sample scenario?"
+          "title": "Review Tip",
+          "content": "Read the words aloud to check their phonics sounds."
         },
         {
-          "title": "Correct Solution 3",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Sentence Check",
+          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 4",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Practice Task 2",
+      "text": "Try applying the rules of Week 3 English in a new sentence. Practice writing it down on paper.",
       "examples": [
         {
-          "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to analyze or solve this sample scenario?"
+          "title": "Task",
+          "content": "Write a short sentence using one of the weekly vocabulary words."
         },
         {
-          "title": "Correct Solution 4",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Self-Check",
+          "content": "Identify the subject and predicate of your sentence."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 1",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Concept Review 3",
+      "text": "Let's review the main rules of Week 3 English. Pay close attention to vocabulary use and spelling patterns.",
       "examples": [
         {
-          "title": "Incorrect Approach 1",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+          "title": "Review Tip",
+          "content": "Read the words aloud to check their phonics sounds."
         },
         {
-          "title": "Correct Approach 1",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Sentence Check",
+          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 2",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Practice Task 4",
+      "text": "Try applying the rules of Week 3 English in a new sentence. Practice writing it down on paper.",
       "examples": [
         {
-          "title": "Incorrect Approach 2",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+          "title": "Task",
+          "content": "Write a short sentence using one of the weekly vocabulary words."
         },
         {
-          "title": "Correct Approach 2",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Self-Check",
+          "content": "Identify the subject and predicate of your sentence."
         }
       ]
     },
     {
-      "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "title": "Summary & Reflection",
+      "text": "You have completed all slides for this lesson on Week 3 English. Take a moment to review the key concepts, spelling, and sentence structures we covered.",
       "examples": [
         {
-          "title": "Summary Points",
-          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+          "title": "Key Takeaway",
+          "content": "Mastering Week 3 English builds a strong foundation for reading and writing."
         },
         {
-          "title": "Reflection",
-          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+          "title": "Next Step",
+          "content": "You are now ready to try the weekly quiz and challenge questions."
         }
       ]
     }
@@ -1575,248 +1575,276 @@ window.WEEK3_DATA.english = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 1)",
       "options": [
-        "Core term: Vowels",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "baby",
+        "frog",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 2)",
       "options": [
-        "Core term: Consonants",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "paper",
+        "baby",
+        "hand",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 3)",
       "options": [
-        "Core term: Words",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "music",
+        "baby",
+        "paper",
+        "tent"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 4)",
       "options": [
-        "Core term: Nouns",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are not relevant to these cases."
+        "silent",
+        "baby",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 5)",
       "options": [
-        "Core term: Pronouns",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is a key topic in the study of ___.",
-      "answer": "English"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
-      "options": [
-        "Core term: Sentences",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "tiger",
+        "baby",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 6)",
       "options": [
-        "Core term: Synonyms",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are not relevant to these cases."
+        "spider",
+        "baby",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 7)",
       "options": [
-        "Core term: Vowels",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "hotel",
+        "baby",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 8)",
       "options": [
-        "Core term: Consonants",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "tulip",
+        "baby",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'Please write your name.' (Question 9)",
       "options": [
-        "Core term: Words",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is a key topic in the study of ___.",
-      "answer": "English"
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are not relevant to these cases."
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'Listen quietly to the story.' (Question 10)",
       "options": [
-        "Core term: Pronouns",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'Sit down in your chair.' (Question 11)",
       "options": [
-        "Core term: Adjectives",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'Help your friend wash the cup.' (Question 12)",
       "options": [
-        "Core term: Sentences",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'Please write your name.' (Question 13)",
       "options": [
-        "Core term: Synonyms",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are not relevant to these cases."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is a key topic in the study of ___.",
-      "answer": "English"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
-      "options": [
-        "Core term: Consonants",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'Listen quietly to the story.' (Question 14)",
       "options": [
-        "Core term: Words",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'Sit down in your chair.' (Question 15)",
       "options": [
-        "Core term: Nouns",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
-      "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is correct?",
+      "type": "choice",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'Help your friend wash the cup.' (Question 16)",
       "options": [
-        "Statement A: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are not relevant to these cases."
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 17)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 18)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 19)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 20)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 21)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 22)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 23)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 24)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What is the main learning goal of Week 3 English? (Question 25)",
+      "options": [
+        "Develop automatic decoding of VCV Words and application of Imperative Sentences.",
+        "Draw a picture only.",
+        "Memorize all words.",
+        "Write a long novel."
       ],
       "answer": 0
     }
@@ -1824,67 +1852,74 @@ window.WEEK3_DATA.english = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 3: VCV Words, Verbs, Imperatives & Cause/Effect, what is the first priority?",
+      "q": "Challenge Question 1: Solve the complex sentence puzzle using Imperative Sentences and VCV Words patterns.",
       "options": [
-        "Analyze key terms and variables",
-        "Guess the answer immediately",
-        "Skip the question",
-        "Use unrelated formulas"
+        "Analyze clues and find the correct logical answer.",
+        "Guess option A",
+        "Guess option B",
+        "Guess option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Challenge Question 2: Solve the complex sentence puzzle using Imperative Sentences and VCV Words patterns.",
       "options": [
-        "The primary variable: Alphabet",
-        "An external variable",
-        "No variable",
-        "All variables equally"
+        "Analyze clues and find the correct logical answer.",
+        "Guess option A",
+        "Guess option B",
+        "Guess option C"
       ],
       "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect.",
-      "options": [
-        "Statement A: Proper methodology leads to a correct and verified solution.",
-        "Statement B: Rushing through calculations is safe and rarely causes errors."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
-      "answer": "vowels"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Challenge Question 3: Solve the complex sentence puzzle using Imperative Sentences and VCV Words patterns.",
       "options": [
-        "Building logical reasoning and problem-solving skills",
-        "Forgetting previous lessons",
-        "Speeding up without accuracy",
-        "None of these"
+        "Analyze clues and find the correct logical answer.",
+        "Guess option A",
+        "Guess option B",
+        "Guess option C"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge Question 4: Solve the complex sentence puzzle using Imperative Sentences and VCV Words patterns.",
+      "options": [
+        "Analyze clues and find the correct logical answer.",
+        "Guess option A",
+        "Guess option B",
+        "Guess option C"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge Question 5: Solve the complex sentence puzzle using Imperative Sentences and VCV Words patterns.",
+      "options": [
+        "Analyze clues and find the correct logical answer.",
+        "Guess option A",
+        "Guess option B",
+        "Guess option C"
       ],
       "answer": 0
     }
   ],
   "performance": {
-    "type": "performance",
-    "title": "Interactive Task: Week 3: VCV Words, Verbs, Imperatives & Cause/Effect",
-    "desc": "Perform a simple observation of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Performance Task: VCV Words & Imperative Sentences",
+    "desc": "Write a short paragraph (3-4 sentences) using at least three of this week's phonics words (baby, paper, music, silent, tiger) and demonstrative/possessive pronouns. Draw a matching picture and present it to your parent.",
     "labels": [
-      "Accurate explanation of concept",
-      "Clarity and confidence in presentation",
-      "Neatness of written notes"
+      "Correct use of phonics words",
+      "Correct sentence structure and capitalization",
+      "Clear drawing and explanation"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: VCV Words, Verbs, Imperatives & Cause/Effect</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: VCV Words, Verbs, Imperatives & Cause/Effect and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Vowels and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alphabet</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: VCV Words, Verbs, Imperatives & Cause/Effect.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n              <h3>Exercise 1: VCV Words Phonics Identification</h3>\n              <p class=\"ws-instruction\">Identify the correct spelling of the words matching the phonics rule.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Fill in the missing letters: <strong>ba__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">baby</span></div>\n              </div>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">2. Fill in the missing letters: <strong>pa__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">paper</span></div>\n              </div>\n            </div>",
+      "<div class=\"ws-page-content\">\n              <h3>Exercise 2: Imperative Sentences Grammar Check</h3>\n              <p class=\"ws-instruction\">Choose and write the correct pronoun to complete the sentence.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Sentence: <em>Please write your name.</em></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 100%;\"><span class=\"ws-answer\">Please</span></div>\n              </div>\n            </div>",
+      "<div class=\"ws-page-content\">\n              <h3>Exercise 3: Cause and Effect Story Sequencing</h3>\n              <p class=\"ws-instruction\">Write the correct order of the story elements (1, 2, 3).</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">Describe the setting and the main problem of the character:</div>\n                <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">Identify where and when the story happens, and what the character wants to solve.</span></div>\n              </div>\n            </div>"
     ]
   }
 };
@@ -5351,355 +5386,355 @@ window.WEEK3_ADVANCED_DATA.english = {
   "color": "#8b5cf6",
   "icon": "📖",
   "title": "English",
-  "subtitle": "Week 3: VCV Words, Verbs, Imperatives & Cause/Effect",
+  "subtitle": "Week 3: VCV Words & Imperative Sentences",
   "slides": [
     {
-      "title": "Introduction to Week 3: VCV Words, Verbs, Imperatives & Cause/Effect",
-      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in English.",
+      "title": "Welcome to English Week 3",
+      "text": "In this week's module, we will explore key language concepts including VCV Words, Imperative Sentences, and Cause and Effect.",
       "examples": [
         {
           "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect and apply them in daily situations."
+          "content": "Understand and apply VCV Words and Imperative Sentences in reading and writing."
         },
         {
-          "title": "Real-world Connection",
-          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+          "title": "Context",
+          "content": "This module is designed in the context of Grade 4-5 standards."
         }
       ]
     },
     {
-      "title": "Core Vocabulary & Terms",
-      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "title": "Core Vocabulary Words",
+      "text": "Let's look at the core words for this week's phonics focus (VCV Words): baby, paper, music, silent, tiger.",
       "examples": [
         {
-          "title": "Term 1: Alphabet",
-          "content": "A foundational concept in English that helps us categorize and understand details."
+          "title": "Word 1: Baby",
+          "content": "A phonics word matching the VCV Words pattern."
         },
         {
-          "title": "Term 2: Vowels",
-          "content": "An active process or skill used to analyze situations and solve problems."
+          "title": "Word 2: Paper",
+          "content": "Another example showing correct letter sound blends."
         }
       ]
     },
     {
-      "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. By looking closely at how these ideas work together, we can build a strong understanding of English.",
+      "title": "Phonics: VCV Words",
+      "text": "VCV stands for Vowel-Consonant-Vowel. These words follow a pattern where a single consonant is between two vowels, causing the first vowel to make its long sound, like 'baby', 'music', or 'paper'.",
       "examples": [
         {
-          "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in simple activities."
+          "title": "Examples",
+          "content": "baby, paper, music, silent, tiger, spider, hotel, tulip, open, basic"
         },
         {
-          "title": "Why It Matters",
-          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+          "title": "Reading Rule",
+          "content": "Blend the letter sounds together smoothly when pronouncing the words."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Grammar: Imperative Sentences",
+      "text": "Imperative sentences give a command, order, or make a request. They start with a capital letter and end with a period. Request sentences often use polite words like 'please'.",
       "examples": [
         {
-          "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Example Sentence",
+          "content": "Please write your name."
         },
         {
-          "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Tip",
+          "content": "Notice how the pronoun helps show position or ownership."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Sentence Structure: Punctuation & Capitalization in Imperatives",
+      "text": "Imperative sentences start with a capital letter and end with a period. If they express strong commands, they can sometimes end with an exclamation mark. Using correct punctuation helps readers understand.",
       "examples": [
         {
-          "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Example",
+          "content": "Listen quietly to the story."
         },
         {
-          "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Rule",
+          "content": "Always verify that your sentence begins with a capital letter and ends with the correct mark."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Comprehension: Cause and Effect",
+      "text": "Cause and effect tells us why something happened (cause) and what happened as a result (effect). Identifying these helps us understand relationships in stories.",
       "examples": [
         {
-          "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Focus Area",
+          "content": "Analyze text elements under Cause and Effect"
         },
         {
-          "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Strategy",
+          "content": "Look for key clues, character actions, and connector words in the story."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Vocabulary & Theme: Roots of High-Frequency Words",
+      "text": "Many words have root words. Identifying the root word helps us decode and understand the meaning of longer words (e.g., 'playing' comes from root 'play').",
       "examples": [
         {
-          "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Focus",
+          "content": "Applying high-frequency words in Roots of High-Frequency Words themes."
         },
         {
-          "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Application",
+          "content": "Write short paragraphs using these words to express ideas about your local environment."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 1",
+      "text": "Let's review Case 1 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Practice Example 1",
+          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
         },
         {
-          "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Analysis 1",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 2",
+      "text": "Let's review Case 2 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Practice Example 2",
+          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
         },
         {
-          "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Analysis 2",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 3",
+      "text": "Let's review Case 3 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Practice Example 3",
+          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
         },
         {
-          "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Analysis 3",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 4",
+      "text": "Let's review Case 4 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Practice Example 4",
+          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
         },
         {
-          "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Analysis 4",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 5",
+      "text": "Let's review Case 5 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Practice Example 5",
+          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
         },
         {
-          "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Analysis 5",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 6",
+      "text": "Let's review Case 6 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Practice Example 6",
+          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
         },
         {
-          "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Analysis 6",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 7",
+      "text": "Let's review Case 7 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Practice Example 7",
+          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
         },
         {
-          "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Analysis 7",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 8",
+      "text": "Let's review Case 8 combining our phonics focus (VCV Words) and grammar rules (Imperative Sentences). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Practice Example 8",
+          "content": "Read the CVCC/CCVC words in the context of a Punctuation & Capitalization in Imperatives."
         },
         {
-          "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Analysis 8",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Comprehension Case 1",
+      "text": "Analyzing story events and character traits (Comprehension Case 1). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Scenario Clue",
+          "content": "How do characters behave when facing a problem in the story?"
         },
         {
-          "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Logical Conclusion",
+          "content": "Evaluate character choices and find the solution based on text evidence."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Comprehension Case 2",
+      "text": "Analyzing story events and character traits (Comprehension Case 2). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Scenario Clue",
+          "content": "How do characters behave when facing a problem in the story?"
         },
         {
-          "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Logical Conclusion",
+          "content": "Evaluate character choices and find the solution based on text evidence."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Comprehension Case 3",
+      "text": "Analyzing story events and character traits (Comprehension Case 3). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to observe the correct outcome."
+          "title": "Scenario Clue",
+          "content": "How do characters behave when facing a problem in the story?"
         },
         {
-          "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: VCV Words, Verbs, Imperatives & Cause/Effect in other contexts."
+          "title": "Logical Conclusion",
+          "content": "Evaluate character choices and find the solution based on text evidence."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 1",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Comprehension Case 4",
+      "text": "Analyzing story events and character traits (Comprehension Case 4). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to analyze or solve this sample scenario?"
+          "title": "Scenario Clue",
+          "content": "How do characters behave when facing a problem in the story?"
         },
         {
-          "title": "Correct Solution 1",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Logical Conclusion",
+          "content": "Evaluate character choices and find the solution based on text evidence."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 2",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Comprehension Case 5",
+      "text": "Analyzing story events and character traits (Comprehension Case 5). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to analyze or solve this sample scenario?"
+          "title": "Scenario Clue",
+          "content": "How do characters behave when facing a problem in the story?"
         },
         {
-          "title": "Correct Solution 2",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Logical Conclusion",
+          "content": "Evaluate character choices and find the solution based on text evidence."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 3",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Concept Review 1",
+      "text": "Let's review the main rules of Week 3 English. Pay close attention to vocabulary use and spelling patterns.",
       "examples": [
         {
-          "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to analyze or solve this sample scenario?"
+          "title": "Review Tip",
+          "content": "Read the words aloud to check their phonics sounds."
         },
         {
-          "title": "Correct Solution 3",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Sentence Check",
+          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 4",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Practice Task 2",
+      "text": "Try applying the rules of Week 3 English in a new sentence. Practice writing it down on paper.",
       "examples": [
         {
-          "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect to analyze or solve this sample scenario?"
+          "title": "Task",
+          "content": "Write a short sentence using one of the weekly vocabulary words."
         },
         {
-          "title": "Correct Solution 4",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Self-Check",
+          "content": "Identify the subject and predicate of your sentence."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 1",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Concept Review 3",
+      "text": "Let's review the main rules of Week 3 English. Pay close attention to vocabulary use and spelling patterns.",
       "examples": [
         {
-          "title": "Incorrect Approach 1",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+          "title": "Review Tip",
+          "content": "Read the words aloud to check their phonics sounds."
         },
         {
-          "title": "Correct Approach 1",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Sentence Check",
+          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 2",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Practice Task 4",
+      "text": "Try applying the rules of Week 3 English in a new sentence. Practice writing it down on paper.",
       "examples": [
         {
-          "title": "Incorrect Approach 2",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+          "title": "Task",
+          "content": "Write a short sentence using one of the weekly vocabulary words."
         },
         {
-          "title": "Correct Approach 2",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Self-Check",
+          "content": "Identify the subject and predicate of your sentence."
         }
       ]
     },
     {
-      "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 3: VCV Words, Verbs, Imperatives & Cause/Effect. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "title": "Summary & Reflection",
+      "text": "You have completed all slides for this lesson on Week 3 English. Take a moment to review the key concepts, spelling, and sentence structures we covered.",
       "examples": [
         {
-          "title": "Summary Points",
-          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+          "title": "Key Takeaway",
+          "content": "Mastering Week 3 English builds a strong foundation for reading and writing."
         },
         {
-          "title": "Reflection",
-          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+          "title": "Next Step",
+          "content": "You are now ready to try the weekly quiz and challenge questions."
         }
       ]
     }
@@ -5707,248 +5742,276 @@ window.WEEK3_ADVANCED_DATA.english = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 1) (Complex/Deeper)",
       "options": [
-        "Core term: Vowels",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "baby",
+        "frog",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 2) (Complex/Deeper)",
       "options": [
-        "Core term: Consonants",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "paper",
+        "baby",
+        "hand",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 3) (Complex/Deeper)",
       "options": [
-        "Core term: Words",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "music",
+        "baby",
+        "paper",
+        "tent"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 4) (Complex/Deeper)",
       "options": [
-        "Core term: Nouns",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are not relevant to these cases."
+        "silent",
+        "baby",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 5) (Complex/Deeper)",
       "options": [
-        "Core term: Pronouns",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is a key topic in the study of ___.",
-      "answer": "English"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
-      "options": [
-        "Core term: Sentences",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "tiger",
+        "baby",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 6) (Complex/Deeper)",
       "options": [
-        "Core term: Synonyms",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are not relevant to these cases."
+        "spider",
+        "baby",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 7) (Complex/Deeper)",
       "options": [
-        "Core term: Vowels",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "hotel",
+        "baby",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Which word matches the spelling and sound pattern of VCV Words? (Question 8) (Complex/Deeper)",
       "options": [
-        "Core term: Consonants",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "tulip",
+        "baby",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'Please write your name.' (Question 9) (Complex/Deeper)",
       "options": [
-        "Core term: Words",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is a key topic in the study of ___.",
-      "answer": "English"
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are not relevant to these cases."
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'Listen quietly to the story.' (Question 10) (Complex/Deeper)",
       "options": [
-        "Core term: Pronouns",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'Sit down in your chair.' (Question 11) (Complex/Deeper)",
       "options": [
-        "Core term: Adjectives",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'Help your friend wash the cup.' (Question 12) (Complex/Deeper)",
       "options": [
-        "Core term: Sentences",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'Please write your name.' (Question 13) (Complex/Deeper)",
       "options": [
-        "Core term: Synonyms",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are not relevant to these cases."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is a key topic in the study of ___.",
-      "answer": "English"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
-      "options": [
-        "Core term: Consonants",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'Listen quietly to the story.' (Question 14) (Complex/Deeper)",
       "options": [
-        "Core term: Words",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'Sit down in your chair.' (Question 15) (Complex/Deeper)",
       "options": [
-        "Core term: Nouns",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
-      "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect is correct?",
+      "type": "choice",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'Help your friend wash the cup.' (Question 16) (Complex/Deeper)",
       "options": [
-        "Statement A: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect are not relevant to these cases."
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 17) (Complex/Deeper)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 18) (Complex/Deeper)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 19) (Complex/Deeper)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 20) (Complex/Deeper)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 21) (Complex/Deeper)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 22) (Complex/Deeper)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 23) (Complex/Deeper)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Cause and Effect, what is the correct reading strategy or detail? (Question 24) (Complex/Deeper)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What is the main learning goal of Week 3 English? (Question 25) (Complex/Deeper)",
+      "options": [
+        "Develop automatic decoding of VCV Words and application of Imperative Sentences.",
+        "Draw a picture only.",
+        "Memorize all words.",
+        "Write a long novel."
       ],
       "answer": 0
     }
@@ -5956,67 +6019,74 @@ window.WEEK3_ADVANCED_DATA.english = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 3: VCV Words, Verbs, Imperatives & Cause/Effect, what is the first priority?",
+      "q": "Challenge Question 1: Solve the complex sentence puzzle using Imperative Sentences and VCV Words patterns. (Complex/Deeper)",
       "options": [
-        "Analyze key terms and variables",
-        "Guess the answer immediately",
-        "Skip the question",
-        "Use unrelated formulas"
+        "Analyze clues and find the correct logical answer.",
+        "Guess option A",
+        "Guess option B",
+        "Guess option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Challenge Question 2: Solve the complex sentence puzzle using Imperative Sentences and VCV Words patterns. (Complex/Deeper)",
       "options": [
-        "The primary variable: Alphabet",
-        "An external variable",
-        "No variable",
-        "All variables equally"
+        "Analyze clues and find the correct logical answer.",
+        "Guess option A",
+        "Guess option B",
+        "Guess option C"
       ],
       "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 3: VCV Words, Verbs, Imperatives & Cause/Effect.",
-      "options": [
-        "Statement A: Proper methodology leads to a correct and verified solution.",
-        "Statement B: Rushing through calculations is safe and rarely causes errors."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
-      "answer": "vowels"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 3: VCV Words, Verbs, Imperatives & Cause/Effect?",
+      "q": "Challenge Question 3: Solve the complex sentence puzzle using Imperative Sentences and VCV Words patterns. (Complex/Deeper)",
       "options": [
-        "Building logical reasoning and problem-solving skills",
-        "Forgetting previous lessons",
-        "Speeding up without accuracy",
-        "None of these"
+        "Analyze clues and find the correct logical answer.",
+        "Guess option A",
+        "Guess option B",
+        "Guess option C"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge Question 4: Solve the complex sentence puzzle using Imperative Sentences and VCV Words patterns. (Complex/Deeper)",
+      "options": [
+        "Analyze clues and find the correct logical answer.",
+        "Guess option A",
+        "Guess option B",
+        "Guess option C"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge Question 5: Solve the complex sentence puzzle using Imperative Sentences and VCV Words patterns. (Complex/Deeper)",
+      "options": [
+        "Analyze clues and find the correct logical answer.",
+        "Guess option A",
+        "Guess option B",
+        "Guess option C"
       ],
       "answer": 0
     }
   ],
   "performance": {
-    "type": "performance",
-    "title": "Interactive Task: Week 3: VCV Words, Verbs, Imperatives & Cause/Effect",
-    "desc": "Perform a simple observation of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Performance Task: VCV Words & Imperative Sentences",
+    "desc": "Write a short paragraph (3-4 sentences) using at least three of this week's phonics words (baby, paper, music, silent, tiger) and demonstrative/possessive pronouns. Draw a matching picture and present it to your parent.",
     "labels": [
-      "Accurate explanation of concept",
-      "Clarity and confidence in presentation",
-      "Neatness of written notes"
+      "Correct use of phonics words",
+      "Correct sentence structure and capitalization",
+      "Clear drawing and explanation"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: VCV Words, Verbs, Imperatives & Cause/Effect</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: VCV Words, Verbs, Imperatives & Cause/Effect and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Vowels and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: VCV Words, Verbs, Imperatives & Cause/Effect.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alphabet</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: VCV Words, Verbs, Imperatives & Cause/Effect.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n              <h3>Exercise 1: VCV Words Phonics Identification</h3>\n              <p class=\"ws-instruction\">Identify the correct spelling of the words matching the phonics rule.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Fill in the missing letters: <strong>ba__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">baby</span></div>\n              </div>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">2. Fill in the missing letters: <strong>pa__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">paper</span></div>\n              </div>\n            </div>",
+      "<div class=\"ws-page-content\">\n              <h3>Exercise 2: Imperative Sentences Grammar Check</h3>\n              <p class=\"ws-instruction\">Choose and write the correct pronoun to complete the sentence.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Sentence: <em>Please write your name.</em></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 100%;\"><span class=\"ws-answer\">Please</span></div>\n              </div>\n            </div>",
+      "<div class=\"ws-page-content\">\n              <h3>Exercise 3: Cause and Effect Story Sequencing</h3>\n              <p class=\"ws-instruction\">Write the correct order of the story elements (1, 2, 3).</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">Describe the setting and the main problem of the character:</div>\n                <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">Identify where and when the story happens, and what the character wants to solve.</span></div>\n              </div>\n            </div>"
     ]
   }
 };

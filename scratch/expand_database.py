@@ -682,8 +682,7 @@ KEY_TERMS = {
 def generate_curriculum_data(grade, week, subject, is_advanced=False):
     info = SUBJECT_INFO[subject]
     subtitle = SUBTITLES[grade][week][subject]
-    if is_advanced:
-        subtitle += " [Advanced]"
+    # No Advanced suffix added to subtitle
         
     terms = KEY_TERMS[subject]
     
@@ -1053,6 +1052,20 @@ def get_original_g3_math(week_num, is_advanced=False):
             return generate_curriculum_data('g3', week_num, 'math', is_advanced)
     return None
 
+def clean_advanced_remarks(obj):
+    if isinstance(obj, str):
+        # Strip trailing [Advanced] or similar tags
+        cleaned = obj
+        cleaned = re.sub(r'\s*\[Advanced\]', '', cleaned)
+        cleaned = re.sub(r'\s*\(Advanced\)', '', cleaned)
+        return cleaned
+    elif isinstance(obj, dict):
+        return {k: clean_advanced_remarks(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [clean_advanced_remarks(x) for x in obj]
+    else:
+        return obj
+
 # ==============================================================================
 # MAIN REGENERATOR ENGINE
 # ==============================================================================
@@ -1068,13 +1081,22 @@ def regenerate_all_databases():
             # 1. Core data object
             core_data = {}
             for sub in SUBJECT_INFO.keys():
-                if grade == 'g3' and week in [1, 2, 3] and sub == 'math':
-                    # Preserve original core math content
-                    orig_math = get_original_g3_math(week, is_advanced=False)
-                    if orig_math:
-                        core_data[sub] = orig_math
-                    else:
-                        core_data[sub] = generate_curriculum_data(grade, week, sub, is_advanced=False)
+                if grade == 'g3' and week in [1, 2, 3, 4] and sub == 'math':
+                    # Load and map the new Grade 3 math core data
+                    from generate_g3_term1_weeks import MATH_CORE_DATA
+                    raw_math = MATH_CORE_DATA[week]
+                    core_math = {
+                        "title": raw_math["title"],
+                        "subtitle": raw_math["subtitle"],
+                        "color": raw_math["color"],
+                        "icon": raw_math["icon"],
+                        "slides": pad_slides(raw_math["base_slides"], raw_math["title"], raw_math["subtitle"], 25),
+                        "standard": raw_math["standard_questions"],
+                        "challenge": raw_math["challenge_questions"],
+                        "performance": raw_math["performance"],
+                        "worksheet": raw_math["worksheet"]
+                    }
+                    core_data[sub] = core_math
                 else:
                     core_data[sub] = generate_curriculum_data(grade, week, sub, is_advanced=False)
                     
@@ -1195,17 +1217,36 @@ def regenerate_all_databases():
             if grade == 'g3':
                 # Grade 3 uses separate advanced subjects
                 for sub in SUBJECT_INFO.keys():
-                    if week in [1, 2, 3] and sub == 'math':
-                        orig_math_adv = get_original_g3_math(week, is_advanced=True)
-                        if orig_math_adv:
-                            advanced_data[sub] = orig_math_adv
-                        else:
-                            advanced_data[sub] = generate_curriculum_data(grade, week, sub, is_advanced=True)
+                    if week in [1, 2, 3, 4] and sub == 'math':
+                        from generate_g3_term1_weeks import MATH_ADV_DATA
+                        raw_math_adv = MATH_ADV_DATA[week]
+                        adv_math = {
+                            "title": raw_math_adv["title"],
+                            "subtitle": raw_math_adv["subtitle"],
+                            "color": raw_math_adv["color"],
+                            "icon": raw_math_adv["icon"],
+                            "slides": pad_slides(raw_math_adv["base_slides"], raw_math_adv["title"], raw_math_adv["subtitle"], 25),
+                            "standard": raw_math_adv["standard_questions"],
+                            "challenge": raw_math_adv["challenge_questions"],
+                            "performance": raw_math_adv["performance"],
+                            "worksheet": raw_math_adv["worksheet"]
+                        }
+                        advanced_data[sub] = adv_math
                     else:
                         advanced_data[sub] = generate_curriculum_data(grade, week, sub, is_advanced=True)
                 advanced_data['reading'] = reading_dict
             else:
                 advanced_data = core_data
+                
+            # Clean advanced remarks (such as trailing [Advanced] tags)
+            reading_dict = clean_advanced_remarks(reading_dict)
+            core_data['reading'] = reading_dict
+            if grade == 'g3':
+                advanced_data['reading'] = reading_dict
+            
+            core_data = clean_advanced_remarks(core_data)
+            if grade == 'g3':
+                advanced_data = clean_advanced_remarks(advanced_data)
                 
             # 3. Format output Javascript
             js_content = []

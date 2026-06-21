@@ -1219,355 +1219,355 @@ window.WEEK4_DATA.english = {
   "color": "#8b5cf6",
   "icon": "📖",
   "title": "English",
-  "subtitle": "Week 4: Adjectives, Synonyms, Antonyms & Predictions",
+  "subtitle": "Week 4: CVCC, CCVC, & VCV Review & Adjectives (Describing Words)",
   "slides": [
     {
-      "title": "Introduction to Week 4: Adjectives, Synonyms, Antonyms & Predictions",
-      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in English.",
+      "title": "Welcome to English Week 4",
+      "text": "In this week's module, we will explore key language concepts including CVCC, CCVC, & VCV Review, Adjectives (Describing Words), and Predicting Possible Endings.",
       "examples": [
         {
           "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 4: Adjectives, Synonyms, Antonyms & Predictions and apply them in daily situations."
+          "content": "Understand and apply CVCC, CCVC, & VCV Review and Adjectives (Describing Words) in reading and writing."
         },
         {
-          "title": "Real-world Connection",
-          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+          "title": "Context",
+          "content": "This module is designed in the context of Grade 3 standards."
         }
       ]
     },
     {
-      "title": "Core Vocabulary & Terms",
-      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "title": "Core Vocabulary Words",
+      "text": "Let's look at the core words for this week's phonics focus (CVCC, CCVC, & VCV Review): hand, tent, frog, drum, baby.",
       "examples": [
         {
-          "title": "Term 1: Alphabet",
-          "content": "A foundational concept in English that helps us categorize and understand details."
+          "title": "Word 1: Hand",
+          "content": "A phonics word matching the CVCC, CCVC, & VCV Review pattern."
         },
         {
-          "title": "Term 2: Vowels",
-          "content": "An active process or skill used to analyze situations and solve problems."
+          "title": "Word 2: Tent",
+          "content": "Another example showing correct letter sound blends."
         }
       ]
     },
     {
-      "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 4: Adjectives, Synonyms, Antonyms & Predictions. By looking closely at how these ideas work together, we can build a strong understanding of English.",
+      "title": "Phonics: CVCC, CCVC, & VCV Review",
+      "text": "Reviewing CVCC (hand), CCVC (frog), and VCV (baby) patterns helps us read and spell words automatically and accurately.",
       "examples": [
         {
-          "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 4: Adjectives, Synonyms, Antonyms & Predictions in simple activities."
+          "title": "Examples",
+          "content": "hand, tent, frog, drum, baby, paper, milk, plug, music, silent"
         },
         {
-          "title": "Why It Matters",
-          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+          "title": "Reading Rule",
+          "content": "Blend the letter sounds together smoothly when pronouncing the words."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Grammar: Adjectives (Describing Words)",
+      "text": "Adjectives are words that describe nouns (persons, places, things, animals, or events). They tell us about size, color, shape, number, or feelings.",
       "examples": [
         {
-          "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Example Sentence",
+          "content": "The blue sky."
         },
         {
-          "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Tip",
+          "content": "Notice how the pronoun helps show position or ownership."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Sentence Structure: Sentence Types Review",
+      "text": "We review telling (declarative), asking (interrogative), and commanding/requesting (imperative) sentences. Each has its own punctuation mark and purpose.",
       "examples": [
         {
-          "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Example",
+          "content": "A small frog."
         },
         {
-          "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Rule",
+          "content": "Always verify that your sentence begins with a capital letter and ends with the correct mark."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Comprehension: Predicting Possible Endings",
+      "text": "Predicting is making a guess about what will happen next in a story. We use clues from the story and our own experiences to make logical predictions.",
       "examples": [
         {
-          "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Focus Area",
+          "content": "Analyze text elements under Predicting Possible Endings"
         },
         {
-          "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Strategy",
+          "content": "Look for key clues, character actions, and connector words in the story."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Vocabulary & Theme: Synonyms & Antonyms",
+      "text": "Synonyms are words with similar meanings (e.g., big/large). Antonyms are words with opposite meanings (e.g., hot/cold).",
       "examples": [
         {
-          "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Focus",
+          "content": "Applying high-frequency words in Synonyms & Antonyms themes."
         },
         {
-          "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Application",
+          "content": "Write short paragraphs using these words to express ideas about your local environment."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 1",
+      "text": "Let's review Case 1 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)).",
       "examples": [
         {
-          "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Practice Example 1",
+          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
         },
         {
-          "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Analysis 1",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 2",
+      "text": "Let's review Case 2 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)).",
       "examples": [
         {
-          "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Practice Example 2",
+          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
         },
         {
-          "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Analysis 2",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 3",
+      "text": "Let's review Case 3 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)).",
       "examples": [
         {
-          "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Practice Example 3",
+          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
         },
         {
-          "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Analysis 3",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 4",
+      "text": "Let's review Case 4 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)).",
       "examples": [
         {
-          "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Practice Example 4",
+          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
         },
         {
-          "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Analysis 4",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 5",
+      "text": "Let's review Case 5 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)).",
       "examples": [
         {
-          "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Practice Example 5",
+          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
         },
         {
-          "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Analysis 5",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 6",
+      "text": "Let's review Case 6 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)).",
       "examples": [
         {
-          "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Practice Example 6",
+          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
         },
         {
-          "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Analysis 6",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 7",
+      "text": "Let's review Case 7 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)).",
       "examples": [
         {
-          "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Practice Example 7",
+          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
         },
         {
-          "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Analysis 7",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 8",
+      "text": "Let's review Case 8 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)).",
       "examples": [
         {
-          "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Practice Example 8",
+          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
         },
         {
-          "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Analysis 8",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Comprehension Case 1",
+      "text": "Analyzing story events and character traits (Comprehension Case 1).",
       "examples": [
         {
-          "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Scenario Clue",
+          "content": "How do characters behave when facing a problem in the story?"
         },
         {
-          "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Logical Conclusion",
+          "content": "Evaluate character choices and find the solution based on text evidence."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Comprehension Case 2",
+      "text": "Analyzing story events and character traits (Comprehension Case 2).",
       "examples": [
         {
-          "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Scenario Clue",
+          "content": "How do characters behave when facing a problem in the story?"
         },
         {
-          "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Logical Conclusion",
+          "content": "Evaluate character choices and find the solution based on text evidence."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Comprehension Case 3",
+      "text": "Analyzing story events and character traits (Comprehension Case 3).",
       "examples": [
         {
-          "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Scenario Clue",
+          "content": "How do characters behave when facing a problem in the story?"
         },
         {
-          "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Logical Conclusion",
+          "content": "Evaluate character choices and find the solution based on text evidence."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 1",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Comprehension Case 4",
+      "text": "Analyzing story events and character traits (Comprehension Case 4).",
       "examples": [
         {
-          "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions to analyze or solve this sample scenario?"
+          "title": "Scenario Clue",
+          "content": "How do characters behave when facing a problem in the story?"
         },
         {
-          "title": "Correct Solution 1",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Logical Conclusion",
+          "content": "Evaluate character choices and find the solution based on text evidence."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 2",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Comprehension Case 5",
+      "text": "Analyzing story events and character traits (Comprehension Case 5).",
       "examples": [
         {
-          "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions to analyze or solve this sample scenario?"
+          "title": "Scenario Clue",
+          "content": "How do characters behave when facing a problem in the story?"
         },
         {
-          "title": "Correct Solution 2",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Logical Conclusion",
+          "content": "Evaluate character choices and find the solution based on text evidence."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 3",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Concept Review 1",
+      "text": "Let's review the main rules of Week 4 English. Pay close attention to vocabulary use and spelling patterns.",
       "examples": [
         {
-          "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions to analyze or solve this sample scenario?"
+          "title": "Review Tip",
+          "content": "Read the words aloud to check their phonics sounds."
         },
         {
-          "title": "Correct Solution 3",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Sentence Check",
+          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 4",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Practice Task 2",
+      "text": "Try applying the rules of Week 4 English in a new sentence. Practice writing it down on paper.",
       "examples": [
         {
-          "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions to analyze or solve this sample scenario?"
+          "title": "Task",
+          "content": "Write a short sentence using one of the weekly vocabulary words."
         },
         {
-          "title": "Correct Solution 4",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Self-Check",
+          "content": "Identify the subject and predicate of your sentence."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 1",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Concept Review 3",
+      "text": "Let's review the main rules of Week 4 English. Pay close attention to vocabulary use and spelling patterns.",
       "examples": [
         {
-          "title": "Incorrect Approach 1",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+          "title": "Review Tip",
+          "content": "Read the words aloud to check their phonics sounds."
         },
         {
-          "title": "Correct Approach 1",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Sentence Check",
+          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 2",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Practice Task 4",
+      "text": "Try applying the rules of Week 4 English in a new sentence. Practice writing it down on paper.",
       "examples": [
         {
-          "title": "Incorrect Approach 2",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+          "title": "Task",
+          "content": "Write a short sentence using one of the weekly vocabulary words."
         },
         {
-          "title": "Correct Approach 2",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Self-Check",
+          "content": "Identify the subject and predicate of your sentence."
         }
       ]
     },
     {
-      "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 4: Adjectives, Synonyms, Antonyms & Predictions. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "title": "Summary & Reflection",
+      "text": "You have completed all slides for this lesson on Week 4 English. Take a moment to review the key concepts, spelling, and sentence structures we covered.",
       "examples": [
         {
-          "title": "Summary Points",
-          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+          "title": "Key Takeaway",
+          "content": "Mastering Week 4 English builds a strong foundation for reading and writing."
         },
         {
-          "title": "Reflection",
-          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+          "title": "Next Step",
+          "content": "You are now ready to try the weekly quiz and challenge questions."
         }
       ]
     }
@@ -1575,248 +1575,276 @@ window.WEEK4_DATA.english = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 1)",
       "options": [
-        "Core term: Vowels",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "hand",
+        "baby",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 2)",
       "options": [
-        "Core term: Consonants",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "tent",
+        "baby",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 3)",
       "options": [
-        "Core term: Words",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "frog",
+        "baby",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 4)",
       "options": [
-        "Core term: Nouns",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 4: Adjectives, Synonyms, Antonyms & Predictions is correct?",
-      "options": [
-        "Statement A: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are applied to solve these cases.",
-        "Statement B: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are not relevant to these cases."
+        "drum",
+        "baby",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 5)",
       "options": [
-        "Core term: Pronouns",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 4: Adjectives, Synonyms, Antonyms & Predictions is a key topic in the study of ___.",
-      "answer": "English"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
-      "options": [
-        "Core term: Sentences",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "baby",
+        "frog",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 6)",
       "options": [
-        "Core term: Synonyms",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 4: Adjectives, Synonyms, Antonyms & Predictions is correct?",
-      "options": [
-        "Statement A: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are applied to solve these cases.",
-        "Statement B: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are not relevant to these cases."
+        "paper",
+        "baby",
+        "hand",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 7)",
       "options": [
-        "Core term: Vowels",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "milk",
+        "baby",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 8)",
       "options": [
-        "Core term: Consonants",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "plug",
+        "baby",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'The blue sky.' (Question 9)",
       "options": [
-        "Core term: Words",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 4: Adjectives, Synonyms, Antonyms & Predictions is a key topic in the study of ___.",
-      "answer": "English"
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 4: Adjectives, Synonyms, Antonyms & Predictions is correct?",
-      "options": [
-        "Statement A: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are applied to solve these cases.",
-        "Statement B: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are not relevant to these cases."
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'A small frog.' (Question 10)",
       "options": [
-        "Core term: Pronouns",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'Ten sweet mangoes.' (Question 11)",
       "options": [
-        "Core term: Adjectives",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'A happy child.' (Question 12)",
       "options": [
-        "Core term: Sentences",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'The blue sky.' (Question 13)",
       "options": [
-        "Core term: Synonyms",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 4: Adjectives, Synonyms, Antonyms & Predictions is correct?",
-      "options": [
-        "Statement A: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are applied to solve these cases.",
-        "Statement B: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are not relevant to these cases."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 4: Adjectives, Synonyms, Antonyms & Predictions is a key topic in the study of ___.",
-      "answer": "English"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
-      "options": [
-        "Core term: Consonants",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'A small frog.' (Question 14)",
       "options": [
-        "Core term: Words",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'Ten sweet mangoes.' (Question 15)",
       "options": [
-        "Core term: Nouns",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
-      "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 4: Adjectives, Synonyms, Antonyms & Predictions is correct?",
+      "type": "choice",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'A happy child.' (Question 16)",
       "options": [
-        "Statement A: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are applied to solve these cases.",
-        "Statement B: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are not relevant to these cases."
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 17)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 18)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 19)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 20)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 21)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 22)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 23)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 24)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What is the main learning goal of Week 4 English? (Question 25)",
+      "options": [
+        "Develop automatic decoding of CVCC, CCVC, & VCV Review and application of Adjectives (Describing Words).",
+        "Draw a picture only.",
+        "Memorize all words.",
+        "Write a long novel."
       ],
       "answer": 0
     }
@@ -1824,67 +1852,74 @@ window.WEEK4_DATA.english = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 4: Adjectives, Synonyms, Antonyms & Predictions, what is the first priority?",
+      "q": "Challenge Question 1: Solve the complex sentence puzzle using Adjectives (Describing Words) and CVCC, CCVC, & VCV Review patterns.",
       "options": [
-        "Analyze key terms and variables",
-        "Guess the answer immediately",
-        "Skip the question",
-        "Use unrelated formulas"
+        "Analyze clues and find the correct logical answer.",
+        "Guess option A",
+        "Guess option B",
+        "Guess option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Challenge Question 2: Solve the complex sentence puzzle using Adjectives (Describing Words) and CVCC, CCVC, & VCV Review patterns.",
       "options": [
-        "The primary variable: Alphabet",
-        "An external variable",
-        "No variable",
-        "All variables equally"
+        "Analyze clues and find the correct logical answer.",
+        "Guess option A",
+        "Guess option B",
+        "Guess option C"
       ],
       "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 4: Adjectives, Synonyms, Antonyms & Predictions.",
-      "options": [
-        "Statement A: Proper methodology leads to a correct and verified solution.",
-        "Statement B: Rushing through calculations is safe and rarely causes errors."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
-      "answer": "vowels"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Challenge Question 3: Solve the complex sentence puzzle using Adjectives (Describing Words) and CVCC, CCVC, & VCV Review patterns.",
       "options": [
-        "Building logical reasoning and problem-solving skills",
-        "Forgetting previous lessons",
-        "Speeding up without accuracy",
-        "None of these"
+        "Analyze clues and find the correct logical answer.",
+        "Guess option A",
+        "Guess option B",
+        "Guess option C"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge Question 4: Solve the complex sentence puzzle using Adjectives (Describing Words) and CVCC, CCVC, & VCV Review patterns.",
+      "options": [
+        "Analyze clues and find the correct logical answer.",
+        "Guess option A",
+        "Guess option B",
+        "Guess option C"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge Question 5: Solve the complex sentence puzzle using Adjectives (Describing Words) and CVCC, CCVC, & VCV Review patterns.",
+      "options": [
+        "Analyze clues and find the correct logical answer.",
+        "Guess option A",
+        "Guess option B",
+        "Guess option C"
       ],
       "answer": 0
     }
   ],
   "performance": {
-    "type": "performance",
-    "title": "Interactive Task: Week 4: Adjectives, Synonyms, Antonyms & Predictions",
-    "desc": "Perform a simple observation of Week 4: Adjectives, Synonyms, Antonyms & Predictions at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Performance Task: CVCC, CCVC, & VCV Review & Adjectives (Describing Words)",
+    "desc": "Write a short paragraph (3-4 sentences) using at least three of this week's phonics words (hand, tent, frog, drum, baby) and demonstrative/possessive pronouns. Draw a matching picture and present it to your parent.",
     "labels": [
-      "Accurate explanation of concept",
-      "Clarity and confidence in presentation",
-      "Neatness of written notes"
+      "Correct use of phonics words",
+      "Correct sentence structure and capitalization",
+      "Clear drawing and explanation"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 4: Adjectives, Synonyms, Antonyms & Predictions</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 4: Adjectives, Synonyms, Antonyms & Predictions and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Vowels and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 4: Adjectives, Synonyms, Antonyms & Predictions.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alphabet</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 4: Adjectives, Synonyms, Antonyms & Predictions.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n              <h3>Exercise 1: CVCC, CCVC, & VCV Review Phonics Identification</h3>\n              <p class=\"ws-instruction\">Identify the correct spelling of the words matching the phonics rule.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Fill in the missing letters: <strong>ha__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">hand</span></div>\n              </div>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">2. Fill in the missing letters: <strong>te__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">tent</span></div>\n              </div>\n            </div>",
+      "<div class=\"ws-page-content\">\n              <h3>Exercise 2: Adjectives (Describing Words) Grammar Check</h3>\n              <p class=\"ws-instruction\">Choose and write the correct pronoun to complete the sentence.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Sentence: <em>The blue sky.</em></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 100%;\"><span class=\"ws-answer\">The</span></div>\n              </div>\n            </div>",
+      "<div class=\"ws-page-content\">\n              <h3>Exercise 3: Predicting Possible Endings Story Sequencing</h3>\n              <p class=\"ws-instruction\">Write the correct order of the story elements (1, 2, 3).</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">Describe the setting and the main problem of the character:</div>\n                <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">Identify where and when the story happens, and what the character wants to solve.</span></div>\n              </div>\n            </div>"
     ]
   }
 };
@@ -5351,355 +5386,355 @@ window.WEEK4_ADVANCED_DATA.english = {
   "color": "#8b5cf6",
   "icon": "📖",
   "title": "English",
-  "subtitle": "Week 4: Adjectives, Synonyms, Antonyms & Predictions",
+  "subtitle": "Week 4: CVCC, CCVC, & VCV Review & Adjectives (Describing Words)",
   "slides": [
     {
-      "title": "Introduction to Week 4: Adjectives, Synonyms, Antonyms & Predictions",
-      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in English.",
+      "title": "Welcome to English Week 4",
+      "text": "In this week's module, we will explore key language concepts including CVCC, CCVC, & VCV Review, Adjectives (Describing Words), and Predicting Possible Endings.",
       "examples": [
         {
           "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 4: Adjectives, Synonyms, Antonyms & Predictions and apply them in daily situations."
+          "content": "Understand and apply CVCC, CCVC, & VCV Review and Adjectives (Describing Words) in reading and writing."
         },
         {
-          "title": "Real-world Connection",
-          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+          "title": "Context",
+          "content": "This module is designed in the context of Grade 4-5 standards."
         }
       ]
     },
     {
-      "title": "Core Vocabulary & Terms",
-      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "title": "Core Vocabulary Words",
+      "text": "Let's look at the core words for this week's phonics focus (CVCC, CCVC, & VCV Review): hand, tent, frog, drum, baby.",
       "examples": [
         {
-          "title": "Term 1: Alphabet",
-          "content": "A foundational concept in English that helps us categorize and understand details."
+          "title": "Word 1: Hand",
+          "content": "A phonics word matching the CVCC, CCVC, & VCV Review pattern."
         },
         {
-          "title": "Term 2: Vowels",
-          "content": "An active process or skill used to analyze situations and solve problems."
+          "title": "Word 2: Tent",
+          "content": "Another example showing correct letter sound blends."
         }
       ]
     },
     {
-      "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 4: Adjectives, Synonyms, Antonyms & Predictions. By looking closely at how these ideas work together, we can build a strong understanding of English.",
+      "title": "Phonics: CVCC, CCVC, & VCV Review",
+      "text": "Reviewing CVCC (hand), CCVC (frog), and VCV (baby) patterns helps us read and spell words automatically and accurately.",
       "examples": [
         {
-          "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 4: Adjectives, Synonyms, Antonyms & Predictions in simple activities."
+          "title": "Examples",
+          "content": "hand, tent, frog, drum, baby, paper, milk, plug, music, silent"
         },
         {
-          "title": "Why It Matters",
-          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+          "title": "Reading Rule",
+          "content": "Blend the letter sounds together smoothly when pronouncing the words."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Grammar: Adjectives (Describing Words)",
+      "text": "Adjectives are words that describe nouns (persons, places, things, animals, or events). They tell us about size, color, shape, number, or feelings.",
       "examples": [
         {
-          "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Example Sentence",
+          "content": "The blue sky."
         },
         {
-          "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Tip",
+          "content": "Notice how the pronoun helps show position or ownership."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Sentence Structure: Sentence Types Review",
+      "text": "We review telling (declarative), asking (interrogative), and commanding/requesting (imperative) sentences. Each has its own punctuation mark and purpose.",
       "examples": [
         {
-          "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Example",
+          "content": "A small frog."
         },
         {
-          "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Rule",
+          "content": "Always verify that your sentence begins with a capital letter and ends with the correct mark."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Comprehension: Predicting Possible Endings",
+      "text": "Predicting is making a guess about what will happen next in a story. We use clues from the story and our own experiences to make logical predictions.",
       "examples": [
         {
-          "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Focus Area",
+          "content": "Analyze text elements under Predicting Possible Endings"
         },
         {
-          "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Strategy",
+          "content": "Look for key clues, character actions, and connector words in the story."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Vocabulary & Theme: Synonyms & Antonyms",
+      "text": "Synonyms are words with similar meanings (e.g., big/large). Antonyms are words with opposite meanings (e.g., hot/cold).",
       "examples": [
         {
-          "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Focus",
+          "content": "Applying high-frequency words in Synonyms & Antonyms themes."
         },
         {
-          "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Application",
+          "content": "Write short paragraphs using these words to express ideas about your local environment."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 1",
+      "text": "Let's review Case 1 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Practice Example 1",
+          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
         },
         {
-          "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Analysis 1",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 2",
+      "text": "Let's review Case 2 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Practice Example 2",
+          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
         },
         {
-          "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Analysis 2",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 3",
+      "text": "Let's review Case 3 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Practice Example 3",
+          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
         },
         {
-          "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Analysis 3",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 4",
+      "text": "Let's review Case 4 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Practice Example 4",
+          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
         },
         {
-          "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Analysis 4",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 5",
+      "text": "Let's review Case 5 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Practice Example 5",
+          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
         },
         {
-          "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Analysis 5",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 6",
+      "text": "Let's review Case 6 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Practice Example 6",
+          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
         },
         {
-          "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Analysis 6",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 7",
+      "text": "Let's review Case 7 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Practice Example 7",
+          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
         },
         {
-          "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Analysis 7",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Detailed Case Study 8",
+      "text": "Let's review Case 8 combining our phonics focus (CVCC, CCVC, & VCV Review) and grammar rules (Adjectives (Describing Words)). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Practice Example 8",
+          "content": "Read the CVCC/CCVC words in the context of a Sentence Types Review."
         },
         {
-          "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Analysis 8",
+          "content": "The sentence matches the rules of capitalization, subject-verb agreement, and meaning."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Comprehension Case 1",
+      "text": "Analyzing story events and character traits (Comprehension Case 1). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Scenario Clue",
+          "content": "How do characters behave when facing a problem in the story?"
         },
         {
-          "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Logical Conclusion",
+          "content": "Evaluate character choices and find the solution based on text evidence."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Comprehension Case 2",
+      "text": "Analyzing story events and character traits (Comprehension Case 2). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Scenario Clue",
+          "content": "How do characters behave when facing a problem in the story?"
         },
         {
-          "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Logical Conclusion",
+          "content": "Evaluate character choices and find the solution based on text evidence."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 4: Adjectives, Synonyms, Antonyms & Predictions. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Comprehension Case 3",
+      "text": "Analyzing story events and character traits (Comprehension Case 3). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 4: Adjectives, Synonyms, Antonyms & Predictions to observe the correct outcome."
+          "title": "Scenario Clue",
+          "content": "How do characters behave when facing a problem in the story?"
         },
         {
-          "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 4: Adjectives, Synonyms, Antonyms & Predictions in other contexts."
+          "title": "Logical Conclusion",
+          "content": "Evaluate character choices and find the solution based on text evidence."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 1",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Comprehension Case 4",
+      "text": "Analyzing story events and character traits (Comprehension Case 4). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions to analyze or solve this sample scenario?"
+          "title": "Scenario Clue",
+          "content": "How do characters behave when facing a problem in the story?"
         },
         {
-          "title": "Correct Solution 1",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Logical Conclusion",
+          "content": "Evaluate character choices and find the solution based on text evidence."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 2",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Comprehension Case 5",
+      "text": "Analyzing story events and character traits (Comprehension Case 5). (Complex/Deeper)",
       "examples": [
         {
-          "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions to analyze or solve this sample scenario?"
+          "title": "Scenario Clue",
+          "content": "How do characters behave when facing a problem in the story?"
         },
         {
-          "title": "Correct Solution 2",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Logical Conclusion",
+          "content": "Evaluate character choices and find the solution based on text evidence."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 3",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Concept Review 1",
+      "text": "Let's review the main rules of Week 4 English. Pay close attention to vocabulary use and spelling patterns.",
       "examples": [
         {
-          "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions to analyze or solve this sample scenario?"
+          "title": "Review Tip",
+          "content": "Read the words aloud to check their phonics sounds."
         },
         {
-          "title": "Correct Solution 3",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Sentence Check",
+          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 4",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Practice Task 2",
+      "text": "Try applying the rules of Week 4 English in a new sentence. Practice writing it down on paper.",
       "examples": [
         {
-          "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions to analyze or solve this sample scenario?"
+          "title": "Task",
+          "content": "Write a short sentence using one of the weekly vocabulary words."
         },
         {
-          "title": "Correct Solution 4",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Self-Check",
+          "content": "Identify the subject and predicate of your sentence."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 1",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Concept Review 3",
+      "text": "Let's review the main rules of Week 4 English. Pay close attention to vocabulary use and spelling patterns.",
       "examples": [
         {
-          "title": "Incorrect Approach 1",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+          "title": "Review Tip",
+          "content": "Read the words aloud to check their phonics sounds."
         },
         {
-          "title": "Correct Approach 1",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Sentence Check",
+          "content": "Make sure every sentence starts with a capital letter and has correct ending punctuation."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 2",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Practice Task 4",
+      "text": "Try applying the rules of Week 4 English in a new sentence. Practice writing it down on paper.",
       "examples": [
         {
-          "title": "Incorrect Approach 2",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
+          "title": "Task",
+          "content": "Write a short sentence using one of the weekly vocabulary words."
         },
         {
-          "title": "Correct Approach 2",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Self-Check",
+          "content": "Identify the subject and predicate of your sentence."
         }
       ]
     },
     {
-      "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 4: Adjectives, Synonyms, Antonyms & Predictions. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "title": "Summary & Reflection",
+      "text": "You have completed all slides for this lesson on Week 4 English. Take a moment to review the key concepts, spelling, and sentence structures we covered.",
       "examples": [
         {
-          "title": "Summary Points",
-          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
+          "title": "Key Takeaway",
+          "content": "Mastering Week 4 English builds a strong foundation for reading and writing."
         },
         {
-          "title": "Reflection",
-          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+          "title": "Next Step",
+          "content": "You are now ready to try the weekly quiz and challenge questions."
         }
       ]
     }
@@ -5707,248 +5742,276 @@ window.WEEK4_ADVANCED_DATA.english = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 1) (Complex/Deeper)",
       "options": [
-        "Core term: Vowels",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "hand",
+        "baby",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 2) (Complex/Deeper)",
       "options": [
-        "Core term: Consonants",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "tent",
+        "baby",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 3) (Complex/Deeper)",
       "options": [
-        "Core term: Words",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "frog",
+        "baby",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 4) (Complex/Deeper)",
       "options": [
-        "Core term: Nouns",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 4: Adjectives, Synonyms, Antonyms & Predictions is correct?",
-      "options": [
-        "Statement A: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are applied to solve these cases.",
-        "Statement B: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are not relevant to these cases."
+        "drum",
+        "baby",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 5) (Complex/Deeper)",
       "options": [
-        "Core term: Pronouns",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 4: Adjectives, Synonyms, Antonyms & Predictions is a key topic in the study of ___.",
-      "answer": "English"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
-      "options": [
-        "Core term: Sentences",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "baby",
+        "frog",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 6) (Complex/Deeper)",
       "options": [
-        "Core term: Synonyms",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 4: Adjectives, Synonyms, Antonyms & Predictions is correct?",
-      "options": [
-        "Statement A: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are applied to solve these cases.",
-        "Statement B: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are not relevant to these cases."
+        "paper",
+        "baby",
+        "hand",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 7) (Complex/Deeper)",
       "options": [
-        "Core term: Vowels",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "milk",
+        "baby",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Which word matches the spelling and sound pattern of CVCC, CCVC, & VCV Review? (Question 8) (Complex/Deeper)",
       "options": [
-        "Core term: Consonants",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "plug",
+        "baby",
+        "paper",
+        "music"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'The blue sky.' (Question 9) (Complex/Deeper)",
       "options": [
-        "Core term: Words",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 4: Adjectives, Synonyms, Antonyms & Predictions is a key topic in the study of ___.",
-      "answer": "English"
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 4: Adjectives, Synonyms, Antonyms & Predictions is correct?",
-      "options": [
-        "Statement A: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are applied to solve these cases.",
-        "Statement B: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are not relevant to these cases."
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'A small frog.' (Question 10) (Complex/Deeper)",
       "options": [
-        "Core term: Pronouns",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'Ten sweet mangoes.' (Question 11) (Complex/Deeper)",
       "options": [
-        "Core term: Adjectives",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'A happy child.' (Question 12) (Complex/Deeper)",
       "options": [
-        "Core term: Sentences",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'The blue sky.' (Question 13) (Complex/Deeper)",
       "options": [
-        "Core term: Synonyms",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 4: Adjectives, Synonyms, Antonyms & Predictions is correct?",
-      "options": [
-        "Statement A: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are applied to solve these cases.",
-        "Statement B: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are not relevant to these cases."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 4: Adjectives, Synonyms, Antonyms & Predictions is a key topic in the study of ___.",
-      "answer": "English"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
-      "options": [
-        "Core term: Consonants",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'A small frog.' (Question 14) (Complex/Deeper)",
       "options": [
-        "Core term: Words",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'Ten sweet mangoes.' (Question 15) (Complex/Deeper)",
       "options": [
-        "Core term: Nouns",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
       ],
       "answer": 0
     },
     {
-      "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 4: Adjectives, Synonyms, Antonyms & Predictions is correct?",
+      "type": "choice",
+      "q": "Identify the correct pronoun or structure that completes this sentence: 'A happy child.' (Question 16) (Complex/Deeper)",
       "options": [
-        "Statement A: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are applied to solve these cases.",
-        "Statement B: The core rules of Week 4: Adjectives, Synonyms, Antonyms & Predictions are not relevant to these cases."
+        "Correct Option",
+        "Incorrect Option A",
+        "Incorrect Option B",
+        "Incorrect Option C"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 17) (Complex/Deeper)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 18) (Complex/Deeper)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 19) (Complex/Deeper)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 20) (Complex/Deeper)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 21) (Complex/Deeper)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 22) (Complex/Deeper)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 23) (Complex/Deeper)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Based on Predicting Possible Endings, what is the correct reading strategy or detail? (Question 24) (Complex/Deeper)",
+      "options": [
+        "Understand the characters, setting, and plot events.",
+        "Skip reading details and guess the ending.",
+        "Only look at the illustrations.",
+        "None of the above."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What is the main learning goal of Week 4 English? (Question 25) (Complex/Deeper)",
+      "options": [
+        "Develop automatic decoding of CVCC, CCVC, & VCV Review and application of Adjectives (Describing Words).",
+        "Draw a picture only.",
+        "Memorize all words.",
+        "Write a long novel."
       ],
       "answer": 0
     }
@@ -5956,67 +6019,74 @@ window.WEEK4_ADVANCED_DATA.english = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 4: Adjectives, Synonyms, Antonyms & Predictions, what is the first priority?",
+      "q": "Challenge Question 1: Solve the complex sentence puzzle using Adjectives (Describing Words) and CVCC, CCVC, & VCV Review patterns. (Complex/Deeper)",
       "options": [
-        "Analyze key terms and variables",
-        "Guess the answer immediately",
-        "Skip the question",
-        "Use unrelated formulas"
+        "Analyze clues and find the correct logical answer.",
+        "Guess option A",
+        "Guess option B",
+        "Guess option C"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Challenge Question 2: Solve the complex sentence puzzle using Adjectives (Describing Words) and CVCC, CCVC, & VCV Review patterns. (Complex/Deeper)",
       "options": [
-        "The primary variable: Alphabet",
-        "An external variable",
-        "No variable",
-        "All variables equally"
+        "Analyze clues and find the correct logical answer.",
+        "Guess option A",
+        "Guess option B",
+        "Guess option C"
       ],
       "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 4: Adjectives, Synonyms, Antonyms & Predictions.",
-      "options": [
-        "Statement A: Proper methodology leads to a correct and verified solution.",
-        "Statement B: Rushing through calculations is safe and rarely causes errors."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
-      "answer": "vowels"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 4: Adjectives, Synonyms, Antonyms & Predictions?",
+      "q": "Challenge Question 3: Solve the complex sentence puzzle using Adjectives (Describing Words) and CVCC, CCVC, & VCV Review patterns. (Complex/Deeper)",
       "options": [
-        "Building logical reasoning and problem-solving skills",
-        "Forgetting previous lessons",
-        "Speeding up without accuracy",
-        "None of these"
+        "Analyze clues and find the correct logical answer.",
+        "Guess option A",
+        "Guess option B",
+        "Guess option C"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge Question 4: Solve the complex sentence puzzle using Adjectives (Describing Words) and CVCC, CCVC, & VCV Review patterns. (Complex/Deeper)",
+      "options": [
+        "Analyze clues and find the correct logical answer.",
+        "Guess option A",
+        "Guess option B",
+        "Guess option C"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge Question 5: Solve the complex sentence puzzle using Adjectives (Describing Words) and CVCC, CCVC, & VCV Review patterns. (Complex/Deeper)",
+      "options": [
+        "Analyze clues and find the correct logical answer.",
+        "Guess option A",
+        "Guess option B",
+        "Guess option C"
       ],
       "answer": 0
     }
   ],
   "performance": {
-    "type": "performance",
-    "title": "Interactive Task: Week 4: Adjectives, Synonyms, Antonyms & Predictions",
-    "desc": "Perform a simple observation of Week 4: Adjectives, Synonyms, Antonyms & Predictions at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Performance Task: CVCC, CCVC, & VCV Review & Adjectives (Describing Words)",
+    "desc": "Write a short paragraph (3-4 sentences) using at least three of this week's phonics words (hand, tent, frog, drum, baby) and demonstrative/possessive pronouns. Draw a matching picture and present it to your parent.",
     "labels": [
-      "Accurate explanation of concept",
-      "Clarity and confidence in presentation",
-      "Neatness of written notes"
+      "Correct use of phonics words",
+      "Correct sentence structure and capitalization",
+      "Clear drawing and explanation"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 4: Adjectives, Synonyms, Antonyms & Predictions</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 4: Adjectives, Synonyms, Antonyms & Predictions and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Vowels and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 4: Adjectives, Synonyms, Antonyms & Predictions.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alphabet</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 4: Adjectives, Synonyms, Antonyms & Predictions.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n              <h3>Exercise 1: CVCC, CCVC, & VCV Review Phonics Identification</h3>\n              <p class=\"ws-instruction\">Identify the correct spelling of the words matching the phonics rule.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Fill in the missing letters: <strong>ha__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">hand</span></div>\n              </div>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">2. Fill in the missing letters: <strong>te__</strong></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">tent</span></div>\n              </div>\n            </div>",
+      "<div class=\"ws-page-content\">\n              <h3>Exercise 2: Adjectives (Describing Words) Grammar Check</h3>\n              <p class=\"ws-instruction\">Choose and write the correct pronoun to complete the sentence.</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">1. Sentence: <em>The blue sky.</em></div>\n                <div class=\"writing-line\" style=\"margin-top: 15px; width: 100%;\"><span class=\"ws-answer\">The</span></div>\n              </div>\n            </div>",
+      "<div class=\"ws-page-content\">\n              <h3>Exercise 3: Predicting Possible Endings Story Sequencing</h3>\n              <p class=\"ws-instruction\">Write the correct order of the story elements (1, 2, 3).</p>\n              <div class=\"ws-item-row\">\n                <div class=\"ws-q\">Describe the setting and the main problem of the character:</div>\n                <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">Identify where and when the story happens, and what the character wants to solve.</span></div>\n              </div>\n            </div>"
     ]
   }
 };

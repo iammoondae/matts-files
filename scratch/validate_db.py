@@ -129,8 +129,112 @@ def validate_week_file(file_path):
             
     return errors
 
+def validate_codebase_standards():
+    errors = []
+    
+    # 1. Check required documentation files
+    doc_files = {
+        "master_context.md": "/home/moondae/Antigravity Projects/Matts Files_apk/master_context.md",
+        "moon_standards.md": "/home/moondae/Antigravity Projects/Matts Files_apk/moon_standards.md",
+        "code_map.md": "/home/moondae/Antigravity Projects/Matts Files_apk/code_map.md"
+    }
+    for name, path in doc_files.items():
+        if not os.path.exists(path):
+            errors.append(f"Documentation file '{name}' is missing at: {path}")
+        elif os.path.getsize(path) < 100:
+            errors.append(f"Documentation file '{name}' is abnormally small or empty.")
+
+    # 2. Check required assets
+    asset_files = {
+        "icon.png": "/home/moondae/Antigravity Projects/Matts Files_apk/icon.png",
+        "correct.wav": "/home/moondae/Antigravity Projects/Matts Files_apk/correct.wav",
+        "incorrect.wav": "/home/moondae/Antigravity Projects/Matts Files_apk/incorrect.wav",
+        "background2.mp3": "/home/moondae/Antigravity Projects/Matts Files_apk/background2.mp3",
+        "background5.mp3": "/home/moondae/Antigravity Projects/Matts Files_apk/background5.mp3"
+    }
+    for name, path in asset_files.items():
+        if not os.path.exists(path):
+            errors.append(f"Asset file '{name}' is missing at: {path}")
+        elif os.path.getsize(path) < 100:
+            errors.append(f"Asset file '{name}' is abnormally small (possibly corrupted).")
+
+    # 3. Validate LoginActivity.kt onboarding requirements
+    login_path = "/home/moondae/Antigravity Projects/Matts Files_apk/android-project/app/src/main/java/dev/matteo/learninghub/LoginActivity.kt"
+    if not os.path.exists(login_path):
+        errors.append(f"LoginActivity.kt is missing at: {login_path}")
+    else:
+        with open(login_path, "r", encoding="utf-8") as f:
+            login_content = f.read()
+        
+        login_checks = {
+            "Google Login": ["GoogleSignInOptions", "GoogleAuthProvider.getCredential"],
+            "Email Sign-in": ["signInWithEmailAndPassword"],
+            "Email Sign-up": ["createUserWithEmailAndPassword"],
+            "Guest Anonymous Sign-in": ["signInAnonymously"]
+        }
+        for feature, patterns in login_checks.items():
+            missing = [pat for pat in patterns if pat not in login_content]
+            if missing:
+                errors.append(f"Onboarding standard '{feature}' implementation might be broken. Missing patterns: {missing}")
+
+    # 4. Validate index.css theme requirements
+    css_path = "/home/moondae/Antigravity Projects/Matts Files_apk/index.css"
+    if not os.path.exists(css_path):
+        errors.append(f"index.css is missing at: {css_path}")
+    else:
+        with open(css_path, "r", encoding="utf-8") as f:
+            css_content = f.read()
+        
+        css_checks = ["--bg-gradient", "--bg-card", "--border-card", "--text-main", "--text-muted"]
+        # Check in :root
+        root_match = re.search(r':root\s*\{([^}]+)\}', css_content)
+        if not root_match:
+            errors.append("index.css is missing :root theme variables block.")
+        else:
+            root_block = root_match.group(1)
+            missing = [var for var in css_checks if var not in root_block]
+            if missing:
+                errors.append(f"index.css :root is missing theme variables: {missing}")
+                
+        # Check in body.light-mode
+        light_match = re.search(r'body\.light-mode\s*\{([^}]+)\}', css_content)
+        if not light_match:
+            errors.append("index.css is missing body.light-mode variables block.")
+        else:
+            light_block = light_match.group(1)
+            missing = [var for var in css_checks if var not in light_block]
+            if missing:
+                errors.append(f"index.css body.light-mode is missing theme variables: {missing}")
+
+    # 5. Validate app.js theme requirements
+    js_path = "/home/moondae/Antigravity Projects/Matts Files_apk/app.js"
+    if not os.path.exists(js_path):
+        errors.append(f"app.js is missing at: {js_path}")
+    else:
+        with open(js_path, "r", encoding="utf-8") as f:
+            js_content = f.read()
+        
+        js_checks = ["session_theme", "light-mode"]
+        missing = [pat for pat in js_checks if pat not in js_content]
+        if missing:
+            errors.append(f"app.js theme toggle implementation might be broken. Missing patterns: {missing}")
+
+    return errors
+
 def main():
     has_errors = False
+    
+    print("Running Codebase & Moon Standards Checks...")
+    codebase_errors = validate_codebase_standards()
+    if codebase_errors:
+        print("FAIL: Codebase does not satisfy quality standards:")
+        for err in codebase_errors:
+            print(f"  - {err}")
+        has_errors = True
+    else:
+        print("PASS: Codebase satisfies Moon Standards.")
+
+    print("\nRunning Database JSON Checks...")
     for grade in grades:
         grade_dir = os.path.join(base_dir, grade)
         if not os.path.exists(grade_dir):
