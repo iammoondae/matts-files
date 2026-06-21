@@ -666,352 +666,252 @@ window.WEEK1_DATA.science = {
   "subtitle": "Week 1: Science in Our Daily Life",
   "slides": [
     {
-      "title": "Introduction to Daily Science",
-      "text": "Science is all around us. It helps us explain the natural world and things we observe every day.",
+      "title": "Welcome to the Science Adventure!",
+      "text": "Hello, Young Scientist! Welcome to Science Week 1!\nThis week we are starting an exciting journey of discovery.\nWe will look closely at the world around us.\nScience helps us explain everything we observe every day.\nWe will use our eyes, ears, and hands to study nature.\nWe will learn how weather, plants, and water connect to science.\nLet's get ready to explore and learn together.\nAre you ready to observe like a real scientist?",
       "examples": [
         {
-          "title": "Observation",
-          "content": "Looking at things closely using our eyes, ears, and hands."
-        },
-        {
-          "title": "Everyday Science",
-          "content": "Understanding why it rains, why plants grow, or how water boils."
+          "title": "Weekly Goal",
+          "content": "Understand how science explains daily observations in nature."
         }
       ]
     },
     {
-      "title": "Core Vocabulary",
-      "text": "Learning science terms helps us explain what we see. Observation, facts, and senses are our primary tools.",
+      "title": "Senses and Observation",
+      "text": "Our sense organs are our windows to the world.\nWe use our five senses to collect facts about nature.\nOur eyes see colors, shapes, and movements of objects.\nOur ears hear sounds like wind rustling leaves.\nOur nose smells flowers, and our tongue tastes food.\nOur skin feels heat, cold, and rough textures.\nAn observation is a fact we gather using our senses.\nLet's practice observing our classroom objects today!",
       "examples": [
         {
           "title": "Observation",
-          "content": "Using our senses to collect facts about the environment."
-        },
-        {
-          "title": "Senses",
-          "content": "The five ways our body gathers details: sight, hearing, smell, taste, touch."
-        }
-      ]
-    },
-    {
-      "title": "Senses & Observation",
-      "text": "Our sense organs are the windows to the world. We observe colors with our eyes, sound with our ears, and heat with our skin.",
-      "examples": [
-        {
-          "title": "Eyes and Sight",
-          "content": "Observing that a leaf is dark green and oval-shaped."
-        },
-        {
-          "title": "Skin and Touch",
-          "content": "Observing that water is warm or a rock is rough."
+          "content": "Using your eyes to see that a leaf is green and oval."
         }
       ]
     },
     {
       "title": "Weather in Daily Life",
-      "text": "Weather is a natural event explained by science. Rain, wind, and sunshine are part of our local environment.",
+      "text": "Weather is a natural event that we observe daily.\nScience helps us explain why the weather changes.\nThe Sun gives us light and heat to keep us warm.\nClouds form when water vapor rises and cools in the sky.\nRain falls when clouds become too heavy with water.\nWind is moving air that we can feel on our skin.\nWeather affects what we wear and what activities we do.\nWhat is the weather like outside your window right now?",
       "examples": [
         {
-          "title": "Rainfall",
-          "content": "Water falling from clouds when they become heavy."
-        },
-        {
-          "title": "Sunlight",
-          "content": "Light and heat from the Sun that keeps us warm."
+          "title": "Weather Fact",
+          "content": "Rain falls from clouds when water droplets grow too heavy."
         }
       ]
     },
     {
       "title": "Plants and Science",
-      "text": "Plants are living things. They need sunlight, water, and soil to grow, make food, and breathe.",
+      "text": "Plants are living things that grow all around us.\nThey need sunlight, water, soil, and air to survive.\nA seed sprouts roots downwards to absorb water from soil.\nIt grows a green stem upwards to capture sunlight.\nPlants use sunlight to make their own food in leaves.\nThis active process is called photosynthesis in science.\nWe observe plants bending towards window light to grow.\nPlants give us oxygen to breathe and food to eat!",
       "examples": [
         {
           "title": "Plant Growth",
-          "content": "A seed grows roots downwards and a stem upwards."
-        },
-        {
-          "title": "Sunlight",
-          "content": "Plants bend towards window light to capture energy."
+          "content": "A seed needs water and sun to break its shell and grow roots."
         }
       ]
     },
     {
-      "title": "Animals and Science",
-      "text": "Animals move in different ways depending on their body parts. They search for food and water to survive.",
+      "title": "Animals and Movement",
+      "text": "Animals are living things that move in different ways.\nThey move to find food, water, and safe shelters.\nFish swim in water using their fins and tails.\nBirds fly through the air using wings and feathers.\nFrogs hop on land using their strong back legs.\nCrabs crawl sideways on the wet sand of beaches.\nTheir body shapes help them survive in their habitats.\nObserve how a dog moves when it chases a toy!",
       "examples": [
         {
-          "title": "Movement",
-          "content": "Fish swim using fins, while birds fly using wings."
-        },
-        {
-          "title": "Survival",
-          "content": "Dogs drink water from a bowl to cool down on hot days."
+          "title": "Animal Fact",
+          "content": "Fish have gills to breathe oxygen underwater while swimming."
         }
       ]
     },
     {
       "title": "Water Around Us",
-      "text": "Water exists in different places. We use it for drinking, washing, and growing crops.",
+      "text": "Water is a precious liquid found throughout nature.\nIt exists in rivers, lakes, oceans, and rain clouds.\nWe use water for drinking, washing, and growing crops.\nWater changes its form when heated or cooled down.\nWet clothes dry because heat turns water into vapor.\nThis process of turning liquid to gas is evaporation.\nWater always flows downwards from high to low ground.\nLet's observe water flowing down a sloped surface!",
       "examples": [
         {
-          "title": "Evaporation",
-          "content": "Wet clothes dry in the sun because water turns into invisible vapor."
-        },
-        {
-          "title": "Flowing Water",
-          "content": "Water always flows downwards from high to low ground."
+          "title": "Water Flow",
+          "content": "Gravity pulls flowing water downwards along riverbeds."
         }
       ]
     },
     {
       "title": "Light and Shadows",
-      "text": "Light travels from sources. When an object blocks light, a dark shape called a shadow forms behind it.",
+      "text": "Light travels in straight lines from light sources.\nThe Sun, lamps, and flashlights are light sources.\nWhen an object blocks light, a shadow forms behind it.\nA shadow is a dark shape on a surface behind the object.\nYour shadow grows longer as the Sun sets lower.\nA cardboard box blocks light completely, casting dark shadows.\nA glass window lets light pass through, casting no shadow.\nLet's make funny hand shadows on the wall tonight!",
       "examples": [
         {
-          "title": "Shadows",
-          "content": "Your shadow grows longer as the Sun sets lower in the sky."
-        },
-        {
-          "title": "Blocking Light",
-          "content": "A thick cardboard box blocks light completely, casting a dark shadow."
+          "title": "Shadow Fact",
+          "content": "A shadow always forms on the opposite side of the light source."
         }
       ]
     },
     {
       "title": "Force and Movement",
-      "text": "Objects move when we apply a push or a pull. This action changes how fast or where they go.",
+      "text": "Objects around us stay still unless we move them.\nWe move objects by applying a push or a pull.\nA push moves an object away from your body.\nA pull moves an object closer to your body.\nPushing a toy cart makes it roll forward across floors.\nPulling a rope brings a bucket of water up wells.\nForce changes how fast or where an object goes.\nIdentify three pushes or pulls you do every morning!",
       "examples": [
         {
-          "title": "Pushing",
-          "content": "Pushing a toy cart makes it move forward across the floor."
-        },
-        {
-          "title": "Pulling",
-          "content": "Pulling a rope brings a bucket of water up from a well."
+          "title": "Force",
+          "content": "Kicking a soccer ball is a push that changes its speed."
         }
       ]
     },
     {
-      "title": "Heat and Cooking",
-      "text": "Heat is a form of energy. It changes the properties of materials during cooking or melting.",
+      "title": "Heat and Energy",
+      "text": "Heat is a form of energy that makes things warm.\nIt changes the state of materials during heating.\nButter changes from a solid to a liquid in warm pans.\nThis change of state from solid to liquid is melting.\nWater bubbles and turns to steam when boiled on stoves.\nThis change of state from liquid to gas is boiling.\nHeat is essential for cooking our daily food safely.\nObserve how a raw egg cooks and changes color in pans!",
       "examples": [
         {
-          "title": "Melting Butter",
-          "content": "Butter changes from solid to liquid when heated in a warm pan."
-        },
-        {
-          "title": "Boiling Water",
-          "content": "Water bubbles and turns to steam when heated on a stove."
+          "title": "Melting",
+          "content": "Solid ice melts into liquid water when exposed to solar heat."
         }
       ]
     },
     {
       "title": "Rainbows in the Sky",
-      "text": "Rainbows appear after rain when sunlight shines through water droplets in the air.",
+      "text": "Rainbows are beautiful colors that appear after rain.\nThey form when sunlight shines through water droplets.\nWater droplets act like tiny glass prisms in the air.\nThey split white sunlight into seven distinct colors.\nThese colors are red, orange, yellow, and green.\nThey also include blue, indigo, and violet shades.\nThis bending of light is called refraction in science.\nLook at the sky opposite the Sun after rain showers!",
       "examples": [
         {
           "title": "Refraction",
-          "content": "Water droplets act like tiny glass prisms, splitting white light into seven colors."
-        },
-        {
-          "title": "Colors",
-          "content": "Red, orange, yellow, green, blue, indigo, and violet."
+          "content": "Bending of light waves inside water droplets creates rainbows."
         }
       ]
     },
     {
       "title": "Wind and Air",
-      "text": "Air is invisible, but we can feel it when it moves. Moving air is called wind.",
+      "text": "Air is all around us, but it is invisible to eyes.\nWe can feel air when it moves across our skin.\nMoving air is called wind in our daily environment.\nWind pushes sailboats and lifts kites into the sky.\nWe inhale air to get oxygen for our bodies to work.\nWe exhale air to blow out candles or cool hot soup.\nWind can be a gentle breeze or a strong storm wind.\nObserve how wind moves the leaves of tall trees!",
       "examples": [
         {
           "title": "Wind Power",
-          "content": "Wind pushes sailboats across water and turns kites in the sky."
-        },
-        {
-          "title": "Breathing",
-          "content": "We inhale air to get oxygen and blow it out to cool food."
+          "content": "Wind turns wind turbines to generate clean electricity."
         }
       ]
     },
     {
       "title": "Soil and Earth",
-      "text": "Soil is the top layer of the Earth. It has different textures depending on whether it is sand, clay, or loam.",
+      "text": "Soil is the top layer of the Earth's surface.\nIt is made of tiny rock pieces and organic matter.\nPlants grow their roots in soil to stand firmly.\nThere are different types of soil like clay and sand.\nLoam soil is rich and dark, holding water well.\nClay soil is sticky when wet and holds water long.\nSandy soil has large grains and lets water drain fast.\nExplore the soil in your garden using a hand lens!",
       "examples": [
         {
-          "title": "Loam Soil",
-          "content": "Loam is rich and dark, holding just the right amount of water for plants."
-        },
-        {
-          "title": "Clay Soil",
-          "content": "Clay is sticky when wet and holds water for a long time."
+          "title": "Soil Types",
+          "content": "Loam is the best soil for growing healthy garden vegetables."
         }
       ]
     },
     {
       "title": "Day and Night",
-      "text": "Day and night happen because the Earth rotates. The side facing the Sun has day, while the other side has night.",
+      "text": "Day and night happen because the Earth rotates slowly.\nThe Earth spins like a giant top on its axis.\nThe side of the Earth facing the Sun has day.\nThe side of the Earth facing away has night.\nIt takes 24 hours for Earth to spin once completely.\nThe Sun appears to rise in the east every morning.\nIt appears to set in the west every evening.\nThis regular cycle gives us time for activity and rest!",
       "examples": [
         {
-          "title": "Sunlight",
-          "content": "The Sun rises in the east to start the day and sets in the west."
-        },
-        {
-          "title": "Earth Rotation",
-          "content": "The Earth spins slowly, causing the cycles of light and dark."
+          "title": "Earth Spin",
+          "content": "Earth's rotation causes the sun to appear to move in the sky."
         }
       ]
     },
     {
-      "title": "Rusting of Metal",
-      "text": "Iron nails change color and texture when left wet in the air. This process is called rusting.",
+      "title": "Rusting of Metals",
+      "text": "Iron objects change color when left wet in the air.\nAn iron nail turns orange-brown and becomes rough.\nThis chemical process is called rusting in daily science.\nRust is crumbly and makes the iron metal weak.\nIt happens because iron combines with oxygen and water.\nPainting iron gates keeps moisture away to prevent rust.\nAlways keep your metal toys dry after playing outside.\nObserve old metal keys to see if they have rusted!",
       "examples": [
         {
-          "title": "Chemical Change",
-          "content": "Rust is a crumbly orange-brown coating that forms on iron objects."
-        },
-        {
-          "title": "Prevention",
-          "content": "Painting iron gates keeps water away and prevents rust."
+          "title": "Rusting",
+          "content": "Rust forms on iron surfaces when exposed to damp air."
         }
       ]
     },
     {
-      "title": "Hygiene & Germs",
-      "text": "Washing hands with soap and water is a scientific way to stay healthy by removing invisible germs.",
+      "title": "Hygiene and Germs",
+      "text": "Germs are tiny living things that make us sick.\nThey are too small to see without microscopes.\nWe wash hands with soap and water to remove germs.\nRubbing hands together lifts dirt and bacteria off skin.\nSoap molecules bind to oil and wash germs away.\nWashing hands keeps us healthy and prevents spreading sickness.\nAlways wash hands before eating and after using toilets.\nSing the alphabet song while rubbing soap on hands!",
       "examples": [
         {
-          "title": "Friction",
-          "content": "Rubbing hands together lifts dirt and bacteria off the skin."
-        },
-        {
-          "title": "Soap",
-          "content": "Soap molecules bind to oil and germs, washing them away."
+          "title": "Hygiene",
+          "content": "Washing hands with soap lifts pathogens off the skin surface."
         }
       ]
     },
     {
-      "title": "Food & Digestion",
-      "text": "We eat food to get energy. Our body breaks down food through digestion to help us grow.",
+      "title": "Food and Digestion",
+      "text": "We eat food to get energy for active play.\nOur body breaks down food through digestion to grow.\nOur teeth chew food into small pieces in mouths.\nSaliva softens the chewed food to swallow easily.\nOur stomach breaks down food further using liquids.\nRice and bread give us carbohydrates for quick energy.\nFish and eggs give us proteins to build muscles.\nFruits and vegetables keep our body systems working well!",
       "examples": [
         {
-          "title": "Energy",
-          "content": "Eating rice provides carbohydrates that fuel our active play."
-        },
-        {
-          "title": "Chewing",
-          "content": "Teeth break food into smaller pieces to help digestion."
+          "title": "Digestion",
+          "content": "Chewing food increases surface area for stomach enzymes."
         }
       ]
     },
     {
       "title": "Sound in the Environment",
-      "text": "Sound is made when objects vibrate. These vibrations travel through the air to our ears.",
+      "text": "Sound is created when an object vibrates quickly.\nA vibration is a rapid back-and-forth movement.\nPlucking a tight rubber band makes it vibrate and hum.\nSound travels as invisible waves through the air.\nOur ears collect these waves so we can hear sounds.\nSound travels faster through solid wood than air.\nHeavy doors block sounds from entering quiet classrooms.\nObserve what happens when you touch a speaking speaker!",
       "examples": [
         {
-          "title": "Vibration",
-          "content": "Plucking a tight rubber band makes it vibrate and hum."
-        },
-        {
-          "title": "Hearing",
-          "content": "Our ears collect these sound waves, allowing us to hear music."
+          "title": "Vibrations",
+          "content": "Vocal cords vibrate in our throat when we speak or sing."
         }
       ]
     },
     {
       "title": "Guided Practice: Observations",
-      "text": "Let's practice identifying scientific observations. An observation must be a factual statement using your senses.",
+      "text": "Let's practice identifying scientific observations in nature.\nAn observation must be a factual statement using senses.\nSaying 'The apple has red skin' is an observation.\nSaying 'The apple is delicious' is an opinion.\nScientists only record physical facts in their journals.\nUse a ruler to measure the height of seedlings.\nWrite down the measurement in millimeters on your paper.\nAlways stick to factual details that others can verify!",
       "examples": [
         {
-          "title": "Fact",
-          "content": "Saying 'The apple has red skin' is a correct observation."
-        },
-        {
-          "title": "Observation",
-          "content": "Saying 'The rock feels rough' is a correct observation."
+          "title": "Factual Observation",
+          "content": "The leaf has five points and a rough texture."
         }
       ]
     },
     {
       "title": "Guided Practice: Fact vs Opinion",
-      "text": "Scientists separate facts (what we observe) from opinions (what we prefer or feel).",
+      "text": "Scientists separate facts from opinions during experiments.\nA fact can be proven true by testing or observing.\nAn opinion is a personal feeling or belief about things.\nStatement: 'The toy car is blue' (This is a fact).\nStatement: 'The toy car is pretty' (This is an opinion).\nFactual descriptions keep science records reliable and clean.\nAvoid using words like beautiful, ugly, or nice in logs.\nLet's classify five sentences as fact or opinion today!",
       "examples": [
         {
-          "title": "Fact",
-          "content": "Statement: 'The toy car is blue' (This is a fact)."
-        },
-        {
-          "title": "Opinion",
-          "content": "Statement: 'The toy car is pretty' (This is an opinion)."
+          "title": "Fact Check",
+          "content": "Factual: 'Water boils at 100 degrees Celsius.'"
         }
       ]
     },
     {
       "title": "Guided Practice: Cooking Science",
-      "text": "Let's spot the science in cooking. Look closely at how heat changes materials.",
+      "text": "Let's observe changes that happen during cooking food.\nHeat changes the properties of raw materials permanently.\nRaw egg white is a clear liquid in shells.\nIt turns into a solid white color when heated.\nThis happens because heat cooks the proteins inside.\nRaw rice grains are hard and dry in bags.\nBoiling water turns them soft and edible in pots.\nSpot the science in your kitchen during dinner preparation!",
       "examples": [
         {
-          "title": "Observation",
-          "content": "Raw egg white turns from clear liquid to solid white when heated."
-        },
-        {
-          "title": "Scientific explanation",
-          "content": "Heat cooks the proteins, changing their state from liquid to solid."
+          "title": "Cooking Fact",
+          "content": "Heat changes raw cake batter into a spongy solid cake."
         }
       ]
     },
     {
       "title": "Guided Practice: Weather Science",
-      "text": "Let's observe changes in weather. Keep track of clouds, wind, and temperature.",
+      "text": "Let's observe changes in weather like real meteorologists.\nKeep track of clouds, wind direction, and temperature.\nDark grey clouds usually indicate that rain is coming.\nA wind vane shows which direction the wind blows.\nA thermometer measures how hot or cold the air is.\nWrite down daily weather observations in your journal.\nObserve if the wind blows harder in mornings or afternoons.\nCompare weather details across different days of the week!",
       "examples": [
         {
-          "title": "Cloud Observation",
-          "content": "Dark grey clouds usually indicate that rain will fall soon."
-        },
-        {
-          "title": "Wind Observation",
-          "content": "A wind vane shows the direction the wind is blowing."
+          "title": "Weather Tool",
+          "content": "Thermometers measure air temperature in degrees Celsius."
         }
       ]
     },
     {
-      "title": "Common Error: Observation vs Opinion",
-      "text": "A common mistake is writing opinions as observations. Always stick to physical facts.",
+      "title": "Common Error: Opinion in Logs",
+      "text": "A common mistake is writing opinions in science journals.\nWriting 'This leaf is beautiful' is not scientific.\nIt is a personal feeling that others might not share.\nInstead, write: 'This leaf has five lobes and points.'\nThis statement describes physical facts that others can see.\nStick to measurements, colors, shapes, and textures.\nAvoid using opinion words when you record science data.\nCheck your journal entries to ensure they contain facts!",
       "examples": [
         {
           "title": "Incorrect",
-          "content": "Writing 'This leaf is beautiful' is an opinion, not an observation."
-        },
-        {
-          "title": "Correct",
-          "content": "Writing 'This leaf has five lobes' is a physical fact."
+          "content": "Writing: 'The experiment was fun and the liquid looked nice.'"
         }
       ]
     },
     {
       "title": "Common Error: Explaining with Magic",
-      "text": "Do not explain natural events with magic. Look for natural causes instead.",
+      "text": "Do not explain natural events with magic or stories.\nLook for natural causes and explanations instead.\nIncorrect: 'Magic makes the water puddle disappear.'\nCorrect: 'Solar heat evaporates water in the puddle.'\nScience searches for evidence and natural reasons.\nUnderstanding causes helps us make accurate predictions.\nAlways ask what force or energy caused the change.\nBe a fact finder, not a magic believer, in science!",
       "examples": [
         {
-          "title": "Incorrect",
-          "content": "Saying 'Magic makes the puddle disappear.'"
-        },
+          "title": "Scientific Cause",
+          "content": "Heat energy causes liquid water to turn into gas vapor."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice: Science Review A",
+      "text": "Let's review the important science concepts of Week 1.\nWe have studied observations, measurements, and predictions.\nA real scientist is always curious and checks their facts.\nThink about the experiments we discussed in the slides.\nCan you explain them in your own words to others?\nUse your scientific vocabulary to describe your ideas clearly.\nAnswer the quiz questions and challenges to test your memory.\nKeep up the great work and enjoy exploring the world!",
+      "examples": [
         {
-          "title": "Correct",
-          "content": "Saying 'The heat from the sun evaporates the water in the puddle.'"
+          "title": "Review Card 1",
+          "content": "Practice explaining these science ideas to your family."
         }
       ]
     },
     {
       "title": "Summary of Week 1",
-      "text": "You completed Week 1! Remember: Science explains everyday events using observation, senses, and physical facts.",
+      "text": "Congratulations! You completed all the slides for Week 1.\nLet's review the main science tools we mastered.\nWe learned that science is all around us daily.\nWe use our five senses to gather factual observations.\nWe separate physical facts from personal opinions.\nWe explain natural events using energy, force, and heat.\nWe observe weather, plant growth, and animal movement.\nYou are now ready to take the quiz and challenges!",
       "examples": [
         {
           "title": "Key Takeaway",
           "content": "Observation is the foundation of scientific inquiry."
-        },
-        {
-          "title": "Next Step",
-          "content": "Get ready to ask scientific questions like a scientist in Week 2!"
         }
       ]
     }
@@ -1020,151 +920,268 @@ window.WEEK1_DATA.science = {
     {
       "type": "choice",
       "q": "Which sense organ is used to observe the color of a flower?",
-      "options": ["Eyes", "Ears", "Nose", "Tongue"],
+      "options": [
+        "Eyes",
+        "Ears",
+        "Nose",
+        "Tongue"
+      ],
       "answer": 0
     },
     {
       "type": "choice",
       "q": "Which of the following is a scientific observation?",
-      "options": ["The puppy is the cutest animal.", "The puppy has four legs and black fur.", "Puppies are fun to play with.", "Everyone loves puppies."],
+      "options": [
+        "The puppy is the cutest animal.",
+        "The puppy has four legs and black fur.",
+        "Puppies are fun to play with.",
+        "Everyone loves puppies."
+      ],
       "answer": 1
     },
     {
       "type": "choice",
       "q": "What causes wet clothes to dry when hung under the sun?",
-      "options": ["The wind blows them away.", "The heat from the sun evaporates the water.", "The colors absorb the water.", "Gravity pulls the water out."],
+      "options": [
+        "The wind blows them away.",
+        "The heat from the sun evaporates the water.",
+        "The colors absorb the water.",
+        "Gravity pulls the water out."
+      ],
       "answer": 1
     },
     {
       "type": "choice",
       "q": "Which of the following is an opinion, NOT a scientific fact?",
-      "options": ["Water freezes at 0 degrees Celsius.", "Iron nails rust when left wet.", "Green leaves are prettier than red leaves.", "Plants need sunlight to grow."],
+      "options": [
+        "Water freezes at 0 degrees Celsius.",
+        "Iron nails rust when left wet.",
+        "Green leaves are prettier than red leaves.",
+        "Plants need sunlight to grow."
+      ],
       "answer": 2
     },
     {
       "type": "verify",
       "q": "True or False: A shadow forms when an object blocks light.",
-      "options": ["True", "False"],
+      "options": [
+        "True",
+        "False"
+      ],
       "answer": 0
     },
     {
       "type": "choice",
       "q": "What do we call the process where water turns into invisible vapor?",
-      "options": ["Melting", "Freezing", "Evaporation", "Rusting"],
+      "options": [
+        "Melting",
+        "Freezing",
+        "Evaporation",
+        "Rusting"
+      ],
       "answer": 2
     },
     {
       "type": "choice",
       "q": "Which of the following is a physical property of clay?",
-      "options": ["It can be molded into shapes.", "It is a liquid that flows.", "It is invisible.", "It is always hot."],
+      "options": [
+        "It can be molded into shapes.",
+        "It is a liquid that flows.",
+        "It is invisible.",
+        "It is always hot."
+      ],
       "answer": 0
     },
     {
       "type": "choice",
       "q": "What happens to butter when it is heated in a pan?",
-      "options": ["It freezes.", "It melts into a liquid.", "It turns into wood.", "It becomes colder."],
+      "options": [
+        "It freezes.",
+        "It melts into a liquid.",
+        "It turns into wood.",
+        "It becomes colder."
+      ],
       "answer": 1
     },
     {
       "type": "choice",
       "q": "Which tool helps us see tiny insect parts more clearly?",
-      "options": ["Ruler", "Hand lens (Magnifying glass)", "Scissors", "Cardboard"],
+      "options": [
+        "Ruler",
+        "Hand lens (Magnifying glass)",
+        "Scissors",
+        "Cardboard"
+      ],
       "answer": 1
     },
     {
       "type": "choice",
       "q": "What happens to an iron nail when left wet in the air?",
-      "options": ["It turns into gold.", "It rusts and turns orange-brown.", "It melts into water.", "It disappears."],
+      "options": [
+        "It turns into gold.",
+        "It rusts and turns orange-brown.",
+        "It melts into water.",
+        "It disappears."
+      ],
       "answer": 1
     },
     {
       "type": "choice",
       "q": "Why do we wash our hands with soap?",
-      "options": ["To make them smell like candy.", "To remove dirt and kill invisible germs.", "To change our skin color.", "To make our hands grow larger."],
+      "options": [
+        "To make them smell like candy.",
+        "To remove dirt and kill invisible germs.",
+        "To change our skin color.",
+        "To make our hands grow larger."
+      ],
       "answer": 1
     },
     {
       "type": "verify",
       "q": "True or False: Saying 'The soup is too salty' is a personal opinion, not a scientific measurement.",
-      "options": ["True", "False"],
+      "options": [
+        "True",
+        "False"
+      ],
       "answer": 0
     },
     {
       "type": "choice",
       "q": "Which type of soil holds the most water and feels sticky?",
-      "options": ["Sand", "Clay", "Loam", "Gravel"],
+      "options": [
+        "Sand",
+        "Clay",
+        "Loam",
+        "Gravel"
+      ],
       "answer": 1
     },
     {
       "type": "choice",
       "q": "What makes leaves on a tree move?",
-      "options": ["The heat of the sun", "The blowing wind", "The gravity of the earth", "The moon"],
+      "options": [
+        "The heat of the sun",
+        "The blowing wind",
+        "The gravity of the earth",
+        "The moon"
+      ],
       "answer": 1
     },
     {
       "type": "choice",
       "q": "Which sense organ helps us hear the chime of a bell?",
-      "options": ["Nose", "Ears", "Eyes", "Skin"],
+      "options": [
+        "Nose",
+        "Ears",
+        "Eyes",
+        "Skin"
+      ],
       "answer": 1
     },
     {
       "type": "choice",
       "q": "Which statement is a fact about plants?",
-      "options": ["Plants are happy in the rain.", "Plants need water to survive.", "Plants grow better when we play music.", "Green plants are better than yellow ones."],
+      "options": [
+        "Plants are happy in the rain.",
+        "Plants need water to survive.",
+        "Plants grow better when we play music.",
+        "Green plants are better than yellow ones."
+      ],
       "answer": 1
     },
     {
       "type": "choice",
       "q": "What force is applied when you drag a heavy box towards yourself?",
-      "options": ["Push", "Pull", "Heat", "Light"],
+      "options": [
+        "Push",
+        "Pull",
+        "Heat",
+        "Light"
+      ],
       "answer": 1
     },
     {
       "type": "choice",
       "q": "What force is applied when you kick a soccer ball away?",
-      "options": ["Push", "Pull", "Gravity", "Friction"],
+      "options": [
+        "Push",
+        "Pull",
+        "Gravity",
+        "Friction"
+      ],
       "answer": 0
     },
     {
       "type": "choice",
       "q": "What splits sunlight to create a rainbow?",
-      "options": ["Air molecules", "Water droplets in the air", "Dirt on the ground", "Tree leaves"],
+      "options": [
+        "Air molecules",
+        "Water droplets in the air",
+        "Dirt on the ground",
+        "Tree leaves"
+      ],
       "answer": 1
     },
     {
       "type": "verify",
       "q": "True or False: Science explains how things work in the natural world through evidence and tests.",
-      "options": ["True", "False"],
+      "options": [
+        "True",
+        "False"
+      ],
       "answer": 0
     },
     {
       "type": "choice",
       "q": "Fill in the blank: The Sun rises in the ___.",
-      "options": ["East", "West", "North", "South"],
+      "options": [
+        "East",
+        "West",
+        "North",
+        "South"
+      ],
       "answer": 0
     },
     {
       "type": "choice",
       "q": "What is the state of water we drink?",
-      "options": ["Solid", "Liquid", "Gas", "Plasma"],
+      "options": [
+        "Solid",
+        "Liquid",
+        "Gas",
+        "Plasma"
+      ],
       "answer": 1
     },
     {
       "type": "choice",
       "q": "Which of the following is a natural event explained by science?",
-      "options": ["A magic trick", "Weather changing from sunny to rainy", "A cartoon character flying", "A wishing well working"],
+      "options": [
+        "A magic trick",
+        "Weather changing from sunny to rainy",
+        "A cartoon character flying",
+        "A wishing well working"
+      ],
       "answer": 1
     },
     {
       "type": "verify",
       "q": "True or False: Plants bend towards light because they need it to grow.",
-      "options": ["True", "False"],
+      "options": [
+        "True",
+        "False"
+      ],
       "answer": 0
     },
     {
       "type": "choice",
       "q": "What is the main goal of science?",
-      "options": ["To make magic tricks", "To understand how the natural world works", "To paint beautiful pictures", "To write storybooks"],
+      "options": [
+        "To make magic tricks",
+        "To understand how the natural world works",
+        "To paint beautiful pictures",
+        "To write storybooks"
+      ],
       "answer": 1
     }
   ],
@@ -1172,31 +1189,56 @@ window.WEEK1_DATA.science = {
     {
       "type": "choice",
       "q": "If you observe that a puddle of water disappears faster on a hot day than on a cloudy day, what can you infer?",
-      "options": ["Heat increases the rate of evaporation.", "The cloud absorbs the water.", "Water likes cloudy days more.", "Wind only blows on hot days."],
+      "options": [
+        "Heat increases the rate of evaporation.",
+        "The cloud absorbs the water.",
+        "Water likes cloudy days more.",
+        "Wind only blows on hot days."
+      ],
       "answer": 0
     },
     {
       "type": "choice",
       "q": "Why does a metal slide in the playground feel hot on a sunny afternoon?",
-      "options": ["It absorbs heat from the Sun.", "It produces its own heat.", "It is made of wood.", "The ground pushes heat up."],
+      "options": [
+        "It absorbs heat from the Sun.",
+        "It produces its own heat.",
+        "It is made of wood.",
+        "The ground pushes heat up."
+      ],
       "answer": 0
     },
     {
       "type": "choice",
       "q": "Which of the following contains ONLY scientific observations?",
-      "options": ["The rock is black, smooth, and weighs 50 grams.", "The rock is pretty, smooth, and lucky.", "The rock is heavy, ugly, and cold.", "The rock is small, nice, and weighs 10 grams."],
+      "options": [
+        "The rock is black, smooth, and weighs 50 grams.",
+        "The rock is pretty, smooth, and lucky.",
+        "The rock is heavy, ugly, and cold.",
+        "The rock is small, nice, and weighs 10 grams."
+      ],
       "answer": 0
     },
     {
       "type": "choice",
       "q": "What would happen to a plant if it were placed in a completely dark room for two weeks?",
-      "options": ["It would grow taller and greener.", "It would turn yellow, weaken, and eventually die.", "It would turn into a flower.", "It would stay exactly the same."],
+      "options": [
+        "It would grow taller and greener.",
+        "It would turn yellow, weaken, and eventually die.",
+        "It would turn into a flower.",
+        "It would stay exactly the same."
+      ],
       "answer": 1
     },
     {
       "type": "choice",
       "q": "A student says, 'This ice cream is delicious.' Another student says, 'This ice cream melts at room temperature.' Which statement is scientific?",
-      "options": ["The first statement", "The second statement", "Both statements", "Neither statement"],
+      "options": [
+        "The first statement",
+        "The second statement",
+        "Both statements",
+        "Neither statement"
+      ],
       "answer": 1
     }
   ],
@@ -1204,7 +1246,11 @@ window.WEEK1_DATA.science = {
     "type": "performance",
     "title": "Everyday Science Observation Diary",
     "desc": "Observe three different objects or natural events in your home or garden (e.g., water boiling, a plant bending, a shadow on the floor). Draw them on a piece of paper, write one factual observation for each, and explain the science behind them to your parent.",
-    "labels": ["Correctly separated facts from opinions in observations", "Clearly drew and described the selected science events", "Explained the scientific cause (e.g., heat, light, growth) accurately"]
+    "labels": [
+      "Correctly separated facts from opinions in observations",
+      "Clearly drew and described the selected science events",
+      "Explained the scientific cause (e.g., heat, light, growth) accurately"
+    ]
   },
   "worksheet": {
     "pages": [
@@ -1838,352 +1884,256 @@ window.WEEK1_DATA.filipino = {
   "subtitle": "Week 1: Pangngalang Pantangi at Pambalana sa Pook",
   "slides": [
     {
-      "title": "Introduction to Week 1: Pangngalang Pantangi at Pambalana sa Pook",
-      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Filipino.",
+      "title": "Maligayang Pagdating sa Filipino!",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Hello, Grade Three student! Welcome!\">Kumusta, mag-aaral sa Grade Three! Maligayang pagdating!</span>\n<span class=\"fil-sentence\" data-translation=\"This week, we will study about nouns.\">Ngayong linggo, mag-aaral tayo tungkol sa mga pangngalan.</span>\n<span class=\"fil-sentence\" data-translation=\"A noun is a name of a person, thing, or place.\">Ang pangngalan ay ngalan ng tao, bagay, o pook.</span>\n<span class=\"fil-sentence\" data-translation=\"We will use examples from our own community.\">Gagamit tayo ng mga halimbawa sa ating sariling komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"We will study proper and common nouns of places.\">Pag-aaralan natin ang pangngalang pantangi at pambalana sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"This will help greatly in describing our surroundings.\">Malaki ang maitutulong nito sa paglalarawan ng paligid.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready to write and read with me today?\">Handa ka na bang sumulat at magbasa kasama ko ngayon?</span>\n<span class=\"fil-sentence\" data-translation=\"Let's start the happy journey in our language!\">Simulan natin ang masayang paglalakbay sa ating wika!</span>",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 1: Pangngalang Pantangi at Pambalana sa Pook and apply them in daily situations."
-        },
-        {
-          "title": "Real-world Connection",
-          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+          "title": "Layunin ng Linggo",
+          "content": "Matukoy ang pangngalang pantangi at pambalana sa mga pook sa komunidad."
         }
       ]
     },
     {
-      "title": "Core Vocabulary & Terms",
-      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "title": "Ano ang Pangngalan?",
+      "text": "<span class=\"fil-sentence\" data-translation=\"A noun is a word used to name things in the world.\">Ang pangngalan ay tawag sa ngalan ng mga bagay.</span>\n<span class=\"fil-sentence\" data-translation=\"This includes people, animals, places, and events.\">Kasama rito ang tao, hayop, pook, at mga pangyayari.</span>\n<span class=\"fil-sentence\" data-translation=\"Around us, there are different types of places.\">Sa paligid natin, may mga iba't ibang uri ng pook.</span>\n<span class=\"fil-sentence\" data-translation=\"We have homes, schools, churches, and markets.\">Mayroon tayong tahanan, paaralan, simbahan, at palengke.</span>\n<span class=\"fil-sentence\" data-translation=\"Each of these places has its own name.\">Ang bawat pook na ito ay may kani-kanilang pangalan.</span>\n<span class=\"fil-sentence\" data-translation=\"There is a general name and there is a specific name.\">May pangkalahatang tawag at may tiyak ding tawag.</span>\n<span class=\"fil-sentence\" data-translation=\"These are the two main types of nouns in language.\">Ito ang dalawang pangunahing uri ng pangngalan sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's find out how they differ in writing!\">Alamin natin kung paano sila nagkakaiba sa pagsulat!</span>",
       "examples": [
         {
-          "title": "Term 1: Alpabeto",
-          "content": "A foundational concept in Filipino that helps us categorize and understand details."
-        },
-        {
-          "title": "Term 2: Patinig",
-          "content": "An active process or skill used to analyze situations and solve problems."
+          "title": "Halimbawa ng Pook",
+          "content": "paaralan (school), barangay (village), parke (park)"
         }
       ]
     },
     {
-      "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 1: Pangngalang Pantangi at Pambalana sa Pook. By looking closely at how these ideas work together, we can build a strong understanding of Filipino.",
+      "title": "Pangngalang Pambalana",
+      "text": "<span class=\"fil-sentence\" data-translation=\"A common noun is a general name of a place.\">Ang pambalana ay pangkalahatang ngalan ng pook.</span>\n<span class=\"fil-sentence\" data-translation=\"It is not specific and refers to general categories.\">Ito ay hindi tiyak at tumutukoy sa pangkalahatan.</span>\n<span class=\"fil-sentence\" data-translation=\"It starts with a lowercase letter when written.\">Nagsisimula ito sa maliit na titik kapag isinusulat.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: city, province, hospital, and river.\">Halimbawa: lungsod, lalawigan, ospital, at ilog.</span>\n<span class=\"fil-sentence\" data-translation=\"When we say 'river', we do not know which one.\">Kapag sinabi nating 'ilog', hindi natin alam kung alin.</span>\n<span class=\"fil-sentence\" data-translation=\"There are many rivers in the Philippines we can go to.\">Maraming ilog sa Pilipinas na maaari nating puntahan.</span>\n<span class=\"fil-sentence\" data-translation=\"So the word 'river' is a general common noun.\">Kaya ang salitang 'ilog' ay pangkalahatang pambalana.</span>\n<span class=\"fil-sentence\" data-translation=\"Can you guess other examples of common nouns?\">Maaari mo bang hulaan ang iba pang halimbawa?</span>",
       "examples": [
         {
-          "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 1: Pangngalang Pantangi at Pambalana sa Pook in simple activities."
-        },
-        {
-          "title": "Why It Matters",
-          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+          "title": "Pambalana",
+          "content": "ospital (hospital), bundok (mountain), aklatan (library)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Pangngalang Pantangi",
+      "text": "<span class=\"fil-sentence\" data-translation=\"A proper noun is a specific name of a place.\">Ang pantangi ay tiyak na ngalan ng isang pook.</span>\n<span class=\"fil-sentence\" data-translation=\"It refers to one unique and specific place only.\">Ito ay tumutukoy sa isang tanging lugar lamang.</span>\n<span class=\"fil-sentence\" data-translation=\"It always starts with a capital letter in writing.\">Lagi itong nagsisimula sa malaking titik sa pagsulat.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: Manila, Laguna, Barangay San Jose, Pasig River.\">Halimbawa: Maynila, Laguna, Barangay San Jose, Ilog Pasig.</span>\n<span class=\"fil-sentence\" data-translation=\"When we say 'Manila', it is a specific city.\">Kapag sinabi nating 'Maynila', tiyak na lungsod ito.</span>\n<span class=\"fil-sentence\" data-translation=\"This is the unique name of our nation's capital.\">Ito ang tanging pangalan ng kabisera ng bansa natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Therefore it is written using a capital letter.\">Kaya ito ay isinusulat gamit ang malaking titik.</span>\n<span class=\"fil-sentence\" data-translation=\"Remember this rule in every writing activity!\">Tandaan ang panuntunang ito sa bawat pagsusulat!</span>",
       "examples": [
         {
-          "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Pantangi",
+          "content": "Ilog Pasig (Pasig River), Mt. Makiling, Lungsod ng Calamba"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Pagkukumpara sa Pagsulat",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's compare the two types of nouns side by side.\">Pagkumparahin natin ang dalawang uri ng pangngalan.</span>\n<span class=\"fil-sentence\" data-translation=\"The common noun is 'country', the proper is 'Philippines'.\">Ang pambalana ay 'bansa', ang pantangi ay 'Pilipinas'.</span>\n<span class=\"fil-sentence\" data-translation=\"The common noun is 'province', the proper is 'Laguna'.\">Ang pambalana ay 'lalawigan', ang pantangi ay 'Laguna'.</span>\n<span class=\"fil-sentence\" data-translation=\"The common noun is 'school', the proper is 'Calamba School'.\">Ang pambalana ay 'paaralan', ang pantangi ay 'Paaralang Calamba'.</span>\n<span class=\"fil-sentence\" data-translation=\"Did you notice the use of the capital letter?\">Napansin mo ba ang paggamit ng malaking titik?</span>\n<span class=\"fil-sentence\" data-translation=\"Proper nouns have their own identity in language.\">Ang pantangi ay may sariling pagkakakilanlan sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"Common nouns remain general in their written form.\">Ang pambalana ay nananatiling pangkalahatan ang anyo.</span>\n<span class=\"fil-sentence\" data-translation=\"Train your eyes to recognize these two forms!\">Sanayin ang mata sa pagkilala sa dalawang ito!</span>",
       "examples": [
         {
-          "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
+          "title": "Pambalana vs Pantangi",
+          "content": "bayan (town) vs. Bayan ng Los Baños"
         },
         {
-          "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Tandaan",
+          "content": "Pantangi = Malaking titik (Capital letter)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Tahanan at Komunidad",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Our home is an important place for all of us.\">Ang ating tahanan ay isang mahalagang pook sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"The common noun for it is 'home' or 'house'.\">Ang pambalana para rito ay 'tahanan' o 'bahay'.</span>\n<span class=\"fil-sentence\" data-translation=\"The proper noun is your own specific address today.\">Ang pantangi naman ay ang iyong sariling address ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: '123 Rizal Street' is a proper noun.\">Halimbawa: '123 Kalye Rizal' ay isang pangngalang pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"Outside the house, we can see the barangay hall.\">Sa labas ng bahay, makikita natin ang barangay hall.</span>\n<span class=\"fil-sentence\" data-translation=\"The term 'barangay hall' is a common noun in our language.\">Ang 'barangay hall' ay pambalana sa ating wika.</span>\n<span class=\"fil-sentence\" data-translation=\"But 'Barangay San Juan Hall' is a proper noun already.\">Ngunit ang 'Barangay San Juan Hall' ay pantangi na.</span>\n<span class=\"fil-sentence\" data-translation=\"Look at your surroundings and list down places!\">Masdan ang iyong paligid at maglista ng pook!</span>",
       "examples": [
         {
-          "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Komunidad",
+          "content": "tahanan (common) -> 45 Kalye Mabini (proper)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Paaralan sa Pagsusuri",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The school is a place where we study together.\">Ang paaralan ay pook kung saan tayo nag-aaral.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'school' is a general common noun.\">Ang 'paaralan' ay pangkalahatang pangngalang pambalana.</span>\n<span class=\"fil-sentence\" data-translation=\"We have different rooms inside the school building.\">Mayroon tayong iba't ibang silid sa loob nito.</span>\n<span class=\"fil-sentence\" data-translation=\"There is the classroom, library, office, and restroom.\">May silid-aralan, aklatan, opisina, at palikuran.</span>\n<span class=\"fil-sentence\" data-translation=\"All of these rooms are common nouns in language.\">Ang lahat ng silid na ito ay pambalana sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"But the specific name of your school is a proper noun.\">Ngunit ang pangalan ng iyong eskwelahan ay pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'Calamba Elementary School' is proper.\">Halimbawa: 'Paaralang Elementarya ng Calamba' ay pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"Always write it using capital letters!\">Lagi itong isulat gamit ang malalaking titik!</span>",
       "examples": [
         {
-          "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Paaralan",
+          "content": "aklatan (library - pambalana), Paaralang San Jose (proper)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Mga Lugar ng Pagsamba",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The church is a place for our quiet prayers.\">Ang simbahan ay pook para sa ating pananalangin.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'church' is a general common noun.\">Ang 'simbahan' ay pangkalahatang pambalana na salita.</span>\n<span class=\"fil-sentence\" data-translation=\"There are different churches and chapels in the community.\">May iba't ibang simbahan at kapilya sa komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'San Pablo Cathedral' is a proper noun.\">Halimbawa: 'Katedral ng San Pablo' ay isang pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"It is the specific name of a cathedral in Laguna.\">Ito ay tiyak na ngalan ng isang katedral sa Laguna.</span>\n<span class=\"fil-sentence\" data-translation=\"There is also the 'Quiapo Mosque' in the City of Manila.\">Mayroon ding 'Moske ng Quiapo' sa Lungsod ng Maynila.</span>\n<span class=\"fil-sentence\" data-translation=\"The specific names of mosques are also proper nouns.\">Ang mga tiyak na ngalan ng moske ay pantangi rin.</span>\n<span class=\"fil-sentence\" data-translation=\"Remember to respect all places of worship!\">Tandaan na igalang ang lahat ng pook ng pagsamba!</span>",
       "examples": [
         {
-          "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Simbahan",
+          "content": "kapilya (chapel - pambalana), Simbahan ng Quiapo (proper)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Mga Pook ng Kalusugan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The hospital is a place that cares for sick people.\">Ang ospital ay pook na nag-aalaga sa may-sakit.</span>\n<span class=\"fil-sentence\" data-translation=\"The words 'hospital' and 'health center' are common nouns.\">Ang 'ospital' at 'health center' ay mga pambalana.</span>\n<span class=\"fil-sentence\" data-translation=\"We use them in general everyday conversations.\">Ginagamit natin ang mga ito sa pangkalahatang usapan.</span>\n<span class=\"fil-sentence\" data-translation=\"But the specific name of a clinic is a proper noun.\">Ngunit ang tiyak na ngalan ng klinika ay pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'Laguna Hospital' is a specific name.\">Halimbawa: 'Ospital ng Laguna' ay tiyak na ngalan.</span>\n<span class=\"fil-sentence\" data-translation=\"It must be written with capital letters O and L.\">Dapat itong isulat na malaki ang titik O at L.</span>\n<span class=\"fil-sentence\" data-translation=\"The 'clinic of Dr. Santos' is also a proper noun.\">Ang 'klinika ni Dr. Santos' ay pantangi rin sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"Why is it important to know the hospital name?\">Bakit mahalagang malaman ang ngalan ng ospital?</span>",
       "examples": [
         {
-          "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Kalusugan",
+          "content": "klinika (clinic - pambalana), Ospital ng Maynila (proper)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Mga Likas na Pook",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Nature is full of beautiful natural places.\">Ang kalikasan ay puno ng magagandang likas na pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: mountain, hill, river, sea, and waterfall.\">Halimbawa: bundok, burol, ilog, dagat, at talon.</span>\n<span class=\"fil-sentence\" data-translation=\"These words are common nouns in Filipino.\">Ang mga salitang ito ay mga pambalana sa Filipino.</span>\n<span class=\"fil-sentence\" data-translation=\"When we give a specific name, it becomes proper.\">Kapag binigyan natin ng tiyak na ngalan, ito ay pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: Mount Makiling, Taal Volcano, Pasig River.\">Halimbawa: Bundok Makiling, Bulkang Taal, Ilog Pasig.</span>\n<span class=\"fil-sentence\" data-translation=\"These are written using capital letters.\">Isinusulat ang mga ito gamit ang malaking titik.</span>\n<span class=\"fil-sentence\" data-translation=\"Mount Makiling is a famous mountain in Laguna.\">Ang Bundok Makiling ay isang kilalang bundok sa Laguna.</span>\n<span class=\"fil-sentence\" data-translation=\"Examine the natural places in your province!\">Suriin ang mga likas na pook sa inyong probinsya!</span>",
       "examples": [
         {
-          "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Likas na Pook",
+          "content": "bundok (mountain - pambalana) -> Bundok Banahaw (proper)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Mga Makasaysayang Pook",
+      "text": "<span class=\"fil-sentence\" data-translation=\"There are places that play a big part in history.\">May mga pook na may malaking bahagi sa kasaysayan.</span>\n<span class=\"fil-sentence\" data-translation=\"The term 'historical place' is a common noun.\">Ang 'makasaysayang pook' ay isang pangngalang pambalana.</span>\n<span class=\"fil-sentence\" data-translation=\"But the specific monument is proper in language.\">Ngunit ang tiyak na monumento ay pantangi sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'Rizal Park' in Manila is a proper noun.\">Halimbawa: 'Rizal Park' sa Maynila ay isang pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"The 'Rizal House in Calamba' is also proper.\">Ang 'Bahay ni Rizal sa Calamba' ay pantangi rin.</span>\n<span class=\"fil-sentence\" data-translation=\"This is where our national hero was born.\">Dito ipinanganak ang ating pambansang bayani.</span>\n<span class=\"fil-sentence\" data-translation=\"We write these historical names with capital letters.\">Isinusulat natin ang mga ito na may malaking titik.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's visit these places in order to learn!\">Bisitahin natin ang mga pook na ito upang matuto!</span>",
       "examples": [
         {
-          "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Kasaysayan",
+          "content": "monumento (monument - pambalana), Fort Santiago (proper)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Mga Lugar ng Pamimili",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The market is a place where we buy our food.\">Ang palengke ay pook kung saan tayo namimili.</span>\n<span class=\"fil-sentence\" data-translation=\"The words 'market' and 'store' are common nouns.\">Ang 'palengke' at 'tindahan' ay mga pambalana.</span>\n<span class=\"fil-sentence\" data-translation=\"There are many stores in our own barangay.\">Maraming tindahan sa ating sariling barangay.</span>\n<span class=\"fil-sentence\" data-translation=\"But the specific name of a mall is proper.\">Ngunit ang tiyak na ngalan ng mall ay pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'SM City Calamba' is a proper noun.\">Halimbawa: 'SM City Calamba' ay isang pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"The 'Store of Aling Maria' is also proper.\">Ang 'Tindahan ni Aling Maria' ay pantangi rin.</span>\n<span class=\"fil-sentence\" data-translation=\"These names are written with capital letters.\">Isinusulat ang mga ito nang may malaking titik.</span>\n<span class=\"fil-sentence\" data-translation=\"Where do you usually buy your family food?\">Saan kayo madalas mamili ng inyong pagkain?</span>",
       "examples": [
         {
-          "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Pamimili",
+          "content": "tindahan (store - pambalana), Rustan's Supermarket (proper)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Mga Lugar ng Libangan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The park is a beautiful place for playing.\">Ang parke ay magandang pook para sa paglalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"The words 'park' and 'playground' are common nouns.\">Ang 'parke' at 'laruan' ay mga pambalana sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"Here we run around and play with our friends.\">Dito tayo tumatakbo at nakikipaglaro sa mga kaibigan.</span>\n<span class=\"fil-sentence\" data-translation=\"If the park has a specific name, it is proper.\">Kung ang parke ay may tiyak na pangalan, ito ay pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'Laguna Plaza' is a proper noun.\">Halimbawa: 'Laguna Plaza' ay isang pangngalang pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"Even 'Enchanted Kingdom' is a proper noun.\">Maging ang 'Enchanted Kingdom' ay pantangi rin.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's always remember the correct way to write it.\">Lagi nating tandaan ang wastong pagsulat nito.</span>\n<span class=\"fil-sentence\" data-translation=\"Use a capital letter at the start of each word!\">Gumamit ng malaking titik sa simula ng bawat salita!</span>",
       "examples": [
         {
-          "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Libangan",
+          "content": "parke (park - pambalana), Luneta Park (proper)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Pagsusuri sa Pangungusap",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze the place nouns in sentences.\">Suriin natin ang mga pook sa pangungusap.</span>\n<span class=\"fil-sentence\" data-translation=\"Statement: 'We went to a big school.'\">Pahayag: 'Pumunta kami sa isang malaking paaralan.'</span>\n<span class=\"fil-sentence\" data-translation=\"The place here is 'school' which is a common noun.\">Ang pook dito ay 'paaralan' na isang pambalana.</span>\n<span class=\"fil-sentence\" data-translation=\"Another statement: 'We are studying in Calamba.'\">Isa pang pahayag: 'Kami ay nag-aaral sa Calamba.'</span>\n<span class=\"fil-sentence\" data-translation=\"The place here is 'Calamba' which is a proper noun.\">Ang pook dito ay 'Calamba' na isang pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"It is the specific name of a city in Laguna.\">Ito ay tiyak na ngalan ng lungsod sa Laguna.</span>\n<span class=\"fil-sentence\" data-translation=\"So it starts with the capital letter C.\">Kaya nagsisimula ito sa malaking titik na C.</span>\n<span class=\"fil-sentence\" data-translation=\"Is it easy to identify these places in sentences?\">Madali lang bang matukoy ang mga pook na ito?</span>",
       "examples": [
         {
-          "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Pagsusuri",
+          "content": "paaralan (common noun) vs. Calamba (proper noun)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Panuntunan sa Malaking Titik",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Why is the capital letter important for proper nouns?\">Bakit mahalaga ang malaking titik sa pantangi?</span>\n<span class=\"fil-sentence\" data-translation=\"It indicates the specific and unique name of a place.\">Ito ay nagpapakita ng tiyak na ngalan ng pook.</span>\n<span class=\"fil-sentence\" data-translation=\"If we write 'pilipinas' in lowercase, it is wrong.\">Kung isusulat natin ang 'pilipinas', ito ay mali.</span>\n<span class=\"fil-sentence\" data-translation=\"It must be written as 'Pilipinas' with a capital P.\">Dapat itong isulat na 'Pilipinas' na may malaking P.</span>\n<span class=\"fil-sentence\" data-translation=\"Likewise for 'ilog pasig', it must be 'Ilog Pasig'.\">Gayundin sa 'ilog pasig', dapat ay 'Ilog Pasig'.</span>\n<span class=\"fil-sentence\" data-translation=\"Capital letter I and capital letter P are both required.\">Malaki ang titik I at malaki rin ang titik P.</span>\n<span class=\"fil-sentence\" data-translation=\"This is the correct spelling and grammar in our language.\">Ito ang wastong bantas at baybay sa ating wika.</span>\n<span class=\"fil-sentence\" data-translation=\"Practice writing this correctly every single day!\">Sanayin ang sarili sa pagsulat nito araw-araw!</span>",
       "examples": [
         {
-          "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Wastong Pagsulat",
+          "content": "mali: ilog pasig -> tama: Ilog Pasig"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Pambalana sa Ating Paligid",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Look outside your window right now.\">Tumingin ka sa labas ng inyong bintana ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"What general places can you observe out there?\">Ano-anong mga pangkalahatang pook ang iyong nakikita?</span>\n<span class=\"fil-sentence\" data-translation=\"Maybe there is a road, field, river, or houses.\">Maaaring may kalsada, bukid, ilog, o kabahayan.</span>\n<span class=\"fil-sentence\" data-translation=\"These words represent general types of places.\">Ang mga salitang ito ay mga pangkalahatang pook.</span>\n<span class=\"fil-sentence\" data-translation=\"So they are common nouns in our language.\">Kaya sila ay mga pangngalang pambalana sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"Write them using lowercase letters only.\">Isulat ang mga ito gamit ang maliit na titik lamang.</span>\n<span class=\"fil-sentence\" data-translation=\"We do not need to capitalize the start of the word.\">Hindi natin kailangang lakihan ang simula ng salita.</span>\n<span class=\"fil-sentence\" data-translation=\"This is a basic rule in our grammar lessons!\">Ito ay isang pangunahing tuntunin sa ating balarila!</span>",
       "examples": [
         {
-          "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Pambalana",
+          "content": "kalsada (road), bukid (field), bundok (mountain)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Mga Bayani at Kanilang Pook",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Many places are named after our national heroes.\">Maraming pook ang ipinangalan sa mga bayani natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: 'Rizal Street' or 'Town of Bonifacio'.\">Halimbawa: 'Kalye Rizal' o 'Bayan ng Bonifacio'.</span>\n<span class=\"fil-sentence\" data-translation=\"These historical places are proper nouns.\">Ang mga pook na ito ay mga pangngalang pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"A capital letter is needed due to the specific name.\">Kailangan ang malaking titik dahil may tiyak na ngalan.</span>\n<span class=\"fil-sentence\" data-translation=\"Dr. Jose Rizal was born in Calamba, Laguna.\">Si Dr. Jose Rizal ay ipinanganak sa Calamba, Laguna.</span>\n<span class=\"fil-sentence\" data-translation=\"Both 'Calamba' and 'Laguna' are proper nouns.\">Ang 'Calamba' at 'Laguna' ay parehong pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"They start with the capital letters C and L.\">Sila ay nagsisimula sa malalaking titik na C at L.</span>\n<span class=\"fil-sentence\" data-translation=\"This shows respect to these important places!\">Ito ay nagpapakita ng paggalang sa mga pook na ito!</span>",
       "examples": [
         {
-          "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Bayani at Pook",
+          "content": "Rizal (bayani) -> Kalye Rizal (proper noun of place)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Pagsasanay: Paghahanap ng Pook",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's play a game of finding places today.\">Maglaro tayo ng paghahanap ng mga pook ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"Read: 'Matteo went to the big market.'\">Basahin: 'Pumunta si Matteo sa malaking palengke.'</span>\n<span class=\"fil-sentence\" data-translation=\"Where did Matteo go in our sentence?\">Saan pumunta si Matteo sa ating pangungusap?</span>\n<span class=\"fil-sentence\" data-translation=\"He went to the 'market' which is a general place.\">Pumunta siya sa 'palengke' na isang pangkalahatang pook.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'market' is a common noun of place.\">Ang salitang 'palengke' ay pangngalang pambalana.</span>\n<span class=\"fil-sentence\" data-translation=\"It is written using a lowercase letter p.\">Isinusulat ito gamit ang maliit na titik p.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to find other places in different stories!\">Subukan mong maghanap ng pook sa iba pang kwento!</span>\n<span class=\"fil-sentence\" data-translation=\"This is a great way to practice your skills!\">Ito ay isang mahusay na paraan ng pagsasanay!</span>",
       "examples": [
         {
-          "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Pagsasanay",
+          "content": "palengke (common noun - place)"
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 1",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Pagsasanay: Tiyak na Pook",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's read another sentence in our language.\">Basahin natin ang isa pang pangungusap sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"Statement: 'They went on vacation to Baguio City.'\">Pahayag: 'Sila ay nagbakasyon sa Lungsod ng Baguio.'</span>\n<span class=\"fil-sentence\" data-translation=\"What is the specific place mentioned in the statement?\">Ano ang tiyak na pook na binanggit sa pahayag?</span>\n<span class=\"fil-sentence\" data-translation=\"The specific place is 'Baguio City' in Luzon.\">Ang tiyak na pook ay 'Lungsod ng Baguio' sa Luzon.</span>\n<span class=\"fil-sentence\" data-translation=\"This is a proper noun in our language.\">Ito ay isang pangngalang pantangi sa ating wika.</span>\n<span class=\"fil-sentence\" data-translation=\"It starts with a capital letter L and capital B.\">Nagsisimula ito sa malaking titik L at malaking B.</span>\n<span class=\"fil-sentence\" data-translation=\"This shows the specific name of the city.\">Ito ay nagpapakita ng tiyak na ngalan ng lungsod.</span>\n<span class=\"fil-sentence\" data-translation=\"Can you write it down on your paper right now?\">Maaari mo ba itong isulat sa iyong papel ngayon?</span>",
       "examples": [
         {
-          "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 1",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay",
+          "content": "Lungsod ng Baguio (proper noun - place)"
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 2",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Pagsasanay: Tama o Mali?",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the spelling of the following places.\">Suriin natin ang pagsulat ng mga sumusunod na pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Statement: 'He lives in barangay san Juan.'\">Pahayag: 'Nakatira siya sa barangay san Juan.'</span>\n<span class=\"fil-sentence\" data-translation=\"Is there a mistake in writing this place name?\">Mayroon bang pagkakamali sa pagsulat ng pook na ito?</span>\n<span class=\"fil-sentence\" data-translation=\"Yes, 'barangay san Juan' should be a proper noun.\">Oo, ang 'barangay san Juan' ay dapat maging pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"It must be written as 'Barangay San Juan' with capitals.\">Dapat itong isulat na 'Barangay San Juan' na malaki.</span>\n<span class=\"fil-sentence\" data-translation=\"Capital B, capital S, and capital J are all needed.\">Malaki ang titik B, malaki ang S, at malaki ang J.</span>\n<span class=\"fil-sentence\" data-translation=\"This is the correct way to write our barangay name.\">Ito ang tamang paraan ng pagsulat ng ating barangay.</span>\n<span class=\"fil-sentence\" data-translation=\"Always be careful with capital letters in your writing!\">Palaging maging maingat sa malalaking titik sa pagsulat!</span>",
       "examples": [
         {
-          "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 2",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay",
+          "content": "mali: barangay san juan -> tama: Barangay San Juan"
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 3",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Maling Paggamit ng Titik",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid writing common nouns with capital letters.\">Iwasan ang pagsusulat ng pambalana sa malaking titik.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'We went to a Hospital.' (common noun capitalized)\">Mali: 'Pumunta kami sa isang Ospital.'</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'hospital' is just a common noun here.\">Ang 'ospital' ay pambalana lamang sa pangungusap.</span>\n<span class=\"fil-sentence\" data-translation=\"So it should be written with a lowercase letter o.\">Kaya dapat itong isulat sa maliit na titik o.</span>\n<span class=\"fil-sentence\" data-translation=\"Correct: 'We went to a hospital.' (lowercase o)\">Tama: 'Pumunta kami sa isang ospital.'</span>\n<span class=\"fil-sentence\" data-translation=\"Do not capitalize the letter if it is not specific.\">Huwag lakihan ang titik kung hindi ito tiyak.</span>\n<span class=\"fil-sentence\" data-translation=\"This is a common mistake made by young learners.\">Ito ay isang karaniwang pagkakamali ng mga bata.</span>\n<span class=\"fil-sentence\" data-translation=\"Make sure your letters are correct in your writing now!\">Tiyakin na tama ang iyong mga titik sa pagsulat ngayon!</span>",
       "examples": [
         {
-          "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 3",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Maling Titik",
+          "content": "mali: Ospital -> tama: ospital"
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 4",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Pagkilala sa mga Kategorya",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Do not confuse people or things with places.\">Huwag ipagpalit ang tao o bagay sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"The 'teacher' is a person; the 'school' is a place.\">Ang 'guro' ay tao; ang 'paaralan' ay pook.</span>\n<span class=\"fil-sentence\" data-translation=\"The 'book' is a thing; the 'library' is a place.\">Ang 'aklat' ay bagay; ang 'aklatan' ay pook.</span>\n<span class=\"fil-sentence\" data-translation=\"The 'doctor' is a person; the 'hospital' is a place.\">Ang 'doktor' ay tao; ang 'ospital' ay pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Analyze carefully what the word is referring to.\">Suriin nang mabuti kung ano ang tinutukoy ng salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Is it a location, or an object, or a person?\">Ito ba ay isang lugar o kagamitan o tao?</span>\n<span class=\"fil-sentence\" data-translation=\"Classifying into categories is an important skill.\">Ang pag-uri sa kategorya ay mahalagang kasanayan.</span>\n<span class=\"fil-sentence\" data-translation=\"This will help in understanding the meaning of words!\">Makatutulong ito sa pag-unawa ng kahulugan ng salita!</span>",
       "examples": [
         {
-          "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 4",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Kategorya",
+          "content": "aklat (bagay) vs. aklatan (pook - place)"
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 1",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Bakit Mahalaga ang Pook?",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Places provide the setting for our stories.\">Ang mga pook ay nagbibigay ng setting sa kwento.</span>\n<span class=\"fil-sentence\" data-translation=\"This is where all important events take place.\">Dito nagaganap ang lahat ng mahahalagang pangyayari.</span>\n<span class=\"fil-sentence\" data-translation=\"In writing stories, we need to specify the place.\">Sa pagsulat ng kwento, kailangan natin ang pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Specifying the place gives clarity to the reader.\">Ang pagtukoy sa pook ay nagbibigay-linaw sa mambabasa.</span>\n<span class=\"fil-sentence\" data-translation=\"We can use either common or proper nouns.\">Maaari nating gamitin ang pambalana o pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"This depends on whether we want to be specific or not.\">Depende ito kung nais nating maging tiyak o hindi.</span>\n<span class=\"fil-sentence\" data-translation=\"Use your knowledge to write a short story!\">Gamitin ang iyong kaalaman upang sumulat ng kwento!</span>\n<span class=\"fil-sentence\" data-translation=\"Share it with your teacher and classmates today!\">Ibahagi ito sa iyong guro at mga kamag-aral ngayon!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 1",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 1",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Kahalagahan",
+          "content": "Ang pook ay sumasagot sa tanong na: Saan? (Where?)"
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 2",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Gabay sa Pagsusulat ng Pook",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Here is a quick guide to writing places correctly.\">Narito ang mabilis na gabay sa pagsusulat ng pook.</span>\n<span class=\"fil-sentence\" data-translation=\"First, determine if it is common or proper.\">Una, alamin kung ito ay pambalana o pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"Second, if it is proper, capitalize the first letter.\">Pangalawa, kung ito ay pantangi, lakihan ang titik.</span>\n<span class=\"fil-sentence\" data-translation=\"Third, if common, use lowercase first letters.\">Pangatlo, kung pambalana, gamitin ang maliit na titik.</span>\n<span class=\"fil-sentence\" data-translation=\"Fourth, make sure of the correct spelling of words.\">Pang-apat, tiyakin ang tamang baybay ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'Lungsod ng San Pablo' has capital L and S.\">Halimbawa: 'Lungsod ng San Pablo' ay may malaking L at S.</span>\n<span class=\"fil-sentence\" data-translation=\"The connecting word 'ng' remains in lowercase.\">Ang salitang 'ng' ay nananatiling maliit ang titik.</span>\n<span class=\"fil-sentence\" data-translation=\"Follow this guide in your practice exercises today!\">Sundan ang gabay na ito sa iyong mga pagsasanay ngayon!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 2",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 2",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Gabay",
+          "content": "Pantangi -> Malaking titik. Pambalana -> Maliit na titik."
         }
       ]
     },
     {
-      "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 1: Pangngalang Pantangi at Pambalana sa Pook. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "title": "Buod ng Unang Linggo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed the slides for Week 1.\">Binabati kita! Natapos mo ang mga slide sa Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about common nouns of places.\">Natutunan natin ang mga pangngalang pambalana sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"We also learned about proper nouns of places.\">Natutunan din natin ang pangngalang pantangi sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"We discovered the correct use of capital letters.\">Nalaman natin ang wastong paggamit ng malaking titik.</span>\n<span class=\"fil-sentence\" data-translation=\"We used examples from our local community.\">Ginamit natin ang mga halimbawa sa ating komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready to try the quiz and challenges?\">Handa ka na bang subukan ang pagsusulit at hamon?</span>\n<span class=\"fil-sentence\" data-translation=\"Show your skill in identifying these places!\">Ipakita ang iyong galing sa pagtukoy ng mga pook!</span>\n<span class=\"fil-sentence\" data-translation=\"Continue studying the Filipino language!\">Ipagpatuloy ang pag-aaral ng wikang Filipino!</span>",
       "examples": [
         {
-          "title": "Summary Points",
-          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
-        },
-        {
-          "title": "Reflection",
-          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+          "title": "Tandaan",
+          "content": "Pook = Lugar. Pantangi = Tiyak. Pambalana = Karaniwan."
         }
       ]
     }
@@ -2191,316 +2141,346 @@ window.WEEK1_DATA.filipino = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Alin sa mga sumusunod ang pangngalang pambalana sa pook?",
       "options": [
-        "Core term: Patinig",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "ospital",
+        "Laguna",
+        "Ilog Pasig",
+        "Rizal Park"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Alin sa mga sumusunod ang pangngalang pantangi sa pook?",
       "options": [
-        "Core term: Katinig",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "paaralan",
+        "simbahan",
+        "Lungsod ng Calamba",
+        "palengke"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Paano isinusulat ang pangngalang pantangi sa pook?",
+      "options": [
+        "Nagsisimula sa maliit na titik",
+        "Nagsisimula sa malaking titik",
+        "Lahat ay malalaking titik",
+        "Lahat ay maliliit na titik"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Tukuyin ang pook sa pangungusap: 'Pumunta si Matteo sa parke.'",
+      "options": [
+        "Matteo",
+        "Pumunta",
+        "parke",
+        "sa"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Alin ang may wastong pagsulat ng pangngalang pantangi ng barangay?",
+      "options": [
+        "barangay san jose",
+        "Barangay san jose",
+        "Barangay San Jose",
+        "barangay San Jose"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang pambalana ng 'Ilog Pasig'?",
+      "options": [
+        "bundok",
+        "ilog",
+        "dagat",
+        "lawa"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang pantangi ng 'bansa'?",
+      "options": [
+        "lalawigan",
+        "lungsod",
+        "Pilipinas",
+        "barangay"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Tukuyin ang pangngalang pambalana sa pook: 'Ang silid-aralan ay malinis.'",
+      "options": [
+        "silid-aralan",
+        "malinis",
+        "Ang",
+        "ay"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Alin sa mga sumusunod ang HINDI pook?",
       "options": [
-        "Core term: Pangngalan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "aklatan",
+        "palikuran",
+        "guro",
+        "palengke"
       ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
-      "options": [
-        "Core term: Pantangi",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "answer": 2
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 1: Pangngalang Pantangi at Pambalana sa Pook is correct?",
+      "q": "Tama o Mali: Ang salitang 'lalawigan' ay isang pangngalang pantangi.",
       "options": [
-        "Statement A: The core rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Alin ang wastong baybay ng tiyak na ngalan ng sikat na bundok sa Laguna?",
       "options": [
-        "Core term: Panghalip",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "bundok makiling",
+        "Bundok makiling",
+        "Bundok Makiling",
+        "bundok Makiling"
       ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 1: Pangngalang Pantangi at Pambalana sa Pook is a key topic in the study of ___.",
-      "answer": "Filipino"
+      "answer": 2
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Tukuyin ang pantangi sa pook sa pangungusap: 'Nakatira ang aking lola sa Laguna.'",
       "options": [
-        "Core term: Pang-uri",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Nakatira",
+        "lola",
+        "Laguna",
+        "aking"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Ano ang pambalana ng 'SM City Calamba'?",
       "options": [
-        "Core term: Pang-abay",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "tahanan",
+        "paaralan",
+        "mall",
+        "simbahan"
       ],
-      "answer": 0
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang pambalana sa pook na ginagamit para sa pag-aalaga ng may-sakit?",
+      "options": [
+        "palengke",
+        "ospital",
+        "simbahan",
+        "parke"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang pantangi ng 'lalawigan'?",
+      "options": [
+        "bansa",
+        "Cavite",
+        "lungsod",
+        "bayan"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Tukuyin ang pambalana sa pook: 'Maraming bata ang naglalaro sa plaza.'",
+      "options": [
+        "bata",
+        "naglalaro",
+        "plaza",
+        "maraming"
+      ],
+      "answer": 2
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 1: Pangngalang Pantangi at Pambalana sa Pook is correct?",
+      "q": "Tama o Mali: Ang 'ospital ng maynila' ay isinusulat nang may maliliit na titik lamang.",
       "options": [
-        "Statement A: The core rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook are not relevant to these cases."
+        "Tama",
+        "Mali"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang pambalana sa pook na ngalan ng daan ng sasakyan?",
+      "options": [
+        "kalsada",
+        "ilog",
+        "bundok",
+        "dagat"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Aling salita ang may pagkakamali sa pagkakagamit ng malaking titik sa pangungusap: 'Pumunta kami sa isang Simbahan kahapon.'?",
       "options": [
-        "Core term: Patinig",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Pumunta",
+        "Simbahan",
+        "kami",
+        "kahapon"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang tinutukoy ng pangngalang pook?",
+      "options": [
+        "ngalan ng tao",
+        "ngalan ng lugar o pook",
+        "ngalan ng bagay",
+        "ngalan ng hayop"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin ang pantangi ng 'simbahan'?",
+      "options": [
+        "Moske ng Quiapo",
+        "paaralan",
+        "ospital",
+        "bahay"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Tukuyin ang pambalana sa pook: 'Malilim ang puno sa aming bakuran.'",
       "options": [
-        "Core term: Katinig",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "puno",
+        "bakuran",
+        "malilim",
+        "aming"
       ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
-      "options": [
-        "Core term: Pangngalan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 1: Pangngalang Pantangi at Pambalana sa Pook is a key topic in the study of ___.",
-      "answer": "Filipino"
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 1: Pangngalang Pantangi at Pambalana sa Pook is correct?",
+      "q": "Tama o Mali: Ang 'Pilipinas' ay isang pangngalang pantangi dahil ito ay tiyak na ngalan ng bansa.",
       "options": [
-        "Statement A: The core rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Alin sa mga sumusunod ang pambalana sa pook kung saan binabasa ang mga aklat?",
       "options": [
-        "Core term: Panghalip",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "aklatan",
+        "palikuran",
+        "opisina",
+        "tindahan"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Saan dapat magsimula ang pagsulat ng pangngalang pantangi?",
       "options": [
-        "Core term: Pandiwa",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "maliit na titik",
+        "gitnang titik",
+        "malaking titik",
+        "huling titik"
       ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
-      "options": [
-        "Core term: Pang-uri",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
-      "options": [
-        "Core term: Pang-abay",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 1: Pangngalang Pantangi at Pambalana sa Pook is correct?",
-      "options": [
-        "Statement A: The core rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook are not relevant to these cases."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 1: Pangngalang Pantangi at Pambalana sa Pook is a key topic in the study of ___.",
-      "answer": "Filipino"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
-      "options": [
-        "Core term: Katinig",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
-      "options": [
-        "Core term: Pangngalan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
-      "options": [
-        "Core term: Pantangi",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 1: Pangngalang Pantangi at Pambalana sa Pook is correct?",
-      "options": [
-        "Statement A: The core rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook are not relevant to these cases."
-      ],
-      "answer": 0
+      "answer": 2
     }
   ],
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 1: Pangngalang Pantangi at Pambalana sa Pook, what is the first priority?",
+      "q": "Challenge: Aling pangungusap ang naglalaman ng parehong pangngalang pambalana at pantangi sa pook?",
       "options": [
-        "Analyze key terms and variables",
-        "Guess the answer immediately",
-        "Skip the question",
-        "Use unrelated formulas"
+        "Pumunta si Caloy sa ilog ng Pasig upang mamasyal.",
+        "Nakatira kami sa isang malaking lungsod.",
+        "Maganda ang Lungsod ng Baguio dahil ito ay malamig.",
+        "Ang Paaralang Elementarya ng Calamba ay isang malaking paaralan."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Alin sa mga sumusunod ang may wastong pagsulat ng lahat ng pantangi sa pook?",
+      "options": [
+        "Lungsod Ng Calamba, bulkang Taal",
+        "Lungsod ng Calamba, Bulkang Taal",
+        "lungsod ng calamba, Bulkang taal",
+        "Lungsod ng calamba, bulkang taal"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Kung ang 'silid-aralan' ay pambalana, alin ang maaaring maging katapat nitong pantangi sa isang paaralan?",
+      "options": [
+        "Silid ng Grade 3-Rizal",
+        "aklatan",
+        "Paaralang Elementarya",
+        "guro"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Challenge: Tukuyin kung gaano karaming pangngalang pook ang nasa pangungusap: 'Mula sa aming tahanan, dumaan ako sa kalsada patungo sa paaralan.'",
       "options": [
-        "The primary variable: Alpabeto",
-        "An external variable",
-        "No variable",
-        "All variables equally"
+        "isa",
+        "dalawa",
+        "tatlo",
+        "apat"
       ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 1: Pangngalang Pantangi at Pambalana sa Pook.",
-      "options": [
-        "Statement A: Proper methodology leads to a correct and verified solution.",
-        "Statement B: Rushing through calculations is safe and rarely causes errors."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
-      "answer": "patinig"
+      "answer": 2
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Challenge: Suriin ang pahayag: 'Pumunta si Dr. Rizal sa Europa.' Ano ang kategorya ng 'Europa' sa pangngalan?",
       "options": [
-        "Building logical reasoning and problem-solving skills",
-        "Forgetting previous lessons",
-        "Speeding up without accuracy",
-        "None of these"
+        "Pantangi sa tao",
+        "Pambalana sa pook",
+        "Pantangi sa pook",
+        "Pambalana sa bagay"
       ],
-      "answer": 0
+      "answer": 2
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 1: Pangngalang Pantangi at Pambalana sa Pook",
-    "desc": "Perform a simple observation of Week 1: Pangngalang Pantangi at Pambalana sa Pook at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Pagguhit ng Mapa ng Ating Pook",
+    "desc": "Gumuhit ng isang simpleng mapa ng iyong komunidad o barangay sa isang papel. Ipakita ang iyong tahanan at dalawang iba pang pook (tulad ng simbahan, paaralan, o barangay hall). Isulat ang pambalana at pantangi na ngalan ng bawat pook na iginuhit (hal. paaralan -> Paaralang San Jose). Ipaliwanag ang iyong gawa sa magulang.",
     "labels": [
-      "Accurate explanation of concept",
-      "Clarity and confidence in presentation",
-      "Neatness of written notes"
+      "Maayos na naiguhit ang mapa ng sariling komunidad",
+      "Wastong naisulat ang pambalana at pantangi na ngalan ng bawat pook",
+      "Wastong nagamit ang malaking titik sa mga pangngalang pantangi"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 1: Pangngalang Pantangi at Pambalana sa Pook</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 1: Pangngalang Pantangi at Pambalana sa Pook and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Patinig and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 1: Pangngalang Pantangi at Pambalana sa Pook.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alpabeto</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 1: Pangngalang Pantangi at Pambalana sa Pook.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 1: Pambalana vs. Pantangi sa Pook</h3>\n                  <p class=\"ws-instruction\">Isulat kung ang sumusunod na pook ay <strong>Pambalana</strong> o <strong>Pantangi</strong> gamit ang iyong stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Bundok Makiling <span class=\"fil-sentence\" data-translation=\"(Mount Makiling)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pantangi</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. silid-aralan <span class=\"fil-sentence\" data-translation=\"(classroom)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pambalana</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Lungsod ng Calamba <span class=\"fil-sentence\" data-translation=\"(Calamba City)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pantangi</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 2: Pagtutugma ng mga Pook</h3>\n                  <p class=\"ws-instruction\">Iugnay ang pambalanang pook sa katapat nitong pantangi sa pamamagitan ng pagsulat ng tamang titik sa loob ng bracket.</p>\n                  <div class=\"ws-split\" style=\"margin-top: 20px;\">\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.0;\">\n                      <div><strong>Pangkalahatan (Pambalana):</strong></div>\n                      <div>1. bansa <span class=\"fil-sentence\" data-translation=\"(country)\"></span></div>\n                      <div>2. ilog <span class=\"fil-sentence\" data-translation=\"(river)\"></span></div>\n                      <div>3. ospital <span class=\"fil-sentence\" data-translation=\"(hospital)\"></span></div>\n                    </div>\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.0; text-align: right; padding-right: 40px;\">\n                      <div><strong>Tiyak (Pantangi):</strong></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">B</span> &nbsp; ] &nbsp; A. Ilog Pasig <span class=\"fil-sentence\" data-translation=\"(Pasig River)\"></span></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">A</span> &nbsp; ] &nbsp; B. Pilipinas <span class=\"fil-sentence\" data-translation=\"(Philippines)\"></span></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">C</span> &nbsp; ] &nbsp; C. Ospital ng Laguna <span class=\"fil-sentence\" data-translation=\"(Laguna Hospital)\"></span></div>\n                    </div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 3: Pagwawasto ng mga Titik</h3>\n                  <p class=\"ws-instruction\">Isulat ang tamang pagsulat ng mga pangalan ng pook na may pagkakamali sa paggamit ng titik.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Nakatira kami sa lungsod ng calamba. <span class=\"fil-sentence\" data-translation=\"(We live in calamba city.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Nakatira kami sa Lungsod ng Calamba.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Malinis ang ilog pasig ngayon. <span class=\"fil-sentence\" data-translation=\"(Pasig river is clean today.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Malinis ang Ilog Pasig ngayon.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -2509,355 +2489,255 @@ window.WEEK1_DATA.makabansa = {
   "color": "#f59e0b",
   "icon": "🏝️",
   "title": "Makabansa",
-  "subtitle": "Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad",
+  "subtitle": "Week 1: Kasaysayan ng Ating Komunidad",
   "slides": [
     {
-      "title": "Introduction to Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad",
-      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Makabansa.",
+      "title": "Maligayang Pagdating sa Makabansa!",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Hello, little hero! Welcome to Makabansa!\">Kumusta, maliit na bayani! Welcome sa Makabansa!</span>\n<span class=\"fil-sentence\" data-translation=\"This week, we will study about history.\">Ngayong linggo, mag-aaral tayo tungkol sa kasaysayan.</span>\n<span class=\"fil-sentence\" data-translation=\"History is the story of past events in our lives.\">Ang kasaysayan ay kwento ng mga nakaraang pangyayari.</span>\n<span class=\"fil-sentence\" data-translation=\"We will identify the history of our own local place.\">Tutukuyin natin ang kasaysayan ng sarili nating pook.</span>\n<span class=\"fil-sentence\" data-translation=\"We will study the origin and foundation of our barangay.\">Pag-aaralan natin ang pinagmulan ng ating barangay.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's learn about historical artifacts and old documents.\">Alamin natin ang mga artifact at lumang dokumento.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready to travel to the past of our community?\">Handa ka na bang maglakbay sa nakaraan ng komunidad?</span>\n<span class=\"fil-sentence\" data-translation=\"Let's start exploring like historical researchers today!\">Magsimula tayong mag-explore na parang historyador ngayon!</span>",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad and apply them in daily situations."
-        },
-        {
-          "title": "Real-world Connection",
-          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+          "title": "Linggong Layunin",
+          "content": "Maunawaan ang mga elemento ng kasaysayan ng sariling barangay at komunidad."
         }
       ]
     },
     {
-      "title": "Core Vocabulary & Terms",
-      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "title": "Ano ang Kasaysayan?",
+      "text": "<span class=\"fil-sentence\" data-translation=\"History is not just simply old stories from the past.\">Ang kasaysayan ay hindi lamang basta lumang kwento.</span>\n<span class=\"fil-sentence\" data-translation=\"It is the study of meaningful past events in lives.\">Ito ay pag-aaral ng may-saysay na nakaraang yugto.</span>\n<span class=\"fil-sentence\" data-translation=\"There are four important elements of history we study today.\">May apat na mahahalagang elemento ang kasaysayan ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"These are the people, place, time, and the event itself.\">Ito ang tao, lugar, panahon, at ang pangyayari.</span>\n<span class=\"fil-sentence\" data-translation=\"It answers who, where, when, and what happened yonder.\">Sinasagot nito ang sino, saan, kailan, at ano.</span>\n<span class=\"fil-sentence\" data-translation=\"The unity of these elements creates the historical story.\">Ang pagkakaisa ng mga ito ang bumubuo sa kwento.</span>\n<span class=\"fil-sentence\" data-translation=\"This helps us understand our present life in communities.\">Nakatutulong ito sa pag-unawa ng ating kasalukuyan.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's analyze each element in our lesson today!\">Suriin natin ang bawat elemento sa ating aralin!</span>",
       "examples": [
         {
-          "title": "Term 1: Sarili",
-          "content": "A foundational concept in Makabansa that helps us categorize and understand details."
-        },
-        {
-          "title": "Term 2: Pamilya",
-          "content": "An active process or skill used to analyze situations and solve problems."
+          "title": "Apat na Elemento",
+          "content": "Tao (People), Lugar (Place), Panahon (Time), Pangyayari (Event)"
         }
       ]
     },
     {
-      "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. By looking closely at how these ideas work together, we can build a strong understanding of Makabansa.",
+      "title": "Ang Elemento: Tao",
+      "text": "<span class=\"fil-sentence\" data-translation=\"People are the ones who make history in a place.\">Ang mga tao ang gumagawa ng kasaysayan sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"They lead and help one another in our local barangay.\">Sila ang namumuno at nagtutulungan sa barangay natin.</span>\n<span class=\"fil-sentence\" data-translation=\"This includes the first settlers who lived in our town.\">Kasama rito ang mga unang nanirahan sa ating bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"This also includes the heroes who fought for freedom yonder.\">Kasama rin ang mga bayani na nagtanggol sa kalayaan.</span>\n<span class=\"fil-sentence\" data-translation=\"E.g., Dr. Jose Rizal in the City of Calamba, Laguna.\">E.g., si Dr. Jose Rizal sa Lungsod ng Calamba.</span>\n<span class=\"fil-sentence\" data-translation=\"He is a person who left a big mark in history.\">Siya ay isang tao na nag-iwan ng malaking marka.</span>\n<span class=\"fil-sentence\" data-translation=\"Every citizen also has a part in our local story.\">Ang bawat mamamayan ay may bahagi rin sa kwento.</span>\n<span class=\"fil-sentence\" data-translation=\"Who are the well-known people in your own barangay?\">Sino ang mga kilalang tao sa inyong sariling barangay?</span>",
       "examples": [
         {
-          "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in simple activities."
-        },
-        {
-          "title": "Why It Matters",
-          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+          "title": "Elemento: Tao",
+          "content": "Mga lider, bayani, at mga mamamayan ng komunidad."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Elemento: Lugar",
+      "text": "<span class=\"fil-sentence\" data-translation=\"History always takes place in a specific physical location.\">Ang kasaysayan ay laging nagaganap sa isang lugar.</span>\n<span class=\"fil-sentence\" data-translation=\"This is the physical place where people lived and worked.\">Ito ang pook kung saan nanirahan ang mga tao.</span>\n<span class=\"fil-sentence\" data-translation=\"It could be a small barangay, a town, or a province.\">Maaaring ito ay isang barangay, bayan, o lalawigan.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: the City of Calamba in Laguna is a place.\">Halimbawa: ang Lungsod ng Calamba ay isang pook.</span>\n<span class=\"fil-sentence\" data-translation=\"This is where the childhood of our national hero happened.\">Dito naganap ang paglaki ng ating pambansang bayani.</span>\n<span class=\"fil-sentence\" data-translation=\"The physical environment affects how history developed yonder.\">Ang pisikal na kapaligiran ay nakakaapekto sa kasaysayan.</span>\n<span class=\"fil-sentence\" data-translation=\"There are rivers and mountains that witnessed the past events.\">May mga ilog at bundok na saksi sa nakaraan.</span>\n<span class=\"fil-sentence\" data-translation=\"Examine the historical places in your own town today!\">Suriin ang mga makasaysayang pook sa inyong bayan!</span>",
       "examples": [
         {
-          "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Elemento: Lugar",
+          "content": "tahanan, paaralan, barangay hall, monumento"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Elemento: Panahon",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Time refers to when the historical event actually happened.\">Ang panahon ay tumutukoy kung kailan ito nangyari.</span>\n<span class=\"fil-sentence\" data-translation=\"This could be a specific date or year in the calendar.\">Maaari itong tiyak na petsa o taon sa kalendaryo.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: June 19, 1861 is the birth date of Rizal.\">Halimbawa: Hunyo 19, 1861 ang kapanganakan ni Rizal.</span>\n<span class=\"fil-sentence\" data-translation=\"We can also say 'Spanish Period' or 'Japanese Period'.\">Maaari ding sabihing 'Panahon ng Kastila' o 'Hapon'.</span>\n<span class=\"fil-sentence\" data-translation=\"This shows how long ago the past events took place.\">Ipinapakita nito kung gaano na katagal ang nakaraan.</span>\n<span class=\"fil-sentence\" data-translation=\"The sequence of time periods is called a historical timeline.\">Ang pagkakasunod-sunod ng panahon ay tinatawag na timeline.</span>\n<span class=\"fil-sentence\" data-translation=\"This helps us avoid getting confused in the historical story.\">Nakatutulong ito upang hindi tayo malito sa kwento.</span>\n<span class=\"fil-sentence\" data-translation=\"When was your own barangay or town founded in history?\">Kailan ipinanganak ang inyong sariling barangay o bayan?</span>",
       "examples": [
         {
-          "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Elemento: Panahon",
+          "content": "mga taon (years), petsa (dates), mga siglo (centuries)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Elemento: Pangyayari",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The event is the actual action or occurrence that happened.\">Ang pangyayari ay ang mismong aksyon na naganap.</span>\n<span class=\"fil-sentence\" data-translation=\"There are events that have deep meaning for a place.\">May mga pangyayaring may malalim na saysay sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: the foundation of the first school in town.\">Halimbawa: ang pagtatag ng unang paaralan sa bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Or perhaps the historical battles fought for our freedom.\">O di kaya ay ang labanan para sa kalayaan natin.</span>\n<span class=\"fil-sentence\" data-translation=\"There are also celebrations like the local town festival.\">Mayroon ding mga pagdiriwang tulad ng pista ng bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"These events change the way of life of the citizens.\">Ang mga ito ay nagbabago sa pamumuhay ng mamamayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Historians record these important events in their books.\">Itinatala ito ng mga historyador sa kanilang aklat.</span>\n<span class=\"fil-sentence\" data-translation=\"What is the most important historical event in your place?\">Ano ang pinakamahalagang pangyayari sa inyong pook?</span>",
       "examples": [
         {
-          "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Elemento: Pangyayari",
+          "content": "pagtatag ng bayan, digmaan, pista, deklarasyon"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Primary Sources: Artifacts",
+      "text": "<span class=\"fil-sentence\" data-translation=\"How do we know the history of our local community?\">Paano natin nalalaman ang kasaysayan ng komunidad?</span>\n<span class=\"fil-sentence\" data-translation=\"We use primary sources during our historical research.\">Gumagamit tayo ng mga primaryang batayan sa pagsusuri.</span>\n<span class=\"fil-sentence\" data-translation=\"Artifacts are physical objects made and used in the past.\">Ang artifact ay mga pisikal na kagamitan sa nakaraan.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: old clay pots, ancient coins, and old tools.\">Halimbawa: lumang palayok, barya, at mga kasangkapan.</span>\n<span class=\"fil-sentence\" data-translation=\"These physical objects do not lie about past human activities.\">Ang mga ito ay hindi nagsisinungaling sa kasaysayan.</span>\n<span class=\"fil-sentence\" data-translation=\"They show us exactly how our ancestors lived their daily lives.\">Ipinapakita nito kung paano namuhay ang mga ninuno.</span>\n<span class=\"fil-sentence\" data-translation=\"We can observe these historical items in museums today.\">Makikita natin ang mga ito sa mga museo ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"Is there an old object preserved in your own house today?\">Mayroon bang lumang kagamitan sa inyong sariling bahay?</span>",
       "examples": [
         {
-          "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Artifacts",
+          "content": "lumang barya (old coins), palayok (pots), lumang kasangkapan"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Primary Sources: Dokumento",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Old documents are also very important primary sources.\">Ang mga lumang dokumento ay primaryang batayan din.</span>\n<span class=\"fil-sentence\" data-translation=\"These are written records from the past time periods.\">Ito ay mga nakasulat na tala mula sa nakaraang panahon.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: old letters, maps, laws, and diaries of people.\">Halimbawa: lumang sulat, mapa, batas, at diary.</span>\n<span class=\"fil-sentence\" data-translation=\"These were written by people who witnessed the events themselves.\">Isinulat ito ng mga taong mismong nakasaksi roon.</span>\n<span class=\"fil-sentence\" data-translation=\"An old map of Calamba shows its past physical boundaries.\">Ang lumang mapa ng Calamba ay nagpapakita ng sakop nito.</span>\n<span class=\"fil-sentence\" data-translation=\"Rizal's old letters express his thoughts and feelings yonder.\">Ang lumang sulat ni Rizal ay naglalahad ng damdamin.</span>\n<span class=\"fil-sentence\" data-translation=\"These documents are preserved carefully in local archives.\">Iniingatan ang mga dokumentong ito sa pook-archive.</span>\n<span class=\"fil-sentence\" data-translation=\"Why is it important to read written records from the past?\">Bakit mahalagang basahin ang mga nakasulat na tala?</span>",
       "examples": [
         {
-          "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Dokumento",
+          "content": "lumang sulat (old letters), mapa (maps), diary, sertipiko"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Secondary Sources sa Kasaysayan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"There are also secondary sources of history we can use.\">Mayroon ding mga sekondaryang batayan sa kasaysayan.</span>\n<span class=\"fil-sentence\" data-translation=\"These are books or records written after the event occurred.\">Ito ay mga aklat o tala na isinulat pagkatapos.</span>\n<span class=\"fil-sentence\" data-translation=\"The author did not witness the actual historical event directly.\">Ang may-akda ay hindi nakasaksi sa mismong kaganapan.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: history textbooks, articles, and encyclopedias.\">Halimbawa: mga history textbooks, artikulo, at encyclopedia.</span>\n<span class=\"fil-sentence\" data-translation=\"They are based on the study of original primary sources.\">Sila ay nagmula sa pagsusuri ng mga primaryang batayan.</span>\n<span class=\"fil-sentence\" data-translation=\"These help us understand historical topics much more easily.\">Nakatutulong ito upang mas madaling maunawaan ang paksa.</span>\n<span class=\"fil-sentence\" data-translation=\"Your teacher's stories about Rizal belong to this category.\">Ang kwento ng iyong guro tungkol kay Rizal ay ganoon.</span>\n<span class=\"fil-sentence\" data-translation=\"Use both sources of data to keep your records accurate!\">Gamitin ang parehong batayan upang maging tumpak ang tala!</span>",
       "examples": [
         {
-          "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Sekondaryang Batayan",
+          "content": "History textbooks, encyclopedia, mga kwento sa radyo"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Kahalagahan ng Timeline",
+      "text": "<span class=\"fil-sentence\" data-translation=\"A timeline is a line that displays the sequence of time.\">Ang timeline ay isang guhit na nagpapakita ng panahon.</span>\n<span class=\"fil-sentence\" data-translation=\"It arranges events in order from the earliest to the latest.\">Inaayos nito ang mga pangyayari mula una hanggang huli.</span>\n<span class=\"fil-sentence\" data-translation=\"We read the horizontal timeline from left to right in books.\">Binabasa natin ang timeline mula kaliwa pakanan.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: a timeline of a child growing up in the community.\">Halimbawa: timeline ng paglaki ng isang bata sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"2018: born; 2024: entered school; 2026: now in Grade 3.\">2018: ipinanganak; 2024: pumasok; 2026: nasa Grade 3.</span>\n<span class=\"fil-sentence\" data-translation=\"This shows the physical changes over the passing of years.\">Ipinapakita nito ang pagbabago sa paglipas ng taon.</span>\n<span class=\"fil-sentence\" data-translation=\"Barangay timelines follow a similar chronological structure.\">Ang mga timeline ng barangay ay may katulad na anyo.</span>\n<span class=\"fil-sentence\" data-translation=\"Create your own personal timeline in your notebook now!\">Gumawa ng sariling timeline sa iyong notebook ngayon!</span>",
       "examples": [
         {
-          "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Timeline",
+          "content": "2018 (Ipinanganak) -> 2024 (Kinder) -> 2026 (Grade 3)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pinagmulan ng Pangalan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Every barangay has a story behind its physical name.\">Ang bawat barangay ay may kwento ng kanyang pangalan.</span>\n<span class=\"fil-sentence\" data-translation=\"Usually it originates from local plants, trees, or animals.\">Karaniwan itong nagmula sa mga halaman o hayop.</span>\n<span class=\"fil-sentence\" data-translation=\"E.g., 'Kawayanan' because of many bamboo trees growing there.\">E.g., ang 'Kawayanan' dahil sa maraming kawayan doon.</span>\n<span class=\"fil-sentence\" data-translation=\"Or perhaps 'San Jose' to honor a patron saint of the place.\">O kaya ay 'San Jose' bilang parangal sa isang patron.</span>\n<span class=\"fil-sentence\" data-translation=\"Some names also originate from local terms of indigenous people.\">Mayroon ding nagmula sa mga lokal na salita ng katutubo.</span>\n<span class=\"fil-sentence\" data-translation=\"Knowing the name is the start of respecting the local place.\">Ang pag-alam sa pangalan ay simula ng paggalang sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"It reflects the culture and natural resources of the place.\">Sinasalamin nito ang kultura at likas na yaman ng pook.</span>\n<span class=\"fil-sentence\" data-translation=\"What is the origin of the name of your own barangay?\">Ano ang pinagmulan ng pangalan ng iyong sariling barangay?</span>",
       "examples": [
         {
-          "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Pinagmulan",
+          "content": "Kawayanan (mula sa kawayan), San Jose (mula sa patron)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Oral History: Saling-bibig",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Not all history is written down in big books yonder.\">Hindi lahat ng kasaysayan ay nakasulat sa aklat.</span>\n<span class=\"fil-sentence\" data-translation=\"Some stories are passed down using the mouth and ears.\">May mga kwentong isinasalin sa pamamagitan ng bibig.</span>\n<span class=\"fil-sentence\" data-translation=\"We call this oral history or verbal storytelling in class.\">Tinatawag natin itong oral history o saling-bibig.</span>\n<span class=\"fil-sentence\" data-translation=\"Grandfathers and grandmothers tell stories to their children.\">Ang mga lolo at lola ay nagkukuwento sa mga bata.</span>\n<span class=\"fil-sentence\" data-translation=\"They share how life was yonder during the old days of town.\">Ibinabahagi nila kung paano ang buhay noong araw sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Even without books, we can preserve the community memories.\">Kahit walang aklat, napananatili natin ang alaala.</span>\n<span class=\"fil-sentence\" data-translation=\"This oral tradition is a valuable part of our local culture.\">Ito ay isang mahalagang bahagi ng ating kultura.</span>\n<span class=\"fil-sentence\" data-translation=\"Listen carefully when elders are sharing their memories!\">Makinig nang mabuti kapag nagkukuwento ang nakatatanda!</span>",
       "examples": [
         {
-          "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Saling-bibig",
+          "content": "Mga kwento ng lolo at lola tungkol sa nakaraan."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Mga Simbolo sa Komunidad",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The logo of our barangay has drawings and symbols on it.\">Ang logo ng barangay ay may mga guhit at simbolo.</span>\n<span class=\"fil-sentence\" data-translation=\"Each symbol tells a unique story about our local place.\">Ang bawat simbolo ay naglalahad ng kwento ng pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: the symbol of rice stalks represents farming.\">Halimbawa: ang simbolo ng palay ay para sa pagsasaka.</span>\n<span class=\"fil-sentence\" data-translation=\"It shows that rice is the primary source of livelihood.\">Ipinapakita nito na palay ang pangunahing kabuhayan.</span>\n<span class=\"fil-sentence\" data-translation=\"The symbol of a gear represents factories and industries.\">Ang simbolo ng gear o makina ay para sa pabrika.</span>\n<span class=\"fil-sentence\" data-translation=\"The color blue symbolizes the nearby sea or flowing river.\">Ang kulay asul naman ay sumasagisag sa malapit na dagat.</span>\n<span class=\"fil-sentence\" data-translation=\"The logo gives a visual identity to our local barangay.\">Ang logo ay nagbibigay-identidad sa ating barangay.</span>\n<span class=\"fil-sentence\" data-translation=\"Observe the seal or logo of your own barangay hall!\">Suriin ang selyo o logo ng inyong sariling barangay!</span>",
       "examples": [
         {
-          "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Simbolo sa Logo",
+          "content": "palay (pagsasaka), gear (industriya), asul (tubig/ilog)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Katutubong Sining at Disenyo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Every community has its own native art and designs.\">Bawat komunidad ay may sariling mga likhang sining.</span>\n<span class=\"fil-sentence\" data-translation=\"These reflect the history and skill of our ancestors.\">Sinasalamin nito ang kasaysayan at galing ng ninuno.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: wood carvings, woven cloths, and clay pots.\">Halimbawa: mga ukit sa kahoy, habi ng tela, at palayok.</span>\n<span class=\"fil-sentence\" data-translation=\"These designs contain native patterns from old generations.\">Ang mga disenyong ito ay may mga katutubong pattern.</span>\n<span class=\"fil-sentence\" data-translation=\"Usually they use shapes found in nature like leaves.\">Karaniwan silang gumagamit ng mga hugis sa kalikasan.</span>\n<span class=\"fil-sentence\" data-translation=\"Such as flowers, green leaves, sun, and sea waves.\">Tulad ng mga bulaklak, dahon, araw, at alon ng dagat.</span>\n<span class=\"fil-sentence\" data-translation=\"This art is an important part of our barangay culture.\">Ang sining na ito ay bahagi ng kultura ng barangay.</span>\n<span class=\"fil-sentence\" data-translation=\"Create your own design using natural shapes on paper!\">Gumawa ng sariling disenyo gamit ang natural na hugis!</span>",
       "examples": [
         {
-          "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Katutubong Sining",
+          "content": "ukit sa kahoy, habi ng tela, palayok na may disenyo"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Mga Lokal na Awitin at Sayaw",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Local folk songs describe the daily way of life of people.\">Ang mga lokal na awitin ay naglalarawan ng buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: the folk song 'Leron Leron Sinta' in Laguna.\">Halimbawa: ang awiting 'Leron Leron Sinta' sa Laguna.</span>\n<span class=\"fil-sentence\" data-translation=\"It shows farming activities and picking of sweet fruits.\">Ito ay nagpapakita ng pagsasaka at pamimitas ng prutas.</span>\n<span class=\"fil-sentence\" data-translation=\"There are also native folk dances in our local community.\">Mayroon ding mga katutubong sayaw sa ating komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"Dances express gratitude for a bountiful harvest yonder.\">Ang sayaw ay naglalahad ng pasasalamat sa magandang ani.</span>\n<span class=\"fil-sentence\" data-translation=\"We sing these songs during our local town festivals.\">Inaawit natin ang mga ito sa mga pista ng bayan natin.</span>\n<span class=\"fil-sentence\" data-translation=\"This belongs to the historical heritage of our community.\">Bahagi ito ng makasaysayang pamana ng ating komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"Practice singing Leron Leron Sinta with your classmates!\">Magsanay sa pag-awit ng Leron Leron Sinta sa klase!</span>",
       "examples": [
         {
-          "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Lokal na Awitin",
+          "content": "Leron Leron Sinta (pagsasaka at pamumuhay)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Ang Pagsusuri",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze a short story of our local history.\">Suriin natin ang isang kwento ng ating kasaysayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Read: 'Barangay San Jose was founded in the year 1950.'\">Basahin: 'Itinatag ang Barangay San Jose noong 1950.'</span>\n<span class=\"fil-sentence\" data-translation=\"Identify the place mentioned in our statement yonder.\">Tukuyin ang pook na binanggit sa ating pahayag.</span>\n<span class=\"fil-sentence\" data-translation=\"The place is 'Barangay San Jose' which is proper.\">Ang pook ay 'Barangay San Jose' na isang pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"Identify the time period mentioned in our statement.\">Tukuyin ang panahon na binanggit sa ating pahayag.</span>\n<span class=\"fil-sentence\" data-translation=\"The time is 'in 1950' which is a specific year.\">Ang panahon ay 'noong 1950' na isang tiyak na taon.</span>\n<span class=\"fil-sentence\" data-translation=\"The founding is the event that has deep historical meaning.\">Ang pagtatag ay ang pangyayaring may malalim na saysay.</span>\n<span class=\"fil-sentence\" data-translation=\"Did you find all three elements in your analysis today?\">Nahanap mo ba ang tatlong elemento sa pagsusuri?</span>",
       "examples": [
         {
-          "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Pagsusuri",
+          "content": "Pook -> Barangay San Jose, Panahon -> 1950, Pangyayari -> Pagtatag"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Primary vs Secondary",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the following sources of historical data.\">Suriin natin ang mga sumusunod na batayan ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"If you find an old coin dated with the year 1900,\">Kung nakakita ka ng lumang barya na may taong 1900,</span>\n<span class=\"fil-sentence\" data-translation=\"this is a primary source (artifact) for the place.\">ito ay isang primaryang batayan (artifact) sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"If you read the book 'History of Laguna' in class,\">Kung binabasa mo ang aklat na 'Kasaysayan ng Laguna',</span>\n<span class=\"fil-sentence\" data-translation=\"this is a secondary source in our history lesson today.\">ito ay isang sekondaryang batayan sa ating aralin.</span>\n<span class=\"fil-sentence\" data-translation=\"The book was written by a researcher after studying coins.\">Ang aklat ay isinulat ng mananaliksik pagkatapos.</span>\n<span class=\"fil-sentence\" data-translation=\"Both sources of data are valuable for historical study.\">Parehong mahalaga ang dalawang batayan sa kasaysayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Which would you prefer to examine: the coin or the book?\">Alin ang mas nais mong suriin: barya o aklat?</span>",
       "examples": [
         {
-          "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Batayan",
+          "content": "lumang barya -> primary, textbook -> secondary"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Timeline ng Pook",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's create a timeline for our local barangay hall.\">Gumawa tayo ng timeline ng isang barangay hall.</span>\n<span class=\"fil-sentence\" data-translation=\"2000: The small barangay hall was founded in the place.\">2000: Itinatag ang maliit na barangay hall sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"2010: The building was expanded and a clinic was added.\">2010: Pinalawak ang gusali at nagdagdag ng klinika.</span>\n<span class=\"fil-sentence\" data-translation=\"2020: A new sports complex was built next to the hall.\">2020: Nagpatayo ng bagong sports complex sa tabi nito.</span>\n<span class=\"fil-sentence\" data-translation=\"Notice the correct chronological order of the years yonder.\">Pansinin ang tamang pagkakasunod-sunod ng mga taon.</span>\n<span class=\"fil-sentence\" data-translation=\"From the earliest (2000) leading to the present (2020).\">Mula sa pinakamaaga (2000) patungo sa kasalukuyan (2020).</span>\n<span class=\"fil-sentence\" data-translation=\"This shows the physical growth and development of the place.\">Ipinapakita nito ang paglago at pag-unlad ng pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Copy this timeline structure into your own notebook now!\">Kopyahin ang timeline na ito sa iyong sariling notebook!</span>",
       "examples": [
         {
-          "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Timeline",
+          "content": "2000 (Pagtatag) -> 2010 (Klinika) -> 2020 (Sports Complex)"
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 1",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Guided Practice: Pagsusuri ng Logo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze the logo of a barangay near our school.\">Suriin natin ang logo ng isang barangay sa tabi natin.</span>\n<span class=\"fil-sentence\" data-translation=\"There is a drawing of three fish and a net in the middle.\">May guhit ng tatlong isda at lambat sa gitna nito.</span>\n<span class=\"fil-sentence\" data-translation=\"What is the meaning of the fish on this local logo?\">Ano ang ibig sabihin ng mga isda sa logo ng pook?</span>\n<span class=\"fil-sentence\" data-translation=\"It shows that fishing is the main source of livelihood there.\">Ipinapakita nito na pangingisda ang kabuhayan doon.</span>\n<span class=\"fil-sentence\" data-translation=\"The place is near a lake or sea, hence the fish symbol.\">Ang pook ay malapit sa lawa o dagat kaya may isda.</span>\n<span class=\"fil-sentence\" data-translation=\"This expresses the story of the people's way of life.\">Ito ay naglalahad ng kwento ng pamumuhay ng tao.</span>\n<span class=\"fil-sentence\" data-translation=\"It is not just decoration; it holds a deep meaning yonder.\">Ito ay hindi lamang palamuti; may malalim na saysay.</span>\n<span class=\"fil-sentence\" data-translation=\"Draw the logo of your own barangay on a clean sheet of paper!\">Iguhit ang logo ng iyong barangay sa isang malinis na papel!</span>",
       "examples": [
         {
-          "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 1",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsusuri ng Logo",
+          "content": "isda at lambat -> kabuhayan sa pangingisda (fishing)"
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 2",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Maling Pagtukoy sa Nakaraan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid treating ordinary past events as historical events.\">Iwasan ang pagtrato sa ordinaryong bagay bilang kasaysayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'My eating of bread yesterday is part of history.'\">Mali: 'Ang pagkain ko ng tinapay kahapon ay kasaysayan.'</span>\n<span class=\"fil-sentence\" data-translation=\"It is just the past, but has no major significance to the town.\">Ito ay nakaraan lamang, ngunit walang saysay sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"History must have a major and lasting impact on the community.\">Ang kasaysayan ay dapat may malaking epekto sa lahat.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: the construction of the first bridge over the river.\">Halimbawa: ang pagpapatayo ng unang tulay sa ilog.</span>\n<span class=\"fil-sentence\" data-translation=\"This changed transport for the entire local community.\">Ito ay binago ang transportasyon ng buong komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"Make sure the event is significant in your history logs!\">Tiyakin na makabuluhan ang pangyayari sa iyong logs!</span>\n<span class=\"fil-sentence\" data-translation=\"This is the true meaning of history in our social studies!\">Ito ang totoong kahulugan ng kasaysayan sa atin!</span>",
       "examples": [
         {
-          "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 2",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Maling Pagtukoy",
+          "content": "nakaraan (past - ordinary) vs. kasaysayan (history - significant)"
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 3",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Maling Pagsulat ng Timeline",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid mixing up the years when writing a timeline.\">Iwasan ang paghahalo ng mga taon sa timeline.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 2020 (Founding) -> 2000 (Clinic) -> 2010 (Road).\">Mali: 2020 (Pagtatag) -> 2000 (Klinika) -> 2010 (Daan).</span>\n<span class=\"fil-sentence\" data-translation=\"This does not show the correct flow of time in history.\">Hindi nito ipinapakita ang tamang daloy ng panahon.</span>\n<span class=\"fil-sentence\" data-translation=\"We must start with the oldest year on the left side.\">Dapat magsimula sa pinakamatandang taon sa kaliwa.</span>\n<span class=\"fil-sentence\" data-translation=\"And end with the most recent year on the right side.\">At magtapos sa pinakabagong taon sa kanang bahagi.</span>\n<span class=\"fil-sentence\" data-translation=\"Correct: 2000 (Founding) -> 2010 (Road) -> 2020 (Clinic).\">Tama: 2000 (Pagtatag) -> 2010 (Daan) -> 2020 (Klinika).</span>\n<span class=\"fil-sentence\" data-translation=\"This is the correct chronological sequence of our years.\">Ito ang wastong pagkakasunod-sunod ng mga taon natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Check the years carefully before drawing your timeline now!\">Suriin ang mga taon bago iguhit ang timeline ngayon!</span>",
       "examples": [
         {
-          "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 3",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Timeline Error",
+          "content": "mali: naghalong taon -> tama: sunod-sunod na taon"
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 4",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Maling Paglalarawan ng Simbolo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid making up meanings for community symbols arbitrarily.\">Iwasan ang pag-imbento ng kahulugan ng logo.</span>\n<span class=\"fil-sentence\" data-translation=\"Do not say the gear on the logo represents a carriage wheel.\">Huwag sabihing ang gear sa logo ay gulong ng karwahe.</span>\n<span class=\"fil-sentence\" data-translation=\"In modern seals, the gear represents factories and industry.\">Sa makabagong selyo, ang gear ay para sa industriya.</span>\n<span class=\"fil-sentence\" data-translation=\"Verify the history of the place before writing descriptions.\">Tiyakin ang kasaysayan ng pook bago maglahad ng tala.</span>\n<span class=\"fil-sentence\" data-translation=\"You can ask the barangay officials inside the barangay hall.\">Maaari mong tanungin ang mga barangay officials doon.</span>\n<span class=\"fil-sentence\" data-translation=\"They know the real meaning and history of the seal yonder.\">Sila ang nakakaalam ng tunay na kahulugan ng selyo.</span>\n<span class=\"fil-sentence\" data-translation=\"Accurate records show excellent and high-quality work.\">Ang tumpak na tala ay nagpapakita ng mahusay na gawa.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful and analytical with every symbol today!\">Maging maingat at mapanuri sa bawat simbolo ngayon!</span>",
       "examples": [
         {
-          "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 4",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Simbolo Pagsusuri",
+          "content": "gear = industriya (pabrika), HINDI gulong ng karwahe"
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 1",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Kasaysayan ng Ating Bayan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Our barangay's history is part of our town's wider history.\">Ang kasaysayan ng barangay ay bahagi ng bayan natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Each small place contributes to the history of the province.\">Ang bawat maliit na pook ay nag-aambag sa lalawigan.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: the history of Calamba within our province Laguna.\">Halimbawa: ang kasaysayan ng Calamba sa Laguna natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Laguna is known for rich rice fields and beautiful rivers.\">Ang Laguna ay kilala sa saganang palay at magandang ilog.</span>\n<span class=\"fil-sentence\" data-translation=\"Our folk songs display this beautiful regional culture.\">Ang mga katutubong awitin ay nagpapakita ng kulturang ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We take pride in the history of our own local place yonder.\">Ipinagmamalaki natin ang kasaysayan ng ating sariling pook.</span>\n<span class=\"fil-sentence\" data-translation=\"This gives us strength and unity in our community life today.\">Ito ay nagbibigay sa atin ng lakas at pagkakaisa ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's love our own barangay and province at all times!\">Mahalin natin ang ating barangay at lalawigan palagi!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 1",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 1",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Ugnayan",
+          "content": "barangay -> bayan (town) -> lalawigan (province)"
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 2",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Karagdagang Pagsasanay 1",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 2",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 2",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Pagsasanay 1",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "title": "Buod ng Unang Linggo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed all the slides for this week.\">Binabati kita! Natapos mo ang lahat ng slide sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about the four elements of history yonder.\">Natutunan natin ang apat na elemento ng kasaysayan.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about people, place, time, and events.\">Natutunan natin ang tao, lugar, panahon, at pangyayari.</span>\n<span class=\"fil-sentence\" data-translation=\"We discovered primary and secondary sources of history.\">Nalaman natin ang tungkol sa primary at secondary sources.</span>\n<span class=\"fil-sentence\" data-translation=\"We created timelines and studied community symbols.\">Gumawa tayo ng timeline at nag-aral ng mga simbolo.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready to answer the quiz and challenges today?\">Handa ka na bang sumagot sa mga pagsusulit at hamon?</span>\n<span class=\"fil-sentence\" data-translation=\"Show your love for the history of your local place!\">Ipakita ang iyong pagmamahal sa kasaysayan ng pook!</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent historical researcher today!\">Ipagpatuloy ang pagiging mahusay na historyador ngayon!</span>",
       "examples": [
         {
-          "title": "Summary Points",
-          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
-        },
-        {
-          "title": "Reflection",
-          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+          "title": "Tandaan",
+          "content": "Kasaysayan = May saysay. Elemento = Tao, Lugar, Panahon, Pangyayari."
         }
       ]
     }
@@ -2865,316 +2745,346 @@ window.WEEK1_DATA.makabansa = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Ano ang tawag sa pag-aaral ng may-saysay na nakaraang pangyayari sa komunidad?",
       "options": [
-        "Core term: Pamilya",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "heograpiya",
+        "kasaysayan",
+        "matematika",
+        "sining"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang HINDI kabilang sa apat na elemento ng kasaysayan?",
+      "options": [
+        "tao",
+        "lugar",
+        "panahon",
+        "laruan"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "choice",
+      "q": "Sino ang pambansang bayani na ipinanganak sa Lungsod ng Calamba, Laguna?",
+      "options": [
+        "Andres Bonifacio",
+        "Dr. Jose Rizal",
+        "Apolinario Mabini",
+        "Emilio Aguinaldo"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang tawag sa pagkakasunod-sunod ng mga taon at pangyayari sa kasaysayan?",
+      "options": [
+        "mapa",
+        "timeline",
+        "logo",
+        "selyo"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang isang halimbawa ng primary source na artifact?",
+      "options": [
+        "history textbook",
+        "lumang barya",
+        "kwento ng guro",
+        "encyclopedia"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang isang halimbawa ng nakasulat na primary source?",
+      "options": [
+        "lumang sulat o diary",
+        "kasaysayang aklat ngayon",
+        "monumento",
+        "palayok"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Ano ang tawag sa mga aklat o textbooks na isinulat pagkatapos ng pangyayari?",
       "options": [
-        "Core term: Tungkulin",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "primary source",
+        "sekondaryang batayan",
+        "artifact",
+        "oral history"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Saan karaniwang nagmumula ang pangalan ng mga lumang barangay?",
       "options": [
-        "Core term: Komunidad",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "tatak ng sapatos",
+        "halaman, hayop o patron ng pook",
+        "mga dayuhang bansa",
+        "mga modernong sasakyan"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Ano ang isinasagisag ng simbolo ng palay sa logo ng isang barangay?",
       "options": [
-        "Core term: Kasaysayan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "pangingisda",
+        "pagsasaka o agrikultura",
+        "pabrika at makina",
+        "pananalangin"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad is correct?",
+      "q": "Tama o Mali: Ang pag-aaral ng kasaysayan ay nakatutulong upang maunawaan ang kasalukuyan.",
       "options": [
-        "Statement A: The core rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Ano ang tawag sa kasaysayan na isinasalin sa pamamagitan ng pagkukuwento ng mga lolo at lola?",
       "options": [
-        "Core term: Landmarks",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "nakasulat na batas",
+        "oral history (saling-bibig)",
+        "monumento",
+        "mapa"
       ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad is a key topic in the study of ___.",
-      "answer": "Makabansa"
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Alin sa mga sumusunod ang simbolo ng industriya at pabrika sa logo ng komunidad?",
       "options": [
-        "Core term: Tradisyon",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "palay",
+        "gear o gulong ng makina",
+        "ilog",
+        "araw"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang ipinapakita ng timeline ng paglaki ng isang bata?",
+      "options": [
+        "mga paboritong pagkain",
+        "pagbabago sa paglipas ng panahon",
+        "mga tatak ng laruan",
+        "mga pangalan ng hayop"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Aling awitin ang isang lokal na folk song na naglalarawan ng pamumuhay sa Laguna?",
+      "options": [
+        "Leron Leron Sinta",
+        "Happy Birthday",
+        "Lupang Hinirang",
+        "Bahay Kubo"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Tukuyin ang elemento ng lugar sa pahayag: 'Ipinanganak si Rizal sa Calamba noong 1861.'",
       "options": [
-        "Core term: Lokasyon",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Rizal",
+        "Calamba",
+        "noong 1861",
+        "Ipinanganak"
       ],
-      "answer": 0
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Tukuyin ang elemento ng panahon sa pahayag: 'Itinatag ang paaralan noong taong 2005.'",
+      "options": [
+        "paaralan",
+        "noong taong 2005",
+        "Itinatag",
+        "paaralang pook"
+      ],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad is correct?",
+      "q": "Tama o Mali: Ang lumang mapa ng isang bayan ay isang primaryang batayan ng kasaysayan nito.",
       "options": [
-        "Statement A: The core rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Alin sa mga sumusunod ang pambalana sa pook na makasaysayan?",
       "options": [
-        "Core term: Pamilya",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "monumento",
+        "Rizal Park",
+        "Fort Santiago",
+        "Bahay ni Rizal"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Anong simbolo ang karaniwang ginagamit sa logo upang ipakita ang ilog o dagat?",
       "options": [
-        "Core term: Tungkulin",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "kulay berde",
+        "guhit ng alon o kulay asul",
+        "guhit ng palay",
+        "guhit ng makina"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Sino ang gumagawa ng mga pangyayaring nagiging bahagi ng kasaysayan?",
       "options": [
-        "Core term: Komunidad",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "mga kotse",
+        "mga tao",
+        "mga laruan",
+        "mga pusa"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad is a key topic in the study of ___.",
-      "answer": "Makabansa"
+      "type": "choice",
+      "q": "Paano isinusulat ang timeline ng mga taon?",
+      "options": [
+        "mula kasalukuyan patungong nakaraan",
+        "mula pinakamaagang taon hanggang pinakahuli",
+        "walang pagkakasunod-sunod",
+        "mula pinakamalaking numero lamang"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang HINDI primary source?",
+      "options": [
+        "lumang barya",
+        "diary ng sundalo",
+        "aklat sa kasaysayan na isinulat nitong 2020",
+        "lumang larawan"
+      ],
+      "answer": 2
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad is correct?",
+      "q": "Tama o Mali: Ang pagkain mo ng saging kaninang umaga ay isang makasaysayang pangyayari sa inyong barangay.",
       "options": [
-        "Statement A: The core rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Alin sa mga sumusunod na hugis ang katutubong disenyo mula sa kalikasan?",
       "options": [
-        "Core term: Landmarks",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "kotse",
+        "dahon at bulaklak",
+        "telebisyon",
+        "computer"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Bakit mahalagang ingatan ang mga primary source tulad ng lumang sulat at barya?",
       "options": [
-        "Core term: Timeline",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "upang ibenta sa palengke",
+        "upang mapanatili ang tumpak na tala ng kasaysayan",
+        "upang gawing laruan ng bata",
+        "upang itapon sa ilog"
       ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
-      "options": [
-        "Core term: Tradisyon",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
-      "options": [
-        "Core term: Lokasyon",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad is correct?",
-      "options": [
-        "Statement A: The core rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad are not relevant to these cases."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad is a key topic in the study of ___.",
-      "answer": "Makabansa"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
-      "options": [
-        "Core term: Tungkulin",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
-      "options": [
-        "Core term: Komunidad",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
-      "options": [
-        "Core term: Kasaysayan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad is correct?",
-      "options": [
-        "Statement A: The core rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad are not relevant to these cases."
-      ],
-      "answer": 0
+      "answer": 1
     }
   ],
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad, what is the first priority?",
+      "q": "Challenge: Aling batayan ang pinakamahusay gamitin upang malaman ang buhay sa barangay noong panahon ng Hapon (1942)?",
       "options": [
-        "Analyze key terms and variables",
-        "Guess the answer immediately",
-        "Skip the question",
-        "Use unrelated formulas"
+        "isang diary na isinulat ng isang lola noong 1943 sa pook",
+        "isang aklat na isinulat ng dayuhan nitong 2025",
+        "isang kwento sa komiks",
+        "isang modernong mapa ng barangay"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Challenge: Kung ang isang barangay logo ay may simbolo ng gear at palay, ano ang mahihinuha mo sa pamumuhay doon?",
       "options": [
-        "The primary variable: Sarili",
-        "An external variable",
-        "No variable",
-        "All variables equally"
+        "Pawang mga mangingisda ang nakatira doon.",
+        "May ugnayan ng agrikultura at industriya sa kanilang kabuhayan.",
+        "Walang kabuhayan ang mga mamamayan doon.",
+        "Puro sining lamang ang ginagawa doon."
       ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad.",
-      "options": [
-        "Statement A: Proper methodology leads to a correct and verified solution.",
-        "Statement B: Rushing through calculations is safe and rarely causes errors."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
-      "answer": "pamilya"
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Challenge: Aling pagkakasunod-sunod ng timeline ang tama para sa kasaysayan ng isang eskwelahan?",
       "options": [
-        "Building logical reasoning and problem-solving skills",
-        "Forgetting previous lessons",
-        "Speeding up without accuracy",
-        "None of these"
+        "2005 (Pagtatag) -> 2015 (Bagong Aklatan) -> 2025 (Sports Center)",
+        "2025 (Sports Center) -> 2015 (Bagong Aklatan) -> 2005 (Pagtatag)",
+        "2015 (Bagong Aklatan) -> 2005 (Pagtatag) -> 2025 (Sports Center)",
+        "2005 (Pagtatag) -> 2025 (Sports Center) -> 2015 (Bagong Aklatan)"
       ],
       "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Paano nagkakaugnay ang kasaysayan ng inyong barangay sa kasaysayan ng inyong bayan o lungsod?",
+      "options": [
+        "Ang barangay ay may hiwalay na bansa at batas.",
+        "Ang kasaysayan ng bawat barangay ang bumubuo sa mas malawak na kwento ng bayan.",
+        "Walang ugnayan ang dalawa sa kasaysayan.",
+        "Ang bayan ay walang kinalaman sa barangay."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Suriin ang pahayag: 'Ang tulay na itinayo noong 1920 ay nagdugtong sa dalawang barangay.' Anong uri ng batayan ang pisikal na tulay na ito ngayon?",
+      "options": [
+        "Nakasulat na dokumento",
+        "Artifact o pisikal na primary source",
+        "Sekondaryang aklat",
+        "Oral history lamang"
+      ],
+      "answer": 1
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad",
-    "desc": "Perform a simple observation of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Timeline ng Ating Pook",
+    "desc": "Kausapin ang iyong magulang o lolo at lola tungkol sa kasaysayan ng inyong tahanan o barangay. Sumulat ng tatlong mahahalagang pangyayari sa nakaraan (hal. taon kung kailan lumipat sa bahay, o taon kung kailan nagkaroon ng sementadong kalsada). Iayos ang mga ito sa isang timeline sa papel. Iguhit ang bawat pangyayari at ipaliwanag ang iyong timeline sa pamilya.",
     "labels": [
-      "Accurate explanation of concept",
-      "Clarity and confidence in presentation",
-      "Neatness of written notes"
+      "Maayos na naiguhit ang timeline na may tamang pagkakasunod-sunod",
+      "Wastong natukoy ang tatlong mahahalagang pangyayari at taon",
+      "Malinaw na naipaliwanag ang kasaysayan batay sa saling-bibig ng pamilya"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Pamilya and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of sarili</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 1: Elemento ng Kasaysayan</h3>\n                  <p class=\"ws-instruction\">Tukuyin ang elemento ng kasaysayan (<strong>Tao</strong>, <strong>Lugar</strong>, <strong>Panahon</strong>, o <strong>Pangyayari</strong>) para sa nakasalungguhit na salita gamit ang stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Ipinanganak si <u>Dr. Jose Rizal</u> sa Calamba noong Hunyo 19, 1861.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Tao</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Itinatag ang Barangay San Jose noong <u>taong 1950</u>.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Panahon</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Nagkaroon ng malaking <u>pista ng bayan</u> sa plaza.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pangyayari</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 2: Primary vs. Secondary Sources</h3>\n                  <p class=\"ws-instruction\">Isulat kung ang sumusunod na batayan ay <strong>Primary</strong> o <strong>Secondary</strong> gamit ang iyong stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Isang lumang barya na nakuha sa ilalim ng lupa: <span class=\"fil-sentence\" data-translation=\"(An old coin dug from the ground:)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Primary</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Aklat sa kasaysayan ng Pilipinas na ginagamit sa Grade 3: <span class=\"fil-sentence\" data-translation=\"(A Philippine history book used in Grade 3:)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Secondary</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Diary na isinulat ng isang sundalo noong panahon ng digmaan: <span class=\"fil-sentence\" data-translation=\"(Diary written by a soldier during the war:)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Primary</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 3: Pagsusuri ng Barangay Timeline</h3>\n                  <p class=\"ws-instruction\">Ayusin ang mga sumusunod na taon at pangyayari sa tamang pagkakasunod-sunod sa timeline sa ibaba.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">A. 2020: Pagtatayo ng bagong tulay. <br> B. 2000: Pagtatatag ng barangay hall. <br> C. 2010: Pagpapatayo ng health center.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">2000: Pagtatatag ng barangay hall. -> 2010: Pagpapatayo ng health center. -> 2020: Pagtatayo ng bagong tulay.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -3183,355 +3093,255 @@ window.WEEK1_DATA.gmrc = {
   "color": "#06b6d4",
   "icon": "🧘‍♂️",
   "title": "GMRC",
-  "subtitle": "Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan",
+  "subtitle": "Week 1: Tiwala sa Sarili - Aking Hilig at Kakayahan",
   "slides": [
     {
-      "title": "Introduction to Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan",
-      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in GMRC.",
+      "title": "Maligayang Pagdating sa GMRC!",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Hello, good life! Welcome to GMRC Week 1!\">Kumusta, magandang buhay! Welcome sa GMRC Week 1!</span>\n<span class=\"fil-sentence\" data-translation=\"This week, we will study about self-confidence.\">Ngayong linggo, mag-aaral tayo tungkol sa tiwala sa sarili.</span>\n<span class=\"fil-sentence\" data-translation=\"Self-confidence is believing in your own abilities yonder.\">Ang tiwala sa sarili ay naniniwala sa sariling galing.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's recognize our own personal hobbies and interests.\">Kilalanin natin ang ating mga sariling hilig o interes.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's also identify our talents and unique abilities today.\">Tukuyin din natin ang ating mga talento at kakayahan ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"This helps us become happy and successful in our lives.\">Nakatutulong ito upang maging masaya at matagumpay tayo.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready to discover your unique and special talents?\">Handa ka na bang tuklasin ang iyong mga natatanging galing?</span>\n<span class=\"fil-sentence\" data-translation=\"Let's start exploring with a smile and confidence today!\">Magsimula tayong mag-explore nang may ngiti at tiwala ngayon!</span>",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan and apply them in daily situations."
-        },
-        {
-          "title": "Real-world Connection",
-          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+          "title": "Layunin ng Linggo",
+          "content": "Makilala ang sariling hilig at kakayahan bilang bahagi ng tiwala sa sarili."
         }
       ]
     },
     {
-      "title": "Core Vocabulary & Terms",
-      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "title": "Ano ang Tiwala sa Sarili?",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Self-confidence is a very important personal quality.\">Ang tiwala sa sarili ay isang mahalagang katangian natin.</span>\n<span class=\"fil-sentence\" data-translation=\"It is the belief that you can achieve and do things yonder.\">Ito ay ang paniniwala na kaya mong gawin ang isang bagay.</span>\n<span class=\"fil-sentence\" data-translation=\"E.g., believing that you can speak in front of the class.\">E.g., ang paniniwala na kaya mong magsalita sa klase.</span>\n<span class=\"fil-sentence\" data-translation=\"You are not afraid to make mistakes because you learn.\">Hindi ka natatakot magkamali dahil alam mong matututo ka.</span>\n<span class=\"fil-sentence\" data-translation=\"Self-confidence begins in our hearts yonder in our lives.\">Ang tiwala sa sarili ay nagsisimula sa ating puso ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"We accept our own hobbies and unique abilities yonder.\">Tinatanggap natin ang ating mga hilig at kakayahan doon.</span>\n<span class=\"fil-sentence\" data-translation=\"This helps keep us open to challenges and new tasks.\">Nakatutulong ito upang maging bukas tayo sa mga pagsubok.</span>\n<span class=\"fil-sentence\" data-translation=\"How can you show self-confidence in your school today?\">Paano mo maipapakita ang tiwala sa sarili sa paaralan?</span>",
       "examples": [
         {
-          "title": "Term 1: Pagmamahal",
-          "content": "A foundational concept in GMRC that helps us categorize and understand details."
-        },
-        {
-          "title": "Term 2: Kalinisan",
-          "content": "An active process or skill used to analyze situations and solve problems."
+          "title": "Tiwala sa Sarili",
+          "content": "Paniniwala sa sariling lakas at kakayahang matuto."
         }
       ]
     },
     {
-      "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. By looking closely at how these ideas work together, we can build a strong understanding of GMRC.",
+      "title": "Ang Aking Hilig at Interes",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Hobbies are activities you love doing every single day.\">Ang hilig ay mga bagay na gusto mong gawin araw-araw.</span>\n<span class=\"fil-sentence\" data-translation=\"These give us joy and happiness in our free time yonder.\">Ito ang nagbibigay sa atin ng saya sa ating libreng oras.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: reading books, drawing pictures, or singing songs.\">Halimbawa: pagbabasa ng aklat, pagguhit, o pag-awit.</span>\n<span class=\"fil-sentence\" data-translation=\"Others love playing local sports activities like sipa.\">Ang iba ay hilig ang maglaro ng sports tulad ng sipa.</span>\n<span class=\"fil-sentence\" data-translation=\"Some love caring for green plants in the school garden.\">Ang iba naman ay hilig ang mag-alaga ng halaman sa hardin.</span>\n<span class=\"fil-sentence\" data-translation=\"Every single child has their own unique interest in life.\">Ang bawat bata ay may kani-kanilang sariling interes.</span>\n<span class=\"fil-sentence\" data-translation=\"Knowing your hobbies is the start of knowing yourself yonder.\">Ang pag-alam sa hilig ay simula ng pagkilala sa sarili.</span>\n<span class=\"fil-sentence\" data-translation=\"What is your absolute favorite hobby during weekends?\">Ano ang pinakagusto mong hilig kapag walang pasok?</span>",
       "examples": [
         {
-          "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in simple activities."
-        },
-        {
-          "title": "Why It Matters",
-          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+          "title": "Mga Hilig",
+          "content": "pagguhit (drawing), pag-awit (singing), pagbasa (reading)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Aking Talento at Kakayahan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Abilities are things that you perform and do very well.\">Ang kakayahan ay mga bagay na mahusay mong nagagawa.</span>\n<span class=\"fil-sentence\" data-translation=\"These are also called talents given to us in our lives.\">Ito ay tinatawag ding talento na ibinigay sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: good at dancing, singing, or drawing pictures.\">Halimbawa: mahusay sumayaw, kumanta, o mag-drawing.</span>\n<span class=\"fil-sentence\" data-translation=\"Others are excellent in math or science subjects yonder.\">Ang iba ay magaling sa matematika o science sa klase.</span>\n<span class=\"fil-sentence\" data-translation=\"Some are very good at storytelling or speaking in public.\">Ang iba naman ay magaling magkwento o magsalita.</span>\n<span class=\"fil-sentence\" data-translation=\"Every one of us has a unique and special talent today.\">Ang bawat isa sa atin ay may natatanging talento ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"We need to practice and use these talents for good things.\">Kailangan natin itong linangin at gamitin sa mabuti.</span>\n<span class=\"fil-sentence\" data-translation=\"What is your own special talent in your school class?\">Ano ang iyong natatanging talento sa inyong klase?</span>",
       "examples": [
         {
-          "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Kakayahan",
+          "content": "pagsayaw (dancing), pagkuwenta (computing), pagsulat (writing)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Pagtanggap sa Sariling Kakayahan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"It is important to accept what we can do in our lives.\">Mahalagang tanggapin natin kung ano ang kaya natin.</span>\n<span class=\"fil-sentence\" data-translation=\"We do not need to compare ourselves with other students.\">Hindi natin kailangang ihambing ang sarili sa iba.</span>\n<span class=\"fil-sentence\" data-translation=\"If your seatmate in school is very good at dancing,\">Kung magaling sumayaw ang iyong katabi sa paaralan,</span>\n<span class=\"fil-sentence\" data-translation=\"do not be sad if you prefer drawing pictures instead.\">huwag malungkot kung mas gusto mo ang mag-drawing.</span>\n<span class=\"fil-sentence\" data-translation=\"Every talent is valuable and has its own beauty yonder.\">Ang bawat galing ay mahalaga at may sariling ganda.</span>\n<span class=\"fil-sentence\" data-translation=\"Accepting yourself strengthens your inner self-confidence.\">Ang pagtanggap sa sarili ay nagpapatibay ng tiwala.</span>\n<span class=\"fil-sentence\" data-translation=\"Be proud of your own hobbies without any fear yonder today.\">Ipagmalaki ang iyong sariling hilig nang walang takot.</span>\n<span class=\"fil-sentence\" data-translation=\"Write down two things you are proud of about yourself now!\">Magsulat ng dalawang bagay na ipinagmamalaki mo ngayon!</span>",
       "examples": [
         {
-          "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Pagtanggap",
+          "content": "Ipagmalaki ang sariling galing nang walang pag-aalinlangan."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pagsasanay at Pag-unlad",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Talent grows through constant practice and dedication.\">Ang talento ay lumalago sa pamamagitan ng pagsasanay.</span>\n<span class=\"fil-sentence\" data-translation=\"Nobody becomes excellent without practicing their craft daily.\">Walang taong naging mahusay nang hindi nag-eensayo.</span>\n<span class=\"fil-sentence\" data-translation=\"If you want to be a painter, draw pictures every single day.\">Kung nais mong maging pintor, gumuhit ka araw-araw.</span>\n<span class=\"fil-sentence\" data-translation=\"If you want to be a writer, write sentences on your paper.\">Kung nais mong maging manunulat, sumulat ka sa papel.</span>\n<span class=\"fil-sentence\" data-translation=\"Do not give up when you make mistakes at the start yonder.\">Huwag sumuko kapag nagkamali ka sa simula ng laro.</span>\n<span class=\"fil-sentence\" data-translation=\"Making mistakes is a natural part of learning in school.\">Ang pagkakamali ay bahagi ng pagkatuto sa eskwela.</span>\n<span class=\"fil-sentence\" data-translation=\"Putting in effort shows our self-confidence and strength.\">Ang pagsisikap ay nagpapakita ng tiwala sa sarili natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's practice together with our teachers and friends today!\">Magsanay tayo kasama ang ating guro at mga kaibigan!</span>",
       "examples": [
         {
-          "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Pag-unlad",
+          "content": "Pagsasanay + Pagsisikap = Paghusay ng Kakayahan"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pagtagumpay sa Takot",
+      "text": "<span class=\"fil-sentence\" data-translation=\"It is very common for children to feel afraid yonder.\">Karaniwan sa mga bata ang maramdaman ang takot.</span>\n<span class=\"fil-sentence\" data-translation=\"We are afraid to speak in front of a large group of people.\">Natatakot tayong magsalita sa harap ng maraming tao.</span>\n<span class=\"fil-sentence\" data-translation=\"But self-confidence helps us overcome this fear yonder.\">Ngunit ang tiwala sa sarili ay tumutulong sa takot.</span>\n<span class=\"fil-sentence\" data-translation=\"Breathe in deeply before starting your report in class.\">Huminga nang malalim bago magsimula ng iyong ulat.</span>\n<span class=\"fil-sentence\" data-translation=\"Think yonder that you can share your knowledge with others.\">Isipin na kaya mong ibahagi ang iyong karunungan doon.</span>\n<span class=\"fil-sentence\" data-translation=\"Courage is the key to defeating fear in our daily lives.\">Ang lakas ng loob ay susi sa pagtagumpay sa takot.</span>\n<span class=\"fil-sentence\" data-translation=\"Try speaking in front of your family members first yonder.\">Subukan mong magsalita sa harap ng iyong pamilya muna.</span>\n<span class=\"fil-sentence\" data-translation=\"This is a great way to train your voice and posture!\">Ito ay magandang paraan upang masanay ang iyong tinig!</span>",
       "examples": [
         {
-          "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Lakas ng Loob",
+          "content": "Paghahanda + Lakas ng loob = Pagtalo sa Takot"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tiwala sa Sarili at Komunidad",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Self-confidence makes our local community happy today.\">Ang tiwala sa sarili ay nagpapasaya sa komunidad natin.</span>\n<span class=\"fil-sentence\" data-translation=\"When you have confidence, you are ready to help others yonder.\">Kapag may tiwala ka, handa kang tumulong sa iba.</span>\n<span class=\"fil-sentence\" data-translation=\"You can teach writing to your playmate in the barangay.\">Maaari mong ituro ang pagsusulat sa iyong kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"You can also join activities inside the local barangay hall.\">Maaari ka ring sumali sa mga programa sa barangay hall.</span>\n<span class=\"fil-sentence\" data-translation=\"Such as playground events for native games or folk dances.\">Tulad ng mga palaruan ng katutubong laro o sayaw.</span>\n<span class=\"fil-sentence\" data-translation=\"Your talent provides inspiration to many people around you.\">Ang iyong galing ay nagbibigay-inspirasyon sa marami.</span>\n<span class=\"fil-sentence\" data-translation=\"Do not hide your talent; share it with your local place!\">Huwag itago ang iyong talento; ibahagi ito sa pook!</span>\n<span class=\"fil-sentence\" data-translation=\"How can you help your barangay using your unique talent?\">Paano mo matutulungan ang iyong barangay gamit ang galing?</span>",
       "examples": [
         {
-          "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Ibahagi ang Talento",
+          "content": "Gamitin ang galing upang makatulong sa mga kalaro at kapwa."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Pagtukoy sa Hilig",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's practice identifying hobbies and talents today.\">Magsanay tayo sa pagtukoy ng hilig at kakayahan ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"Analyze: 'Matteo loves drawing pictures of flying birds.'\">Suriin: 'Gustong-gusto ni Matteo ang gumuhit ng ibon.'</span>\n<span class=\"fil-sentence\" data-translation=\"Drawing birds is his personal interest or hobby in life.\">Ang pagguhit ng ibon ay ang kanyang 'hilig' sa buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"Because he practices frequently in his school notebook,\">Dahil madalas siyang mag-ensayo sa kanyang notebook,</span>\n<span class=\"fil-sentence\" data-translation=\"he became very skilled at drawing different animals yonder.\">siya ay naging napakahusay mag-drawing ng mga hayop.</span>\n<span class=\"fil-sentence\" data-translation=\"Being good at drawing is his developed talent or ability.\">Ang pagiging mahusay mag-drawing ay ang kanyang kakayahan.</span>\n<span class=\"fil-sentence\" data-translation=\"Were you able to distinguish hobby and ability today?\">Nagawa mo bang pag-ibahin ang hilig at kakayahan ngayon?</span>\n<span class=\"fil-sentence\" data-translation=\"This will help in understanding your own personal talents!\">Ito ay makatutulong sa pag-unawa ng iyong sariling galing!</span>",
       "examples": [
         {
-          "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Pagsusuri",
+          "content": "Gusto (Hilig) -> pagguhit, Galing (Kakayahan) -> mahusay mag-drawing"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Tiwala sa Klase",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's observe Lani's behavior inside the classroom.\">Suriin natin ang kilos ni Lani sa silid-aralan.</span>\n<span class=\"fil-sentence\" data-translation=\"She raised her hand to answer the teacher's question.\">Tinaas niya ang kanyang kamay upang sumagot sa guro.</span>\n<span class=\"fil-sentence\" data-translation=\"Even if unsure, she still tried her best to speak yonder.\">Kahit hindi siya sigurado, sumubok pa rin siyang magsalita.</span>\n<span class=\"fil-sentence\" data-translation=\"This action displays a strong sense of self-confidence.\">Ang kilos na ito ay nagpapakita ng tiwala sa sarili.</span>\n<span class=\"fil-sentence\" data-translation=\"She did not give up due to the fear of making mistakes.\">Hindi siya sumuko sa takot na magkamali sa klase.</span>\n<span class=\"fil-sentence\" data-translation=\"The teacher smiled and guided her to find the correct answer.\">Ngumiti ang guro at tinulungan siyang mahanap ang sagot.</span>\n<span class=\"fil-sentence\" data-translation=\"Trying is the absolute beginning of developing our minds.\">Ang pagsubok ay simula ng pag-unlad ng ating isip.</span>\n<span class=\"fil-sentence\" data-translation=\"Raise your hand when the teacher asks a question today!\">Itaas ang iyong kamay kapag may tanong ang guro ngayon!</span>",
       "examples": [
         {
-          "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Pagsasanay Tiwala",
+          "content": "Pagtataas ng kamay = pagpapakita ng tiwala sa sarili."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Ibahagi ang Talento",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check how friends help one another in school.\">Suriin natin kung paano nagtutulungan ang magkakaibigan.</span>\n<span class=\"fil-sentence\" data-translation=\"Kiko is very good at math in our classroom today yonder.\">Si Kiko ay magaling sa matematika sa aming klase ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"He guided his playmate to compute coins and savings safely.\">Tinulungan niya ang kanyang kalaro na magkuwenta ng barya.</span>\n<span class=\"fil-sentence\" data-translation=\"Sharing your talent displays excellent moral values in life.\">Ang pagbabahagi ng talento ay nagpapakita ng mabuting asal.</span>\n<span class=\"fil-sentence\" data-translation=\"He uses his ability to serve and help his classmates today.\">Ginagamit niya ang kanyang kakayahan upang maglingkod.</span>\n<span class=\"fil-sentence\" data-translation=\"This makes his teacher and parents very happy and proud.\">Ito ay nagpapasaya sa kanyang guro at mga magulang.</span>\n<span class=\"fil-sentence\" data-translation=\"Cooperation strengthens the confidence of our entire group.\">Ang pagtutulungan ay nagpapatibay ng tiwala ng grupo natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Share your math skills with your seatmate right now!\">Ibahagi ang iyong galing sa matematika sa iyong katabi ngayon!</span>",
       "examples": [
         {
-          "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Pagsasanay Pagbabahagi",
+          "content": "Kiko -> tinuruan ang kalaro magkuwenta ng barya."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Maling Pag-iisip sa Sariling Galing",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid thinking yonder that you have no talent or ability.\">Iwasan ang pag-iisip na wala kang kakayahan o talento.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'I have no talent, I cannot do science subjects.'\">Mali: 'Wala akong galing, hindi ko kaya ang science.'</span>\n<span class=\"fil-sentence\" data-translation=\"Every child has a unique strength waiting to be discovered.\">Ang bawat bata ay may sariling galing na kailangang tuklasin.</span>\n<span class=\"fil-sentence\" data-translation=\"Maybe you just need practice and guidance from your teacher.\">Maaaring kailangan mo lang ng pagsasanay at gabay ng guro.</span>\n<span class=\"fil-sentence\" data-translation=\"Correct: 'I will practice to become good at science today.'\">Tama: 'Magsasanay ako upang maging mahusay sa science.'</span>\n<span class=\"fil-sentence\" data-translation=\"Self-confidence does not surrender at the very first try.\">Ang tiwala sa sarili ay hindi sumusuko sa unang subok.</span>\n<span class=\"fil-sentence\" data-translation=\"Make sure your thoughts are positive in your writing today!\">Tiyakin na positibo ang iyong kaisipan sa pagsusulat ngayon!</span>\n<span class=\"fil-sentence\" data-translation=\"This is the key to success in everything you perform today!\">Ito ang susi sa tagumpay sa lahat ng iyong ginagawa!</span>",
       "examples": [
         {
-          "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Kaisipan Error",
+          "content": "mali: wala akong galing -> tama: mag-eensayo ako upang matuto"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Maling Pagyayabang ng Talento",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid boasting or showing off when you are already skilled.\">Iwasan ang pagmamayabang kapag ikaw ay mahusay na.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'I am better than all of you at reading books yonder!'\">Mali: 'Mas magaling ako sa inyong lahat sa pagbasa!'</span>\n<span class=\"fil-sentence\" data-translation=\"Boasting does not display true and healthy self-confidence.\">Ang pagyayabang ay hindi nagpapakita ng tiwala sa sarili.</span>\n<span class=\"fil-sentence\" data-translation=\"It displays lack of humility and respect for your classmates.\">Ito ay nagpapakita ng kawalan ng kababaang-loob sa kapwa.</span>\n<span class=\"fil-sentence\" data-translation=\"The truly confident student serves others quietly in school.\">Ang tunay na may tiwala ay tahimik na naglilingkod.</span>\n<span class=\"fil-sentence\" data-translation=\"He helps those who struggle without making them feel bad.\">Tinutulungan niya ang mga nahihirapan nang walang yabang.</span>\n<span class=\"fil-sentence\" data-translation=\"This is the correct moral value taught in our GMRC class.\">Ito ang wastong asal na itinuturo sa ating GMRC.</span>\n<span class=\"fil-sentence\" data-translation=\"Be humble at all times and share your talents with others!\">Maging mababa ang loob at palaging magbahagi ng biyaya!</span>",
       "examples": [
         {
-          "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Yabang Error",
+          "content": "mali: magyabang sa klase -> tama: tumulong nang may kababaang-loob"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pagtatasa sa Sariling Galing",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check our own progress and development every day.\">Suriin natin ang ating sariling pag-unlad araw-araw.</span>\n<span class=\"fil-sentence\" data-translation=\"Make a written list of your hobbies and abilities today.\">Gumawa ng listahan ng iyong mga hilig at kakayahan ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"Write down what practice routines you are doing at home.\">Isulat kung anong mga pagsasanay ang iyong ginagawa.</span>\n<span class=\"fil-sentence\" data-translation=\"E.g., practicing refining drawings in the afternoon hours.\">E.g., nag-eensayo ng pagpapakinis ng guhit sa hapon.</span>\n<span class=\"fil-sentence\" data-translation=\"Self-assessment displays our personal discipline yonder.\">Ang pagtatasa sa sarili ay nagpapakita ng disiplina natin.</span>\n<span class=\"fil-sentence\" data-translation=\"We find out where we still need to study and put in effort.\">Nalalaman natin kung saan pa natin kailangang mag-aral.</span>\n<span class=\"fil-sentence\" data-translation=\"Ask for guidance from your teacher or parents in this task.\">Humingi ng tulong sa guro o magulang para sa pagsusuri.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue developing your own special talents in the community!\">Ipagpatuloy ang pag-unlad ng iyong sariling talento ngayon!</span>",
       "examples": [
         {
-          "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Pagtatasa",
+          "content": "Suriin ang sarili: Ano ang aking galing? Paano ko ito mapapahusay?"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 1",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Pagsasanay 1",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 2",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Pagsasanay 2",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 3",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Pagsasanay 3",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 4",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Pagsasanay 4",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 1",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 5",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 1",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 5",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 2",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 6",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 2",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 6",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 3",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 7",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 3",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 7",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 4",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 8",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 4",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 8",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 1",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Karagdagang Pagsasanay 9",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 1",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 1",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Pagsasanay 9",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 2",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Karagdagang Pagsasanay 10",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 2",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 2",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Pagsasanay 10",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "title": "Buod ng Unang Linggo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed all the slides for Week 1.\">Binabati kita! Natapos mo ang lahat ng slide sa Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned the meaning of self-confidence today in class.\">Natutunan natin ang kahulugan ng tiwala sa sarili ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"We identified the difference between hobbies and abilities.\">Natukoy natin ang pagkakaiba ng hilig at kakayahan natin.</span>\n<span class=\"fil-sentence\" data-translation=\"We discovered the importance of practice and inner courage.\">Nalaman natin ang kahalagahan ng pagsasanay at lakas-loob.</span>\n<span class=\"fil-sentence\" data-translation=\"We avoided boasting and negative thinking in our daily lives.\">Iniwasan natin ang pagyayabang at maling pag-iisip doon.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready for the quiz and challenges of this week now?\">Handa ka na ba sa pagsusulit at hamon ng linggong ito?</span>\n<span class=\"fil-sentence\" data-translation=\"Show your self-confidence in answering the questions today!\">Ipakita ang iyong tiwala sa sarili sa pagsagot ngayon!</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being a disciplined student of GMRC at all times!\">Ipagpatuloy ang pagiging disiplinadong mag-aaral ng GMRC!</span>",
       "examples": [
         {
-          "title": "Summary Points",
-          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
-        },
-        {
-          "title": "Reflection",
-          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+          "title": "Tandaan",
+          "content": "Tiwala = Paniniwala sa sarili. Hilig = Gusto. Kakayahan = Galing."
         }
       ]
     }
@@ -3539,316 +3349,346 @@ window.WEEK1_DATA.gmrc = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Ano ang tawag sa paniniwala sa sariling galing at kakayahan?",
       "options": [
-        "Core term: Kalinisan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "takot",
+        "pagyayabang",
+        "tiwala sa sarili",
+        "kawalang-pag-asa"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Alin sa mga sumusunod ang halimbawa ng 'hilig' o interes?",
       "options": [
-        "Core term: Disiplina",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "mahusay mag-drawing ng hayop",
+        "gustong magbasa ng mga aklat sa hapon",
+        "magaling magkuwenta ng barya",
+        "mabilis tumakbo sa kalsada"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Alin sa mga sumusunod ang halimbawa ng 'kakayahan' o talento?",
       "options": [
-        "Core term: Paggalang",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "gustong manood ng sining",
+        "mahusay sumayaw ng Tinikling",
+        "gustong maglakad sa plaza",
+        "gustong makinig ng kanta"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Ano ang dapat mong gawin upang mapahusay ang iyong talento sa pagguhit?",
       "options": [
-        "Core term: Katapatan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "itago ang mga krayola",
+        "magsanay gumuhit araw-araw",
+        "ihambing ang sarili sa iba",
+        "sumuko sa unang pagkakamali"
       ],
-      "answer": 0
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Paano mo maipapakita ang tiwala sa sarili sa loob ng silid-aralan?",
+      "options": [
+        "matulog sa klase",
+        "itaas ang kamay upang sumagot sa tanong ng guro",
+        "makipag-away sa katabi",
+        "magtago sa ilalim ng desk"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang HINDI nagpapakita ng tiwala sa sarili?",
+      "options": [
+        "sumubok sumagot kahit hindi sigurado",
+        "sumuko agad dahil natatakot magkamali",
+        "mag-ensayo ng pag-awit",
+        "humingi ng tulong sa guro"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang angkop na asal kapag ikaw ay mas magaling sa matematika kaysa sa iyong kalaro?",
+      "options": [
+        "pagtawanan siya",
+        "turuan siya nang may kababaang-loob",
+        "magyabang sa buong klase",
+        "huwag siyang pansinin"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Paano lumalago ang talento ng isang bata sa pag-awit?",
+      "options": [
+        "sa pamamagitan ng panonood lamang",
+        "sa pamamagitan ng araw-araw na pagsasanay",
+        "sa pamamagitan ng pagbili ng bagong sapatos",
+        "sa pamamagitan ng pagtulog"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang dapat gawin kapag nagkamali ka sa pagguhit sa iyong klase?",
+      "options": [
+        "itapon ang papel at umiyak",
+        "tanggapin ito bilang bahagi ng pagkatuto at sumubok muli",
+        "makipag-away sa katabi",
+        "sumuko na sa pagguhit"
+      ],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan is correct?",
+      "q": "Tama o Mali: Ang bawat bata ay may kani-kanilang sariling hilig at kakayahan.",
       "options": [
-        "Statement A: The core rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Aling katangian ang ipinapakita ng batang hindi natatakot magsalita sa harap ng klase?",
       "options": [
-        "Core term: Pagtitipid",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "takot",
+        "lakas ng loob at tiwala sa sarili",
+        "pagyayabang",
+        "katamaran"
       ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan is a key topic in the study of ___.",
-      "answer": "GMRC"
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Ano ang layunin ng pagbabahagi ng iyong talento sa iyong kapwa?",
       "options": [
-        "Core term: Bayanihan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "upang makakuha ng pera",
+        "upang maglingkod at magbigay-inspirasyon sa iba",
+        "upang maging sikat sa barangay",
+        "upang magyabang"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Punan ang patlang: 'Ang pagsasanay at pagsisikap ay nagdudulot ng ___ ng kakayahan.'",
+      "options": [
+        "pagkasira",
+        "pag-unlad at paghusay",
+        "pagkawala",
+        "pagkatakot"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang pambalana sa tungkulin ng tao na nagtuturo ng mabuting asal?",
+      "options": [
+        "guro",
+        "doktor",
+        "pulis",
+        "tanod"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Ano ang dapat iwasan kapag ikaw ay nagpapakita ng iyong talento sa pagtugtog?",
       "options": [
-        "Core term: Pag-iimpok",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "pagngiti sa mambabasa",
+        "pagyayabang at pagmamaliit sa hindi marunong",
+        "pag-ensayo bago magsimula",
+        "paghingi ng gabay sa guro"
       ],
-      "answer": 0
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Saan natin maaaring gamitin ang ating kakayahan sa pagguhit sa barangay?",
+      "options": [
+        "sa pagsira ng pader",
+        "sa paggawa ng mga poster para sa kalinisan sa barangay hall",
+        "sa pagtapon ng basura sa ilog",
+        "sa pagsusulat sa mga libro ng aklatan"
+      ],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan is correct?",
+      "q": "Tama o Mali: Ang paghahambing ng sarili sa iba ay nakatutulong upang tumibay ang tiwala sa sarili.",
       "options": [
-        "Statement A: The core rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Aling ugali ang ipinapakita ng mag-aaral na nagpapasalamat sa puna ng kanyang guro?",
       "options": [
-        "Core term: Kalinisan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "katigasan ng ulo",
+        "kababaang-loob at kagustuhang matuto",
+        "pagkatakot",
+        "katamaran"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Aling salita ang naglalarawan ng kilos na may tiwala sa sarili?",
       "options": [
-        "Core term: Disiplina",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "pag-iyak",
+        "pagsubok at pagsisikap",
+        "pagtatago",
+        "pagsuko"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Ano ang tinutukoy ng araling GMRC?",
       "options": [
-        "Core term: Paggalang",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "wastong pagkuwenta ng barya",
+        "mabuting asal at tamang pag-uugali (Character Education)",
+        "pagbasa ng mga mapa",
+        "pag-uri ng mga solid"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan is a key topic in the study of ___.",
-      "answer": "GMRC"
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang tamang kaisipan kapag nahihirapan sa science?",
+      "options": [
+        "'Hindi ko talaga kaya ito.'",
+        "'Magsisikap ako at magtatanong sa aking guro upang matuto.'",
+        "'Hindi mahalaga ang science.'",
+        "'Ipagpapaliban ko na lang ang pag-aaral.'"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Tukuyin ang hilig sa pangungusap: 'Gusto ni Kiko na mag-alaga ng mga halaman sa hardin.'",
+      "options": [
+        "Kiko",
+        "halaman",
+        "mag-alaga ng mga halaman",
+        "hardin"
+      ],
+      "answer": 2
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan is correct?",
+      "q": "Tama o Mali: Ang tiwala sa sarili ay nangangahulugang alam mo na ang lahat at hindi mo na kailangang mag-aral.",
       "options": [
-        "Statement A: The core rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Alin sa mga sumusunod ang magandang gawin kapag nakakaramdam ng takot sa harap ng klase?",
       "options": [
-        "Core term: Pagtitipid",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "tumakbo palabas ng silid-aralan",
+        "huminga nang malalim at isiping kaya mong magbahagi",
+        "umiyak sa harap ng guro",
+        "huwag magsalita kailanman"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Saan dapat magsimula ang pag-unlad ng iyong talento?",
       "options": [
-        "Core term: Responsable",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "sa panonood ng iba lamang",
+        "sa iyong sariling puso, pagsasanay, at pagsisikap",
+        "sa pagbili ng mga laruan",
+        "sa pagtulog nang mahaba"
       ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
-      "options": [
-        "Core term: Bayanihan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
-      "options": [
-        "Core term: Pag-iimpok",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan is correct?",
-      "options": [
-        "Statement A: The core rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan are not relevant to these cases."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan is a key topic in the study of ___.",
-      "answer": "GMRC"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
-      "options": [
-        "Core term: Disiplina",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
-      "options": [
-        "Core term: Paggalang",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
-      "options": [
-        "Core term: Katapatan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan is correct?",
-      "options": [
-        "Statement A: The core rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan are not relevant to these cases."
-      ],
-      "answer": 0
+      "answer": 1
     }
   ],
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan, what is the first priority?",
+      "q": "Challenge: Aling kilos ang pinakamahusay na nagpapakita ng ugnayan ng tiwala sa sarili at pagtulong sa kapwa?",
       "options": [
-        "Analyze key terms and variables",
-        "Guess the answer immediately",
-        "Skip the question",
-        "Use unrelated formulas"
+        "pagyayabang sa kalaro na ikaw ang pinakamabilis tumakbo",
+        "pagtuturo sa iyong kaklase na nahihirapan sa pagbasa nang may pasensya at tiwala",
+        "pagtatago ng iyong mga aklat upang hindi sila makabasa",
+        "pagsasabing hindi nila kayang matutunan ang iyong galing"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Paano mo mapagtatagumpayan ang takot na sumali sa street dancing sa pista ng inyong barangay?",
+      "options": [
+        "magtago sa loob ng bahay tuwing pista",
+        "magsanay nang mabuti kasama ang grupo at magtiwala na kaya mong sumayaw sa harap ng tao",
+        "sabihing hindi maganda ang sayaw",
+        "pagtawanan ang mga sumasayaw sa parada"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Kung ang iyong katabi sa klase ay tahimik at natatakot magsalita, paano mo siya matutulungan gamit ang iyong tiwala?",
+      "options": [
+        "sabihan siyang duwag siya sa harap ng iba",
+        "ganyakin siya nang malumanay at sabihing kaya rin niyang sumubok sumagot",
+        "huwag siyang pansinin dahil hindi mo naman siya kamag-anak",
+        "sumagot para sa kanya sa lahat ng pagkakataon"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Bakit ang pagsuko agad sa unang pagkakamali ay itinuturing na kawalan ng tiwala sa sarili?",
+      "options": [
+        "Dahil naniniwala ka na hindi ka na matututo o mapapahusay ang iyong galing sa pamamagitan ng pagsasanay.",
+        "Dahil ang pagkakamali ay isang permanenteng kabiguan sa science.",
+        "Dahil mas madali ang matulog kaysa mag-ensayo.",
+        "Dahil ang guro ay nagagalit kapag may mali."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Challenge: Aling katangian ang pinaka-kailangan ng isang Grade 3 student upang malinang ang kanyang natatanging talento sa sining?",
       "options": [
-        "The primary variable: Pagmamahal",
-        "An external variable",
-        "No variable",
-        "All variables equally"
+        "pagbili ng pinakamahal na krayola",
+        "disiplina sa araw-araw na pagsasanay at bukas na isip sa paggabay ng guro",
+        "pagyayabang sa mga kaibigan",
+        "pag-iwas sa pagguhit ng mga bagay sa kalikasan"
       ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan.",
-      "options": [
-        "Statement A: Proper methodology leads to a correct and verified solution.",
-        "Statement B: Rushing through calculations is safe and rarely causes errors."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
-      "answer": "kalinisan"
-    },
-    {
-      "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
-      "options": [
-        "Building logical reasoning and problem-solving skills",
-        "Forgetting previous lessons",
-        "Speeding up without accuracy",
-        "None of these"
-      ],
-      "answer": 0
+      "answer": 1
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan",
-    "desc": "Perform a simple observation of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Aking Kwento ng Galing",
+    "desc": "Sumulat ng isang talata o maikling kwento tungkol sa iyong paboritong hilig at kakayahan sa papel. Iguhit ang iyong sarili habang ginagawa ang talento na ito (hal. kumakanta, nag-aaral ng math, o nagtatanim). Ipakita ang iyong drawing at basahin ang iyong talata sa iyong magulang nang may tiwala at malinaw na tinig.",
     "labels": [
-      "Accurate explanation of concept",
-      "Clarity and confidence in presentation",
-      "Neatness of written notes"
+      "Wastong natukoy at nailarawan ang sariling hilig at kakayahan",
+      "Maayos na naiguhit ang sarili habang ginagawa ang talento",
+      "Malinaw at may lakas ng loob na naibahagi ang ulat sa pamilya"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Kalinisan and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of pagmamahal</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 1: Hilig vs. Kakayahan</h3>\n                  <p class=\"ws-instruction\">Isulat kung ang sitwasyon ay nagpapakita ng <strong>Hilig</strong> (gusto) o <strong>Kakayahan</strong> (talento/galing) gamit ang stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Mahusay sumayaw ng Tinikling si Caloy sa programa. <span class=\"fil-sentence\" data-translation=\"(Caloy is good at dancing Tinikling in the program.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Kakayahan</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Gustong-gustong manood ng mga bituin si Matteo sa gabi. <span class=\"fil-sentence\" data-translation=\"(Matteo loves watching stars at night.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Hilig</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Magaling magkuwenta ng matematika si Lani sa klase. <span class=\"fil-sentence\" data-translation=\"(Lani is good at computing math in class.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Kakayahan</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 2: Asal ng may Tiwala sa Sarili</h3>\n                  <p class=\"ws-instruction\">Isulat kung ang ipinapakitang pag-uugali ay <strong>Mabuti</strong> (karapat-dapat) o <strong>Mali</strong> (dapat iwasan).</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Pagtuturo sa kalaro ng pagbasa nang walang pagyayabang. <span class=\"fil-sentence\" data-translation=\"(Teaching a playmate to read without boasting.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Mabuti</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Pagsuko agad sa pagguhit dahil nabahiran ng dumi ang papel. <span class=\"fil-sentence\" data-translation=\"(Giving up drawing immediately because the paper was smudged.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Mali</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Pagtataas ng kamay upang sumubok sumagot sa tanong ng guro. <span class=\"fil-sentence\" data-translation=\"(Raising hand to try and answer the teacher's question.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Mabuti</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 3: Paglutas sa Takot</h3>\n                  <p class=\"ws-instruction\">Sagutin ang tanong gamit ang tumpak na detalye batay sa iyong sariling karanasan at aralin.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Ano ang gagawin mo kapag natatakot kang mag-report sa harap ng iyong mga kaklase? <span class=\"fil-sentence\" data-translation=\"(What will you do when you are afraid to report in front of classmates?)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Hihinga ako nang malalim, maghahanda nang mabuti, at magtitiwala na kaya kong magbahagi.</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Iisipin ko na ang aking guro at kaklase ay naroon upang makinig at tumulong sa akin.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -4740,352 +4580,252 @@ window.WEEK1_ADVANCED_DATA.science = {
   "subtitle": "Week 1: Science in Our Daily Life",
   "slides": [
     {
-      "title": "Advanced Scientific Inquiry",
-      "text": "Scientific inquiry is a systematic way of exploring the natural world. It involves making observations, asking testable questions, and forming hypotheses.",
+      "title": "Welcome to the Science Adventure!",
+      "text": "Hello, Young Scientist! Welcome to Science Week 1!\nThis week we are starting an exciting journey of discovery.\nWe will look closely at the world around us.\nScience helps us explain everything we observe every day.\nWe will use our eyes, ears, and hands to study nature.\nWe will learn how weather, plants, and water connect to science.\nLet's get ready to explore and learn together.\nAre you ready to observe like a real scientist?",
       "examples": [
         {
-          "title": "Hypothesis",
-          "content": "An educated guess that can be tested through experiments."
-        },
-        {
-          "title": "Systematic",
-          "content": "Following a step-by-step method to ensure results are reliable."
+          "title": "Weekly Goal",
+          "content": "Understand how science explains daily observations in nature."
         }
       ]
     },
     {
-      "title": "Quantitative vs. Qualitative",
-      "text": "Observations can be qualitative (describing qualities using senses) or quantitative (using numbers and measurements).",
-      "examples": [
-        {
-          "title": "Qualitative",
-          "content": "Example: 'The chemical solution smells sour and has a bright blue color.'"
-        },
-        {
-          "title": "Quantitative",
-          "content": "Example: 'The plant grew 3.5 centimeters in five days.'"
-        }
-      ]
-    },
-    {
-      "title": "The Scientific Method",
-      "text": "The scientific method is a tool used by scientists to study problems. It begins with an observation and a question.",
-      "examples": [
-        {
-          "title": "Testable Question",
-          "content": "A question that can be answered by doing an experiment, not just looking up facts."
-        },
-        {
-          "title": "Variables",
-          "content": "Factors in an experiment that can change, like temperature or water amount."
-        }
-      ]
-    },
-    {
-      "title": "Atmospheric Science: Weather",
-      "text": "Weather is driven by temperature, air pressure, and moisture in the atmosphere. Science helps us forecast these shifts.",
-      "examples": [
-        {
-          "title": "Air Temperature",
-          "content": "Determines whether moisture falls as rain, snow, or hail."
-        },
-        {
-          "title": "Evaporation Cycle",
-          "content": "Solar energy turns surface water into vapor, fueling cloud formation."
-        }
-      ]
-    },
-    {
-      "title": "Botanical Adaptations",
-      "text": "Plants have specialized structures that help them survive in their local environment.",
-      "examples": [
-        {
-          "title": "Photosynthesis",
-          "content": "The process by which plants use sunlight, carbon dioxide, and water to create chemical energy."
-        },
-        {
-          "title": "Tropism",
-          "content": "Growth response towards an external stimulus, such as phototropism (light)."
-        }
-      ]
-    },
-    {
-      "title": "Zoological Classification",
-      "text": "Animals are classified by their physical structures, diets, and habitats.",
-      "examples": [
-        {
-          "title": "Vertebrates",
-          "content": "Animals with backbones, like mammals, birds, reptiles, amphibians, and fish."
-        },
-        {
-          "title": "Invertebrates",
-          "content": "Animals without backbones, like insects, spiders, and crabs."
-        }
-      ]
-    },
-    {
-      "title": "Thermodynamics: Heat Transfer",
-      "text": "Heat transfers from hotter objects to colder ones until they reach the same temperature.",
-      "examples": [
-        {
-          "title": "Conduction",
-          "content": "Heat transfer through direct touch, like a spoon heating up in hot soup."
-        },
-        {
-          "title": "Convection",
-          "content": "Heat transfer in liquids and gases as warm parts rise and cool parts sink."
-        }
-      ]
-    },
-    {
-      "title": "Optics: Light Refraction",
-      "text": "Light bends when it passes from one medium to another, such as from air into water.",
-      "examples": [
-        {
-          "title": "Refraction",
-          "content": "Bending of light waves which makes straws in water look broken."
-        },
-        {
-          "title": "Lenses",
-          "content": "Curved glass pieces that bend light to magnify objects."
-        }
-      ]
-    },
-    {
-      "title": "Physics: Force and Friction",
-      "text": "Friction is a force that opposes motion when two surfaces rub against each other.",
-      "examples": [
-        {
-          "title": "Friction",
-          "content": "Rough surfaces create more friction, slowing moving objects down."
-        },
-        {
-          "title": "Lubricants",
-          "content": "Oil or water reduces friction, allowing parts to slide smoothly."
-        }
-      ]
-    },
-    {
-      "title": "Phase Changes of Matter",
-      "text": "Adding or removing heat energy causes matter to change its physical state.",
-      "examples": [
-        {
-          "title": "Sublimation",
-          "content": "Solid turning directly into gas, like dry ice evaporating."
-        },
-        {
-          "title": "Condensation",
-          "content": "Gas cooling down to turn into a liquid, like dew on grass."
-        }
-      ]
-    },
-    {
-      "title": "Meteorology: Clouds & Rain",
-      "text": "Clouds are made of billions of tiny water droplets that condense around dust particles in the air.",
-      "examples": [
-        {
-          "title": "Precipitation",
-          "content": "When droplets grow too heavy, gravity pulls them down as rain."
-        },
-        {
-          "title": "Cloud Types",
-          "content": "Cumulus (fluffy), Stratus (flat layers), and Cirrus (wispy high clouds)."
-        }
-      ]
-    },
-    {
-      "title": "Aerodynamics: Air Resistance",
-      "text": "Air resistance is a type of friction that slows down objects moving through the air.",
-      "examples": [
-        {
-          "title": "Drag",
-          "content": "Flat objects experience more drag because they push more air."
-        },
-        {
-          "title": "Streamlining",
-          "content": "Shapes that cut through air easily, like airplanes or birds."
-        }
-      ]
-    },
-    {
-      "title": "Pedology: Soil Composition",
-      "text": "Soil is a mixture of weathered rock, organic matter, water, and air.",
-      "examples": [
-        {
-          "title": "Humus",
-          "content": "Decayed plant and animal matter that provides nutrients for plants."
-        },
-        {
-          "title": "Soil Horizons",
-          "content": "Layers of soil: topsoil (rich in humus), subsoil, and bedrock."
-        }
-      ]
-    },
-    {
-      "title": "Astronomy: Earth's Rotation",
-      "text": "The Earth rotates counter-clockwise on its axis once every 24 hours.",
-      "examples": [
-        {
-          "title": "Apparent Motion",
-          "content": "The Sun appears to move across the sky because of Earth's spin."
-        },
-        {
-          "title": "Time Zones",
-          "content": "Different parts of Earth experience daylight at different times."
-        }
-      ]
-    },
-    {
-      "title": "Chemistry: Oxidation",
-      "text": "Rusting is a chemical reaction called oxidation, where iron combines with oxygen and moisture.",
-      "examples": [
-        {
-          "title": "Iron Oxide",
-          "content": "The chemical name for rust, which ruins the strength of metal."
-        },
-        {
-          "title": "Galvanization",
-          "content": "Coating iron with zinc to prevent oxygen from reaching the metal."
-        }
-      ]
-    },
-    {
-      "title": "Microbiology: Pathogens",
-      "text": "Germs are microscopic pathogens (bacteria, viruses, fungi) that can cause infections.",
-      "examples": [
-        {
-          "title": "Antiseptic",
-          "content": "Chemicals that kill or prevent the growth of microorganisms."
-        },
-        {
-          "title": "Immune System",
-          "content": "The body's natural defense network that fights off pathogens."
-        }
-      ]
-    },
-    {
-      "title": "Biochemistry: Cellular Energy",
-      "text": "Cells break down glucose molecules to release energy in a process called respiration.",
-      "examples": [
-        {
-          "title": "Glucose",
-          "content": "A simple sugar that serves as the primary energy source for cells."
-        },
-        {
-          "title": "Metabolism",
-          "content": "All chemical reactions in a living organism that sustain life."
-        }
-      ]
-    },
-    {
-      "title": "Acoustics: Sound Waves",
-      "text": "Sound travels as longitudinal waves through solids, liquids, and gases, but cannot travel through a vacuum.",
-      "examples": [
-        {
-          "title": "Medium",
-          "content": "Material that sound waves travel through; sound travels fastest in solids."
-        },
-        {
-          "title": "Frequency",
-          "content": "The number of vibrations per second, which determines the pitch."
-        }
-      ]
-    },
-    {
-      "title": "Guided Practice: Hypothesizing",
-      "text": "Formulating a testable hypothesis based on an observation.",
+      "title": "Senses and Observation",
+      "text": "Our sense organs are our windows to the world.\nWe use our five senses to collect facts about nature.\nOur eyes see colors, shapes, and movements of objects.\nOur ears hear sounds like wind rustling leaves.\nOur nose smells flowers, and our tongue tastes food.\nOur skin feels heat, cold, and rough textures.\nAn observation is a fact we gather using our senses.\nLet's practice observing our classroom objects today!",
       "examples": [
         {
           "title": "Observation",
-          "content": "Iron nails in salty water rust faster than in tap water."
-        },
-        {
-          "title": "Hypothesis",
-          "content": "If water contains salt, then iron will rust at a faster rate."
+          "content": "Using your eyes to see that a leaf is green and oval."
         }
       ]
     },
     {
-      "title": "Guided Practice: Variables",
-      "text": "Identifying independent, dependent, and controlled variables in an experiment.",
+      "title": "Weather in Daily Life",
+      "text": "Weather is a natural event that we observe daily.\nScience helps us explain why the weather changes.\nThe Sun gives us light and heat to keep us warm.\nClouds form when water vapor rises and cools in the sky.\nRain falls when clouds become too heavy with water.\nWind is moving air that we can feel on our skin.\nWeather affects what we wear and what activities we do.\nWhat is the weather like outside your window right now?",
       "examples": [
         {
-          "title": "Independent Variable",
-          "content": "The factor you change (e.g., amount of sunlight)."
-        },
-        {
-          "title": "Dependent Variable",
-          "content": "The factor you measure (e.g., plant height)."
+          "title": "Weather Fact",
+          "content": "Rain falls from clouds when water droplets grow too heavy."
         }
       ]
     },
     {
-      "title": "Guided Practice: State Changes",
-      "text": "Analyzing thermodynamic state changes in materials.",
+      "title": "Plants and Science",
+      "text": "Plants are living things that grow all around us.\nThey need sunlight, water, soil, and air to survive.\nA seed sprouts roots downwards to absorb water from soil.\nIt grows a green stem upwards to capture sunlight.\nPlants use sunlight to make their own food in leaves.\nThis active process is called photosynthesis in science.\nWe observe plants bending towards window light to grow.\nPlants give us oxygen to breathe and food to eat!",
       "examples": [
         {
-          "title": "Scenario",
-          "content": "Solid candle wax melting into liquid when a wick is lit."
-        },
-        {
-          "title": "Scientific Analysis",
-          "content": "Heat increases molecule vibration, breaking solid bonds."
+          "title": "Plant Growth",
+          "content": "A seed needs water and sun to break its shell and grow roots."
         }
       ]
     },
     {
-      "title": "Guided Practice: Weather Prediction",
-      "text": "Analyzing meteorological data to predict weather patterns.",
+      "title": "Animals and Movement",
+      "text": "Animals are living things that move in different ways.\nThey move to find food, water, and safe shelters.\nFish swim in water using their fins and tails.\nBirds fly through the air using wings and feathers.\nFrogs hop on land using their strong back legs.\nCrabs crawl sideways on the wet sand of beaches.\nTheir body shapes help them survive in their habitats.\nObserve how a dog moves when it chases a toy!",
       "examples": [
         {
-          "title": "Data",
-          "content": "Falling air pressure, rising humidity, and dark clouds."
-        },
-        {
-          "title": "Prediction",
-          "content": "A rainstorm or low-pressure weather system is approaching."
+          "title": "Animal Fact",
+          "content": "Fish have gills to breathe oxygen underwater while swimming."
         }
       ]
     },
     {
-      "title": "Common Error: Non-testable Hypotheses",
-      "text": "Avoid forming statements that cannot be proven true or false through testing.",
+      "title": "Water Around Us",
+      "text": "Water is a precious liquid found throughout nature.\nIt exists in rivers, lakes, oceans, and rain clouds.\nWe use water for drinking, washing, and growing crops.\nWater changes its form when heated or cooled down.\nWet clothes dry because heat turns water into vapor.\nThis process of turning liquid to gas is evaporation.\nWater always flows downwards from high to low ground.\nLet's observe water flowing down a sloped surface!",
+      "examples": [
+        {
+          "title": "Water Flow",
+          "content": "Gravity pulls flowing water downwards along riverbeds."
+        }
+      ]
+    },
+    {
+      "title": "Light and Shadows",
+      "text": "Light travels in straight lines from light sources.\nThe Sun, lamps, and flashlights are light sources.\nWhen an object blocks light, a shadow forms behind it.\nA shadow is a dark shape on a surface behind the object.\nYour shadow grows longer as the Sun sets lower.\nA cardboard box blocks light completely, casting dark shadows.\nA glass window lets light pass through, casting no shadow.\nLet's make funny hand shadows on the wall tonight!",
+      "examples": [
+        {
+          "title": "Shadow Fact",
+          "content": "A shadow always forms on the opposite side of the light source."
+        }
+      ]
+    },
+    {
+      "title": "Force and Movement",
+      "text": "Objects around us stay still unless we move them.\nWe move objects by applying a push or a pull.\nA push moves an object away from your body.\nA pull moves an object closer to your body.\nPushing a toy cart makes it roll forward across floors.\nPulling a rope brings a bucket of water up wells.\nForce changes how fast or where an object goes.\nIdentify three pushes or pulls you do every morning!",
+      "examples": [
+        {
+          "title": "Force",
+          "content": "Kicking a soccer ball is a push that changes its speed."
+        }
+      ]
+    },
+    {
+      "title": "Heat and Energy",
+      "text": "Heat is a form of energy that makes things warm.\nIt changes the state of materials during heating.\nButter changes from a solid to a liquid in warm pans.\nThis change of state from solid to liquid is melting.\nWater bubbles and turns to steam when boiled on stoves.\nThis change of state from liquid to gas is boiling.\nHeat is essential for cooking our daily food safely.\nObserve how a raw egg cooks and changes color in pans!",
+      "examples": [
+        {
+          "title": "Melting",
+          "content": "Solid ice melts into liquid water when exposed to solar heat."
+        }
+      ]
+    },
+    {
+      "title": "Rainbows in the Sky",
+      "text": "Rainbows are beautiful colors that appear after rain.\nThey form when sunlight shines through water droplets.\nWater droplets act like tiny glass prisms in the air.\nThey split white sunlight into seven distinct colors.\nThese colors are red, orange, yellow, and green.\nThey also include blue, indigo, and violet shades.\nThis bending of light is called refraction in science.\nLook at the sky opposite the Sun after rain showers!",
+      "examples": [
+        {
+          "title": "Refraction",
+          "content": "Bending of light waves inside water droplets creates rainbows."
+        }
+      ]
+    },
+    {
+      "title": "Wind and Air",
+      "text": "Air is all around us, but it is invisible to eyes.\nWe can feel air when it moves across our skin.\nMoving air is called wind in our daily environment.\nWind pushes sailboats and lifts kites into the sky.\nWe inhale air to get oxygen for our bodies to work.\nWe exhale air to blow out candles or cool hot soup.\nWind can be a gentle breeze or a strong storm wind.\nObserve how wind moves the leaves of tall trees!",
+      "examples": [
+        {
+          "title": "Wind Power",
+          "content": "Wind turns wind turbines to generate clean electricity."
+        }
+      ]
+    },
+    {
+      "title": "Soil and Earth",
+      "text": "Soil is the top layer of the Earth's surface.\nIt is made of tiny rock pieces and organic matter.\nPlants grow their roots in soil to stand firmly.\nThere are different types of soil like clay and sand.\nLoam soil is rich and dark, holding water well.\nClay soil is sticky when wet and holds water long.\nSandy soil has large grains and lets water drain fast.\nExplore the soil in your garden using a hand lens!",
+      "examples": [
+        {
+          "title": "Soil Types",
+          "content": "Loam is the best soil for growing healthy garden vegetables."
+        }
+      ]
+    },
+    {
+      "title": "Day and Night",
+      "text": "Day and night happen because the Earth rotates slowly.\nThe Earth spins like a giant top on its axis.\nThe side of the Earth facing the Sun has day.\nThe side of the Earth facing away has night.\nIt takes 24 hours for Earth to spin once completely.\nThe Sun appears to rise in the east every morning.\nIt appears to set in the west every evening.\nThis regular cycle gives us time for activity and rest!",
+      "examples": [
+        {
+          "title": "Earth Spin",
+          "content": "Earth's rotation causes the sun to appear to move in the sky."
+        }
+      ]
+    },
+    {
+      "title": "Rusting of Metals",
+      "text": "Iron objects change color when left wet in the air.\nAn iron nail turns orange-brown and becomes rough.\nThis chemical process is called rusting in daily science.\nRust is crumbly and makes the iron metal weak.\nIt happens because iron combines with oxygen and water.\nPainting iron gates keeps moisture away to prevent rust.\nAlways keep your metal toys dry after playing outside.\nObserve old metal keys to see if they have rusted!",
+      "examples": [
+        {
+          "title": "Rusting",
+          "content": "Rust forms on iron surfaces when exposed to damp air."
+        }
+      ]
+    },
+    {
+      "title": "Hygiene and Germs",
+      "text": "Germs are tiny living things that make us sick.\nThey are too small to see without microscopes.\nWe wash hands with soap and water to remove germs.\nRubbing hands together lifts dirt and bacteria off skin.\nSoap molecules bind to oil and wash germs away.\nWashing hands keeps us healthy and prevents spreading sickness.\nAlways wash hands before eating and after using toilets.\nSing the alphabet song while rubbing soap on hands!",
+      "examples": [
+        {
+          "title": "Hygiene",
+          "content": "Washing hands with soap lifts pathogens off the skin surface."
+        }
+      ]
+    },
+    {
+      "title": "Food and Digestion",
+      "text": "We eat food to get energy for active play.\nOur body breaks down food through digestion to grow.\nOur teeth chew food into small pieces in mouths.\nSaliva softens the chewed food to swallow easily.\nOur stomach breaks down food further using liquids.\nRice and bread give us carbohydrates for quick energy.\nFish and eggs give us proteins to build muscles.\nFruits and vegetables keep our body systems working well!",
+      "examples": [
+        {
+          "title": "Digestion",
+          "content": "Chewing food increases surface area for stomach enzymes."
+        }
+      ]
+    },
+    {
+      "title": "Sound in the Environment",
+      "text": "Sound is created when an object vibrates quickly.\nA vibration is a rapid back-and-forth movement.\nPlucking a tight rubber band makes it vibrate and hum.\nSound travels as invisible waves through the air.\nOur ears collect these waves so we can hear sounds.\nSound travels faster through solid wood than air.\nHeavy doors block sounds from entering quiet classrooms.\nObserve what happens when you touch a speaking speaker!",
+      "examples": [
+        {
+          "title": "Vibrations",
+          "content": "Vocal cords vibrate in our throat when we speak or sing."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Observations",
+      "text": "Let's practice identifying scientific observations in nature.\nAn observation must be a factual statement using senses.\nSaying 'The apple has red skin' is an observation.\nSaying 'The apple is delicious' is an opinion.\nScientists only record physical facts in their journals.\nUse a ruler to measure the height of seedlings.\nWrite down the measurement in millimeters on your paper.\nAlways stick to factual details that others can verify!",
+      "examples": [
+        {
+          "title": "Factual Observation",
+          "content": "The leaf has five points and a rough texture."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Fact vs Opinion",
+      "text": "Scientists separate facts from opinions during experiments.\nA fact can be proven true by testing or observing.\nAn opinion is a personal feeling or belief about things.\nStatement: 'The toy car is blue' (This is a fact).\nStatement: 'The toy car is pretty' (This is an opinion).\nFactual descriptions keep science records reliable and clean.\nAvoid using words like beautiful, ugly, or nice in logs.\nLet's classify five sentences as fact or opinion today!",
+      "examples": [
+        {
+          "title": "Fact Check",
+          "content": "Factual: 'Water boils at 100 degrees Celsius.'"
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Cooking Science",
+      "text": "Let's observe changes that happen during cooking food.\nHeat changes the properties of raw materials permanently.\nRaw egg white is a clear liquid in shells.\nIt turns into a solid white color when heated.\nThis happens because heat cooks the proteins inside.\nRaw rice grains are hard and dry in bags.\nBoiling water turns them soft and edible in pots.\nSpot the science in your kitchen during dinner preparation!",
+      "examples": [
+        {
+          "title": "Cooking Fact",
+          "content": "Heat changes raw cake batter into a spongy solid cake."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: Weather Science",
+      "text": "Let's observe changes in weather like real meteorologists.\nKeep track of clouds, wind direction, and temperature.\nDark grey clouds usually indicate that rain is coming.\nA wind vane shows which direction the wind blows.\nA thermometer measures how hot or cold the air is.\nWrite down daily weather observations in your journal.\nObserve if the wind blows harder in mornings or afternoons.\nCompare weather details across different days of the week!",
+      "examples": [
+        {
+          "title": "Weather Tool",
+          "content": "Thermometers measure air temperature in degrees Celsius."
+        }
+      ]
+    },
+    {
+      "title": "Common Error: Opinion in Logs",
+      "text": "A common mistake is writing opinions in science journals.\nWriting 'This leaf is beautiful' is not scientific.\nIt is a personal feeling that others might not share.\nInstead, write: 'This leaf has five lobes and points.'\nThis statement describes physical facts that others can see.\nStick to measurements, colors, shapes, and textures.\nAvoid using opinion words when you record science data.\nCheck your journal entries to ensure they contain facts!",
       "examples": [
         {
           "title": "Incorrect",
-          "content": "Hypothesis: 'Plants grow better when they are happy.'"
-        },
-        {
-          "title": "Correct",
-          "content": "Hypothesis: 'Plants grow taller when watered daily.'"
+          "content": "Writing: 'The experiment was fun and the liquid looked nice.'"
         }
       ]
     },
     {
-      "title": "Common Error: Concluding Too Early",
-      "text": "Do not draw scientific conclusions from a single trial. Repeat experiments for accuracy.",
+      "title": "Common Error: Explaining with Magic",
+      "text": "Do not explain natural events with magic or stories.\nLook for natural causes and explanations instead.\nIncorrect: 'Magic makes the water puddle disappear.'\nCorrect: 'Solar heat evaporates water in the puddle.'\nScience searches for evidence and natural reasons.\nUnderstanding causes helps us make accurate predictions.\nAlways ask what force or energy caused the change.\nBe a fact finder, not a magic believer, in science!",
       "examples": [
         {
-          "title": "Incorrect",
-          "content": "Testing one seed and concluding that all seeds grow in three days."
-        },
-        {
-          "title": "Correct",
-          "content": "Testing twenty seeds and calculating the average germination rate."
+          "title": "Scientific Cause",
+          "content": "Heat energy causes liquid water to turn into gas vapor."
         }
       ]
     },
     {
-      "title": "Summary of Week 1 Advanced",
-      "text": "You completed Week 1 Advanced! You are now ready to apply the scientific method systematically.",
+      "title": "Extra Practice: Science Review A",
+      "text": "Let's review the important science concepts of Week 1.\nWe have studied observations, measurements, and predictions.\nA real scientist is always curious and checks their facts.\nThink about the experiments we discussed in the slides.\nCan you explain them in your own words to others?\nUse your scientific vocabulary to describe your ideas clearly.\nAnswer the quiz questions and challenges to test your memory.\nKeep up the great work and enjoy exploring the world!",
+      "examples": [
+        {
+          "title": "Review Card 1",
+          "content": "Practice explaining these science ideas to your family."
+        }
+      ]
+    },
+    {
+      "title": "Summary of Week 1",
+      "text": "Congratulations! You completed all the slides for Week 1.\nLet's review the main science tools we mastered.\nWe learned that science is all around us daily.\nWe use our five senses to gather factual observations.\nWe separate physical facts from personal opinions.\nWe explain natural events using energy, force, and heat.\nWe observe weather, plant growth, and animal movement.\nYou are now ready to take the quiz and challenges!",
       "examples": [
         {
           "title": "Key Takeaway",
-          "content": "Scientific inquiry requires precision, control, and testable questions."
-        },
-        {
-          "title": "Next Step",
-          "content": "Advance to Week 2 to practice the art of scientific questioning."
+          "content": "Observation is the foundation of scientific inquiry."
         }
       ]
     }
@@ -5093,198 +4833,344 @@ window.WEEK1_ADVANCED_DATA.science = {
   "standard": [
     {
       "type": "choice",
-      "q": "Which of the following is a quantitative observation?",
-      "options": ["The liquid turned red.", "The plant grew 5 centimeters.", "The chemical smells bad.", "The stone feels heavy."],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "What do we call a testable statement that predicts the outcome of an experiment?",
-      "options": ["Observation", "Hypothesis", "Opinion", "Conclusion"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "Which variable is measured by the scientist during an experiment?",
-      "options": ["Independent variable", "Dependent variable", "Controlled variable", "Constant variable"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "Why does sound travel faster in solid steel than in air?",
-      "options": ["Steel is colder than air.", "Molecules in solids are packed tightly together.", "Sound waves prefer metals.", "Air blocks sound vibrations."],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "What is the chemical name for the compound formed during rusting?",
-      "options": ["Iron oxide", "Sodium chloride", "Carbon dioxide", "Copper sulfate"],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "True or False: An experiment must have more than one independent variable to be fair.",
-      "options": ["True", "False"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "What process is happening when water vapor cools down to form liquid droplets on a glass?",
-      "options": ["Evaporation", "Condensation", "Sublimation", "Melting"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "What is the term for a plant's growth response towards light?",
-      "options": ["Geotropism", "Phototropism", "Hydrotropism", "Thigmotropism"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "In thermodynamics, what is heat transfer by direct contact called?",
-      "options": ["Conduction", "Convection", "Radiation", "Insulation"],
+      "q": "Which sense organ is used to observe the color of a flower?",
+      "options": [
+        "Eyes",
+        "Ears",
+        "Nose",
+        "Tongue"
+      ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which type of soil contains a high concentration of decayed organic matter?",
-      "options": ["Sand", "Clay", "Loam with humus", "Silt"],
+      "q": "Which of the following is a scientific observation?",
+      "options": [
+        "The puppy is the cutest animal.",
+        "The puppy has four legs and black fur.",
+        "Puppies are fun to play with.",
+        "Everyone loves puppies."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What causes wet clothes to dry when hung under the sun?",
+      "options": [
+        "The wind blows them away.",
+        "The heat from the sun evaporates the water.",
+        "The colors absorb the water.",
+        "Gravity pulls the water out."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following is an opinion, NOT a scientific fact?",
+      "options": [
+        "Water freezes at 0 degrees Celsius.",
+        "Iron nails rust when left wet.",
+        "Green leaves are prettier than red leaves.",
+        "Plants need sunlight to grow."
+      ],
       "answer": 2
     },
     {
       "type": "verify",
-      "q": "True or False: Qualitative observations describe qualities using numbers and units.",
-      "options": ["True", "False"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "What force opposes the forward motion of an airplane flying in the sky?",
-      "options": ["Gravity", "Air resistance (drag)", "Thrust", "Lift"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "Why does oil reduce friction in machine parts?",
-      "options": ["It makes them colder.", "It creates a slippery barrier between surfaces.", "It turns the metal into liquid.", "It increases air resistance."],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "Which cloud type is high, thin, and wispy, made of ice crystals?",
-      "options": ["Cumulus", "Stratus", "Cirrus", "Nimbus"],
-      "answer": 2
-    },
-    {
-      "type": "choice",
-      "q": "How long does it take for the Earth to rotate once on its axis?",
-      "options": ["12 hours", "24 hours", "30 days", "365 days"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "What chemical process keeps germs from multiplying on your skin when washing hands?",
-      "options": ["Soap breaks down germ membranes.", "Water turns into gas.", "Germs freeze.", "Skin absorbs the soap."],
+      "q": "True or False: A shadow forms when an object blocks light.",
+      "options": [
+        "True",
+        "False"
+      ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which variable must be kept the same in an experiment to make it a fair test?",
-      "options": ["Independent variable", "Dependent variable", "Controlled variable", "Changing variable"],
+      "q": "What do we call the process where water turns into invisible vapor?",
+      "options": [
+        "Melting",
+        "Freezing",
+        "Evaporation",
+        "Rusting"
+      ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "What state change occurs when dry ice turns directly into gas?",
-      "options": ["Melting", "Sublimation", "Evaporation", "Condensation"],
-      "answer": 1
-    },
-    {
-      "type": "verify",
-      "q": "True or False: A sound wave can travel through outer space (a vacuum).",
-      "options": ["True", "False"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "What kind of heat transfer causes warm air to rise and cool air to sink?",
-      "options": ["Conduction", "Convection", "Radiation", "Conjugation"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "Which of the following is a testable question?",
-      "options": ["Are red roses beautiful?", "Does watering plants with milk affect their growth rate?", "Why is science the best subject?", "Do plants look nice in the garden?"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "What splits light in a rainbow into its component colors?",
-      "options": ["Reflection", "Refraction", "Absorption", "Transmission"],
-      "answer": 1
-    },
-    {
-      "type": "verify",
-      "q": "True or False: Replicating an experiment multiple times reduces the effect of errors.",
-      "options": ["True", "False"],
+      "q": "Which of the following is a physical property of clay?",
+      "options": [
+        "It can be molded into shapes.",
+        "It is a liquid that flows.",
+        "It is invisible.",
+        "It is always hot."
+      ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What organic component of soil provides essential nutrients to plants?",
-      "options": ["Sand", "Humus", "Clay", "Rock particles"],
+      "q": "What happens to butter when it is heated in a pan?",
+      "options": [
+        "It freezes.",
+        "It melts into a liquid.",
+        "It turns into wood.",
+        "It becomes colder."
+      ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Which of the following describes the dependent variable in a plant growth experiment?",
-      "options": ["The amount of fertilizer added", "The height of the plant measured", "The type of plant used", "The amount of water given"],
+      "q": "Which tool helps us see tiny insect parts more clearly?",
+      "options": [
+        "Ruler",
+        "Hand lens (Magnifying glass)",
+        "Scissors",
+        "Cardboard"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What happens to an iron nail when left wet in the air?",
+      "options": [
+        "It turns into gold.",
+        "It rusts and turns orange-brown.",
+        "It melts into water.",
+        "It disappears."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Why do we wash our hands with soap?",
+      "options": [
+        "To make them smell like candy.",
+        "To remove dirt and kill invisible germs.",
+        "To change our skin color.",
+        "To make our hands grow larger."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Saying 'The soup is too salty' is a personal opinion, not a scientific measurement.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which type of soil holds the most water and feels sticky?",
+      "options": [
+        "Sand",
+        "Clay",
+        "Loam",
+        "Gravel"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What makes leaves on a tree move?",
+      "options": [
+        "The heat of the sun",
+        "The blowing wind",
+        "The gravity of the earth",
+        "The moon"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which sense organ helps us hear the chime of a bell?",
+      "options": [
+        "Nose",
+        "Ears",
+        "Eyes",
+        "Skin"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which statement is a fact about plants?",
+      "options": [
+        "Plants are happy in the rain.",
+        "Plants need water to survive.",
+        "Plants grow better when we play music.",
+        "Green plants are better than yellow ones."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What force is applied when you drag a heavy box towards yourself?",
+      "options": [
+        "Push",
+        "Pull",
+        "Heat",
+        "Light"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What force is applied when you kick a soccer ball away?",
+      "options": [
+        "Push",
+        "Pull",
+        "Gravity",
+        "Friction"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What splits sunlight to create a rainbow?",
+      "options": [
+        "Air molecules",
+        "Water droplets in the air",
+        "Dirt on the ground",
+        "Tree leaves"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Science explains how things work in the natural world through evidence and tests.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Fill in the blank: The Sun rises in the ___.",
+      "options": [
+        "East",
+        "West",
+        "North",
+        "South"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What is the state of water we drink?",
+      "options": [
+        "Solid",
+        "Liquid",
+        "Gas",
+        "Plasma"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following is a natural event explained by science?",
+      "options": [
+        "A magic trick",
+        "Weather changing from sunny to rainy",
+        "A cartoon character flying",
+        "A wishing well working"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Plants bend towards light because they need it to grow.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What is the main goal of science?",
+      "options": [
+        "To make magic tricks",
+        "To understand how the natural world works",
+        "To paint beautiful pictures",
+        "To write storybooks"
+      ],
       "answer": 1
     }
   ],
   "challenge": [
     {
       "type": "choice",
-      "q": "Design a test: You want to find out if fertilizer brand A makes plants grow faster than brand B. What is the independent variable?",
-      "options": ["The height of the plants", "The brand of fertilizer used", "The amount of water given", "The type of soil used"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "If you heat water in a sealed container, what phase change will happen first, and what will happen next?",
-      "options": ["Evaporation followed by condensation on the lid", "Freezing followed by melting", "Sublimation followed by deposition", "Condensation followed by evaporation"],
+      "q": "If you observe that a puddle of water disappears faster on a hot day than on a cloudy day, what can you infer?",
+      "options": [
+        "Heat increases the rate of evaporation.",
+        "The cloud absorbs the water.",
+        "Water likes cloudy days more.",
+        "Wind only blows on hot days."
+      ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "A scientist wants to study the effect of temperature on the rusting of iron. Which variable should be controlled?",
-      "options": ["The temperature of the environment", "The level of humidity and type of iron nail", "The amount of rust formed", "The duration of the experiment only"],
+      "q": "Why does a metal slide in the playground feel hot on a sunny afternoon?",
+      "options": [
+        "It absorbs heat from the Sun.",
+        "It produces its own heat.",
+        "It is made of wood.",
+        "The ground pushes heat up."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which of the following contains ONLY scientific observations?",
+      "options": [
+        "The rock is black, smooth, and weighs 50 grams.",
+        "The rock is pretty, smooth, and lucky.",
+        "The rock is heavy, ugly, and cold.",
+        "The rock is small, nice, and weighs 10 grams."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What would happen to a plant if it were placed in a completely dark room for two weeks?",
+      "options": [
+        "It would grow taller and greener.",
+        "It would turn yellow, weaken, and eventually die.",
+        "It would turn into a flower.",
+        "It would stay exactly the same."
+      ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Why does a metal spoon feel much colder than a wooden spoon when both are left in a cold refrigerator?",
-      "options": ["Metal produces cold energy.", "Metal is a better conductor of heat, absorbing heat from your hand faster.", "Wood is a cold insulator.", "Metal is heavier than wood."],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "Which statement represents a hypothesis rather than an observation?",
-      "options": ["The liquid turned yellow when mixed.", "If we increase the water temperature, the sugar will dissolve faster.", "The beaker felt warm to the touch.", "The experiment took 15 minutes to complete."],
+      "q": "A student says, 'This ice cream is delicious.' Another student says, 'This ice cream melts at room temperature.' Which statement is scientific?",
+      "options": [
+        "The first statement",
+        "The second statement",
+        "Both statements",
+        "Neither statement"
+      ],
       "answer": 1
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Scientific Variable & Hypothesis Designer",
-    "desc": "Identify a question you want to test at home (e.g., 'Do wet paper towels dry faster inside or outside?'). Write down a formal hypothesis using 'If... then...', identify the Independent, Dependent, and Controlled variables, and draw a diagram showing how you would set up this fair test.",
-    "labels": ["Wrote a clear, testable hypothesis in the correct format", "Correctly identified all three types of variables (Independent, Dependent, Controlled)", "Drew a detailed, labeled diagram of the experimental setup"]
+    "title": "Everyday Science Observation Diary",
+    "desc": "Observe three different objects or natural events in your home or garden (e.g., water boiling, a plant bending, a shadow on the floor). Draw them on a piece of paper, write one factual observation for each, and explain the science behind them to your parent.",
+    "labels": [
+      "Correctly separated facts from opinions in observations",
+      "Clearly drew and described the selected science events",
+      "Explained the scientific cause (e.g., heat, light, growth) accurately"
+    ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Qualitative vs. Quantitative</h3>\n                  <p class=\"ws-instruction\">Classify each statement below as either a <strong>Qualitative Observation</strong> or a <strong>Quantitative Observation</strong>.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. The liquid turned cloudy green and emitted a sweet scent.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Qualitative Observation</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. The temperature of the mixture rose by 12 degrees Celsius.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Quantitative Observation</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. The leaf width is 45 millimeters and its weight is 1.5 grams.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Quantitative Observation</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Experimental Variables</h3>\n                  <p class=\"ws-instruction\">Identify the variables in the following experiment description: <em>Testing if the amount of water given to tomato plants affects the number of tomatoes they produce.</em></p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the <strong>Independent Variable</strong> (the factor you change)?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"><span class=\"ws-answer\">The amount of water given to the plants</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. What is the <strong>Dependent Variable</strong> (the factor you measure)?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"><span class=\"ws-answer\">The number of tomatoes produced</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. List one <strong>Controlled Variable</strong> (factors kept the same):</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"><span class=\"ws-answer\">The type of soil, type of plant, or amount of sunlight</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Advanced Hypothesis Writing</h3>\n                  <p class=\"ws-instruction\">Write a testable hypothesis for the given scientific question using the 'If... then...' format.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Question: Does salt affect the boiling point of water?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">If we add salt to water, then the water will boil at a higher temperature.</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">This is because dissolved salt changes the physical properties of the liquid.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Observation vs. Opinion</h3>\n                  <p class=\"ws-instruction\">Classify each statement below as either an <strong>Observation</strong> (fact based on senses) or an <strong>Opinion</strong> (belief or feeling).</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. The water in the pot is bubbling and turning into steam.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Observation</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Rainy weather is the worst kind of weather.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Opinion</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. The metal nail has an orange-brown crusty coating.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Observation</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Everyday Science Connections</h3>\n                  <p class=\"ws-instruction\">Match the daily observation with the scientific explanation by writing the correct letter in the bracket.</p>\n                  <div class=\"ws-split\" style=\"margin-top: 20px;\">\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.0;\">\n                      <div><strong>Daily Observations:</strong></div>\n                      <div>1. Wet clothes dry under the sun.</div>\n                      <div>2. A shadow forms behind a tree.</div>\n                      <div>3. A metal slide feels hot at noon.</div>\n                    </div>\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.0; text-align: right; padding-right: 40px;\">\n                      <div><strong>Scientific Explanations:</strong></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">C</span> &nbsp; ] &nbsp; A. Metal absorbs heat from sunlight.</div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">A</span> &nbsp; ] &nbsp; B. Water evaporates due to heat.</div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">B</span> &nbsp; ] &nbsp; C. The tree blocks light.</div>\n                    </div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Science in the Garden</h3>\n                  <p class=\"ws-instruction\">Write a short description to answer the question using physical facts.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe what happens when a plant is placed next to a sunny window:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">The plant stem will bend towards the window to get sunlight.</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">This is because plants need sunlight to make their own food.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -5912,352 +5798,256 @@ window.WEEK1_ADVANCED_DATA.filipino = {
   "subtitle": "Week 1: Pangngalang Pantangi at Pambalana sa Pook",
   "slides": [
     {
-      "title": "Introduction to Week 1: Pangngalang Pantangi at Pambalana sa Pook",
-      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Filipino.",
+      "title": "Maligayang Pagdating sa Filipino!",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Hello, Grade Three student! Welcome!\">Kumusta, mag-aaral sa Grade Three! Maligayang pagdating!</span>\n<span class=\"fil-sentence\" data-translation=\"This week, we will study about nouns.\">Ngayong linggo, mag-aaral tayo tungkol sa mga pangngalan.</span>\n<span class=\"fil-sentence\" data-translation=\"A noun is a name of a person, thing, or place.\">Ang pangngalan ay ngalan ng tao, bagay, o pook.</span>\n<span class=\"fil-sentence\" data-translation=\"We will use examples from our own community.\">Gagamit tayo ng mga halimbawa sa ating sariling komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"We will study proper and common nouns of places.\">Pag-aaralan natin ang pangngalang pantangi at pambalana sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"This will help greatly in describing our surroundings.\">Malaki ang maitutulong nito sa paglalarawan ng paligid.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready to write and read with me today?\">Handa ka na bang sumulat at magbasa kasama ko ngayon?</span>\n<span class=\"fil-sentence\" data-translation=\"Let's start the happy journey in our language!\">Simulan natin ang masayang paglalakbay sa ating wika!</span>",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 1: Pangngalang Pantangi at Pambalana sa Pook and apply them in daily situations."
-        },
-        {
-          "title": "Real-world Connection",
-          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+          "title": "Layunin ng Linggo",
+          "content": "Matukoy ang pangngalang pantangi at pambalana sa mga pook sa komunidad."
         }
       ]
     },
     {
-      "title": "Core Vocabulary & Terms",
-      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "title": "Ano ang Pangngalan?",
+      "text": "<span class=\"fil-sentence\" data-translation=\"A noun is a word used to name things in the world.\">Ang pangngalan ay tawag sa ngalan ng mga bagay.</span>\n<span class=\"fil-sentence\" data-translation=\"This includes people, animals, places, and events.\">Kasama rito ang tao, hayop, pook, at mga pangyayari.</span>\n<span class=\"fil-sentence\" data-translation=\"Around us, there are different types of places.\">Sa paligid natin, may mga iba't ibang uri ng pook.</span>\n<span class=\"fil-sentence\" data-translation=\"We have homes, schools, churches, and markets.\">Mayroon tayong tahanan, paaralan, simbahan, at palengke.</span>\n<span class=\"fil-sentence\" data-translation=\"Each of these places has its own name.\">Ang bawat pook na ito ay may kani-kanilang pangalan.</span>\n<span class=\"fil-sentence\" data-translation=\"There is a general name and there is a specific name.\">May pangkalahatang tawag at may tiyak ding tawag.</span>\n<span class=\"fil-sentence\" data-translation=\"These are the two main types of nouns in language.\">Ito ang dalawang pangunahing uri ng pangngalan sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's find out how they differ in writing!\">Alamin natin kung paano sila nagkakaiba sa pagsulat!</span>",
       "examples": [
         {
-          "title": "Term 1: Alpabeto",
-          "content": "A foundational concept in Filipino that helps us categorize and understand details."
-        },
-        {
-          "title": "Term 2: Patinig",
-          "content": "An active process or skill used to analyze situations and solve problems."
+          "title": "Halimbawa ng Pook",
+          "content": "paaralan (school), barangay (village), parke (park)"
         }
       ]
     },
     {
-      "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 1: Pangngalang Pantangi at Pambalana sa Pook. By looking closely at how these ideas work together, we can build a strong understanding of Filipino.",
+      "title": "Pangngalang Pambalana",
+      "text": "<span class=\"fil-sentence\" data-translation=\"A common noun is a general name of a place.\">Ang pambalana ay pangkalahatang ngalan ng pook.</span>\n<span class=\"fil-sentence\" data-translation=\"It is not specific and refers to general categories.\">Ito ay hindi tiyak at tumutukoy sa pangkalahatan.</span>\n<span class=\"fil-sentence\" data-translation=\"It starts with a lowercase letter when written.\">Nagsisimula ito sa maliit na titik kapag isinusulat.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: city, province, hospital, and river.\">Halimbawa: lungsod, lalawigan, ospital, at ilog.</span>\n<span class=\"fil-sentence\" data-translation=\"When we say 'river', we do not know which one.\">Kapag sinabi nating 'ilog', hindi natin alam kung alin.</span>\n<span class=\"fil-sentence\" data-translation=\"There are many rivers in the Philippines we can go to.\">Maraming ilog sa Pilipinas na maaari nating puntahan.</span>\n<span class=\"fil-sentence\" data-translation=\"So the word 'river' is a general common noun.\">Kaya ang salitang 'ilog' ay pangkalahatang pambalana.</span>\n<span class=\"fil-sentence\" data-translation=\"Can you guess other examples of common nouns?\">Maaari mo bang hulaan ang iba pang halimbawa?</span>",
       "examples": [
         {
-          "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 1: Pangngalang Pantangi at Pambalana sa Pook in simple activities."
-        },
-        {
-          "title": "Why It Matters",
-          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+          "title": "Pambalana",
+          "content": "ospital (hospital), bundok (mountain), aklatan (library)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Pangngalang Pantangi",
+      "text": "<span class=\"fil-sentence\" data-translation=\"A proper noun is a specific name of a place.\">Ang pantangi ay tiyak na ngalan ng isang pook.</span>\n<span class=\"fil-sentence\" data-translation=\"It refers to one unique and specific place only.\">Ito ay tumutukoy sa isang tanging lugar lamang.</span>\n<span class=\"fil-sentence\" data-translation=\"It always starts with a capital letter in writing.\">Lagi itong nagsisimula sa malaking titik sa pagsulat.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: Manila, Laguna, Barangay San Jose, Pasig River.\">Halimbawa: Maynila, Laguna, Barangay San Jose, Ilog Pasig.</span>\n<span class=\"fil-sentence\" data-translation=\"When we say 'Manila', it is a specific city.\">Kapag sinabi nating 'Maynila', tiyak na lungsod ito.</span>\n<span class=\"fil-sentence\" data-translation=\"This is the unique name of our nation's capital.\">Ito ang tanging pangalan ng kabisera ng bansa natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Therefore it is written using a capital letter.\">Kaya ito ay isinusulat gamit ang malaking titik.</span>\n<span class=\"fil-sentence\" data-translation=\"Remember this rule in every writing activity!\">Tandaan ang panuntunang ito sa bawat pagsusulat!</span>",
       "examples": [
         {
-          "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Pantangi",
+          "content": "Ilog Pasig (Pasig River), Mt. Makiling, Lungsod ng Calamba"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Pagkukumpara sa Pagsulat",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's compare the two types of nouns side by side.\">Pagkumparahin natin ang dalawang uri ng pangngalan.</span>\n<span class=\"fil-sentence\" data-translation=\"The common noun is 'country', the proper is 'Philippines'.\">Ang pambalana ay 'bansa', ang pantangi ay 'Pilipinas'.</span>\n<span class=\"fil-sentence\" data-translation=\"The common noun is 'province', the proper is 'Laguna'.\">Ang pambalana ay 'lalawigan', ang pantangi ay 'Laguna'.</span>\n<span class=\"fil-sentence\" data-translation=\"The common noun is 'school', the proper is 'Calamba School'.\">Ang pambalana ay 'paaralan', ang pantangi ay 'Paaralang Calamba'.</span>\n<span class=\"fil-sentence\" data-translation=\"Did you notice the use of the capital letter?\">Napansin mo ba ang paggamit ng malaking titik?</span>\n<span class=\"fil-sentence\" data-translation=\"Proper nouns have their own identity in language.\">Ang pantangi ay may sariling pagkakakilanlan sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"Common nouns remain general in their written form.\">Ang pambalana ay nananatiling pangkalahatan ang anyo.</span>\n<span class=\"fil-sentence\" data-translation=\"Train your eyes to recognize these two forms!\">Sanayin ang mata sa pagkilala sa dalawang ito!</span>",
       "examples": [
         {
-          "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
+          "title": "Pambalana vs Pantangi",
+          "content": "bayan (town) vs. Bayan ng Los Baños"
         },
         {
-          "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Tandaan",
+          "content": "Pantangi = Malaking titik (Capital letter)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Tahanan at Komunidad",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Our home is an important place for all of us.\">Ang ating tahanan ay isang mahalagang pook sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"The common noun for it is 'home' or 'house'.\">Ang pambalana para rito ay 'tahanan' o 'bahay'.</span>\n<span class=\"fil-sentence\" data-translation=\"The proper noun is your own specific address today.\">Ang pantangi naman ay ang iyong sariling address ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: '123 Rizal Street' is a proper noun.\">Halimbawa: '123 Kalye Rizal' ay isang pangngalang pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"Outside the house, we can see the barangay hall.\">Sa labas ng bahay, makikita natin ang barangay hall.</span>\n<span class=\"fil-sentence\" data-translation=\"The term 'barangay hall' is a common noun in our language.\">Ang 'barangay hall' ay pambalana sa ating wika.</span>\n<span class=\"fil-sentence\" data-translation=\"But 'Barangay San Juan Hall' is a proper noun already.\">Ngunit ang 'Barangay San Juan Hall' ay pantangi na.</span>\n<span class=\"fil-sentence\" data-translation=\"Look at your surroundings and list down places!\">Masdan ang iyong paligid at maglista ng pook!</span>",
       "examples": [
         {
-          "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Komunidad",
+          "content": "tahanan (common) -> 45 Kalye Mabini (proper)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Paaralan sa Pagsusuri",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The school is a place where we study together.\">Ang paaralan ay pook kung saan tayo nag-aaral.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'school' is a general common noun.\">Ang 'paaralan' ay pangkalahatang pangngalang pambalana.</span>\n<span class=\"fil-sentence\" data-translation=\"We have different rooms inside the school building.\">Mayroon tayong iba't ibang silid sa loob nito.</span>\n<span class=\"fil-sentence\" data-translation=\"There is the classroom, library, office, and restroom.\">May silid-aralan, aklatan, opisina, at palikuran.</span>\n<span class=\"fil-sentence\" data-translation=\"All of these rooms are common nouns in language.\">Ang lahat ng silid na ito ay pambalana sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"But the specific name of your school is a proper noun.\">Ngunit ang pangalan ng iyong eskwelahan ay pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'Calamba Elementary School' is proper.\">Halimbawa: 'Paaralang Elementarya ng Calamba' ay pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"Always write it using capital letters!\">Lagi itong isulat gamit ang malalaking titik!</span>",
       "examples": [
         {
-          "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Paaralan",
+          "content": "aklatan (library - pambalana), Paaralang San Jose (proper)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Mga Lugar ng Pagsamba",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The church is a place for our quiet prayers.\">Ang simbahan ay pook para sa ating pananalangin.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'church' is a general common noun.\">Ang 'simbahan' ay pangkalahatang pambalana na salita.</span>\n<span class=\"fil-sentence\" data-translation=\"There are different churches and chapels in the community.\">May iba't ibang simbahan at kapilya sa komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'San Pablo Cathedral' is a proper noun.\">Halimbawa: 'Katedral ng San Pablo' ay isang pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"It is the specific name of a cathedral in Laguna.\">Ito ay tiyak na ngalan ng isang katedral sa Laguna.</span>\n<span class=\"fil-sentence\" data-translation=\"There is also the 'Quiapo Mosque' in the City of Manila.\">Mayroon ding 'Moske ng Quiapo' sa Lungsod ng Maynila.</span>\n<span class=\"fil-sentence\" data-translation=\"The specific names of mosques are also proper nouns.\">Ang mga tiyak na ngalan ng moske ay pantangi rin.</span>\n<span class=\"fil-sentence\" data-translation=\"Remember to respect all places of worship!\">Tandaan na igalang ang lahat ng pook ng pagsamba!</span>",
       "examples": [
         {
-          "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Simbahan",
+          "content": "kapilya (chapel - pambalana), Simbahan ng Quiapo (proper)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Mga Pook ng Kalusugan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The hospital is a place that cares for sick people.\">Ang ospital ay pook na nag-aalaga sa may-sakit.</span>\n<span class=\"fil-sentence\" data-translation=\"The words 'hospital' and 'health center' are common nouns.\">Ang 'ospital' at 'health center' ay mga pambalana.</span>\n<span class=\"fil-sentence\" data-translation=\"We use them in general everyday conversations.\">Ginagamit natin ang mga ito sa pangkalahatang usapan.</span>\n<span class=\"fil-sentence\" data-translation=\"But the specific name of a clinic is a proper noun.\">Ngunit ang tiyak na ngalan ng klinika ay pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'Laguna Hospital' is a specific name.\">Halimbawa: 'Ospital ng Laguna' ay tiyak na ngalan.</span>\n<span class=\"fil-sentence\" data-translation=\"It must be written with capital letters O and L.\">Dapat itong isulat na malaki ang titik O at L.</span>\n<span class=\"fil-sentence\" data-translation=\"The 'clinic of Dr. Santos' is also a proper noun.\">Ang 'klinika ni Dr. Santos' ay pantangi rin sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"Why is it important to know the hospital name?\">Bakit mahalagang malaman ang ngalan ng ospital?</span>",
       "examples": [
         {
-          "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Kalusugan",
+          "content": "klinika (clinic - pambalana), Ospital ng Maynila (proper)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Mga Likas na Pook",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Nature is full of beautiful natural places.\">Ang kalikasan ay puno ng magagandang likas na pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: mountain, hill, river, sea, and waterfall.\">Halimbawa: bundok, burol, ilog, dagat, at talon.</span>\n<span class=\"fil-sentence\" data-translation=\"These words are common nouns in Filipino.\">Ang mga salitang ito ay mga pambalana sa Filipino.</span>\n<span class=\"fil-sentence\" data-translation=\"When we give a specific name, it becomes proper.\">Kapag binigyan natin ng tiyak na ngalan, ito ay pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: Mount Makiling, Taal Volcano, Pasig River.\">Halimbawa: Bundok Makiling, Bulkang Taal, Ilog Pasig.</span>\n<span class=\"fil-sentence\" data-translation=\"These are written using capital letters.\">Isinusulat ang mga ito gamit ang malaking titik.</span>\n<span class=\"fil-sentence\" data-translation=\"Mount Makiling is a famous mountain in Laguna.\">Ang Bundok Makiling ay isang kilalang bundok sa Laguna.</span>\n<span class=\"fil-sentence\" data-translation=\"Examine the natural places in your province!\">Suriin ang mga likas na pook sa inyong probinsya!</span>",
       "examples": [
         {
-          "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Likas na Pook",
+          "content": "bundok (mountain - pambalana) -> Bundok Banahaw (proper)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Mga Makasaysayang Pook",
+      "text": "<span class=\"fil-sentence\" data-translation=\"There are places that play a big part in history.\">May mga pook na may malaking bahagi sa kasaysayan.</span>\n<span class=\"fil-sentence\" data-translation=\"The term 'historical place' is a common noun.\">Ang 'makasaysayang pook' ay isang pangngalang pambalana.</span>\n<span class=\"fil-sentence\" data-translation=\"But the specific monument is proper in language.\">Ngunit ang tiyak na monumento ay pantangi sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'Rizal Park' in Manila is a proper noun.\">Halimbawa: 'Rizal Park' sa Maynila ay isang pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"The 'Rizal House in Calamba' is also proper.\">Ang 'Bahay ni Rizal sa Calamba' ay pantangi rin.</span>\n<span class=\"fil-sentence\" data-translation=\"This is where our national hero was born.\">Dito ipinanganak ang ating pambansang bayani.</span>\n<span class=\"fil-sentence\" data-translation=\"We write these historical names with capital letters.\">Isinusulat natin ang mga ito na may malaking titik.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's visit these places in order to learn!\">Bisitahin natin ang mga pook na ito upang matuto!</span>",
       "examples": [
         {
-          "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Kasaysayan",
+          "content": "monumento (monument - pambalana), Fort Santiago (proper)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Mga Lugar ng Pamimili",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The market is a place where we buy our food.\">Ang palengke ay pook kung saan tayo namimili.</span>\n<span class=\"fil-sentence\" data-translation=\"The words 'market' and 'store' are common nouns.\">Ang 'palengke' at 'tindahan' ay mga pambalana.</span>\n<span class=\"fil-sentence\" data-translation=\"There are many stores in our own barangay.\">Maraming tindahan sa ating sariling barangay.</span>\n<span class=\"fil-sentence\" data-translation=\"But the specific name of a mall is proper.\">Ngunit ang tiyak na ngalan ng mall ay pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'SM City Calamba' is a proper noun.\">Halimbawa: 'SM City Calamba' ay isang pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"The 'Store of Aling Maria' is also proper.\">Ang 'Tindahan ni Aling Maria' ay pantangi rin.</span>\n<span class=\"fil-sentence\" data-translation=\"These names are written with capital letters.\">Isinusulat ang mga ito nang may malaking titik.</span>\n<span class=\"fil-sentence\" data-translation=\"Where do you usually buy your family food?\">Saan kayo madalas mamili ng inyong pagkain?</span>",
       "examples": [
         {
-          "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Pamimili",
+          "content": "tindahan (store - pambalana), Rustan's Supermarket (proper)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Mga Lugar ng Libangan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The park is a beautiful place for playing.\">Ang parke ay magandang pook para sa paglalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"The words 'park' and 'playground' are common nouns.\">Ang 'parke' at 'laruan' ay mga pambalana sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"Here we run around and play with our friends.\">Dito tayo tumatakbo at nakikipaglaro sa mga kaibigan.</span>\n<span class=\"fil-sentence\" data-translation=\"If the park has a specific name, it is proper.\">Kung ang parke ay may tiyak na pangalan, ito ay pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'Laguna Plaza' is a proper noun.\">Halimbawa: 'Laguna Plaza' ay isang pangngalang pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"Even 'Enchanted Kingdom' is a proper noun.\">Maging ang 'Enchanted Kingdom' ay pantangi rin.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's always remember the correct way to write it.\">Lagi nating tandaan ang wastong pagsulat nito.</span>\n<span class=\"fil-sentence\" data-translation=\"Use a capital letter at the start of each word!\">Gumamit ng malaking titik sa simula ng bawat salita!</span>",
       "examples": [
         {
-          "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Libangan",
+          "content": "parke (park - pambalana), Luneta Park (proper)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Pagsusuri sa Pangungusap",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze the place nouns in sentences.\">Suriin natin ang mga pook sa pangungusap.</span>\n<span class=\"fil-sentence\" data-translation=\"Statement: 'We went to a big school.'\">Pahayag: 'Pumunta kami sa isang malaking paaralan.'</span>\n<span class=\"fil-sentence\" data-translation=\"The place here is 'school' which is a common noun.\">Ang pook dito ay 'paaralan' na isang pambalana.</span>\n<span class=\"fil-sentence\" data-translation=\"Another statement: 'We are studying in Calamba.'\">Isa pang pahayag: 'Kami ay nag-aaral sa Calamba.'</span>\n<span class=\"fil-sentence\" data-translation=\"The place here is 'Calamba' which is a proper noun.\">Ang pook dito ay 'Calamba' na isang pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"It is the specific name of a city in Laguna.\">Ito ay tiyak na ngalan ng lungsod sa Laguna.</span>\n<span class=\"fil-sentence\" data-translation=\"So it starts with the capital letter C.\">Kaya nagsisimula ito sa malaking titik na C.</span>\n<span class=\"fil-sentence\" data-translation=\"Is it easy to identify these places in sentences?\">Madali lang bang matukoy ang mga pook na ito?</span>",
       "examples": [
         {
-          "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Pagsusuri",
+          "content": "paaralan (common noun) vs. Calamba (proper noun)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Panuntunan sa Malaking Titik",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Why is the capital letter important for proper nouns?\">Bakit mahalaga ang malaking titik sa pantangi?</span>\n<span class=\"fil-sentence\" data-translation=\"It indicates the specific and unique name of a place.\">Ito ay nagpapakita ng tiyak na ngalan ng pook.</span>\n<span class=\"fil-sentence\" data-translation=\"If we write 'pilipinas' in lowercase, it is wrong.\">Kung isusulat natin ang 'pilipinas', ito ay mali.</span>\n<span class=\"fil-sentence\" data-translation=\"It must be written as 'Pilipinas' with a capital P.\">Dapat itong isulat na 'Pilipinas' na may malaking P.</span>\n<span class=\"fil-sentence\" data-translation=\"Likewise for 'ilog pasig', it must be 'Ilog Pasig'.\">Gayundin sa 'ilog pasig', dapat ay 'Ilog Pasig'.</span>\n<span class=\"fil-sentence\" data-translation=\"Capital letter I and capital letter P are both required.\">Malaki ang titik I at malaki rin ang titik P.</span>\n<span class=\"fil-sentence\" data-translation=\"This is the correct spelling and grammar in our language.\">Ito ang wastong bantas at baybay sa ating wika.</span>\n<span class=\"fil-sentence\" data-translation=\"Practice writing this correctly every single day!\">Sanayin ang sarili sa pagsulat nito araw-araw!</span>",
       "examples": [
         {
-          "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Wastong Pagsulat",
+          "content": "mali: ilog pasig -> tama: Ilog Pasig"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Pambalana sa Ating Paligid",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Look outside your window right now.\">Tumingin ka sa labas ng inyong bintana ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"What general places can you observe out there?\">Ano-anong mga pangkalahatang pook ang iyong nakikita?</span>\n<span class=\"fil-sentence\" data-translation=\"Maybe there is a road, field, river, or houses.\">Maaaring may kalsada, bukid, ilog, o kabahayan.</span>\n<span class=\"fil-sentence\" data-translation=\"These words represent general types of places.\">Ang mga salitang ito ay mga pangkalahatang pook.</span>\n<span class=\"fil-sentence\" data-translation=\"So they are common nouns in our language.\">Kaya sila ay mga pangngalang pambalana sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"Write them using lowercase letters only.\">Isulat ang mga ito gamit ang maliit na titik lamang.</span>\n<span class=\"fil-sentence\" data-translation=\"We do not need to capitalize the start of the word.\">Hindi natin kailangang lakihan ang simula ng salita.</span>\n<span class=\"fil-sentence\" data-translation=\"This is a basic rule in our grammar lessons!\">Ito ay isang pangunahing tuntunin sa ating balarila!</span>",
       "examples": [
         {
-          "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Pambalana",
+          "content": "kalsada (road), bukid (field), bundok (mountain)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Mga Bayani at Kanilang Pook",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Many places are named after our national heroes.\">Maraming pook ang ipinangalan sa mga bayani natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: 'Rizal Street' or 'Town of Bonifacio'.\">Halimbawa: 'Kalye Rizal' o 'Bayan ng Bonifacio'.</span>\n<span class=\"fil-sentence\" data-translation=\"These historical places are proper nouns.\">Ang mga pook na ito ay mga pangngalang pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"A capital letter is needed due to the specific name.\">Kailangan ang malaking titik dahil may tiyak na ngalan.</span>\n<span class=\"fil-sentence\" data-translation=\"Dr. Jose Rizal was born in Calamba, Laguna.\">Si Dr. Jose Rizal ay ipinanganak sa Calamba, Laguna.</span>\n<span class=\"fil-sentence\" data-translation=\"Both 'Calamba' and 'Laguna' are proper nouns.\">Ang 'Calamba' at 'Laguna' ay parehong pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"They start with the capital letters C and L.\">Sila ay nagsisimula sa malalaking titik na C at L.</span>\n<span class=\"fil-sentence\" data-translation=\"This shows respect to these important places!\">Ito ay nagpapakita ng paggalang sa mga pook na ito!</span>",
       "examples": [
         {
-          "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Bayani at Pook",
+          "content": "Rizal (bayani) -> Kalye Rizal (proper noun of place)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 1: Pangngalang Pantangi at Pambalana sa Pook. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Pagsasanay: Paghahanap ng Pook",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's play a game of finding places today.\">Maglaro tayo ng paghahanap ng mga pook ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"Read: 'Matteo went to the big market.'\">Basahin: 'Pumunta si Matteo sa malaking palengke.'</span>\n<span class=\"fil-sentence\" data-translation=\"Where did Matteo go in our sentence?\">Saan pumunta si Matteo sa ating pangungusap?</span>\n<span class=\"fil-sentence\" data-translation=\"He went to the 'market' which is a general place.\">Pumunta siya sa 'palengke' na isang pangkalahatang pook.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'market' is a common noun of place.\">Ang salitang 'palengke' ay pangngalang pambalana.</span>\n<span class=\"fil-sentence\" data-translation=\"It is written using a lowercase letter p.\">Isinusulat ito gamit ang maliit na titik p.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to find other places in different stories!\">Subukan mong maghanap ng pook sa iba pang kwento!</span>\n<span class=\"fil-sentence\" data-translation=\"This is a great way to practice your skills!\">Ito ay isang mahusay na paraan ng pagsasanay!</span>",
       "examples": [
         {
-          "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Pangngalang Pantangi at Pambalana sa Pook to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Pangngalang Pantangi at Pambalana sa Pook in other contexts."
+          "title": "Pagsasanay",
+          "content": "palengke (common noun - place)"
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 1",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Pagsasanay: Tiyak na Pook",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's read another sentence in our language.\">Basahin natin ang isa pang pangungusap sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"Statement: 'They went on vacation to Baguio City.'\">Pahayag: 'Sila ay nagbakasyon sa Lungsod ng Baguio.'</span>\n<span class=\"fil-sentence\" data-translation=\"What is the specific place mentioned in the statement?\">Ano ang tiyak na pook na binanggit sa pahayag?</span>\n<span class=\"fil-sentence\" data-translation=\"The specific place is 'Baguio City' in Luzon.\">Ang tiyak na pook ay 'Lungsod ng Baguio' sa Luzon.</span>\n<span class=\"fil-sentence\" data-translation=\"This is a proper noun in our language.\">Ito ay isang pangngalang pantangi sa ating wika.</span>\n<span class=\"fil-sentence\" data-translation=\"It starts with a capital letter L and capital B.\">Nagsisimula ito sa malaking titik L at malaking B.</span>\n<span class=\"fil-sentence\" data-translation=\"This shows the specific name of the city.\">Ito ay nagpapakita ng tiyak na ngalan ng lungsod.</span>\n<span class=\"fil-sentence\" data-translation=\"Can you write it down on your paper right now?\">Maaari mo ba itong isulat sa iyong papel ngayon?</span>",
       "examples": [
         {
-          "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 1",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay",
+          "content": "Lungsod ng Baguio (proper noun - place)"
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 2",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Pagsasanay: Tama o Mali?",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the spelling of the following places.\">Suriin natin ang pagsulat ng mga sumusunod na pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Statement: 'He lives in barangay san Juan.'\">Pahayag: 'Nakatira siya sa barangay san Juan.'</span>\n<span class=\"fil-sentence\" data-translation=\"Is there a mistake in writing this place name?\">Mayroon bang pagkakamali sa pagsulat ng pook na ito?</span>\n<span class=\"fil-sentence\" data-translation=\"Yes, 'barangay san Juan' should be a proper noun.\">Oo, ang 'barangay san Juan' ay dapat maging pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"It must be written as 'Barangay San Juan' with capitals.\">Dapat itong isulat na 'Barangay San Juan' na malaki.</span>\n<span class=\"fil-sentence\" data-translation=\"Capital B, capital S, and capital J are all needed.\">Malaki ang titik B, malaki ang S, at malaki ang J.</span>\n<span class=\"fil-sentence\" data-translation=\"This is the correct way to write our barangay name.\">Ito ang tamang paraan ng pagsulat ng ating barangay.</span>\n<span class=\"fil-sentence\" data-translation=\"Always be careful with capital letters in your writing!\">Palaging maging maingat sa malalaking titik sa pagsulat!</span>",
       "examples": [
         {
-          "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 2",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay",
+          "content": "mali: barangay san juan -> tama: Barangay San Juan"
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 3",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Maling Paggamit ng Titik",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid writing common nouns with capital letters.\">Iwasan ang pagsusulat ng pambalana sa malaking titik.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'We went to a Hospital.' (common noun capitalized)\">Mali: 'Pumunta kami sa isang Ospital.'</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'hospital' is just a common noun here.\">Ang 'ospital' ay pambalana lamang sa pangungusap.</span>\n<span class=\"fil-sentence\" data-translation=\"So it should be written with a lowercase letter o.\">Kaya dapat itong isulat sa maliit na titik o.</span>\n<span class=\"fil-sentence\" data-translation=\"Correct: 'We went to a hospital.' (lowercase o)\">Tama: 'Pumunta kami sa isang ospital.'</span>\n<span class=\"fil-sentence\" data-translation=\"Do not capitalize the letter if it is not specific.\">Huwag lakihan ang titik kung hindi ito tiyak.</span>\n<span class=\"fil-sentence\" data-translation=\"This is a common mistake made by young learners.\">Ito ay isang karaniwang pagkakamali ng mga bata.</span>\n<span class=\"fil-sentence\" data-translation=\"Make sure your letters are correct in your writing now!\">Tiyakin na tama ang iyong mga titik sa pagsulat ngayon!</span>",
       "examples": [
         {
-          "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 3",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Maling Titik",
+          "content": "mali: Ospital -> tama: ospital"
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 4",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Pagkilala sa mga Kategorya",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Do not confuse people or things with places.\">Huwag ipagpalit ang tao o bagay sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"The 'teacher' is a person; the 'school' is a place.\">Ang 'guro' ay tao; ang 'paaralan' ay pook.</span>\n<span class=\"fil-sentence\" data-translation=\"The 'book' is a thing; the 'library' is a place.\">Ang 'aklat' ay bagay; ang 'aklatan' ay pook.</span>\n<span class=\"fil-sentence\" data-translation=\"The 'doctor' is a person; the 'hospital' is a place.\">Ang 'doktor' ay tao; ang 'ospital' ay pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Analyze carefully what the word is referring to.\">Suriin nang mabuti kung ano ang tinutukoy ng salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Is it a location, or an object, or a person?\">Ito ba ay isang lugar o kagamitan o tao?</span>\n<span class=\"fil-sentence\" data-translation=\"Classifying into categories is an important skill.\">Ang pag-uri sa kategorya ay mahalagang kasanayan.</span>\n<span class=\"fil-sentence\" data-translation=\"This will help in understanding the meaning of words!\">Makatutulong ito sa pag-unawa ng kahulugan ng salita!</span>",
       "examples": [
         {
-          "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 4",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Kategorya",
+          "content": "aklat (bagay) vs. aklatan (pook - place)"
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 1",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Bakit Mahalaga ang Pook?",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Places provide the setting for our stories.\">Ang mga pook ay nagbibigay ng setting sa kwento.</span>\n<span class=\"fil-sentence\" data-translation=\"This is where all important events take place.\">Dito nagaganap ang lahat ng mahahalagang pangyayari.</span>\n<span class=\"fil-sentence\" data-translation=\"In writing stories, we need to specify the place.\">Sa pagsulat ng kwento, kailangan natin ang pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Specifying the place gives clarity to the reader.\">Ang pagtukoy sa pook ay nagbibigay-linaw sa mambabasa.</span>\n<span class=\"fil-sentence\" data-translation=\"We can use either common or proper nouns.\">Maaari nating gamitin ang pambalana o pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"This depends on whether we want to be specific or not.\">Depende ito kung nais nating maging tiyak o hindi.</span>\n<span class=\"fil-sentence\" data-translation=\"Use your knowledge to write a short story!\">Gamitin ang iyong kaalaman upang sumulat ng kwento!</span>\n<span class=\"fil-sentence\" data-translation=\"Share it with your teacher and classmates today!\">Ibahagi ito sa iyong guro at mga kamag-aral ngayon!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 1",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 1",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Kahalagahan",
+          "content": "Ang pook ay sumasagot sa tanong na: Saan? (Where?)"
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 2",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Gabay sa Pagsusulat ng Pook",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Here is a quick guide to writing places correctly.\">Narito ang mabilis na gabay sa pagsusulat ng pook.</span>\n<span class=\"fil-sentence\" data-translation=\"First, determine if it is common or proper.\">Una, alamin kung ito ay pambalana o pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"Second, if it is proper, capitalize the first letter.\">Pangalawa, kung ito ay pantangi, lakihan ang titik.</span>\n<span class=\"fil-sentence\" data-translation=\"Third, if common, use lowercase first letters.\">Pangatlo, kung pambalana, gamitin ang maliit na titik.</span>\n<span class=\"fil-sentence\" data-translation=\"Fourth, make sure of the correct spelling of words.\">Pang-apat, tiyakin ang tamang baybay ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'Lungsod ng San Pablo' has capital L and S.\">Halimbawa: 'Lungsod ng San Pablo' ay may malaking L at S.</span>\n<span class=\"fil-sentence\" data-translation=\"The connecting word 'ng' remains in lowercase.\">Ang salitang 'ng' ay nananatiling maliit ang titik.</span>\n<span class=\"fil-sentence\" data-translation=\"Follow this guide in your practice exercises today!\">Sundan ang gabay na ito sa iyong mga pagsasanay ngayon!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 2",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 2",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Gabay",
+          "content": "Pantangi -> Malaking titik. Pambalana -> Maliit na titik."
         }
       ]
     },
     {
-      "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 1: Pangngalang Pantangi at Pambalana sa Pook. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "title": "Buod ng Unang Linggo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed the slides for Week 1.\">Binabati kita! Natapos mo ang mga slide sa Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about common nouns of places.\">Natutunan natin ang mga pangngalang pambalana sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"We also learned about proper nouns of places.\">Natutunan din natin ang pangngalang pantangi sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"We discovered the correct use of capital letters.\">Nalaman natin ang wastong paggamit ng malaking titik.</span>\n<span class=\"fil-sentence\" data-translation=\"We used examples from our local community.\">Ginamit natin ang mga halimbawa sa ating komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready to try the quiz and challenges?\">Handa ka na bang subukan ang pagsusulit at hamon?</span>\n<span class=\"fil-sentence\" data-translation=\"Show your skill in identifying these places!\">Ipakita ang iyong galing sa pagtukoy ng mga pook!</span>\n<span class=\"fil-sentence\" data-translation=\"Continue studying the Filipino language!\">Ipagpatuloy ang pag-aaral ng wikang Filipino!</span>",
       "examples": [
         {
-          "title": "Summary Points",
-          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
-        },
-        {
-          "title": "Reflection",
-          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+          "title": "Tandaan",
+          "content": "Pook = Lugar. Pantangi = Tiyak. Pambalana = Karaniwan."
         }
       ]
     }
@@ -6265,316 +6055,346 @@ window.WEEK1_ADVANCED_DATA.filipino = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Alin sa mga sumusunod ang pangngalang pambalana sa pook?",
       "options": [
-        "Core term: Patinig",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "ospital",
+        "Laguna",
+        "Ilog Pasig",
+        "Rizal Park"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Alin sa mga sumusunod ang pangngalang pantangi sa pook?",
       "options": [
-        "Core term: Katinig",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "paaralan",
+        "simbahan",
+        "Lungsod ng Calamba",
+        "palengke"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Paano isinusulat ang pangngalang pantangi sa pook?",
+      "options": [
+        "Nagsisimula sa maliit na titik",
+        "Nagsisimula sa malaking titik",
+        "Lahat ay malalaking titik",
+        "Lahat ay maliliit na titik"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Tukuyin ang pook sa pangungusap: 'Pumunta si Matteo sa parke.'",
+      "options": [
+        "Matteo",
+        "Pumunta",
+        "parke",
+        "sa"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Alin ang may wastong pagsulat ng pangngalang pantangi ng barangay?",
+      "options": [
+        "barangay san jose",
+        "Barangay san jose",
+        "Barangay San Jose",
+        "barangay San Jose"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang pambalana ng 'Ilog Pasig'?",
+      "options": [
+        "bundok",
+        "ilog",
+        "dagat",
+        "lawa"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang pantangi ng 'bansa'?",
+      "options": [
+        "lalawigan",
+        "lungsod",
+        "Pilipinas",
+        "barangay"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Tukuyin ang pangngalang pambalana sa pook: 'Ang silid-aralan ay malinis.'",
+      "options": [
+        "silid-aralan",
+        "malinis",
+        "Ang",
+        "ay"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Alin sa mga sumusunod ang HINDI pook?",
       "options": [
-        "Core term: Pangngalan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "aklatan",
+        "palikuran",
+        "guro",
+        "palengke"
       ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
-      "options": [
-        "Core term: Pantangi",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "answer": 2
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 1: Pangngalang Pantangi at Pambalana sa Pook is correct?",
+      "q": "Tama o Mali: Ang salitang 'lalawigan' ay isang pangngalang pantangi.",
       "options": [
-        "Statement A: The core rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Alin ang wastong baybay ng tiyak na ngalan ng sikat na bundok sa Laguna?",
       "options": [
-        "Core term: Panghalip",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "bundok makiling",
+        "Bundok makiling",
+        "Bundok Makiling",
+        "bundok Makiling"
       ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 1: Pangngalang Pantangi at Pambalana sa Pook is a key topic in the study of ___.",
-      "answer": "Filipino"
+      "answer": 2
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Tukuyin ang pantangi sa pook sa pangungusap: 'Nakatira ang aking lola sa Laguna.'",
       "options": [
-        "Core term: Pang-uri",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Nakatira",
+        "lola",
+        "Laguna",
+        "aking"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Ano ang pambalana ng 'SM City Calamba'?",
       "options": [
-        "Core term: Pang-abay",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "tahanan",
+        "paaralan",
+        "mall",
+        "simbahan"
       ],
-      "answer": 0
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang pambalana sa pook na ginagamit para sa pag-aalaga ng may-sakit?",
+      "options": [
+        "palengke",
+        "ospital",
+        "simbahan",
+        "parke"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang pantangi ng 'lalawigan'?",
+      "options": [
+        "bansa",
+        "Cavite",
+        "lungsod",
+        "bayan"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Tukuyin ang pambalana sa pook: 'Maraming bata ang naglalaro sa plaza.'",
+      "options": [
+        "bata",
+        "naglalaro",
+        "plaza",
+        "maraming"
+      ],
+      "answer": 2
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 1: Pangngalang Pantangi at Pambalana sa Pook is correct?",
+      "q": "Tama o Mali: Ang 'ospital ng maynila' ay isinusulat nang may maliliit na titik lamang.",
       "options": [
-        "Statement A: The core rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook are not relevant to these cases."
+        "Tama",
+        "Mali"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang pambalana sa pook na ngalan ng daan ng sasakyan?",
+      "options": [
+        "kalsada",
+        "ilog",
+        "bundok",
+        "dagat"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Aling salita ang may pagkakamali sa pagkakagamit ng malaking titik sa pangungusap: 'Pumunta kami sa isang Simbahan kahapon.'?",
       "options": [
-        "Core term: Patinig",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Pumunta",
+        "Simbahan",
+        "kami",
+        "kahapon"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang tinutukoy ng pangngalang pook?",
+      "options": [
+        "ngalan ng tao",
+        "ngalan ng lugar o pook",
+        "ngalan ng bagay",
+        "ngalan ng hayop"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin ang pantangi ng 'simbahan'?",
+      "options": [
+        "Moske ng Quiapo",
+        "paaralan",
+        "ospital",
+        "bahay"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Tukuyin ang pambalana sa pook: 'Malilim ang puno sa aming bakuran.'",
       "options": [
-        "Core term: Katinig",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "puno",
+        "bakuran",
+        "malilim",
+        "aming"
       ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
-      "options": [
-        "Core term: Pangngalan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 1: Pangngalang Pantangi at Pambalana sa Pook is a key topic in the study of ___.",
-      "answer": "Filipino"
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 1: Pangngalang Pantangi at Pambalana sa Pook is correct?",
+      "q": "Tama o Mali: Ang 'Pilipinas' ay isang pangngalang pantangi dahil ito ay tiyak na ngalan ng bansa.",
       "options": [
-        "Statement A: The core rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Alin sa mga sumusunod ang pambalana sa pook kung saan binabasa ang mga aklat?",
       "options": [
-        "Core term: Panghalip",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "aklatan",
+        "palikuran",
+        "opisina",
+        "tindahan"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Saan dapat magsimula ang pagsulat ng pangngalang pantangi?",
       "options": [
-        "Core term: Pandiwa",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "maliit na titik",
+        "gitnang titik",
+        "malaking titik",
+        "huling titik"
       ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
-      "options": [
-        "Core term: Pang-uri",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
-      "options": [
-        "Core term: Pang-abay",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 1: Pangngalang Pantangi at Pambalana sa Pook is correct?",
-      "options": [
-        "Statement A: The core rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook are not relevant to these cases."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 1: Pangngalang Pantangi at Pambalana sa Pook is a key topic in the study of ___.",
-      "answer": "Filipino"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
-      "options": [
-        "Core term: Katinig",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
-      "options": [
-        "Core term: Pangngalan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
-      "options": [
-        "Core term: Pantangi",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 1: Pangngalang Pantangi at Pambalana sa Pook is correct?",
-      "options": [
-        "Statement A: The core rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Pangngalang Pantangi at Pambalana sa Pook are not relevant to these cases."
-      ],
-      "answer": 0
+      "answer": 2
     }
   ],
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 1: Pangngalang Pantangi at Pambalana sa Pook, what is the first priority?",
+      "q": "Challenge: Aling pangungusap ang naglalaman ng parehong pangngalang pambalana at pantangi sa pook?",
       "options": [
-        "Analyze key terms and variables",
-        "Guess the answer immediately",
-        "Skip the question",
-        "Use unrelated formulas"
+        "Pumunta si Caloy sa ilog ng Pasig upang mamasyal.",
+        "Nakatira kami sa isang malaking lungsod.",
+        "Maganda ang Lungsod ng Baguio dahil ito ay malamig.",
+        "Ang Paaralang Elementarya ng Calamba ay isang malaking paaralan."
+      ],
+      "answer": 3
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Alin sa mga sumusunod ang may wastong pagsulat ng lahat ng pantangi sa pook?",
+      "options": [
+        "Lungsod Ng Calamba, bulkang Taal",
+        "Lungsod ng Calamba, Bulkang Taal",
+        "lungsod ng calamba, Bulkang taal",
+        "Lungsod ng calamba, bulkang taal"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Kung ang 'silid-aralan' ay pambalana, alin ang maaaring maging katapat nitong pantangi sa isang paaralan?",
+      "options": [
+        "Silid ng Grade 3-Rizal",
+        "aklatan",
+        "Paaralang Elementarya",
+        "guro"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Challenge: Tukuyin kung gaano karaming pangngalang pook ang nasa pangungusap: 'Mula sa aming tahanan, dumaan ako sa kalsada patungo sa paaralan.'",
       "options": [
-        "The primary variable: Alpabeto",
-        "An external variable",
-        "No variable",
-        "All variables equally"
+        "isa",
+        "dalawa",
+        "tatlo",
+        "apat"
       ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 1: Pangngalang Pantangi at Pambalana sa Pook.",
-      "options": [
-        "Statement A: Proper methodology leads to a correct and verified solution.",
-        "Statement B: Rushing through calculations is safe and rarely causes errors."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
-      "answer": "patinig"
+      "answer": 2
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 1: Pangngalang Pantangi at Pambalana sa Pook?",
+      "q": "Challenge: Suriin ang pahayag: 'Pumunta si Dr. Rizal sa Europa.' Ano ang kategorya ng 'Europa' sa pangngalan?",
       "options": [
-        "Building logical reasoning and problem-solving skills",
-        "Forgetting previous lessons",
-        "Speeding up without accuracy",
-        "None of these"
+        "Pantangi sa tao",
+        "Pambalana sa pook",
+        "Pantangi sa pook",
+        "Pambalana sa bagay"
       ],
-      "answer": 0
+      "answer": 2
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 1: Pangngalang Pantangi at Pambalana sa Pook",
-    "desc": "Perform a simple observation of Week 1: Pangngalang Pantangi at Pambalana sa Pook at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Pagguhit ng Mapa ng Ating Pook",
+    "desc": "Gumuhit ng isang simpleng mapa ng iyong komunidad o barangay sa isang papel. Ipakita ang iyong tahanan at dalawang iba pang pook (tulad ng simbahan, paaralan, o barangay hall). Isulat ang pambalana at pantangi na ngalan ng bawat pook na iginuhit (hal. paaralan -> Paaralang San Jose). Ipaliwanag ang iyong gawa sa magulang.",
     "labels": [
-      "Accurate explanation of concept",
-      "Clarity and confidence in presentation",
-      "Neatness of written notes"
+      "Maayos na naiguhit ang mapa ng sariling komunidad",
+      "Wastong naisulat ang pambalana at pantangi na ngalan ng bawat pook",
+      "Wastong nagamit ang malaking titik sa mga pangngalang pantangi"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 1: Pangngalang Pantangi at Pambalana sa Pook</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 1: Pangngalang Pantangi at Pambalana sa Pook and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Patinig and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 1: Pangngalang Pantangi at Pambalana sa Pook.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alpabeto</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 1: Pangngalang Pantangi at Pambalana sa Pook.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 1: Pambalana vs. Pantangi sa Pook</h3>\n                  <p class=\"ws-instruction\">Isulat kung ang sumusunod na pook ay <strong>Pambalana</strong> o <strong>Pantangi</strong> gamit ang iyong stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Bundok Makiling <span class=\"fil-sentence\" data-translation=\"(Mount Makiling)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pantangi</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. silid-aralan <span class=\"fil-sentence\" data-translation=\"(classroom)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pambalana</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Lungsod ng Calamba <span class=\"fil-sentence\" data-translation=\"(Calamba City)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pantangi</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 2: Pagtutugma ng mga Pook</h3>\n                  <p class=\"ws-instruction\">Iugnay ang pambalanang pook sa katapat nitong pantangi sa pamamagitan ng pagsulat ng tamang titik sa loob ng bracket.</p>\n                  <div class=\"ws-split\" style=\"margin-top: 20px;\">\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.0;\">\n                      <div><strong>Pangkalahatan (Pambalana):</strong></div>\n                      <div>1. bansa <span class=\"fil-sentence\" data-translation=\"(country)\"></span></div>\n                      <div>2. ilog <span class=\"fil-sentence\" data-translation=\"(river)\"></span></div>\n                      <div>3. ospital <span class=\"fil-sentence\" data-translation=\"(hospital)\"></span></div>\n                    </div>\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.0; text-align: right; padding-right: 40px;\">\n                      <div><strong>Tiyak (Pantangi):</strong></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">B</span> &nbsp; ] &nbsp; A. Ilog Pasig <span class=\"fil-sentence\" data-translation=\"(Pasig River)\"></span></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">A</span> &nbsp; ] &nbsp; B. Pilipinas <span class=\"fil-sentence\" data-translation=\"(Philippines)\"></span></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">C</span> &nbsp; ] &nbsp; C. Ospital ng Laguna <span class=\"fil-sentence\" data-translation=\"(Laguna Hospital)\"></span></div>\n                    </div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 3: Pagwawasto ng mga Titik</h3>\n                  <p class=\"ws-instruction\">Isulat ang tamang pagsulat ng mga pangalan ng pook na may pagkakamali sa paggamit ng titik.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Nakatira kami sa lungsod ng calamba. <span class=\"fil-sentence\" data-translation=\"(We live in calamba city.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Nakatira kami sa Lungsod ng Calamba.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Malinis ang ilog pasig ngayon. <span class=\"fil-sentence\" data-translation=\"(Pasig river is clean today.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Malinis ang Ilog Pasig ngayon.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -6583,355 +6403,255 @@ window.WEEK1_ADVANCED_DATA.makabansa = {
   "color": "#f59e0b",
   "icon": "🏝️",
   "title": "Makabansa",
-  "subtitle": "Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad",
+  "subtitle": "Week 1: Kasaysayan ng Ating Komunidad",
   "slides": [
     {
-      "title": "Introduction to Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad",
-      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Makabansa.",
+      "title": "Maligayang Pagdating sa Makabansa!",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Hello, little hero! Welcome to Makabansa!\">Kumusta, maliit na bayani! Welcome sa Makabansa!</span>\n<span class=\"fil-sentence\" data-translation=\"This week, we will study about history.\">Ngayong linggo, mag-aaral tayo tungkol sa kasaysayan.</span>\n<span class=\"fil-sentence\" data-translation=\"History is the story of past events in our lives.\">Ang kasaysayan ay kwento ng mga nakaraang pangyayari.</span>\n<span class=\"fil-sentence\" data-translation=\"We will identify the history of our own local place.\">Tutukuyin natin ang kasaysayan ng sarili nating pook.</span>\n<span class=\"fil-sentence\" data-translation=\"We will study the origin and foundation of our barangay.\">Pag-aaralan natin ang pinagmulan ng ating barangay.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's learn about historical artifacts and old documents.\">Alamin natin ang mga artifact at lumang dokumento.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready to travel to the past of our community?\">Handa ka na bang maglakbay sa nakaraan ng komunidad?</span>\n<span class=\"fil-sentence\" data-translation=\"Let's start exploring like historical researchers today!\">Magsimula tayong mag-explore na parang historyador ngayon!</span>",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad and apply them in daily situations."
-        },
-        {
-          "title": "Real-world Connection",
-          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+          "title": "Linggong Layunin",
+          "content": "Maunawaan ang mga elemento ng kasaysayan ng sariling barangay at komunidad."
         }
       ]
     },
     {
-      "title": "Core Vocabulary & Terms",
-      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "title": "Ano ang Kasaysayan?",
+      "text": "<span class=\"fil-sentence\" data-translation=\"History is not just simply old stories from the past.\">Ang kasaysayan ay hindi lamang basta lumang kwento.</span>\n<span class=\"fil-sentence\" data-translation=\"It is the study of meaningful past events in lives.\">Ito ay pag-aaral ng may-saysay na nakaraang yugto.</span>\n<span class=\"fil-sentence\" data-translation=\"There are four important elements of history we study today.\">May apat na mahahalagang elemento ang kasaysayan ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"These are the people, place, time, and the event itself.\">Ito ang tao, lugar, panahon, at ang pangyayari.</span>\n<span class=\"fil-sentence\" data-translation=\"It answers who, where, when, and what happened yonder.\">Sinasagot nito ang sino, saan, kailan, at ano.</span>\n<span class=\"fil-sentence\" data-translation=\"The unity of these elements creates the historical story.\">Ang pagkakaisa ng mga ito ang bumubuo sa kwento.</span>\n<span class=\"fil-sentence\" data-translation=\"This helps us understand our present life in communities.\">Nakatutulong ito sa pag-unawa ng ating kasalukuyan.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's analyze each element in our lesson today!\">Suriin natin ang bawat elemento sa ating aralin!</span>",
       "examples": [
         {
-          "title": "Term 1: Sarili",
-          "content": "A foundational concept in Makabansa that helps us categorize and understand details."
-        },
-        {
-          "title": "Term 2: Pamilya",
-          "content": "An active process or skill used to analyze situations and solve problems."
+          "title": "Apat na Elemento",
+          "content": "Tao (People), Lugar (Place), Panahon (Time), Pangyayari (Event)"
         }
       ]
     },
     {
-      "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. By looking closely at how these ideas work together, we can build a strong understanding of Makabansa.",
+      "title": "Ang Elemento: Tao",
+      "text": "<span class=\"fil-sentence\" data-translation=\"People are the ones who make history in a place.\">Ang mga tao ang gumagawa ng kasaysayan sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"They lead and help one another in our local barangay.\">Sila ang namumuno at nagtutulungan sa barangay natin.</span>\n<span class=\"fil-sentence\" data-translation=\"This includes the first settlers who lived in our town.\">Kasama rito ang mga unang nanirahan sa ating bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"This also includes the heroes who fought for freedom yonder.\">Kasama rin ang mga bayani na nagtanggol sa kalayaan.</span>\n<span class=\"fil-sentence\" data-translation=\"E.g., Dr. Jose Rizal in the City of Calamba, Laguna.\">E.g., si Dr. Jose Rizal sa Lungsod ng Calamba.</span>\n<span class=\"fil-sentence\" data-translation=\"He is a person who left a big mark in history.\">Siya ay isang tao na nag-iwan ng malaking marka.</span>\n<span class=\"fil-sentence\" data-translation=\"Every citizen also has a part in our local story.\">Ang bawat mamamayan ay may bahagi rin sa kwento.</span>\n<span class=\"fil-sentence\" data-translation=\"Who are the well-known people in your own barangay?\">Sino ang mga kilalang tao sa inyong sariling barangay?</span>",
       "examples": [
         {
-          "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in simple activities."
-        },
-        {
-          "title": "Why It Matters",
-          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+          "title": "Elemento: Tao",
+          "content": "Mga lider, bayani, at mga mamamayan ng komunidad."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Elemento: Lugar",
+      "text": "<span class=\"fil-sentence\" data-translation=\"History always takes place in a specific physical location.\">Ang kasaysayan ay laging nagaganap sa isang lugar.</span>\n<span class=\"fil-sentence\" data-translation=\"This is the physical place where people lived and worked.\">Ito ang pook kung saan nanirahan ang mga tao.</span>\n<span class=\"fil-sentence\" data-translation=\"It could be a small barangay, a town, or a province.\">Maaaring ito ay isang barangay, bayan, o lalawigan.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: the City of Calamba in Laguna is a place.\">Halimbawa: ang Lungsod ng Calamba ay isang pook.</span>\n<span class=\"fil-sentence\" data-translation=\"This is where the childhood of our national hero happened.\">Dito naganap ang paglaki ng ating pambansang bayani.</span>\n<span class=\"fil-sentence\" data-translation=\"The physical environment affects how history developed yonder.\">Ang pisikal na kapaligiran ay nakakaapekto sa kasaysayan.</span>\n<span class=\"fil-sentence\" data-translation=\"There are rivers and mountains that witnessed the past events.\">May mga ilog at bundok na saksi sa nakaraan.</span>\n<span class=\"fil-sentence\" data-translation=\"Examine the historical places in your own town today!\">Suriin ang mga makasaysayang pook sa inyong bayan!</span>",
       "examples": [
         {
-          "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Elemento: Lugar",
+          "content": "tahanan, paaralan, barangay hall, monumento"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Elemento: Panahon",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Time refers to when the historical event actually happened.\">Ang panahon ay tumutukoy kung kailan ito nangyari.</span>\n<span class=\"fil-sentence\" data-translation=\"This could be a specific date or year in the calendar.\">Maaari itong tiyak na petsa o taon sa kalendaryo.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: June 19, 1861 is the birth date of Rizal.\">Halimbawa: Hunyo 19, 1861 ang kapanganakan ni Rizal.</span>\n<span class=\"fil-sentence\" data-translation=\"We can also say 'Spanish Period' or 'Japanese Period'.\">Maaari ding sabihing 'Panahon ng Kastila' o 'Hapon'.</span>\n<span class=\"fil-sentence\" data-translation=\"This shows how long ago the past events took place.\">Ipinapakita nito kung gaano na katagal ang nakaraan.</span>\n<span class=\"fil-sentence\" data-translation=\"The sequence of time periods is called a historical timeline.\">Ang pagkakasunod-sunod ng panahon ay tinatawag na timeline.</span>\n<span class=\"fil-sentence\" data-translation=\"This helps us avoid getting confused in the historical story.\">Nakatutulong ito upang hindi tayo malito sa kwento.</span>\n<span class=\"fil-sentence\" data-translation=\"When was your own barangay or town founded in history?\">Kailan ipinanganak ang inyong sariling barangay o bayan?</span>",
       "examples": [
         {
-          "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Elemento: Panahon",
+          "content": "mga taon (years), petsa (dates), mga siglo (centuries)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Elemento: Pangyayari",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The event is the actual action or occurrence that happened.\">Ang pangyayari ay ang mismong aksyon na naganap.</span>\n<span class=\"fil-sentence\" data-translation=\"There are events that have deep meaning for a place.\">May mga pangyayaring may malalim na saysay sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: the foundation of the first school in town.\">Halimbawa: ang pagtatag ng unang paaralan sa bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Or perhaps the historical battles fought for our freedom.\">O di kaya ay ang labanan para sa kalayaan natin.</span>\n<span class=\"fil-sentence\" data-translation=\"There are also celebrations like the local town festival.\">Mayroon ding mga pagdiriwang tulad ng pista ng bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"These events change the way of life of the citizens.\">Ang mga ito ay nagbabago sa pamumuhay ng mamamayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Historians record these important events in their books.\">Itinatala ito ng mga historyador sa kanilang aklat.</span>\n<span class=\"fil-sentence\" data-translation=\"What is the most important historical event in your place?\">Ano ang pinakamahalagang pangyayari sa inyong pook?</span>",
       "examples": [
         {
-          "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Elemento: Pangyayari",
+          "content": "pagtatag ng bayan, digmaan, pista, deklarasyon"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Primary Sources: Artifacts",
+      "text": "<span class=\"fil-sentence\" data-translation=\"How do we know the history of our local community?\">Paano natin nalalaman ang kasaysayan ng komunidad?</span>\n<span class=\"fil-sentence\" data-translation=\"We use primary sources during our historical research.\">Gumagamit tayo ng mga primaryang batayan sa pagsusuri.</span>\n<span class=\"fil-sentence\" data-translation=\"Artifacts are physical objects made and used in the past.\">Ang artifact ay mga pisikal na kagamitan sa nakaraan.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: old clay pots, ancient coins, and old tools.\">Halimbawa: lumang palayok, barya, at mga kasangkapan.</span>\n<span class=\"fil-sentence\" data-translation=\"These physical objects do not lie about past human activities.\">Ang mga ito ay hindi nagsisinungaling sa kasaysayan.</span>\n<span class=\"fil-sentence\" data-translation=\"They show us exactly how our ancestors lived their daily lives.\">Ipinapakita nito kung paano namuhay ang mga ninuno.</span>\n<span class=\"fil-sentence\" data-translation=\"We can observe these historical items in museums today.\">Makikita natin ang mga ito sa mga museo ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"Is there an old object preserved in your own house today?\">Mayroon bang lumang kagamitan sa inyong sariling bahay?</span>",
       "examples": [
         {
-          "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Artifacts",
+          "content": "lumang barya (old coins), palayok (pots), lumang kasangkapan"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Primary Sources: Dokumento",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Old documents are also very important primary sources.\">Ang mga lumang dokumento ay primaryang batayan din.</span>\n<span class=\"fil-sentence\" data-translation=\"These are written records from the past time periods.\">Ito ay mga nakasulat na tala mula sa nakaraang panahon.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: old letters, maps, laws, and diaries of people.\">Halimbawa: lumang sulat, mapa, batas, at diary.</span>\n<span class=\"fil-sentence\" data-translation=\"These were written by people who witnessed the events themselves.\">Isinulat ito ng mga taong mismong nakasaksi roon.</span>\n<span class=\"fil-sentence\" data-translation=\"An old map of Calamba shows its past physical boundaries.\">Ang lumang mapa ng Calamba ay nagpapakita ng sakop nito.</span>\n<span class=\"fil-sentence\" data-translation=\"Rizal's old letters express his thoughts and feelings yonder.\">Ang lumang sulat ni Rizal ay naglalahad ng damdamin.</span>\n<span class=\"fil-sentence\" data-translation=\"These documents are preserved carefully in local archives.\">Iniingatan ang mga dokumentong ito sa pook-archive.</span>\n<span class=\"fil-sentence\" data-translation=\"Why is it important to read written records from the past?\">Bakit mahalagang basahin ang mga nakasulat na tala?</span>",
       "examples": [
         {
-          "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Dokumento",
+          "content": "lumang sulat (old letters), mapa (maps), diary, sertipiko"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Secondary Sources sa Kasaysayan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"There are also secondary sources of history we can use.\">Mayroon ding mga sekondaryang batayan sa kasaysayan.</span>\n<span class=\"fil-sentence\" data-translation=\"These are books or records written after the event occurred.\">Ito ay mga aklat o tala na isinulat pagkatapos.</span>\n<span class=\"fil-sentence\" data-translation=\"The author did not witness the actual historical event directly.\">Ang may-akda ay hindi nakasaksi sa mismong kaganapan.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: history textbooks, articles, and encyclopedias.\">Halimbawa: mga history textbooks, artikulo, at encyclopedia.</span>\n<span class=\"fil-sentence\" data-translation=\"They are based on the study of original primary sources.\">Sila ay nagmula sa pagsusuri ng mga primaryang batayan.</span>\n<span class=\"fil-sentence\" data-translation=\"These help us understand historical topics much more easily.\">Nakatutulong ito upang mas madaling maunawaan ang paksa.</span>\n<span class=\"fil-sentence\" data-translation=\"Your teacher's stories about Rizal belong to this category.\">Ang kwento ng iyong guro tungkol kay Rizal ay ganoon.</span>\n<span class=\"fil-sentence\" data-translation=\"Use both sources of data to keep your records accurate!\">Gamitin ang parehong batayan upang maging tumpak ang tala!</span>",
       "examples": [
         {
-          "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Sekondaryang Batayan",
+          "content": "History textbooks, encyclopedia, mga kwento sa radyo"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Kahalagahan ng Timeline",
+      "text": "<span class=\"fil-sentence\" data-translation=\"A timeline is a line that displays the sequence of time.\">Ang timeline ay isang guhit na nagpapakita ng panahon.</span>\n<span class=\"fil-sentence\" data-translation=\"It arranges events in order from the earliest to the latest.\">Inaayos nito ang mga pangyayari mula una hanggang huli.</span>\n<span class=\"fil-sentence\" data-translation=\"We read the horizontal timeline from left to right in books.\">Binabasa natin ang timeline mula kaliwa pakanan.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: a timeline of a child growing up in the community.\">Halimbawa: timeline ng paglaki ng isang bata sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"2018: born; 2024: entered school; 2026: now in Grade 3.\">2018: ipinanganak; 2024: pumasok; 2026: nasa Grade 3.</span>\n<span class=\"fil-sentence\" data-translation=\"This shows the physical changes over the passing of years.\">Ipinapakita nito ang pagbabago sa paglipas ng taon.</span>\n<span class=\"fil-sentence\" data-translation=\"Barangay timelines follow a similar chronological structure.\">Ang mga timeline ng barangay ay may katulad na anyo.</span>\n<span class=\"fil-sentence\" data-translation=\"Create your own personal timeline in your notebook now!\">Gumawa ng sariling timeline sa iyong notebook ngayon!</span>",
       "examples": [
         {
-          "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Timeline",
+          "content": "2018 (Ipinanganak) -> 2024 (Kinder) -> 2026 (Grade 3)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pinagmulan ng Pangalan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Every barangay has a story behind its physical name.\">Ang bawat barangay ay may kwento ng kanyang pangalan.</span>\n<span class=\"fil-sentence\" data-translation=\"Usually it originates from local plants, trees, or animals.\">Karaniwan itong nagmula sa mga halaman o hayop.</span>\n<span class=\"fil-sentence\" data-translation=\"E.g., 'Kawayanan' because of many bamboo trees growing there.\">E.g., ang 'Kawayanan' dahil sa maraming kawayan doon.</span>\n<span class=\"fil-sentence\" data-translation=\"Or perhaps 'San Jose' to honor a patron saint of the place.\">O kaya ay 'San Jose' bilang parangal sa isang patron.</span>\n<span class=\"fil-sentence\" data-translation=\"Some names also originate from local terms of indigenous people.\">Mayroon ding nagmula sa mga lokal na salita ng katutubo.</span>\n<span class=\"fil-sentence\" data-translation=\"Knowing the name is the start of respecting the local place.\">Ang pag-alam sa pangalan ay simula ng paggalang sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"It reflects the culture and natural resources of the place.\">Sinasalamin nito ang kultura at likas na yaman ng pook.</span>\n<span class=\"fil-sentence\" data-translation=\"What is the origin of the name of your own barangay?\">Ano ang pinagmulan ng pangalan ng iyong sariling barangay?</span>",
       "examples": [
         {
-          "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Pinagmulan",
+          "content": "Kawayanan (mula sa kawayan), San Jose (mula sa patron)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Oral History: Saling-bibig",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Not all history is written down in big books yonder.\">Hindi lahat ng kasaysayan ay nakasulat sa aklat.</span>\n<span class=\"fil-sentence\" data-translation=\"Some stories are passed down using the mouth and ears.\">May mga kwentong isinasalin sa pamamagitan ng bibig.</span>\n<span class=\"fil-sentence\" data-translation=\"We call this oral history or verbal storytelling in class.\">Tinatawag natin itong oral history o saling-bibig.</span>\n<span class=\"fil-sentence\" data-translation=\"Grandfathers and grandmothers tell stories to their children.\">Ang mga lolo at lola ay nagkukuwento sa mga bata.</span>\n<span class=\"fil-sentence\" data-translation=\"They share how life was yonder during the old days of town.\">Ibinabahagi nila kung paano ang buhay noong araw sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Even without books, we can preserve the community memories.\">Kahit walang aklat, napananatili natin ang alaala.</span>\n<span class=\"fil-sentence\" data-translation=\"This oral tradition is a valuable part of our local culture.\">Ito ay isang mahalagang bahagi ng ating kultura.</span>\n<span class=\"fil-sentence\" data-translation=\"Listen carefully when elders are sharing their memories!\">Makinig nang mabuti kapag nagkukuwento ang nakatatanda!</span>",
       "examples": [
         {
-          "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Saling-bibig",
+          "content": "Mga kwento ng lolo at lola tungkol sa nakaraan."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Mga Simbolo sa Komunidad",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The logo of our barangay has drawings and symbols on it.\">Ang logo ng barangay ay may mga guhit at simbolo.</span>\n<span class=\"fil-sentence\" data-translation=\"Each symbol tells a unique story about our local place.\">Ang bawat simbolo ay naglalahad ng kwento ng pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: the symbol of rice stalks represents farming.\">Halimbawa: ang simbolo ng palay ay para sa pagsasaka.</span>\n<span class=\"fil-sentence\" data-translation=\"It shows that rice is the primary source of livelihood.\">Ipinapakita nito na palay ang pangunahing kabuhayan.</span>\n<span class=\"fil-sentence\" data-translation=\"The symbol of a gear represents factories and industries.\">Ang simbolo ng gear o makina ay para sa pabrika.</span>\n<span class=\"fil-sentence\" data-translation=\"The color blue symbolizes the nearby sea or flowing river.\">Ang kulay asul naman ay sumasagisag sa malapit na dagat.</span>\n<span class=\"fil-sentence\" data-translation=\"The logo gives a visual identity to our local barangay.\">Ang logo ay nagbibigay-identidad sa ating barangay.</span>\n<span class=\"fil-sentence\" data-translation=\"Observe the seal or logo of your own barangay hall!\">Suriin ang selyo o logo ng inyong sariling barangay!</span>",
       "examples": [
         {
-          "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Simbolo sa Logo",
+          "content": "palay (pagsasaka), gear (industriya), asul (tubig/ilog)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Katutubong Sining at Disenyo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Every community has its own native art and designs.\">Bawat komunidad ay may sariling mga likhang sining.</span>\n<span class=\"fil-sentence\" data-translation=\"These reflect the history and skill of our ancestors.\">Sinasalamin nito ang kasaysayan at galing ng ninuno.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: wood carvings, woven cloths, and clay pots.\">Halimbawa: mga ukit sa kahoy, habi ng tela, at palayok.</span>\n<span class=\"fil-sentence\" data-translation=\"These designs contain native patterns from old generations.\">Ang mga disenyong ito ay may mga katutubong pattern.</span>\n<span class=\"fil-sentence\" data-translation=\"Usually they use shapes found in nature like leaves.\">Karaniwan silang gumagamit ng mga hugis sa kalikasan.</span>\n<span class=\"fil-sentence\" data-translation=\"Such as flowers, green leaves, sun, and sea waves.\">Tulad ng mga bulaklak, dahon, araw, at alon ng dagat.</span>\n<span class=\"fil-sentence\" data-translation=\"This art is an important part of our barangay culture.\">Ang sining na ito ay bahagi ng kultura ng barangay.</span>\n<span class=\"fil-sentence\" data-translation=\"Create your own design using natural shapes on paper!\">Gumawa ng sariling disenyo gamit ang natural na hugis!</span>",
       "examples": [
         {
-          "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Katutubong Sining",
+          "content": "ukit sa kahoy, habi ng tela, palayok na may disenyo"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Mga Lokal na Awitin at Sayaw",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Local folk songs describe the daily way of life of people.\">Ang mga lokal na awitin ay naglalarawan ng buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: the folk song 'Leron Leron Sinta' in Laguna.\">Halimbawa: ang awiting 'Leron Leron Sinta' sa Laguna.</span>\n<span class=\"fil-sentence\" data-translation=\"It shows farming activities and picking of sweet fruits.\">Ito ay nagpapakita ng pagsasaka at pamimitas ng prutas.</span>\n<span class=\"fil-sentence\" data-translation=\"There are also native folk dances in our local community.\">Mayroon ding mga katutubong sayaw sa ating komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"Dances express gratitude for a bountiful harvest yonder.\">Ang sayaw ay naglalahad ng pasasalamat sa magandang ani.</span>\n<span class=\"fil-sentence\" data-translation=\"We sing these songs during our local town festivals.\">Inaawit natin ang mga ito sa mga pista ng bayan natin.</span>\n<span class=\"fil-sentence\" data-translation=\"This belongs to the historical heritage of our community.\">Bahagi ito ng makasaysayang pamana ng ating komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"Practice singing Leron Leron Sinta with your classmates!\">Magsanay sa pag-awit ng Leron Leron Sinta sa klase!</span>",
       "examples": [
         {
-          "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Lokal na Awitin",
+          "content": "Leron Leron Sinta (pagsasaka at pamumuhay)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Ang Pagsusuri",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze a short story of our local history.\">Suriin natin ang isang kwento ng ating kasaysayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Read: 'Barangay San Jose was founded in the year 1950.'\">Basahin: 'Itinatag ang Barangay San Jose noong 1950.'</span>\n<span class=\"fil-sentence\" data-translation=\"Identify the place mentioned in our statement yonder.\">Tukuyin ang pook na binanggit sa ating pahayag.</span>\n<span class=\"fil-sentence\" data-translation=\"The place is 'Barangay San Jose' which is proper.\">Ang pook ay 'Barangay San Jose' na isang pantangi.</span>\n<span class=\"fil-sentence\" data-translation=\"Identify the time period mentioned in our statement.\">Tukuyin ang panahon na binanggit sa ating pahayag.</span>\n<span class=\"fil-sentence\" data-translation=\"The time is 'in 1950' which is a specific year.\">Ang panahon ay 'noong 1950' na isang tiyak na taon.</span>\n<span class=\"fil-sentence\" data-translation=\"The founding is the event that has deep historical meaning.\">Ang pagtatag ay ang pangyayaring may malalim na saysay.</span>\n<span class=\"fil-sentence\" data-translation=\"Did you find all three elements in your analysis today?\">Nahanap mo ba ang tatlong elemento sa pagsusuri?</span>",
       "examples": [
         {
-          "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Pagsusuri",
+          "content": "Pook -> Barangay San Jose, Panahon -> 1950, Pangyayari -> Pagtatag"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Primary vs Secondary",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the following sources of historical data.\">Suriin natin ang mga sumusunod na batayan ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"If you find an old coin dated with the year 1900,\">Kung nakakita ka ng lumang barya na may taong 1900,</span>\n<span class=\"fil-sentence\" data-translation=\"this is a primary source (artifact) for the place.\">ito ay isang primaryang batayan (artifact) sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"If you read the book 'History of Laguna' in class,\">Kung binabasa mo ang aklat na 'Kasaysayan ng Laguna',</span>\n<span class=\"fil-sentence\" data-translation=\"this is a secondary source in our history lesson today.\">ito ay isang sekondaryang batayan sa ating aralin.</span>\n<span class=\"fil-sentence\" data-translation=\"The book was written by a researcher after studying coins.\">Ang aklat ay isinulat ng mananaliksik pagkatapos.</span>\n<span class=\"fil-sentence\" data-translation=\"Both sources of data are valuable for historical study.\">Parehong mahalaga ang dalawang batayan sa kasaysayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Which would you prefer to examine: the coin or the book?\">Alin ang mas nais mong suriin: barya o aklat?</span>",
       "examples": [
         {
-          "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Batayan",
+          "content": "lumang barya -> primary, textbook -> secondary"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Timeline ng Pook",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's create a timeline for our local barangay hall.\">Gumawa tayo ng timeline ng isang barangay hall.</span>\n<span class=\"fil-sentence\" data-translation=\"2000: The small barangay hall was founded in the place.\">2000: Itinatag ang maliit na barangay hall sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"2010: The building was expanded and a clinic was added.\">2010: Pinalawak ang gusali at nagdagdag ng klinika.</span>\n<span class=\"fil-sentence\" data-translation=\"2020: A new sports complex was built next to the hall.\">2020: Nagpatayo ng bagong sports complex sa tabi nito.</span>\n<span class=\"fil-sentence\" data-translation=\"Notice the correct chronological order of the years yonder.\">Pansinin ang tamang pagkakasunod-sunod ng mga taon.</span>\n<span class=\"fil-sentence\" data-translation=\"From the earliest (2000) leading to the present (2020).\">Mula sa pinakamaaga (2000) patungo sa kasalukuyan (2020).</span>\n<span class=\"fil-sentence\" data-translation=\"This shows the physical growth and development of the place.\">Ipinapakita nito ang paglago at pag-unlad ng pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Copy this timeline structure into your own notebook now!\">Kopyahin ang timeline na ito sa iyong sariling notebook!</span>",
       "examples": [
         {
-          "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad in other contexts."
+          "title": "Timeline",
+          "content": "2000 (Pagtatag) -> 2010 (Klinika) -> 2020 (Sports Complex)"
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 1",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Guided Practice: Pagsusuri ng Logo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze the logo of a barangay near our school.\">Suriin natin ang logo ng isang barangay sa tabi natin.</span>\n<span class=\"fil-sentence\" data-translation=\"There is a drawing of three fish and a net in the middle.\">May guhit ng tatlong isda at lambat sa gitna nito.</span>\n<span class=\"fil-sentence\" data-translation=\"What is the meaning of the fish on this local logo?\">Ano ang ibig sabihin ng mga isda sa logo ng pook?</span>\n<span class=\"fil-sentence\" data-translation=\"It shows that fishing is the main source of livelihood there.\">Ipinapakita nito na pangingisda ang kabuhayan doon.</span>\n<span class=\"fil-sentence\" data-translation=\"The place is near a lake or sea, hence the fish symbol.\">Ang pook ay malapit sa lawa o dagat kaya may isda.</span>\n<span class=\"fil-sentence\" data-translation=\"This expresses the story of the people's way of life.\">Ito ay naglalahad ng kwento ng pamumuhay ng tao.</span>\n<span class=\"fil-sentence\" data-translation=\"It is not just decoration; it holds a deep meaning yonder.\">Ito ay hindi lamang palamuti; may malalim na saysay.</span>\n<span class=\"fil-sentence\" data-translation=\"Draw the logo of your own barangay on a clean sheet of paper!\">Iguhit ang logo ng iyong barangay sa isang malinis na papel!</span>",
       "examples": [
         {
-          "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 1",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsusuri ng Logo",
+          "content": "isda at lambat -> kabuhayan sa pangingisda (fishing)"
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 2",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Maling Pagtukoy sa Nakaraan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid treating ordinary past events as historical events.\">Iwasan ang pagtrato sa ordinaryong bagay bilang kasaysayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'My eating of bread yesterday is part of history.'\">Mali: 'Ang pagkain ko ng tinapay kahapon ay kasaysayan.'</span>\n<span class=\"fil-sentence\" data-translation=\"It is just the past, but has no major significance to the town.\">Ito ay nakaraan lamang, ngunit walang saysay sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"History must have a major and lasting impact on the community.\">Ang kasaysayan ay dapat may malaking epekto sa lahat.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: the construction of the first bridge over the river.\">Halimbawa: ang pagpapatayo ng unang tulay sa ilog.</span>\n<span class=\"fil-sentence\" data-translation=\"This changed transport for the entire local community.\">Ito ay binago ang transportasyon ng buong komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"Make sure the event is significant in your history logs!\">Tiyakin na makabuluhan ang pangyayari sa iyong logs!</span>\n<span class=\"fil-sentence\" data-translation=\"This is the true meaning of history in our social studies!\">Ito ang totoong kahulugan ng kasaysayan sa atin!</span>",
       "examples": [
         {
-          "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 2",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Maling Pagtukoy",
+          "content": "nakaraan (past - ordinary) vs. kasaysayan (history - significant)"
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 3",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Maling Pagsulat ng Timeline",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid mixing up the years when writing a timeline.\">Iwasan ang paghahalo ng mga taon sa timeline.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 2020 (Founding) -> 2000 (Clinic) -> 2010 (Road).\">Mali: 2020 (Pagtatag) -> 2000 (Klinika) -> 2010 (Daan).</span>\n<span class=\"fil-sentence\" data-translation=\"This does not show the correct flow of time in history.\">Hindi nito ipinapakita ang tamang daloy ng panahon.</span>\n<span class=\"fil-sentence\" data-translation=\"We must start with the oldest year on the left side.\">Dapat magsimula sa pinakamatandang taon sa kaliwa.</span>\n<span class=\"fil-sentence\" data-translation=\"And end with the most recent year on the right side.\">At magtapos sa pinakabagong taon sa kanang bahagi.</span>\n<span class=\"fil-sentence\" data-translation=\"Correct: 2000 (Founding) -> 2010 (Road) -> 2020 (Clinic).\">Tama: 2000 (Pagtatag) -> 2010 (Daan) -> 2020 (Klinika).</span>\n<span class=\"fil-sentence\" data-translation=\"This is the correct chronological sequence of our years.\">Ito ang wastong pagkakasunod-sunod ng mga taon natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Check the years carefully before drawing your timeline now!\">Suriin ang mga taon bago iguhit ang timeline ngayon!</span>",
       "examples": [
         {
-          "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 3",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Timeline Error",
+          "content": "mali: naghalong taon -> tama: sunod-sunod na taon"
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 4",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Maling Paglalarawan ng Simbolo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid making up meanings for community symbols arbitrarily.\">Iwasan ang pag-imbento ng kahulugan ng logo.</span>\n<span class=\"fil-sentence\" data-translation=\"Do not say the gear on the logo represents a carriage wheel.\">Huwag sabihing ang gear sa logo ay gulong ng karwahe.</span>\n<span class=\"fil-sentence\" data-translation=\"In modern seals, the gear represents factories and industry.\">Sa makabagong selyo, ang gear ay para sa industriya.</span>\n<span class=\"fil-sentence\" data-translation=\"Verify the history of the place before writing descriptions.\">Tiyakin ang kasaysayan ng pook bago maglahad ng tala.</span>\n<span class=\"fil-sentence\" data-translation=\"You can ask the barangay officials inside the barangay hall.\">Maaari mong tanungin ang mga barangay officials doon.</span>\n<span class=\"fil-sentence\" data-translation=\"They know the real meaning and history of the seal yonder.\">Sila ang nakakaalam ng tunay na kahulugan ng selyo.</span>\n<span class=\"fil-sentence\" data-translation=\"Accurate records show excellent and high-quality work.\">Ang tumpak na tala ay nagpapakita ng mahusay na gawa.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful and analytical with every symbol today!\">Maging maingat at mapanuri sa bawat simbolo ngayon!</span>",
       "examples": [
         {
-          "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 4",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Simbolo Pagsusuri",
+          "content": "gear = industriya (pabrika), HINDI gulong ng karwahe"
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 1",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Kasaysayan ng Ating Bayan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Our barangay's history is part of our town's wider history.\">Ang kasaysayan ng barangay ay bahagi ng bayan natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Each small place contributes to the history of the province.\">Ang bawat maliit na pook ay nag-aambag sa lalawigan.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: the history of Calamba within our province Laguna.\">Halimbawa: ang kasaysayan ng Calamba sa Laguna natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Laguna is known for rich rice fields and beautiful rivers.\">Ang Laguna ay kilala sa saganang palay at magandang ilog.</span>\n<span class=\"fil-sentence\" data-translation=\"Our folk songs display this beautiful regional culture.\">Ang mga katutubong awitin ay nagpapakita ng kulturang ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We take pride in the history of our own local place yonder.\">Ipinagmamalaki natin ang kasaysayan ng ating sariling pook.</span>\n<span class=\"fil-sentence\" data-translation=\"This gives us strength and unity in our community life today.\">Ito ay nagbibigay sa atin ng lakas at pagkakaisa ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's love our own barangay and province at all times!\">Mahalin natin ang ating barangay at lalawigan palagi!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 1",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 1",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Ugnayan",
+          "content": "barangay -> bayan (town) -> lalawigan (province)"
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 2",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Karagdagang Pagsasanay 1",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 2",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 2",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Pagsasanay 1",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "title": "Buod ng Unang Linggo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed all the slides for this week.\">Binabati kita! Natapos mo ang lahat ng slide sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about the four elements of history yonder.\">Natutunan natin ang apat na elemento ng kasaysayan.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about people, place, time, and events.\">Natutunan natin ang tao, lugar, panahon, at pangyayari.</span>\n<span class=\"fil-sentence\" data-translation=\"We discovered primary and secondary sources of history.\">Nalaman natin ang tungkol sa primary at secondary sources.</span>\n<span class=\"fil-sentence\" data-translation=\"We created timelines and studied community symbols.\">Gumawa tayo ng timeline at nag-aral ng mga simbolo.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready to answer the quiz and challenges today?\">Handa ka na bang sumagot sa mga pagsusulit at hamon?</span>\n<span class=\"fil-sentence\" data-translation=\"Show your love for the history of your local place!\">Ipakita ang iyong pagmamahal sa kasaysayan ng pook!</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent historical researcher today!\">Ipagpatuloy ang pagiging mahusay na historyador ngayon!</span>",
       "examples": [
         {
-          "title": "Summary Points",
-          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
-        },
-        {
-          "title": "Reflection",
-          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+          "title": "Tandaan",
+          "content": "Kasaysayan = May saysay. Elemento = Tao, Lugar, Panahon, Pangyayari."
         }
       ]
     }
@@ -6939,316 +6659,346 @@ window.WEEK1_ADVANCED_DATA.makabansa = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Ano ang tawag sa pag-aaral ng may-saysay na nakaraang pangyayari sa komunidad?",
       "options": [
-        "Core term: Pamilya",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "heograpiya",
+        "kasaysayan",
+        "matematika",
+        "sining"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang HINDI kabilang sa apat na elemento ng kasaysayan?",
+      "options": [
+        "tao",
+        "lugar",
+        "panahon",
+        "laruan"
+      ],
+      "answer": 3
+    },
+    {
+      "type": "choice",
+      "q": "Sino ang pambansang bayani na ipinanganak sa Lungsod ng Calamba, Laguna?",
+      "options": [
+        "Andres Bonifacio",
+        "Dr. Jose Rizal",
+        "Apolinario Mabini",
+        "Emilio Aguinaldo"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang tawag sa pagkakasunod-sunod ng mga taon at pangyayari sa kasaysayan?",
+      "options": [
+        "mapa",
+        "timeline",
+        "logo",
+        "selyo"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang isang halimbawa ng primary source na artifact?",
+      "options": [
+        "history textbook",
+        "lumang barya",
+        "kwento ng guro",
+        "encyclopedia"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang isang halimbawa ng nakasulat na primary source?",
+      "options": [
+        "lumang sulat o diary",
+        "kasaysayang aklat ngayon",
+        "monumento",
+        "palayok"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Ano ang tawag sa mga aklat o textbooks na isinulat pagkatapos ng pangyayari?",
       "options": [
-        "Core term: Tungkulin",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "primary source",
+        "sekondaryang batayan",
+        "artifact",
+        "oral history"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Saan karaniwang nagmumula ang pangalan ng mga lumang barangay?",
       "options": [
-        "Core term: Komunidad",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "tatak ng sapatos",
+        "halaman, hayop o patron ng pook",
+        "mga dayuhang bansa",
+        "mga modernong sasakyan"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Ano ang isinasagisag ng simbolo ng palay sa logo ng isang barangay?",
       "options": [
-        "Core term: Kasaysayan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "pangingisda",
+        "pagsasaka o agrikultura",
+        "pabrika at makina",
+        "pananalangin"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad is correct?",
+      "q": "Tama o Mali: Ang pag-aaral ng kasaysayan ay nakatutulong upang maunawaan ang kasalukuyan.",
       "options": [
-        "Statement A: The core rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Ano ang tawag sa kasaysayan na isinasalin sa pamamagitan ng pagkukuwento ng mga lolo at lola?",
       "options": [
-        "Core term: Landmarks",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "nakasulat na batas",
+        "oral history (saling-bibig)",
+        "monumento",
+        "mapa"
       ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad is a key topic in the study of ___.",
-      "answer": "Makabansa"
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Alin sa mga sumusunod ang simbolo ng industriya at pabrika sa logo ng komunidad?",
       "options": [
-        "Core term: Tradisyon",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "palay",
+        "gear o gulong ng makina",
+        "ilog",
+        "araw"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang ipinapakita ng timeline ng paglaki ng isang bata?",
+      "options": [
+        "mga paboritong pagkain",
+        "pagbabago sa paglipas ng panahon",
+        "mga tatak ng laruan",
+        "mga pangalan ng hayop"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Aling awitin ang isang lokal na folk song na naglalarawan ng pamumuhay sa Laguna?",
+      "options": [
+        "Leron Leron Sinta",
+        "Happy Birthday",
+        "Lupang Hinirang",
+        "Bahay Kubo"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Tukuyin ang elemento ng lugar sa pahayag: 'Ipinanganak si Rizal sa Calamba noong 1861.'",
       "options": [
-        "Core term: Lokasyon",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Rizal",
+        "Calamba",
+        "noong 1861",
+        "Ipinanganak"
       ],
-      "answer": 0
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Tukuyin ang elemento ng panahon sa pahayag: 'Itinatag ang paaralan noong taong 2005.'",
+      "options": [
+        "paaralan",
+        "noong taong 2005",
+        "Itinatag",
+        "paaralang pook"
+      ],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad is correct?",
+      "q": "Tama o Mali: Ang lumang mapa ng isang bayan ay isang primaryang batayan ng kasaysayan nito.",
       "options": [
-        "Statement A: The core rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Alin sa mga sumusunod ang pambalana sa pook na makasaysayan?",
       "options": [
-        "Core term: Pamilya",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "monumento",
+        "Rizal Park",
+        "Fort Santiago",
+        "Bahay ni Rizal"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Anong simbolo ang karaniwang ginagamit sa logo upang ipakita ang ilog o dagat?",
       "options": [
-        "Core term: Tungkulin",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "kulay berde",
+        "guhit ng alon o kulay asul",
+        "guhit ng palay",
+        "guhit ng makina"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Sino ang gumagawa ng mga pangyayaring nagiging bahagi ng kasaysayan?",
       "options": [
-        "Core term: Komunidad",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "mga kotse",
+        "mga tao",
+        "mga laruan",
+        "mga pusa"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad is a key topic in the study of ___.",
-      "answer": "Makabansa"
+      "type": "choice",
+      "q": "Paano isinusulat ang timeline ng mga taon?",
+      "options": [
+        "mula kasalukuyan patungong nakaraan",
+        "mula pinakamaagang taon hanggang pinakahuli",
+        "walang pagkakasunod-sunod",
+        "mula pinakamalaking numero lamang"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang HINDI primary source?",
+      "options": [
+        "lumang barya",
+        "diary ng sundalo",
+        "aklat sa kasaysayan na isinulat nitong 2020",
+        "lumang larawan"
+      ],
+      "answer": 2
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad is correct?",
+      "q": "Tama o Mali: Ang pagkain mo ng saging kaninang umaga ay isang makasaysayang pangyayari sa inyong barangay.",
       "options": [
-        "Statement A: The core rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Alin sa mga sumusunod na hugis ang katutubong disenyo mula sa kalikasan?",
       "options": [
-        "Core term: Landmarks",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "kotse",
+        "dahon at bulaklak",
+        "telebisyon",
+        "computer"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Bakit mahalagang ingatan ang mga primary source tulad ng lumang sulat at barya?",
       "options": [
-        "Core term: Timeline",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "upang ibenta sa palengke",
+        "upang mapanatili ang tumpak na tala ng kasaysayan",
+        "upang gawing laruan ng bata",
+        "upang itapon sa ilog"
       ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
-      "options": [
-        "Core term: Tradisyon",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
-      "options": [
-        "Core term: Lokasyon",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad is correct?",
-      "options": [
-        "Statement A: The core rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad are not relevant to these cases."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad is a key topic in the study of ___.",
-      "answer": "Makabansa"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
-      "options": [
-        "Core term: Tungkulin",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
-      "options": [
-        "Core term: Komunidad",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
-      "options": [
-        "Core term: Kasaysayan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad is correct?",
-      "options": [
-        "Statement A: The core rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad are not relevant to these cases."
-      ],
-      "answer": 0
+      "answer": 1
     }
   ],
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad, what is the first priority?",
+      "q": "Challenge: Aling batayan ang pinakamahusay gamitin upang malaman ang buhay sa barangay noong panahon ng Hapon (1942)?",
       "options": [
-        "Analyze key terms and variables",
-        "Guess the answer immediately",
-        "Skip the question",
-        "Use unrelated formulas"
+        "isang diary na isinulat ng isang lola noong 1943 sa pook",
+        "isang aklat na isinulat ng dayuhan nitong 2025",
+        "isang kwento sa komiks",
+        "isang modernong mapa ng barangay"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Challenge: Kung ang isang barangay logo ay may simbolo ng gear at palay, ano ang mahihinuha mo sa pamumuhay doon?",
       "options": [
-        "The primary variable: Sarili",
-        "An external variable",
-        "No variable",
-        "All variables equally"
+        "Pawang mga mangingisda ang nakatira doon.",
+        "May ugnayan ng agrikultura at industriya sa kanilang kabuhayan.",
+        "Walang kabuhayan ang mga mamamayan doon.",
+        "Puro sining lamang ang ginagawa doon."
       ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad.",
-      "options": [
-        "Statement A: Proper methodology leads to a correct and verified solution.",
-        "Statement B: Rushing through calculations is safe and rarely causes errors."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
-      "answer": "pamilya"
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad?",
+      "q": "Challenge: Aling pagkakasunod-sunod ng timeline ang tama para sa kasaysayan ng isang eskwelahan?",
       "options": [
-        "Building logical reasoning and problem-solving skills",
-        "Forgetting previous lessons",
-        "Speeding up without accuracy",
-        "None of these"
+        "2005 (Pagtatag) -> 2015 (Bagong Aklatan) -> 2025 (Sports Center)",
+        "2025 (Sports Center) -> 2015 (Bagong Aklatan) -> 2005 (Pagtatag)",
+        "2015 (Bagong Aklatan) -> 2005 (Pagtatag) -> 2025 (Sports Center)",
+        "2005 (Pagtatag) -> 2025 (Sports Center) -> 2015 (Bagong Aklatan)"
       ],
       "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Paano nagkakaugnay ang kasaysayan ng inyong barangay sa kasaysayan ng inyong bayan o lungsod?",
+      "options": [
+        "Ang barangay ay may hiwalay na bansa at batas.",
+        "Ang kasaysayan ng bawat barangay ang bumubuo sa mas malawak na kwento ng bayan.",
+        "Walang ugnayan ang dalawa sa kasaysayan.",
+        "Ang bayan ay walang kinalaman sa barangay."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Suriin ang pahayag: 'Ang tulay na itinayo noong 1920 ay nagdugtong sa dalawang barangay.' Anong uri ng batayan ang pisikal na tulay na ito ngayon?",
+      "options": [
+        "Nakasulat na dokumento",
+        "Artifact o pisikal na primary source",
+        "Sekondaryang aklat",
+        "Oral history lamang"
+      ],
+      "answer": 1
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad",
-    "desc": "Perform a simple observation of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Timeline ng Ating Pook",
+    "desc": "Kausapin ang iyong magulang o lolo at lola tungkol sa kasaysayan ng inyong tahanan o barangay. Sumulat ng tatlong mahahalagang pangyayari sa nakaraan (hal. taon kung kailan lumipat sa bahay, o taon kung kailan nagkaroon ng sementadong kalsada). Iayos ang mga ito sa isang timeline sa papel. Iguhit ang bawat pangyayari at ipaliwanag ang iyong timeline sa pamilya.",
     "labels": [
-      "Accurate explanation of concept",
-      "Clarity and confidence in presentation",
-      "Neatness of written notes"
+      "Maayos na naiguhit ang timeline na may tamang pagkakasunod-sunod",
+      "Wastong natukoy ang tatlong mahahalagang pangyayari at taon",
+      "Malinaw na naipaliwanag ang kasaysayan batay sa saling-bibig ng pamilya"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Pamilya and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of sarili</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 1: Mahahalagang Elemento ng Kasaysayan ng Komunidad.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 1: Elemento ng Kasaysayan</h3>\n                  <p class=\"ws-instruction\">Tukuyin ang elemento ng kasaysayan (<strong>Tao</strong>, <strong>Lugar</strong>, <strong>Panahon</strong>, o <strong>Pangyayari</strong>) para sa nakasalungguhit na salita gamit ang stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Ipinanganak si <u>Dr. Jose Rizal</u> sa Calamba noong Hunyo 19, 1861.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Tao</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Itinatag ang Barangay San Jose noong <u>taong 1950</u>.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Panahon</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Nagkaroon ng malaking <u>pista ng bayan</u> sa plaza.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pangyayari</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 2: Primary vs. Secondary Sources</h3>\n                  <p class=\"ws-instruction\">Isulat kung ang sumusunod na batayan ay <strong>Primary</strong> o <strong>Secondary</strong> gamit ang iyong stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Isang lumang barya na nakuha sa ilalim ng lupa: <span class=\"fil-sentence\" data-translation=\"(An old coin dug from the ground:)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Primary</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Aklat sa kasaysayan ng Pilipinas na ginagamit sa Grade 3: <span class=\"fil-sentence\" data-translation=\"(A Philippine history book used in Grade 3:)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Secondary</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Diary na isinulat ng isang sundalo noong panahon ng digmaan: <span class=\"fil-sentence\" data-translation=\"(Diary written by a soldier during the war:)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Primary</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 3: Pagsusuri ng Barangay Timeline</h3>\n                  <p class=\"ws-instruction\">Ayusin ang mga sumusunod na taon at pangyayari sa tamang pagkakasunod-sunod sa timeline sa ibaba.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">A. 2020: Pagtatayo ng bagong tulay. <br> B. 2000: Pagtatatag ng barangay hall. <br> C. 2010: Pagpapatayo ng health center.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">2000: Pagtatatag ng barangay hall. -> 2010: Pagpapatayo ng health center. -> 2020: Pagtatayo ng bagong tulay.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -7257,355 +7007,255 @@ window.WEEK1_ADVANCED_DATA.gmrc = {
   "color": "#06b6d4",
   "icon": "🧘‍♂️",
   "title": "GMRC",
-  "subtitle": "Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan",
+  "subtitle": "Week 1: Tiwala sa Sarili - Aking Hilig at Kakayahan",
   "slides": [
     {
-      "title": "Introduction to Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan",
-      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in GMRC.",
+      "title": "Maligayang Pagdating sa GMRC!",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Hello, good life! Welcome to GMRC Week 1!\">Kumusta, magandang buhay! Welcome sa GMRC Week 1!</span>\n<span class=\"fil-sentence\" data-translation=\"This week, we will study about self-confidence.\">Ngayong linggo, mag-aaral tayo tungkol sa tiwala sa sarili.</span>\n<span class=\"fil-sentence\" data-translation=\"Self-confidence is believing in your own abilities yonder.\">Ang tiwala sa sarili ay naniniwala sa sariling galing.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's recognize our own personal hobbies and interests.\">Kilalanin natin ang ating mga sariling hilig o interes.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's also identify our talents and unique abilities today.\">Tukuyin din natin ang ating mga talento at kakayahan ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"This helps us become happy and successful in our lives.\">Nakatutulong ito upang maging masaya at matagumpay tayo.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready to discover your unique and special talents?\">Handa ka na bang tuklasin ang iyong mga natatanging galing?</span>\n<span class=\"fil-sentence\" data-translation=\"Let's start exploring with a smile and confidence today!\">Magsimula tayong mag-explore nang may ngiti at tiwala ngayon!</span>",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan and apply them in daily situations."
-        },
-        {
-          "title": "Real-world Connection",
-          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+          "title": "Layunin ng Linggo",
+          "content": "Makilala ang sariling hilig at kakayahan bilang bahagi ng tiwala sa sarili."
         }
       ]
     },
     {
-      "title": "Core Vocabulary & Terms",
-      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "title": "Ano ang Tiwala sa Sarili?",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Self-confidence is a very important personal quality.\">Ang tiwala sa sarili ay isang mahalagang katangian natin.</span>\n<span class=\"fil-sentence\" data-translation=\"It is the belief that you can achieve and do things yonder.\">Ito ay ang paniniwala na kaya mong gawin ang isang bagay.</span>\n<span class=\"fil-sentence\" data-translation=\"E.g., believing that you can speak in front of the class.\">E.g., ang paniniwala na kaya mong magsalita sa klase.</span>\n<span class=\"fil-sentence\" data-translation=\"You are not afraid to make mistakes because you learn.\">Hindi ka natatakot magkamali dahil alam mong matututo ka.</span>\n<span class=\"fil-sentence\" data-translation=\"Self-confidence begins in our hearts yonder in our lives.\">Ang tiwala sa sarili ay nagsisimula sa ating puso ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"We accept our own hobbies and unique abilities yonder.\">Tinatanggap natin ang ating mga hilig at kakayahan doon.</span>\n<span class=\"fil-sentence\" data-translation=\"This helps keep us open to challenges and new tasks.\">Nakatutulong ito upang maging bukas tayo sa mga pagsubok.</span>\n<span class=\"fil-sentence\" data-translation=\"How can you show self-confidence in your school today?\">Paano mo maipapakita ang tiwala sa sarili sa paaralan?</span>",
       "examples": [
         {
-          "title": "Term 1: Pagmamahal",
-          "content": "A foundational concept in GMRC that helps us categorize and understand details."
-        },
-        {
-          "title": "Term 2: Kalinisan",
-          "content": "An active process or skill used to analyze situations and solve problems."
+          "title": "Tiwala sa Sarili",
+          "content": "Paniniwala sa sariling lakas at kakayahang matuto."
         }
       ]
     },
     {
-      "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. By looking closely at how these ideas work together, we can build a strong understanding of GMRC.",
+      "title": "Ang Aking Hilig at Interes",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Hobbies are activities you love doing every single day.\">Ang hilig ay mga bagay na gusto mong gawin araw-araw.</span>\n<span class=\"fil-sentence\" data-translation=\"These give us joy and happiness in our free time yonder.\">Ito ang nagbibigay sa atin ng saya sa ating libreng oras.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: reading books, drawing pictures, or singing songs.\">Halimbawa: pagbabasa ng aklat, pagguhit, o pag-awit.</span>\n<span class=\"fil-sentence\" data-translation=\"Others love playing local sports activities like sipa.\">Ang iba ay hilig ang maglaro ng sports tulad ng sipa.</span>\n<span class=\"fil-sentence\" data-translation=\"Some love caring for green plants in the school garden.\">Ang iba naman ay hilig ang mag-alaga ng halaman sa hardin.</span>\n<span class=\"fil-sentence\" data-translation=\"Every single child has their own unique interest in life.\">Ang bawat bata ay may kani-kanilang sariling interes.</span>\n<span class=\"fil-sentence\" data-translation=\"Knowing your hobbies is the start of knowing yourself yonder.\">Ang pag-alam sa hilig ay simula ng pagkilala sa sarili.</span>\n<span class=\"fil-sentence\" data-translation=\"What is your absolute favorite hobby during weekends?\">Ano ang pinakagusto mong hilig kapag walang pasok?</span>",
       "examples": [
         {
-          "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in simple activities."
-        },
-        {
-          "title": "Why It Matters",
-          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+          "title": "Mga Hilig",
+          "content": "pagguhit (drawing), pag-awit (singing), pagbasa (reading)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Aking Talento at Kakayahan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Abilities are things that you perform and do very well.\">Ang kakayahan ay mga bagay na mahusay mong nagagawa.</span>\n<span class=\"fil-sentence\" data-translation=\"These are also called talents given to us in our lives.\">Ito ay tinatawag ding talento na ibinigay sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: good at dancing, singing, or drawing pictures.\">Halimbawa: mahusay sumayaw, kumanta, o mag-drawing.</span>\n<span class=\"fil-sentence\" data-translation=\"Others are excellent in math or science subjects yonder.\">Ang iba ay magaling sa matematika o science sa klase.</span>\n<span class=\"fil-sentence\" data-translation=\"Some are very good at storytelling or speaking in public.\">Ang iba naman ay magaling magkwento o magsalita.</span>\n<span class=\"fil-sentence\" data-translation=\"Every one of us has a unique and special talent today.\">Ang bawat isa sa atin ay may natatanging talento ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"We need to practice and use these talents for good things.\">Kailangan natin itong linangin at gamitin sa mabuti.</span>\n<span class=\"fil-sentence\" data-translation=\"What is your own special talent in your school class?\">Ano ang iyong natatanging talento sa inyong klase?</span>",
       "examples": [
         {
-          "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Kakayahan",
+          "content": "pagsayaw (dancing), pagkuwenta (computing), pagsulat (writing)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Pagtanggap sa Sariling Kakayahan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"It is important to accept what we can do in our lives.\">Mahalagang tanggapin natin kung ano ang kaya natin.</span>\n<span class=\"fil-sentence\" data-translation=\"We do not need to compare ourselves with other students.\">Hindi natin kailangang ihambing ang sarili sa iba.</span>\n<span class=\"fil-sentence\" data-translation=\"If your seatmate in school is very good at dancing,\">Kung magaling sumayaw ang iyong katabi sa paaralan,</span>\n<span class=\"fil-sentence\" data-translation=\"do not be sad if you prefer drawing pictures instead.\">huwag malungkot kung mas gusto mo ang mag-drawing.</span>\n<span class=\"fil-sentence\" data-translation=\"Every talent is valuable and has its own beauty yonder.\">Ang bawat galing ay mahalaga at may sariling ganda.</span>\n<span class=\"fil-sentence\" data-translation=\"Accepting yourself strengthens your inner self-confidence.\">Ang pagtanggap sa sarili ay nagpapatibay ng tiwala.</span>\n<span class=\"fil-sentence\" data-translation=\"Be proud of your own hobbies without any fear yonder today.\">Ipagmalaki ang iyong sariling hilig nang walang takot.</span>\n<span class=\"fil-sentence\" data-translation=\"Write down two things you are proud of about yourself now!\">Magsulat ng dalawang bagay na ipinagmamalaki mo ngayon!</span>",
       "examples": [
         {
-          "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Pagtanggap",
+          "content": "Ipagmalaki ang sariling galing nang walang pag-aalinlangan."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pagsasanay at Pag-unlad",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Talent grows through constant practice and dedication.\">Ang talento ay lumalago sa pamamagitan ng pagsasanay.</span>\n<span class=\"fil-sentence\" data-translation=\"Nobody becomes excellent without practicing their craft daily.\">Walang taong naging mahusay nang hindi nag-eensayo.</span>\n<span class=\"fil-sentence\" data-translation=\"If you want to be a painter, draw pictures every single day.\">Kung nais mong maging pintor, gumuhit ka araw-araw.</span>\n<span class=\"fil-sentence\" data-translation=\"If you want to be a writer, write sentences on your paper.\">Kung nais mong maging manunulat, sumulat ka sa papel.</span>\n<span class=\"fil-sentence\" data-translation=\"Do not give up when you make mistakes at the start yonder.\">Huwag sumuko kapag nagkamali ka sa simula ng laro.</span>\n<span class=\"fil-sentence\" data-translation=\"Making mistakes is a natural part of learning in school.\">Ang pagkakamali ay bahagi ng pagkatuto sa eskwela.</span>\n<span class=\"fil-sentence\" data-translation=\"Putting in effort shows our self-confidence and strength.\">Ang pagsisikap ay nagpapakita ng tiwala sa sarili natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's practice together with our teachers and friends today!\">Magsanay tayo kasama ang ating guro at mga kaibigan!</span>",
       "examples": [
         {
-          "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Pag-unlad",
+          "content": "Pagsasanay + Pagsisikap = Paghusay ng Kakayahan"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pagtagumpay sa Takot",
+      "text": "<span class=\"fil-sentence\" data-translation=\"It is very common for children to feel afraid yonder.\">Karaniwan sa mga bata ang maramdaman ang takot.</span>\n<span class=\"fil-sentence\" data-translation=\"We are afraid to speak in front of a large group of people.\">Natatakot tayong magsalita sa harap ng maraming tao.</span>\n<span class=\"fil-sentence\" data-translation=\"But self-confidence helps us overcome this fear yonder.\">Ngunit ang tiwala sa sarili ay tumutulong sa takot.</span>\n<span class=\"fil-sentence\" data-translation=\"Breathe in deeply before starting your report in class.\">Huminga nang malalim bago magsimula ng iyong ulat.</span>\n<span class=\"fil-sentence\" data-translation=\"Think yonder that you can share your knowledge with others.\">Isipin na kaya mong ibahagi ang iyong karunungan doon.</span>\n<span class=\"fil-sentence\" data-translation=\"Courage is the key to defeating fear in our daily lives.\">Ang lakas ng loob ay susi sa pagtagumpay sa takot.</span>\n<span class=\"fil-sentence\" data-translation=\"Try speaking in front of your family members first yonder.\">Subukan mong magsalita sa harap ng iyong pamilya muna.</span>\n<span class=\"fil-sentence\" data-translation=\"This is a great way to train your voice and posture!\">Ito ay magandang paraan upang masanay ang iyong tinig!</span>",
       "examples": [
         {
-          "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Lakas ng Loob",
+          "content": "Paghahanda + Lakas ng loob = Pagtalo sa Takot"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Tiwala sa Sarili at Komunidad",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Self-confidence makes our local community happy today.\">Ang tiwala sa sarili ay nagpapasaya sa komunidad natin.</span>\n<span class=\"fil-sentence\" data-translation=\"When you have confidence, you are ready to help others yonder.\">Kapag may tiwala ka, handa kang tumulong sa iba.</span>\n<span class=\"fil-sentence\" data-translation=\"You can teach writing to your playmate in the barangay.\">Maaari mong ituro ang pagsusulat sa iyong kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"You can also join activities inside the local barangay hall.\">Maaari ka ring sumali sa mga programa sa barangay hall.</span>\n<span class=\"fil-sentence\" data-translation=\"Such as playground events for native games or folk dances.\">Tulad ng mga palaruan ng katutubong laro o sayaw.</span>\n<span class=\"fil-sentence\" data-translation=\"Your talent provides inspiration to many people around you.\">Ang iyong galing ay nagbibigay-inspirasyon sa marami.</span>\n<span class=\"fil-sentence\" data-translation=\"Do not hide your talent; share it with your local place!\">Huwag itago ang iyong talento; ibahagi ito sa pook!</span>\n<span class=\"fil-sentence\" data-translation=\"How can you help your barangay using your unique talent?\">Paano mo matutulungan ang iyong barangay gamit ang galing?</span>",
       "examples": [
         {
-          "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Ibahagi ang Talento",
+          "content": "Gamitin ang galing upang makatulong sa mga kalaro at kapwa."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Pagtukoy sa Hilig",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's practice identifying hobbies and talents today.\">Magsanay tayo sa pagtukoy ng hilig at kakayahan ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"Analyze: 'Matteo loves drawing pictures of flying birds.'\">Suriin: 'Gustong-gusto ni Matteo ang gumuhit ng ibon.'</span>\n<span class=\"fil-sentence\" data-translation=\"Drawing birds is his personal interest or hobby in life.\">Ang pagguhit ng ibon ay ang kanyang 'hilig' sa buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"Because he practices frequently in his school notebook,\">Dahil madalas siyang mag-ensayo sa kanyang notebook,</span>\n<span class=\"fil-sentence\" data-translation=\"he became very skilled at drawing different animals yonder.\">siya ay naging napakahusay mag-drawing ng mga hayop.</span>\n<span class=\"fil-sentence\" data-translation=\"Being good at drawing is his developed talent or ability.\">Ang pagiging mahusay mag-drawing ay ang kanyang kakayahan.</span>\n<span class=\"fil-sentence\" data-translation=\"Were you able to distinguish hobby and ability today?\">Nagawa mo bang pag-ibahin ang hilig at kakayahan ngayon?</span>\n<span class=\"fil-sentence\" data-translation=\"This will help in understanding your own personal talents!\">Ito ay makatutulong sa pag-unawa ng iyong sariling galing!</span>",
       "examples": [
         {
-          "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Pagsusuri",
+          "content": "Gusto (Hilig) -> pagguhit, Galing (Kakayahan) -> mahusay mag-drawing"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Tiwala sa Klase",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's observe Lani's behavior inside the classroom.\">Suriin natin ang kilos ni Lani sa silid-aralan.</span>\n<span class=\"fil-sentence\" data-translation=\"She raised her hand to answer the teacher's question.\">Tinaas niya ang kanyang kamay upang sumagot sa guro.</span>\n<span class=\"fil-sentence\" data-translation=\"Even if unsure, she still tried her best to speak yonder.\">Kahit hindi siya sigurado, sumubok pa rin siyang magsalita.</span>\n<span class=\"fil-sentence\" data-translation=\"This action displays a strong sense of self-confidence.\">Ang kilos na ito ay nagpapakita ng tiwala sa sarili.</span>\n<span class=\"fil-sentence\" data-translation=\"She did not give up due to the fear of making mistakes.\">Hindi siya sumuko sa takot na magkamali sa klase.</span>\n<span class=\"fil-sentence\" data-translation=\"The teacher smiled and guided her to find the correct answer.\">Ngumiti ang guro at tinulungan siyang mahanap ang sagot.</span>\n<span class=\"fil-sentence\" data-translation=\"Trying is the absolute beginning of developing our minds.\">Ang pagsubok ay simula ng pag-unlad ng ating isip.</span>\n<span class=\"fil-sentence\" data-translation=\"Raise your hand when the teacher asks a question today!\">Itaas ang iyong kamay kapag may tanong ang guro ngayon!</span>",
       "examples": [
         {
-          "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Pagsasanay Tiwala",
+          "content": "Pagtataas ng kamay = pagpapakita ng tiwala sa sarili."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Ibahagi ang Talento",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check how friends help one another in school.\">Suriin natin kung paano nagtutulungan ang magkakaibigan.</span>\n<span class=\"fil-sentence\" data-translation=\"Kiko is very good at math in our classroom today yonder.\">Si Kiko ay magaling sa matematika sa aming klase ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"He guided his playmate to compute coins and savings safely.\">Tinulungan niya ang kanyang kalaro na magkuwenta ng barya.</span>\n<span class=\"fil-sentence\" data-translation=\"Sharing your talent displays excellent moral values in life.\">Ang pagbabahagi ng talento ay nagpapakita ng mabuting asal.</span>\n<span class=\"fil-sentence\" data-translation=\"He uses his ability to serve and help his classmates today.\">Ginagamit niya ang kanyang kakayahan upang maglingkod.</span>\n<span class=\"fil-sentence\" data-translation=\"This makes his teacher and parents very happy and proud.\">Ito ay nagpapasaya sa kanyang guro at mga magulang.</span>\n<span class=\"fil-sentence\" data-translation=\"Cooperation strengthens the confidence of our entire group.\">Ang pagtutulungan ay nagpapatibay ng tiwala ng grupo natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Share your math skills with your seatmate right now!\">Ibahagi ang iyong galing sa matematika sa iyong katabi ngayon!</span>",
       "examples": [
         {
-          "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Pagsasanay Pagbabahagi",
+          "content": "Kiko -> tinuruan ang kalaro magkuwenta ng barya."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Maling Pag-iisip sa Sariling Galing",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid thinking yonder that you have no talent or ability.\">Iwasan ang pag-iisip na wala kang kakayahan o talento.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'I have no talent, I cannot do science subjects.'\">Mali: 'Wala akong galing, hindi ko kaya ang science.'</span>\n<span class=\"fil-sentence\" data-translation=\"Every child has a unique strength waiting to be discovered.\">Ang bawat bata ay may sariling galing na kailangang tuklasin.</span>\n<span class=\"fil-sentence\" data-translation=\"Maybe you just need practice and guidance from your teacher.\">Maaaring kailangan mo lang ng pagsasanay at gabay ng guro.</span>\n<span class=\"fil-sentence\" data-translation=\"Correct: 'I will practice to become good at science today.'\">Tama: 'Magsasanay ako upang maging mahusay sa science.'</span>\n<span class=\"fil-sentence\" data-translation=\"Self-confidence does not surrender at the very first try.\">Ang tiwala sa sarili ay hindi sumusuko sa unang subok.</span>\n<span class=\"fil-sentence\" data-translation=\"Make sure your thoughts are positive in your writing today!\">Tiyakin na positibo ang iyong kaisipan sa pagsusulat ngayon!</span>\n<span class=\"fil-sentence\" data-translation=\"This is the key to success in everything you perform today!\">Ito ang susi sa tagumpay sa lahat ng iyong ginagawa!</span>",
       "examples": [
         {
-          "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Kaisipan Error",
+          "content": "mali: wala akong galing -> tama: mag-eensayo ako upang matuto"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Maling Pagyayabang ng Talento",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid boasting or showing off when you are already skilled.\">Iwasan ang pagmamayabang kapag ikaw ay mahusay na.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'I am better than all of you at reading books yonder!'\">Mali: 'Mas magaling ako sa inyong lahat sa pagbasa!'</span>\n<span class=\"fil-sentence\" data-translation=\"Boasting does not display true and healthy self-confidence.\">Ang pagyayabang ay hindi nagpapakita ng tiwala sa sarili.</span>\n<span class=\"fil-sentence\" data-translation=\"It displays lack of humility and respect for your classmates.\">Ito ay nagpapakita ng kawalan ng kababaang-loob sa kapwa.</span>\n<span class=\"fil-sentence\" data-translation=\"The truly confident student serves others quietly in school.\">Ang tunay na may tiwala ay tahimik na naglilingkod.</span>\n<span class=\"fil-sentence\" data-translation=\"He helps those who struggle without making them feel bad.\">Tinutulungan niya ang mga nahihirapan nang walang yabang.</span>\n<span class=\"fil-sentence\" data-translation=\"This is the correct moral value taught in our GMRC class.\">Ito ang wastong asal na itinuturo sa ating GMRC.</span>\n<span class=\"fil-sentence\" data-translation=\"Be humble at all times and share your talents with others!\">Maging mababa ang loob at palaging magbahagi ng biyaya!</span>",
       "examples": [
         {
-          "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Yabang Error",
+          "content": "mali: magyabang sa klase -> tama: tumulong nang may kababaang-loob"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pagtatasa sa Sariling Galing",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check our own progress and development every day.\">Suriin natin ang ating sariling pag-unlad araw-araw.</span>\n<span class=\"fil-sentence\" data-translation=\"Make a written list of your hobbies and abilities today.\">Gumawa ng listahan ng iyong mga hilig at kakayahan ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"Write down what practice routines you are doing at home.\">Isulat kung anong mga pagsasanay ang iyong ginagawa.</span>\n<span class=\"fil-sentence\" data-translation=\"E.g., practicing refining drawings in the afternoon hours.\">E.g., nag-eensayo ng pagpapakinis ng guhit sa hapon.</span>\n<span class=\"fil-sentence\" data-translation=\"Self-assessment displays our personal discipline yonder.\">Ang pagtatasa sa sarili ay nagpapakita ng disiplina natin.</span>\n<span class=\"fil-sentence\" data-translation=\"We find out where we still need to study and put in effort.\">Nalalaman natin kung saan pa natin kailangang mag-aral.</span>\n<span class=\"fil-sentence\" data-translation=\"Ask for guidance from your teacher or parents in this task.\">Humingi ng tulong sa guro o magulang para sa pagsusuri.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue developing your own special talents in the community!\">Ipagpatuloy ang pag-unlad ng iyong sariling talento ngayon!</span>",
       "examples": [
         {
-          "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Pagtatasa",
+          "content": "Suriin ang sarili: Ano ang aking galing? Paano ko ito mapapahusay?"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 1",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Pagsasanay 1",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 2",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Pagsasanay 2",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 3",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Pagsasanay 3",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 4",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan in other contexts."
+          "title": "Pagsasanay 4",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 1",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 5",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 1",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 5",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 2",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 6",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 2",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 6",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 3",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 7",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 3",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 7",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 4",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 8",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 4",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 8",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 1",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Karagdagang Pagsasanay 9",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 1",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 1",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Pagsasanay 9",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 2",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Karagdagang Pagsasanay 10",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 2",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 2",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Pagsasanay 10",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "title": "Buod ng Unang Linggo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed all the slides for Week 1.\">Binabati kita! Natapos mo ang lahat ng slide sa Week 1.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned the meaning of self-confidence today in class.\">Natutunan natin ang kahulugan ng tiwala sa sarili ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"We identified the difference between hobbies and abilities.\">Natukoy natin ang pagkakaiba ng hilig at kakayahan natin.</span>\n<span class=\"fil-sentence\" data-translation=\"We discovered the importance of practice and inner courage.\">Nalaman natin ang kahalagahan ng pagsasanay at lakas-loob.</span>\n<span class=\"fil-sentence\" data-translation=\"We avoided boasting and negative thinking in our daily lives.\">Iniwasan natin ang pagyayabang at maling pag-iisip doon.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready for the quiz and challenges of this week now?\">Handa ka na ba sa pagsusulit at hamon ng linggong ito?</span>\n<span class=\"fil-sentence\" data-translation=\"Show your self-confidence in answering the questions today!\">Ipakita ang iyong tiwala sa sarili sa pagsagot ngayon!</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being a disciplined student of GMRC at all times!\">Ipagpatuloy ang pagiging disiplinadong mag-aaral ng GMRC!</span>",
       "examples": [
         {
-          "title": "Summary Points",
-          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
-        },
-        {
-          "title": "Reflection",
-          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+          "title": "Tandaan",
+          "content": "Tiwala = Paniniwala sa sarili. Hilig = Gusto. Kakayahan = Galing."
         }
       ]
     }
@@ -7613,316 +7263,346 @@ window.WEEK1_ADVANCED_DATA.gmrc = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Ano ang tawag sa paniniwala sa sariling galing at kakayahan?",
       "options": [
-        "Core term: Kalinisan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "takot",
+        "pagyayabang",
+        "tiwala sa sarili",
+        "kawalang-pag-asa"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Alin sa mga sumusunod ang halimbawa ng 'hilig' o interes?",
       "options": [
-        "Core term: Disiplina",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "mahusay mag-drawing ng hayop",
+        "gustong magbasa ng mga aklat sa hapon",
+        "magaling magkuwenta ng barya",
+        "mabilis tumakbo sa kalsada"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Alin sa mga sumusunod ang halimbawa ng 'kakayahan' o talento?",
       "options": [
-        "Core term: Paggalang",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "gustong manood ng sining",
+        "mahusay sumayaw ng Tinikling",
+        "gustong maglakad sa plaza",
+        "gustong makinig ng kanta"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Ano ang dapat mong gawin upang mapahusay ang iyong talento sa pagguhit?",
       "options": [
-        "Core term: Katapatan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "itago ang mga krayola",
+        "magsanay gumuhit araw-araw",
+        "ihambing ang sarili sa iba",
+        "sumuko sa unang pagkakamali"
       ],
-      "answer": 0
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Paano mo maipapakita ang tiwala sa sarili sa loob ng silid-aralan?",
+      "options": [
+        "matulog sa klase",
+        "itaas ang kamay upang sumagot sa tanong ng guro",
+        "makipag-away sa katabi",
+        "magtago sa ilalim ng desk"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang HINDI nagpapakita ng tiwala sa sarili?",
+      "options": [
+        "sumubok sumagot kahit hindi sigurado",
+        "sumuko agad dahil natatakot magkamali",
+        "mag-ensayo ng pag-awit",
+        "humingi ng tulong sa guro"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang angkop na asal kapag ikaw ay mas magaling sa matematika kaysa sa iyong kalaro?",
+      "options": [
+        "pagtawanan siya",
+        "turuan siya nang may kababaang-loob",
+        "magyabang sa buong klase",
+        "huwag siyang pansinin"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Paano lumalago ang talento ng isang bata sa pag-awit?",
+      "options": [
+        "sa pamamagitan ng panonood lamang",
+        "sa pamamagitan ng araw-araw na pagsasanay",
+        "sa pamamagitan ng pagbili ng bagong sapatos",
+        "sa pamamagitan ng pagtulog"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang dapat gawin kapag nagkamali ka sa pagguhit sa iyong klase?",
+      "options": [
+        "itapon ang papel at umiyak",
+        "tanggapin ito bilang bahagi ng pagkatuto at sumubok muli",
+        "makipag-away sa katabi",
+        "sumuko na sa pagguhit"
+      ],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan is correct?",
+      "q": "Tama o Mali: Ang bawat bata ay may kani-kanilang sariling hilig at kakayahan.",
       "options": [
-        "Statement A: The core rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Aling katangian ang ipinapakita ng batang hindi natatakot magsalita sa harap ng klase?",
       "options": [
-        "Core term: Pagtitipid",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "takot",
+        "lakas ng loob at tiwala sa sarili",
+        "pagyayabang",
+        "katamaran"
       ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan is a key topic in the study of ___.",
-      "answer": "GMRC"
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Ano ang layunin ng pagbabahagi ng iyong talento sa iyong kapwa?",
       "options": [
-        "Core term: Bayanihan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "upang makakuha ng pera",
+        "upang maglingkod at magbigay-inspirasyon sa iba",
+        "upang maging sikat sa barangay",
+        "upang magyabang"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Punan ang patlang: 'Ang pagsasanay at pagsisikap ay nagdudulot ng ___ ng kakayahan.'",
+      "options": [
+        "pagkasira",
+        "pag-unlad at paghusay",
+        "pagkawala",
+        "pagkatakot"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang pambalana sa tungkulin ng tao na nagtuturo ng mabuting asal?",
+      "options": [
+        "guro",
+        "doktor",
+        "pulis",
+        "tanod"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Ano ang dapat iwasan kapag ikaw ay nagpapakita ng iyong talento sa pagtugtog?",
       "options": [
-        "Core term: Pag-iimpok",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "pagngiti sa mambabasa",
+        "pagyayabang at pagmamaliit sa hindi marunong",
+        "pag-ensayo bago magsimula",
+        "paghingi ng gabay sa guro"
       ],
-      "answer": 0
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Saan natin maaaring gamitin ang ating kakayahan sa pagguhit sa barangay?",
+      "options": [
+        "sa pagsira ng pader",
+        "sa paggawa ng mga poster para sa kalinisan sa barangay hall",
+        "sa pagtapon ng basura sa ilog",
+        "sa pagsusulat sa mga libro ng aklatan"
+      ],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan is correct?",
+      "q": "Tama o Mali: Ang paghahambing ng sarili sa iba ay nakatutulong upang tumibay ang tiwala sa sarili.",
       "options": [
-        "Statement A: The core rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Aling ugali ang ipinapakita ng mag-aaral na nagpapasalamat sa puna ng kanyang guro?",
       "options": [
-        "Core term: Kalinisan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "katigasan ng ulo",
+        "kababaang-loob at kagustuhang matuto",
+        "pagkatakot",
+        "katamaran"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Aling salita ang naglalarawan ng kilos na may tiwala sa sarili?",
       "options": [
-        "Core term: Disiplina",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "pag-iyak",
+        "pagsubok at pagsisikap",
+        "pagtatago",
+        "pagsuko"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Ano ang tinutukoy ng araling GMRC?",
       "options": [
-        "Core term: Paggalang",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "wastong pagkuwenta ng barya",
+        "mabuting asal at tamang pag-uugali (Character Education)",
+        "pagbasa ng mga mapa",
+        "pag-uri ng mga solid"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan is a key topic in the study of ___.",
-      "answer": "GMRC"
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang tamang kaisipan kapag nahihirapan sa science?",
+      "options": [
+        "'Hindi ko talaga kaya ito.'",
+        "'Magsisikap ako at magtatanong sa aking guro upang matuto.'",
+        "'Hindi mahalaga ang science.'",
+        "'Ipagpapaliban ko na lang ang pag-aaral.'"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Tukuyin ang hilig sa pangungusap: 'Gusto ni Kiko na mag-alaga ng mga halaman sa hardin.'",
+      "options": [
+        "Kiko",
+        "halaman",
+        "mag-alaga ng mga halaman",
+        "hardin"
+      ],
+      "answer": 2
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan is correct?",
+      "q": "Tama o Mali: Ang tiwala sa sarili ay nangangahulugang alam mo na ang lahat at hindi mo na kailangang mag-aral.",
       "options": [
-        "Statement A: The core rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Alin sa mga sumusunod ang magandang gawin kapag nakakaramdam ng takot sa harap ng klase?",
       "options": [
-        "Core term: Pagtitipid",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "tumakbo palabas ng silid-aralan",
+        "huminga nang malalim at isiping kaya mong magbahagi",
+        "umiyak sa harap ng guro",
+        "huwag magsalita kailanman"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Saan dapat magsimula ang pag-unlad ng iyong talento?",
       "options": [
-        "Core term: Responsable",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "sa panonood ng iba lamang",
+        "sa iyong sariling puso, pagsasanay, at pagsisikap",
+        "sa pagbili ng mga laruan",
+        "sa pagtulog nang mahaba"
       ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
-      "options": [
-        "Core term: Bayanihan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
-      "options": [
-        "Core term: Pag-iimpok",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan is correct?",
-      "options": [
-        "Statement A: The core rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan are not relevant to these cases."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan is a key topic in the study of ___.",
-      "answer": "GMRC"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
-      "options": [
-        "Core term: Disiplina",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
-      "options": [
-        "Core term: Paggalang",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
-      "options": [
-        "Core term: Katapatan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan is correct?",
-      "options": [
-        "Statement A: The core rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan are applied to solve these cases.",
-        "Statement B: The core rules of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan are not relevant to these cases."
-      ],
-      "answer": 0
+      "answer": 1
     }
   ],
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan, what is the first priority?",
+      "q": "Challenge: Aling kilos ang pinakamahusay na nagpapakita ng ugnayan ng tiwala sa sarili at pagtulong sa kapwa?",
       "options": [
-        "Analyze key terms and variables",
-        "Guess the answer immediately",
-        "Skip the question",
-        "Use unrelated formulas"
+        "pagyayabang sa kalaro na ikaw ang pinakamabilis tumakbo",
+        "pagtuturo sa iyong kaklase na nahihirapan sa pagbasa nang may pasensya at tiwala",
+        "pagtatago ng iyong mga aklat upang hindi sila makabasa",
+        "pagsasabing hindi nila kayang matutunan ang iyong galing"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Paano mo mapagtatagumpayan ang takot na sumali sa street dancing sa pista ng inyong barangay?",
+      "options": [
+        "magtago sa loob ng bahay tuwing pista",
+        "magsanay nang mabuti kasama ang grupo at magtiwala na kaya mong sumayaw sa harap ng tao",
+        "sabihing hindi maganda ang sayaw",
+        "pagtawanan ang mga sumasayaw sa parada"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Kung ang iyong katabi sa klase ay tahimik at natatakot magsalita, paano mo siya matutulungan gamit ang iyong tiwala?",
+      "options": [
+        "sabihan siyang duwag siya sa harap ng iba",
+        "ganyakin siya nang malumanay at sabihing kaya rin niyang sumubok sumagot",
+        "huwag siyang pansinin dahil hindi mo naman siya kamag-anak",
+        "sumagot para sa kanya sa lahat ng pagkakataon"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Bakit ang pagsuko agad sa unang pagkakamali ay itinuturing na kawalan ng tiwala sa sarili?",
+      "options": [
+        "Dahil naniniwala ka na hindi ka na matututo o mapapahusay ang iyong galing sa pamamagitan ng pagsasanay.",
+        "Dahil ang pagkakamali ay isang permanenteng kabiguan sa science.",
+        "Dahil mas madali ang matulog kaysa mag-ensayo.",
+        "Dahil ang guro ay nagagalit kapag may mali."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
+      "q": "Challenge: Aling katangian ang pinaka-kailangan ng isang Grade 3 student upang malinang ang kanyang natatanging talento sa sining?",
       "options": [
-        "The primary variable: Pagmamahal",
-        "An external variable",
-        "No variable",
-        "All variables equally"
+        "pagbili ng pinakamahal na krayola",
+        "disiplina sa araw-araw na pagsasanay at bukas na isip sa paggabay ng guro",
+        "pagyayabang sa mga kaibigan",
+        "pag-iwas sa pagguhit ng mga bagay sa kalikasan"
       ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan.",
-      "options": [
-        "Statement A: Proper methodology leads to a correct and verified solution.",
-        "Statement B: Rushing through calculations is safe and rarely causes errors."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
-      "answer": "kalinisan"
-    },
-    {
-      "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan?",
-      "options": [
-        "Building logical reasoning and problem-solving skills",
-        "Forgetting previous lessons",
-        "Speeding up without accuracy",
-        "None of these"
-      ],
-      "answer": 0
+      "answer": 1
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan",
-    "desc": "Perform a simple observation of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Aking Kwento ng Galing",
+    "desc": "Sumulat ng isang talata o maikling kwento tungkol sa iyong paboritong hilig at kakayahan sa papel. Iguhit ang iyong sarili habang ginagawa ang talento na ito (hal. kumakanta, nag-aaral ng math, o nagtatanim). Ipakita ang iyong drawing at basahin ang iyong talata sa iyong magulang nang may tiwala at malinaw na tinig.",
     "labels": [
-      "Accurate explanation of concept",
-      "Clarity and confidence in presentation",
-      "Neatness of written notes"
+      "Wastong natukoy at nailarawan ang sariling hilig at kakayahan",
+      "Maayos na naiguhit ang sarili habang ginagawa ang talento",
+      "Malinaw at may lakas ng loob na naibahagi ang ulat sa pamilya"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Kalinisan and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of pagmamahal</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 1: Tiwala sa Sarili - Sariling Hilig at Kakayahan.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 1: Hilig vs. Kakayahan</h3>\n                  <p class=\"ws-instruction\">Isulat kung ang sitwasyon ay nagpapakita ng <strong>Hilig</strong> (gusto) o <strong>Kakayahan</strong> (talento/galing) gamit ang stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Mahusay sumayaw ng Tinikling si Caloy sa programa. <span class=\"fil-sentence\" data-translation=\"(Caloy is good at dancing Tinikling in the program.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Kakayahan</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Gustong-gustong manood ng mga bituin si Matteo sa gabi. <span class=\"fil-sentence\" data-translation=\"(Matteo loves watching stars at night.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Hilig</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Magaling magkuwenta ng matematika si Lani sa klase. <span class=\"fil-sentence\" data-translation=\"(Lani is good at computing math in class.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Kakayahan</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 2: Asal ng may Tiwala sa Sarili</h3>\n                  <p class=\"ws-instruction\">Isulat kung ang ipinapakitang pag-uugali ay <strong>Mabuti</strong> (karapat-dapat) o <strong>Mali</strong> (dapat iwasan).</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Pagtuturo sa kalaro ng pagbasa nang walang pagyayabang. <span class=\"fil-sentence\" data-translation=\"(Teaching a playmate to read without boasting.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Mabuti</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Pagsuko agad sa pagguhit dahil nabahiran ng dumi ang papel. <span class=\"fil-sentence\" data-translation=\"(Giving up drawing immediately because the paper was smudged.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Mali</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Pagtataas ng kamay upang sumubok sumagot sa tanong ng guro. <span class=\"fil-sentence\" data-translation=\"(Raising hand to try and answer the teacher's question.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Mabuti</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 3: Paglutas sa Takot</h3>\n                  <p class=\"ws-instruction\">Sagutin ang tanong gamit ang tumpak na detalye batay sa iyong sariling karanasan at aralin.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Ano ang gagawin mo kapag natatakot kang mag-report sa harap ng iyong mga kaklase? <span class=\"fil-sentence\" data-translation=\"(What will you do when you are afraid to report in front of classmates?)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Hihinga ako nang malalim, maghahanda nang mabuti, at magtitiwala na kaya kong magbahagi.</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Iisipin ko na ang aking guro at kaklase ay naroon upang makinig at tumulong sa akin.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };

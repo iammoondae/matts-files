@@ -666,352 +666,252 @@ window.WEEK3_DATA.science = {
   "subtitle": "Week 3: Science Tools and Materials",
   "slides": [
     {
-      "title": "Science Tools & Safety",
-      "text": "Science tools help us measure, observe, and cut materials safely. Using the correct tool makes our science activities accurate.",
+      "title": "Welcome to the Lab!",
+      "text": "Hello, Scientist! Welcome to Science Week 3!\nThis week we are entering the laboratory of tools.\nTools help scientists observe and measure things accurately.\nWe will study six core tools: rulers, hand lenses,\nscissors, balloons, modeling clay, and cardboard sheets.\nWe will practice using them safely and correctly.\nLet's learn how each tool helper makes science easier.\nAre you ready to handle lab tools like a professional?",
       "examples": [
         {
-          "title": "Science Tool",
-          "content": "An instrument used to perform a specific action in an investigation."
-        },
-        {
-          "title": "Safety",
-          "content": "Following rules to prevent injuries and damage to equipment."
+          "title": "Goal",
+          "content": "Identify and describe the correct uses of various science tools."
         }
       ]
     },
     {
-      "title": "Core Vocabulary",
-      "text": "Let's learn the names of common science tools: Hand lens, Ruler, Scissors, and Modeling clay.",
+      "title": "Rulers and Measurement",
+      "text": "A ruler is a tool used to measure length.\nIt has straight edges marked with numbers and lines.\nWe measure in millimeters, centimeters, and meters.\nWe align the zero mark of rulers with object edges.\nWe read the number at the opposite end closely.\nRulers help us record exact sizes of objects.\nWithout rulers, we could only guess the length.\nLet's measure our science notebooks using our rulers!",
       "examples": [
-        {
-          "title": "Hand lens",
-          "content": "A tool with a curved glass that magnifies small details."
-        },
         {
           "title": "Ruler",
-          "content": "A straight tool marked with units to measure length."
+          "content": "Measuring a pencil: it is exactly 15 centimeters long."
         }
       ]
     },
     {
-      "title": "Why We Use Tools",
-      "text": "Different tools have different purposes. We choose tools based on what action we need to perform.",
+      "title": "Hand Lenses and Sight",
+      "text": "A hand lens is also called magnifying glass.\nIt has a curved glass lens that magnifies objects.\nMagnifying means making tiny details look much larger.\nWe hold lenses close to our eye first.\nWe move the object closer or further to focus.\nLenses reveal tiny plant parts and insect limbs.\nThey show the sand grains and soil fibers clearly.\nObserve your own thumb print using hand lenses today!",
       "examples": [
         {
-          "title": "Observation",
-          "content": "Using a hand lens to see details of a leaf."
-        },
-        {
-          "title": "Measurement",
-          "content": "Using a ruler to measure length in centimeters."
+          "title": "Hand Lens",
+          "content": "Observing tiny hairs on the stem of a green weed."
         }
       ]
     },
     {
-      "title": "Tool Case 1: Ruler",
-      "text": "A ruler is used to measure the length of solid objects in millimeters or centimeters.",
+      "title": "Scissors and Safety",
+      "text": "Scissors are tools used to cut materials neatly.\nThey have two sharp metal blades that slide together.\nWe use them to cut paper, string, and cardboard.\nScissors must be handled with great care always.\nNever run while holding scissors in your hand.\nPass them handle-first to other students safely.\nKeep fingers away from blades when cutting shapes.\nCut out a paper circle for your wind experiment!",
       "examples": [
         {
-          "title": "Measurement",
-          "content": "Placing the edge of an eraser at 0 on the ruler scale."
-        },
-        {
-          "title": "Readings",
-          "content": "The eraser is exactly 4 centimeters long."
+          "title": "Scissors",
+          "content": "Cutting thick cardboard into wind vane directional arrows."
         }
       ]
     },
     {
-      "title": "Tool Case 2: Hand Lens",
-      "text": "A hand lens is a magnifying glass. It bends light to make tiny details look bigger to our eyes.",
+      "title": "Balloons and Air Space",
+      "text": "Balloons are elastic tools used to study gases.\nA dry balloon is flat and holds no shape.\nBlowing air inside stretches the rubber shell outwards.\nBalloons trap air inside, letting us observe gas.\nWe use balloons to study air pressure and volume.\nSqueezing balloons show that gas can be compressed.\nTying the neck keeps air from escaping away.\nLet's blow up balloons to see air pressure work!",
       "examples": [
         {
-          "title": "Observation",
-          "content": "Looking at tiny veins on a leaf or legs on an ant."
-        },
-        {
-          "title": "Usage",
-          "content": "Hold the lens close to your eye and move the object closer or further."
+          "title": "Balloon",
+          "content": "Using inflated balloons to push lightweight toy carts forward."
         }
       ]
     },
     {
-      "title": "Tool Case 3: Scissors",
-      "text": "Scissors are cutting tools with two blades. They are used to cut paper and cardboard safely.",
+      "title": "Modeling Clay and Force",
+      "text": "Modeling clay is a soft solid material.\nWe use clay to build models of landforms or organs.\nWe press, roll, and shape clay using force.\nClay holds details like hand prints and tool marks.\nIt does not spring back like rubber bands.\nWe use clay bases to hold lightweight tools upright.\nWe mix colors to represent different soil layers.\nMold a clay mountain to observe water flow down!",
       "examples": [
         {
-          "title": "Safe handling",
-          "content": "Always point scissors downwards and pass them handle-first."
-        },
-        {
-          "title": "Cutting",
-          "content": "Cutting straight lines in cardboard to build a backing board."
+          "title": "Modeling Clay",
+          "content": "Molding a blue base to hold a paper flag upright on desks."
         }
       ]
     },
     {
-      "title": "Tool Case 4: Balloons",
-      "text": "Balloons are stretchable rubber containers. They are used to hold and demonstrate gas (air) volume.",
+      "title": "Cardboard and Structures",
+      "text": "Cardboard is a stiff paper material in sheets.\nIt is thicker and stronger than regular writing paper.\nWe use cardboard to build sturdy lab models.\nIt blocks light completely, casting dark grey shadows.\nWe fold cardboard to make ramps for toy cars.\nIt holds its shape well under lightweight loads.\nWe use scissors to cut cardboard into shapes.\nConstruct a cardboard shadow screen for light tests!",
       "examples": [
         {
-          "title": "Elasticity",
-          "content": "The rubber stretches when air is forced inside."
-        },
-        {
-          "title": "Air volume",
-          "content": "Shows that gas expands to take the shape of its container."
+          "title": "Cardboard",
+          "content": "Cutting cardboard circles to act as wheels for toy carts."
         }
       ]
     },
     {
-      "title": "Tool Case 5: Modeling Clay",
-      "text": "Modeling clay is a solid material that can be shaped. It is used to build scientific models.",
+      "title": "Tool Matching: Length",
+      "text": "Different tasks require different science tool helpers.\nIf you want to measure seed growth, use rulers.\nRulers give exact length in millimeters and centimeters.\nDo not use scissors or string to measure size.\nAlways align the object with the zero mark.\nRead the measurement carefully from left to right.\nRecord the numbers in your lab notebook immediately.\nPractice measuring three different leaves with rulers now!",
+      "examples": [
+        {
+          "title": "Length",
+          "content": "Selecting a wooden ruler to measure desk height."
+        }
+      ]
+    },
+    {
+      "title": "Tool Matching: Details",
+      "text": "If you want to see tiny details, use lenses.\nLenses help us observe things too small for eyes.\nE.g., observing the wings of a small fly.\nDo not hold the lens too far from eyes.\nKeep the lens near your eye and move objects.\nThis focus technique gives the clearest, biggest view.\nLenses help us describe physical textures of soils.\nIdentify five details on rocks using hand lenses!",
+      "examples": [
+        {
+          "title": "Details",
+          "content": "Selecting a magnifying glass to check leaf vein patterns."
+        }
+      ]
+    },
+    {
+      "title": "Tool Matching: Shaping",
+      "text": "If you want to build models, use clay.\nClay allows us to shape mountains and valleys.\nIf you want to make flat shapes, use cardboard.\nCardboard sheets are stiff and stand up well.\nIf you want to separate materials, use scissors.\nScissors cut paper and cardboard into neat pieces.\nCombining tools helps us build advanced science models.\nUse clay to hold a cardboard sign on desks!",
       "examples": [
         {
           "title": "Shaping",
-          "content": "Clay can be rolled into balls, flattened, or stretched."
-        },
-        {
-          "title": "Representation",
-          "content": "Making a model of a leaf or a landscape."
+          "content": "Using modeling clay and cardboard to build a water dam model."
         }
       ]
     },
     {
-      "title": "Tool Case 6: Cardboard",
-      "text": "Cardboard is a thick, stiff paper material. It is used to provide structure and support for activities.",
+      "title": "Safe Handling Procedures",
+      "text": "Safety is the first rule in every science lab.\nAlways follow the teacher's instructions when using tools.\nCarry scissors with the blades pointing downwards always.\nNever point sharp tools at other students' eyes.\nDo not put modeling clay in your mouth.\nWash hands with soap after playing with clay.\nDo not over-inflate balloons to prevent loud pops.\nKeep your workstation clean and free of clutter!",
       "examples": [
         {
-          "title": "Stiffness",
-          "content": "Cardboard does not bend easily like regular writing paper."
-        },
-        {
-          "title": "Usage",
-          "content": "Serving as a flat surface or a ramp for toy car tests."
+          "title": "Safety",
+          "content": "Wearing safety goggles when cutting stiff cardboard sheets."
         }
       ]
     },
     {
-      "title": "Tool Case 7: Measuring Tape",
-      "text": "A measuring tape is a flexible ruler. It is used to measure curved objects or long distances.",
+      "title": "Measuring Length Accurately",
+      "text": "To measure length, align rulers with object edges.\nEnsure the zero mark is exactly at the start.\nLook directly down at the ruler marks closely.\nLooking from angles creates measurement errors in data.\nRead the nearest centimeter mark on the ruler.\nRead the tiny millimeter marks for extra detail.\nE.g., a twig is 5 centimeters and 4 millimeters.\nRecord both units in your science journal page!",
       "examples": [
         {
-          "title": "Flexibility",
-          "content": "It can bend around your wrist or waist to measure body size."
-        },
-        {
-          "title": "Distance",
-          "content": "Measuring the width of a table or the length of a room."
+          "title": "Accuracy",
+          "content": "Avoiding parallax error by looking straight down at marks."
         }
       ]
     },
     {
-      "title": "Tool Case 8: Thermometer",
-      "text": "A thermometer is a tool used to measure temperature (how hot or cold a material is) in degrees.",
+      "title": "Magnifying Soil Grains",
+      "text": "Let's study soil composition using our hand lenses.\nSpread a spoonful of loam soil on paper.\nHold the lens close to your eye level.\nLook through the lens at the soil spread.\nObserve the tiny rock grains and leaf fibers.\nObserve how clay holds water compared to sand.\nLenses help us classify soils by physical properties.\nWrite down the differences you observe in journals!",
       "examples": [
         {
-          "title": "Temperature",
-          "content": "Boiling water has a high temperature; ice water has a low temperature."
-        },
-        {
-          "title": "Reading",
-          "content": "Looking at the liquid line inside the tube to get the degrees."
+          "title": "Observation",
+          "content": "Seeing sparkling quartz crystals in sandy river soil."
         }
       ]
     },
     {
-      "title": "Tool Case 9: Balance Scale",
-      "text": "A balance scale is used to compare the weight or mass of two solid objects.",
+      "title": "Blowing Balloons safely",
+      "text": "Balloons teach us about air volume and pressure.\nBreathe in deeply and blow air into balloons.\nThe rubber stretches as more air goes inside.\nStop blowing before the rubber becomes too thin.\nOver-stretched balloons pop easily, creating loud noises.\nLoud pops can hurt ears and startle classmates.\nTie the neck with string to hold the air.\nMeasure the balloon's width using string and rulers!",
       "examples": [
         {
-          "title": "Comparison",
-          "content": "Placing a stone in one pan and clay in the other."
-        },
-        {
-          "title": "Balance",
-          "content": "The scale balances flat when both objects have equal weight."
+          "title": "Balloon safety",
+          "content": "Inflating balloons slowly to prevent rapid rubber failure."
         }
       ]
     },
     {
-      "title": "Tool Case 10: Dropper",
-      "text": "A dropper is a glass or plastic tube with a rubber bulb. It is used to transfer tiny drops of liquid.",
+      "title": "Pressing Modeling Clay",
+      "text": "We mold modeling clay to test physical forces.\nFlatten a ball of clay on your desk.\nPress your thumb into the clay surface firmly.\nObserve the detailed print of your thumb left.\nThe clay records the force of your thumb print.\nUse a toothpick to draw lines in the clay.\nClay is a solid that changes shape under force.\nRoll the clay back into balls to reuse!",
       "examples": [
         {
-          "title": "Drops",
-          "content": "Squeezing the bulb pulls water up; pressing it gently releases one drop."
-        },
-        {
-          "title": "Precision",
-          "content": "Adding water droplet by droplet to a dry sponge."
+          "title": "Clay Force",
+          "content": "Clay holds shapes because it lacks elasticity to snap back."
         }
       ]
     },
     {
-      "title": "Tool Case 11: Safety Goggles",
-      "text": "Safety goggles are protective eyewear worn to shield eyes from chemical splashes or flying debris.",
+      "title": "Cutting Cardboard Shapes",
+      "text": "Stiff cardboard sheets block light to make shadows.\nDraw a tree shape on a cardboard sheet.\nUse scissors to cut along the drawn lines.\nHold the cardboard tree in front of flashlights.\nObserve the dark tree shadow cast on walls.\nCardboard is opaque, meaning it blocks light completely.\nPaper is translucent, letting some light pass through.\nCompare shadows cast by cardboard and writing paper!",
       "examples": [
         {
-          "title": "Eye safety",
-          "content": "Worn during activities that involve cutting, mixing, or heating."
-        },
-        {
-          "title": "Design",
-          "content": "Fits snugly around the eyes with side shields."
+          "title": "Cardboard Shadow",
+          "content": "Opaque cardboard blocks all light, creating sharp shadows."
         }
       ]
     },
     {
-      "title": "Tool Case 12: Measuring Cup",
-      "text": "A measuring cup is a container marked with lines. It is used to measure liquid volume in milliliters.",
+      "title": "Tool Maintenance",
+      "text": "Taking care of tools makes them last longer.\nWipe rulers dry after measuring wet garden soil.\nClean lenses with soft cloths to avoid scratches.\nScratches on glass lenses make observations blurry.\nStore scissors in their cases with blades closed.\nKeep modeling clay in sealed plastic bags always.\nAir dries out clay, making it hard and crumbly.\nReturn all tools to their boxes after experiments!",
       "examples": [
         {
-          "title": "Volume",
-          "content": "Shows how much space a liquid occupies inside the cup."
-        },
-        {
-          "title": "Reading",
-          "content": "Look at the liquid surface at eye level to read the markings."
+          "title": "Maintenance",
+          "content": "Keeping clay moist by storing it in airtight containers."
         }
       ]
     },
     {
-      "title": "Tool Case 13: Tweezers",
-      "text": "Tweezers or forceps are small pinching tools. They are used to pick up tiny materials safely.",
+      "title": "Guided Practice: Using Rulers",
+      "text": "Let's practice measuring classroom items with rulers.\nMeasure the length of your yellow pencil today.\nPlace the pencil tip at the zero mark.\nRead the number next to the eraser end.\nIf it is at 12, the length is 12cm.\nIf it is 3 marks past 12, it is 12.3cm.\nAlways write the unit (cm or mm) next to numbers.\nNumbers without units are not scientific data!",
       "examples": [
         {
-          "title": "Precision",
-          "content": "Picking up tiny seeds or small insect shells without crushing them."
-        },
-        {
-          "title": "Handling",
-          "content": "Squeezing the metal arms together to grip small items."
+          "title": "Measurement",
+          "content": "Writing '15 cm' instead of just '15' in journals."
         }
       ]
     },
     {
-      "title": "Tool Case 14: Beakers",
-      "text": "A beaker is a wide cylindrical container with a pouring lip. It is used for mixing and heating liquids.",
+      "title": "Guided Practice: Using Lenses",
+      "text": "Let's practice magnifying leaves using hand lenses.\nSelect a leaf from the garden outside today.\nHold the hand lens near your eye level.\nBring the leaf close until veins look sharp.\nObserve the network of veins carrying water inside.\nObserve the tiny patterns on the leaf surface.\nDraw the magnified veins in your science log.\nLenses help us explore hidden patterns in nature!",
       "examples": [
         {
-          "title": "Mixing",
-          "content": "Stirring sugar and water together with a spoon inside the beaker."
-        },
-        {
-          "title": "Material",
-          "content": "Made of thick glass that can withstand heat from a stove."
+          "title": "Focusing",
+          "content": "Moving the leaf slowly back and forth to find focus."
         }
       ]
     },
     {
-      "title": "Tool Case 15: Flashlight",
-      "text": "A flashlight is a portable light source. It is used to explore light reflection and shadows.",
+      "title": "Guided Practice: Safe Cutting",
+      "text": "Let's practice cutting cardboard shapes safely today.\nDraw three circles on a sheet of cardboard.\nHold the cardboard sheet firmly with one hand.\nUse scissors to cut along the circular lines.\nKeep your cutting hand fingers away from blades.\nCut slowly to stay on lines and avoid slips.\nDiscard paper scraps into the recycle bin soon.\nClean workspaces prevent slips and safety hazards!",
       "examples": [
         {
-          "title": "Light beam",
-          "content": "A straight beam of light that shines on objects in dark spots."
-        },
-        {
-          "title": "Investigation",
-          "content": "Shining light on cardboard to observe the shadow behind it."
+          "title": "Cutting",
+          "content": "Following drawn guide lines to cut neat circles safely."
         }
       ]
     },
     {
-      "title": "Guided Practice: Choosing Tools",
-      "text": "Let's practice choosing the right tool for different tasks. Always match tool with action.",
+      "title": "Guided Practice: molding Clay",
+      "text": "Let's build a science model using modeling clay.\nRoll clay into a round ball on desks.\nFlatten it to represent a flat island surface.\nBuild small clay hills on top of the island.\nClay helps us represent physical shapes in 3D.\nDrip water on hills to observe flow patterns.\nWater flows down clay hills into flat valleys.\nClean your desk surface after finishing clay models!",
       "examples": [
         {
-          "title": "Task",
-          "content": "You want to find the length of a book. (Choose Ruler)."
-        },
-        {
-          "title": "Task",
-          "content": "You want to look at a small seed closely. (Choose Hand lens)."
+          "title": "Modeling",
+          "content": "Using clay to model how rivers flow down mountains."
         }
       ]
     },
     {
-      "title": "Guided Practice: Safety Rules",
-      "text": "Safety first! Practice the core rules of handling scissors and glass containers.",
-      "examples": [
-        {
-          "title": "Rule 1",
-          "content": "Never run while carrying scissors or glass beakers."
-        },
-        {
-          "title": "Rule 2",
-          "content": "Keep your workspace clean and wipe up spilled water immediately."
-        }
-      ]
-    },
-    {
-      "title": "Guided Practice: Measuring Length",
-      "text": "Let's practice measuring with a ruler. Always align the start with 0.",
-      "examples": [
-        {
-          "title": "Alignment",
-          "content": "Place the edge of a pencil at 0, not 1, on the ruler scale."
-        },
-        {
-          "title": "Reading",
-          "content": "If the tip reaches 8, the length is 8 centimeters."
-        }
-      ]
-    },
-    {
-      "title": "Guided Practice: Liquid Volume",
-      "text": "Let's practice measuring liquid volume in a cup.",
-      "examples": [
-        {
-          "title": "Meniscus",
-          "content": "Read the number at the bottom of the curved liquid surface."
-        },
-        {
-          "title": "Eye Level",
-          "content": "Place the cup flat on the table and bend down to look at eye level."
-        }
-      ]
-    },
-    {
-      "title": "Common Error: Starting at 1",
-      "text": "A common error when using a ruler is starting the measurement at 1 instead of 0.",
+      "title": "Common Error: Blurry Lenses",
+      "text": "A common mistake is holding lenses far from eyes.\nIf you hold lenses at arm's length, view is tiny.\nIt makes focusing difficult and distorts the image.\nAlways keep the lens near your eye level.\nMove the object closer until it looks sharp.\nThis technique uses the curved glass lens correctly.\nClean oily fingerprints off glass lenses with cloths.\nBlurs on lenses block detailed science observations!",
       "examples": [
         {
           "title": "Incorrect",
-          "content": "Starting at 1 makes your measurement 1 centimeter too short."
-        },
-        {
-          "title": "Correct",
-          "content": "Always align the left edge of the object with the 0 mark."
+          "content": "Holding the lens next to the leaf far from your eyes."
         }
       ]
     },
     {
-      "title": "Common Error: Lens Distance",
-      "text": "Do not hold the hand lens too close to your eye without moving the object.",
+      "title": "Common Error: Misaligned Rulers",
+      "text": "A common mistake is starting measurement at 1 mark.\nMany rulers have empty space before the 0 line.\nAlways start measuring at the 0 line mark.\nStarting at the ruler edge adds extra millimeters.\nThis error makes your recorded length inaccurate.\nCheck where the numbers start on your ruler.\nEnsure the 0 mark is aligned with the edge.\nAccurate measurements keep science data reliable!",
       "examples": [
         {
           "title": "Incorrect",
-          "content": "Holding the lens flat against your eye makes the view blurry."
-        },
+          "content": "Aligning the pencil tip with the physical end of the plastic ruler."
+        }
+      ]
+    },
+    {
+      "title": "Extra Practice: Science Review A",
+      "text": "Let's review the important science concepts of Week 3.\nWe have studied observations, measurements, and predictions.\nA real scientist is always curious and checks their facts.\nThink about the experiments we discussed in the slides.\nCan you explain them in your own words to others?\nUse your scientific vocabulary to describe your ideas clearly.\nAnswer the quiz questions and challenges to test your memory.\nKeep up the great work and enjoy exploring the world!",
+      "examples": [
         {
-          "title": "Correct",
-          "content": "Adjust the distance between the lens and the object to find the focus."
+          "title": "Review Card 1",
+          "content": "Practice explaining these science ideas to your family."
         }
       ]
     },
     {
       "title": "Summary of Week 3",
-      "text": "You completed Week 3! You can now identify, use, and handle science tools safely and correctly.",
+      "text": "Congratulations! You completed all the slides for Week 3.\nLet's review the main science tools we mastered.\nWe learned the uses of rulers, lenses, and scissors.\nWe explored balloons, modeling clay, and cardboard.\nWe practiced safe carrying and handling of sharp tools.\nWe measured length in centimeters and magnified details.\nWe avoided common focus and ruler alignment errors.\nYou are now ready to take the quiz and challenges!",
       "examples": [
         {
           "title": "Key Takeaway",
-          "content": "Tools extend our senses and make measurements precise."
-        },
-        {
-          "title": "Next Step",
-          "content": "Advance to Week 4 to study science process skills like observing and predicting!"
+          "content": "Choosing the right tool is key to successful investigations."
         }
       ]
     }
@@ -1019,198 +919,344 @@ window.WEEK3_DATA.science = {
   "standard": [
     {
       "type": "choice",
-      "q": "Which tool is used to measure the length of a pencil in centimeters?",
-      "options": ["Ruler", "Hand lens", "Balloon", "Modeling clay"],
+      "q": "Which tool is used to measure the length of a leaf in centimeters?",
+      "options": [
+        "Hand lens",
+        "Ruler",
+        "Scissors",
+        "Cardboard"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What is the correct way to focus a hand lens?",
+      "options": [
+        "Hold it at arm's length.",
+        "Hold it close to your eye and move the object.",
+        "Wave it back and forth quickly.",
+        "Look at it from the side."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "How should you carry scissors in the classroom safely?",
+      "options": [
+        "Run with them in your hand.",
+        "With the blades closed and pointing downwards.",
+        "Wave them in the air.",
+        "Keep them open for quick use."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What property of balloons are we exploring when we blow air inside?",
+      "options": [
+        "Weight",
+        "Elasticity and containing air",
+        "Color changes",
+        "Taste"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which material is best for molding a 3D model of a mountain?",
+      "options": [
+        "Cardboard sheet",
+        "Modeling clay",
+        "Scissors",
+        "Ruler"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Why is cardboard preferred over writing paper for shadow screens?",
+      "options": [
+        "It is green.",
+        "It is opaque and blocks light completely.",
+        "It is soft and sticky.",
+        "It floats on water."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Where should you align the edge of an object on a ruler?",
+      "options": [
+        "At the 1 cm mark",
+        "At the 0 line mark",
+        "At the physical edge of the ruler",
+        "At the 10 cm mark"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which tool makes tiny plant vein patterns look larger?",
+      "options": [
+        "Ruler",
+        "Hand lens (Magnifying glass)",
+        "Balloon",
+        "Cardboard"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Storing modeling clay in an open box makes it dry and crumbly.",
+      "options": [
+        "True",
+        "False"
+      ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What is a hand lens used for in science activities?",
-      "options": ["To cut paper safely", "To magnify tiny details of objects", "To measure water temperature", "To hold modeling clay"],
+      "q": "What happens if you blow too much air into a rubber balloon?",
+      "options": [
+        "It turns into solid clay.",
+        "It pops because the rubber stretches too thin.",
+        "It becomes extremely heavy.",
+        "It turns blue."
+      ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "What is the safe way to carry scissors in the science classroom?",
-      "options": ["Holding them by the blades while running", "Pointing the blades down and walking slowly", "Throwing them to a classmate", "Holding them open in your pocket"],
+      "q": "What should you do after playing with modeling clay in class?",
+      "options": [
+        "Eat your lunch immediately.",
+        "Wash your hands with soap and water.",
+        "Wipe your hands on your shirt.",
+        "Put the clay in your pockets."
+      ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Which tool is used to measure the temperature of water?",
-      "options": ["Ruler", "Thermometer", "Measuring cup", "Balance scale"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "What do we use to protect our eyes from splashes during science experiments?",
-      "options": ["Magnifying glass", "Safety goggles", "Ruler", "Cardboard shield"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "Where should you align the edge of an object when measuring length with a ruler?",
-      "options": ["At the 1 cm mark", "At the 0 mark", "At the edge of the wood", "At any random number"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "Which tool is used to transfer very small drops of water?",
-      "options": ["Beaker", "Dropper", "Measuring cup", "Scissors"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "What tool helps us compare the weight of a stone and a ball of clay?",
-      "options": ["Ruler", "Balance scale", "Thermometer", "Flashlight"],
-      "answer": 1
-    },
-    {
-      "type": "verify",
-      "q": "True or False: A measuring cup is used to measure liquid volume in milliliters.",
-      "options": ["True", "False"],
+      "q": "Which unit is used to measure small object lengths on a ruler?",
+      "options": [
+        "Millimeter (mm)",
+        "Meter (m)",
+        "Gram (g)",
+        "Liter (L)"
+      ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which material is used to mold and create scientific models of landforms?",
-      "options": ["Cardboard", "Modeling clay", "Balloon", "Ruler"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "What tool is a flexible ribbon used to measure long or curved distances?",
-      "options": ["Short ruler", "Measuring tape", "Glass dropper", "Tweezers"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "Why is cardboard useful in science activities?",
-      "options": ["It melts easily.", "It provides a stiff, flat structure or ramp.", "It is magnetic.", "It dissolves in water."],
+      "q": "Which tool is best for cutting cardboard sheets into circles?",
+      "options": [
+        "Ruler",
+        "Scissors",
+        "Hand lens",
+        "Modeling clay"
+      ],
       "answer": 1
     },
     {
       "type": "verify",
-      "q": "True or False: We should run as fast as we can when carrying glass beakers.",
-      "options": ["True", "False"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "Which tool is best for picking up a tiny seed without touching it?",
-      "options": ["Balance scale", "Tweezers (forceps)", "Measuring cup", "Scissors"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "What is a beaker used for in science?",
-      "options": ["To measure temperature", "To hold, mix, or heat liquids", "To cut cardboard", "To magnify details"],
-      "answer": 1
-    },
-    {
-      "type": "verify",
-      "q": "True or False: The volume of air in a balloon can be changed by squeezing it.",
-      "options": ["True", "False"],
+      "q": "True or False: We should carry scissors handle-first when passing them to a friend.",
+      "options": [
+        "True",
+        "False"
+      ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which tool should you choose to see the legs of an ant clearly?",
-      "options": ["Flashlight", "Hand lens", "Ruler", "Measuring cup"],
+      "q": "What does 'magnify' mean when using a hand lens?",
+      "options": [
+        "To make objects smell sweet",
+        "To make small details look larger",
+        "To change the color of things",
+        "To measure length in meters"
+      ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "What is the unit of temperature measured by a standard thermometer?",
-      "options": ["Centimeters", "Degrees (Celsius)", "Milliliters", "Grams"],
+      "q": "Which material holds its shape permanently under thumb force?",
+      "options": [
+        "Balloons",
+        "Modeling clay",
+        "Water",
+        "Air"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Why do we wipe rulers dry after measuring wet garden soil?",
+      "options": [
+        "To prevent rust and keep markings clean.",
+        "To change their color.",
+        "To make them stretchier.",
+        "To make them float."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What thickness property describes cardboard compared to writing paper?",
+      "options": [
+        "It is thinner.",
+        "It is thicker and stronger.",
+        "It is softer.",
+        "It is stickier."
+      ],
       "answer": 1
     },
     {
       "type": "verify",
-      "q": "True or False: Standard rulers only show measurements in inches, not centimeters.",
-      "options": ["True", "False"],
+      "q": "True or False: Standard scientific measurements require both numbers and units.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which tool should be stored in airtight bags to remain soft?",
+      "options": [
+        "Scissors",
+        "Modeling clay",
+        "Rulers",
+        "Hand lenses"
+      ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Which tool is used to shine light and make shadows?",
-      "options": ["Ruler", "Flashlight", "Dropper", "Safety goggles"],
-      "answer": 1
+      "q": "Which VCV word represents the starting point on rulers?",
+      "options": [
+        "zero",
+        "unit",
+        "mark",
+        "base"
+      ],
+      "answer": 0
     },
     {
       "type": "choice",
-      "q": "What should you do if water spills on the table during an activity?",
-      "options": ["Ignore it until class ends.", "Wipe it up immediately with a cloth.", "Blow on it to dry it.", "Throw paper over it."],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "If a ruler measurement starts at the 1 cm mark and ends at 6 cm, how long is the object?",
-      "options": ["6 cm", "5 cm", "7 cm", "1 cm"],
+      "q": "What force is applied when cutting cardboard with scissors?",
+      "options": [
+        "Magnetic force",
+        "Mechanical sliding force (cutting)",
+        "Heat force",
+        "Chemical force"
+      ],
       "answer": 1
     },
     {
       "type": "verify",
-      "q": "True or False: Tweezers are safety tools that protect our hands from hot materials.",
-      "options": ["True", "False"],
+      "q": "True or False: Glass lenses should be cleaned with rough sand paper.",
+      "options": [
+        "True",
+        "False"
+      ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Which container is marked with liquid scale lines?",
-      "options": ["Glass jar", "Measuring cup", "Cardboard box", "Balloon"],
-      "answer": 1
+      "q": "What color shadow does opaque cardboard cast under flashlights?",
+      "options": [
+        "Dark grey or black",
+        "Bright yellow",
+        "Clear white",
+        "No shadow at all"
+      ],
+      "answer": 0
     },
     {
       "type": "choice",
-      "q": "What is the primary purpose of wearing safety goggles?",
-      "options": ["To look like a scientist", "To protect the eyes from harm", "To see tiny objects better", "To keep hair out of the face"],
+      "q": "Which tool is best for checking fine crystal grains in soil?",
+      "options": [
+        "Ruler",
+        "Hand lens",
+        "Balloons",
+        "Clay"
+      ],
       "answer": 1
     }
   ],
   "challenge": [
     {
       "type": "choice",
-      "q": "You need to measure the distance around a thick pumpkin. Which tool is the most appropriate?",
-      "options": ["A wooden ruler", "A flexible measuring tape", "A balance scale", "A magnifying glass"],
+      "q": "Challenge: If you measure a leaf using a ruler starting at the 2 cm mark, and the end is at the 8 cm mark, how long is the leaf?",
+      "options": [
+        "8 cm",
+        "6 cm",
+        "10 cm",
+        "2 cm"
+      ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Why is it critical to verify the zero mark of a balance scale before putting objects on it?",
-      "options": ["To make sure the scale is clean.", "To ensure that the measurement starts from a balanced point, avoiding errors.", "To speed up the weighing process.", "To keep the pans from falling off."],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "If you measure the length of a crayon and the edge is aligned at 0 while the tip reaches 75 millimeters, how long is it in centimeters?",
-      "options": ["7.5 cm", "75 cm", "0.75 cm", "750 cm"],
+      "q": "Challenge: Why does a leaf venation pattern look blurry through a hand lens that is held 30 cm away from your eyes?",
+      "options": [
+        "The lens is too far from eyes to focus light correctly.",
+        "The leaf has no veins.",
+        "The lens is dirty.",
+        "The sun is too bright."
+      ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Which tool combination would you use to find out if warm water dissolves sugar faster than cold water?",
-      "options": ["Ruler and balance scale", "Thermometer, beakers, and stop watch", "Hand lens and measuring tape", "Safety goggles and tweezers"],
-      "answer": 1
+      "q": "Challenge: Which tool combination is best to build a wind direction indicator (wind vane)?",
+      "options": [
+        "Cardboard sheet, scissors, modeling clay base, and a pointer stick.",
+        "Balloons and rulers.",
+        "Hand lens and soap.",
+        "Water and sand."
+      ],
+      "answer": 0
     },
     {
       "type": "choice",
-      "q": "A student wants to cut a thick piece of cardboard. What safety rule must they follow?",
-      "options": ["Use a kitchen knife instead.", "Cut away from their body and keep fingers clear of the blades.", "Cut as fast as they can.", "Hold the cardboard close to their face."],
+      "q": "Challenge: Why does modeling clay stay flat when pressed, while inflated balloons return to shape after light pressure?",
+      "options": [
+        "Clay is plastic (malleable) while balloon rubber is elastic.",
+        "Clay is heavier.",
+        "Balloons contain magic air.",
+        "Clay is colder."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Spot the safety hazard: 'Cutting cardboard with scissors while running down the hallway.'",
+      "options": [
+        "Blades are closed.",
+        "Running increases risk of falling and blade injury.",
+        "The hallway is too dark.",
+        "Cardboard is recyclable."
+      ],
       "answer": 1
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Science Tool Safety & Measurement Task",
-    "desc": "Select a ruler and a small object at home (e.g., a crayon, a leaf). Demonstrate how to measure the length of the object in centimeters, starting from the 0 mark. Write down the length, draw the object showing where the ruler was aligned, and explain the safety rules of using scissors or glass in science to your parent.",
-    "labels": ["Accurately measured the object starting from the 0 mark", "Clearly illustrated the alignment of the ruler and the object", "Accurately explained safety rules for handling sharp or breakable tools"]
+    "title": "Science Tool Explorer Lab",
+    "desc": "Select three science tools at home (e.g., a ruler, a hand lens or magnifying glass, and modeling clay or playdough). Use the ruler to measure your thumb length in millimeters and centimeters. Use the lens to observe your thumb skin details. Mold clay to match your thumb's shape. Draw and describe your steps in a lab report for your parents.",
+    "labels": [
+      "Correctly used rulers to measure in cm and mm",
+      "Correctly used hand lenses to observe fine details",
+      "molded clay accurately and followed safe handling rules"
+    ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Tool Identification</h3>\n                  <p class=\"ws-instruction\">Write the name of the tool described in each sentence below.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Used to magnify tiny details of plants and insects.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Hand lens</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Markings on it show centimeters and millimeters to measure length.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Ruler</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Worn over the eyes to protect them from flying objects.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Safety goggles</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Tool Matching Table</h3>\n                  <p class=\"ws-instruction\">Match the task with the correct tool by completing the table cells.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Task to Perform</th>\n                        <th>Recommended Tool</th>\n                        <th>Key Safety Rule</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Cut thick cardboard</td>\n                        <td><span class=\"ws-answer\">Scissors</span></td>\n                        <td><span class=\"ws-answer\">Keep fingers away from blades</span></td>\n                      </tr>\n                      <tr>\n                        <td>Check temperature of water</td>\n                        <td><span class=\"ws-answer\">Thermometer</span></td>\n                        <td><span class=\"ws-answer\">Do not touch the hot liquid</span></td>\n                      </tr>\n                      <tr>\n                        <td>Add drops of water to clay</td>\n                        <td><span class=\"ws-answer\">Dropper</span></td>\n                        <td><span class=\"ws-answer\">Handle glass dropper gently</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Measuring Errors</h3>\n                  <p class=\"ws-instruction\">Explain the error shown in the description and write the correct measurement.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Description: <em>A crayon is placed from the 1 cm mark to the 8 cm mark on a ruler. The student writes that the crayon is 8 cm long.</em></div>\n                    <div class=\"ws-q\" style=\"margin-top: 15px;\">1. What is the student's error?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 90%;\"><span class=\"ws-answer\">The student started at 1 instead of 0, counting the start index.</span></div>\n                    <div class=\"ws-q\" style=\"margin-top: 15px;\">2. What is the correct length of the crayon?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">7 cm</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Science Tool Identification</h3>\n                  <p class=\"ws-instruction\">Write the name of the correct science tool helper (<strong>Ruler</strong>, <strong>Hand lens</strong>, <strong>Scissors</strong>, <strong>Modeling clay</strong>) for each task.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Magnifying the tiny structures on insect wings:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Hand lens</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Measuring the height of a sprout in millimeters:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Ruler</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Molding a three-dimensional model of a flower stem:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Modeling clay</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Safe Tool Handling</h3>\n                  <p class=\"ws-instruction\">Classify each tool behavior below as either <strong>Safe</strong> or <strong>Unsafe</strong>.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Walking slowly carrying scissors pointing downwards.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Safe</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Squeezing clay and then washing hands with soap.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Safe</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Blowing a balloon as large as possible until it pops near eyes.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Unsafe</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Measurement Accuracy</h3>\n                  <p class=\"ws-instruction\">Write down the correct length in centimeters for each pencil measurement below.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Pencil A aligned from 0 cm mark to 12 cm line:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 40%;\"><span class=\"ws-answer\">12 cm</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Pencil B aligned from 2 cm mark to 8 cm line:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 40%;\"><span class=\"ws-answer\">6 cm</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -1841,355 +1887,255 @@ window.WEEK3_DATA.filipino = {
   "color": "#ec4899",
   "icon": "🗣️",
   "title": "Filipino",
-  "subtitle": "Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento",
+  "subtitle": "Week 3: Panghalip Panao at Pamatlig",
   "slides": [
     {
-      "title": "Introduction to Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento",
-      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Filipino.",
+      "title": "Maligayang Pagdating sa Week 3!",
+      "text": "<span class=\"fil-sentence\" data-translation=\"How are you, student? Welcome to our third week!\">Kumusta ka, mag-aaral? Welcome sa ikatlong linggo natin!</span>\n<span class=\"fil-sentence\" data-translation=\"This week, we will study about pronouns in grammar.\">Ngayong linggo, mag-aaral tayo tungkol sa mga panghalip.</span>\n<span class=\"fil-sentence\" data-translation=\"Pronouns are words that replace nouns in sentences.\">Ang panghalip ay mga salitang humahalili sa pangngalan.</span>\n<span class=\"fil-sentence\" data-translation=\"We will study two types of pronouns in our lesson today.\">Pag-aaralan natin ang dalawang uri ng panghalip ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"These are personal pronouns and demonstrative pronouns.\">Ito ang panghalip panao at ang panghalip pamatlig.</span>\n<span class=\"fil-sentence\" data-translation=\"These help us avoid repeating the same names over and over.\">Nakatutulong ang mga ito upang maiwasan ang pag-uulit.</span>\n<span class=\"fil-sentence\" data-translation=\"We will also learn the correct way to use them in sentences.\">Matututuhan din natin ang tamang paggamit sa pangungusap.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready to study with enthusiasm and skill?\">Handa ka na bang mag-aral nang may sigla at galing?</span>",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento and apply them in daily situations."
-        },
-        {
-          "title": "Real-world Connection",
-          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+          "title": "Layunin ng Aralin",
+          "content": "Tukuyin at gamitin ang panghalip panao at pamatlig sa pangungusap."
         }
       ]
     },
     {
-      "title": "Core Vocabulary & Terms",
-      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "title": "Ano ang Panghalip?",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Pronouns are an important part of speech in grammar.\">Ang panghalip ay isang mahalagang bahagi ng pananalita.</span>\n<span class=\"fil-sentence\" data-translation=\"It is used to replace names of people or things.\">Ito ay ginagamit na pamalit sa ngalan ng tao o bagay.</span>\n<span class=\"fil-sentence\" data-translation=\"E.g., instead of saying 'Matteo is studying',\">E.g., sa halip na sabihing 'si Matteo ay nag-aaral',</span>\n<span class=\"fil-sentence\" data-translation=\"we can say 'he is studying in the classroom'.\">maaari nating sabihing 'siya ay nag-aaral sa klase'.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'he' is a personal pronoun in language.\">Ang salitang 'siya' ay isang panghalip panao sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"This makes our daily conversations simpler and faster.\">Pinapadali nito ang ating pakikipag-usap araw-araw.</span>\n<span class=\"fil-sentence\" data-translation=\"There are different categories of pronouns in language.\">May iba't ibang kategorya ang panghalip sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's learn the first type: the personal pronoun!\">Alamin natin ang unang uri: ang panghalip panao!</span>",
       "examples": [
         {
-          "title": "Term 1: Alpabeto",
-          "content": "A foundational concept in Filipino that helps us categorize and understand details."
-        },
-        {
-          "title": "Term 2: Patinig",
-          "content": "An active process or skill used to analyze situations and solve problems."
+          "title": "Halimbawa ng Pamalit",
+          "content": "Matteo -> siya (he), aso -> ito (it)"
         }
       ]
     },
     {
-      "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. By looking closely at how these ideas work together, we can build a strong understanding of Filipino.",
+      "title": "Panghalip Panao: Ako at Ikaw",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Personal pronouns are replacements for names of people.\">Ang panghalip panao ay pamalit sa ngalan ng tao.</span>\n<span class=\"fil-sentence\" data-translation=\"There are three persons of pronouns that we should remember.\">Mayroon itong tatlong panauhan na dapat tandaan.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'I' is used when referring to the speaker.\">Ang 'ako' ay ginagamit kapag ang nagsasalita ang tinutukoy.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'I am studying in the third grade today.'\">Halimbawa: 'Ako ay nag-aaral sa ikatlong baitang ngayon.'</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'you' is used when referring to the listener.\">Ang 'ikaw' ay ginagamit kapag ang kausap ang tinutukoy.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'Are you ready for our short quiz now?'\">Halimbawa: 'Ikaw ba ay handa na sa ating maikling pagsusulit?'</span>\n<span class=\"fil-sentence\" data-translation=\"These are used when talking directly to one person.\">Ito ay ginagamit sa pakikipag-usap sa isang tao.</span>\n<span class=\"fil-sentence\" data-translation=\"Practice using I and you in your classroom today!\">Magsanay sa paggamit ng ako at ikaw sa inyong klase!</span>",
       "examples": [
         {
-          "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in simple activities."
-        },
-        {
-          "title": "Why It Matters",
-          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+          "title": "Panao (Isahan)",
+          "content": "ako (I - nagsasalita), ikaw (you - kausap)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Panghalip Panao: Siya at Sila",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check other personal pronouns in our language.\">Suriin natin ang iba pang panghalip panao sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'he/she' is used for one person spoken of.\">Ang 'siya' ay ginagamit para sa isang taong pinag-uusapan.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'She is a kind teacher in our school.'\">Halimbawa: 'Siya ay mabait na guro sa aming eskwelahan.'</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'they' is used for multiple people spoken of.\">Ang 'sila' ay ginagamit para sa maraming taong pinag-uusapan.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'They are playing in the wide town plaza.'\">Halimbawa: 'Sila ay naglalaro sa malawak na plaza.'</span>\n<span class=\"fil-sentence\" data-translation=\"We also use 'we' for the speaker and others.\">Ginagamit din natin ang 'kami' para sa nagsasalita at iba.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'We went to the beautiful river earlier.'\">Halimbawa: 'Kami ay pumunta sa magandang ilog kanina.'</span>\n<span class=\"fil-sentence\" data-translation=\"Pay attention to the number of people referred to!\">Pansinin ang bilang ng taong tinutukoy sa pangungusap!</span>",
       "examples": [
         {
-          "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Panao (Maramihan)",
+          "content": "kami (we - group with speaker), sila (they - group spoken of)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Panghalip Pamatlig: Ito",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Demonstrative pronouns are used to point to objects.\">Ang pamatlig ay ginagamit sa pagtuturo ng bagay.</span>\n<span class=\"fil-sentence\" data-translation=\"It shows the distance of the object from the speaker.\">Ipinapakita nito ang distansya ng bagay sa tao.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'this' is used when held by the speaker.\">Ang 'ito' ay ginagamit kapag hawak ng nagsasalita.</span>\n<span class=\"fil-sentence\" data-translation=\"Or if the object is very close to the speaker.\">O di kaya ay napakalapit ng bagay sa nagsasalita.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'This pencil I am holding is brand Mongol.'\">Halimbawa: 'Ang hawak kong lapis na ito ay Mongol.'</span>\n<span class=\"fil-sentence\" data-translation=\"Are you holding your pencil while studying right now?\">Hawak mo ba ang iyong lapis habang nag-aaral ngayon?</span>\n<span class=\"fil-sentence\" data-translation=\"So you can say 'this is my writing pencil in class'.\">Kaya maaari mong sabihing 'ito ay aking lapis sa klase'.</span>\n<span class=\"fil-sentence\" data-translation=\"Use 'this' for objects that are within your reach!\">Gamitin ang 'ito' para sa mga bagay na abot-kamay!</span>",
       "examples": [
         {
-          "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Pamatlig (Malapit)",
+          "content": "ito (this - hawak o malapit sa nagsasalita)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Panghalip Pamatlig: Iyan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze the second demonstrative pronoun.\">Suriin natin ang ikalawang panghalip pamatlig.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'that' (near listener) is used when near the listener.\">Ang 'iyan' ay ginagamit kapag malapit sa kausap.</span>\n<span class=\"fil-sentence\" data-translation=\"The object is far from the speaker but near the listener.\">Ang bagay ay malayo sa nagsasalita ngunit malapit sa iyo.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'That book on your desk is brand new.'\">Halimbawa: 'Ang aklat na iyan sa iyong mesa ay bago.'</span>\n<span class=\"fil-sentence\" data-translation=\"The speaker is pointing to the book that you hold.\">Ang nagsasalita ay itinuturo ang aklat na hawak mo.</span>\n<span class=\"fil-sentence\" data-translation=\"Therefore, the word 'that' (near you) is used in the sentence.\">Kaya ginagamit ang salitang 'iyan' sa pangungusap.</span>\n<span class=\"fil-sentence\" data-translation=\"This clarifies where the object is located in the room.\">Ito ay nagbibigay-linaw kung nasaan ang bagay sa silid.</span>\n<span class=\"fil-sentence\" data-translation=\"Identify objects that are near your classmate right now!\">Tukuyin ang mga bagay na malapit sa iyong katabi ngayon!</span>",
       "examples": [
         {
-          "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Pamatlig (Katamtaman)",
+          "content": "iyan (that - malapit sa kausap)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Panghalip Pamatlig: Iyon",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the third demonstrative pronoun today.\">Suriin natin ang ikatlong panghalip pamatlig ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'that' (far) is used when far from both people.\">Ang 'iyon' ay ginagamit kapag malayo sa dalawang tao.</span>\n<span class=\"fil-sentence\" data-translation=\"It means it is far from both the speaker and listener.\">Ibig sabihin, malayo ito sa nagsasalita at kausap.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'That bird yonder on the mountaintop.'\">Halimbawa: 'Ang ibon na iyon sa tuktok ng bundok.'</span>\n<span class=\"fil-sentence\" data-translation=\"The bird is far from both of us while we are talking.\">Ang ibon ay malayo sa ating dalawa habang nag-uusap.</span>\n<span class=\"fil-sentence\" data-translation=\"So we use 'iyon' (that far) in our writing exercises.\">Kaya ginagamit natin ang 'iyon' sa ating pagsulat.</span>\n<span class=\"fil-sentence\" data-translation=\"You can also say 'that cloud yonder in the sky'.\">Maaari mo ring sabihing 'ang ulap na iyon sa langit'.</span>\n<span class=\"fil-sentence\" data-translation=\"Point to objects that are far away from your school!\">Ituro ang mga bagay na malayo sa inyong paaralan!</span>",
       "examples": [
         {
-          "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Pamatlig (Malayo)",
+          "content": "iyon (that yonder - malayo sa kapwa)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Pagsusuri sa Pangungusap: Panao",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the personal pronoun in this sentence.\">Suriin natin ang panghalip panao sa pangungusap.</span>\n<span class=\"fil-sentence\" data-translation=\"Statement: 'Caloy played. He is happy.'\">Pahayag: 'Si Caloy ay naglaro. Siya ay masaya.'</span>\n<span class=\"fil-sentence\" data-translation=\"What is the personal pronoun used in the statement?\">Ano ang panghalip panao na ginamit sa pahayag?</span>\n<span class=\"fil-sentence\" data-translation=\"The pronoun is 'siya' (he) replacing the name 'Caloy'.\">Ang panghalip ay 'siya' na pumalit sa ngalang 'Caloy'.</span>\n<span class=\"fil-sentence\" data-translation=\"This helped so we do not repeat the name Caloy again.\">Nakatulong ito upang hindi maulit ang pangalang Caloy.</span>\n<span class=\"fil-sentence\" data-translation=\"This provides a smooth flow to our written sentences.\">Ito ay nagbibigay-daloy sa ating mga pangungusap.</span>\n<span class=\"fil-sentence\" data-translation=\"Write this sentence down on your writing paper now!\">Isulat ang pangungusap na ito sa inyong papel ngayon!</span>\n<span class=\"fil-sentence\" data-translation=\"Examine other examples of pronouns in your stories!\">Suriin ang iba pang halimbawa sa inyong kwento!</span>",
       "examples": [
         {
-          "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Pagsusuri Panao",
+          "content": "Caloy (noun) -> siya (pronoun)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Pagsusuri sa Pangungusap: Pamatlig",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the demonstrative pronoun in this sentence.\">Suriin natin ang panghalip pamatlig sa pangungusap.</span>\n<span class=\"fil-sentence\" data-translation=\"Statement: 'I am holding this pencil. This is new.'\">Pahayag: 'Hawak ko ang lapis na ito. Ito ay bago.'</span>\n<span class=\"fil-sentence\" data-translation=\"What is the demonstrative pronoun used in the statement?\">Ano ang panghalip pamatlig na ginamit sa pahayag?</span>\n<span class=\"fil-sentence\" data-translation=\"The pronoun is 'ito' (this) referring to the held pencil.\">Ang panghalip ay 'ito' na tumutukoy sa hawak na lapis.</span>\n<span class=\"fil-sentence\" data-translation=\"This shows that the object is very close to the speaker.\">Ito ay nagpapakita na ang bagay ay napakalapit sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"So 'ito' is the correct grammar word we must use.\">Kaya 'ito' ang wastong salita na dapat gamitin.</span>\n<span class=\"fil-sentence\" data-translation=\"Use your stylus to encircle this word on the screen!\">Gamitin ang iyong stylus upang bilugan ang salitang ito!</span>\n<span class=\"fil-sentence\" data-translation=\"Practice writing your own short sentences right now!\">Magsanay sa pagsulat ng sarili mong pangungusap ngayon!</span>",
       "examples": [
         {
-          "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Pagsusuri Pamatlig",
+          "content": "lapis na hawak -> ito (this)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Pagsasanay: Ako, Ikaw, Siya",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's fill in the blanks with the correct pronouns.\">Punan natin ang mga patlang ng tamang panghalip.</span>\n<span class=\"fil-sentence\" data-translation=\"Statement: 'I am Matteo. ___ am studying now.'\">Pahayag: 'Ako si Matteo. ___ ay nag-aaral ngayon.'</span>\n<span class=\"fil-sentence\" data-translation=\"Since I am the speaker, use the word 'Ako' (I) in the blank.\">Dahil ako ang nagsasalita, gamitin ang 'Ako' sa dulo.</span>\n<span class=\"fil-sentence\" data-translation=\"Statement: 'I am talking to Kiko. Are ___ Grade 3?'\">Pahayag: 'Kausap ko si Kiko. ___ ba ay Grade 3?'</span>\n<span class=\"fil-sentence\" data-translation=\"Since Kiko is the listener, use 'Ikaw' (you) in the blank.\">Dahil si Kiko ang kausap, gamitin ang 'Ikaw' sa patlang.</span>\n<span class=\"fil-sentence\" data-translation=\"Statement: 'Lani is kind. ___ is my sister.'\">Pahayag: 'Si Lani ay mabait. ___ ay aking kapatid.'</span>\n<span class=\"fil-sentence\" data-translation=\"Since Lani is the person spoken of, use 'Siya' (she).\">Dahil si Lani ang pinag-uusapan, gamitin ang 'Siya'.</span>\n<span class=\"fil-sentence\" data-translation=\"Is it easy to choose the correct personal pronoun?\">Madali lang bang pumili ng tamang panghalip panao?</span>",
       "examples": [
         {
-          "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Panao Pagsasanay",
+          "content": "nagsasalita -> ako, kausap -> ikaw, pinag-uusapan -> siya"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Pagsasanay: Ito, Iyan, Iyon",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's choose the correct demonstrative based on clues.\">Piliin natin ang tamang pamatlig batay sa pahiwatig.</span>\n<span class=\"fil-sentence\" data-translation=\"Statement: 'I am holding ___ flower. This is fragrant.'\">Pahayag: 'Hawak ko ang bulaklak na ___. Mabango ito.'</span>\n<span class=\"fil-sentence\" data-translation=\"Since I am holding the flower, use the word 'ito' (this).\">Dahil hawak ko ang bulaklak, gamitin ang 'ito'.</span>\n<span class=\"fil-sentence\" data-translation=\"Statement: 'I pointed to the bird on the far tree: ___ is an eagle.'\">Pahayag: 'Itinuro ko ang ibon sa malayong puno: ___ ay agila.'</span>\n<span class=\"fil-sentence\" data-translation=\"Since the bird is far away, use the word 'iyon' (that far).\">Dahil malayo ang ibon, gamitin ang salitang 'iyon'.</span>\n<span class=\"fil-sentence\" data-translation=\"Statement: 'Look at ___ pencil in your hand.'\">Pahayag: 'Tingnan mo ang lapis na ___ sa iyong kamay.'</span>\n<span class=\"fil-sentence\" data-translation=\"Since the pencil is in your hand, use the word 'iyan' (that near you).\">Dahil nasa kamay mo ang lapis, gamitin ang 'iyan'.</span>\n<span class=\"fil-sentence\" data-translation=\"Remember the distance of the object in every answer!\">Tandaan ang distansya ng bagay sa bawat pagsagot!</span>",
       "examples": [
         {
-          "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Pamatlig Pagsasanay",
+          "content": "hawak -> ito, malayo -> iyon, nasa kausap -> iyan"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Maling Paggamit ng Pamatlig",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid using 'ito' (this) for distant objects yonder.\">Iwasan ang paggamit ng 'ito' sa malayong bagay.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'Look at this star yonder in the sky.' (star is too far)\">Mali: 'Tingnan mo ang bituin na ito sa langit.'</span>\n<span class=\"fil-sentence\" data-translation=\"The star is extremely far from both of us at night.\">Ang bituin ay napakalayo sa ating dalawa sa gabi.</span>\n<span class=\"fil-sentence\" data-translation=\"So we must use 'iyon' (that yonder) instead of 'ito'.\">Kaya dapat gamitin ang 'iyon' sa halip na 'ito'.</span>\n<span class=\"fil-sentence\" data-translation=\"Correct: 'Look at that star yonder in the sky.'\">Tama: 'Tingnan mo ang bituin na iyon sa langit.'</span>\n<span class=\"fil-sentence\" data-translation=\"The same applies to mountains, always use 'iyon'.\">Gayundin sa mga bundok, gamitin ang 'iyon' lagi.</span>\n<span class=\"fil-sentence\" data-translation=\"Analyze the distance before writing the demonstrative pronoun!\">Suriin ang distansya bago isulat ang pamatlig ngayon!</span>\n<span class=\"fil-sentence\" data-translation=\"This is the correct rule in our Filipino grammar lessons!\">Ito ang wastong tuntunin sa ating balarilang Filipino!</span>",
       "examples": [
         {
-          "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Pamatlig Error",
+          "content": "mali: bituin na ito -> tama: bituin na iyon"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Maling Paggamit ng Panao",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Do not use 'siya' (he/she) for multiple people in a group.\">Huwag gamitin ang 'siya' para sa maraming tao.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'Matteo and Kiko played. He is happy.' (referring to both)\">Mali: 'Si Matteo at Kiko ay naglaro. Siya ay masaya.'</span>\n<span class=\"fil-sentence\" data-translation=\"Because we are talking about two people in the sentence,\">Dahil dalawang tao ang pinag-uusapan natin ngayon,</span>\n<span class=\"fil-sentence\" data-translation=\"we must use 'sila' (they) instead of 'siya' (he/she).\">dapat gamitin ang 'sila' sa halip na 'siya'.</span>\n<span class=\"fil-sentence\" data-translation=\"Correct: 'Matteo and Kiko played. They are happy.'\">Tama: 'Si Matteo at Kiko ay naglaro. Sila ay masaya.'</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'sila' is plural; 'siya' is singular only.\">Ang 'sila' ay maramihan; ang 'siya' ay isahan lamang.</span>\n<span class=\"fil-sentence\" data-translation=\"Make sure of the count of people before writing the pronoun!\">Tiyakin ang bilang ng tao bago isulat ang panao!</span>\n<span class=\"fil-sentence\" data-translation=\"This will help in making your written story very clear!\">Ito ay makatutulong upang maging malinaw ang kwento!</span>",
       "examples": [
         {
-          "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Panao Error",
+          "content": "mali: Matteo at Kiko -> siya, tama: Matteo at Kiko -> sila"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Panghalip sa Ating Kwento",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's read a short story about Matteo's day:\">Basahin natin ang maikling kwento tungkol kay Matteo:</span>\n<span class=\"fil-sentence\" data-translation=\"'Matteo went to the beautiful Pasig River.\">'Si Matteo ay pumunta sa magandang ilog ng Pasig.</span>\n<span class=\"fil-sentence\" data-translation=\"He brought a small outrigger boat for play.\">Siya ay nagdala ng munting banca para sa laro.</span>\n<span class=\"fil-sentence\" data-translation=\"He pointed to the eagle in the sky: That is fast!'\">Itinuro niya ang agila sa langit: Iyon ay mabilis!'</span>\n<span class=\"fil-sentence\" data-translation=\"In this short story, we used 'siya' and 'iyon'.\">Sa kwentong ito, ginamit ang 'siya' at 'iyon'.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'siya' is a personal pronoun replacing Matteo.\">Ang 'siya' ay panao na pumalit sa ngalang Matteo.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'iyon' is a demonstrative pointing to the bird.\">Ang 'iyon' ay pamatlig na tumukoy sa malayong ibon.</span>\n<span class=\"fil-sentence\" data-translation=\"Do the same thing when writing your own short stories!\">Gawin din ito sa pagsulat ng sarili mong kwento!</span>",
       "examples": [
         {
-          "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Kwento",
+          "content": "siya (he), iyon (that yonder - pointing to eagle)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 1",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Pagsasanay 1",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 2",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Pagsasanay 2",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 3",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Pagsasanay 3",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 4",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Pagsasanay 4",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 1",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 5",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 1",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 5",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 2",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 6",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 2",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 6",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 3",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 7",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 3",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 7",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 4",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 8",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 4",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 8",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 1",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Karagdagang Pagsasanay 9",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 1",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 1",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Pagsasanay 9",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 2",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Karagdagang Pagsasanay 10",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 2",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 2",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Pagsasanay 10",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "title": "Buod ng Ikatlong Linggo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed all the slides for this week.\">Binabati kita! Natapos mo ang lahat ng slide sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned the use of personal pronouns for people.\">Natutunan natin ang paggamit ng panghalip panao sa tao.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about I, you, he/she, we, and they.\">Natutunan natin ang ako, ikaw, siya, kami, at sila.</span>\n<span class=\"fil-sentence\" data-translation=\"We also learned about demonstrative pronouns for objects.\">Natutunan din natin ang panghalip pamatlig sa bagay.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about this, that (near you), and that (far away).\">Natutunan natin ang ito, iyan, at iyon sa pagtuturo.</span>\n<span class=\"fil-sentence\" data-translation=\"We discovered how to identify distance and number correctly.\">Nalaman natin ang wastong pagtukoy ng distansya at bilang.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready for the quiz and challenges of the week?\">Handa ka na ba sa pagsusulit at hamon ng linggo?</span>\n<span class=\"fil-sentence\" data-translation=\"Continue showing your excellent skills in Filipino today!\">Ipagpatuloy ang pagpapakita ng galing sa Filipino ngayon!</span>",
       "examples": [
         {
-          "title": "Summary Points",
-          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
-        },
-        {
-          "title": "Reflection",
-          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+          "title": "Tandaan",
+          "content": "Panao = Tao. Pamatlig = Bagay at Distansya. Magsanay lagi!"
         }
       ]
     }
@@ -2197,316 +2143,346 @@ window.WEEK3_DATA.filipino = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Ano ang tawag sa mga salitang ginagamit na pamalit sa pangngalan?",
       "options": [
-        "Core term: Patinig",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "pang-uri",
+        "panghalip",
+        "pandiwa",
+        "pangatnig"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang isang panghalip panao?",
+      "options": [
+        "lapis",
+        "siya",
+        "paaralan",
+        "Pasko"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang isang panghalip pamatlig?",
+      "options": [
+        "ako",
+        "iyon",
+        "sila",
+        "siya"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Anong panghalip panao ang gagamitin kung ang nagsasalita ang tinutukoy?",
+      "options": [
+        "ikaw",
+        "ako",
+        "siya",
+        "sila"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Anong panghalip panao ang gagamitin kung ang kausap ang tinutukoy?",
+      "options": [
+        "ako",
+        "ikaw",
+        "siya",
+        "kami"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Anong panghalip panao ang gagamitin para kay Matteo na iyong pinag-uusapan?",
+      "options": [
+        "ako",
+        "ikaw",
+        "siya",
+        "sila"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Punan ang patlang: 'Si Matteo at Kiko ay masaya. ___ ay naglalaro.'",
+      "options": [
+        "Siya",
+        "Sila",
+        "Kami",
+        "Ako"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Anong pamatlig ang gagamitin para sa lapis na hawak mo ngayon?",
+      "options": [
+        "ito",
+        "iyan",
+        "iyon",
+        "sila"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Anong pamatlig ang gagamitin para sa aklat na hawak ng iyong kausap?",
       "options": [
-        "Core term: Katinig",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "ito",
+        "iyan",
+        "iyon",
+        "ako"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Anong pamatlig ang gagamitin para sa saranggola na lumilipad sa malayang langit?",
       "options": [
-        "Core term: Pangngalan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "ito",
+        "iyan",
+        "iyon",
+        "ikaw"
       ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
-      "options": [
-        "Core term: Pantangi",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "answer": 2
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is correct?",
+      "q": "Tama o Mali: Ang 'kami' ay ginagamit kapag kasama ang nagsasalita sa grupo.",
       "options": [
-        "Statement A: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Tukuyin ang panghalip panao sa pangungusap: 'Siya ay pumunta sa malaking aklatan.'",
       "options": [
-        "Core term: Panghalip",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "pumunta",
+        "aklatan",
+        "Siya",
+        "malaking"
       ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is a key topic in the study of ___.",
-      "answer": "Filipino"
+      "answer": 2
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Tukuyin ang panghalip pamatlig sa pangungusap: 'Ang hawak kong laruan na ito ay maganda.'",
       "options": [
-        "Core term: Pang-uri",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "hawak",
+        "laruan",
+        "ito",
+        "maganda"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Punan ang patlang: 'Itinuro ko ang malayong bundok: ___ ang Bundok Makiling.'",
       "options": [
-        "Core term: Pang-abay",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Ito",
+        "Iyan",
+        "Iyon",
+        "Sila"
       ],
-      "answer": 0
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Anong panghalip ang pumapalit sa ngalang 'Lani'?",
+      "options": [
+        "ako",
+        "ikaw",
+        "siya",
+        "sila"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Punan ang patlang: 'Tingnan mo ang papel na ___ sa iyong mesa.'",
+      "options": [
+        "ito",
+        "iyan",
+        "iyon",
+        "sila"
+      ],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is correct?",
+      "q": "Tama o Mali: Ginagamit ang 'iyon' kapag hawak ng nagsasalita ang bagay.",
       "options": [
-        "Statement A: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are not relevant to these cases."
+        "Tama",
+        "Mali"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Aling panghalip panao ang angkop sa nagsasalita at kanyang mga kaibigan?",
+      "options": [
+        "ako",
+        "ikaw",
+        "kami",
+        "siya"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Aling salita ang panghalip sa pangungusap: 'Binigyan sila ni Gng. Santos ng aklat.'?",
+      "options": [
+        "Santos",
+        "aklat",
+        "sila",
+        "Binigyan"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang tinutukoy ng panghalip pamatlig na 'ito'?",
+      "options": [
+        "bagay na hawak o malapit sa nagsasalita",
+        "bagay na malapit sa kausap",
+        "bagay na malayo sa kapwa",
+        "isang tao"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Alin ang angkop na panghalip panao para sa kausap mo na si Kiko?",
       "options": [
-        "Core term: Patinig",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "ako",
+        "ikaw",
+        "siya",
+        "kami"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Tukuyin ang panghalip pamatlig: 'Ang krayola na iyan sa iyong kamay ay mapula.'",
       "options": [
-        "Core term: Katinig",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "krayola",
+        "iyan",
+        "kamay",
+        "mapula"
       ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
-      "options": [
-        "Core term: Pangngalan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is a key topic in the study of ___.",
-      "answer": "Filipino"
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is correct?",
+      "q": "Tama o Mali: Ang 'sila' ay panghalip panao para sa isang tao lamang na pinag-uusapan.",
       "options": [
-        "Statement A: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Alin sa mga sumusunod ang panghalip panao na maramihan?",
       "options": [
-        "Core term: Panghalip",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "ako",
+        "ikaw",
+        "siya",
+        "sila"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Anong pamatlig ang angkop gamitin para sa ibon na nasa mataas na sanga ng malayong puno?",
       "options": [
-        "Core term: Pandiwa",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "ito",
+        "iyan",
+        "iyon",
+        "kami"
       ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
-      "options": [
-        "Core term: Pang-uri",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
-      "options": [
-        "Core term: Pang-abay",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are not relevant to these cases."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is a key topic in the study of ___.",
-      "answer": "Filipino"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
-      "options": [
-        "Core term: Katinig",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
-      "options": [
-        "Core term: Pangngalan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
-      "options": [
-        "Core term: Pantangi",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are not relevant to these cases."
-      ],
-      "answer": 0
+      "answer": 2
     }
   ],
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento, what is the first priority?",
+      "q": "Challenge: Aling pangungusap ang naglalaman ng parehong panghalip panao at panghalip pamatlig?",
       "options": [
-        "Analyze key terms and variables",
-        "Guess the answer immediately",
-        "Skip the question",
-        "Use unrelated formulas"
+        "Siya ay nagdala ng bangka na ito sa malaking ilog.",
+        "Naglalaro ang mga aso sa malawak na plaza.",
+        "Kami ay nag-aaral ng balarila sa paaralan.",
+        "Itinuro ko ang ibon na iyon sa aking guro kahapon."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Challenge: Aling panghalip panao ang pumapalit sa mga nakasalungguhit na pangngalan sa pangungusap: 'Si Matteo at ako ay magkasamang pumunta sa aklatan.'?",
       "options": [
-        "The primary variable: Alpabeto",
-        "An external variable",
-        "No variable",
-        "All variables equally"
+        "Sila",
+        "Kami",
+        "Kayo",
+        "Siya"
       ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento.",
-      "options": [
-        "Statement A: Proper methodology leads to a correct and verified solution.",
-        "Statement B: Rushing through calculations is safe and rarely causes errors."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
-      "answer": "patinig"
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Challenge: Suriin ang pahayag: 'Ang bituin na iyon ay kumukutikutitap.' Bakit 'iyon' ang ginamit na panghalip pamatlig?",
       "options": [
-        "Building logical reasoning and problem-solving skills",
-        "Forgetting previous lessons",
-        "Speeding up without accuracy",
-        "None of these"
+        "Dahil hawak ng nagsasalita ang bituin.",
+        "Dahil malapit sa kausap ang bituin.",
+        "Dahil malayo sa nagsasalita at kausap ang bituin.",
+        "Dahil ang bituin ay isang hayop."
       ],
-      "answer": 0
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Tukuyin kung gaano karaming panghalip panao at pamatlig ang nasa pangungusap: 'Sinabi niya sa akin na ang lapis na ito ay bago.'",
+      "options": [
+        "isa",
+        "dalawa",
+        "tatlo",
+        "apat"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Aling panghalip pamatlig ang dapat gamitin kung ang bagay ay malayo sa nagsasalita ngunit hawak ng kausap?",
+      "options": [
+        "ito",
+        "iyan",
+        "iyon",
+        "sila"
+      ],
+      "answer": 1
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento",
-    "desc": "Perform a simple observation of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Dula-dulaan ng Ating Panghalip",
+    "desc": "Gumawa ng isang simpleng dula-dulaan o diyalogo kasama ang iyong magulang o kapatid sa tahanan. Sumulat ng limang pangungusap sa isang papel na naglalaman ng mga panghalip panao (ako, ikaw, siya, kami, sila) at pamatlig (ito, iyan, iyon) batay sa inyong pag-uusap at pagtuturo ng mga bagay sa bahay. Bigkasin ang diyalogo nang malinaw at may damdamin.",
     "labels": [
-      "Accurate explanation of concept",
-      "Clarity and confidence in presentation",
-      "Neatness of written notes"
+      "Wastong nagamit ang hindi bababa sa tatlong panghalip panao sa diyalogo",
+      "Wastong nagamit ang hindi bababa sa dalawang panghalip pamatlig batay sa distansya",
+      "Maayos at malinaw ang pagbigkas ng mga linya sa dula-dulaan"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Patinig and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alpabeto</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 1: Pagkilala sa Panghalip</h3>\n                  <p class=\"ws-instruction\">Tukuyin kung ang salita ay <strong>Panao</strong> (personal) o <strong>Pamatlig</strong> (demonstrative) gamit ang stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. siya <span class=\"fil-sentence\" data-translation=\"(he/she)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Panao</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. iyon <span class=\"fil-sentence\" data-translation=\"(that yonder)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pamatlig</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. kami <span class=\"fil-sentence\" data-translation=\"(we)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Panao</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 2: Pagtutugma ng Distansya</h3>\n                  <p class=\"ws-instruction\">Isulat ang tamang panghalip pamatlig (<strong>ito</strong>, <strong>iyan</strong>, o <strong>iyon</strong>) batay sa pahiwatig ng distansya.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Hawak ko ang aklat na _____. <span class=\"fil-sentence\" data-translation=\"(I am holding this book.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">ito</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Hawak ng kausap ko ang lapis na _____. <span class=\"fil-sentence\" data-translation=\"(My listener is holding that pencil.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">iyan</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Nakaturo sa malayong ulap na _____. <span class=\"fil-sentence\" data-translation=\"(Pointing to that cloud far away.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">iyon</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 3: Pagsulat ng Wastong Panghalip</h3>\n                  <p class=\"ws-instruction\">Punan ang patlang ng tamang panghalip panao upang mabuo ang pangungusap.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Si Lani at ako ay magkaibigan. _____ ay nag-aaral sa Grade 3. <span class=\"fil-sentence\" data-translation=\"(Lani and I are friends. We study in Grade 3.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Kami</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Si Kiko ay masipag. _____ ay laging tumutulong sa kanyang nanay. <span class=\"fil-sentence\" data-translation=\"(Kiko is industrious. He always helps his mother.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Siya</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -2515,355 +2491,255 @@ window.WEEK3_DATA.makabansa = {
   "color": "#f59e0b",
   "icon": "🏝️",
   "title": "Makabansa",
-  "subtitle": "Week 3: Mga Makasaysayang Estruktura at Landmarks",
+  "subtitle": "Week 3: Mga Pangyayari sa Ating Pook",
   "slides": [
     {
-      "title": "Introduction to Week 3: Mga Makasaysayang Estruktura at Landmarks",
-      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Makabansa.",
+      "title": "Welcome sa Week 3!",
+      "text": "<span class=\"fil-sentence\" data-translation=\"How are you, little researcher? Welcome to Week 3!\">Kumusta ka, maliit na researcher? Welcome sa Week 3!</span>\n<span class=\"fil-sentence\" data-translation=\"This week, we will study about events in our community.\">Ngayong linggo, mag-aaral tayo tungkol sa mga pangyayari.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's identify the festivals and celebrations in the place.\">Tukuyin natin ang mga pagdiriwang at pista sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's learn the importance of our local traditions today.\">Alamin natin ang kahalagahan ng mga tradisyon natin.</span>\n<span class=\"fil-sentence\" data-translation=\"There are local songs and dances that reflect these events.\">May mga lokal na awitin at sayaw na sumasalamin dito.</span>\n<span class=\"fil-sentence\" data-translation=\"We will also study their correct historical sequence yonder.\">Pag-aaralan din natin ang tamang pagkakasunod-sunod nito.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready to join in the happy town festival today?\">Handa ka na bang sumali sa masayang pista ng bayan?</span>\n<span class=\"fil-sentence\" data-translation=\"Let's start exploring with enthusiasm in our class today!\">Magsimula tayong mag-explore na may kasiglahan ngayon!</span>",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 3: Mga Makasaysayang Estruktura at Landmarks and apply them in daily situations."
-        },
-        {
-          "title": "Real-world Connection",
-          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+          "title": "Layunin ng Aralin",
+          "content": "Matukoy ang mahahalagang pagdiriwang at tradisyon sa sariling pook."
         }
       ]
     },
     {
-      "title": "Core Vocabulary & Terms",
-      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "title": "Mga Tradisyon at Kasaysayan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Traditions are practices passed down by our ancestors.\">Ang tradisyon ay mga gawi na ipinapasa ng ninuno.</span>\n<span class=\"fil-sentence\" data-translation=\"These reflect the long history of our local place yonder.\">Sinasalamin nito ang mahabang kasaysayan ng pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: the celebration of our local barangay festival.\">Halimbawa: ang pagsasagawa ng pista ng barangay.</span>\n<span class=\"fil-sentence\" data-translation=\"Here people express gratitude for a bountiful harvest in town.\">Dito nagpapasalamat ang mga tao sa magandang ani.</span>\n<span class=\"fil-sentence\" data-translation=\"The entire community unites in this happy celebration daily.\">Nagkakaisa ang buong komunidad sa pagdiriwang na ito.</span>\n<span class=\"fil-sentence\" data-translation=\"Tradition gives life to our local culture and heritage.\">Ang tradisyon ay nagbibigay-buhay sa kultura natin.</span>\n<span class=\"fil-sentence\" data-translation=\"This helps identify and define our community in history.\">Nakatutulong ito upang makilala ang ating komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"What tradition is practiced in your own local place today?\">Anong tradisyon ang ginagawa sa inyong sariling pook?</span>",
       "examples": [
         {
-          "title": "Term 1: Sarili",
-          "content": "A foundational concept in Makabansa that helps us categorize and understand details."
-        },
-        {
-          "title": "Term 2: Pamilya",
-          "content": "An active process or skill used to analyze situations and solve problems."
+          "title": "Tradisyon",
+          "content": "mga pista, kapistahan ng patron, katutubong laro"
         }
       ]
     },
     {
-      "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 3: Mga Makasaysayang Estruktura at Landmarks. By looking closely at how these ideas work together, we can build a strong understanding of Makabansa.",
+      "title": "Ang Pista ng Pahiyas sa Quezon",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The Pahiyas Festival is a famous regional celebration.\">Ang Pista ng Pahiyas ay isang sikat na pagdiriwang.</span>\n<span class=\"fil-sentence\" data-translation=\"It is held in Lucban yonder in Quezon province on May 15.\">Ginaganap ito sa Lucban, Quezon tuwing Mayo 15.</span>\n<span class=\"fil-sentence\" data-translation=\"It is a tribute to San Isidro Labrador, the patron saint.\">Ito ay parangal kay San Isidro Labrador na patron.</span>\n<span class=\"fil-sentence\" data-translation=\"He is the patron saint of farmers in our country today.\">Siya ang patron ng mga magsasaka sa ating bansa.</span>\n<span class=\"fil-sentence\" data-translation=\"Houses are decorated with colorful kiping on their facades.\">Pinalalamutian ng kiping ang harap ng mga bahay.</span>\n<span class=\"fil-sentence\" data-translation=\"Kiping is made of rice paste colored in vibrant shades.\">Ang kiping ay yari sa bigas na may iba't ibang kulay.</span>\n<span class=\"fil-sentence\" data-translation=\"They express gratitude for the abundant harvest of vegetables.\">Nagpapasalamat sila sa saganang ani ng mga gulay.</span>\n<span class=\"fil-sentence\" data-translation=\"A colorful tradition visited by many people yonder!\">Isang makulay na tradisyon na dinarayo ng marami!</span>",
       "examples": [
         {
-          "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 3: Mga Makasaysayang Estruktura at Landmarks in simple activities."
-        },
-        {
-          "title": "Why It Matters",
-          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+          "title": "Pahiyas",
+          "content": "Mayo 15 (Lucban, Quezon) -> parangal sa patron ng magsasaka."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pista ng Lechon sa Batangas",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check another well-known local festival yonder.\">Suriin natin ang isa pang kilalang pagdiriwang.</span>\n<span class=\"fil-sentence\" data-translation=\"This is the Lechon Festival in Balayan yonder in Batangas.\">Ito ay ang Pista ng Lechon sa Balayan, Batangas.</span>\n<span class=\"fil-sentence\" data-translation=\"It is celebrated on June 24 in our neighboring province.\">Ginaganap ito tuwing Hunyo 24 sa ating lalawigan.</span>\n<span class=\"fil-sentence\" data-translation=\"It coincides with the feast of Saint John the Baptist.\">Ito ay kasabay ng kapistahan ni San Juan Bautista.</span>\n<span class=\"fil-sentence\" data-translation=\"Roasted pigs (lechon) are dressed up in funny outfits.\">Pinalalamutian at binibihisan ang mga inihaw na lechon.</span>\n<span class=\"fil-sentence\" data-translation=\"They are paraded on the streets while people have fun.\">Ipinaparada ang mga ito sa kalsada habang nagsasaya.</span>\n<span class=\"fil-sentence\" data-translation=\"There is also a tradition of splashing water on people.\">May tradisyon din ng basaan ng tubig sa mga tao.</span>\n<span class=\"fil-sentence\" data-translation=\"Why do we splash water during the feast of Saint John?\">Bakit nagbabasa ng tubig kapag kapistahan ni San Juan?</span>",
       "examples": [
         {
-          "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Pista ng Lechon",
+          "content": "Hunyo 24 (Balayan, Batangas) -> parada ng nakadamit na lechon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pista ng Pinya sa Daet",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The Pineapple Festival is celebrated in Daet, Camarines.\">Ang Pista ng Pinya ay ginaganap sa Daet, Camarines.</span>\n<span class=\"fil-sentence\" data-translation=\"They showcase the sweet pineapple variety grown in the place.\">Ipinagmamalaki rito ang matamis na pinya sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"The pineapple yonder in Daet is famous as the Formosa variety.\">Ang pinya sa Daet ay kilala sa tawag na Formosa.</span>\n<span class=\"fil-sentence\" data-translation=\"It has a small size but is extremely sweet to eat daily.\">Ito ay may maliit na sukat ngunit napakatamis kainin.</span>\n<span class=\"fil-sentence\" data-translation=\"There are street dancing performances showing pineapple farming.\">May mga street dancing na naglalahad ng pagsasaka.</span>\n<span class=\"fil-sentence\" data-translation=\"The festival reflects the primary source of livelihood there.\">Sinasalamin ng pista ang pangunahing kabuhayan doon.</span>\n<span class=\"fil-sentence\" data-translation=\"They used this fruit to gain recognition in the country.\">Ginamit nila ang prutas na ito upang makilala sa bansa.</span>\n<span class=\"fil-sentence\" data-translation=\"Have you tasted a sweet pineapple in your town today?\">Nakakain ka na ba ng matamis na pinya sa inyong bayan?</span>",
       "examples": [
         {
-          "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Pista ng Pinya",
+          "content": "Pagdiriwang ng Formosa pinya bilang pangunahing ani."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Mga Lokal na Sining at Kagamitan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"During festivals, local arts and crafts are proudly displayed.\">Sa mga pagdiriwang, ipinapakita ang lokal na sining.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: making woven mats, native baskets, and wooden clogs.\">Halimbawa: ang paggawa ng mga banig, basket, at bakya.</span>\n<span class=\"fil-sentence\" data-translation=\"These are made of natural materials found in our local place.\">Ang mga ito ay gawa sa likas na materyal sa pook natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Such as pandan leaves, bamboo twigs, and hard wood blocks.\">Tulad ng dahon ng pandan, kawayan, at matigas na kahoy.</span>\n<span class=\"fil-sentence\" data-translation=\"This weaving and carving art was passed down by ancestors.\">Ang sining na ito ay ipinasa ng ating mga ninuno.</span>\n<span class=\"fil-sentence\" data-translation=\"This belongs to the historical heritage of our community.\">Bahagi ito ng makasaysayang pamana ng ating komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"This helps support the livelihood of many local families.\">Nakatutulong ito sa kabuhayan ng maraming pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"Do you have a basket made of bamboo in your house today?\">Mayroon ka bang basket na gawa sa kawayan sa bahay?</span>",
       "examples": [
         {
-          "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Lokal na Sining",
+          "content": "banig (woven mats), basket, bakya (wooden shoes)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Timeline ng Pista",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The celebration has a clear sequence of events yonder.\">Ang pagdiriwang ay may pagkakasunod-sunod ng kaganapan.</span>\n<span class=\"fil-sentence\" data-translation=\"We can display this sequence using a timeline format today.\">Maaari natin itong ipakita sa isang timeline ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"Morning: the parade of school bands begins on the street.\">Umaga: nagsisimula ang parada ng mga banda sa kalsada.</span>\n<span class=\"fil-sentence\" data-translation=\"Noon: there is sharing of food and lunch inside every house.\">Tanghali: may salo-salo at kainan sa bawat tahanan.</span>\n<span class=\"fil-sentence\" data-translation=\"Afternoon: there are games and street dancing in the plaza.\">Hapon: may mga palaro at street dancing sa plaza.</span>\n<span class=\"fil-sentence\" data-translation=\"Night: there are contests and fireworks in the dark sky.\">Gabi: may patimpalak at paputok sa kalawakan.</span>\n<span class=\"fil-sentence\" data-translation=\"The correct flow shows a well-organized community plan today.\">Ang tamang daloy ay nagpapakita ng maayos na plano.</span>\n<span class=\"fil-sentence\" data-translation=\"Check the sequence of events of your own town festival!\">Suriin ang pagkakasunod-sunod ng inyong pista sa bayan!</span>",
       "examples": [
         {
-          "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Timeline ng Pista",
+          "content": "Umaga (Parada) -> Tanghali (Kainan) -> Hapon (Palaro) -> Gabi (Paputok)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Katutubong Sayaw sa Pista",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Dances are an essential part of our local celebrations.\">Ang mga sayaw ay mahalagang bahagi ng pagdiriwang.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: the dance 'Cariñosa' or 'Tinikling' in our region.\">Halimbawa: ang sayaw na 'Cariñosa' o 'Tinikling' sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Tinikling uses two long bamboo poles tapped on the floor.\">Ang Tinikling ay ginagamitan ng dalawang kawayan.</span>\n<span class=\"fil-sentence\" data-translation=\"It mimics the movement of the tikling bird avoiding traps.\">Ginagaya nito ang pag-ilag ng ibong tikling sa patibong.</span>\n<span class=\"fil-sentence\" data-translation=\"Speed and physical coordination are needed to dance it well.\">Kailangan ng bilis at koordinasyon sa pagsayaw nito.</span>\n<span class=\"fil-sentence\" data-translation=\"The dance tells a visual story of our rich local culture.\">Ang sayaw ay naglalahad ng kwento ng ating kultura.</span>\n<span class=\"fil-sentence\" data-translation=\"We also sing local folk songs while dancing on the stage.\">Inaawit din natin ang mga lokal na kanta habang sumasayaw.</span>\n<span class=\"fil-sentence\" data-translation=\"Have you tried dancing the Tinikling in your school today?\">Nakasubok ka na bang sumayaw ng Tinikling sa paaralan?</span>",
       "examples": [
         {
-          "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Katutubong Sayaw",
+          "content": "Tinikling (pag-ilag ng ibon gamit ang kawayan)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Pagsusuri ng Pista",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze a local tradition in our community today.\">Suriin natin ang isang tradisyon sa ating komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"Read: 'The Pahiyas Festival was celebrated on May 15.'\">Basahin: 'Ipinagdiwang ang Pahiyas noong Mayo 15.'</span>\n<span class=\"fil-sentence\" data-translation=\"What is the occasion mentioned in our sentence yonder?\">Ano ang okasyon na binanggit sa ating pangungusap?</span>\n<span class=\"fil-sentence\" data-translation=\"The occasion is 'Pahiyas' which is a proper noun of event.\">Ang okasyon ay 'Pahiyas' na isang pantangi sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"When was it celebrated based on our written statement?\">Kailan ito ipinagdiwang batay sa ating pahayag?</span>\n<span class=\"fil-sentence\" data-translation=\"It was celebrated on 'May 15' which is a specific date.\">Ito ay ipinagdiwang noong 'Mayo 15' na isang petsa.</span>\n<span class=\"fil-sentence\" data-translation=\"This is a tradition of gratitude for a bountiful harvest.\">Ito ay tradisyon ng pasasalamat sa saganang ani.</span>\n<span class=\"fil-sentence\" data-translation=\"Did you find the event and time in your analysis today?\">Nahanap mo ba ang pangyayari at panahon sa pagsusuri?</span>",
       "examples": [
         {
-          "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Pagsusuri Pista",
+          "content": "Pangyayari -> Pahiyas, Panahon -> Mayo 15, Kahulugan -> Pasasalamat"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Katutubong Sining",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze a woven mat made of pandan leaves today.\">Suriin natin ang isang banig na gawa sa pandan.</span>\n<span class=\"fil-sentence\" data-translation=\"The mat contains woven patterns of green, red, and yellow.\">Ang banig ay may kulay na berde, pula, at dilaw.</span>\n<span class=\"fil-sentence\" data-translation=\"Observe the shapes woven on its smooth physical surface.\">Suriin ang mga hugis na nakahabi sa ibabaw nito.</span>\n<span class=\"fil-sentence\" data-translation=\"There are shapes of flowers and waves of the nearby sea.\">May mga hugis ng bulaklak at alon ng malapit na dagat.</span>\n<span class=\"fil-sentence\" data-translation=\"This weaving art is called native weaving in our culture.\">Ang sining na ito ay tinatawag na katutubong habi.</span>\n<span class=\"fil-sentence\" data-translation=\"It was made by hand by a skilled local artist in town.\">Ito ay ginawa gamit ang kamay ng lokal na artista.</span>\n<span class=\"fil-sentence\" data-translation=\"This is a primary source of art in our local community.\">Ito ay isang primaryang batayan ng sining sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Draw the pattern of this woven mat on your drawing sheet!\">Iguhit ang pattern ng banig na ito sa inyong papel!</span>",
       "examples": [
         {
-          "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Pagsasanay Sining",
+          "content": "banig -> katutubong habi gamit ang dahon ng pandan"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Leron Leron Sinta",
+      "text": "<span class=\"fil-sentence\" data-translation=\"We will sing the folk song 'Leron Leron Sinta' today.\">Aawitin natin ang 'Leron Leron Sinta' sa klase natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Read: 'Leron, leron sinta, bud of the papaya...'\">Basahin: 'Leron, leron sinta, buko ng papaya...'</span>\n<span class=\"fil-sentence\" data-translation=\"What is the fruit mentioned at the start of the song?\">Ano ang prutas na binanggit sa simula ng kanta?</span>\n<span class=\"fil-sentence\" data-translation=\"The fruit is 'papaya' which is a common noun of thing.\">Ang prutas ay 'papaya' na isang ngalan ng bagay.</span>\n<span class=\"fil-sentence\" data-translation=\"What is the person in the song doing up yonder tree?\">Ano ang ginagawa ng tao sa kanta sa itaas ng puno?</span>\n<span class=\"fil-sentence\" data-translation=\"He is picking fruits but the branch broke unexpectedly.\">Siya ay pumipitas ng prutas ngunit nabali ang sanga.</span>\n<span class=\"fil-sentence\" data-translation=\"This folk song describes the agricultural way of life yonder.\">Ang kantang ito ay naglalarawan ng buhay sa bukid.</span>\n<span class=\"fil-sentence\" data-translation=\"Write the name of this fruit onto your writing paper now!\">Isulat ang pangalan ng prutas na ito sa inyong papel!</span>",
       "examples": [
         {
-          "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Pagsasanay Awitin",
+          "content": "papaya (prutas) -> pamumuhay sa pagsasaka (agriculture)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Maling Pagtukoy sa Petsa ng Pista",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid confusing the dates of our local celebrations today.\">Iwasan ang paglilito sa mga petsa ng pagdiriwang.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'Pahiyas Festival is celebrated on December 25 yonder.'\">Mali: 'Ipinagdiriwang ang Pahiyas tuwing Disyembre 25.'</span>\n<span class=\"fil-sentence\" data-translation=\"December 25 is the date of Christmas, not of Pahiyas.\">Ang Disyembre 25 ay petsa ng Pasko, hindi ng Pahiyas.</span>\n<span class=\"fil-sentence\" data-translation=\"Pahiyas is celebrated on May 15 yonder in Quezon province.\">Ang Pahiyas ay ginaganap tuwing Mayo 15 sa Quezon.</span>\n<span class=\"fil-sentence\" data-translation=\"Correct: 'Pahiyas Festival is celebrated on May 15.'\">Tama: 'Ipinagdiriwang ang Pahiyas tuwing Mayo 15.'</span>\n<span class=\"fil-sentence\" data-translation=\"Make sure of the correct date in your historical reports.\">Tiyakin ang tamang petsa sa inyong kasaysayang ulat.</span>\n<span class=\"fil-sentence\" data-translation=\"Ask the elders in your family or read history books now!\">Magtanong sa nakatatanda o magbasa ng aklat ngayon!</span>\n<span class=\"fil-sentence\" data-translation=\"This is the way to keep your school work accurate today!\">Ito ang paraan upang maging tumpak ang iyong gawa!</span>",
       "examples": [
         {
-          "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Petsa Error",
+          "content": "mali: Pahiyas -> Disyembre 25, tama: Pahiyas -> Mayo 15"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Maling Paglalarawan ng Sayaw",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid incorrect descriptions of our native folk dances today.\">Iwasan ang maling paglalarawan sa katutubong sayaw.</span>\n<span class=\"fil-sentence\" data-translation=\"Do not write yonder that Tinikling uses drinking glasses.\">Huwag sabihing ang Tinikling ay ginagamitan ng baso.</span>\n<span class=\"fil-sentence\" data-translation=\"The dance with glasses of light on the head is Pandanggo.\">Ang sayaw na may baso sa ulo ay Pandanggo sa Ilaw.</span>\n<span class=\"fil-sentence\" data-translation=\"The Tinikling uses large bamboo poles tapped on the floor.\">Ang Tinikling ay gumagamit ng malalaking kawayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Verify the dance props of each folk dance in your reports.\">Tiyakin ang mga kagamitan ng sayaw sa inyong ulat.</span>\n<span class=\"fil-sentence\" data-translation=\"You can watch the actual folk dance performed on stage yonder.\">Maaari mong panoorin ang sayaw upang makasiguro ka.</span>\n<span class=\"fil-sentence\" data-translation=\"Accurate details show our deep knowledge of culture yonder.\">Ang tumpak na detalye ay nagpapakita ng kaalaman natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful when writing about these native folk dances today!\">Maging maingat sa pagsulat ng mga katutubong sayaw ngayon!</span>",
       "examples": [
         {
-          "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Sayaw Pagsusuri",
+          "content": "Tinikling = kawayan (bamboo), Pandanggo = baso ng ilaw (glass)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Kasaysayan ng Pista ng Pook",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Every festival has a deep history in our local place yonder.\">Ang bawat pista ay may malalim na kasaysayan sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"It is not just for eating; the gathering has a purpose.\">Ito ay hindi lamang kainan; may layunin ang pagtitipon.</span>\n<span class=\"fil-sentence\" data-translation=\"It aims to strengthen the unity of our local barangay life.\">Nilalayon nitong palakasin ang pagkakaisa ng barangay.</span>\n<span class=\"fil-sentence\" data-translation=\"It displays the products and livelihood of the community.\">Ipinapakita nito ang kabuhayan at produkto ng komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"E.g., pineapple in Daet, roasted pig in Balayan, kiping in Lucban.\">E.g., pinya sa Daet, lechon sa Balayan, kiping sa Lucban.</span>\n<span class=\"fil-sentence\" data-translation=\"We take pride in the abundant resources given to our place.\">Ipinagmamalaki natin ang mga yaman na ibinigay sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"This provides a unique identity to each province yonder.\">Ito ay nagbibigay-identidad sa bawat lalawigan natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's love the local arts and traditions of our place!\">Mahalin natin ang sining at tradisyon ng ating pook!</span>",
       "examples": [
         {
-          "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Kasaysayan ng Pista",
+          "content": "Pista = Pagdiriwang ng produkto, kabuhayan, at pagkakaisa."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 1",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Pagsasanay 1",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 2",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Pagsasanay 2",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 3",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Pagsasanay 3",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 4",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Pagsasanay 4",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 1",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 5",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 3: Mga Makasaysayang Estruktura at Landmarks to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 1",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 5",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 2",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 6",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 3: Mga Makasaysayang Estruktura at Landmarks to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 2",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 6",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 3",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 7",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 3: Mga Makasaysayang Estruktura at Landmarks to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 3",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 7",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 4",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 8",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 3: Mga Makasaysayang Estruktura at Landmarks to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 4",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 8",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 1",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Karagdagang Pagsasanay 9",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 1",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 1",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Pagsasanay 9",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 2",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Karagdagang Pagsasanay 10",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 2",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 2",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Pagsasanay 10",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 3: Mga Makasaysayang Estruktura at Landmarks. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "title": "Buod ng Ikatlong Linggo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed all the slides for this week.\">Binabati kita! Natapos mo ang lahat ng slide sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about famous festivals like the Pahiyas yonder.\">Natutunan natin ang mga sikat na pista tulad ng Pahiyas.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about the Lechon Festival and Pineapple Festival.\">Natutunan natin ang Pista ng Lechon at Pista ng Pinya.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied native folk dances like the Tinikling yonder.\">Nag-aral tayo ng mga katutubong sayaw tulad ng Tinikling.</span>\n<span class=\"fil-sentence\" data-translation=\"We examined local arts like woven mats and bamboo baskets.\">Suriin natin ang mga sining tulad ng banig at basket.</span>\n<span class=\"fil-sentence\" data-translation=\"We created timelines of events during our town festivals.\">Gumawa tayo ng timeline ng kaganapan sa pista ng bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready for the quiz and challenges of this week now?\">Handa ka na ba sa pagsusulit at hamon ng linggong ito?</span>\n<span class=\"fil-sentence\" data-translation=\"Continue loving the rich culture of our local community today!\">Ipagpatuloy ang pagmamahal sa kultura ng ating komunidad!</span>",
       "examples": [
         {
-          "title": "Summary Points",
-          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
-        },
-        {
-          "title": "Reflection",
-          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+          "title": "Tandaan",
+          "content": "Pista = Tradisyon at Produkto. Sining = Habi at Ukit. Igalang natin!"
         }
       ]
     }
@@ -2871,248 +2747,270 @@ window.WEEK3_DATA.makabansa = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Ano ang Pista ng Pahiyas na ipinagdiriwang tuwing Mayo 15?",
       "options": [
-        "Core term: Pamilya",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "pambalana sa pook",
+        "pantangi sa pangyayari",
+        "pantangi sa tao",
+        "pambalana sa bagay"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Saan ipinagdiriwang ang sikat na Pista ng Pahiyas?",
       "options": [
-        "Core term: Tungkulin",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Calamba, Laguna",
+        "Lucban, Quezon",
+        "Balayan, Batangas",
+        "Daet, Camarines"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Sino ang patron ng mga magsasaka na ipinagdiriwang sa Pista ng Pahiyas?",
       "options": [
-        "Core term: Komunidad",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "San Juan Bautista",
+        "San Isidro Labrador",
+        "San Jose",
+        "San Pablo"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Ano ang tawag sa palamuti na yari sa bigas na may iba't ibang kulay sa Pahiyas?",
       "options": [
-        "Core term: Kasaysayan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "lechon",
+        "kiping",
+        "banig",
+        "bakya"
       ],
-      "answer": 0
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Saan ipinagdiriwang ang sikat na Pista ng Lechon tuwing Hunyo 24?",
+      "options": [
+        "Lucban, Quezon",
+        "Balayan, Batangas",
+        "Daet, Camarines Norte",
+        "Calamba, Laguna"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Sino ang patron na kasabay ng pagdiriwang ng Pista ng Lechon?",
+      "options": [
+        "San Isidro Labrador",
+        "San Juan Bautista",
+        "San Jose",
+        "San Pablo"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Anong prutas ang ipinagdiriwang sa Daet, Camarines Norte dahil sa tamis nito?",
+      "options": [
+        "papaya",
+        "pinya",
+        "saging",
+        "mangga"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang tawag sa sikat na katutubong sayaw na gumagamit ng kawayan sa pagsayaw?",
+      "options": [
+        "Cariñosa",
+        "Tinikling",
+        "Pandanggo sa Ilaw",
+        "Singkil"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Aling ibon ang ginagaya ng sayaw na Tinikling habang umiiwas sa patibong?",
+      "options": [
+        "agila",
+        "loro",
+        "tikling",
+        "pabo"
+      ],
+      "answer": 2
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 3: Mga Makasaysayang Estruktura at Landmarks is correct?",
+      "q": "Tama o Mali: Ang 'Leron Leron Sinta' ay isang lokal na folk song na naglalarawan ng buhay-bukid.",
       "options": [
-        "Statement A: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Alin sa mga sumusunod ang lokal na sining na gawa sa hinabing dahon ng pandan?",
       "options": [
-        "Core term: Landmarks",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "basket",
+        "banig",
+        "bakya",
+        "lechon"
       ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 3: Mga Makasaysayang Estruktura at Landmarks is a key topic in the study of ___.",
-      "answer": "Makabansa"
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Anong materyal ang ginagamit sa paggawa ng basket sa ating komunidad?",
       "options": [
-        "Core term: Tradisyon",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "bakal",
+        "kawayan o rattan",
+        "plastik",
+        "papel"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Ano ang tawag sa tradisyonal na kahoy na sapatos ng mga Pilipino?",
       "options": [
-        "Core term: Lokasyon",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "sapatos",
+        "tsinelas",
+        "bakya",
+        "boots"
       ],
-      "answer": 0
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Punan ang patlang sa kanta: 'Leron, leron sinta, buko ng ___...'",
+      "options": [
+        "saging",
+        "papaya",
+        "mangga",
+        "pinya"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang layunin ng pagdaraos ng Pista ng Pinya sa Daet?",
+      "options": [
+        "mag-import ng dayuhang prutas",
+        "ipagmalaki ang saganang ani ng pinyang Formosa",
+        "magbenta ng laruan",
+        "magtayo ng bagong tulay"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Anong okasyon ang ipinagdiriwang tuwing Hunyo 24 na may basaan ng tubig?",
+      "options": [
+        "Pasko",
+        "Kapistahan ni San Juan Bautista",
+        "Pista ng Pahiyas",
+        "Bagong Taon"
+      ],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 3: Mga Makasaysayang Estruktura at Landmarks is correct?",
+      "q": "Tama o Mali: Ang Pista ng Pahiyas ay ginaganap tuwing Mayo 15 sa Laguna.",
       "options": [
-        "Statement A: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are not relevant to these cases."
+        "Tama",
+        "Mali"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang pambalana sa sining na yari sa kahoy?",
+      "options": [
+        "ukit sa kahoy",
+        "habing tela",
+        "banig",
+        "lechon"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Ano ang dapat iwasan kapag sumasayaw ng Tinikling sa ibabaw ng kawayan?",
       "options": [
-        "Core term: Pamilya",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "ngumiti sa mambabasa",
+        "maipit ang paa sa pagitan ng kawayan",
+        "kumanta ng Leron Leron Sinta",
+        "tumingin sa guro"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Sino ang nagtuturo ng mga katutubong sayaw at awitin sa paaralan?",
       "options": [
-        "Core term: Tungkulin",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "doktor",
+        "guro",
+        "pulis",
+        "tanod"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Ano ang ginagawa sa mga inihaw na lechon sa parada sa Balayan?",
       "options": [
-        "Core term: Komunidad",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "kinakain habang mainit pa sa parada",
+        "binibihisan at pinapalamutian",
+        "itinatapon sa ilog",
+        "itinatago sa aklatan"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 3: Mga Makasaysayang Estruktura at Landmarks is a key topic in the study of ___.",
-      "answer": "Makabansa"
+      "type": "choice",
+      "q": "Tukuyin ang pambalana sa pangyayari: 'Masaya ang mga tao sa pista.'",
+      "options": [
+        "tao",
+        "masaya",
+        "pista",
+        "mga"
+      ],
+      "answer": 2
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 3: Mga Makasaysayang Estruktura at Landmarks is correct?",
+      "q": "Tama o Mali: Ang kiping ay palamuti na pwedeng kainin dahil ito ay gawa sa bigas.",
       "options": [
-        "Statement A: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Aling likas na yaman ang ginagamit sa paghabi ng banig?",
       "options": [
-        "Core term: Landmarks",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "bakal",
+        "dahon ng pandan o palm",
+        "bato",
+        "semento"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Ano ang pangunahing mensahe ng mga lokal na pagdiriwang sa komunidad?",
       "options": [
-        "Core term: Timeline",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
-      "options": [
-        "Core term: Tradisyon",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
-      "options": [
-        "Core term: Lokasyon",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 3: Mga Makasaysayang Estruktura at Landmarks is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are not relevant to these cases."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 3: Mga Makasaysayang Estruktura at Landmarks is a key topic in the study of ___.",
-      "answer": "Makabansa"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
-      "options": [
-        "Core term: Tungkulin",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
-      "options": [
-        "Core term: Komunidad",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
-      "options": [
-        "Core term: Kasaysayan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 3: Mga Makasaysayang Estruktura at Landmarks is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are not relevant to these cases."
+        "pagkakaisa at pasasalamat sa mga biyaya",
+        "pagbili ng bagong sapatos",
+        "paggawa ng makina",
+        "digmaan"
       ],
       "answer": 0
     }
@@ -3120,67 +3018,75 @@ window.WEEK3_DATA.makabansa = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 3: Mga Makasaysayang Estruktura at Landmarks, what is the first priority?",
+      "q": "Challenge: Aling pagkakaiba ang totoo sa pagitan ng Pista ng Pahiyas at Pista ng Lechon?",
       "options": [
-        "Analyze key terms and variables",
-        "Guess the answer immediately",
-        "Skip the question",
-        "Use unrelated formulas"
+        "Ang Pahiyas ay parangal sa patron ng magsasaka sa Quezon, habang ang Lechon ay kasabay ng pista ni San Juan sa Batangas.",
+        "Ang Pahiyas ay gumagamit ng lechon, habang ang Lechon ay gumagamit ng kiping.",
+        "Ang Pahiyas ay ginaganap sa Batangas, habang ang Lechon ay sa Quezon.",
+        "Walang pagkakaiba ang dalawang pagdiriwang na ito."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Challenge: Paano nagkakaugnay ang awiting 'Leron Leron Sinta' sa kabuhayan ng mga tao sa Laguna noong araw?",
       "options": [
-        "The primary variable: Sarili",
-        "An external variable",
-        "No variable",
-        "All variables equally"
+        "Ipinapakita nito na pangingisda ang tanging gawa doon.",
+        "Inilalarawan nito ang pamumuhay sa pagsasaka at pagpitas ng mga lokal na prutas.",
+        "Wala itong kinalaman sa kabuhayan ng mga tao.",
+        "Ipinapakita nito ang mga pabrika at makina sa lungsod."
       ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 3: Mga Makasaysayang Estruktura at Landmarks.",
-      "options": [
-        "Statement A: Proper methodology leads to a correct and verified solution.",
-        "Statement B: Rushing through calculations is safe and rarely causes errors."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: Mga Makasaysayang Estruktura at Landmarks?",
-      "answer": "pamilya"
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Challenge: Kung ang isang mag-aaral ay nais mag-aral ng kasaysayan ng sayaw na Tinikling, aling batayan ang primary source?",
       "options": [
-        "Building logical reasoning and problem-solving skills",
-        "Forgetting previous lessons",
-        "Speeding up without accuracy",
-        "None of these"
+        "isang video record ng mga katutubong sumasayaw noong 1930",
+        "isang modernong aklat sa MAPEH na isinulat nitong 2026",
+        "isang kwento ng kaibigan",
+        "isang encyclopedia"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Bakit pinalalamutian ng kiping at gulay ang mga bahay sa Pahiyas sa halip na mga plastik na laruan?",
+      "options": [
+        "Dahil walang plastik na laruan sa Quezon.",
+        "Dahil ang kiping at gulay ay sumasagisag sa pasasalamat sa saganang ani ng agrikultura.",
+        "Dahil mas mura ang kiping kaysa sa laruan.",
+        "Dahil ang Mayor ang nag-utos nito."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Aling pagkakasunod-sunod ng mga pagdiriwang sa taon ang tama batay sa kalendaryo?",
+      "options": [
+        "Pista ng Pahiyas (Mayo 15) -> Pista ng Lechon (Hunyo 24) -> Pasko (Disyembre 25)",
+        "Pista ng Lechon (Hunyo 24) -> Pista ng Pahiyas (Mayo 15) -> Pasko (Disyembre 25)",
+        "Pasko (Disyembre 25) -> Pista ng Pahiyas (Mayo 15) -> Pista ng Lechon (Hunyo 24)",
+        "Pista ng Pahiyas (Mayo 15) -> Pasko (Disyembre 25) -> Pista ng Lechon (Hunyo 24)"
       ],
       "answer": 0
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 3: Mga Makasaysayang Estruktura at Landmarks",
-    "desc": "Perform a simple observation of Week 3: Mga Makasaysayang Estruktura at Landmarks at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Ulat-Pista ng Ating Pook",
+    "desc": "Kausapin ang iyong magulang tungkol sa pista ng inyong sariling bayan o lungsod. Alamin kung kailan ito ipinagdiriwang, sino ang patron o anong produkto ang itinatampok, at anong mga lokal na pagkain ang inihahanda. Sumulat ng ulat sa papel, iguhit ang pagdiriwang, at awitin ang Leron Leron Sinta sa harap ng iyong pamilya.",
     "labels": [
-      "Accurate explanation of concept",
-      "Clarity and confidence in presentation",
-      "Neatness of written notes"
+      "Wastong natukoy ang petsa at produkto ng pista ng bayan",
+      "Maayos na naiguhit ang parada o mga lokal na pagkain",
+      "Malinaw na naawit ang folk song na may kasiglahan sa pamilya"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: Mga Makasaysayang Estruktura at Landmarks</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: Mga Makasaysayang Estruktura at Landmarks and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Pamilya and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: Mga Makasaysayang Estruktura at Landmarks.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of sarili</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: Mga Makasaysayang Estruktura at Landmarks.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 1: Pagkilala sa mga Pista</h3>\n                  <p class=\"ws-instruction\">Isulat ang ngalan ng tamang pista (<strong>Pahiyas</strong>, <strong>Pista ng Lechon</strong>, o <strong>Pista ng Pinya</strong>) batay sa produkto at lugar.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Parada ng mga nakadamit at pinalamutiang inihaw na baboy sa Balayan, Batangas:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pista ng Lechon</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Pagpapalamuti ng makukulay na kiping na yari sa bigas sa mga bahay sa Lucban, Quezon:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pahiyas</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Pagdiriwang ng saganang ani ng matatamis na pinyang Formosa sa Daet:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pista ng Pinya</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 2: Katutubong Sining at Sayaw</h3>\n                  <p class=\"ws-instruction\">Iugnay ang sining o sayaw sa katapat nitong kagamitan sa pamamagitan ng pagsulat ng tamang titik.</p>\n                  <div class=\"ws-split\" style=\"margin-top: 20px;\">\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.0;\">\n                      <div><strong>Sining at Sayaw:</strong></div>\n                      <div>1. Sayaw na Tinikling <span class=\"fil-sentence\" data-translation=\"(Tinikling Dance)\"></span></div>\n                      <div>2. Paghabi ng Banig <span class=\"fil-sentence\" data-translation=\"(Mat Weaving)\"></span></div>\n                      <div>3. Paggawa ng Bakya <span class=\"fil-sentence\" data-translation=\"(Clog Making)\"></span></div>\n                    </div>\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.0; text-align: right; padding-right: 40px;\">\n                      <div><strong>Pangunahing Kagamitan:</strong></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">C</span> &nbsp; ] &nbsp; A. dahon ng pandan <span class=\"fil-sentence\" data-translation=\"(pandan leaves)\"></span></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">A</span> &nbsp; ] &nbsp; B. dalawang mahabang kawayan <span class=\"fil-sentence\" data-translation=\"(two long bamboo poles)\"></span></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">B</span> &nbsp; ] &nbsp; C. matigas na kahoy <span class=\"fil-sentence\" data-translation=\"(hard wood block)\"></span></div>\n                    </div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 3: Pagsusuri ng Lokal na Awitin</h3>\n                  <p class=\"ws-instruction\">Sagutin ang tanong gamit ang tumpak na detalye batay sa awiting 'Leron Leron Sinta'.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Ano ang mahalagang aral sa kanta kapag nabali ang sanga ng puno ng papaya? <span class=\"fil-sentence\" data-translation=\"(What is the moral lesson when the papaya branch broke?)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Dapat maging maingat sa pag-akyat sa mga puno at sa paggawa ng trabaho sa bukid.</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Ang kawalan ng pag-iingat ay maaaring magdulot ng aksidente o pagkakahulog.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -3189,355 +3095,255 @@ window.WEEK3_DATA.gmrc = {
   "color": "#06b6d4",
   "icon": "🧘‍♂️",
   "title": "GMRC",
-  "subtitle": "Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok",
+  "subtitle": "Week 3: Pag-iimpok at Pagtitipid sa Pamilya",
   "slides": [
     {
-      "title": "Introduction to Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok",
-      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in GMRC.",
+      "title": "Welcome sa Week 3!",
+      "text": "<span class=\"fil-sentence\" data-translation=\"How are you, student? Welcome to GMRC Week 3!\">Kumusta ka, mag-aaral? Welcome sa GMRC Week 3!</span>\n<span class=\"fil-sentence\" data-translation=\"This week, we have an important lesson for our life.\">Ngayong linggo, may mahalagang aralin tayo sa buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"We will study about saving money and conservation today.\">Pag-aaralan natin ang pag-iimpok at pagtitipid.</span>\n<span class=\"fil-sentence\" data-translation=\"Saving is putting aside coins and money for our future.\">Ang pag-iimpok ay pagtatabi ng barya para sa bukas.</span>\n<span class=\"fil-sentence\" data-translation=\"Frugality is the wise and careful use of our resources.\">Ang pagtitipid ay ang matalinong paggamit ng yaman.</span>\n<span class=\"fil-sentence\" data-translation=\"We will practice this together with our own family members.\">Gagawa tayo nito kasama ang ating sariling pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready to learn how to save your daily coins?\">Handa ka na bang matutong mag-impok ng iyong barya?</span>\n<span class=\"fil-sentence\" data-translation=\"Let's start the lesson with active enthusiasm today!\">Simulan natin ang aralin nang may sigla ngayon!</span>",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok and apply them in daily situations."
-        },
-        {
-          "title": "Real-world Connection",
-          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+          "title": "Layunin ng Aralin",
+          "content": "Maunawaan ang kahalagahan ng pag-iimpok at pagtitipid sa pamilya."
         }
       ]
     },
     {
-      "title": "Core Vocabulary & Terms",
-      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "title": "Ano ang Pag-iimpok?",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Saving is the act of putting aside extra money yonder.\">Ang pag-iimpok ay ang pagtatabi ng labis na pera.</span>\n<span class=\"fil-sentence\" data-translation=\"E.g., if you are given ten pesos for school allowance,\">E.g., kapag binigyan ka ng baon na sampung piso,</span>\n<span class=\"fil-sentence\" data-translation=\"you put aside two pesos inside your coin piggy bank.\">itatabi mo ang dalawang piso sa iyong alkansya.</span>\n<span class=\"fil-sentence\" data-translation=\"The money put aside is what we call savings in GMRC.\">Ang perang itinabi ay tinatawag nating impok.</span>\n<span class=\"fil-sentence\" data-translation=\"We can use this yonder during times of sudden need in life.\">Magagamit natin ito sa oras ng pangangailangan natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Such as buying a new writing pencil when it breaks down.\">Tulad ng pagbili ng bagong lapis kapag nabali.</span>\n<span class=\"fil-sentence\" data-translation=\"Saving money displays a strong sense of self-discipline.\">Ang pag-iimpok ay nagpapakita ng disiplina sa sarili.</span>\n<span class=\"fil-sentence\" data-translation=\"Do you have your own piggy bank in your room today?\">Mayroon ka bang sariling alkansya sa inyong kuwarto?</span>",
       "examples": [
         {
-          "title": "Term 1: Pagmamahal",
-          "content": "A foundational concept in GMRC that helps us categorize and understand details."
-        },
-        {
-          "title": "Term 2: Kalinisan",
-          "content": "An active process or skill used to analyze situations and solve problems."
+          "title": "Pag-iimpok",
+          "content": "Pagtatabi ng barya (savings) sa alkansya para sa hinaharap."
         }
       ]
     },
     {
-      "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. By looking closely at how these ideas work together, we can build a strong understanding of GMRC.",
+      "title": "Ano ang Pagtitipid?",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Frugality is the careful use of our natural resources.\">Ang pagtitipid ay ang matipid na paggamit ng yaman.</span>\n<span class=\"fil-sentence\" data-translation=\"It is not only money that we conserve and save every day.\">Hindi lamang pera ang ating tinipid araw-araw.</span>\n<span class=\"fil-sentence\" data-translation=\"This includes clean water, electricity, food, and tools.\">Kasama rito ang tubig, kuryente, pagkain, at gamit.</span>\n<span class=\"fil-sentence\" data-translation=\"E.g., turning off the lights when no one is inside the room.\">E.g., ang pagpatay ng ilaw kapag walang tao sa silid.</span>\n<span class=\"fil-sentence\" data-translation=\"Or watering plants using recycled water from washing rice.\">Ang pagdidilig ng halaman gamit ang pinaghugasan.</span>\n<span class=\"fil-sentence\" data-translation=\"This helps our family reduce expenses in the monthly budget.\">Nakatutulong ito upang makatipid ang ating pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"Conservation shows respect for the resources given to us.\">Ang pagtitipid ay nagpapakita ng paggalang sa yaman.</span>\n<span class=\"fil-sentence\" data-translation=\"How can you conserve clean water when taking a bath today?\">Paano mo ititipid ang tubig kapag naliligo ka?</span>",
       "examples": [
         {
-          "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in simple activities."
-        },
-        {
-          "title": "Why It Matters",
-          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+          "title": "Pagtitipid",
+          "content": "Matalinong paggamit ng tubig, kuryente, pagkain, at gamit."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pag-iimpok ng Barya sa Bahay",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Saving coins is a fun and rewarding habit yonder.\">Ang pag-iimpok ay masayang gawi sa ating bahay.</span>\n<span class=\"fil-sentence\" data-translation=\"We can use a piggy bank made of natural bamboo poles.\">Maaari tayong gumamit ng alkansya na yari sa kawayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Or perhaps a recycled plastic bottle sitting on our desk.\">O kaya ay isang recycled na bote ng gatas sa desk.</span>\n<span class=\"fil-sentence\" data-translation=\"Drop coins inside it every afternoon returning from school.\">Hulugan ito ng barya tuwing hapon pag-uwi sa klase.</span>\n<span class=\"fil-sentence\" data-translation=\"Even a single peso or two pesos makes a big difference yonder.\">Kahit piso o dalawang piso ay malaki ang tulong.</span>\n<span class=\"fil-sentence\" data-translation=\"Over the months, the coins will accumulate to a large sum.\">Sa paglipas ng buwan, ang barya ay dadami nang marami.</span>\n<span class=\"fil-sentence\" data-translation=\"We can use this to buy our school supplies next school year.\">Magagamit natin ito sa pagbili ng mga gamit sa eskwela.</span>\n<span class=\"fil-sentence\" data-translation=\"Start saving yonder in your own house this very evening!\">Simulan ang pag-iimpok sa inyong tahanan ngayong gabi!</span>",
       "examples": [
         {
-          "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Alkansyang Kawayan",
+          "content": "Matalinong paraan upang magtabi ng barya araw-araw."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pagtitipid sa Pagkain",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Food is a blessing yonder that must never be wasted.\">Ang pagkain ay biyaya na hindi dapat sinasayang natin.</span>\n<span class=\"fil-sentence\" data-translation=\"At every mealtime, take only the amount you can consume.\">Sa bawat hapag-kainan, kumuha lamang ng sapat sa iyo.</span>\n<span class=\"fil-sentence\" data-translation=\"Eat all the rice and food served yonder on your plate.\">Ubusin ang lahat ng kanin at ulam sa inyong plato.</span>\n<span class=\"fil-sentence\" data-translation=\"Do not leave leftovers yonder to go bad or rot in trash bins.\">Huwag magtira ng pagkain upang hindi ito mabulok.</span>\n<span class=\"fil-sentence\" data-translation=\"Wasting food displays a lack of gratitude for blessings.\">Ang pagsasayang ng pagkain ay nagpapakita ng katamaran.</span>\n<span class=\"fil-sentence\" data-translation=\"Many farmers worked hard yonder to produce the rice crop.\">Maraming magsasaka ang naghirap upang makamit ang kanin.</span>\n<span class=\"fil-sentence\" data-translation=\"Respect their hard work yonder by finishing your food today.\">Igalang ang kanilang gawa sa pamamagitan ng pag-ubos.</span>\n<span class=\"fil-sentence\" data-translation=\"Check your plate now to ensure no rice is left wasted today!\">Suriin ang iyong plato ngayon kung may natirang kanin!</span>",
       "examples": [
         {
-          "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Ubusin ang Pagkain",
+          "content": "Kumuha lamang ng sapat upang maiwasan ang pagsasayang."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pagtitipid sa Kuryente",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Electricity is a valuable source of energy in town.\">Ang kuryente ay mahalagang enerhiya sa komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"It provides power to light up our study lamp at night.\">Nagbibigay ito ng liwanag sa ating lamp sa desk.</span>\n<span class=\"fil-sentence\" data-translation=\"But we must conserve it to reduce our family bill yonder.\">Ngunit kailangan natin itong tipirin upang makatipid.</span>\n<span class=\"fil-sentence\" data-translation=\"Turn off the fan when leaving the school classroom today.\">Patayin ang bentilador kapag lalabas ng silid-aralan.</span>\n<span class=\"fil-sentence\" data-translation=\"Unplug the television set when no one is watching yonder.\">Bunutin ang plug ng telebisyon kapag hindi nanonood.</span>\n<span class=\"fil-sentence\" data-translation=\"Use the natural sunlight in the morning hours when reading.\">Gamitin ang liwanag ng araw sa umaga kapag nagbabasa.</span>\n<span class=\"fil-sentence\" data-translation=\"Saving electricity helps protect our natural environment today.\">Ang pagtitipid sa kuryente ay nagliligtas sa kalikasan.</span>\n<span class=\"fil-sentence\" data-translation=\"Check yonder the plugged appliances inside your house now!\">Suriin ang mga nakasaksing kagamitan sa inyong bahay!</span>",
       "examples": [
         {
-          "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Tipid Kuryente",
+          "content": "Patayin ang ilaw at bentilador kapag walang gumagamit."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pagtitipid sa Tubig",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Water is a natural resource needed for human survival.\">Ang tubig ay likas na yaman na kailangan sa buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"We use water for washing clothes, taking baths and cooking.\">Gagamit tayo ng tubig sa paghuhugas, paliligo at iba.</span>\n<span class=\"fil-sentence\" data-translation=\"Turn off the faucet while brushing your teeth yonder today.\">Isara ang gripo habang nagsesepilyo ng inyong ngipin.</span>\n<span class=\"fil-sentence\" data-translation=\"Use a glass of water instead of letting the tap flow away.\">Gumamit ng baso sa halip na hayaang tumulo ang gripo.</span>\n<span class=\"fil-sentence\" data-translation=\"Use a dipper and pail when taking a bath inside the restroom.\">Gumamit ng tabo at balde kapag naliligo sa banyo.</span>\n<span class=\"fil-sentence\" data-translation=\"Do not let water overflow yonder when watering the garden.\">Huwag hayaang sumobra ang tubig sa pagdidilig doon.</span>\n<span class=\"fil-sentence\" data-translation=\"Every single drop of clean water carries a high value yonder.\">Ang bawat patak ng tubig ay may malaking halaga.</span>\n<span class=\"fil-sentence\" data-translation=\"How can you help your mother conserve water in the house?\">Paano mo matutulungan ang nanay sa pagtipid ng tubig?</span>",
       "examples": [
         {
-          "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Tipid Tubig",
+          "content": "Isara ang gripo habang nagsesepilyo; gumamit ng balde."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pag-iimpok at Pamilya",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Saving money improves the welfare of the family yonder.\">Ang pag-iimpok ay nagpapabuti sa buhay ng pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"Parents and children cooperate yonder to save money daily.\">Nagtutulungan ang magulang at anak sa pag-iimpok.</span>\n<span class=\"fil-sentence\" data-translation=\"We can establish a shared family savings box in the house.\">Maaari tayong magkaroon ng pangkalahatang alkansya.</span>\n<span class=\"fil-sentence\" data-translation=\"Here we drop coins yonder for sudden family emergencies today.\">Dito inilalagay ang barya para sa emergency ng pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"Such as buying medicines yonder when someone falls ill at home.\">Tulad ng pagbili ng gamot kapag may nagkasakit sa bahay.</span>\n<span class=\"fil-sentence\" data-translation=\"A child's frugality is a big help to the mother's budget.\">Ang pagtitipid ng anak ay tulong sa badyet ng nanay.</span>\n<span class=\"fil-sentence\" data-translation=\"This shows yonder that we care about our family's future.\">Ipinapakita nito na may pakialam tayo sa pamilya natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Create a frugality plan with your parents this evening!\">Gumawa ng plano ng pagtitipid kasama ang magulang ngayon!</span>",
       "examples": [
         {
-          "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Badyet ng Pamilya",
+          "content": "Ang pagtitipid ng anak ay nagpapagaan sa gastos ng magulang."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Pag-iimpok ng Barya",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's practice saving our daily coins yonder in school.\">Magsanay tayo sa pag-iimpok ng ating mga barya.</span>\n<span class=\"fil-sentence\" data-translation=\"Matteo has twenty pesos allowance from his mother today.\">Si Matteo ay may baong bente pesos mula sa nanay.</span>\n<span class=\"fil-sentence\" data-translation=\"He bought a banana at the canteen yonder for eighteen pesos.\">Bumili siya ng saging sa kantina sa halagang labing-walo.</span>\n<span class=\"fil-sentence\" data-translation=\"There are two pesos left inside his hand after buying food.\">May natirang dalawang piso sa kanyang kamay pagkatapos.</span>\n<span class=\"fil-sentence\" data-translation=\"He placed the two pesos surplus yonder in his piggy bank.\">Inilagay niya ang dalawang piso sa kanyang alkansya.</span>\n<span class=\"fil-sentence\" data-translation=\"These two pesos represent his savings for the day yonder.\">Ang dalawang piso na ito ay ang kanyang sariling impok.</span>\n<span class=\"fil-sentence\" data-translation=\"Did you manage to save some coins from your own allowance?\">Nagawa mo bang mag-impok ng barya mula sa iyong baon?</span>\n<span class=\"fil-sentence\" data-translation=\"This is a great habit that you must continue every day!\">Ito ay mahusay na gawi na dapat mong ipagpatuloy!</span>",
       "examples": [
         {
-          "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Pagsasanay Impok",
+          "content": "20 pesos (baon) - 18 pesos (saging) = 2 pesos (impok)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Pagtitipid ng Tubig",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check handwashing procedures inside our school today.\">Suriin natin ang paghuhugas ng kamay sa paaralan.</span>\n<span class=\"fil-sentence\" data-translation=\"Lani used soap to wash her hands at the school washbasin.\">Si Lani ay gumamit ng sabon upang maghugas ng kamay.</span>\n<span class=\"fil-sentence\" data-translation=\"While rubbing soap yonder on her hands at the faucet,\">Habang kinukuskos niya ang kamay ng sabon sa gripo,</span>\n<span class=\"fil-sentence\" data-translation=\"she turned off the faucet so water does not flow wasted.\">isinara niya ang gripo upang hindi tumulo ang tubig.</span>\n<span class=\"fil-sentence\" data-translation=\"She only turned it back on when she was ready to rinse.\">Binuksan niya lang ulit ito nang magbabanlaw na siya.</span>\n<span class=\"fil-sentence\" data-translation=\"This simple action displays frugality and water conservation.\">Ang kilos na ito ay nagpapakita ng pagtitipid sa tubig.</span>\n<span class=\"fil-sentence\" data-translation=\"She saved many liters of clean water yonder in school today.\">Nakatipid siya ng maraming litro ng malinis na tubig.</span>\n<span class=\"fil-sentence\" data-translation=\"Do the same thing when washing dishes in your kitchen now!\">Gawin din ito kapag naghuhugas ka sa inyong kusina!</span>",
       "examples": [
         {
-          "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Pagsasanay Tubig",
+          "content": "Lani -> isinara ang gripo habang nagsasabon ng kamay."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Pagtitipid ng Pagkain",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the family lunch routine inside our house.\">Suriin natin ang pagkain ng tanghalian sa bahay.</span>\n<span class=\"fil-sentence\" data-translation=\"Kiko took rice and side dishes yonder on his lunch plate.\">Si Kiko ay kumuha ng kanin at ulam sa kanyang plato.</span>\n<span class=\"fil-sentence\" data-translation=\"He took only a sufficient portion that he could finish eating.\">Kumuha siya ng sapat na sukat na kaya niyang ubusin.</span>\n<span class=\"fil-sentence\" data-translation=\"He finished every grain of rice yonder without any leftovers.\">Inubos niya ang bawat butil ng kanin nang walang tira.</span>\n<span class=\"fil-sentence\" data-translation=\"No food was thrown into the kitchen garbage bin after lunch.\">Walang pagkain na naitapon sa basura pagkatapos kumain.</span>\n<span class=\"fil-sentence\" data-translation=\"This action displays food conservation and gratitude for blessings.\">Ang kilos na ito ay nagpapakita ng pagtitipid sa pagkain.</span>\n<span class=\"fil-sentence\" data-translation=\"His mother was happy because Kiko has excellent self-discipline.\">Natuwa ang kanyang nanay dahil disiplinado si Kiko.</span>\n<span class=\"fil-sentence\" data-translation=\"Finish your food yonder at every mealtime with your family!\">Ubusin ang iyong pagkain sa bawat kainan kasama ang pamilya!</span>",
       "examples": [
         {
-          "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Pagsasanay Pagkain",
+          "content": "Kiko -> kumuha ng sapat at inubos ang kanin sa plato."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Maling Pagsasayang ng Tubig",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid playing with water yonder when you are taking a bath.\">Iwasan ang paglalaro ng tubig kapag naliligo ka.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'Let the faucet flow yonder while playing inside the tub.'\">Mali: 'Hayaang tumakbo ang gripo habang naglalaro sa tub.'</span>\n<span class=\"fil-sentence\" data-translation=\"Clean water is limited and expensive in our local community.\">Ang malinis na tubig ay limitado at mahal sa komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"Wasting it causes water shortage yonder for other households.\">Ang pagsasayang nito ay nagdudulot ng kakulangan sa iba.</span>\n<span class=\"fil-sentence\" data-translation=\"We must use a dipper and pail to control the water volume.\">Dapat gumamit ng tabo at balde upang kontrolin ang tubig.</span>\n<span class=\"fil-sentence\" data-translation=\"Correct: 'Use a pail and dipper yonder for bathing in bathroom.'\">Tama: 'Gumamit ng balde at tabo sa pagligo sa banyo.'</span>\n<span class=\"fil-sentence\" data-translation=\"Make sure all faucets are shut off yonder after using today!\">Tiyakin na isinasara ang mga gripo pagkatapos gamitin ngayon!</span>\n<span class=\"fil-sentence\" data-translation=\"This shows love and respect yonder for our natural resources!\">Ito ay nagpapakita ng pagmamahal sa ating likas na yaman!</span>",
       "examples": [
         {
-          "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Tubig Error",
+          "content": "mali: hayaang tumulo ang gripo -> tama: isara ang gripo kapag tapos na"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Maling Pagbili ng Hindi Kailangan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid buying things yonder that are not actually needed.\">Iwasan ang pagbili ng mga bagay na hindi naman kailangan.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'Buying many toys even if there are toys yonder at home.'\">Mali: 'Bumili ng maraming laruan kahit mayroon pa sa bahay.'</span>\n<span class=\"fil-sentence\" data-translation=\"This is a waste of money that could have been saved yonder.\">Ito ay pagsasayang ng pera na maaari sanang maiimpok.</span>\n<span class=\"fil-sentence\" data-translation=\"We must buy only the essential items needed for our classes.\">Dapat nating bilhin lamang ang mga gamit sa paaralan.</span>\n<span class=\"fil-sentence\" data-translation=\"Such as pencils, writing paper, and books used in school.\">Tulad ng lapis, papel, at aklat na ginagamit sa klase.</span>\n<span class=\"fil-sentence\" data-translation=\"Avoiding luxury is part of frugality yonder in the family.\">Ang pag-iwas sa luho ay bahagi ng pagtitipid sa pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"Make sure your spending of school allowance is wise today!\">Tiyakin na matalino ang iyong paggastos ng baon ngayon!</span>\n<span class=\"fil-sentence\" data-translation=\"This is the correct moral value that makes our parents happy!\">Ito ang wastong asal na nagpapasaya sa ating magulang!</span>",
       "examples": [
         {
-          "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Pagbili Error",
+          "content": "mali: bumili ng laruan -> tama: mag-impok ng barya sa alkansya"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pagtitipid sa mga Gamit sa Eskwela",
+      "text": "<span class=\"fil-sentence\" data-translation=\"School supplies are resources yonder that have financial value.\">Ang mga gamit sa eskwela ay yaman na may halaga.</span>\n<span class=\"fil-sentence\" data-translation=\"We must conserve and take care of them inside our classrooms.\">Dapat natin silang tipirin at ingatan sa klase.</span>\n<span class=\"fil-sentence\" data-translation=\"Use the writing pencil until it becomes short and small.\">Gamitin ang lapis hanggang sa ito ay maging munti.</span>\n<span class=\"fil-sentence\" data-translation=\"Do not tear blank pages yonder out of your school notebook.\">Huwag punitin ang mga blankong pahina ng iyong notebook.</span>\n<span class=\"fil-sentence\" data-translation=\"You can still write science lessons on those blank pages.\">Maaari mo pa itong sulatan ng mga leksyon sa science.</span>\n<span class=\"fil-sentence\" data-translation=\"Caring for supplies reduces expenses yonder for our parents.\">Ang pag-iingat sa gamit ay bawas-gastos sa magulang.</span>\n<span class=\"fil-sentence\" data-translation=\"This shows yonder that you are frugal and well-disciplined.\">Ipinapakita nito na ikaw ay matipid at disiplinado.</span>\n<span class=\"fil-sentence\" data-translation=\"Check your bag now to ensure your supplies are well-kept!\">Suriin ang iyong bag ngayon kung maayos ang iyong gamit!</span>",
       "examples": [
         {
-          "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Tipid Gamit",
+          "content": "Ingatan ang lapis at notebook; huwag punitin ang papel."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 1",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Pagsasanay 1",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 2",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Pagsasanay 2",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 3",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Pagsasanay 3",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 4",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Pagsasanay 4",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 1",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 5",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 1",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 5",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 2",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 6",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 2",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 6",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 3",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 7",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 3",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 7",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 4",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 8",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 4",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 8",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 1",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Karagdagang Pagsasanay 9",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 1",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 1",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Pagsasanay 9",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 2",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Karagdagang Pagsasanay 10",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 2",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 2",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Pagsasanay 10",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "title": "Buod ng Ikatlong Linggo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed all the slides for this week.\">Binabati kita! Natapos mo ang lahat ng slide sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about saving money and resource conservation today.\">Natutunan natin ang kahulugan ng pag-iimpok at pagtitipid.</span>\n<span class=\"fil-sentence\" data-translation=\"We discovered saving coins inside a bamboo piggy bank yonder.\">Nalaman natin ang pagtatabi ng barya sa alkansyang kawayan.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about conserving food, clean water, and lights.\">Natutunan natin ang pagtitipid sa pagkain, tubig, at ilaw.</span>\n<span class=\"fil-sentence\" data-translation=\"We avoided wasting resources and buying unnecessary things yonder.\">Iniwasan natin ang pagsasayang ng yaman at maling pagbili.</span>\n<span class=\"fil-sentence\" data-translation=\"We created a frugality plan together with our family members.\">Gumawa tayo ng plano ng pagtitipid kasama ang pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready for the quiz and challenges of this week now?\">Handa ka na ba sa pagsusulit at hamon ng linggong ito?</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being a frugal and well-disciplined child today!\">Ipagpatuloy ang pagiging matipid at disiplinadong bata!</span>",
       "examples": [
         {
-          "title": "Summary Points",
-          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
-        },
-        {
-          "title": "Reflection",
-          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+          "title": "Tandaan",
+          "content": "Pag-iimpok = Pera para sa bukas. Pagtitipid = Matalinong paggamit. Tipirin ang yaman!"
         }
       ]
     }
@@ -3545,316 +3351,346 @@ window.WEEK3_DATA.gmrc = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Ano ang tawag sa pagtatabi ng labis na barya o pera para sa hinaharap?",
       "options": [
-        "Core term: Kalinisan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "paghahambing",
+        "pag-iimpok",
+        "pagtitipid",
+        "pagyayabang"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Ano ang tawag sa matalino at maingat na paggamit ng mga likas na yaman?",
       "options": [
-        "Core term: Disiplina",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "pag-iimpok",
+        "pagtitipid",
+        "pagkusa",
+        "katamaran"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Saan karaniwang inilalagay ng mga bata ang kanilang naimpok na barya sa bahay?",
       "options": [
-        "Core term: Paggalang",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "sa basurahan",
+        "sa alkansya",
+        "sa ilalim ng pader",
+        "sa paaralan"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Alin sa mga sumusunod ang nagpapakita ng pagtitipid sa kuryente?",
       "options": [
-        "Core term: Katapatan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "hayaang nakabukas ang bentilador kapag walang tao",
+        "patayin ang ilaw at bentilador kapag lalabas ng silid-aralan",
+        "isaksak ang telebisyon buong gabi",
+        "gamitin ang lamp kahit maliwanag ang araw"
       ],
-      "answer": 0
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Paano mo maiiwasan ang pagsasayang ng pagkain sa inyong hapag-kainan?",
+      "options": [
+        "kumuha ng napakaraming pagkain at magtira sa plato",
+        "kumuha lamang ng sapat na sukat at ubusin ang nasa plato",
+        "itapon ang kanin sa basurahan",
+        "huwag kumain kailanman"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang dapat gawin sa gripo habang nagsesepilyo ng ngipin sa banyo?",
+      "options": [
+        "hayaang nakabukas at tumutulo ang tubig",
+        "isara ang gripo at gumamit ng baso",
+        "sirain ang gripo",
+        "maglaro ng tubig sa gripo"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang nagpapakita ng pagtitipid sa mga gamit sa eskwela?",
+      "options": [
+        "punitin ang mga blankong papel sa notebook",
+        "gamitin ang lapis hanggang sa ito ay maging munti nang may pag-iingat",
+        "itapon ang krayola kapag nabali ang dulo",
+        "bumili ng bagong bag buwan-buwan"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Sino ang makikinabang kapag ang buong pamilya ay nagtutulungan sa pag-iimpok at pagtitipid?",
+      "options": [
+        "ang kapitan ng barangay lamang",
+        "ang buong pamilya at magulang",
+        "ang mga pulis sa outpost lamang",
+        "ang mga tindero sa palengke"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang angkop na gamitin sa paliligo upang makatipid sa tubig kumpara sa shower?",
+      "options": [
+        "tub ng paliguan",
+        "balde at tabo",
+        "gripo na walang tigil ang tulo",
+        "hose ng tubig"
+      ],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is correct?",
+      "q": "Tama o Mali: Ang pagtitipid ng kuryente sa pamamagitan ng pagpatay ng ilaw ay nakatutulong sa badyet ng pamilya.",
       "options": [
-        "Statement A: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Ano ang dapat gawin sa mga tirang pagkain na maaari pang kainin sa susunod na kainan?",
       "options": [
-        "Core term: Pagtitipid",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "itapon sa trash bin agad",
+        "itabi nang maayos sa refrigerator upang maiinit muli",
+        "ipakain sa aso ng kapitbahay",
+        "iwanan sa mesa nang walang takip"
       ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is a key topic in the study of ___.",
-      "answer": "GMRC"
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Alin sa mga sumusunod ang pambalana sa pook kung saan tayo nag-iimpok ng pera sa komunidad?",
       "options": [
-        "Core term: Bayanihan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "palengke",
+        "bangko o alkansya",
+        "aklatan",
+        "ospital"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Anong materyal sa kalikasan ang karaniwang ginagamit sa paggawa ng katutubong alkansya?",
       "options": [
-        "Core term: Pag-iimpok",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "plastik na tasa",
+        "kawayan o luwad",
+        "bakal na susi",
+        "semento"
       ],
-      "answer": 0
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Punan ang patlang: 'Ang bawat ___ ng naimpok na barya ay may halaga para sa hinaharap.'",
+      "options": [
+        "punit ng papel",
+        "piso o barya",
+        "tapon ng pagkain",
+        "patak ng luho"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang dapat mong gawin kapag nais mong bumili ng bagong laruan ngunit may laruan ka pa sa bahay?",
+      "options": [
+        "umiyak sa harap ng nanay upang ibili ka",
+        "magtiyaga sa lumang laruan at iimpok ang barya sa alkansya",
+        "sirain ang lumang laruan",
+        "manghingi ng pera sa kapitbahay"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Saan maaaring gamitin ang pinaghugasan ng bigas sa bahay upang makatipid sa tubig?",
+      "options": [
+        "itapon sa sahig ng kusina",
+        "ipangdilig sa mga halaman sa hardin",
+        "ipanghugas ng mukha",
+        "itapon sa basura"
+      ],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is correct?",
+      "q": "Tama o Mali: Ang pagbili ng mga mamahaling gamit na hindi kailangan sa paaralan ay bahagi ng pagtitipid.",
       "options": [
-        "Statement A: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Aling ugali ang ipinapakita ng batang nagsusulat sa likod ng mga lumang papel na malinis pa?",
       "options": [
-        "Core term: Kalinisan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "katamaran",
+        "pagkamatipid at pagpapahalaga sa gamit",
+        "pagkatakot",
+        "pagyayabang"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Ano ang angkop na sabihin sa kapatid na hinayaang nakabukas ang TV kahit walang nanonood?",
       "options": [
-        "Core term: Disiplina",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "'Hayaan mo lang yan para maingay.'",
+        "'Patayin natin ang telebisyon upang makatipid tayo sa kuryente.'",
+        "'Ilipat natin sa cartoon kahit matutulog na tayo.'",
+        "'Huwag mong hawakan ang TV.'"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Ano ang pangunahing benepisyo ng pag-iimpok para sa isang Grade 3 student?",
       "options": [
-        "Core term: Paggalang",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "makabili ng pinakamataas na tatak ng sapatos",
+        "makabili ng sariling gamit sa eskwela sa pasukan nang hindi umaasa sa magulang",
+        "maging sikat sa klase",
+        "makabili ng computer agad"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is a key topic in the study of ___.",
-      "answer": "GMRC"
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang tamang kilos kapag nakita mong umaapaw ang tubig sa drum ng barangay?",
+      "options": [
+        "paglaruan ang tubig na umaapaw",
+        "isara ang gripo nang kusa upang hindi masayang ang tubig",
+        "huwag pansinin dahil hindi mo naman drum ito",
+        "isumbong sa bumbero agad"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Tukuyin ang pambalana sa bagay na nagbibigay-liwanag sa desk na ginagamitan ng kuryente:",
+      "options": [
+        "lapis",
+        "lamp o ilaw",
+        "papel",
+        "aklatan"
+      ],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is correct?",
+      "q": "Tama o Mali: Ang pagkusa sa pagpatay ng ilaw kapag umaalis sa silid ay nagpapakita ng disiplina sa sarili.",
       "options": [
-        "Statement A: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Alin sa mga sumusunod ang nagpapakita ng tamang pagtitipid sa pagkain sa paaralan?",
       "options": [
-        "Core term: Pagtitipid",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "magbaon ng napakaraming pagkain at itapon ang hindi naubos",
+        "magbaon ng sapat na pagkain at ubusin ito sa oras ng recess",
+        "bumili ng junk food sa labas ng gate",
+        "huwag kumain ng recess"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Saan dapat magsimula ang pagtuturo ng pagtitipid at pag-iimpok?",
       "options": [
-        "Core term: Responsable",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "sa banko lamang",
+        "sa loob ng tahanan kasama ang pamilya araw-araw",
+        "sa palengke lamang",
+        "kapag malaki na at nagtatrabaho na"
       ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
-      "options": [
-        "Core term: Bayanihan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
-      "options": [
-        "Core term: Pag-iimpok",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are not relevant to these cases."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is a key topic in the study of ___.",
-      "answer": "GMRC"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
-      "options": [
-        "Core term: Disiplina",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
-      "options": [
-        "Core term: Paggalang",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
-      "options": [
-        "Core term: Katapatan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are not relevant to these cases."
-      ],
-      "answer": 0
+      "answer": 1
     }
   ],
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok, what is the first priority?",
+      "q": "Challenge: Kung ang isang pamilya ay patuloy na nagsasayang ng kuryente at tubig, ano ang maaaring mangyari sa kanilang badyet?",
       "options": [
-        "Analyze key terms and variables",
-        "Guess the answer immediately",
-        "Skip the question",
-        "Use unrelated formulas"
+        "Lalaki ang kanilang babayarang bill na magdudulot ng kakulangan sa pera para sa pagkain at iba pang pangangailangan.",
+        "Mababawasan ang kanilang bayarin sa bangko.",
+        "Mas magiging masaya ang Mayor ng bayan.",
+        "Walang magiging epekto ito sa pamilya."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Challenge: Paano nakatutulong ang pag-iimpok ng barya sa alkansya sa paghahanda para sa mga hindi inaasahang pangyayari (emergencies)?",
       "options": [
-        "The primary variable: Pagmamahal",
-        "An external variable",
-        "No variable",
-        "All variables equally"
+        "Ang naimpok na pera ay magagamit upang ibili ng gamot o kagamitan sa oras ng biglaang pangangailangan nang hindi nangungutang.",
+        "Ang pera ay mabubulok sa loob ng kawayan.",
+        "Hindi na kailangang magtrabaho ng mga magulang.",
+        "Maaaring ipamigay ang pera sa mga kalaro sa plaza."
       ],
       "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok.",
-      "options": [
-        "Statement A: Proper methodology leads to a correct and verified solution.",
-        "Statement B: Rushing through calculations is safe and rarely causes errors."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
-      "answer": "kalinisan"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Challenge: Aling paraan ang pinakamahusay upang makatipid sa pagbili ng mga aklat sa paaralan kung may kapatid kang katatapos lang sa Grade 3?",
       "options": [
-        "Building logical reasoning and problem-solving skills",
-        "Forgetting previous lessons",
-        "Speeding up without accuracy",
-        "None of these"
+        "bumili ng bago at mamahaling aklat sa mall",
+        "gamitin at ingatan ang mga lumang aklat ng kapatid na maaari pang basahin",
+        "huwag nang mag-aklat kailanman sa klase",
+        "punitin ang mga aklat ng kapatid"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Bakit ang paggamit ng pinaghugasan ng bigas o gulay sa pagdidilig ng halaman ay itinuturing na matalinong pagtitipid?",
+      "options": [
+        "Dahil nakakatipid ito sa paggamit ng malinis na tubig mula sa gripo sa pamamagitan ng pag-recycle ng tubig.",
+        "Dahil mas gusto ng halaman ang tubig-bigas kaysa sa ulan.",
+        "Dahil mas madali itong gawin kaysa sa paglilinis ng pader.",
+        "Dahil binabayaran ng barangay ang pamilya sa pag-recycle."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Aling ugnayan ang pinakatumpak sa pagitan ng disiplina sa pag-iimpok at pagmamahal sa magulang?",
+      "options": [
+        "Ang matipid na bata ay nagpapagaan sa pinansyal na gastusin ng kanyang mga magulang na nagpapakita ng pagmamahal at pag-aalaga sa pamilya.",
+        "Walang ugnayan ang pagtitipid ng anak sa pagmamahal sa magulang.",
+        "Nag-iimpok ang bata upang bigyan ng laruan ang kanyang sarili lamang.",
+        "Nagtitipid ang bata upang hindi na siya pakainin ng magulang."
       ],
       "answer": 0
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok",
-    "desc": "Perform a simple observation of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Aking Plano ng Pagtitipid sa Bahay",
+    "desc": "Gumawa ng isang simpleng listahan o tsart ng pagtitipid sa inyong bahay. Isulat ang tatlong paraan kung paano mo titipirin ang tubig at kuryente sa inyong tahanan (hal. pagpatay ng ilaw kapag walang tao, paggamit ng baso sa pagse-sepilyo). Ipakita ang tsart na ito sa iyong magulang at talakayin kung paano ito makatutulong sa badyet ng pamilya.",
     "labels": [
-      "Accurate explanation of concept",
-      "Clarity and confidence in presentation",
-      "Neatness of written notes"
+      "Wastong natukoy ang tatlong paraan ng pagtitipid sa bahay",
+      "Maayos na naisulat at naiguhit ang tsart ng pagtitipid sa papel",
+      "Malinaw na naipaliwanag ang badyet at plano ng pagtitipid sa magulang"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Kalinisan and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of pagmamahal</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 1: Pag-iimpok vs. Pagtitipid</h3>\n                  <p class=\"ws-instruction\">Tukuyin kung ang sitwasyon ay nagpapakita ng <strong>Pag-iimpok</strong> (saving money) o <strong>Pagtitipid</strong> (conserving resources) gamit ang stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Nagtabi ng limang piso si Matteo mula sa kanyang baon sa kanyang alkansya. <span class=\"fil-sentence\" data-translation=\"(Matteo put aside five pesos from his allowance in his piggy bank.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pag-iimpok</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Isinara ni Lani ang gripo habang sinasabon ang kanyang mga kamay. <span class=\"fil-sentence\" data-translation=\"(Lani turned off the faucet while soaping her hands.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pagtitipid</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Pinatay ni Kiko ang bentilador bago lumabas ng silid-aralan. <span class=\"fil-sentence\" data-translation=\"(Kiko turned off the fan before leaving the classroom.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pagtitipid</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 2: Matalinong Paggamit ng Yaman</h3>\n                  <p class=\"ws-instruction\">Isulat kung ang gawi sa bahay ay <strong>Matipid</strong> (karapat-dapat) o <strong>Matalak</strong> (dapat iwasan/sinasayang ang yaman).</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Paggamit ng pinaghugasan ng bigas sa pagdidilig ng halaman. <span class=\"fil-sentence\" data-translation=\"(Using rice wash water to water plants.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Matipid</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Hayaang nakasaksak ang TV kahit natutulog na ang lahat. <span class=\"fil-sentence\" data-translation=\"(Leaving the TV plugged in even when everyone is asleep.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Matalak</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Kumuha ng sapat na pagkain lamang at ubusin ang nasa plato. <span class=\"fil-sentence\" data-translation=\"(Taking only enough food and finishing what is on the plate.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Matipid</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 3: Pagpaplano ng Pag-iimpok</h3>\n                  <p class=\"ws-instruction\">Sagutin ang tanong gamit ang tumpak na detalye batay sa iyong sariling alkansya at aralin.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Bakit mahalagang mag-impok ng barya ang isang bata sa kanyang alkansya araw-araw? <span class=\"fil-sentence\" data-translation=\"(Why is it important for a child to save coins in a piggy bank daily?)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Upang may magamit na sariling pera sa oras ng pangangailangan o pambili ng gamit sa eskwela.</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Nakatutulong din ito upang matutong maging disiplinado at matipid sa paglipas ng panahon.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -4746,352 +4582,252 @@ window.WEEK3_ADVANCED_DATA.science = {
   "subtitle": "Week 3: Science Tools and Materials",
   "slides": [
     {
-      "title": "Advanced Instrumentation",
-      "text": "Scientific research relies on high-precision instruments that extend human senses and reduce measurement error.",
+      "title": "Welcome to the Lab!",
+      "text": "Hello, Scientist! Welcome to Science Week 3!\nThis week we are entering the laboratory of tools.\nTools help scientists observe and measure things accurately.\nWe will study six core tools: rulers, hand lenses,\nscissors, balloons, modeling clay, and cardboard sheets.\nWe will practice using them safely and correctly.\nLet's learn how each tool helper makes science easier.\nAre you ready to handle lab tools like a professional?",
       "examples": [
         {
-          "title": "Calibration",
-          "content": "Comparing instrument readouts against a known standard to adjust accuracy."
-        },
-        {
-          "title": "Precision",
-          "content": "The repeatability of measurements under unchanged conditions."
+          "title": "Goal",
+          "content": "Identify and describe the correct uses of various science tools."
         }
       ]
     },
     {
-      "title": "Advanced Vocabulary",
-      "text": "Terms of precision measurement: Graduated cylinder, Triple beam balance, Calipers, and Meniscus.",
+      "title": "Rulers and Measurement",
+      "text": "A ruler is a tool used to measure length.\nIt has straight edges marked with numbers and lines.\nWe measure in millimeters, centimeters, and meters.\nWe align the zero mark of rulers with object edges.\nWe read the number at the opposite end closely.\nRulers help us record exact sizes of objects.\nWithout rulers, we could only guess the length.\nLet's measure our science notebooks using our rulers!",
       "examples": [
         {
-          "title": "Graduated cylinder",
-          "content": "A narrow container with accurate marks used to measure fluid volumes."
-        },
-        {
-          "title": "Meniscus",
-          "content": "The curve at the upper surface of a liquid in a tube."
+          "title": "Ruler",
+          "content": "Measuring a pencil: it is exactly 15 centimeters long."
         }
       ]
     },
     {
-      "title": "Instrument Selection Strategy",
-      "text": "Selecting tools requires matching the scale and physical properties of the subject with the resolution of the instrument.",
+      "title": "Hand Lenses and Sight",
+      "text": "A hand lens is also called magnifying glass.\nIt has a curved glass lens that magnifies objects.\nMagnifying means making tiny details look much larger.\nWe hold lenses close to our eye first.\nWe move the object closer or further to focus.\nLenses reveal tiny plant parts and insect limbs.\nThey show the sand grains and soil fibers clearly.\nObserve your own thumb print using hand lenses today!",
       "examples": [
         {
-          "title": "Resolution",
-          "content": "The smallest increment of change that can be detected by a tool."
-        },
-        {
-          "title": "Tolerance",
-          "content": "The allowable limit of variation in a physical measurement."
+          "title": "Hand Lens",
+          "content": "Observing tiny hairs on the stem of a green weed."
         }
       ]
     },
     {
-      "title": "Advanced Tool: Vernier Calipers",
-      "text": "Vernier calipers measure internal, external, and depth dimensions with sub-millimeter precision.",
+      "title": "Scissors and Safety",
+      "text": "Scissors are tools used to cut materials neatly.\nThey have two sharp metal blades that slide together.\nWe use them to cut paper, string, and cardboard.\nScissors must be handled with great care always.\nNever run while holding scissors in your hand.\nPass them handle-first to other students safely.\nKeep fingers away from blades when cutting shapes.\nCut out a paper circle for your wind experiment!",
       "examples": [
         {
-          "title": "External Jaws",
-          "content": "Measuring the diameter of a clay sphere."
-        },
-        {
-          "title": "Vernier Scale",
-          "content": "Reading the fractional division of a millimeter for high accuracy."
+          "title": "Scissors",
+          "content": "Cutting thick cardboard into wind vane directional arrows."
         }
       ]
     },
     {
-      "title": "Advanced Tool: Microscope",
-      "text": "Microscopes use compound lenses and light refraction to magnify objects up to 1000 times their size.",
+      "title": "Balloons and Air Space",
+      "text": "Balloons are elastic tools used to study gases.\nA dry balloon is flat and holds no shape.\nBlowing air inside stretches the rubber shell outwards.\nBalloons trap air inside, letting us observe gas.\nWe use balloons to study air pressure and volume.\nSqueezing balloons show that gas can be compressed.\nTying the neck keeps air from escaping away.\nLet's blow up balloons to see air pressure work!",
       "examples": [
         {
-          "title": "Coarse Adjustment",
-          "content": "Focusing the specimen under low magnification power."
-        },
-        {
-          "title": "Fine Adjustment",
-          "content": "Sharpening the focus detail under high magnification power."
+          "title": "Balloon",
+          "content": "Using inflated balloons to push lightweight toy carts forward."
         }
       ]
     },
     {
-      "title": "Advanced Tool: Spring Scale",
-      "text": "Spring scales measure force or weight in Newtons by stretching a calibrated internal spring.",
+      "title": "Modeling Clay and Force",
+      "text": "Modeling clay is a soft solid material.\nWe use clay to build models of landforms or organs.\nWe press, roll, and shape clay using force.\nClay holds details like hand prints and tool marks.\nIt does not spring back like rubber bands.\nWe use clay bases to hold lightweight tools upright.\nWe mix colors to represent different soil layers.\nMold a clay mountain to observe water flow down!",
       "examples": [
         {
-          "title": "Force Measurement",
-          "content": "Measuring the pull force needed to drag a block on cardboard."
-        },
-        {
-          "title": "Gravity Impact",
-          "content": "Shows the downward gravitational force acting on a mass."
+          "title": "Modeling Clay",
+          "content": "Molding a blue base to hold a paper flag upright on desks."
         }
       ]
     },
     {
-      "title": "Advanced Tool: Graduated Cylinder",
-      "text": "Graduated cylinders provide much higher liquid volume accuracy than standard beakers or cups.",
+      "title": "Cardboard and Structures",
+      "text": "Cardboard is a stiff paper material in sheets.\nIt is thicker and stronger than regular writing paper.\nWe use cardboard to build sturdy lab models.\nIt blocks light completely, casting dark grey shadows.\nWe fold cardboard to make ramps for toy cars.\nIt holds its shape well under lightweight loads.\nWe use scissors to cut cardboard into shapes.\nConstruct a cardboard shadow screen for light tests!",
       "examples": [
         {
-          "title": "Material",
-          "content": "Often made of chemical resistant polypropylene or glass."
-        },
-        {
-          "title": "Meniscus Reading",
-          "content": "Always read at the lowest point of the concave water surface."
+          "title": "Cardboard",
+          "content": "Cutting cardboard circles to act as wheels for toy carts."
         }
       ]
     },
     {
-      "title": "Advanced Tool: Digital Balance",
-      "text": "Digital scales measure mass with high precision by converting force into digital electrical signals.",
+      "title": "Tool Matching: Length",
+      "text": "Different tasks require different science tool helpers.\nIf you want to measure seed growth, use rulers.\nRulers give exact length in millimeters and centimeters.\nDo not use scissors or string to measure size.\nAlways align the object with the zero mark.\nRead the measurement carefully from left to right.\nRecord the numbers in your lab notebook immediately.\nPractice measuring three different leaves with rulers now!",
       "examples": [
         {
-          "title": "Tare Function",
-          "content": "Resetting the scale to zero with a container on it to weigh only contents."
-        },
-        {
-          "title": "Units",
-          "content": "Reads mass in grams, ounces, or grains."
+          "title": "Length",
+          "content": "Selecting a wooden ruler to measure desk height."
         }
       ]
     },
     {
-      "title": "Advanced Tool: Bunsen Burner",
-      "text": "Bunsen burners produce a single open gas flame used for heating, sterilization, and combustion tests.",
+      "title": "Tool Matching: Details",
+      "text": "If you want to see tiny details, use lenses.\nLenses help us observe things too small for eyes.\nE.g., observing the wings of a small fly.\nDo not hold the lens too far from eyes.\nKeep the lens near your eye and move objects.\nThis focus technique gives the clearest, biggest view.\nLenses help us describe physical textures of soils.\nIdentify five details on rocks using hand lenses!",
       "examples": [
         {
-          "title": "Air Control",
-          "content": "Adjusting the collar to control oxygen mix for a clean blue flame."
-        },
-        {
-          "title": "Safety Valve",
-          "content": "Quick shut-off gas lines in case of flame blow-back."
+          "title": "Details",
+          "content": "Selecting a magnifying glass to check leaf vein patterns."
         }
       ]
     },
     {
-      "title": "Advanced Tool: PH Meter",
-      "text": "PH meters measure the hydrogen-ion activity in water-based solutions, indicating acidity.",
+      "title": "Tool Matching: Shaping",
+      "text": "If you want to build models, use clay.\nClay allows us to shape mountains and valleys.\nIf you want to make flat shapes, use cardboard.\nCardboard sheets are stiff and stand up well.\nIf you want to separate materials, use scissors.\nScissors cut paper and cardboard into neat pieces.\nCombining tools helps us build advanced science models.\nUse clay to hold a cardboard sign on desks!",
       "examples": [
         {
-          "title": "Probe Calibration",
-          "content": "Using buffer solutions (pH 4, 7, 10) to calibrate the probe."
-        },
-        {
-          "title": "Resolution",
-          "content": "Reads values with 0.01 precision units."
+          "title": "Shaping",
+          "content": "Using modeling clay and cardboard to build a water dam model."
         }
       ]
     },
     {
-      "title": "Advanced Tool: Anemometer",
-      "text": "Anemometers measure wind speed and direction, converting wind pressure into mechanical rotation.",
+      "title": "Safe Handling Procedures",
+      "text": "Safety is the first rule in every science lab.\nAlways follow the teacher's instructions when using tools.\nCarry scissors with the blades pointing downwards always.\nNever point sharp tools at other students' eyes.\nDo not put modeling clay in your mouth.\nWash hands with soap after playing with clay.\nDo not over-inflate balloons to prevent loud pops.\nKeep your workstation clean and free of clutter!",
       "examples": [
         {
-          "title": "Cups",
-          "content": "Three or four spinning cups capture wind velocity."
-        },
-        {
-          "title": "Digital Readout",
-          "content": "Displays speed in kilometers per hour or knots."
+          "title": "Safety",
+          "content": "Wearing safety goggles when cutting stiff cardboard sheets."
         }
       ]
     },
     {
-      "title": "Advanced Tool: Hydrometer",
-      "text": "Hydrometers measure the relative density (specific gravity) of liquids based on buoyancy concepts.",
+      "title": "Measuring Length Accurately",
+      "text": "To measure length, align rulers with object edges.\nEnsure the zero mark is exactly at the start.\nLook directly down at the ruler marks closely.\nLooking from angles creates measurement errors in data.\nRead the nearest centimeter mark on the ruler.\nRead the tiny millimeter marks for extra detail.\nE.g., a twig is 5 centimeters and 4 millimeters.\nRecord both units in your science journal page!",
       "examples": [
         {
-          "title": "Floatation",
-          "content": "Floats higher in dense liquids like saltwater, lower in pure water."
-        },
-        {
-          "title": "Scale",
-          "content": "Readings at the point where the liquid surface cuts the hydrometer stem."
+          "title": "Accuracy",
+          "content": "Avoiding parallax error by looking straight down at marks."
         }
       ]
     },
     {
-      "title": "Advanced Tool: Barometer",
-      "text": "Barometers measure atmospheric pressure, which is critical for predicting incoming weather fronts.",
+      "title": "Magnifying Soil Grains",
+      "text": "Let's study soil composition using our hand lenses.\nSpread a spoonful of loam soil on paper.\nHold the lens close to your eye level.\nLook through the lens at the soil spread.\nObserve the tiny rock grains and leaf fibers.\nObserve how clay holds water compared to sand.\nLenses help us classify soils by physical properties.\nWrite down the differences you observe in journals!",
       "examples": [
         {
-          "title": "Mercury Barometer",
-          "content": "Measures the height of a mercury column supported by air pressure."
-        },
-        {
-          "title": "Aneroid Barometer",
-          "content": "Uses a small, flexible metal box called an aneroid cell."
+          "title": "Observation",
+          "content": "Seeing sparkling quartz crystals in sandy river soil."
         }
       ]
     },
     {
-      "title": "Advanced Tool: Spectrophotometer",
-      "text": "Spectrophotometers measure light absorption of a chemical solution across wavelengths.",
+      "title": "Blowing Balloons safely",
+      "text": "Balloons teach us about air volume and pressure.\nBreathe in deeply and blow air into balloons.\nThe rubber stretches as more air goes inside.\nStop blowing before the rubber becomes too thin.\nOver-stretched balloons pop easily, creating loud noises.\nLoud pops can hurt ears and startle classmates.\nTie the neck with string to hold the air.\nMeasure the balloon's width using string and rulers!",
       "examples": [
         {
-          "title": "Cuvette",
-          "content": "A small square tube holding the liquid sample inside the machine."
-        },
-        {
-          "title": "Absorbance",
-          "content": "More concentrated solutions absorb more light."
+          "title": "Balloon safety",
+          "content": "Inflating balloons slowly to prevent rapid rubber failure."
         }
       ]
     },
     {
-      "title": "Advanced Tool: Sound Level Meter",
-      "text": "Sound level meters measure sound pressure levels in decibels (dB), tracking acoustic noise.",
+      "title": "Pressing Modeling Clay",
+      "text": "We mold modeling clay to test physical forces.\nFlatten a ball of clay on your desk.\nPress your thumb into the clay surface firmly.\nObserve the detailed print of your thumb left.\nThe clay records the force of your thumb print.\nUse a toothpick to draw lines in the clay.\nClay is a solid that changes shape under force.\nRoll the clay back into balls to reuse!",
       "examples": [
         {
-          "title": "Microphone",
-          "content": "Converts sound waves into electrical signals."
-        },
-        {
-          "title": "Decibel Scale",
-          "content": "A logarithmic scale representing sound intensity."
+          "title": "Clay Force",
+          "content": "Clay holds shapes because it lacks elasticity to snap back."
         }
       ]
     },
     {
-      "title": "Advanced Tool: Crucible & Tong",
-      "text": "Crucibles are ceramic pots that hold metals during high-temperature heating.",
+      "title": "Cutting Cardboard Shapes",
+      "text": "Stiff cardboard sheets block light to make shadows.\nDraw a tree shape on a cardboard sheet.\nUse scissors to cut along the drawn lines.\nHold the cardboard tree in front of flashlights.\nObserve the dark tree shadow cast on walls.\nCardboard is opaque, meaning it blocks light completely.\nPaper is translucent, letting some light pass through.\nCompare shadows cast by cardboard and writing paper!",
       "examples": [
         {
-          "title": "Refractory Material",
-          "content": "Can withstand temperatures over 1000 degrees Celsius without melting."
-        },
-        {
-          "title": "Tong Safety",
-          "content": "Using metal pincers to transfer hot crucibles from furnace to cooling pad."
+          "title": "Cardboard Shadow",
+          "content": "Opaque cardboard blocks all light, creating sharp shadows."
         }
       ]
     },
     {
-      "title": "Advanced Tool: Pipette & Micropipette",
-      "text": "Micropipettes transfer microscopic liquid volumes in microliters (uL) with absolute precision.",
+      "title": "Tool Maintenance",
+      "text": "Taking care of tools makes them last longer.\nWipe rulers dry after measuring wet garden soil.\nClean lenses with soft cloths to avoid scratches.\nScratches on glass lenses make observations blurry.\nStore scissors in their cases with blades closed.\nKeep modeling clay in sealed plastic bags always.\nAir dries out clay, making it hard and crumbly.\nReturn all tools to their boxes after experiments!",
       "examples": [
         {
-          "title": "Plunger Steps",
-          "content": "First stop to draw liquid; second stop to blow out remaining drops."
-        },
-        {
-          "title": "Disposable Tips",
-          "content": "Plastic tips changed between samples to prevent contamination."
+          "title": "Maintenance",
+          "content": "Keeping clay moist by storing it in airtight containers."
         }
       ]
     },
     {
-      "title": "Advanced Tool: Stopwatch & Gate Timer",
-      "text": "Photocell gates measure speed accurately by recording the time an object blocks a light beam.",
+      "title": "Guided Practice: Using Rulers",
+      "text": "Let's practice measuring classroom items with rulers.\nMeasure the length of your yellow pencil today.\nPlace the pencil tip at the zero mark.\nRead the number next to the eraser end.\nIf it is at 12, the length is 12cm.\nIf it is 3 marks past 12, it is 12.3cm.\nAlways write the unit (cm or mm) next to numbers.\nNumbers without units are not scientific data!",
       "examples": [
-        {
-          "title": "Photocell",
-          "content": "Light sensor that triggers the clock start/stop instantly."
-        },
-        {
-          "title": "Precision",
-          "content": "Measures time intervals in milliseconds, removing human reaction delay."
-        }
-      ]
-    },
-    {
-      "title": "Guided Practice: Calibration Protocols",
-      "text": "Understanding how to calibrate a digital scale and a pH probe.",
-      "examples": [
-        {
-          "title": "Digital Scale",
-          "content": "Place a certified 100g weight and select calibrate mode."
-        },
-        {
-          "title": "pH Calibration",
-          "content": "Dip probe in neutral buffer, select calibrate, then wash with distilled water."
-        }
-      ]
-    },
-    {
-      "title": "Guided Practice: Reading Meniscus",
-      "text": "Reading volume markings on a graduated cylinder.",
-      "examples": [
-        {
-          "title": "Concave Meniscus",
-          "content": "Water curves up the sides of glass; read the flat bottom of the curve."
-        },
-        {
-          "title": "Convex Meniscus",
-          "content": "Mercury curves down; read the top of the curve."
-        }
-      ]
-    },
-    {
-      "title": "Guided Practice: Force Calibration",
-      "text": "Using a spring scale to measure mechanical drag.",
-      "examples": [
-        {
-          "title": "Zeroing",
-          "content": "Hold scale vertically with nothing attached and adjust screw to 0."
-        },
         {
           "title": "Measurement",
-          "content": "Read force units in Newtons while dragging a block slowly."
+          "content": "Writing '15 cm' instead of just '15' in journals."
         }
       ]
     },
     {
-      "title": "Guided Practice: Microscopic View",
-      "text": "Calculating total magnification of a compound microscope.",
+      "title": "Guided Practice: Using Lenses",
+      "text": "Let's practice magnifying leaves using hand lenses.\nSelect a leaf from the garden outside today.\nHold the hand lens near your eye level.\nBring the leaf close until veins look sharp.\nObserve the network of veins carrying water inside.\nObserve the tiny patterns on the leaf surface.\nDraw the magnified veins in your science log.\nLenses help us explore hidden patterns in nature!",
       "examples": [
         {
-          "title": "Eyepiece Magnification",
-          "content": "Standard eyepiece is 10x magnification."
-        },
-        {
-          "title": "Objective Lens",
-          "content": "Using a 40x objective lens yields a total magnification of 400x."
+          "title": "Focusing",
+          "content": "Moving the leaf slowly back and forth to find focus."
         }
       ]
     },
     {
-      "title": "Common Error: Parallax Error",
-      "text": "Parallax error happens when you read markings from an angle instead of eye level.",
+      "title": "Guided Practice: Safe Cutting",
+      "text": "Let's practice cutting cardboard shapes safely today.\nDraw three circles on a sheet of cardboard.\nHold the cardboard sheet firmly with one hand.\nUse scissors to cut along the circular lines.\nKeep your cutting hand fingers away from blades.\nCut slowly to stay on lines and avoid slips.\nDiscard paper scraps into the recycle bin soon.\nClean workspaces prevent slips and safety hazards!",
+      "examples": [
+        {
+          "title": "Cutting",
+          "content": "Following drawn guide lines to cut neat circles safely."
+        }
+      ]
+    },
+    {
+      "title": "Guided Practice: molding Clay",
+      "text": "Let's build a science model using modeling clay.\nRoll clay into a round ball on desks.\nFlatten it to represent a flat island surface.\nBuild small clay hills on top of the island.\nClay helps us represent physical shapes in 3D.\nDrip water on hills to observe flow patterns.\nWater flows down clay hills into flat valleys.\nClean your desk surface after finishing clay models!",
+      "examples": [
+        {
+          "title": "Modeling",
+          "content": "Using clay to model how rivers flow down mountains."
+        }
+      ]
+    },
+    {
+      "title": "Common Error: Blurry Lenses",
+      "text": "A common mistake is holding lenses far from eyes.\nIf you hold lenses at arm's length, view is tiny.\nIt makes focusing difficult and distorts the image.\nAlways keep the lens near your eye level.\nMove the object closer until it looks sharp.\nThis technique uses the curved glass lens correctly.\nClean oily fingerprints off glass lenses with cloths.\nBlurs on lenses block detailed science observations!",
       "examples": [
         {
           "title": "Incorrect",
-          "content": "Looking down at a thermometer creates a false higher reading."
-        },
-        {
-          "title": "Correct",
-          "content": "Position your eyes exactly level with the fluid surface."
+          "content": "Holding the lens next to the leaf far from your eyes."
         }
       ]
     },
     {
-      "title": "Common Error: Taring Neglect",
-      "text": "Neglecting to tare a scale results in the container's weight being added to the mass.",
+      "title": "Common Error: Misaligned Rulers",
+      "text": "A common mistake is starting measurement at 1 mark.\nMany rulers have empty space before the 0 line.\nAlways start measuring at the 0 line mark.\nStarting at the ruler edge adds extra millimeters.\nThis error makes your recorded length inaccurate.\nCheck where the numbers start on your ruler.\nEnsure the 0 mark is aligned with the edge.\nAccurate measurements keep science data reliable!",
       "examples": [
         {
           "title": "Incorrect",
-          "content": "Weighing 10g of salt inside a 50g beaker and recording 60g."
-        },
-        {
-          "title": "Correct",
-          "content": "Placing the beaker, pressing 'Tare' (zeroing), then adding salt for a 10g reading."
+          "content": "Aligning the pencil tip with the physical end of the plastic ruler."
         }
       ]
     },
     {
-      "title": "Summary of Week 3 Advanced",
-      "text": "You completed Week 3 Advanced! You now understand precision calibration and advanced tools.",
+      "title": "Extra Practice: Science Review A",
+      "text": "Let's review the important science concepts of Week 3.\nWe have studied observations, measurements, and predictions.\nA real scientist is always curious and checks their facts.\nThink about the experiments we discussed in the slides.\nCan you explain them in your own words to others?\nUse your scientific vocabulary to describe your ideas clearly.\nAnswer the quiz questions and challenges to test your memory.\nKeep up the great work and enjoy exploring the world!",
+      "examples": [
+        {
+          "title": "Review Card 1",
+          "content": "Practice explaining these science ideas to your family."
+        }
+      ]
+    },
+    {
+      "title": "Summary of Week 3",
+      "text": "Congratulations! You completed all the slides for Week 3.\nLet's review the main science tools we mastered.\nWe learned the uses of rulers, lenses, and scissors.\nWe explored balloons, modeling clay, and cardboard.\nWe practiced safe carrying and handling of sharp tools.\nWe measured length in centimeters and magnified details.\nWe avoided common focus and ruler alignment errors.\nYou are now ready to take the quiz and challenges!",
       "examples": [
         {
           "title": "Key Takeaway",
-          "content": "Advanced science requires reducing human and tool errors through systematic protocols."
-        },
-        {
-          "title": "Next Step",
-          "content": "Advance to Week 4 to master science process skills like data classification and communication."
+          "content": "Choosing the right tool is key to successful investigations."
         }
       ]
     }
@@ -5099,198 +4835,344 @@ window.WEEK3_ADVANCED_DATA.science = {
   "standard": [
     {
       "type": "choice",
-      "q": "Which tool is specifically designed to measure fluid volume with the highest precision?",
-      "options": ["Beaker", "Graduated cylinder", "Erlenmeyer flask", "Glass jar"],
+      "q": "Which tool is used to measure the length of a leaf in centimeters?",
+      "options": [
+        "Hand lens",
+        "Ruler",
+        "Scissors",
+        "Cardboard"
+      ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "What do we call the curved surface of a liquid in a narrow glass tube?",
-      "options": ["Meniscus", "Curvature", "Buoyancy", "Viscosity"],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "How do you calculate the total magnification of a microscope using a 10x eyepiece and a 40x objective lens?",
-      "options": ["10 + 40 = 50x", "40 - 10 = 30x", "10 x 40 = 400x", "40 / 10 = 4x"],
-      "answer": 2
-    },
-    {
-      "type": "choice",
-      "q": "What error occurs when a student reads the liquid scale from an angle rather than at eye level?",
-      "options": ["Meniscus error", "Parallax error", "Calibration error", "Zeroing error"],
+      "q": "What is the correct way to focus a hand lens?",
+      "options": [
+        "Hold it at arm's length.",
+        "Hold it close to your eye and move the object.",
+        "Wave it back and forth quickly.",
+        "Look at it from the side."
+      ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Which function on a digital scale resets the reading to zero after placing a container?",
-      "options": ["Reset", "Calibrate", "Tare", "Hold"],
-      "answer": 2
-    },
-    {
-      "type": "choice",
-      "q": "What force unit is measured by a spring scale?",
-      "options": ["Grams", "Newtons", "Milliliters", "Degrees"],
+      "q": "How should you carry scissors in the classroom safely?",
+      "options": [
+        "Run with them in your hand.",
+        "With the blades closed and pointing downwards.",
+        "Wave them in the air.",
+        "Keep them open for quick use."
+      ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Which tool is used to measure wind speed in meteorology?",
-      "options": ["Barometer", "Anemometer", "Thermometer", "Hydrometer"],
+      "q": "What property of balloons are we exploring when we blow air inside?",
+      "options": [
+        "Weight",
+        "Elasticity and containing air",
+        "Color changes",
+        "Taste"
+      ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "How does a hydrometer work to measure liquid density?",
-      "options": ["It measures the temperature of the liquid.", "It floats at different depths based on liquid buoyancy.", "It weighs the liquid on a scale.", "It counts the drops of liquid."],
+      "q": "Which material is best for molding a 3D model of a mountain?",
+      "options": [
+        "Cardboard sheet",
+        "Modeling clay",
+        "Scissors",
+        "Ruler"
+      ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Which instrument is used to measure atmospheric pressure to predict weather?",
-      "options": ["Barometer", "Anemometer", "Thermometer", "Spectrophotometer"],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "What should you do to a digital scale before weighing a substance?",
-      "options": ["Wipe it with oil.", "Tare it to read exactly zero.", "Shake it gently.", "Unplug it first."],
+      "q": "Why is cardboard preferred over writing paper for shadow screens?",
+      "options": [
+        "It is green.",
+        "It is opaque and blocks light completely.",
+        "It is soft and sticky.",
+        "It floats on water."
+      ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "What is the resolution of a ruler that shows markings for every millimeter?",
-      "options": ["1 cm", "1 mm", "0.1 mm", "0.01 mm"],
+      "q": "Where should you align the edge of an object on a ruler?",
+      "options": [
+        "At the 1 cm mark",
+        "At the 0 line mark",
+        "At the physical edge of the ruler",
+        "At the 10 cm mark"
+      ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Why does sound travel fastest through solid metals?",
-      "options": ["Metals are heavy.", "Molecules are packed tightly together, transferring waves rapidly.", "Metals are colder.", "Metals have magnetic force."],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "Which tool is used to transfer very small liquid volumes in microliters?",
-      "options": ["Glass dropper", "Micropipette", "Graduated cylinder", "Measuring cup"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "What is the purpose of calibrating a pH meter with buffer solutions?",
-      "options": ["To clean the probe.", "To adjust the accuracy of the reading against known values.", "To charge the battery.", "To increase the viscosity of the water."],
-      "answer": 1
-    },
-    {
-      "type": "verify",
-      "q": "True or False: Mercury forms a convex meniscus, meaning the curve points upwards.",
-      "options": ["True", "False"],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Which tool is used to measure the intensity of sound in decibels?",
-      "options": ["Anemometer", "Sound level meter", "Spectrophotometer", "Spring scale"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "What does a spectrophotometer measure?",
-      "options": ["Wind direction", "Light absorbance of a solution", "Mass of a solid", "Sound frequency"],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "Why are photocell gate timers preferred over hand-held stopwatches for speed tests?",
-      "options": ["They are cheaper.", "They eliminate human reaction time delays.", "They measure distance.", "They make the cars go faster."],
-      "answer": 1
-    },
-    {
-      "type": "choice",
-      "q": "Which tool would you use to measure the thickness of a leaf with sub-millimeter precision?",
-      "options": ["Vernier calipers", "Standard wooden ruler", "Measuring tape", "Spring scale"],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "What safety tool is used to carry a hot crucible from a Bunsen burner?",
-      "options": ["Rubber gloves", "Crucible tongs", "Tweezers", "Paper towel"],
+      "q": "Which tool makes tiny plant vein patterns look larger?",
+      "options": [
+        "Ruler",
+        "Hand lens (Magnifying glass)",
+        "Balloon",
+        "Cardboard"
+      ],
       "answer": 1
     },
     {
       "type": "verify",
-      "q": "True or False: Insufficient calibration leads to systemic errors in experimental results.",
-      "options": ["True", "False"],
+      "q": "True or False: Storing modeling clay in an open box makes it dry and crumbly.",
+      "options": [
+        "True",
+        "False"
+      ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What happens to the meniscus curve when reading water volume in a plastic cylinder?",
-      "options": ["It curves upwards.", "It is almost flat because water does not adhere strongly to plastic.", "It turns upside down.", "It disappears."],
+      "q": "What happens if you blow too much air into a rubber balloon?",
+      "options": [
+        "It turns into solid clay.",
+        "It pops because the rubber stretches too thin.",
+        "It becomes extremely heavy.",
+        "It turns blue."
+      ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "What adjustment knob is used to sharpen focus under high microscope magnification?",
-      "options": ["Coarse adjustment knob", "Fine adjustment knob", "Stage clip screw", "Light source switch"],
+      "q": "What should you do after playing with modeling clay in class?",
+      "options": [
+        "Eat your lunch immediately.",
+        "Wash your hands with soap and water.",
+        "Wipe your hands on your shirt.",
+        "Put the clay in your pockets."
+      ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "Which tool measures specific gravity of liquids?",
-      "options": ["Hydrometer", "Barometer", "Anemometer", "Thermometer"],
+      "q": "Which unit is used to measure small object lengths on a ruler?",
+      "options": [
+        "Millimeter (mm)",
+        "Meter (m)",
+        "Gram (g)",
+        "Liter (L)"
+      ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "What unit is displayed on a spring scale?",
-      "options": ["Newton", "Gram", "Liter", "Meter"],
+      "q": "Which tool is best for cutting cardboard sheets into circles?",
+      "options": [
+        "Ruler",
+        "Scissors",
+        "Hand lens",
+        "Modeling clay"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: We should carry scissors handle-first when passing them to a friend.",
+      "options": [
+        "True",
+        "False"
+      ],
       "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What does 'magnify' mean when using a hand lens?",
+      "options": [
+        "To make objects smell sweet",
+        "To make small details look larger",
+        "To change the color of things",
+        "To measure length in meters"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which material holds its shape permanently under thumb force?",
+      "options": [
+        "Balloons",
+        "Modeling clay",
+        "Water",
+        "Air"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Why do we wipe rulers dry after measuring wet garden soil?",
+      "options": [
+        "To prevent rust and keep markings clean.",
+        "To change their color.",
+        "To make them stretchier.",
+        "To make them float."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What thickness property describes cardboard compared to writing paper?",
+      "options": [
+        "It is thinner.",
+        "It is thicker and stronger.",
+        "It is softer.",
+        "It is stickier."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Standard scientific measurements require both numbers and units.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which tool should be stored in airtight bags to remain soft?",
+      "options": [
+        "Scissors",
+        "Modeling clay",
+        "Rulers",
+        "Hand lenses"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Which VCV word represents the starting point on rulers?",
+      "options": [
+        "zero",
+        "unit",
+        "mark",
+        "base"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "What force is applied when cutting cardboard with scissors?",
+      "options": [
+        "Magnetic force",
+        "Mechanical sliding force (cutting)",
+        "Heat force",
+        "Chemical force"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "verify",
+      "q": "True or False: Glass lenses should be cleaned with rough sand paper.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "What color shadow does opaque cardboard cast under flashlights?",
+      "options": [
+        "Dark grey or black",
+        "Bright yellow",
+        "Clear white",
+        "No shadow at all"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Which tool is best for checking fine crystal grains in soil?",
+      "options": [
+        "Ruler",
+        "Hand lens",
+        "Balloons",
+        "Clay"
+      ],
+      "answer": 1
     }
   ],
   "challenge": [
     {
       "type": "choice",
-      "q": "A student records the volume of water in a graduated cylinder as 45 mL. If they looked down at the cylinder from an angle, what is their error called, and is the actual volume higher or lower?",
-      "options": ["Parallax error; actual volume is lower than 45 mL.", "Parallax error; actual volume is higher than 45 mL.", "Zeroing error; actual volume is exactly 45 mL.", "Calibration error; actual volume is 45 mL."],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "You are using a Vernier caliper to measure the outer diameter of a marble. The main scale reads 1.4 cm, and the Vernier scale aligns at the 3rd mark. What is the diameter?",
-      "options": ["1.43 cm", "14.3 cm", "1.7 cm", "1.1 cm"],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Explain why a triple beam balance is calibrated to zero before usage.",
-      "options": ["To prevent rust from forming on the beams.", "To ensure the mass readings are accurate and not shifted by tare values.", "To make the pans balance faster.", "To prevent the weights from sliding."],
+      "q": "Challenge: If you measure a leaf using a ruler starting at the 2 cm mark, and the end is at the 8 cm mark, how long is the leaf?",
+      "options": [
+        "8 cm",
+        "6 cm",
+        "10 cm",
+        "2 cm"
+      ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "If you need to measure exactly 2.5 microliters of a enzyme solution, which tool is required?",
-      "options": ["Glass dropper", "Micropipette", "10 mL graduated cylinder", "Measuring cup"],
-      "answer": 1
+      "q": "Challenge: Why does a leaf venation pattern look blurry through a hand lens that is held 30 cm away from your eyes?",
+      "options": [
+        "The lens is too far from eyes to focus light correctly.",
+        "The leaf has no veins.",
+        "The lens is dirty.",
+        "The sun is too bright."
+      ],
+      "answer": 0
     },
     {
       "type": "choice",
-      "q": "A student weighs 5 grams of salt in a beaker without taring the scale. The beaker weighs 42 grams. What does the scale read?",
-      "options": ["5 grams", "42 grams", "47 grams", "37 grams"],
-      "answer": 2
+      "q": "Challenge: Which tool combination is best to build a wind direction indicator (wind vane)?",
+      "options": [
+        "Cardboard sheet, scissors, modeling clay base, and a pointer stick.",
+        "Balloons and rulers.",
+        "Hand lens and soap.",
+        "Water and sand."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Why does modeling clay stay flat when pressed, while inflated balloons return to shape after light pressure?",
+      "options": [
+        "Clay is plastic (malleable) while balloon rubber is elastic.",
+        "Clay is heavier.",
+        "Balloons contain magic air.",
+        "Clay is colder."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Spot the safety hazard: 'Cutting cardboard with scissors while running down the hallway.'",
+      "options": [
+        "Blades are closed.",
+        "Running increases risk of falling and blade injury.",
+        "The hallway is too dark.",
+        "Cardboard is recyclable."
+      ],
+      "answer": 1
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Precision Calibration & Measurement Design",
-    "desc": "Write a step-by-step protocol for calibrating a digital kitchen scale at home. Explain what parallax error is and draw three diagrams: one showing a graduated cylinder read from too high, one read from too low, and one read correctly at eye level. Label the meniscus in each diagram.",
-    "labels": ["Wrote an accurate step-by-step digital scale calibration protocol", "Clearly explained parallax error and how to avoid it", "Drew three detailed, labeled diagrams comparing eye levels and meniscus reading"]
+    "title": "Science Tool Explorer Lab",
+    "desc": "Select three science tools at home (e.g., a ruler, a hand lens or magnifying glass, and modeling clay or playdough). Use the ruler to measure your thumb length in millimeters and centimeters. Use the lens to observe your thumb skin details. Mold clay to match your thumb's shape. Draw and describe your steps in a lab report for your parents.",
+    "labels": [
+      "Correctly used rulers to measure in cm and mm",
+      "Correctly used hand lenses to observe fine details",
+      "molded clay accurately and followed safe handling rules"
+    ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Instrument Resolution</h3>\n                  <p class=\"ws-instruction\">State the resolution (smallest mark interval) and the target subject of each instrument.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Vernier Calipers vs. Standard Ruler: Which has higher resolution?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"><span class=\"ws-answer\">Vernier Calipers</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. What is the resolution of a micropipette measured in?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"><span class=\"ws-answer\">Microliters (uL)</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Advanced Calibration Protocol</h3>\n                  <p class=\"ws-instruction\">Complete the table cells explaining the calibration steps for each tool.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Tool Name</th>\n                        <th>Calibration Standard</th>\n                        <th>Action Required</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>pH Meter</td>\n                        <td>pH 7.0 buffer solution</td>\n                        <td><span class=\"ws-answer\">Submerge probe and press Calibrate</span></td>\n                      </tr>\n                      <tr>\n                        <td>Digital Scale</td>\n                        <td>100g calibration weight</td>\n                        <td><span class=\"ws-answer\">Zero scale, place weight, adjust</span></td>\n                      </tr>\n                      <tr>\n                        <td>Spring Scale</td>\n                        <td>Empty vertical hang</td>\n                        <td><span class=\"ws-answer\">Turn adjustment screw until line is at 0</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Calculating Microscope Magnification</h3>\n                  <p class=\"ws-instruction\">Solve the optical problems using microscope magnification formulas.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Eyepiece: <strong>15x</strong> | Objective: <strong>100x</strong> | Total Magnification:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">1500x</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Eyepiece: <strong>10x</strong> | Total: <strong>400x</strong> | Objective lens power:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">40x</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Science Tool Identification</h3>\n                  <p class=\"ws-instruction\">Write the name of the correct science tool helper (<strong>Ruler</strong>, <strong>Hand lens</strong>, <strong>Scissors</strong>, <strong>Modeling clay</strong>) for each task.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Magnifying the tiny structures on insect wings:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Hand lens</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Measuring the height of a sprout in millimeters:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Ruler</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Molding a three-dimensional model of a flower stem:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Modeling clay</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Safe Tool Handling</h3>\n                  <p class=\"ws-instruction\">Classify each tool behavior below as either <strong>Safe</strong> or <strong>Unsafe</strong>.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Walking slowly carrying scissors pointing downwards.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Safe</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Squeezing clay and then washing hands with soap.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Safe</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Blowing a balloon as large as possible until it pops near eyes.</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Unsafe</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Measurement Accuracy</h3>\n                  <p class=\"ws-instruction\">Write down the correct length in centimeters for each pencil measurement below.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Pencil A aligned from 0 cm mark to 12 cm line:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 40%;\"><span class=\"ws-answer\">12 cm</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Pencil B aligned from 2 cm mark to 8 cm line:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 40%;\"><span class=\"ws-answer\">6 cm</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -5921,355 +5803,255 @@ window.WEEK3_ADVANCED_DATA.filipino = {
   "color": "#ec4899",
   "icon": "🗣️",
   "title": "Filipino",
-  "subtitle": "Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento",
+  "subtitle": "Week 3: Panghalip Panao at Pamatlig",
   "slides": [
     {
-      "title": "Introduction to Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento",
-      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Filipino.",
+      "title": "Maligayang Pagdating sa Week 3!",
+      "text": "<span class=\"fil-sentence\" data-translation=\"How are you, student? Welcome to our third week!\">Kumusta ka, mag-aaral? Welcome sa ikatlong linggo natin!</span>\n<span class=\"fil-sentence\" data-translation=\"This week, we will study about pronouns in grammar.\">Ngayong linggo, mag-aaral tayo tungkol sa mga panghalip.</span>\n<span class=\"fil-sentence\" data-translation=\"Pronouns are words that replace nouns in sentences.\">Ang panghalip ay mga salitang humahalili sa pangngalan.</span>\n<span class=\"fil-sentence\" data-translation=\"We will study two types of pronouns in our lesson today.\">Pag-aaralan natin ang dalawang uri ng panghalip ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"These are personal pronouns and demonstrative pronouns.\">Ito ang panghalip panao at ang panghalip pamatlig.</span>\n<span class=\"fil-sentence\" data-translation=\"These help us avoid repeating the same names over and over.\">Nakatutulong ang mga ito upang maiwasan ang pag-uulit.</span>\n<span class=\"fil-sentence\" data-translation=\"We will also learn the correct way to use them in sentences.\">Matututuhan din natin ang tamang paggamit sa pangungusap.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready to study with enthusiasm and skill?\">Handa ka na bang mag-aral nang may sigla at galing?</span>",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento and apply them in daily situations."
-        },
-        {
-          "title": "Real-world Connection",
-          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+          "title": "Layunin ng Aralin",
+          "content": "Tukuyin at gamitin ang panghalip panao at pamatlig sa pangungusap."
         }
       ]
     },
     {
-      "title": "Core Vocabulary & Terms",
-      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "title": "Ano ang Panghalip?",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Pronouns are an important part of speech in grammar.\">Ang panghalip ay isang mahalagang bahagi ng pananalita.</span>\n<span class=\"fil-sentence\" data-translation=\"It is used to replace names of people or things.\">Ito ay ginagamit na pamalit sa ngalan ng tao o bagay.</span>\n<span class=\"fil-sentence\" data-translation=\"E.g., instead of saying 'Matteo is studying',\">E.g., sa halip na sabihing 'si Matteo ay nag-aaral',</span>\n<span class=\"fil-sentence\" data-translation=\"we can say 'he is studying in the classroom'.\">maaari nating sabihing 'siya ay nag-aaral sa klase'.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'he' is a personal pronoun in language.\">Ang salitang 'siya' ay isang panghalip panao sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"This makes our daily conversations simpler and faster.\">Pinapadali nito ang ating pakikipag-usap araw-araw.</span>\n<span class=\"fil-sentence\" data-translation=\"There are different categories of pronouns in language.\">May iba't ibang kategorya ang panghalip sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's learn the first type: the personal pronoun!\">Alamin natin ang unang uri: ang panghalip panao!</span>",
       "examples": [
         {
-          "title": "Term 1: Alpabeto",
-          "content": "A foundational concept in Filipino that helps us categorize and understand details."
-        },
-        {
-          "title": "Term 2: Patinig",
-          "content": "An active process or skill used to analyze situations and solve problems."
+          "title": "Halimbawa ng Pamalit",
+          "content": "Matteo -> siya (he), aso -> ito (it)"
         }
       ]
     },
     {
-      "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. By looking closely at how these ideas work together, we can build a strong understanding of Filipino.",
+      "title": "Panghalip Panao: Ako at Ikaw",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Personal pronouns are replacements for names of people.\">Ang panghalip panao ay pamalit sa ngalan ng tao.</span>\n<span class=\"fil-sentence\" data-translation=\"There are three persons of pronouns that we should remember.\">Mayroon itong tatlong panauhan na dapat tandaan.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'I' is used when referring to the speaker.\">Ang 'ako' ay ginagamit kapag ang nagsasalita ang tinutukoy.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'I am studying in the third grade today.'\">Halimbawa: 'Ako ay nag-aaral sa ikatlong baitang ngayon.'</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'you' is used when referring to the listener.\">Ang 'ikaw' ay ginagamit kapag ang kausap ang tinutukoy.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'Are you ready for our short quiz now?'\">Halimbawa: 'Ikaw ba ay handa na sa ating maikling pagsusulit?'</span>\n<span class=\"fil-sentence\" data-translation=\"These are used when talking directly to one person.\">Ito ay ginagamit sa pakikipag-usap sa isang tao.</span>\n<span class=\"fil-sentence\" data-translation=\"Practice using I and you in your classroom today!\">Magsanay sa paggamit ng ako at ikaw sa inyong klase!</span>",
       "examples": [
         {
-          "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in simple activities."
-        },
-        {
-          "title": "Why It Matters",
-          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+          "title": "Panao (Isahan)",
+          "content": "ako (I - nagsasalita), ikaw (you - kausap)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Panghalip Panao: Siya at Sila",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check other personal pronouns in our language.\">Suriin natin ang iba pang panghalip panao sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'he/she' is used for one person spoken of.\">Ang 'siya' ay ginagamit para sa isang taong pinag-uusapan.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'She is a kind teacher in our school.'\">Halimbawa: 'Siya ay mabait na guro sa aming eskwelahan.'</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'they' is used for multiple people spoken of.\">Ang 'sila' ay ginagamit para sa maraming taong pinag-uusapan.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'They are playing in the wide town plaza.'\">Halimbawa: 'Sila ay naglalaro sa malawak na plaza.'</span>\n<span class=\"fil-sentence\" data-translation=\"We also use 'we' for the speaker and others.\">Ginagamit din natin ang 'kami' para sa nagsasalita at iba.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'We went to the beautiful river earlier.'\">Halimbawa: 'Kami ay pumunta sa magandang ilog kanina.'</span>\n<span class=\"fil-sentence\" data-translation=\"Pay attention to the number of people referred to!\">Pansinin ang bilang ng taong tinutukoy sa pangungusap!</span>",
       "examples": [
         {
-          "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Panao (Maramihan)",
+          "content": "kami (we - group with speaker), sila (they - group spoken of)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Panghalip Pamatlig: Ito",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Demonstrative pronouns are used to point to objects.\">Ang pamatlig ay ginagamit sa pagtuturo ng bagay.</span>\n<span class=\"fil-sentence\" data-translation=\"It shows the distance of the object from the speaker.\">Ipinapakita nito ang distansya ng bagay sa tao.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'this' is used when held by the speaker.\">Ang 'ito' ay ginagamit kapag hawak ng nagsasalita.</span>\n<span class=\"fil-sentence\" data-translation=\"Or if the object is very close to the speaker.\">O di kaya ay napakalapit ng bagay sa nagsasalita.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'This pencil I am holding is brand Mongol.'\">Halimbawa: 'Ang hawak kong lapis na ito ay Mongol.'</span>\n<span class=\"fil-sentence\" data-translation=\"Are you holding your pencil while studying right now?\">Hawak mo ba ang iyong lapis habang nag-aaral ngayon?</span>\n<span class=\"fil-sentence\" data-translation=\"So you can say 'this is my writing pencil in class'.\">Kaya maaari mong sabihing 'ito ay aking lapis sa klase'.</span>\n<span class=\"fil-sentence\" data-translation=\"Use 'this' for objects that are within your reach!\">Gamitin ang 'ito' para sa mga bagay na abot-kamay!</span>",
       "examples": [
         {
-          "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Pamatlig (Malapit)",
+          "content": "ito (this - hawak o malapit sa nagsasalita)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Panghalip Pamatlig: Iyan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze the second demonstrative pronoun.\">Suriin natin ang ikalawang panghalip pamatlig.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'that' (near listener) is used when near the listener.\">Ang 'iyan' ay ginagamit kapag malapit sa kausap.</span>\n<span class=\"fil-sentence\" data-translation=\"The object is far from the speaker but near the listener.\">Ang bagay ay malayo sa nagsasalita ngunit malapit sa iyo.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'That book on your desk is brand new.'\">Halimbawa: 'Ang aklat na iyan sa iyong mesa ay bago.'</span>\n<span class=\"fil-sentence\" data-translation=\"The speaker is pointing to the book that you hold.\">Ang nagsasalita ay itinuturo ang aklat na hawak mo.</span>\n<span class=\"fil-sentence\" data-translation=\"Therefore, the word 'that' (near you) is used in the sentence.\">Kaya ginagamit ang salitang 'iyan' sa pangungusap.</span>\n<span class=\"fil-sentence\" data-translation=\"This clarifies where the object is located in the room.\">Ito ay nagbibigay-linaw kung nasaan ang bagay sa silid.</span>\n<span class=\"fil-sentence\" data-translation=\"Identify objects that are near your classmate right now!\">Tukuyin ang mga bagay na malapit sa iyong katabi ngayon!</span>",
       "examples": [
         {
-          "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Pamatlig (Katamtaman)",
+          "content": "iyan (that - malapit sa kausap)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Panghalip Pamatlig: Iyon",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the third demonstrative pronoun today.\">Suriin natin ang ikatlong panghalip pamatlig ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'that' (far) is used when far from both people.\">Ang 'iyon' ay ginagamit kapag malayo sa dalawang tao.</span>\n<span class=\"fil-sentence\" data-translation=\"It means it is far from both the speaker and listener.\">Ibig sabihin, malayo ito sa nagsasalita at kausap.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: 'That bird yonder on the mountaintop.'\">Halimbawa: 'Ang ibon na iyon sa tuktok ng bundok.'</span>\n<span class=\"fil-sentence\" data-translation=\"The bird is far from both of us while we are talking.\">Ang ibon ay malayo sa ating dalawa habang nag-uusap.</span>\n<span class=\"fil-sentence\" data-translation=\"So we use 'iyon' (that far) in our writing exercises.\">Kaya ginagamit natin ang 'iyon' sa ating pagsulat.</span>\n<span class=\"fil-sentence\" data-translation=\"You can also say 'that cloud yonder in the sky'.\">Maaari mo ring sabihing 'ang ulap na iyon sa langit'.</span>\n<span class=\"fil-sentence\" data-translation=\"Point to objects that are far away from your school!\">Ituro ang mga bagay na malayo sa inyong paaralan!</span>",
       "examples": [
         {
-          "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Pamatlig (Malayo)",
+          "content": "iyon (that yonder - malayo sa kapwa)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Pagsusuri sa Pangungusap: Panao",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the personal pronoun in this sentence.\">Suriin natin ang panghalip panao sa pangungusap.</span>\n<span class=\"fil-sentence\" data-translation=\"Statement: 'Caloy played. He is happy.'\">Pahayag: 'Si Caloy ay naglaro. Siya ay masaya.'</span>\n<span class=\"fil-sentence\" data-translation=\"What is the personal pronoun used in the statement?\">Ano ang panghalip panao na ginamit sa pahayag?</span>\n<span class=\"fil-sentence\" data-translation=\"The pronoun is 'siya' (he) replacing the name 'Caloy'.\">Ang panghalip ay 'siya' na pumalit sa ngalang 'Caloy'.</span>\n<span class=\"fil-sentence\" data-translation=\"This helped so we do not repeat the name Caloy again.\">Nakatulong ito upang hindi maulit ang pangalang Caloy.</span>\n<span class=\"fil-sentence\" data-translation=\"This provides a smooth flow to our written sentences.\">Ito ay nagbibigay-daloy sa ating mga pangungusap.</span>\n<span class=\"fil-sentence\" data-translation=\"Write this sentence down on your writing paper now!\">Isulat ang pangungusap na ito sa inyong papel ngayon!</span>\n<span class=\"fil-sentence\" data-translation=\"Examine other examples of pronouns in your stories!\">Suriin ang iba pang halimbawa sa inyong kwento!</span>",
       "examples": [
         {
-          "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Pagsusuri Panao",
+          "content": "Caloy (noun) -> siya (pronoun)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Pagsusuri sa Pangungusap: Pamatlig",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the demonstrative pronoun in this sentence.\">Suriin natin ang panghalip pamatlig sa pangungusap.</span>\n<span class=\"fil-sentence\" data-translation=\"Statement: 'I am holding this pencil. This is new.'\">Pahayag: 'Hawak ko ang lapis na ito. Ito ay bago.'</span>\n<span class=\"fil-sentence\" data-translation=\"What is the demonstrative pronoun used in the statement?\">Ano ang panghalip pamatlig na ginamit sa pahayag?</span>\n<span class=\"fil-sentence\" data-translation=\"The pronoun is 'ito' (this) referring to the held pencil.\">Ang panghalip ay 'ito' na tumutukoy sa hawak na lapis.</span>\n<span class=\"fil-sentence\" data-translation=\"This shows that the object is very close to the speaker.\">Ito ay nagpapakita na ang bagay ay napakalapit sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"So 'ito' is the correct grammar word we must use.\">Kaya 'ito' ang wastong salita na dapat gamitin.</span>\n<span class=\"fil-sentence\" data-translation=\"Use your stylus to encircle this word on the screen!\">Gamitin ang iyong stylus upang bilugan ang salitang ito!</span>\n<span class=\"fil-sentence\" data-translation=\"Practice writing your own short sentences right now!\">Magsanay sa pagsulat ng sarili mong pangungusap ngayon!</span>",
       "examples": [
         {
-          "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Pagsusuri Pamatlig",
+          "content": "lapis na hawak -> ito (this)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Pagsasanay: Ako, Ikaw, Siya",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's fill in the blanks with the correct pronouns.\">Punan natin ang mga patlang ng tamang panghalip.</span>\n<span class=\"fil-sentence\" data-translation=\"Statement: 'I am Matteo. ___ am studying now.'\">Pahayag: 'Ako si Matteo. ___ ay nag-aaral ngayon.'</span>\n<span class=\"fil-sentence\" data-translation=\"Since I am the speaker, use the word 'Ako' (I) in the blank.\">Dahil ako ang nagsasalita, gamitin ang 'Ako' sa dulo.</span>\n<span class=\"fil-sentence\" data-translation=\"Statement: 'I am talking to Kiko. Are ___ Grade 3?'\">Pahayag: 'Kausap ko si Kiko. ___ ba ay Grade 3?'</span>\n<span class=\"fil-sentence\" data-translation=\"Since Kiko is the listener, use 'Ikaw' (you) in the blank.\">Dahil si Kiko ang kausap, gamitin ang 'Ikaw' sa patlang.</span>\n<span class=\"fil-sentence\" data-translation=\"Statement: 'Lani is kind. ___ is my sister.'\">Pahayag: 'Si Lani ay mabait. ___ ay aking kapatid.'</span>\n<span class=\"fil-sentence\" data-translation=\"Since Lani is the person spoken of, use 'Siya' (she).\">Dahil si Lani ang pinag-uusapan, gamitin ang 'Siya'.</span>\n<span class=\"fil-sentence\" data-translation=\"Is it easy to choose the correct personal pronoun?\">Madali lang bang pumili ng tamang panghalip panao?</span>",
       "examples": [
         {
-          "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Panao Pagsasanay",
+          "content": "nagsasalita -> ako, kausap -> ikaw, pinag-uusapan -> siya"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Pagsasanay: Ito, Iyan, Iyon",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's choose the correct demonstrative based on clues.\">Piliin natin ang tamang pamatlig batay sa pahiwatig.</span>\n<span class=\"fil-sentence\" data-translation=\"Statement: 'I am holding ___ flower. This is fragrant.'\">Pahayag: 'Hawak ko ang bulaklak na ___. Mabango ito.'</span>\n<span class=\"fil-sentence\" data-translation=\"Since I am holding the flower, use the word 'ito' (this).\">Dahil hawak ko ang bulaklak, gamitin ang 'ito'.</span>\n<span class=\"fil-sentence\" data-translation=\"Statement: 'I pointed to the bird on the far tree: ___ is an eagle.'\">Pahayag: 'Itinuro ko ang ibon sa malayong puno: ___ ay agila.'</span>\n<span class=\"fil-sentence\" data-translation=\"Since the bird is far away, use the word 'iyon' (that far).\">Dahil malayo ang ibon, gamitin ang salitang 'iyon'.</span>\n<span class=\"fil-sentence\" data-translation=\"Statement: 'Look at ___ pencil in your hand.'\">Pahayag: 'Tingnan mo ang lapis na ___ sa iyong kamay.'</span>\n<span class=\"fil-sentence\" data-translation=\"Since the pencil is in your hand, use the word 'iyan' (that near you).\">Dahil nasa kamay mo ang lapis, gamitin ang 'iyan'.</span>\n<span class=\"fil-sentence\" data-translation=\"Remember the distance of the object in every answer!\">Tandaan ang distansya ng bagay sa bawat pagsagot!</span>",
       "examples": [
         {
-          "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Pamatlig Pagsasanay",
+          "content": "hawak -> ito, malayo -> iyon, nasa kausap -> iyan"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Maling Paggamit ng Pamatlig",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid using 'ito' (this) for distant objects yonder.\">Iwasan ang paggamit ng 'ito' sa malayong bagay.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'Look at this star yonder in the sky.' (star is too far)\">Mali: 'Tingnan mo ang bituin na ito sa langit.'</span>\n<span class=\"fil-sentence\" data-translation=\"The star is extremely far from both of us at night.\">Ang bituin ay napakalayo sa ating dalawa sa gabi.</span>\n<span class=\"fil-sentence\" data-translation=\"So we must use 'iyon' (that yonder) instead of 'ito'.\">Kaya dapat gamitin ang 'iyon' sa halip na 'ito'.</span>\n<span class=\"fil-sentence\" data-translation=\"Correct: 'Look at that star yonder in the sky.'\">Tama: 'Tingnan mo ang bituin na iyon sa langit.'</span>\n<span class=\"fil-sentence\" data-translation=\"The same applies to mountains, always use 'iyon'.\">Gayundin sa mga bundok, gamitin ang 'iyon' lagi.</span>\n<span class=\"fil-sentence\" data-translation=\"Analyze the distance before writing the demonstrative pronoun!\">Suriin ang distansya bago isulat ang pamatlig ngayon!</span>\n<span class=\"fil-sentence\" data-translation=\"This is the correct rule in our Filipino grammar lessons!\">Ito ang wastong tuntunin sa ating balarilang Filipino!</span>",
       "examples": [
         {
-          "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Pamatlig Error",
+          "content": "mali: bituin na ito -> tama: bituin na iyon"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Maling Paggamit ng Panao",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Do not use 'siya' (he/she) for multiple people in a group.\">Huwag gamitin ang 'siya' para sa maraming tao.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'Matteo and Kiko played. He is happy.' (referring to both)\">Mali: 'Si Matteo at Kiko ay naglaro. Siya ay masaya.'</span>\n<span class=\"fil-sentence\" data-translation=\"Because we are talking about two people in the sentence,\">Dahil dalawang tao ang pinag-uusapan natin ngayon,</span>\n<span class=\"fil-sentence\" data-translation=\"we must use 'sila' (they) instead of 'siya' (he/she).\">dapat gamitin ang 'sila' sa halip na 'siya'.</span>\n<span class=\"fil-sentence\" data-translation=\"Correct: 'Matteo and Kiko played. They are happy.'\">Tama: 'Si Matteo at Kiko ay naglaro. Sila ay masaya.'</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'sila' is plural; 'siya' is singular only.\">Ang 'sila' ay maramihan; ang 'siya' ay isahan lamang.</span>\n<span class=\"fil-sentence\" data-translation=\"Make sure of the count of people before writing the pronoun!\">Tiyakin ang bilang ng tao bago isulat ang panao!</span>\n<span class=\"fil-sentence\" data-translation=\"This will help in making your written story very clear!\">Ito ay makatutulong upang maging malinaw ang kwento!</span>",
       "examples": [
         {
-          "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Panao Error",
+          "content": "mali: Matteo at Kiko -> siya, tama: Matteo at Kiko -> sila"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Panghalip sa Ating Kwento",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's read a short story about Matteo's day:\">Basahin natin ang maikling kwento tungkol kay Matteo:</span>\n<span class=\"fil-sentence\" data-translation=\"'Matteo went to the beautiful Pasig River.\">'Si Matteo ay pumunta sa magandang ilog ng Pasig.</span>\n<span class=\"fil-sentence\" data-translation=\"He brought a small outrigger boat for play.\">Siya ay nagdala ng munting banca para sa laro.</span>\n<span class=\"fil-sentence\" data-translation=\"He pointed to the eagle in the sky: That is fast!'\">Itinuro niya ang agila sa langit: Iyon ay mabilis!'</span>\n<span class=\"fil-sentence\" data-translation=\"In this short story, we used 'siya' and 'iyon'.\">Sa kwentong ito, ginamit ang 'siya' at 'iyon'.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'siya' is a personal pronoun replacing Matteo.\">Ang 'siya' ay panao na pumalit sa ngalang Matteo.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'iyon' is a demonstrative pointing to the bird.\">Ang 'iyon' ay pamatlig na tumukoy sa malayong ibon.</span>\n<span class=\"fil-sentence\" data-translation=\"Do the same thing when writing your own short stories!\">Gawin din ito sa pagsulat ng sarili mong kwento!</span>",
       "examples": [
         {
-          "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Kwento",
+          "content": "siya (he), iyon (that yonder - pointing to eagle)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 1",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Pagsasanay 1",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 2",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Pagsasanay 2",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 3",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Pagsasanay 3",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 4",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento in other contexts."
+          "title": "Pagsasanay 4",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 1",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 5",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 1",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 5",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 2",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 6",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 2",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 6",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 3",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 7",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 3",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 7",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 4",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 8",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 4",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 8",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 1",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Karagdagang Pagsasanay 9",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 1",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 1",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Pagsasanay 9",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 2",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Karagdagang Pagsasanay 10",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 2",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 2",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Pagsasanay 10",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "title": "Buod ng Ikatlong Linggo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed all the slides for this week.\">Binabati kita! Natapos mo ang lahat ng slide sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned the use of personal pronouns for people.\">Natutunan natin ang paggamit ng panghalip panao sa tao.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about I, you, he/she, we, and they.\">Natutunan natin ang ako, ikaw, siya, kami, at sila.</span>\n<span class=\"fil-sentence\" data-translation=\"We also learned about demonstrative pronouns for objects.\">Natutunan din natin ang panghalip pamatlig sa bagay.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about this, that (near you), and that (far away).\">Natutunan natin ang ito, iyan, at iyon sa pagtuturo.</span>\n<span class=\"fil-sentence\" data-translation=\"We discovered how to identify distance and number correctly.\">Nalaman natin ang wastong pagtukoy ng distansya at bilang.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready for the quiz and challenges of the week?\">Handa ka na ba sa pagsusulit at hamon ng linggo?</span>\n<span class=\"fil-sentence\" data-translation=\"Continue showing your excellent skills in Filipino today!\">Ipagpatuloy ang pagpapakita ng galing sa Filipino ngayon!</span>",
       "examples": [
         {
-          "title": "Summary Points",
-          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
-        },
-        {
-          "title": "Reflection",
-          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+          "title": "Tandaan",
+          "content": "Panao = Tao. Pamatlig = Bagay at Distansya. Magsanay lagi!"
         }
       ]
     }
@@ -6277,316 +6059,346 @@ window.WEEK3_ADVANCED_DATA.filipino = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Ano ang tawag sa mga salitang ginagamit na pamalit sa pangngalan?",
       "options": [
-        "Core term: Patinig",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "pang-uri",
+        "panghalip",
+        "pandiwa",
+        "pangatnig"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang isang panghalip panao?",
+      "options": [
+        "lapis",
+        "siya",
+        "paaralan",
+        "Pasko"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang isang panghalip pamatlig?",
+      "options": [
+        "ako",
+        "iyon",
+        "sila",
+        "siya"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Anong panghalip panao ang gagamitin kung ang nagsasalita ang tinutukoy?",
+      "options": [
+        "ikaw",
+        "ako",
+        "siya",
+        "sila"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Anong panghalip panao ang gagamitin kung ang kausap ang tinutukoy?",
+      "options": [
+        "ako",
+        "ikaw",
+        "siya",
+        "kami"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Anong panghalip panao ang gagamitin para kay Matteo na iyong pinag-uusapan?",
+      "options": [
+        "ako",
+        "ikaw",
+        "siya",
+        "sila"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Punan ang patlang: 'Si Matteo at Kiko ay masaya. ___ ay naglalaro.'",
+      "options": [
+        "Siya",
+        "Sila",
+        "Kami",
+        "Ako"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Anong pamatlig ang gagamitin para sa lapis na hawak mo ngayon?",
+      "options": [
+        "ito",
+        "iyan",
+        "iyon",
+        "sila"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Anong pamatlig ang gagamitin para sa aklat na hawak ng iyong kausap?",
       "options": [
-        "Core term: Katinig",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "ito",
+        "iyan",
+        "iyon",
+        "ako"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Anong pamatlig ang gagamitin para sa saranggola na lumilipad sa malayang langit?",
       "options": [
-        "Core term: Pangngalan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "ito",
+        "iyan",
+        "iyon",
+        "ikaw"
       ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
-      "options": [
-        "Core term: Pantangi",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
+      "answer": 2
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is correct?",
+      "q": "Tama o Mali: Ang 'kami' ay ginagamit kapag kasama ang nagsasalita sa grupo.",
       "options": [
-        "Statement A: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Tukuyin ang panghalip panao sa pangungusap: 'Siya ay pumunta sa malaking aklatan.'",
       "options": [
-        "Core term: Panghalip",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "pumunta",
+        "aklatan",
+        "Siya",
+        "malaking"
       ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is a key topic in the study of ___.",
-      "answer": "Filipino"
+      "answer": 2
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Tukuyin ang panghalip pamatlig sa pangungusap: 'Ang hawak kong laruan na ito ay maganda.'",
       "options": [
-        "Core term: Pang-uri",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "hawak",
+        "laruan",
+        "ito",
+        "maganda"
       ],
-      "answer": 0
+      "answer": 2
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Punan ang patlang: 'Itinuro ko ang malayong bundok: ___ ang Bundok Makiling.'",
       "options": [
-        "Core term: Pang-abay",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Ito",
+        "Iyan",
+        "Iyon",
+        "Sila"
       ],
-      "answer": 0
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Anong panghalip ang pumapalit sa ngalang 'Lani'?",
+      "options": [
+        "ako",
+        "ikaw",
+        "siya",
+        "sila"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Punan ang patlang: 'Tingnan mo ang papel na ___ sa iyong mesa.'",
+      "options": [
+        "ito",
+        "iyan",
+        "iyon",
+        "sila"
+      ],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is correct?",
+      "q": "Tama o Mali: Ginagamit ang 'iyon' kapag hawak ng nagsasalita ang bagay.",
       "options": [
-        "Statement A: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are not relevant to these cases."
+        "Tama",
+        "Mali"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Aling panghalip panao ang angkop sa nagsasalita at kanyang mga kaibigan?",
+      "options": [
+        "ako",
+        "ikaw",
+        "kami",
+        "siya"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Aling salita ang panghalip sa pangungusap: 'Binigyan sila ni Gng. Santos ng aklat.'?",
+      "options": [
+        "Santos",
+        "aklat",
+        "sila",
+        "Binigyan"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang tinutukoy ng panghalip pamatlig na 'ito'?",
+      "options": [
+        "bagay na hawak o malapit sa nagsasalita",
+        "bagay na malapit sa kausap",
+        "bagay na malayo sa kapwa",
+        "isang tao"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Alin ang angkop na panghalip panao para sa kausap mo na si Kiko?",
       "options": [
-        "Core term: Patinig",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "ako",
+        "ikaw",
+        "siya",
+        "kami"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Tukuyin ang panghalip pamatlig: 'Ang krayola na iyan sa iyong kamay ay mapula.'",
       "options": [
-        "Core term: Katinig",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "krayola",
+        "iyan",
+        "kamay",
+        "mapula"
       ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
-      "options": [
-        "Core term: Pangngalan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is a key topic in the study of ___.",
-      "answer": "Filipino"
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is correct?",
+      "q": "Tama o Mali: Ang 'sila' ay panghalip panao para sa isang tao lamang na pinag-uusapan.",
       "options": [
-        "Statement A: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Alin sa mga sumusunod ang panghalip panao na maramihan?",
       "options": [
-        "Core term: Panghalip",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "ako",
+        "ikaw",
+        "siya",
+        "sila"
       ],
-      "answer": 0
+      "answer": 3
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Anong pamatlig ang angkop gamitin para sa ibon na nasa mataas na sanga ng malayong puno?",
       "options": [
-        "Core term: Pandiwa",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "ito",
+        "iyan",
+        "iyon",
+        "kami"
       ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
-      "options": [
-        "Core term: Pang-uri",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
-      "options": [
-        "Core term: Pang-abay",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are not relevant to these cases."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is a key topic in the study of ___.",
-      "answer": "Filipino"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
-      "options": [
-        "Core term: Katinig",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
-      "options": [
-        "Core term: Pangngalan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
-      "options": [
-        "Core term: Pantangi",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento are not relevant to these cases."
-      ],
-      "answer": 0
+      "answer": 2
     }
   ],
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento, what is the first priority?",
+      "q": "Challenge: Aling pangungusap ang naglalaman ng parehong panghalip panao at panghalip pamatlig?",
       "options": [
-        "Analyze key terms and variables",
-        "Guess the answer immediately",
-        "Skip the question",
-        "Use unrelated formulas"
+        "Siya ay nagdala ng bangka na ito sa malaking ilog.",
+        "Naglalaro ang mga aso sa malawak na plaza.",
+        "Kami ay nag-aaral ng balarila sa paaralan.",
+        "Itinuro ko ang ibon na iyon sa aking guro kahapon."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Challenge: Aling panghalip panao ang pumapalit sa mga nakasalungguhit na pangngalan sa pangungusap: 'Si Matteo at ako ay magkasamang pumunta sa aklatan.'?",
       "options": [
-        "The primary variable: Alpabeto",
-        "An external variable",
-        "No variable",
-        "All variables equally"
+        "Sila",
+        "Kami",
+        "Kayo",
+        "Siya"
       ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento.",
-      "options": [
-        "Statement A: Proper methodology leads to a correct and verified solution.",
-        "Statement B: Rushing through calculations is safe and rarely causes errors."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
-      "answer": "patinig"
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento?",
+      "q": "Challenge: Suriin ang pahayag: 'Ang bituin na iyon ay kumukutikutitap.' Bakit 'iyon' ang ginamit na panghalip pamatlig?",
       "options": [
-        "Building logical reasoning and problem-solving skills",
-        "Forgetting previous lessons",
-        "Speeding up without accuracy",
-        "None of these"
+        "Dahil hawak ng nagsasalita ang bituin.",
+        "Dahil malapit sa kausap ang bituin.",
+        "Dahil malayo sa nagsasalita at kausap ang bituin.",
+        "Dahil ang bituin ay isang hayop."
       ],
-      "answer": 0
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Tukuyin kung gaano karaming panghalip panao at pamatlig ang nasa pangungusap: 'Sinabi niya sa akin na ang lapis na ito ay bago.'",
+      "options": [
+        "isa",
+        "dalawa",
+        "tatlo",
+        "apat"
+      ],
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Aling panghalip pamatlig ang dapat gamitin kung ang bagay ay malayo sa nagsasalita ngunit hawak ng kausap?",
+      "options": [
+        "ito",
+        "iyan",
+        "iyon",
+        "sila"
+      ],
+      "answer": 1
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento",
-    "desc": "Perform a simple observation of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Dula-dulaan ng Ating Panghalip",
+    "desc": "Gumawa ng isang simpleng dula-dulaan o diyalogo kasama ang iyong magulang o kapatid sa tahanan. Sumulat ng limang pangungusap sa isang papel na naglalaman ng mga panghalip panao (ako, ikaw, siya, kami, sila) at pamatlig (ito, iyan, iyon) batay sa inyong pag-uusap at pagtuturo ng mga bagay sa bahay. Bigkasin ang diyalogo nang malinaw at may damdamin.",
     "labels": [
-      "Accurate explanation of concept",
-      "Clarity and confidence in presentation",
-      "Neatness of written notes"
+      "Wastong nagamit ang hindi bababa sa tatlong panghalip panao sa diyalogo",
+      "Wastong nagamit ang hindi bababa sa dalawang panghalip pamatlig batay sa distansya",
+      "Maayos at malinaw ang pagbigkas ng mga linya sa dula-dulaan"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Patinig and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of alpabeto</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: Kailanan ng Pangngalan at Elemento ng Kuwento.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 1: Pagkilala sa Panghalip</h3>\n                  <p class=\"ws-instruction\">Tukuyin kung ang salita ay <strong>Panao</strong> (personal) o <strong>Pamatlig</strong> (demonstrative) gamit ang stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. siya <span class=\"fil-sentence\" data-translation=\"(he/she)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Panao</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. iyon <span class=\"fil-sentence\" data-translation=\"(that yonder)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pamatlig</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. kami <span class=\"fil-sentence\" data-translation=\"(we)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Panao</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 2: Pagtutugma ng Distansya</h3>\n                  <p class=\"ws-instruction\">Isulat ang tamang panghalip pamatlig (<strong>ito</strong>, <strong>iyan</strong>, o <strong>iyon</strong>) batay sa pahiwatig ng distansya.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Hawak ko ang aklat na _____. <span class=\"fil-sentence\" data-translation=\"(I am holding this book.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">ito</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Hawak ng kausap ko ang lapis na _____. <span class=\"fil-sentence\" data-translation=\"(My listener is holding that pencil.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">iyan</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Nakaturo sa malayong ulap na _____. <span class=\"fil-sentence\" data-translation=\"(Pointing to that cloud far away.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">iyon</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 3: Pagsulat ng Wastong Panghalip</h3>\n                  <p class=\"ws-instruction\">Punan ang patlang ng tamang panghalip panao upang mabuo ang pangungusap.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Si Lani at ako ay magkaibigan. _____ ay nag-aaral sa Grade 3. <span class=\"fil-sentence\" data-translation=\"(Lani and I are friends. We study in Grade 3.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Kami</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Si Kiko ay masipag. _____ ay laging tumutulong sa kanyang nanay. <span class=\"fil-sentence\" data-translation=\"(Kiko is industrious. He always helps his mother.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Siya</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -6595,355 +6407,255 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
   "color": "#f59e0b",
   "icon": "🏝️",
   "title": "Makabansa",
-  "subtitle": "Week 3: Mga Makasaysayang Estruktura at Landmarks",
+  "subtitle": "Week 3: Mga Pangyayari sa Ating Pook",
   "slides": [
     {
-      "title": "Introduction to Week 3: Mga Makasaysayang Estruktura at Landmarks",
-      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in Makabansa.",
+      "title": "Welcome sa Week 3!",
+      "text": "<span class=\"fil-sentence\" data-translation=\"How are you, little researcher? Welcome to Week 3!\">Kumusta ka, maliit na researcher? Welcome sa Week 3!</span>\n<span class=\"fil-sentence\" data-translation=\"This week, we will study about events in our community.\">Ngayong linggo, mag-aaral tayo tungkol sa mga pangyayari.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's identify the festivals and celebrations in the place.\">Tukuyin natin ang mga pagdiriwang at pista sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's learn the importance of our local traditions today.\">Alamin natin ang kahalagahan ng mga tradisyon natin.</span>\n<span class=\"fil-sentence\" data-translation=\"There are local songs and dances that reflect these events.\">May mga lokal na awitin at sayaw na sumasalamin dito.</span>\n<span class=\"fil-sentence\" data-translation=\"We will also study their correct historical sequence yonder.\">Pag-aaralan din natin ang tamang pagkakasunod-sunod nito.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready to join in the happy town festival today?\">Handa ka na bang sumali sa masayang pista ng bayan?</span>\n<span class=\"fil-sentence\" data-translation=\"Let's start exploring with enthusiasm in our class today!\">Magsimula tayong mag-explore na may kasiglahan ngayon!</span>",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 3: Mga Makasaysayang Estruktura at Landmarks and apply them in daily situations."
-        },
-        {
-          "title": "Real-world Connection",
-          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+          "title": "Layunin ng Aralin",
+          "content": "Matukoy ang mahahalagang pagdiriwang at tradisyon sa sariling pook."
         }
       ]
     },
     {
-      "title": "Core Vocabulary & Terms",
-      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "title": "Mga Tradisyon at Kasaysayan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Traditions are practices passed down by our ancestors.\">Ang tradisyon ay mga gawi na ipinapasa ng ninuno.</span>\n<span class=\"fil-sentence\" data-translation=\"These reflect the long history of our local place yonder.\">Sinasalamin nito ang mahabang kasaysayan ng pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Example: the celebration of our local barangay festival.\">Halimbawa: ang pagsasagawa ng pista ng barangay.</span>\n<span class=\"fil-sentence\" data-translation=\"Here people express gratitude for a bountiful harvest in town.\">Dito nagpapasalamat ang mga tao sa magandang ani.</span>\n<span class=\"fil-sentence\" data-translation=\"The entire community unites in this happy celebration daily.\">Nagkakaisa ang buong komunidad sa pagdiriwang na ito.</span>\n<span class=\"fil-sentence\" data-translation=\"Tradition gives life to our local culture and heritage.\">Ang tradisyon ay nagbibigay-buhay sa kultura natin.</span>\n<span class=\"fil-sentence\" data-translation=\"This helps identify and define our community in history.\">Nakatutulong ito upang makilala ang ating komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"What tradition is practiced in your own local place today?\">Anong tradisyon ang ginagawa sa inyong sariling pook?</span>",
       "examples": [
         {
-          "title": "Term 1: Sarili",
-          "content": "A foundational concept in Makabansa that helps us categorize and understand details."
-        },
-        {
-          "title": "Term 2: Pamilya",
-          "content": "An active process or skill used to analyze situations and solve problems."
+          "title": "Tradisyon",
+          "content": "mga pista, kapistahan ng patron, katutubong laro"
         }
       ]
     },
     {
-      "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 3: Mga Makasaysayang Estruktura at Landmarks. By looking closely at how these ideas work together, we can build a strong understanding of Makabansa.",
+      "title": "Ang Pista ng Pahiyas sa Quezon",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The Pahiyas Festival is a famous regional celebration.\">Ang Pista ng Pahiyas ay isang sikat na pagdiriwang.</span>\n<span class=\"fil-sentence\" data-translation=\"It is held in Lucban yonder in Quezon province on May 15.\">Ginaganap ito sa Lucban, Quezon tuwing Mayo 15.</span>\n<span class=\"fil-sentence\" data-translation=\"It is a tribute to San Isidro Labrador, the patron saint.\">Ito ay parangal kay San Isidro Labrador na patron.</span>\n<span class=\"fil-sentence\" data-translation=\"He is the patron saint of farmers in our country today.\">Siya ang patron ng mga magsasaka sa ating bansa.</span>\n<span class=\"fil-sentence\" data-translation=\"Houses are decorated with colorful kiping on their facades.\">Pinalalamutian ng kiping ang harap ng mga bahay.</span>\n<span class=\"fil-sentence\" data-translation=\"Kiping is made of rice paste colored in vibrant shades.\">Ang kiping ay yari sa bigas na may iba't ibang kulay.</span>\n<span class=\"fil-sentence\" data-translation=\"They express gratitude for the abundant harvest of vegetables.\">Nagpapasalamat sila sa saganang ani ng mga gulay.</span>\n<span class=\"fil-sentence\" data-translation=\"A colorful tradition visited by many people yonder!\">Isang makulay na tradisyon na dinarayo ng marami!</span>",
       "examples": [
         {
-          "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 3: Mga Makasaysayang Estruktura at Landmarks in simple activities."
-        },
-        {
-          "title": "Why It Matters",
-          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+          "title": "Pahiyas",
+          "content": "Mayo 15 (Lucban, Quezon) -> parangal sa patron ng magsasaka."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pista ng Lechon sa Batangas",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check another well-known local festival yonder.\">Suriin natin ang isa pang kilalang pagdiriwang.</span>\n<span class=\"fil-sentence\" data-translation=\"This is the Lechon Festival in Balayan yonder in Batangas.\">Ito ay ang Pista ng Lechon sa Balayan, Batangas.</span>\n<span class=\"fil-sentence\" data-translation=\"It is celebrated on June 24 in our neighboring province.\">Ginaganap ito tuwing Hunyo 24 sa ating lalawigan.</span>\n<span class=\"fil-sentence\" data-translation=\"It coincides with the feast of Saint John the Baptist.\">Ito ay kasabay ng kapistahan ni San Juan Bautista.</span>\n<span class=\"fil-sentence\" data-translation=\"Roasted pigs (lechon) are dressed up in funny outfits.\">Pinalalamutian at binibihisan ang mga inihaw na lechon.</span>\n<span class=\"fil-sentence\" data-translation=\"They are paraded on the streets while people have fun.\">Ipinaparada ang mga ito sa kalsada habang nagsasaya.</span>\n<span class=\"fil-sentence\" data-translation=\"There is also a tradition of splashing water on people.\">May tradisyon din ng basaan ng tubig sa mga tao.</span>\n<span class=\"fil-sentence\" data-translation=\"Why do we splash water during the feast of Saint John?\">Bakit nagbabasa ng tubig kapag kapistahan ni San Juan?</span>",
       "examples": [
         {
-          "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Pista ng Lechon",
+          "content": "Hunyo 24 (Balayan, Batangas) -> parada ng nakadamit na lechon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pista ng Pinya sa Daet",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The Pineapple Festival is celebrated in Daet, Camarines.\">Ang Pista ng Pinya ay ginaganap sa Daet, Camarines.</span>\n<span class=\"fil-sentence\" data-translation=\"They showcase the sweet pineapple variety grown in the place.\">Ipinagmamalaki rito ang matamis na pinya sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"The pineapple yonder in Daet is famous as the Formosa variety.\">Ang pinya sa Daet ay kilala sa tawag na Formosa.</span>\n<span class=\"fil-sentence\" data-translation=\"It has a small size but is extremely sweet to eat daily.\">Ito ay may maliit na sukat ngunit napakatamis kainin.</span>\n<span class=\"fil-sentence\" data-translation=\"There are street dancing performances showing pineapple farming.\">May mga street dancing na naglalahad ng pagsasaka.</span>\n<span class=\"fil-sentence\" data-translation=\"The festival reflects the primary source of livelihood there.\">Sinasalamin ng pista ang pangunahing kabuhayan doon.</span>\n<span class=\"fil-sentence\" data-translation=\"They used this fruit to gain recognition in the country.\">Ginamit nila ang prutas na ito upang makilala sa bansa.</span>\n<span class=\"fil-sentence\" data-translation=\"Have you tasted a sweet pineapple in your town today?\">Nakakain ka na ba ng matamis na pinya sa inyong bayan?</span>",
       "examples": [
         {
-          "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Pista ng Pinya",
+          "content": "Pagdiriwang ng Formosa pinya bilang pangunahing ani."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Mga Lokal na Sining at Kagamitan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"During festivals, local arts and crafts are proudly displayed.\">Sa mga pagdiriwang, ipinapakita ang lokal na sining.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: making woven mats, native baskets, and wooden clogs.\">Halimbawa: ang paggawa ng mga banig, basket, at bakya.</span>\n<span class=\"fil-sentence\" data-translation=\"These are made of natural materials found in our local place.\">Ang mga ito ay gawa sa likas na materyal sa pook natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Such as pandan leaves, bamboo twigs, and hard wood blocks.\">Tulad ng dahon ng pandan, kawayan, at matigas na kahoy.</span>\n<span class=\"fil-sentence\" data-translation=\"This weaving and carving art was passed down by ancestors.\">Ang sining na ito ay ipinasa ng ating mga ninuno.</span>\n<span class=\"fil-sentence\" data-translation=\"This belongs to the historical heritage of our community.\">Bahagi ito ng makasaysayang pamana ng ating komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"This helps support the livelihood of many local families.\">Nakatutulong ito sa kabuhayan ng maraming pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"Do you have a basket made of bamboo in your house today?\">Mayroon ka bang basket na gawa sa kawayan sa bahay?</span>",
       "examples": [
         {
-          "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Lokal na Sining",
+          "content": "banig (woven mats), basket, bakya (wooden shoes)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Timeline ng Pista",
+      "text": "<span class=\"fil-sentence\" data-translation=\"The celebration has a clear sequence of events yonder.\">Ang pagdiriwang ay may pagkakasunod-sunod ng kaganapan.</span>\n<span class=\"fil-sentence\" data-translation=\"We can display this sequence using a timeline format today.\">Maaari natin itong ipakita sa isang timeline ngayon.</span>\n<span class=\"fil-sentence\" data-translation=\"Morning: the parade of school bands begins on the street.\">Umaga: nagsisimula ang parada ng mga banda sa kalsada.</span>\n<span class=\"fil-sentence\" data-translation=\"Noon: there is sharing of food and lunch inside every house.\">Tanghali: may salo-salo at kainan sa bawat tahanan.</span>\n<span class=\"fil-sentence\" data-translation=\"Afternoon: there are games and street dancing in the plaza.\">Hapon: may mga palaro at street dancing sa plaza.</span>\n<span class=\"fil-sentence\" data-translation=\"Night: there are contests and fireworks in the dark sky.\">Gabi: may patimpalak at paputok sa kalawakan.</span>\n<span class=\"fil-sentence\" data-translation=\"The correct flow shows a well-organized community plan today.\">Ang tamang daloy ay nagpapakita ng maayos na plano.</span>\n<span class=\"fil-sentence\" data-translation=\"Check the sequence of events of your own town festival!\">Suriin ang pagkakasunod-sunod ng inyong pista sa bayan!</span>",
       "examples": [
         {
-          "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Timeline ng Pista",
+          "content": "Umaga (Parada) -> Tanghali (Kainan) -> Hapon (Palaro) -> Gabi (Paputok)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Katutubong Sayaw sa Pista",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Dances are an essential part of our local celebrations.\">Ang mga sayaw ay mahalagang bahagi ng pagdiriwang.</span>\n<span class=\"fil-sentence\" data-translation=\"Examples: the dance 'Cariñosa' or 'Tinikling' in our region.\">Halimbawa: ang sayaw na 'Cariñosa' o 'Tinikling' sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Tinikling uses two long bamboo poles tapped on the floor.\">Ang Tinikling ay ginagamitan ng dalawang kawayan.</span>\n<span class=\"fil-sentence\" data-translation=\"It mimics the movement of the tikling bird avoiding traps.\">Ginagaya nito ang pag-ilag ng ibong tikling sa patibong.</span>\n<span class=\"fil-sentence\" data-translation=\"Speed and physical coordination are needed to dance it well.\">Kailangan ng bilis at koordinasyon sa pagsayaw nito.</span>\n<span class=\"fil-sentence\" data-translation=\"The dance tells a visual story of our rich local culture.\">Ang sayaw ay naglalahad ng kwento ng ating kultura.</span>\n<span class=\"fil-sentence\" data-translation=\"We also sing local folk songs while dancing on the stage.\">Inaawit din natin ang mga lokal na kanta habang sumasayaw.</span>\n<span class=\"fil-sentence\" data-translation=\"Have you tried dancing the Tinikling in your school today?\">Nakasubok ka na bang sumayaw ng Tinikling sa paaralan?</span>",
       "examples": [
         {
-          "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Katutubong Sayaw",
+          "content": "Tinikling (pag-ilag ng ibon gamit ang kawayan)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Pagsusuri ng Pista",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze a local tradition in our community today.\">Suriin natin ang isang tradisyon sa ating komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"Read: 'The Pahiyas Festival was celebrated on May 15.'\">Basahin: 'Ipinagdiwang ang Pahiyas noong Mayo 15.'</span>\n<span class=\"fil-sentence\" data-translation=\"What is the occasion mentioned in our sentence yonder?\">Ano ang okasyon na binanggit sa ating pangungusap?</span>\n<span class=\"fil-sentence\" data-translation=\"The occasion is 'Pahiyas' which is a proper noun of event.\">Ang okasyon ay 'Pahiyas' na isang pantangi sa wika.</span>\n<span class=\"fil-sentence\" data-translation=\"When was it celebrated based on our written statement?\">Kailan ito ipinagdiwang batay sa ating pahayag?</span>\n<span class=\"fil-sentence\" data-translation=\"It was celebrated on 'May 15' which is a specific date.\">Ito ay ipinagdiwang noong 'Mayo 15' na isang petsa.</span>\n<span class=\"fil-sentence\" data-translation=\"This is a tradition of gratitude for a bountiful harvest.\">Ito ay tradisyon ng pasasalamat sa saganang ani.</span>\n<span class=\"fil-sentence\" data-translation=\"Did you find the event and time in your analysis today?\">Nahanap mo ba ang pangyayari at panahon sa pagsusuri?</span>",
       "examples": [
         {
-          "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Pagsusuri Pista",
+          "content": "Pangyayari -> Pahiyas, Panahon -> Mayo 15, Kahulugan -> Pasasalamat"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Katutubong Sining",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze a woven mat made of pandan leaves today.\">Suriin natin ang isang banig na gawa sa pandan.</span>\n<span class=\"fil-sentence\" data-translation=\"The mat contains woven patterns of green, red, and yellow.\">Ang banig ay may kulay na berde, pula, at dilaw.</span>\n<span class=\"fil-sentence\" data-translation=\"Observe the shapes woven on its smooth physical surface.\">Suriin ang mga hugis na nakahabi sa ibabaw nito.</span>\n<span class=\"fil-sentence\" data-translation=\"There are shapes of flowers and waves of the nearby sea.\">May mga hugis ng bulaklak at alon ng malapit na dagat.</span>\n<span class=\"fil-sentence\" data-translation=\"This weaving art is called native weaving in our culture.\">Ang sining na ito ay tinatawag na katutubong habi.</span>\n<span class=\"fil-sentence\" data-translation=\"It was made by hand by a skilled local artist in town.\">Ito ay ginawa gamit ang kamay ng lokal na artista.</span>\n<span class=\"fil-sentence\" data-translation=\"This is a primary source of art in our local community.\">Ito ay isang primaryang batayan ng sining sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"Draw the pattern of this woven mat on your drawing sheet!\">Iguhit ang pattern ng banig na ito sa inyong papel!</span>",
       "examples": [
         {
-          "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Pagsasanay Sining",
+          "content": "banig -> katutubong habi gamit ang dahon ng pandan"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Leron Leron Sinta",
+      "text": "<span class=\"fil-sentence\" data-translation=\"We will sing the folk song 'Leron Leron Sinta' today.\">Aawitin natin ang 'Leron Leron Sinta' sa klase natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Read: 'Leron, leron sinta, bud of the papaya...'\">Basahin: 'Leron, leron sinta, buko ng papaya...'</span>\n<span class=\"fil-sentence\" data-translation=\"What is the fruit mentioned at the start of the song?\">Ano ang prutas na binanggit sa simula ng kanta?</span>\n<span class=\"fil-sentence\" data-translation=\"The fruit is 'papaya' which is a common noun of thing.\">Ang prutas ay 'papaya' na isang ngalan ng bagay.</span>\n<span class=\"fil-sentence\" data-translation=\"What is the person in the song doing up yonder tree?\">Ano ang ginagawa ng tao sa kanta sa itaas ng puno?</span>\n<span class=\"fil-sentence\" data-translation=\"He is picking fruits but the branch broke unexpectedly.\">Siya ay pumipitas ng prutas ngunit nabali ang sanga.</span>\n<span class=\"fil-sentence\" data-translation=\"This folk song describes the agricultural way of life yonder.\">Ang kantang ito ay naglalarawan ng buhay sa bukid.</span>\n<span class=\"fil-sentence\" data-translation=\"Write the name of this fruit onto your writing paper now!\">Isulat ang pangalan ng prutas na ito sa inyong papel!</span>",
       "examples": [
         {
-          "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Pagsasanay Awitin",
+          "content": "papaya (prutas) -> pamumuhay sa pagsasaka (agriculture)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Maling Pagtukoy sa Petsa ng Pista",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid confusing the dates of our local celebrations today.\">Iwasan ang paglilito sa mga petsa ng pagdiriwang.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'Pahiyas Festival is celebrated on December 25 yonder.'\">Mali: 'Ipinagdiriwang ang Pahiyas tuwing Disyembre 25.'</span>\n<span class=\"fil-sentence\" data-translation=\"December 25 is the date of Christmas, not of Pahiyas.\">Ang Disyembre 25 ay petsa ng Pasko, hindi ng Pahiyas.</span>\n<span class=\"fil-sentence\" data-translation=\"Pahiyas is celebrated on May 15 yonder in Quezon province.\">Ang Pahiyas ay ginaganap tuwing Mayo 15 sa Quezon.</span>\n<span class=\"fil-sentence\" data-translation=\"Correct: 'Pahiyas Festival is celebrated on May 15.'\">Tama: 'Ipinagdiriwang ang Pahiyas tuwing Mayo 15.'</span>\n<span class=\"fil-sentence\" data-translation=\"Make sure of the correct date in your historical reports.\">Tiyakin ang tamang petsa sa inyong kasaysayang ulat.</span>\n<span class=\"fil-sentence\" data-translation=\"Ask the elders in your family or read history books now!\">Magtanong sa nakatatanda o magbasa ng aklat ngayon!</span>\n<span class=\"fil-sentence\" data-translation=\"This is the way to keep your school work accurate today!\">Ito ang paraan upang maging tumpak ang iyong gawa!</span>",
       "examples": [
         {
-          "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Petsa Error",
+          "content": "mali: Pahiyas -> Disyembre 25, tama: Pahiyas -> Mayo 15"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Maling Paglalarawan ng Sayaw",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid incorrect descriptions of our native folk dances today.\">Iwasan ang maling paglalarawan sa katutubong sayaw.</span>\n<span class=\"fil-sentence\" data-translation=\"Do not write yonder that Tinikling uses drinking glasses.\">Huwag sabihing ang Tinikling ay ginagamitan ng baso.</span>\n<span class=\"fil-sentence\" data-translation=\"The dance with glasses of light on the head is Pandanggo.\">Ang sayaw na may baso sa ulo ay Pandanggo sa Ilaw.</span>\n<span class=\"fil-sentence\" data-translation=\"The Tinikling uses large bamboo poles tapped on the floor.\">Ang Tinikling ay gumagamit ng malalaking kawayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Verify the dance props of each folk dance in your reports.\">Tiyakin ang mga kagamitan ng sayaw sa inyong ulat.</span>\n<span class=\"fil-sentence\" data-translation=\"You can watch the actual folk dance performed on stage yonder.\">Maaari mong panoorin ang sayaw upang makasiguro ka.</span>\n<span class=\"fil-sentence\" data-translation=\"Accurate details show our deep knowledge of culture yonder.\">Ang tumpak na detalye ay nagpapakita ng kaalaman natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful when writing about these native folk dances today!\">Maging maingat sa pagsulat ng mga katutubong sayaw ngayon!</span>",
       "examples": [
         {
-          "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Sayaw Pagsusuri",
+          "content": "Tinikling = kawayan (bamboo), Pandanggo = baso ng ilaw (glass)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Kasaysayan ng Pista ng Pook",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Every festival has a deep history in our local place yonder.\">Ang bawat pista ay may malalim na kasaysayan sa pook.</span>\n<span class=\"fil-sentence\" data-translation=\"It is not just for eating; the gathering has a purpose.\">Ito ay hindi lamang kainan; may layunin ang pagtitipon.</span>\n<span class=\"fil-sentence\" data-translation=\"It aims to strengthen the unity of our local barangay life.\">Nilalayon nitong palakasin ang pagkakaisa ng barangay.</span>\n<span class=\"fil-sentence\" data-translation=\"It displays the products and livelihood of the community.\">Ipinapakita nito ang kabuhayan at produkto ng komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"E.g., pineapple in Daet, roasted pig in Balayan, kiping in Lucban.\">E.g., pinya sa Daet, lechon sa Balayan, kiping sa Lucban.</span>\n<span class=\"fil-sentence\" data-translation=\"We take pride in the abundant resources given to our place.\">Ipinagmamalaki natin ang mga yaman na ibinigay sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"This provides a unique identity to each province yonder.\">Ito ay nagbibigay-identidad sa bawat lalawigan natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Let's love the local arts and traditions of our place!\">Mahalin natin ang sining at tradisyon ng ating pook!</span>",
       "examples": [
         {
-          "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Kasaysayan ng Pista",
+          "content": "Pista = Pagdiriwang ng produkto, kabuhayan, at pagkakaisa."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 1",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Pagsasanay 1",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 2",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Pagsasanay 2",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 3",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Pagsasanay 3",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 3: Mga Makasaysayang Estruktura at Landmarks. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 4",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mga Makasaysayang Estruktura at Landmarks to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mga Makasaysayang Estruktura at Landmarks in other contexts."
+          "title": "Pagsasanay 4",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 1",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 5",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 3: Mga Makasaysayang Estruktura at Landmarks to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 1",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 5",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 2",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 6",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 3: Mga Makasaysayang Estruktura at Landmarks to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 2",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 6",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 3",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 7",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 3: Mga Makasaysayang Estruktura at Landmarks to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 3",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 7",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 4",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 8",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 3: Mga Makasaysayang Estruktura at Landmarks to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 4",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 8",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 1",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Karagdagang Pagsasanay 9",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 1",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 1",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Pagsasanay 9",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 2",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Karagdagang Pagsasanay 10",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 2",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 2",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Pagsasanay 10",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 3: Mga Makasaysayang Estruktura at Landmarks. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "title": "Buod ng Ikatlong Linggo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed all the slides for this week.\">Binabati kita! Natapos mo ang lahat ng slide sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about famous festivals like the Pahiyas yonder.\">Natutunan natin ang mga sikat na pista tulad ng Pahiyas.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about the Lechon Festival and Pineapple Festival.\">Natutunan natin ang Pista ng Lechon at Pista ng Pinya.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied native folk dances like the Tinikling yonder.\">Nag-aral tayo ng mga katutubong sayaw tulad ng Tinikling.</span>\n<span class=\"fil-sentence\" data-translation=\"We examined local arts like woven mats and bamboo baskets.\">Suriin natin ang mga sining tulad ng banig at basket.</span>\n<span class=\"fil-sentence\" data-translation=\"We created timelines of events during our town festivals.\">Gumawa tayo ng timeline ng kaganapan sa pista ng bayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready for the quiz and challenges of this week now?\">Handa ka na ba sa pagsusulit at hamon ng linggong ito?</span>\n<span class=\"fil-sentence\" data-translation=\"Continue loving the rich culture of our local community today!\">Ipagpatuloy ang pagmamahal sa kultura ng ating komunidad!</span>",
       "examples": [
         {
-          "title": "Summary Points",
-          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
-        },
-        {
-          "title": "Reflection",
-          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+          "title": "Tandaan",
+          "content": "Pista = Tradisyon at Produkto. Sining = Habi at Ukit. Igalang natin!"
         }
       ]
     }
@@ -6951,248 +6663,270 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Ano ang Pista ng Pahiyas na ipinagdiriwang tuwing Mayo 15?",
       "options": [
-        "Core term: Pamilya",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "pambalana sa pook",
+        "pantangi sa pangyayari",
+        "pantangi sa tao",
+        "pambalana sa bagay"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Saan ipinagdiriwang ang sikat na Pista ng Pahiyas?",
       "options": [
-        "Core term: Tungkulin",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "Calamba, Laguna",
+        "Lucban, Quezon",
+        "Balayan, Batangas",
+        "Daet, Camarines"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Sino ang patron ng mga magsasaka na ipinagdiriwang sa Pista ng Pahiyas?",
       "options": [
-        "Core term: Komunidad",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "San Juan Bautista",
+        "San Isidro Labrador",
+        "San Jose",
+        "San Pablo"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Ano ang tawag sa palamuti na yari sa bigas na may iba't ibang kulay sa Pahiyas?",
       "options": [
-        "Core term: Kasaysayan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "lechon",
+        "kiping",
+        "banig",
+        "bakya"
       ],
-      "answer": 0
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Saan ipinagdiriwang ang sikat na Pista ng Lechon tuwing Hunyo 24?",
+      "options": [
+        "Lucban, Quezon",
+        "Balayan, Batangas",
+        "Daet, Camarines Norte",
+        "Calamba, Laguna"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Sino ang patron na kasabay ng pagdiriwang ng Pista ng Lechon?",
+      "options": [
+        "San Isidro Labrador",
+        "San Juan Bautista",
+        "San Jose",
+        "San Pablo"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Anong prutas ang ipinagdiriwang sa Daet, Camarines Norte dahil sa tamis nito?",
+      "options": [
+        "papaya",
+        "pinya",
+        "saging",
+        "mangga"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang tawag sa sikat na katutubong sayaw na gumagamit ng kawayan sa pagsayaw?",
+      "options": [
+        "Cariñosa",
+        "Tinikling",
+        "Pandanggo sa Ilaw",
+        "Singkil"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Aling ibon ang ginagaya ng sayaw na Tinikling habang umiiwas sa patibong?",
+      "options": [
+        "agila",
+        "loro",
+        "tikling",
+        "pabo"
+      ],
+      "answer": 2
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 3: Mga Makasaysayang Estruktura at Landmarks is correct?",
+      "q": "Tama o Mali: Ang 'Leron Leron Sinta' ay isang lokal na folk song na naglalarawan ng buhay-bukid.",
       "options": [
-        "Statement A: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Alin sa mga sumusunod ang lokal na sining na gawa sa hinabing dahon ng pandan?",
       "options": [
-        "Core term: Landmarks",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "basket",
+        "banig",
+        "bakya",
+        "lechon"
       ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 3: Mga Makasaysayang Estruktura at Landmarks is a key topic in the study of ___.",
-      "answer": "Makabansa"
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Anong materyal ang ginagamit sa paggawa ng basket sa ating komunidad?",
       "options": [
-        "Core term: Tradisyon",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "bakal",
+        "kawayan o rattan",
+        "plastik",
+        "papel"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Ano ang tawag sa tradisyonal na kahoy na sapatos ng mga Pilipino?",
       "options": [
-        "Core term: Lokasyon",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "sapatos",
+        "tsinelas",
+        "bakya",
+        "boots"
       ],
-      "answer": 0
+      "answer": 2
+    },
+    {
+      "type": "choice",
+      "q": "Punan ang patlang sa kanta: 'Leron, leron sinta, buko ng ___...'",
+      "options": [
+        "saging",
+        "papaya",
+        "mangga",
+        "pinya"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang layunin ng pagdaraos ng Pista ng Pinya sa Daet?",
+      "options": [
+        "mag-import ng dayuhang prutas",
+        "ipagmalaki ang saganang ani ng pinyang Formosa",
+        "magbenta ng laruan",
+        "magtayo ng bagong tulay"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Anong okasyon ang ipinagdiriwang tuwing Hunyo 24 na may basaan ng tubig?",
+      "options": [
+        "Pasko",
+        "Kapistahan ni San Juan Bautista",
+        "Pista ng Pahiyas",
+        "Bagong Taon"
+      ],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 3: Mga Makasaysayang Estruktura at Landmarks is correct?",
+      "q": "Tama o Mali: Ang Pista ng Pahiyas ay ginaganap tuwing Mayo 15 sa Laguna.",
       "options": [
-        "Statement A: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are not relevant to these cases."
+        "Tama",
+        "Mali"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang pambalana sa sining na yari sa kahoy?",
+      "options": [
+        "ukit sa kahoy",
+        "habing tela",
+        "banig",
+        "lechon"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Ano ang dapat iwasan kapag sumasayaw ng Tinikling sa ibabaw ng kawayan?",
       "options": [
-        "Core term: Pamilya",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "ngumiti sa mambabasa",
+        "maipit ang paa sa pagitan ng kawayan",
+        "kumanta ng Leron Leron Sinta",
+        "tumingin sa guro"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Sino ang nagtuturo ng mga katutubong sayaw at awitin sa paaralan?",
       "options": [
-        "Core term: Tungkulin",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "doktor",
+        "guro",
+        "pulis",
+        "tanod"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Ano ang ginagawa sa mga inihaw na lechon sa parada sa Balayan?",
       "options": [
-        "Core term: Komunidad",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "kinakain habang mainit pa sa parada",
+        "binibihisan at pinapalamutian",
+        "itinatapon sa ilog",
+        "itinatago sa aklatan"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 3: Mga Makasaysayang Estruktura at Landmarks is a key topic in the study of ___.",
-      "answer": "Makabansa"
+      "type": "choice",
+      "q": "Tukuyin ang pambalana sa pangyayari: 'Masaya ang mga tao sa pista.'",
+      "options": [
+        "tao",
+        "masaya",
+        "pista",
+        "mga"
+      ],
+      "answer": 2
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 3: Mga Makasaysayang Estruktura at Landmarks is correct?",
+      "q": "Tama o Mali: Ang kiping ay palamuti na pwedeng kainin dahil ito ay gawa sa bigas.",
       "options": [
-        "Statement A: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Aling likas na yaman ang ginagamit sa paghabi ng banig?",
       "options": [
-        "Core term: Landmarks",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "bakal",
+        "dahon ng pandan o palm",
+        "bato",
+        "semento"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Ano ang pangunahing mensahe ng mga lokal na pagdiriwang sa komunidad?",
       "options": [
-        "Core term: Timeline",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
-      "options": [
-        "Core term: Tradisyon",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
-      "options": [
-        "Core term: Lokasyon",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 3: Mga Makasaysayang Estruktura at Landmarks is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are not relevant to these cases."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 3: Mga Makasaysayang Estruktura at Landmarks is a key topic in the study of ___.",
-      "answer": "Makabansa"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
-      "options": [
-        "Core term: Tungkulin",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
-      "options": [
-        "Core term: Komunidad",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 3: Mga Makasaysayang Estruktura at Landmarks?",
-      "options": [
-        "Core term: Kasaysayan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 3: Mga Makasaysayang Estruktura at Landmarks is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mga Makasaysayang Estruktura at Landmarks are not relevant to these cases."
+        "pagkakaisa at pasasalamat sa mga biyaya",
+        "pagbili ng bagong sapatos",
+        "paggawa ng makina",
+        "digmaan"
       ],
       "answer": 0
     }
@@ -7200,67 +6934,75 @@ window.WEEK3_ADVANCED_DATA.makabansa = {
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 3: Mga Makasaysayang Estruktura at Landmarks, what is the first priority?",
+      "q": "Challenge: Aling pagkakaiba ang totoo sa pagitan ng Pista ng Pahiyas at Pista ng Lechon?",
       "options": [
-        "Analyze key terms and variables",
-        "Guess the answer immediately",
-        "Skip the question",
-        "Use unrelated formulas"
+        "Ang Pahiyas ay parangal sa patron ng magsasaka sa Quezon, habang ang Lechon ay kasabay ng pista ni San Juan sa Batangas.",
+        "Ang Pahiyas ay gumagamit ng lechon, habang ang Lechon ay gumagamit ng kiping.",
+        "Ang Pahiyas ay ginaganap sa Batangas, habang ang Lechon ay sa Quezon.",
+        "Walang pagkakaiba ang dalawang pagdiriwang na ito."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Challenge: Paano nagkakaugnay ang awiting 'Leron Leron Sinta' sa kabuhayan ng mga tao sa Laguna noong araw?",
       "options": [
-        "The primary variable: Sarili",
-        "An external variable",
-        "No variable",
-        "All variables equally"
+        "Ipinapakita nito na pangingisda ang tanging gawa doon.",
+        "Inilalarawan nito ang pamumuhay sa pagsasaka at pagpitas ng mga lokal na prutas.",
+        "Wala itong kinalaman sa kabuhayan ng mga tao.",
+        "Ipinapakita nito ang mga pabrika at makina sa lungsod."
       ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 3: Mga Makasaysayang Estruktura at Landmarks.",
-      "options": [
-        "Statement A: Proper methodology leads to a correct and verified solution.",
-        "Statement B: Rushing through calculations is safe and rarely causes errors."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: Mga Makasaysayang Estruktura at Landmarks?",
-      "answer": "pamilya"
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 3: Mga Makasaysayang Estruktura at Landmarks?",
+      "q": "Challenge: Kung ang isang mag-aaral ay nais mag-aral ng kasaysayan ng sayaw na Tinikling, aling batayan ang primary source?",
       "options": [
-        "Building logical reasoning and problem-solving skills",
-        "Forgetting previous lessons",
-        "Speeding up without accuracy",
-        "None of these"
+        "isang video record ng mga katutubong sumasayaw noong 1930",
+        "isang modernong aklat sa MAPEH na isinulat nitong 2026",
+        "isang kwento ng kaibigan",
+        "isang encyclopedia"
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Bakit pinalalamutian ng kiping at gulay ang mga bahay sa Pahiyas sa halip na mga plastik na laruan?",
+      "options": [
+        "Dahil walang plastik na laruan sa Quezon.",
+        "Dahil ang kiping at gulay ay sumasagisag sa pasasalamat sa saganang ani ng agrikultura.",
+        "Dahil mas mura ang kiping kaysa sa laruan.",
+        "Dahil ang Mayor ang nag-utos nito."
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Aling pagkakasunod-sunod ng mga pagdiriwang sa taon ang tama batay sa kalendaryo?",
+      "options": [
+        "Pista ng Pahiyas (Mayo 15) -> Pista ng Lechon (Hunyo 24) -> Pasko (Disyembre 25)",
+        "Pista ng Lechon (Hunyo 24) -> Pista ng Pahiyas (Mayo 15) -> Pasko (Disyembre 25)",
+        "Pasko (Disyembre 25) -> Pista ng Pahiyas (Mayo 15) -> Pista ng Lechon (Hunyo 24)",
+        "Pista ng Pahiyas (Mayo 15) -> Pasko (Disyembre 25) -> Pista ng Lechon (Hunyo 24)"
       ],
       "answer": 0
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 3: Mga Makasaysayang Estruktura at Landmarks",
-    "desc": "Perform a simple observation of Week 3: Mga Makasaysayang Estruktura at Landmarks at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Ulat-Pista ng Ating Pook",
+    "desc": "Kausapin ang iyong magulang tungkol sa pista ng inyong sariling bayan o lungsod. Alamin kung kailan ito ipinagdiriwang, sino ang patron o anong produkto ang itinatampok, at anong mga lokal na pagkain ang inihahanda. Sumulat ng ulat sa papel, iguhit ang pagdiriwang, at awitin ang Leron Leron Sinta sa harap ng iyong pamilya.",
     "labels": [
-      "Accurate explanation of concept",
-      "Clarity and confidence in presentation",
-      "Neatness of written notes"
+      "Wastong natukoy ang petsa at produkto ng pista ng bayan",
+      "Maayos na naiguhit ang parada o mga lokal na pagkain",
+      "Malinaw na naawit ang folk song na may kasiglahan sa pamilya"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: Mga Makasaysayang Estruktura at Landmarks</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: Mga Makasaysayang Estruktura at Landmarks and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Pamilya and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: Mga Makasaysayang Estruktura at Landmarks.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of sarili</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: Mga Makasaysayang Estruktura at Landmarks.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 1: Pagkilala sa mga Pista</h3>\n                  <p class=\"ws-instruction\">Isulat ang ngalan ng tamang pista (<strong>Pahiyas</strong>, <strong>Pista ng Lechon</strong>, o <strong>Pista ng Pinya</strong>) batay sa produkto at lugar.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Parada ng mga nakadamit at pinalamutiang inihaw na baboy sa Balayan, Batangas:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pista ng Lechon</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Pagpapalamuti ng makukulay na kiping na yari sa bigas sa mga bahay sa Lucban, Quezon:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pahiyas</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Pagdiriwang ng saganang ani ng matatamis na pinyang Formosa sa Daet:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pista ng Pinya</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 2: Katutubong Sining at Sayaw</h3>\n                  <p class=\"ws-instruction\">Iugnay ang sining o sayaw sa katapat nitong kagamitan sa pamamagitan ng pagsulat ng tamang titik.</p>\n                  <div class=\"ws-split\" style=\"margin-top: 20px;\">\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.0;\">\n                      <div><strong>Sining at Sayaw:</strong></div>\n                      <div>1. Sayaw na Tinikling <span class=\"fil-sentence\" data-translation=\"(Tinikling Dance)\"></span></div>\n                      <div>2. Paghabi ng Banig <span class=\"fil-sentence\" data-translation=\"(Mat Weaving)\"></span></div>\n                      <div>3. Paggawa ng Bakya <span class=\"fil-sentence\" data-translation=\"(Clog Making)\"></span></div>\n                    </div>\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.0; text-align: right; padding-right: 40px;\">\n                      <div><strong>Pangunahing Kagamitan:</strong></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">C</span> &nbsp; ] &nbsp; A. dahon ng pandan <span class=\"fil-sentence\" data-translation=\"(pandan leaves)\"></span></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">A</span> &nbsp; ] &nbsp; B. dalawang mahabang kawayan <span class=\"fil-sentence\" data-translation=\"(two long bamboo poles)\"></span></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">B</span> &nbsp; ] &nbsp; C. matigas na kahoy <span class=\"fil-sentence\" data-translation=\"(hard wood block)\"></span></div>\n                    </div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 3: Pagsusuri ng Lokal na Awitin</h3>\n                  <p class=\"ws-instruction\">Sagutin ang tanong gamit ang tumpak na detalye batay sa awiting 'Leron Leron Sinta'.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Ano ang mahalagang aral sa kanta kapag nabali ang sanga ng puno ng papaya? <span class=\"fil-sentence\" data-translation=\"(What is the moral lesson when the papaya branch broke?)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Dapat maging maingat sa pag-akyat sa mga puno at sa paggawa ng trabaho sa bukid.</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Ang kawalan ng pag-iingat ay maaaring magdulot ng aksidente o pagkakahulog.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
@@ -7269,355 +7011,255 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
   "color": "#06b6d4",
   "icon": "🧘‍♂️",
   "title": "GMRC",
-  "subtitle": "Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok",
+  "subtitle": "Week 3: Pag-iimpok at Pagtitipid sa Pamilya",
   "slides": [
     {
-      "title": "Introduction to Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok",
-      "text": "Welcome to this week's module! We will cover key concepts, practical everyday examples, and structured guided practice to build a solid foundation in GMRC.",
+      "title": "Welcome sa Week 3!",
+      "text": "<span class=\"fil-sentence\" data-translation=\"How are you, student? Welcome to GMRC Week 3!\">Kumusta ka, mag-aaral? Welcome sa GMRC Week 3!</span>\n<span class=\"fil-sentence\" data-translation=\"This week, we have an important lesson for our life.\">Ngayong linggo, may mahalagang aralin tayo sa buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"We will study about saving money and conservation today.\">Pag-aaralan natin ang pag-iimpok at pagtitipid.</span>\n<span class=\"fil-sentence\" data-translation=\"Saving is putting aside coins and money for our future.\">Ang pag-iimpok ay pagtatabi ng barya para sa bukas.</span>\n<span class=\"fil-sentence\" data-translation=\"Frugality is the wise and careful use of our resources.\">Ang pagtitipid ay ang matalinong paggamit ng yaman.</span>\n<span class=\"fil-sentence\" data-translation=\"We will practice this together with our own family members.\">Gagawa tayo nito kasama ang ating sariling pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready to learn how to save your daily coins?\">Handa ka na bang matutong mag-impok ng iyong barya?</span>\n<span class=\"fil-sentence\" data-translation=\"Let's start the lesson with active enthusiasm today!\">Simulan natin ang aralin nang may sigla ngayon!</span>",
       "examples": [
         {
-          "title": "Lesson Goal",
-          "content": "Understand the core elements of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok and apply them in daily situations."
-        },
-        {
-          "title": "Real-world Connection",
-          "content": "Knowing these concepts helps us solve problems and make decisions in our local environment."
+          "title": "Layunin ng Aralin",
+          "content": "Maunawaan ang kahalagahan ng pag-iimpok at pagtitipid sa pamilya."
         }
       ]
     },
     {
-      "title": "Core Vocabulary & Terms",
-      "text": "Every subject has a set of important words. Learning these terms helps you understand the lessons and explain your thoughts clearly.",
+      "title": "Ano ang Pag-iimpok?",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Saving is the act of putting aside extra money yonder.\">Ang pag-iimpok ay ang pagtatabi ng labis na pera.</span>\n<span class=\"fil-sentence\" data-translation=\"E.g., if you are given ten pesos for school allowance,\">E.g., kapag binigyan ka ng baon na sampung piso,</span>\n<span class=\"fil-sentence\" data-translation=\"you put aside two pesos inside your coin piggy bank.\">itatabi mo ang dalawang piso sa iyong alkansya.</span>\n<span class=\"fil-sentence\" data-translation=\"The money put aside is what we call savings in GMRC.\">Ang perang itinabi ay tinatawag nating impok.</span>\n<span class=\"fil-sentence\" data-translation=\"We can use this yonder during times of sudden need in life.\">Magagamit natin ito sa oras ng pangangailangan natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Such as buying a new writing pencil when it breaks down.\">Tulad ng pagbili ng bagong lapis kapag nabali.</span>\n<span class=\"fil-sentence\" data-translation=\"Saving money displays a strong sense of self-discipline.\">Ang pag-iimpok ay nagpapakita ng disiplina sa sarili.</span>\n<span class=\"fil-sentence\" data-translation=\"Do you have your own piggy bank in your room today?\">Mayroon ka bang sariling alkansya sa inyong kuwarto?</span>",
       "examples": [
         {
-          "title": "Term 1: Pagmamahal",
-          "content": "A foundational concept in GMRC that helps us categorize and understand details."
-        },
-        {
-          "title": "Term 2: Kalinisan",
-          "content": "An active process or skill used to analyze situations and solve problems."
+          "title": "Pag-iimpok",
+          "content": "Pagtatabi ng barya (savings) sa alkansya para sa hinaharap."
         }
       ]
     },
     {
-      "title": "Understanding the Main Concept",
-      "text": "The main focus of this week is Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. By looking closely at how these ideas work together, we can build a strong understanding of GMRC.",
+      "title": "Ano ang Pagtitipid?",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Frugality is the careful use of our natural resources.\">Ang pagtitipid ay ang matipid na paggamit ng yaman.</span>\n<span class=\"fil-sentence\" data-translation=\"It is not only money that we conserve and save every day.\">Hindi lamang pera ang ating tinipid araw-araw.</span>\n<span class=\"fil-sentence\" data-translation=\"This includes clean water, electricity, food, and tools.\">Kasama rito ang tubig, kuryente, pagkain, at gamit.</span>\n<span class=\"fil-sentence\" data-translation=\"E.g., turning off the lights when no one is inside the room.\">E.g., ang pagpatay ng ilaw kapag walang tao sa silid.</span>\n<span class=\"fil-sentence\" data-translation=\"Or watering plants using recycled water from washing rice.\">Ang pagdidilig ng halaman gamit ang pinaghugasan.</span>\n<span class=\"fil-sentence\" data-translation=\"This helps our family reduce expenses in the monthly budget.\">Nakatutulong ito upang makatipid ang ating pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"Conservation shows respect for the resources given to us.\">Ang pagtitipid ay nagpapakita ng paggalang sa yaman.</span>\n<span class=\"fil-sentence\" data-translation=\"How can you conserve clean water when taking a bath today?\">Paano mo ititipid ang tubig kapag naliligo ka?</span>",
       "examples": [
         {
-          "title": "Key Concept Focus",
-          "content": "How to identify, describe, and apply Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in simple activities."
-        },
-        {
-          "title": "Why It Matters",
-          "content": "Mastering this concept is the gateway to higher-level study in this subject."
+          "title": "Pagtitipid",
+          "content": "Matalinong paggamit ng tubig, kuryente, pagkain, at gamit."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 1",
-      "text": "Let's explore Case 1 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pag-iimpok ng Barya sa Bahay",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Saving coins is a fun and rewarding habit yonder.\">Ang pag-iimpok ay masayang gawi sa ating bahay.</span>\n<span class=\"fil-sentence\" data-translation=\"We can use a piggy bank made of natural bamboo poles.\">Maaari tayong gumamit ng alkansya na yari sa kawayan.</span>\n<span class=\"fil-sentence\" data-translation=\"Or perhaps a recycled plastic bottle sitting on our desk.\">O kaya ay isang recycled na bote ng gatas sa desk.</span>\n<span class=\"fil-sentence\" data-translation=\"Drop coins inside it every afternoon returning from school.\">Hulugan ito ng barya tuwing hapon pag-uwi sa klase.</span>\n<span class=\"fil-sentence\" data-translation=\"Even a single peso or two pesos makes a big difference yonder.\">Kahit piso o dalawang piso ay malaki ang tulong.</span>\n<span class=\"fil-sentence\" data-translation=\"Over the months, the coins will accumulate to a large sum.\">Sa paglipas ng buwan, ang barya ay dadami nang marami.</span>\n<span class=\"fil-sentence\" data-translation=\"We can use this to buy our school supplies next school year.\">Magagamit natin ito sa pagbili ng mga gamit sa eskwela.</span>\n<span class=\"fil-sentence\" data-translation=\"Start saving yonder in your own house this very evening!\">Simulan ang pag-iimpok sa inyong tahanan ngayong gabi!</span>",
       "examples": [
         {
-          "title": "Example Case 1A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 1B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Alkansyang Kawayan",
+          "content": "Matalinong paraan upang magtabi ng barya araw-araw."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 2",
-      "text": "Let's explore Case 2 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pagtitipid sa Pagkain",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Food is a blessing yonder that must never be wasted.\">Ang pagkain ay biyaya na hindi dapat sinasayang natin.</span>\n<span class=\"fil-sentence\" data-translation=\"At every mealtime, take only the amount you can consume.\">Sa bawat hapag-kainan, kumuha lamang ng sapat sa iyo.</span>\n<span class=\"fil-sentence\" data-translation=\"Eat all the rice and food served yonder on your plate.\">Ubusin ang lahat ng kanin at ulam sa inyong plato.</span>\n<span class=\"fil-sentence\" data-translation=\"Do not leave leftovers yonder to go bad or rot in trash bins.\">Huwag magtira ng pagkain upang hindi ito mabulok.</span>\n<span class=\"fil-sentence\" data-translation=\"Wasting food displays a lack of gratitude for blessings.\">Ang pagsasayang ng pagkain ay nagpapakita ng katamaran.</span>\n<span class=\"fil-sentence\" data-translation=\"Many farmers worked hard yonder to produce the rice crop.\">Maraming magsasaka ang naghirap upang makamit ang kanin.</span>\n<span class=\"fil-sentence\" data-translation=\"Respect their hard work yonder by finishing your food today.\">Igalang ang kanilang gawa sa pamamagitan ng pag-ubos.</span>\n<span class=\"fil-sentence\" data-translation=\"Check your plate now to ensure no rice is left wasted today!\">Suriin ang iyong plato ngayon kung may natirang kanin!</span>",
       "examples": [
         {
-          "title": "Example Case 2A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 2B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Ubusin ang Pagkain",
+          "content": "Kumuha lamang ng sapat upang maiwasan ang pagsasayang."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 3",
-      "text": "Let's explore Case 3 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pagtitipid sa Kuryente",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Electricity is a valuable source of energy in town.\">Ang kuryente ay mahalagang enerhiya sa komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"It provides power to light up our study lamp at night.\">Nagbibigay ito ng liwanag sa ating lamp sa desk.</span>\n<span class=\"fil-sentence\" data-translation=\"But we must conserve it to reduce our family bill yonder.\">Ngunit kailangan natin itong tipirin upang makatipid.</span>\n<span class=\"fil-sentence\" data-translation=\"Turn off the fan when leaving the school classroom today.\">Patayin ang bentilador kapag lalabas ng silid-aralan.</span>\n<span class=\"fil-sentence\" data-translation=\"Unplug the television set when no one is watching yonder.\">Bunutin ang plug ng telebisyon kapag hindi nanonood.</span>\n<span class=\"fil-sentence\" data-translation=\"Use the natural sunlight in the morning hours when reading.\">Gamitin ang liwanag ng araw sa umaga kapag nagbabasa.</span>\n<span class=\"fil-sentence\" data-translation=\"Saving electricity helps protect our natural environment today.\">Ang pagtitipid sa kuryente ay nagliligtas sa kalikasan.</span>\n<span class=\"fil-sentence\" data-translation=\"Check yonder the plugged appliances inside your house now!\">Suriin ang mga nakasaksing kagamitan sa inyong bahay!</span>",
       "examples": [
         {
-          "title": "Example Case 3A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 3B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Tipid Kuryente",
+          "content": "Patayin ang ilaw at bentilador kapag walang gumagamit."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 4",
-      "text": "Let's explore Case 4 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pagtitipid sa Tubig",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Water is a natural resource needed for human survival.\">Ang tubig ay likas na yaman na kailangan sa buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"We use water for washing clothes, taking baths and cooking.\">Gagamit tayo ng tubig sa paghuhugas, paliligo at iba.</span>\n<span class=\"fil-sentence\" data-translation=\"Turn off the faucet while brushing your teeth yonder today.\">Isara ang gripo habang nagsesepilyo ng inyong ngipin.</span>\n<span class=\"fil-sentence\" data-translation=\"Use a glass of water instead of letting the tap flow away.\">Gumamit ng baso sa halip na hayaang tumulo ang gripo.</span>\n<span class=\"fil-sentence\" data-translation=\"Use a dipper and pail when taking a bath inside the restroom.\">Gumamit ng tabo at balde kapag naliligo sa banyo.</span>\n<span class=\"fil-sentence\" data-translation=\"Do not let water overflow yonder when watering the garden.\">Huwag hayaang sumobra ang tubig sa pagdidilig doon.</span>\n<span class=\"fil-sentence\" data-translation=\"Every single drop of clean water carries a high value yonder.\">Ang bawat patak ng tubig ay may malaking halaga.</span>\n<span class=\"fil-sentence\" data-translation=\"How can you help your mother conserve water in the house?\">Paano mo matutulungan ang nanay sa pagtipid ng tubig?</span>",
       "examples": [
         {
-          "title": "Example Case 4A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 4B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Tipid Tubig",
+          "content": "Isara ang gripo habang nagsesepilyo; gumamit ng balde."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 5",
-      "text": "Let's explore Case 5 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pag-iimpok at Pamilya",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Saving money improves the welfare of the family yonder.\">Ang pag-iimpok ay nagpapabuti sa buhay ng pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"Parents and children cooperate yonder to save money daily.\">Nagtutulungan ang magulang at anak sa pag-iimpok.</span>\n<span class=\"fil-sentence\" data-translation=\"We can establish a shared family savings box in the house.\">Maaari tayong magkaroon ng pangkalahatang alkansya.</span>\n<span class=\"fil-sentence\" data-translation=\"Here we drop coins yonder for sudden family emergencies today.\">Dito inilalagay ang barya para sa emergency ng pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"Such as buying medicines yonder when someone falls ill at home.\">Tulad ng pagbili ng gamot kapag may nagkasakit sa bahay.</span>\n<span class=\"fil-sentence\" data-translation=\"A child's frugality is a big help to the mother's budget.\">Ang pagtitipid ng anak ay tulong sa badyet ng nanay.</span>\n<span class=\"fil-sentence\" data-translation=\"This shows yonder that we care about our family's future.\">Ipinapakita nito na may pakialam tayo sa pamilya natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Create a frugality plan with your parents this evening!\">Gumawa ng plano ng pagtitipid kasama ang magulang ngayon!</span>",
       "examples": [
         {
-          "title": "Example Case 5A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 5B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Badyet ng Pamilya",
+          "content": "Ang pagtitipid ng anak ay nagpapagaan sa gastos ng magulang."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 6",
-      "text": "Let's explore Case 6 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Pag-iimpok ng Barya",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's practice saving our daily coins yonder in school.\">Magsanay tayo sa pag-iimpok ng ating mga barya.</span>\n<span class=\"fil-sentence\" data-translation=\"Matteo has twenty pesos allowance from his mother today.\">Si Matteo ay may baong bente pesos mula sa nanay.</span>\n<span class=\"fil-sentence\" data-translation=\"He bought a banana at the canteen yonder for eighteen pesos.\">Bumili siya ng saging sa kantina sa halagang labing-walo.</span>\n<span class=\"fil-sentence\" data-translation=\"There are two pesos left inside his hand after buying food.\">May natirang dalawang piso sa kanyang kamay pagkatapos.</span>\n<span class=\"fil-sentence\" data-translation=\"He placed the two pesos surplus yonder in his piggy bank.\">Inilagay niya ang dalawang piso sa kanyang alkansya.</span>\n<span class=\"fil-sentence\" data-translation=\"These two pesos represent his savings for the day yonder.\">Ang dalawang piso na ito ay ang kanyang sariling impok.</span>\n<span class=\"fil-sentence\" data-translation=\"Did you manage to save some coins from your own allowance?\">Nagawa mo bang mag-impok ng barya mula sa iyong baon?</span>\n<span class=\"fil-sentence\" data-translation=\"This is a great habit that you must continue every day!\">Ito ay mahusay na gawi na dapat mong ipagpatuloy!</span>",
       "examples": [
         {
-          "title": "Example Case 6A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 6B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Pagsasanay Impok",
+          "content": "20 pesos (baon) - 18 pesos (saging) = 2 pesos (impok)"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 7",
-      "text": "Let's explore Case 7 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Pagtitipid ng Tubig",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check handwashing procedures inside our school today.\">Suriin natin ang paghuhugas ng kamay sa paaralan.</span>\n<span class=\"fil-sentence\" data-translation=\"Lani used soap to wash her hands at the school washbasin.\">Si Lani ay gumamit ng sabon upang maghugas ng kamay.</span>\n<span class=\"fil-sentence\" data-translation=\"While rubbing soap yonder on her hands at the faucet,\">Habang kinukuskos niya ang kamay ng sabon sa gripo,</span>\n<span class=\"fil-sentence\" data-translation=\"she turned off the faucet so water does not flow wasted.\">isinara niya ang gripo upang hindi tumulo ang tubig.</span>\n<span class=\"fil-sentence\" data-translation=\"She only turned it back on when she was ready to rinse.\">Binuksan niya lang ulit ito nang magbabanlaw na siya.</span>\n<span class=\"fil-sentence\" data-translation=\"This simple action displays frugality and water conservation.\">Ang kilos na ito ay nagpapakita ng pagtitipid sa tubig.</span>\n<span class=\"fil-sentence\" data-translation=\"She saved many liters of clean water yonder in school today.\">Nakatipid siya ng maraming litro ng malinis na tubig.</span>\n<span class=\"fil-sentence\" data-translation=\"Do the same thing when washing dishes in your kitchen now!\">Gawin din ito kapag naghuhugas ka sa inyong kusina!</span>",
       "examples": [
         {
-          "title": "Example Case 7A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 7B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Pagsasanay Tubig",
+          "content": "Lani -> isinara ang gripo habang nagsasabon ng kamay."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 8",
-      "text": "Let's explore Case 8 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Guided Practice: Pagtitipid ng Pagkain",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the family lunch routine inside our house.\">Suriin natin ang pagkain ng tanghalian sa bahay.</span>\n<span class=\"fil-sentence\" data-translation=\"Kiko took rice and side dishes yonder on his lunch plate.\">Si Kiko ay kumuha ng kanin at ulam sa kanyang plato.</span>\n<span class=\"fil-sentence\" data-translation=\"He took only a sufficient portion that he could finish eating.\">Kumuha siya ng sapat na sukat na kaya niyang ubusin.</span>\n<span class=\"fil-sentence\" data-translation=\"He finished every grain of rice yonder without any leftovers.\">Inubos niya ang bawat butil ng kanin nang walang tira.</span>\n<span class=\"fil-sentence\" data-translation=\"No food was thrown into the kitchen garbage bin after lunch.\">Walang pagkain na naitapon sa basura pagkatapos kumain.</span>\n<span class=\"fil-sentence\" data-translation=\"This action displays food conservation and gratitude for blessings.\">Ang kilos na ito ay nagpapakita ng pagtitipid sa pagkain.</span>\n<span class=\"fil-sentence\" data-translation=\"His mother was happy because Kiko has excellent self-discipline.\">Natuwa ang kanyang nanay dahil disiplinado si Kiko.</span>\n<span class=\"fil-sentence\" data-translation=\"Finish your food yonder at every mealtime with your family!\">Ubusin ang iyong pagkain sa bawat kainan kasama ang pamilya!</span>",
       "examples": [
         {
-          "title": "Example Case 8A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 8B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Pagsasanay Pagkain",
+          "content": "Kiko -> kumuha ng sapat at inubos ang kanin sa plato."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 9",
-      "text": "Let's explore Case 9 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Maling Pagsasayang ng Tubig",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid playing with water yonder when you are taking a bath.\">Iwasan ang paglalaro ng tubig kapag naliligo ka.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'Let the faucet flow yonder while playing inside the tub.'\">Mali: 'Hayaang tumakbo ang gripo habang naglalaro sa tub.'</span>\n<span class=\"fil-sentence\" data-translation=\"Clean water is limited and expensive in our local community.\">Ang malinis na tubig ay limitado at mahal sa komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"Wasting it causes water shortage yonder for other households.\">Ang pagsasayang nito ay nagdudulot ng kakulangan sa iba.</span>\n<span class=\"fil-sentence\" data-translation=\"We must use a dipper and pail to control the water volume.\">Dapat gumamit ng tabo at balde upang kontrolin ang tubig.</span>\n<span class=\"fil-sentence\" data-translation=\"Correct: 'Use a pail and dipper yonder for bathing in bathroom.'\">Tama: 'Gumamit ng balde at tabo sa pagligo sa banyo.'</span>\n<span class=\"fil-sentence\" data-translation=\"Make sure all faucets are shut off yonder after using today!\">Tiyakin na isinasara ang mga gripo pagkatapos gamitin ngayon!</span>\n<span class=\"fil-sentence\" data-translation=\"This shows love and respect yonder for our natural resources!\">Ito ay nagpapakita ng pagmamahal sa ating likas na yaman!</span>",
       "examples": [
         {
-          "title": "Example Case 9A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 9B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Tubig Error",
+          "content": "mali: hayaang tumulo ang gripo -> tama: isara ang gripo kapag tapos na"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 10",
-      "text": "Let's explore Case 10 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Maling Pagbili ng Hindi Kailangan",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Avoid buying things yonder that are not actually needed.\">Iwasan ang pagbili ng mga bagay na hindi naman kailangan.</span>\n<span class=\"fil-sentence\" data-translation=\"Wrong: 'Buying many toys even if there are toys yonder at home.'\">Mali: 'Bumili ng maraming laruan kahit mayroon pa sa bahay.'</span>\n<span class=\"fil-sentence\" data-translation=\"This is a waste of money that could have been saved yonder.\">Ito ay pagsasayang ng pera na maaari sanang maiimpok.</span>\n<span class=\"fil-sentence\" data-translation=\"We must buy only the essential items needed for our classes.\">Dapat nating bilhin lamang ang mga gamit sa paaralan.</span>\n<span class=\"fil-sentence\" data-translation=\"Such as pencils, writing paper, and books used in school.\">Tulad ng lapis, papel, at aklat na ginagamit sa klase.</span>\n<span class=\"fil-sentence\" data-translation=\"Avoiding luxury is part of frugality yonder in the family.\">Ang pag-iwas sa luho ay bahagi ng pagtitipid sa pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"Make sure your spending of school allowance is wise today!\">Tiyakin na matalino ang iyong paggastos ng baon ngayon!</span>\n<span class=\"fil-sentence\" data-translation=\"This is the correct moral value that makes our parents happy!\">Ito ang wastong asal na nagpapasaya sa ating magulang!</span>",
       "examples": [
         {
-          "title": "Example Case 10A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 10B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Pagbili Error",
+          "content": "mali: bumili ng laruan -> tama: mag-impok ng barya sa alkansya"
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 11",
-      "text": "Let's explore Case 11 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Ang Pagtitipid sa mga Gamit sa Eskwela",
+      "text": "<span class=\"fil-sentence\" data-translation=\"School supplies are resources yonder that have financial value.\">Ang mga gamit sa eskwela ay yaman na may halaga.</span>\n<span class=\"fil-sentence\" data-translation=\"We must conserve and take care of them inside our classrooms.\">Dapat natin silang tipirin at ingatan sa klase.</span>\n<span class=\"fil-sentence\" data-translation=\"Use the writing pencil until it becomes short and small.\">Gamitin ang lapis hanggang sa ito ay maging munti.</span>\n<span class=\"fil-sentence\" data-translation=\"Do not tear blank pages yonder out of your school notebook.\">Huwag punitin ang mga blankong pahina ng iyong notebook.</span>\n<span class=\"fil-sentence\" data-translation=\"You can still write science lessons on those blank pages.\">Maaari mo pa itong sulatan ng mga leksyon sa science.</span>\n<span class=\"fil-sentence\" data-translation=\"Caring for supplies reduces expenses yonder for our parents.\">Ang pag-iingat sa gamit ay bawas-gastos sa magulang.</span>\n<span class=\"fil-sentence\" data-translation=\"This shows yonder that you are frugal and well-disciplined.\">Ipinapakita nito na ikaw ay matipid at disiplinado.</span>\n<span class=\"fil-sentence\" data-translation=\"Check your bag now to ensure your supplies are well-kept!\">Suriin ang iyong bag ngayon kung maayos ang iyong gamit!</span>",
       "examples": [
         {
-          "title": "Example Case 11A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 11B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Tipid Gamit",
+          "content": "Ingatan ang lapis at notebook; huwag punitin ang papel."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 12",
-      "text": "Let's explore Case 12 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 1",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 12A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 12B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Pagsasanay 1",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 13",
-      "text": "Let's explore Case 13 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 2",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 13A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 13B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Pagsasanay 2",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 14",
-      "text": "Let's explore Case 14 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 3",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 14A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 14B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Pagsasanay 3",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Detailed Lesson Case 15",
-      "text": "Let's explore Case 15 under Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. Observing specific examples helps us grasp the underlying principles and rules of this lesson.",
+      "title": "Karagdagang Pagsasanay 4",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Example Case 15A",
-          "content": "In this case, we look at the interaction of key elements in Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to observe the correct outcome."
-        },
-        {
-          "title": "Example Case 15B",
-          "content": "A secondary demonstration showing how different variables affect Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok in other contexts."
+          "title": "Pagsasanay 4",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 1",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 5",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 1",
-          "content": "How would you apply the rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 1",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 5",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 2",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 6",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 2",
-          "content": "How would you apply the rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 2",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 6",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 3",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 7",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 3",
-          "content": "How would you apply the rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 3",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 7",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Guided Practice Exercise 4",
-      "text": "Let's practice what we have learned so far. Read the task below, try to solve it in your head, and then check the provided solution to verify.",
+      "title": "Karagdagang Pagsasanay 8",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Practice Task 4",
-          "content": "How would you apply the rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok to analyze or solve this sample scenario?"
-        },
-        {
-          "title": "Correct Solution 4",
-          "content": "The correct answer is found by identifying the core terms and following the step-by-step methods."
+          "title": "Pagsasanay 8",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 1",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Karagdagang Pagsasanay 9",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 1",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 1",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Pagsasanay 9",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Common Error to Avoid 2",
-      "text": "It is easy to make mistakes when learning new concepts. Let's look at a common error and understand why it is incorrect so we can avoid it.",
+      "title": "Karagdagang Pagsasanay 10",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\">Mag-review tayo ng mga aralin sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 3.\">Pinag-aralan natin ang mahahalagang konsepto ng Week 3.</span>\n<span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.</span>\n<span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\">Gamitin ang iyong kaalaman sa iyong sariling buhay.</span>\n<span class=\"fil-sentence\" data-translation=\"You can discuss this together with your playmates.\">Maaari mong talakayin ito kasama ang iyong mga kalaro.</span>\n<span class=\"fil-sentence\" data-translation=\"Learning language and values helps us grow up well.\">Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.</span>\n<span class=\"fil-sentence\" data-translation=\"Try to answer all the questions in our quiz today.\">Subukang sagutin ang lahat ng tanong sa pagsusulit natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being an excellent and hardworking student!\">Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!</span>",
       "examples": [
         {
-          "title": "Incorrect Approach 2",
-          "content": "A common mistake is rushing to a conclusion without verifying the definitions or rules."
-        },
-        {
-          "title": "Correct Approach 2",
-          "content": "Always double check your steps, match the terms carefully, and use standard units or rules."
+          "title": "Pagsasanay 10",
+          "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."
         }
       ]
     },
     {
-      "title": "Weekly Review & Summary",
-      "text": "Congratulations! You have completed all the lessons on Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok. You are now ready to test your knowledge with the weekly quiz and challenges.",
+      "title": "Buod ng Ikatlong Linggo",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed all the slides for this week.\">Binabati kita! Natapos mo ang lahat ng slide sa linggong ito.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about saving money and resource conservation today.\">Natutunan natin ang kahulugan ng pag-iimpok at pagtitipid.</span>\n<span class=\"fil-sentence\" data-translation=\"We discovered saving coins inside a bamboo piggy bank yonder.\">Nalaman natin ang pagtatabi ng barya sa alkansyang kawayan.</span>\n<span class=\"fil-sentence\" data-translation=\"We learned about conserving food, clean water, and lights.\">Natutunan natin ang pagtitipid sa pagkain, tubig, at ilaw.</span>\n<span class=\"fil-sentence\" data-translation=\"We avoided wasting resources and buying unnecessary things yonder.\">Iniwasan natin ang pagsasayang ng yaman at maling pagbili.</span>\n<span class=\"fil-sentence\" data-translation=\"We created a frugality plan together with our family members.\">Gumawa tayo ng plano ng pagtitipid kasama ang pamilya.</span>\n<span class=\"fil-sentence\" data-translation=\"Are you ready for the quiz and challenges of this week now?\">Handa ka na ba sa pagsusulit at hamon ng linggong ito?</span>\n<span class=\"fil-sentence\" data-translation=\"Continue being a frugal and well-disciplined child today!\">Ipagpatuloy ang pagiging matipid at disiplinadong bata!</span>",
       "examples": [
         {
-          "title": "Summary Points",
-          "content": "We covered definition of key terms, studied 15 detailed cases, and completed 4 guided practice tasks."
-        },
-        {
-          "title": "Reflection",
-          "content": "Think about how you can share this new knowledge with your parents or classmates today."
+          "title": "Tandaan",
+          "content": "Pag-iimpok = Pera para sa bukas. Pagtitipid = Matalinong paggamit. Tipirin ang yaman!"
         }
       ]
     }
@@ -7625,316 +7267,346 @@ window.WEEK3_ADVANCED_DATA.gmrc = {
   "standard": [
     {
       "type": "choice",
-      "q": "Review Question 1: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Ano ang tawag sa pagtatabi ng labis na barya o pera para sa hinaharap?",
       "options": [
-        "Core term: Kalinisan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "paghahambing",
+        "pag-iimpok",
+        "pagtitipid",
+        "pagyayabang"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 2: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Ano ang tawag sa matalino at maingat na paggamit ng mga likas na yaman?",
       "options": [
-        "Core term: Disiplina",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "pag-iimpok",
+        "pagtitipid",
+        "pagkusa",
+        "katamaran"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 3: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Saan karaniwang inilalagay ng mga bata ang kanilang naimpok na barya sa bahay?",
       "options": [
-        "Core term: Paggalang",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "sa basurahan",
+        "sa alkansya",
+        "sa ilalim ng pader",
+        "sa paaralan"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 4: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Alin sa mga sumusunod ang nagpapakita ng pagtitipid sa kuryente?",
       "options": [
-        "Core term: Katapatan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "hayaang nakabukas ang bentilador kapag walang tao",
+        "patayin ang ilaw at bentilador kapag lalabas ng silid-aralan",
+        "isaksak ang telebisyon buong gabi",
+        "gamitin ang lamp kahit maliwanag ang araw"
       ],
-      "answer": 0
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Paano mo maiiwasan ang pagsasayang ng pagkain sa inyong hapag-kainan?",
+      "options": [
+        "kumuha ng napakaraming pagkain at magtira sa plato",
+        "kumuha lamang ng sapat na sukat at ubusin ang nasa plato",
+        "itapon ang kanin sa basurahan",
+        "huwag kumain kailanman"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang dapat gawin sa gripo habang nagsesepilyo ng ngipin sa banyo?",
+      "options": [
+        "hayaang nakabukas at tumutulo ang tubig",
+        "isara ang gripo at gumamit ng baso",
+        "sirain ang gripo",
+        "maglaro ng tubig sa gripo"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang nagpapakita ng pagtitipid sa mga gamit sa eskwela?",
+      "options": [
+        "punitin ang mga blankong papel sa notebook",
+        "gamitin ang lapis hanggang sa ito ay maging munti nang may pag-iingat",
+        "itapon ang krayola kapag nabali ang dulo",
+        "bumili ng bagong bag buwan-buwan"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Sino ang makikinabang kapag ang buong pamilya ay nagtutulungan sa pag-iimpok at pagtitipid?",
+      "options": [
+        "ang kapitan ng barangay lamang",
+        "ang buong pamilya at magulang",
+        "ang mga pulis sa outpost lamang",
+        "ang mga tindero sa palengke"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang angkop na gamitin sa paliligo upang makatipid sa tubig kumpara sa shower?",
+      "options": [
+        "tub ng paliguan",
+        "balde at tabo",
+        "gripo na walang tigil ang tulo",
+        "hose ng tubig"
+      ],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 5): Which statement about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is correct?",
+      "q": "Tama o Mali: Ang pagtitipid ng kuryente sa pamamagitan ng pagpatay ng ilaw ay nakatutulong sa badyet ng pamilya.",
       "options": [
-        "Statement A: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 6: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Ano ang dapat gawin sa mga tirang pagkain na maaari pang kainin sa susunod na kainan?",
       "options": [
-        "Core term: Pagtitipid",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "itapon sa trash bin agad",
+        "itabi nang maayos sa refrigerator upang maiinit muli",
+        "ipakain sa aso ng kapitbahay",
+        "iwanan sa mesa nang walang takip"
       ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 7): Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is a key topic in the study of ___.",
-      "answer": "GMRC"
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 8: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Alin sa mga sumusunod ang pambalana sa pook kung saan tayo nag-iimpok ng pera sa komunidad?",
       "options": [
-        "Core term: Bayanihan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "palengke",
+        "bangko o alkansya",
+        "aklatan",
+        "ospital"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 9: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Anong materyal sa kalikasan ang karaniwang ginagamit sa paggawa ng katutubong alkansya?",
       "options": [
-        "Core term: Pag-iimpok",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "plastik na tasa",
+        "kawayan o luwad",
+        "bakal na susi",
+        "semento"
       ],
-      "answer": 0
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Punan ang patlang: 'Ang bawat ___ ng naimpok na barya ay may halaga para sa hinaharap.'",
+      "options": [
+        "punit ng papel",
+        "piso o barya",
+        "tapon ng pagkain",
+        "patak ng luho"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Ano ang dapat mong gawin kapag nais mong bumili ng bagong laruan ngunit may laruan ka pa sa bahay?",
+      "options": [
+        "umiyak sa harap ng nanay upang ibili ka",
+        "magtiyaga sa lumang laruan at iimpok ang barya sa alkansya",
+        "sirain ang lumang laruan",
+        "manghingi ng pera sa kapitbahay"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Saan maaaring gamitin ang pinaghugasan ng bigas sa bahay upang makatipid sa tubig?",
+      "options": [
+        "itapon sa sahig ng kusina",
+        "ipangdilig sa mga halaman sa hardin",
+        "ipanghugas ng mukha",
+        "itapon sa basura"
+      ],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 10): Which statement about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is correct?",
+      "q": "Tama o Mali: Ang pagbili ng mga mamahaling gamit na hindi kailangan sa paaralan ay bahagi ng pagtitipid.",
       "options": [
-        "Statement A: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 11: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Aling ugali ang ipinapakita ng batang nagsusulat sa likod ng mga lumang papel na malinis pa?",
       "options": [
-        "Core term: Kalinisan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "katamaran",
+        "pagkamatipid at pagpapahalaga sa gamit",
+        "pagkatakot",
+        "pagyayabang"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 12: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Ano ang angkop na sabihin sa kapatid na hinayaang nakabukas ang TV kahit walang nanonood?",
       "options": [
-        "Core term: Disiplina",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "'Hayaan mo lang yan para maingay.'",
+        "'Patayin natin ang telebisyon upang makatipid tayo sa kuryente.'",
+        "'Ilipat natin sa cartoon kahit matutulog na tayo.'",
+        "'Huwag mong hawakan ang TV.'"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 13: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Ano ang pangunahing benepisyo ng pag-iimpok para sa isang Grade 3 student?",
       "options": [
-        "Core term: Paggalang",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "makabili ng pinakamataas na tatak ng sapatos",
+        "makabili ng sariling gamit sa eskwela sa pasukan nang hindi umaasa sa magulang",
+        "maging sikat sa klase",
+        "makabili ng computer agad"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
-      "type": "blank",
-      "q": "Fill in the blank (Question 14): Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is a key topic in the study of ___.",
-      "answer": "GMRC"
+      "type": "choice",
+      "q": "Alin sa mga sumusunod ang tamang kilos kapag nakita mong umaapaw ang tubig sa drum ng barangay?",
+      "options": [
+        "paglaruan ang tubig na umaapaw",
+        "isara ang gripo nang kusa upang hindi masayang ang tubig",
+        "huwag pansinin dahil hindi mo naman drum ito",
+        "isumbong sa bumbero agad"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Tukuyin ang pambalana sa bagay na nagbibigay-liwanag sa desk na ginagamitan ng kuryente:",
+      "options": [
+        "lapis",
+        "lamp o ilaw",
+        "papel",
+        "aklatan"
+      ],
+      "answer": 1
     },
     {
       "type": "verify",
-      "q": "Statement Check (Question 15): Which statement about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is correct?",
+      "q": "Tama o Mali: Ang pagkusa sa pagpatay ng ilaw kapag umaalis sa silid ay nagpapakita ng disiplina sa sarili.",
       "options": [
-        "Statement A: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are not relevant to these cases."
+        "Tama",
+        "Mali"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Review Question 16: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Alin sa mga sumusunod ang nagpapakita ng tamang pagtitipid sa pagkain sa paaralan?",
       "options": [
-        "Core term: Pagtitipid",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "magbaon ng napakaraming pagkain at itapon ang hindi naubos",
+        "magbaon ng sapat na pagkain at ubusin ito sa oras ng recess",
+        "bumili ng junk food sa labas ng gate",
+        "huwag kumain ng recess"
       ],
-      "answer": 0
+      "answer": 1
     },
     {
       "type": "choice",
-      "q": "Review Question 17: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Saan dapat magsimula ang pagtuturo ng pagtitipid at pag-iimpok?",
       "options": [
-        "Core term: Responsable",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
+        "sa banko lamang",
+        "sa loob ng tahanan kasama ang pamilya araw-araw",
+        "sa palengke lamang",
+        "kapag malaki na at nagtatrabaho na"
       ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 18: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
-      "options": [
-        "Core term: Bayanihan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 19: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
-      "options": [
-        "Core term: Pag-iimpok",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 20): Which statement about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are not relevant to these cases."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Fill in the blank (Question 21): Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is a key topic in the study of ___.",
-      "answer": "GMRC"
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 22: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
-      "options": [
-        "Core term: Disiplina",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 23: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
-      "options": [
-        "Core term: Paggalang",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "choice",
-      "q": "Review Question 24: Which of the following is most closely associated with Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
-      "options": [
-        "Core term: Katapatan",
-        "None of these",
-        "An unrelated concept",
-        "A random guess"
-      ],
-      "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Statement Check (Question 25): Which statement about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok is correct?",
-      "options": [
-        "Statement A: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are applied to solve these cases.",
-        "Statement B: The core rules of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok are not relevant to these cases."
-      ],
-      "answer": 0
+      "answer": 1
     }
   ],
   "challenge": [
     {
       "type": "choice",
-      "q": "Challenge 1: In a complex situation involving Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok, what is the first priority?",
+      "q": "Challenge: Kung ang isang pamilya ay patuloy na nagsasayang ng kuryente at tubig, ano ang maaaring mangyari sa kanilang badyet?",
       "options": [
-        "Analyze key terms and variables",
-        "Guess the answer immediately",
-        "Skip the question",
-        "Use unrelated formulas"
+        "Lalaki ang kanilang babayarang bill na magdudulot ng kakulangan sa pera para sa pagkain at iba pang pangangailangan.",
+        "Mababawasan ang kanilang bayarin sa bangko.",
+        "Mas magiging masaya ang Mayor ng bayan.",
+        "Walang magiging epekto ito sa pamilya."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "Challenge 2: Which variable has the greatest effect on the outcome of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Challenge: Paano nakatutulong ang pag-iimpok ng barya sa alkansya sa paghahanda para sa mga hindi inaasahang pangyayari (emergencies)?",
       "options": [
-        "The primary variable: Pagmamahal",
-        "An external variable",
-        "No variable",
-        "All variables equally"
+        "Ang naimpok na pera ay magagamit upang ibili ng gamot o kagamitan sa oras ng biglaang pangangailangan nang hindi nangungutang.",
+        "Ang pera ay mabubulok sa loob ng kawayan.",
+        "Hindi na kailangang magtrabaho ng mga magulang.",
+        "Maaaring ipamigay ang pera sa mga kalaro sa plaza."
       ],
       "answer": 0
-    },
-    {
-      "type": "verify",
-      "q": "Challenge 3: Compare two statements about Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok.",
-      "options": [
-        "Statement A: Proper methodology leads to a correct and verified solution.",
-        "Statement B: Rushing through calculations is safe and rarely causes errors."
-      ],
-      "answer": 0
-    },
-    {
-      "type": "blank",
-      "q": "Challenge 4: What tool or skill is essential for measuring or observing Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
-      "answer": "kalinisan"
     },
     {
       "type": "choice",
-      "q": "Challenge 5: What is the secondary implication of mastering Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok?",
+      "q": "Challenge: Aling paraan ang pinakamahusay upang makatipid sa pagbili ng mga aklat sa paaralan kung may kapatid kang katatapos lang sa Grade 3?",
       "options": [
-        "Building logical reasoning and problem-solving skills",
-        "Forgetting previous lessons",
-        "Speeding up without accuracy",
-        "None of these"
+        "bumili ng bago at mamahaling aklat sa mall",
+        "gamitin at ingatan ang mga lumang aklat ng kapatid na maaari pang basahin",
+        "huwag nang mag-aklat kailanman sa klase",
+        "punitin ang mga aklat ng kapatid"
+      ],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Bakit ang paggamit ng pinaghugasan ng bigas o gulay sa pagdidilig ng halaman ay itinuturing na matalinong pagtitipid?",
+      "options": [
+        "Dahil nakakatipid ito sa paggamit ng malinis na tubig mula sa gripo sa pamamagitan ng pag-recycle ng tubig.",
+        "Dahil mas gusto ng halaman ang tubig-bigas kaysa sa ulan.",
+        "Dahil mas madali itong gawin kaysa sa paglilinis ng pader.",
+        "Dahil binabayaran ng barangay ang pamilya sa pag-recycle."
+      ],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "q": "Challenge: Aling ugnayan ang pinakatumpak sa pagitan ng disiplina sa pag-iimpok at pagmamahal sa magulang?",
+      "options": [
+        "Ang matipid na bata ay nagpapagaan sa pinansyal na gastusin ng kanyang mga magulang na nagpapakita ng pagmamahal at pag-aalaga sa pamilya.",
+        "Walang ugnayan ang pagtitipid ng anak sa pagmamahal sa magulang.",
+        "Nag-iimpok ang bata upang bigyan ng laruan ang kanyang sarili lamang.",
+        "Nagtitipid ang bata upang hindi na siya pakainin ng magulang."
       ],
       "answer": 0
     }
   ],
   "performance": {
     "type": "performance",
-    "title": "Interactive Task: Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok",
-    "desc": "Perform a simple observation of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok at home. Explain your findings to your parents or classmates in 3 clear sentences.",
+    "title": "Aking Plano ng Pagtitipid sa Bahay",
+    "desc": "Gumawa ng isang simpleng listahan o tsart ng pagtitipid sa inyong bahay. Isulat ang tatlong paraan kung paano mo titipirin ang tubig at kuryente sa inyong tahanan (hal. pagpatay ng ilaw kapag walang tao, paggamit ng baso sa pagse-sepilyo). Ipakita ang tsart na ito sa iyong magulang at talakayin kung paano ito makatutulong sa badyet ng pamilya.",
     "labels": [
-      "Accurate explanation of concept",
-      "Clarity and confidence in presentation",
-      "Neatness of written notes"
+      "Wastong natukoy ang tatlong paraan ng pagtitipid sa bahay",
+      "Maayos na naisulat at naiguhit ang tsart ng pagtitipid sa papel",
+      "Malinaw na naipaliwanag ang badyet at plano ng pagtitipid sa magulang"
     ]
   },
   "worksheet": {
     "pages": [
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 1: Vocabulary & Concept Review</h3>\n                  <p class=\"ws-instruction\">Write down the correct term or definition using your stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. What is the definition of <strong>Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok</strong>?</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">The core concept focusing on Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok and its local applications.</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Identify the primary tool or method used to investigate this concept:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Kalinisan and observation.</span></div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 2: Case Analysis Table</h3>\n                  <p class=\"ws-instruction\">Use the table below to classify different cases of Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok.</p>\n                  <table class=\"ws-table\">\n                    <thead>\n                      <tr>\n                        <th>Case Description</th>\n                        <th>Classification</th>\n                        <th>Key Reason</th>\n                      </tr>\n                    </thead>\n                    <tbody>\n                      <tr>\n                        <td>Case Scenario A</td>\n                        <td><span class=\"ws-answer\">Classified</span></td>\n                        <td><span class=\"ws-answer\">Matches the properties of pagmamahal</span></td>\n                      </tr>\n                      <tr>\n                        <td>Case Scenario B</td>\n                        <td><span class=\"ws-answer\">Standard</span></td>\n                        <td><span class=\"ws-answer\">Follows the standard rules</span></td>\n                      </tr>\n                    </tbody>\n                  </table>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3>Exercise 3: Critical Thinking & Scenario Tasks</h3>\n                  <p class=\"ws-instruction\">Describe a real-world scenario where you observe Week 3: Mapagmalasakit - Gawi sa Pagtitipid at Pag-iimpok.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Describe your observations below:</div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">I observe this concept when performing daily chores or experiments at home,</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 25px; width: 100%;\"><span class=\"ws-answer\">such as observing changes in temperature or measuring items in the kitchen.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 1: Pag-iimpok vs. Pagtitipid</h3>\n                  <p class=\"ws-instruction\">Tukuyin kung ang sitwasyon ay nagpapakita ng <strong>Pag-iimpok</strong> (saving money) o <strong>Pagtitipid</strong> (conserving resources) gamit ang stylus.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Nagtabi ng limang piso si Matteo mula sa kanyang baon sa kanyang alkansya. <span class=\"fil-sentence\" data-translation=\"(Matteo put aside five pesos from his allowance in his piggy bank.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pag-iimpok</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Isinara ni Lani ang gripo habang sinasabon ang kanyang mga kamay. <span class=\"fil-sentence\" data-translation=\"(Lani turned off the faucet while soaping her hands.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pagtitipid</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Pinatay ni Kiko ang bentilador bago lumabas ng silid-aralan. <span class=\"fil-sentence\" data-translation=\"(Kiko turned off the fan before leaving the classroom.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pagtitipid</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 2: Matalinong Paggamit ng Yaman</h3>\n                  <p class=\"ws-instruction\">Isulat kung ang gawi sa bahay ay <strong>Matipid</strong> (karapat-dapat) o <strong>Matalak</strong> (dapat iwasan/sinasayang ang yaman).</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. Paggamit ng pinaghugasan ng bigas sa pagdidilig ng halaman. <span class=\"fil-sentence\" data-translation=\"(Using rice wash water to water plants.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Matipid</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. Hayaang nakasaksak ang TV kahit natutulog na ang lahat. <span class=\"fil-sentence\" data-translation=\"(Leaving the TV plugged in even when everyone is asleep.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Matalak</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. Kumuha ng sapat na pagkain lamang at ubusin ang nasa plato. <span class=\"fil-sentence\" data-translation=\"(Taking only enough food and finishing what is on the plate.)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Matipid</span></div>\n                  </div>\n                </div>",
+      "<div class=\"ws-page-content\">\n                  <h3>Pagsasanay 3: Pagpaplano ng Pag-iimpok</h3>\n                  <p class=\"ws-instruction\">Sagutin ang tanong gamit ang tumpak na detalye batay sa iyong sariling alkansya at aralin.</p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">Bakit mahalagang mag-impok ng barya ang isang bata sa kanyang alkansya araw-araw? <span class=\"fil-sentence\" data-translation=\"(Why is it important for a child to save coins in a piggy bank daily?)\"></span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Upang may magamit na sariling pera sa oras ng pangangailangan o pambili ng gamit sa eskwela.</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Nakatutulong din ito upang matutong maging disiplinado at matipid sa paglipas ng panahon.</span></div>\n                  </div>\n                </div>"
     ]
   }
 };
