@@ -16,6 +16,13 @@ def make_translation(fil, eng):
     eng_escaped = eng.replace('"', '&quot;')
     return f'<span class="fil-sentence" data-translation="{eng_escaped}">{fil}</span>'
 
+def strip_advanced_remarks(text):
+    if not isinstance(text, str):
+        return text
+    import re
+    cleaned = re.sub(r'\s*[\[(]Advanced[\])]\s*', ' ', text, flags=re.IGNORECASE)
+    return cleaned.strip()
+
 # Smart 8-line slide padding
 def expand_to_8_lines(text, title, examples, lang='en'):
     # Clean input text of newlines and double spaces
@@ -102,7 +109,7 @@ WEEKS_DATA = science_namespace["WEEKS_DATA"]
 
 for w in range(1, 5):
     adv_data = WEEKS_DATA[w]["topics"]["advanced"]
-    subtitle = WEEKS_DATA[w]["subtitle"] + " [Advanced]"
+    subtitle = strip_advanced_remarks(WEEKS_DATA[w]["subtitle"])
     
     # Process slides
     slides = []
@@ -111,7 +118,7 @@ for w in range(1, 5):
         ex_dicts = [{"title": ex[0], "content": ex[1]} for ex in examples]
         expanded_text = expand_to_8_lines(text, title, ex_dicts, lang='en')
         slides.append({
-            "title": title + " (Advanced)",
+            "title": strip_advanced_remarks(title),
             "text": expanded_text,
             "examples": ex_dicts
         })
@@ -191,11 +198,15 @@ subjects_mapping = {
 for sub_key, var_name in subjects_mapping.items():
     if var_name in adv_week3_namespace:
         sub_data = adv_week3_namespace[var_name]
+        if "subtitle" in sub_data:
+            sub_data["subtitle"] = strip_advanced_remarks(sub_data["subtitle"])
+        if "title" in sub_data:
+            sub_data["title"] = strip_advanced_remarks(sub_data["title"])
         
         # Enforce 8-line rule on slides
         lang = 'en' if sub_key in ['math', 'english'] else 'fil'
         for slide in sub_data["slides"]:
-            slide["title"] = slide["title"] + " (Advanced)"
+            slide["title"] = strip_advanced_remarks(slide["title"])
             slide["text"] = expand_to_8_lines(slide["text"], slide["title"], slide["examples"], lang=lang)
             
         dest_path = os.path.join(SOURCES_DIR, f"{sub_key}_advanced", "week3.json")
@@ -220,10 +231,10 @@ for w in [1, 2, 4]:
         
         # Clone and modify
         english_adv = json.loads(json.dumps(english_std))
-        english_adv["subtitle"] = english_adv["subtitle"] + " [Advanced]"
+        english_adv["subtitle"] = strip_advanced_remarks(english_adv["subtitle"])
         
         for slide in english_adv["slides"]:
-            slide["title"] = slide["title"] + " (Advanced)"
+            slide["title"] = strip_advanced_remarks(slide["title"])
             # Inject HOTS Challenge into examples
             slide["examples"].append({
                 "title": "HOTS Challenge",
@@ -244,10 +255,10 @@ for w in [1, 2, 4]:
                 std_data = json.load(f_std)
                 
             adv_data = json.loads(json.dumps(std_data))
-            adv_data["subtitle"] = adv_data["subtitle"] + " [Advanced]"
+            adv_data["subtitle"] = strip_advanced_remarks(adv_data["subtitle"])
             
             for slide in adv_data["slides"]:
-                slide["title"] = slide["title"] + " (Advanced)"
+                slide["title"] = strip_advanced_remarks(slide["title"])
                 # Inject HOTS Challenge
                 slide["examples"].append({
                     "title": "HOTS Hamon",

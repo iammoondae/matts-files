@@ -343,3 +343,19 @@ We have successfully resolved all stability issues, implemented the Welcome Dash
     - Documented the new database gates under Section 5.C in [moon_standards_mlh.md](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/moon_standards_mlh.md).
 5. **Successful Compilation & APK Package**:
     - Compiled all advanced sources, rebuilt Grade 3 JSON databases, validated them with zero errors, and packaged the installer: **[Matteo's Learning Hub v26.06.22.0957.apk](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/Matteo's%20Learning%20Hub%20v26.06.22.0957.apk)**.
+
+### 🧹 Database Cleaning, Parent Dashboard & Dropdown Updates (June 22, 2026 - Part 2):
+1. **Removed "(Advanced)" and "[Advanced]" Remarks**:
+    - Implemented a regex-based `strip_advanced_remarks(text)` utility in [generate_g3_all_subjects.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/generate_g3_all_subjects.py) to strip remarks from subject titles, subtitles, and slide titles during the JSON merge process.
+    - Updated [build_advanced_sources.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/build_advanced_sources.py) to clean source template titles and subtitles.
+    - Recompiled all Grade 3 databases (`data/g3/week1.json` to `data/g3/week4.json`), removing all user-facing "(Advanced)" and "[Advanced]" tags.
+2. **Updated Standards & Gate Checks**:
+    - Modified [validate_db.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/validate_db.py) to enforce that slide titles, subject titles, and subtitles contain no `(Advanced)` or `[Advanced]` tags.
+    - Added the clean-remarks standard to Section 5.C in [moon_standards_mlh.md](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/moon_standards_mlh.md).
+3. **Expanded Parent-Learner Activities**:
+    - Expanded the `PARENT_LEARNER_ACTIVITIES` array in [app.js](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/app.js) from 4 items to 10 items.
+    - Added 6 new educational activities (Magnets & Fields, Shadows & Light, Shopping Math, Bilingual Phonics, Neighborhood Mapping, and Water Conservation).
+4. **Locked Week 5 by Default**:
+    - Modified `isWeekUnlocked(weekNum)` in [app.js](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/app.js) to exclude Week 5. Week 5 is now locked by default and hidden from the "Select Academic Week" dropdown selector on load.
+5. **Successful Compilation & APK Package**:
+    - Compiled all sources, validated all Grade 3 databases (successfully passing the database quality gate with zero errors), and built the new versioned APK: **[Matteo's Learning Hub v26.06.22.1045.apk](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/Matteo's%20Learning%20Hub%20v26.06.22.1045.apk)**.

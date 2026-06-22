@@ -77,13 +77,25 @@ def validate_week_file(file_path):
             if len(slides) != 25:
                 errors.append(f"{name} subject '{sub}' study guide has {len(slides)} slides (expected 25).")
             else:
-                # 8-Line Text Check
-                if is_g3:
-                    for idx, slide in enumerate(slides):
+                # 8-Line Text Check & Forbidden "Advanced" remarks check in slide titles
+                for idx, slide in enumerate(slides):
+                    slide_title = slide.get('title', '')
+                    if "(Advanced)" in slide_title or "[Advanced]" in slide_title:
+                        errors.append(f"{name} subject '{sub}' slide {idx + 1} title '{slide_title}' contains forbidden 'Advanced' remarks.")
+                    
+                    if is_g3:
                         slide_text = slide.get('text', '')
                         line_count = slide_text.count('\n') + 1
                         if line_count != 8:
-                            errors.append(f"{name} subject '{sub}' slide {idx + 1} ('{slide.get('title')}') has {line_count} lines of text (expected exactly 8).")
+                            errors.append(f"{name} subject '{sub}' slide {idx + 1} ('{slide_title}') has {line_count} lines of text (expected exactly 8).")
+
+            # Forbidden "Advanced" remarks check in subject titles and subtitles
+            sub_title = sub_data.get('title', '')
+            sub_subtitle = sub_data.get('subtitle', '')
+            if "(Advanced)" in sub_title or "[Advanced]" in sub_title:
+                errors.append(f"{name} subject '{sub}' title '{sub_title}' contains forbidden 'Advanced' remarks.")
+            if "(Advanced)" in sub_subtitle or "[Advanced]" in sub_subtitle:
+                errors.append(f"{name} subject '{sub}' subtitle '{sub_subtitle}' contains forbidden 'Advanced' remarks.")
                 
             # Standard/Quiz Check
             quiz = sub_data.get('standard', sub_data.get('quiz', []))

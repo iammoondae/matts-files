@@ -25,6 +25,13 @@ def make_translation(fil, eng):
     eng_escaped = eng.replace('"', '&quot;')
     return f'<span class="fil-sentence" data-translation="{eng_escaped}">{fil}</span>'
 
+def strip_advanced_remarks(text):
+    if not isinstance(text, str):
+        return text
+    import re
+    cleaned = re.sub(r'\s*[\[(]Advanced[\])]\s*', ' ', text, flags=re.IGNORECASE)
+    return cleaned.strip()
+
 def normalize_subject_data(sub_data):
     if not sub_data:
         return sub_data
@@ -275,13 +282,21 @@ for w in range(1, 5):
         for sub_name in ["math", "science", "english", "filipino", "makabansa", "gmrc"]:
             sub_data = dataset.get(sub_name)
             if sub_data:
+                # Strip advanced remarks from subject title and subtitle
+                if "title" in sub_data:
+                    sub_data["title"] = strip_advanced_remarks(sub_data["title"])
+                if "subtitle" in sub_data:
+                    sub_data["subtitle"] = strip_advanced_remarks(sub_data["subtitle"])
+
                 # 1. Normalize quiz structures (opts -> options, ans -> answer)
                 normalize_subject_data(sub_data)
                 
-                # 2. Pad slide lengths
+                # 2. Pad slide lengths and strip advanced remarks from slide titles
                 if "slides" in sub_data:
                     lang = 'en' if sub_name in ['math', 'science', 'english'] else 'fil'
                     for slide in sub_data["slides"]:
+                        if "title" in slide:
+                            slide["title"] = strip_advanced_remarks(slide["title"])
                         slide["text"] = expand_to_8_lines(slide.get("text", ""), slide.get("title", ""), slide.get("examples", []), lang=lang)
                     
     output_data = {
