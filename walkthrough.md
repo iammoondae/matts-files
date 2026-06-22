@@ -359,3 +359,13 @@ We have successfully resolved all stability issues, implemented the Welcome Dash
     - Modified `isWeekUnlocked(weekNum)` in [app.js](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/app.js) to exclude Week 5. Week 5 is now locked by default and hidden from the "Select Academic Week" dropdown selector on load.
 5. **Successful Compilation & APK Package**:
     - Compiled all sources, validated all Grade 3 databases (successfully passing the database quality gate with zero errors), and built the new versioned APK: **[Matteo's Learning Hub v26.06.22.1045.apk](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/Matteo's%20Learning%20Hub%20v26.06.22.1045.apk)**.
+
+### 🌟 HTML Tag Validation & Splitter Resolution (June 22, 2026 - Part 3):
+1. **HTML-Aware Sentence Splitter**:
+    - Replaced the simple period-based string splitting algorithm inside `expand_to_8_lines()` in both [build_advanced_sources.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/build_advanced_sources.py) and [generate_g3_all_subjects.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/generate_g3_all_subjects.py) with a robust token-based HTML-aware sentence parser.
+    - The new `split_sentences_html()` algorithm tokenizes HTML tags (e.g. `<span ...>...</span>`) to ensure sentence boundaries are only detected outside active tags, preventing periods in translation attributes (such as `data-translation="This week, we will study about nouns."`) from splitting tags and producing malformed HTML markup (like `<<span...`).
+2. **Empty Span Regex Patch**:
+    - Corrected the empty span translation regex in `scratch/translate_all_subjects.py` to prevent crossing tag boundaries.
+3. **Successful Compilation & APK Package**:
+    - Rebuilt all advanced templates, compiled all Grade 3 databases with zero HTML or syntax errors, validated the database successfully, and generated the final Android package: **[Matteo's Learning Hub v26.06.22.1413.apk](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/Matteo's%20Learning%20Hub%20v26.06.22.1413.apk)**.
+
