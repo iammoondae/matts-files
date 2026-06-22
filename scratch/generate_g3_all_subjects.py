@@ -117,10 +117,25 @@ fil_sentences = [
     make_translation("Palaging magsikap na gawin ang iyong makakaya at tamasahin ang paglalakbay ng pag-aaral araw-araw.", "Always strive to do your best and enjoy the journey of learning every day.")
 ]
 
-def count_visible_words(text):
+def clean_html_text(html_text):
     import re
-    visible_text = re.sub(r'<[^>]+>', ' ', text)
-    words = [w for w in visible_text.split() if w]
+    if not html_text:
+        return ""
+    cleaned = re.sub(r'<[^>]+>', ' ', html_text).strip()
+    cleaned = re.sub(r'\s+', ' ', cleaned)
+    return cleaned
+
+def extract_translation(html_text):
+    import re
+    if not html_text:
+        return ""
+    m = re.search(r'data-translation=["\'](.*?)["\']', html_text)
+    if m:
+        return m.group(1)
+    return clean_html_text(html_text)
+
+def count_visible_words(text):
+    words = [w for w in clean_html_text(text).split() if w]
     return len(words)
 
 def expand_to_word_count(text, title, examples, lang='en'):
@@ -158,17 +173,20 @@ def expand_to_word_count(text, title, examples, lang='en'):
         ex_title = ex.get('title', '')
         ex_content = ex.get('content', '')
         if ex_content:
+            ex_title_clean = clean_html_text(ex_title)
+            ex_content_clean = clean_html_text(ex_content)
+            
             # Check if example content is already in the text to avoid duplication
-            ex_content_clean = re.sub(r'<[^>]+>', ' ', ex_content).strip()
-            sentences_flat = re.sub(r'<[^>]+>', ' ', " ".join(sentences))
+            sentences_flat = clean_html_text(" ".join(sentences))
             if ex_content_clean not in sentences_flat:
                 if lang == 'en':
-                    sentences.append(f"For instance, consider the example of {ex_title}: {ex_content}")
+                    sentences.append(f"For instance, consider the example of {ex_title_clean}: {ex_content_clean}")
                 else:
-                    sentences.append(make_translation(
-                        f"Halimbawa, tingnan natin ang tungkol sa {ex_title}: {ex_content}",
-                        f"For instance, consider the example of {ex_title}: {ex_content}"
-                    ))
+                    title_eng = extract_translation(ex_title)
+                    content_eng = extract_translation(ex_content)
+                    fil_ex = f"Halimbawa, tingnan natin ang tungkol sa {ex_title_clean}: {ex_content_clean}"
+                    eng_ex = f"For instance, consider the example of {title_eng}: {content_eng}"
+                    sentences.append(make_translation(fil_ex, eng_ex))
 
     # Add general padding sentences
     padding_sentences = en_sentences if lang == 'en' else fil_sentences
