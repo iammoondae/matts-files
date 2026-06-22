@@ -95,11 +95,11 @@ To ensure all AI models, coding assistants, and engineers maintain complete stra
 ## 📚 5. Curriculum & Study Guide Standards
 To maintain high educational quality and detail across all modules, the weekly content databases must follow these guidelines:
 
-### A. Slide Content Length (8-Line Rule)
-* **Requirement**: Each study guide slide (`slides` array objects) must contain at least eight (8) lines of rich, detailed, student-facing content in the `text` field (approximately 40 to 60 words).
-* **Scope**: This rule applies universally to all subjects: Mathematics, Science, English, Filipino, Makabansa, and GMRC.
-* **Goal**: This prevents brief, superficial definitions and ensures children receive thorough, narrative explanations, real-world examples, and step-by-step guidance.
-* **Visual Line Preservation**: The slide paragraph element `.slide-card-inner p` must preserve newlines (`white-space: pre-line`) so that compiled 8-line texts display exactly as eight separate lines to the student.
+### A. Slide Content Length (125-150 Word Rule)
+* **Requirement**: Each study guide slide (`slides` array objects) must contain between 125 and 150 words of rich, detailed, student-facing content in the `text` field.
+* **Scope**: This rule applies universally to all Grade 3 subjects: Mathematics, Science, English, Filipino, Makabansa, and GMRC.
+* **Goal**: This prevents brief, superficial definitions, ensures thorough narrative explanations, and guarantees rich, comprehensive reading material for the student.
+* **Paragraph Wrap**: The slide text must be formatted as a continuous block of text without separating sentences into new lines (no newlines). The slide paragraph element `.slide-card-inner p` should wrap normally to display as a unified block of text.
 
 ### B. Student-Facing Active Pedagogy
 * No teacher-facing instructions or pedagogical meta-talk.
@@ -109,7 +109,7 @@ To maintain high educational quality and detail across all modules, the weekly c
 ### C. Database Completeness & Validation Checks (Gate Checks)
 To ensure complete and error-free content delivery, the database validation compiler and checks (`validate_db.py`) enforce the following gates for Grade 3 (Weeks 1-4) subjects:
 * **Completeness of Learning Modes**: Each subject must define all 5 interactive modes:
-  * `slides`: exactly 25 slides, each formatted with exactly 8 lines of text.
+  * `slides`: exactly 25 slides, each containing 125 to 150 words of text.
   * `standard` (or `quiz`): exactly 25 questions.
   * `challenge`: exactly 5 questions.
   * `worksheet`: exactly 3 pages.

@@ -85,9 +85,14 @@ def validate_week_file(file_path):
                     
                     if is_g3:
                         slide_text = slide.get('text', '')
-                        line_count = slide_text.count('\n') + 1
-                        if line_count != 8:
-                            errors.append(f"{name} subject '{sub}' slide {idx + 1} ('{slide_title}') has {line_count} lines of text (expected exactly 8).")
+                        # Calculate visible words by stripping HTML tags
+                        visible_text = re.sub(r'<[^>]+>', ' ', slide_text)
+                        words = [w for w in visible_text.split() if w]
+                        word_count = len(words)
+                        if word_count < 125 or word_count > 150:
+                            errors.append(f"{name} subject '{sub}' slide {idx + 1} ('{slide_title}') has {word_count} words (expected 125-150 words).")
+                        if '\n' in slide_text:
+                            errors.append(f"{name} subject '{sub}' slide {idx + 1} ('{slide_title}') contains newlines.")
 
             # Forbidden "Advanced" remarks check in subject titles and subtitles
             sub_title = sub_data.get('title', '')

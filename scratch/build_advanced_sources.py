@@ -64,71 +64,104 @@ def split_sentences_html(text):
     return sentences
 
 # Smart 8-line slide padding
-def expand_to_8_lines(text, title, examples, lang='en'):
-    # Clean input text of newlines and double spaces
-    clean_text = text.replace('\n', ' ').strip()
-    sentences = split_sentences_html(clean_text)
-    sentences = [(s + "." if not s.endswith(('.', '!', '?', '>')) else s) for s in sentences]
-    
-    lines = []
-    
-    # 1. Distribute available sentences
-    for s in sentences:
-        lines.append(s)
-        
-    # Ensure we have at least 2 sentences
-    while len(lines) < 2:
-        if lang == 'en':
-            lines.append(f"This slide introduces key insights about {title}.")
-        else:
-            lines.append(make_translation(f"Ipinapakita ng slide na ito ang mga detalye tungkol sa {title}.", f"This slide introduces key insights about {title}."))
-            
-    # 2. Add example 1
-    if len(examples) >= 1:
-        ex_title = examples[0].get('title', 'Example 1')
-        ex_content = examples[0].get('content', '')
-        if lang == 'en':
-            lines.append(f"For instance, consider the example of {ex_title}:")
-            lines.append(f"{ex_content}")
-        else:
-            lines.append(make_translation(f"Halimbawa, tingnan natin ang tungkol sa {ex_title}:", f"For instance, consider the example of {ex_title}:"))
-            lines.append(ex_content)
-    else:
-        if lang == 'en':
-            lines.append("We can observe this principle in our daily observations.")
-            lines.append("Look closely at the environment around you to spot it.")
-        else:
-            lines.append(make_translation("Maaari nating maobserbahan ang prinsipyong ito sa araw-araw.", "We can observe this principle in our daily observations."))
-            lines.append(make_translation("Tingnan ang iyong paligid upang mapansin ang halimbawang ito.", "Look closely at the environment around you to spot it."))
+en_sentences = [
+    "To understand this concept deeply, we must look at how it applies to different situations in our daily lives.",
+    "By studying this topic, students can develop critical thinking skills and learn to solve complex problems.",
+    "It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation.",
+    "Every example we observe helps us connect theoretical knowledge with practical real-world applications.",
+    "As we explore more about this, we will find new ways to use this information to help our community.",
+    "Remember to keep asking questions, as curiosity is the key to mastering any subject.",
+    "We can also perform simple experiments or observations at home to verify these principles ourselves.",
+    "This knowledge will be very useful in your future studies and helps you understand the world better.",
+    "Let us review the key points and make sure we can explain them to others clearly.",
+    "Always strive to do your best and enjoy the journey of learning new things every day."
+]
 
-    # 3. Add example 2
-    if len(examples) >= 2:
-        ex_title = examples[1].get('title', 'Example 2')
-        ex_content = examples[1].get('content', '')
-        if lang == 'en':
-            lines.append(f"Another case is the study of {ex_title}:")
-            lines.append(f"{ex_content}")
-        else:
-            lines.append(make_translation(f"Ang isa pang kaso ay ang pag-aaral ng {ex_title}:", f"Another case is the study of {ex_title}:"))
-            lines.append(ex_content)
-    else:
-        if lang == 'en':
-            lines.append("Another application is demonstrated in science classrooms.")
-            lines.append("Verify these concepts by testing them with simple setups.")
-        else:
-            lines.append(make_translation("Ang isa pang aplikasyon ay ipinapakita sa ating mga klase.", "Another application is demonstrated in science classrooms."))
-            lines.append(make_translation("Suriin ang mga konseptong ito gamit ang simpleng eksperimento.", "Verify these concepts by testing them with simple setups."))
-            
-    # 4. Add HOTS challenge & encouragement
-    if lang == 'en':
-        lines.append(f"How does the concept of {title} help us think critically?")
-        lines.append("Keep up your curiosity and check your facts as a scientist!")
-    else:
-        lines.append(make_translation(f"Paano nakakatulong ang konsepto ng {title} sa ating kritikal na pag-iisip?", f"How does the concept of {title} help us think critically?"))
-        lines.append(make_translation("Ipagpatuloy ang pagiging masipag at mausisang mag-aaral!", "Continue being an active and curious learner!"))
+fil_sentences = [
+    make_translation("Upang maunawaan ang konseptong ito nang malalim, kailangan nating tingnan kung paano ito nalalapat sa iba't ibang sitwasyon sa ating pang-araw-araw na buhay.", "To understand this concept deeply, we must look at how it applies to different situations in our daily lives."),
+    make_translation("Sa pamamagitan ng pag-aaral ng paksang ito, ang mga mag-aaral ay maaaring bumuo ng mga kasanayan sa kritikal na pag-iisip.", "By studying this topic, students can develop critical thinking skills."),
+    make_translation("Mahalagang magsanay nang regular at talakayin ang mga ideyang ito sa iyong mga kasamahan at guro.", "It is important to practice regularly and discuss these ideas with your peers and teachers."),
+    make_translation("Ang bawat halimbawa na ating naobserbahan ay tumutulong sa atin na ikonekta ang teoretikal na kaalaman sa mga praktikal na aplikasyon.", "Every example we observe helps us connect theoretical knowledge with practical real-world applications."),
+    make_translation("Habang nagre-review tayo, makakahanap tayo ng mga bagong paraan upang magamit ang impormasyong ito upang makatulong.", "As we review, we will find new ways to use this information to help."),
+    make_translation("Tandaan na patuloy na magtanong, dahil ang pag-usisa ang susi sa pag-master ng anumang paksa.", "Remember to keep asking questions, as curiosity is the key to mastering any subject."),
+    make_translation("Maaari rin tayong magsagawa ng mga simpleng eksperimento o obserbasyon sa bahay upang ma-verify ito.", "We can also perform simple experiments or observations at home to verify this."),
+    make_translation("Ang kaalamang ito ay magiging lubhang kapaki-pakinabang sa iyong mga pag-aaral sa hinaharap.", "This knowledge will be very useful in your future studies."),
+    make_translation("Suriin natin ang mga pangunahing punto at tiyaking maipaliliwanag natin ito nang malinaw sa iba.", "Let us review the key points and make sure we can explain them to others clearly."),
+    make_translation("Palaging magsikap na gawin ang iyong makakaya at tamasahin ang paglalakbay ng pag-aaral araw-araw.", "Always strive to do your best and enjoy the journey of learning every day.")
+]
+
+def count_visible_words(text):
+    import re
+    visible_text = re.sub(r'<[^>]+>', ' ', text)
+    words = [w for w in visible_text.split() if w]
+    return len(words)
+
+def expand_to_word_count(text, title, examples, lang='en'):
+    import re
+    # Clean input text of newlines and multiple spaces
+    clean_text = text.replace('\n', ' ').strip()
+    clean_text = re.sub(r'\s+', ' ', clean_text)
+    
+    # Check if word count is already in range
+    w_count = count_visible_words(clean_text)
+    if 125 <= w_count <= 150:
+        return clean_text
         
-    # Return exactly 8 lines
-    return "\n".join(lines[:8])
+    if w_count > 150:
+        # Truncate at sentence boundaries to stay under 150 words
+        sentences = split_sentences_html(clean_text)
+        current_text = ""
+        for s in sentences:
+            test_text = (current_text + " " + s).strip() if current_text else s
+            if count_visible_words(test_text) > 150:
+                if count_visible_words(current_text) >= 125:
+                    return current_text
+                else:
+                    return test_text
+            current_text = test_text
+        return current_text
+
+    # We need to expand
+    sentences = [clean_text]
+    
+    # Add examples if not already present
+    for ex in examples:
+        if count_visible_words(" ".join(sentences)) >= 125:
+            break
+        ex_title = ex.get('title', '')
+        ex_content = ex.get('content', '')
+        if ex_content:
+            # Check if example content is already in the text to avoid duplication
+            ex_content_clean = re.sub(r'<[^>]+>', ' ', ex_content).strip()
+            sentences_flat = re.sub(r'<[^>]+>', ' ', " ".join(sentences))
+            if ex_content_clean not in sentences_flat:
+                if lang == 'en':
+                    sentences.append(f"For instance, consider the example of {ex_title}: {ex_content}")
+                else:
+                    sentences.append(make_translation(
+                        f"Halimbawa, tingnan natin ang tungkol sa {ex_title}: {ex_content}",
+                        f"For instance, consider the example of {ex_title}: {ex_content}"
+                    ))
+
+    # Add general padding sentences
+    padding_sentences = en_sentences if lang == 'en' else fil_sentences
+    for s in padding_sentences:
+        if count_visible_words(" ".join(sentences)) >= 125:
+            break
+        sentences.append(s)
+        
+    # Fallback to keep padding if still short
+    while count_visible_words(" ".join(sentences)) < 125:
+        sentences.append(padding_sentences[0])
+        
+    final_text = " ".join(sentences)
+    
+    # Truncate from the end if we went over 150
+    while count_visible_words(final_text) > 150 and len(sentences) > 1:
+        sentences.pop()
+        final_text = " ".join(sentences)
+        
+    return final_text
 
 # ----------------------------------------------------
 # STEP A: Extract Advanced Science from rebuild_science.py
@@ -156,7 +189,7 @@ for w in range(1, 5):
     for slide in adv_data["slides_data"]:
         title, text, examples = slide
         ex_dicts = [{"title": ex[0], "content": ex[1]} for ex in examples]
-        expanded_text = expand_to_8_lines(text, title, ex_dicts, lang='en')
+        expanded_text = expand_to_word_count(text, title, ex_dicts, lang='en')
         slides.append({
             "title": strip_advanced_remarks(title),
             "text": expanded_text,
@@ -247,7 +280,7 @@ for sub_key, var_name in subjects_mapping.items():
         lang = 'en' if sub_key in ['math', 'english'] else 'fil'
         for slide in sub_data["slides"]:
             slide["title"] = strip_advanced_remarks(slide["title"])
-            slide["text"] = expand_to_8_lines(slide["text"], slide["title"], slide["examples"], lang=lang)
+            slide["text"] = expand_to_word_count(slide["text"], slide["title"], slide["examples"], lang=lang)
             
         dest_path = os.path.join(SOURCES_DIR, f"{sub_key}_advanced", "week3.json")
         with open(dest_path, "w", encoding="utf-8") as f_out:
@@ -280,7 +313,7 @@ for w in [1, 2, 4]:
                 "title": "HOTS Challenge",
                 "content": "How would you apply this linguistic pattern to create a complex sentence?"
             })
-            slide["text"] = expand_to_8_lines(slide["text"], slide["title"], slide["examples"], lang='en')
+            slide["text"] = expand_to_word_count(slide["text"], slide["title"], slide["examples"], lang='en')
             
         dest_path = os.path.join(SOURCES_DIR, "english_advanced", f"week{w}.json")
         with open(dest_path, "w", encoding="utf-8") as f_out:
@@ -304,7 +337,7 @@ for w in [1, 2, 4]:
                     "title": make_translation("HOTS Hamon", "HOTS Challenge"),
                     "content": make_translation("Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?", "How will you apply this concept to your daily decision-making?")
                 })
-                slide["text"] = expand_to_8_lines(slide["text"], slide["title"], slide["examples"], lang='fil')
+                slide["text"] = expand_to_word_count(slide["text"], slide["title"], slide["examples"], lang='fil')
                 
             dest_path = os.path.join(SOURCES_DIR, f"{sub}_advanced", f"week{w}.json")
             with open(dest_path, "w", encoding="utf-8") as f_out:

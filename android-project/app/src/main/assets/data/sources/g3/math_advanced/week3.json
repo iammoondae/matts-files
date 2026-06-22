@@ -6,7 +6,7 @@
   "slides": [
     {
       "title": "Introduction to Lines in Geometry",
-      "text": "In geometry, a line is a straight path that extends infinitely in both directions without ending.\nWe represent lines with arrows on both ends.\nToday, we will study how lines relate to each other when they are on the same flat surface.\nFor instance, consider the example of Line vs Line Segment:\nA line segment has two fixed endpoints (like a ruler's edge), while a line extends forever in both directions.\nAnother case is the study of Naming Lines:\nWe name a line using two points on it, like line AB, or with a single lowercase letter, like line l.\nHow does the concept of Introduction to Lines in Geometry help us think critically?",
+      "text": "In geometry, a line is a straight path that extends infinitely in both directions without ending. We represent lines with arrows on both ends. Today, we will study how lines relate to each other when they are on the same flat surface. For instance, consider the example of Line vs Line Segment: A line segment has two fixed endpoints (like a ruler's edge), while a line extends forever in both directions. For instance, consider the example of Naming Lines: We name a line using two points on it, like line AB, or with a single lowercase letter, like line l. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems.",
       "examples": [
         {
           "title": "Line vs Line Segment",
@@ -20,7 +20,7 @@
     },
     {
       "title": "What are Parallel Lines?",
-      "text": "Parallel lines are lines on the same flat surface that are always the same distance apart (equidistant) and never meet or cross each other, no matter how far they extend.\nThis slide introduces key insights about What are Parallel Lines?.\nFor instance, consider the example of Railway Tracks:\nThe two rails of a straight train track are parallel. They must never cross, or the train would derail.\nAnother case is the study of Lined Paper:\nThe horizontal blue lines on your writing notebook are parallel lines.\nHow does the concept of What are Parallel Lines? help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "text": "Parallel lines are lines on the same flat surface that are always the same distance apart (equidistant) and never meet or cross each other, no matter how far they extend. For instance, consider the example of Railway Tracks: The two rails of a straight train track are parallel. They must never cross, or the train would derail. For instance, consider the example of Lined Paper: The horizontal blue lines on your writing notebook are parallel lines. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation.",
       "examples": [
         {
           "title": "Railway Tracks",
@@ -34,7 +34,7 @@
     },
     {
       "title": "Identifying Parallel Lines",
-      "text": "We use the symbol || to show that two lines are parallel.\nFor example, if line AB is parallel to line CD, we write AB || CD.\nThey will never intersect.\nFor instance, consider the example of Opposite Edges:\nThe top and bottom edges of a rectangular blackboard or tablet screen are parallel.\nAnother case is the study of Window Grids:\nVertical bars in a window grid are parallel to each other to form a protective cage.\nHow does the concept of Identifying Parallel Lines help us think critically?",
+      "text": "We use the symbol || to show that two lines are parallel. For example, if line AB is parallel to line CD, we write AB || CD. They will never intersect. For instance, consider the example of Opposite Edges: The top and bottom edges of a rectangular blackboard or tablet screen are parallel. For instance, consider the example of Window Grids: Vertical bars in a window grid are parallel to each other to form a protective cage. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation.",
       "examples": [
         {
           "title": "Opposite Edges",
@@ -48,7 +48,7 @@
     },
     {
       "title": "What are Intersecting Lines?",
-      "text": "Intersecting lines are lines that cross each other at exactly one point.\nThe point where they cross is called the point of intersection.\nWhen they cross, they form angles.\nFor instance, consider the example of Crossroads:\nA street intersection where two roads cross each other represents intersecting lines.\nAnother case is the study of Opened Scissors:\nThe two blades of an opened pair of scissors form intersecting lines crossing at the central pivot screw.\nHow does the concept of What are Intersecting Lines? help us think critically?",
+      "text": "Intersecting lines are lines that cross each other at exactly one point. The point where they cross is called the point of intersection. When they cross, they form angles. For instance, consider the example of Crossroads: A street intersection where two roads cross each other represents intersecting lines. For instance, consider the example of Opened Scissors: The two blades of an opened pair of scissors form intersecting lines crossing at the central pivot screw. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation.",
       "examples": [
         {
           "title": "Crossroads",
@@ -62,7 +62,7 @@
     },
     {
       "title": "What are Perpendicular Lines?",
-      "text": "Perpendicular lines are a special type of intersecting lines that cross each other to form exactly four right angles (90 degrees).\nThe symbol for perpendicular is ⊥.\nFor instance, consider the example of Perfect Cross:\nA plus sign (+) or a letter 'T' forms perpendicular lines. The angles formed are exactly 90°.\nAnother case is the study of Wall and Floor:\nA vertical wall meets the flat floor perpendicularly to ensure the building is stable.\nHow does the concept of What are Perpendicular Lines? help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "text": "Perpendicular lines are a special type of intersecting lines that cross each other to form exactly four right angles (90 degrees). The symbol for perpendicular is ⊥. For instance, consider the example of Perfect Cross: A plus sign (+) or a letter 'T' forms perpendicular lines. The angles formed are exactly 90°. For instance, consider the example of Wall and Floor: A vertical wall meets the flat floor perpendicularly to ensure the building is stable. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation.",
       "examples": [
         {
           "title": "Perfect Cross",
@@ -76,7 +76,7 @@
     },
     {
       "title": "Identifying Perpendicular Lines",
-      "text": "If line AB is perpendicular to line CD, we write AB ⊥ CD.\nYou can verify this by placing a protractor or the corner of a sheet of paper at the intersection to see if it fits perfectly.\nFor instance, consider the example of Corner Check:\nThe corner of your textbook is formed by two perpendicular lines meeting at a 90° angle.\nAnother case is the study of Crossroad Corners:\nA grid-style street layout has roads intersecting perpendicularly, creating 90-degree corners.\nHow does the concept of Identifying Perpendicular Lines help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "text": "If line AB is perpendicular to line CD, we write AB ⊥ CD. You can verify this by placing a protractor or the corner of a sheet of paper at the intersection to see if it fits perfectly. For instance, consider the example of Corner Check: The corner of your textbook is formed by two perpendicular lines meeting at a 90° angle. For instance, consider the example of Crossroad Corners: A grid-style street layout has roads intersecting perpendicularly, creating 90-degree corners. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation.",
       "examples": [
         {
           "title": "Corner Check",
@@ -90,7 +90,7 @@
     },
     {
       "title": "Lines in the Real World",
-      "text": "Architects, engineers, and designers use parallel, perpendicular, and intersecting lines to create houses, bridges, and beautiful artworks.\nLook around and find these lines!\nFor instance, consider the example of Eiffel Tower:\nThe Eiffel Tower contains intersecting support beams and parallel vertical columns.\nAnother case is the study of Bridges:\nSuspension bridges use parallel vertical cables and perpendicular steel trusses.\nHow does the concept of Lines in the Real World help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "text": "Architects, engineers, and designers use parallel, perpendicular, and intersecting lines to create houses, bridges, and beautiful artworks. Look around and find these lines! For instance, consider the example of Eiffel Tower: The Eiffel Tower contains intersecting support beams and parallel vertical columns. For instance, consider the example of Bridges: Suspension bridges use parallel vertical cables and perpendicular steel trusses. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications.",
       "examples": [
         {
           "title": "Eiffel Tower",
@@ -104,7 +104,7 @@
     },
     {
       "title": "Drawing Geometric Lines",
-      "text": "To draw parallel or perpendicular lines, we use a ruler (straightedge) and a set square (triangle ruler).\nA set square helps us align a perfect 90-degree angle.\nFor instance, consider the example of Drawing Parallel Lines:\nSlide a ruler along a fixed edge to draw two lines that maintain the same distance.\nAnother case is the study of Drawing Perpendiculars:\nPlace the 90° corner of a set square against a line, then draw along the vertical edge.\nHow does the concept of Drawing Geometric Lines help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+      "text": "To draw parallel or perpendicular lines, we use a ruler (straightedge) and a set square (triangle ruler). A set square helps us align a perfect 90-degree angle. For instance, consider the example of Drawing Parallel Lines: Slide a ruler along a fixed edge to draw two lines that maintain the same distance. For instance, consider the example of Drawing Perpendiculars: Place the 90° corner of a set square against a line, then draw along the vertical edge. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation.",
       "examples": [
         {
           "title": "Drawing Parallel Lines",
@@ -118,7 +118,7 @@
     },
     {
       "title": "Summary: Geometric Lines",
-      "text": "Superb!\nYou have mastered lines in geometry: Parallel lines (||, never meet), Intersecting lines (cross at a point), and Perpendicular lines (⊥, cross at exactly 90 degrees).\nThese concepts are the foundation of shape study and drafting.\nFor instance, consider the example of Key Symbols:\n|| means Parallel. ⊥ means Perpendicular. Vertex: Intersection point.\nAnother case is the study of Daily Practice:\nScan your room today: count 5 parallel lines and 5 perpendicular lines in your furniture!\nHow does the concept of Summary: Geometric Lines help us think critically?",
+      "text": "Superb! You have mastered lines in geometry: Parallel lines (||, never meet), Intersecting lines (cross at a point), and Perpendicular lines (⊥, cross at exactly 90 degrees). These concepts are the foundation of shape study and drafting. For instance, consider the example of Key Symbols: || means Parallel. ⊥ means Perpendicular. Vertex: Intersection point. For instance, consider the example of Daily Practice: Scan your room today: count 5 parallel lines and 5 perpendicular lines in your furniture! To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation.",
       "examples": [
         {
           "title": "Key Symbols",

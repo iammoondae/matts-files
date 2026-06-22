@@ -1847,11 +1847,7 @@ function renderCurrentView() {
     document.documentElement.style.setProperty('--active-subject-color', subjectData.color);
     document.getElementById('header-icon').innerText = subjectData.icon;
     document.getElementById('header-title').innerText = subjectData.title;
-    if (currentSubject === 'science') {
-      document.getElementById('header-subtitle').innerText = '';
-    } else {
-      document.getElementById('header-subtitle').innerText = subjectData.subtitle;
-    }
+    document.getElementById('header-subtitle').innerText = subjectData.subtitle;
   }
   
   // Reset progress bar visibility
@@ -6900,7 +6896,7 @@ function removeProfilePic() {
 // ==========================================================================
 // APP VERSION, BUILD INFO & CHANGELOG TIMELINE
 // ==========================================================================
-const RAW_APP_VERSION = "v26.06.22.1413";
+const RAW_APP_VERSION = "v26.06.22.1452";
 const RAW_BUILD_DATE = "June 22, 2026";
 
 function isPlaceholder(val) {

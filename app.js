@@ -1847,11 +1847,7 @@ function renderCurrentView() {
     document.documentElement.style.setProperty('--active-subject-color', subjectData.color);
     document.getElementById('header-icon').innerText = subjectData.icon;
     document.getElementById('header-title').innerText = subjectData.title;
-    if (currentSubject === 'science') {
-      document.getElementById('header-subtitle').innerText = '';
-    } else {
-      document.getElementById('header-subtitle').innerText = subjectData.subtitle;
-    }
+    document.getElementById('header-subtitle').innerText = subjectData.subtitle;
   }
   
   // Reset progress bar visibility
