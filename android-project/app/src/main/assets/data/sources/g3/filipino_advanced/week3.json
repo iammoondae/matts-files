@@ -106,238 +106,238 @@
   "standard": [
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What is your pronoun?\">Ano ang panghalip panao?</span>",
+      "q": "Ano ang panghalip panao?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"Word referring to the name of the place.\">Salitang tumutukoy sa ngalan ng lugar.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"A word substituted for a person&#x27;s name.\">Salitang ipinapalit sa ngalan ng tao.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"A word that describes an action.\">Salitang naglalarawan ng kilos.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Descriptive word.\">Salitang naglalarawan ng katangian.</span>"
+        "Salitang tumutukoy sa ngalan ng lugar.",
+        "Salitang ipinapalit sa ngalan ng tao.",
+        "Salitang naglalarawan ng kilos.",
+        "Salitang naglalarawan ng katangian."
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the first person singular pronoun?\">Alin sa mga sumusunod ang unang panauhan ng panghalip panao na isahan?</span>",
+      "q": "Alin sa mga sumusunod ang unang panauhan ng panghalip panao na isahan?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"you\">ikaw</span>",
-        "<span class=\"fil-sentence\" data-translation=\"he\">siya</span>",
-        "<span class=\"fil-sentence\" data-translation=\"I\">ako</span>",
-        "<span class=\"fil-sentence\" data-translation=\"they\">sila</span>"
+        "ikaw",
+        "siya",
+        "ako",
+        "sila"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What is the use of the pronoun &#x27;they&#x27;?\">Ano ang kailanan ng panghalip panao na 'sila'?</span>",
+      "q": "Ano ang kailanan ng panghalip panao na 'sila'?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"Singular\">Isahan</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Two\">Dalawahan</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Multiple\">Maramihan</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Gender\">Kasarian</span>"
+        "Isahan",
+        "Dalawahan",
+        "Maramihan",
+        "Kasarian"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the third person singular?\">Alin sa mga sumusunod ang ikatlong panauhan na isahan?</span>",
+      "q": "Alin sa mga sumusunod ang ikatlong panauhan na isahan?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"I\">ako</span>",
-        "<span class=\"fil-sentence\" data-translation=\"you\">ikaw</span>",
-        "<span class=\"fil-sentence\" data-translation=\"he\">siya</span>",
-        "<span class=\"fil-sentence\" data-translation=\"us\">kami</span>"
+        "ako",
+        "ikaw",
+        "siya",
+        "kami"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What pronoun would you use if you were talking to a group of children?\">Anong panghalip ang gagamitin kung kinakausap mo ang isang grupo ng mga bata?</span>",
+      "q": "Anong panghalip ang gagamitin kung kinakausap mo ang isang grupo ng mga bata?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"us\">kami</span>",
-        "<span class=\"fil-sentence\" data-translation=\"we\">tayo</span>",
-        "<span class=\"fil-sentence\" data-translation=\"You guys\">kayo</span>",
-        "<span class=\"fil-sentence\" data-translation=\"they\">sila</span>"
+        "kami",
+        "tayo",
+        "kayo",
+        "sila"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What is the difference between &#x27;we&#x27; and &#x27;us&#x27;?\">Ano ang pagkakaiba ng 'kami' at 'tayo'?</span>",
+      "q": "Ano ang pagkakaiba ng 'kami' at 'tayo'?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"&#x27;We&#x27; is singular, &#x27;us&#x27; is plural.\">Ang 'kami' ay isahan, ang 'tayo' ay maramihan.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"&#x27;We&#x27; does not include the interlocutor, &#x27;we&#x27; includes the interlocutor.\">Ang 'kami' ay hindi kasama ang kausap, ang 'tayo' ay kasama ang kausap.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"&#x27;We&#x27; is for animals, &#x27;we&#x27; is for humans.\">Ang 'kami' ay para sa hayop, ang 'tayo' ay para sa tao.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"There is no difference.\">Walang pagkakaiba.</span>"
+        "Ang 'kami' ay isahan, ang 'tayo' ay maramihan.",
+        "Ang 'kami' ay hindi kasama ang kausap, ang 'tayo' ay kasama ang kausap.",
+        "Ang 'kami' ay para sa hayop, ang 'tayo' ay para sa tao.",
+        "Walang pagkakaiba."
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the second person singular pronoun?\">Alin sa mga sumusunod ang panghalip panao na isahan sa ikalawang panauhan?</span>",
+      "q": "Alin sa mga sumusunod ang panghalip panao na isahan sa ikalawang panauhan?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"I\">ako</span>",
-        "<span class=\"fil-sentence\" data-translation=\"you\">ikaw</span>",
-        "<span class=\"fil-sentence\" data-translation=\"he\">siya</span>",
-        "<span class=\"fil-sentence\" data-translation=\"they\">sila</span>"
+        "ako",
+        "ikaw",
+        "siya",
+        "sila"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What part of the story line refers to the character&#x27;s problem or problem?\">Anong bahagi ng banghay ng kwento ang tumutukoy sa problema o suliranin ng tauhan?</span>",
+      "q": "Anong bahagi ng banghay ng kwento ang tumutukoy sa problema o suliranin ng tauhan?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"beginning\">Simula</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Rivalry\">Tunggalian</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Climax\">Kasukdulan</span>",
-        "<span class=\"fil-sentence\" data-translation=\"End\">Wakas</span>"
+        "Simula",
+        "Tunggalian",
+        "Kasukdulan",
+        "Wakas"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What is the most exciting or intense part of the story called?\">Ano ang tawag sa pinakakapana-panabik o pinakamasidhing bahagi ng kwento?</span>",
+      "q": "Ano ang tawag sa pinakakapana-panabik o pinakamasidhing bahagi ng kwento?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"beginning\">Simula</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Rivalry\">Tunggalian</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Climax\">Kasukdulan</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Strangeness\">Kakalasan</span>"
+        "Simula",
+        "Tunggalian",
+        "Kasukdulan",
+        "Kakalasan"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the statements is a FACT?\">Alin sa mga pahayag ang isang KATOTOHANAN?</span>",
+      "q": "Alin sa mga pahayag ang isang KATOTOHANAN?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"According to the analysis, sugar dissolves in water.\">Ayon sa pagsusuri, ang asukal ay natutunaw sa tubig.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"For me, bitter gourd is delicious.\">Para sa akin, masarap ang bitter gourd.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"I think it will rain tomorrow.\">Sa tingin ko ay uulan bukas.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Maybe it&#x27;s fun to walk in the park.\">Siguro ay masaya ang mamasyal sa parke.</span>"
+        "Ayon sa pagsusuri, ang asukal ay natutunaw sa tubig.",
+        "Para sa akin, masarap ang bitter gourd.",
+        "Sa tingin ko ay uulan bukas.",
+        "Siguro ay masaya ang mamasyal sa parke."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the statements is an OPINION?\">Alin sa mga pahayag ang isang OPINYON?</span>",
+      "q": "Alin sa mga pahayag ang isang OPINYON?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"The flag of the Philippines has blue, red, white, and yellow colors.\">Ang watawat ng Pilipinas ay may kulay asul, pula, puti, at dilaw.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"For me, Cariñosa is the most difficult dance.\">Para sa akin, ang Cariñosa ang pinakamahirap na sayaw.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"The City of Manila is the capital of the Philippines.\">Ang Lungsod ng Maynila ang kabisera ng Pilipinas.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Jose Rizal was shot in Luneta.\">Si Jose Rizal ay binaril sa Luneta.</span>"
+        "Ang watawat ng Pilipinas ay may kulay asul, pula, puti, at dilaw.",
+        "Para sa akin, ang Cariñosa ang pinakamahirap na sayaw.",
+        "Ang Lungsod ng Maynila ang kabisera ng Pilipinas.",
+        "Si Jose Rizal ay binaril sa Luneta."
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What is the use of the pronoun in the sentence: &#x27;They are playing basketball.&#x27;?\">Ano ang kailanan ng panghalip panao sa pangungusap: 'Sila ay naglalaro ng basketbol.'?</span>",
+      "q": "Ano ang kailanan ng panghalip panao sa pangungusap: 'Sila ay naglalaro ng basketbol.'?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"Singular\">Isahan</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Two\">Dalawahan</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Multiple\">Maramihan</span>",
-        "<span class=\"fil-sentence\" data-translation=\"person\">Panauhan</span>"
+        "Isahan",
+        "Dalawahan",
+        "Maramihan",
+        "Panauhan"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What person is the pronoun &#x27;I&#x27;?\">Anong panauhan ang panghalip na 'ako'?</span>",
+      "q": "Anong panauhan ang panghalip na 'ako'?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"First\">Una</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Second\">Ikalawa</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Third\">Ikatlo</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Multiple\">Maramihan</span>"
+        "Una",
+        "Ikalawa",
+        "Ikatlo",
+        "Maramihan"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What person is the pronoun &#x27;you&#x27;?\">Anong panauhan ang panghalip na 'kayo'?</span>",
+      "q": "Anong panauhan ang panghalip na 'kayo'?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"First\">Una</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Second\">Ikalawa</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Third\">Ikatlo</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Singular\">Isahan</span>"
+        "Una",
+        "Ikalawa",
+        "Ikatlo",
+        "Isahan"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following pronouns is NOT plural?\">Alin sa mga sumusunod na panghalip ang HINDI kabilang sa maramihan?</span>",
+      "q": "Alin sa mga sumusunod na panghalip ang HINDI kabilang sa maramihan?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"us\">kami</span>",
-        "<span class=\"fil-sentence\" data-translation=\"we\">tayo</span>",
-        "<span class=\"fil-sentence\" data-translation=\"they\">sila</span>",
-        "<span class=\"fil-sentence\" data-translation=\"he\">siya</span>"
+        "kami",
+        "tayo",
+        "sila",
+        "siya"
       ],
       "answer": 3
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What does &#x27;conflict&#x27; refer to in the story?\">Ano ang tinutukoy ng 'tunggalian' sa kwento?</span>",
+      "q": "Ano ang tinutukoy ng 'tunggalian' sa kwento?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"The venue of the event.\">Ang tagpuan ng kaganapan.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"The battle or problem of the protagonist against other forces.\">Ang labanan o problema ng bida laban sa ibang pwersa.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"The end of the story.\">Ang katapusan ng kwento.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"The protagonist&#x27;s dialogues.\">Ang mga diyalogo ng bida.</span>"
+        "Ang tagpuan ng kaganapan.",
+        "Ang labanan o problema ng bida laban sa ibang pwersa.",
+        "Ang katapusan ng kwento.",
+        "Ang mga diyalogo ng bida."
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What is the following part after the climax where the action of the story descends?\">Ano ang sumusunod na bahagi pagkatapos ng kasukdulan kung saan pababa ang aksyon ng kwento?</span>",
+      "q": "Ano ang sumusunod na bahagi pagkatapos ng kasukdulan kung saan pababa ang aksyon ng kwento?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"beginning\">Simula</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Rivalry\">Tunggalian</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Strangeness\">Kakalasan</span>",
-        "<span class=\"fil-sentence\" data-translation=\"End\">Wakas</span>"
+        "Simula",
+        "Tunggalian",
+        "Kakalasan",
+        "Wakas"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following shows an opinion using a sign word?\">Alin sa mga sumusunod ang nagpapakita ng opinyon gamit ang panandang salita?</span>",
+      "q": "Alin sa mga sumusunod ang nagpapakita ng opinyon gamit ang panandang salita?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"It has been proven that the world is round.\">Napatunayan na ang mundo ay bilog.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"In my opinion, the song is good.\">Sa aking palagay, maganda ang kanta.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"According to the news, there is a typhoon.\">Ayon sa balita, may bagyo.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"According to the doctor, drink water.\">Ayon sa doktor, uminom ng tubig.</span>"
+        "Napatunayan na ang mundo ay bilog.",
+        "Sa aking palagay, maganda ang kanta.",
+        "Ayon sa balita, may bagyo.",
+        "Ayon sa doktor, uminom ng tubig."
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What pronoun fits the field: &#x27;Matteo is a good boy. ___ follows the parent.&#x27;?\">Anong panghalip panao ang angkop sa patlang: 'Si Matteo ay mabuting bata. ___ ay sumusunod sa magulang.'?</span>",
+      "q": "Anong panghalip panao ang angkop sa patlang: 'Si Matteo ay mabuting bata. ___ ay sumusunod sa magulang.'?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"I\">Ako</span>",
-        "<span class=\"fil-sentence\" data-translation=\"you\">Ikaw</span>",
-        "<span class=\"fil-sentence\" data-translation=\"he\">Siya</span>",
-        "<span class=\"fil-sentence\" data-translation=\"they\">Sila</span>"
+        "Ako",
+        "Ikaw",
+        "Siya",
+        "Sila"
       ],
       "answer": 2
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which pronoun is appropriate: &#x27;Ana, Ben, and I cleaned the room. ___ was tired.&#x27;?\">Anong panghalip panao ang angkop: 'Sina Ana, Ben, at ako ay naglinis ng silid. ___ ay napagod.'?</span>",
+      "q": "Anong panghalip panao ang angkop: 'Sina Ana, Ben, at ako ay naglinis ng silid. ___ ay napagod.'?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"they\">Sila</span>",
-        "<span class=\"fil-sentence\" data-translation=\"us\">Kami</span>",
-        "<span class=\"fil-sentence\" data-translation=\"You guys\">Kayo</span>",
-        "<span class=\"fil-sentence\" data-translation=\"he\">Siya</span>"
+        "Sila",
+        "Kami",
+        "Kayo",
+        "Siya"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which is the sign for the truth?\">Alin ang pananda para sa katotohanan?</span>",
+      "q": "Alin ang pananda para sa katotohanan?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"Maybe\">Siguro</span>",
-        "<span class=\"fil-sentence\" data-translation=\"According to the review/document\">Ayon sa pagsusuri/dokumento</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Perhaps\">Marahil</span>",
-        "<span class=\"fil-sentence\" data-translation=\"For me\">Para sa akin</span>"
+        "Siguro",
+        "Ayon sa pagsusuri/dokumento",
+        "Marahil",
+        "Para sa akin"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"How many persons does the pronoun have?\">Ilang panauhan mayroon ang panghalip panao?</span>",
+      "q": "Ilang panauhan mayroon ang panghalip panao?",
       "options": [
         "1",
         "2",
@@ -348,26 +348,26 @@
     },
     {
       "type": "verify",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following pronouns is correct?\">Alin sa mga sumusunod na panghalip ang tama?</span>",
+      "q": "Alin sa mga sumusunod na panghalip ang tama?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"Statement A: &#x27;He&#x27; is singular in the third person, while &#x27;they&#x27; is plural in the third person.\">Pahayag A: Ang 'siya' ay isahan sa ikatlong panauhan, samantalang ang 'sila' ay maramihan sa ikatlong panauhan.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Statement B: &#x27;He&#x27; is plural in the third person, while &#x27;they&#x27; is singular in the third person.\">Pahayag B: Ang 'siya' ay maramihan sa ikatlong panauhan, samantalang ang 'sila' ay isahan sa ikatlong panauhan.</span>"
+        "Pahayag A: Ang 'siya' ay isahan sa ikatlong panauhan, samantalang ang 'sila' ay maramihan sa ikatlong panauhan.",
+        "Pahayag B: Ang 'siya' ay maramihan sa ikatlong panauhan, samantalang ang 'sila' ay isahan sa ikatlong panauhan."
       ],
       "answer": 0
     },
     {
       "type": "blank",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What is the pronoun that is used as a substitute for the speaker&#x27;s name? (use lower case)\">Ano ang panghalip panao na ginagamit bilang pamalit sa ngalan ng nagsasalita? (use lowercase)</span>",
+      "q": "Ano ang panghalip panao na ginagamit bilang pamalit sa ngalan ng nagsasalita? (use lowercase)",
       "answer": "ako"
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What pronoun is appropriate if you talk to your grandparents?\">Anong panghalip ang angkop kung kakausapin mo ang iyong lolo at lola?</span>",
+      "q": "Anong panghalip ang angkop kung kakausapin mo ang iyong lolo at lola?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"you\">ikaw</span>",
-        "<span class=\"fil-sentence\" data-translation=\"you\">ka</span>",
-        "<span class=\"fil-sentence\" data-translation=\"You guys\">kayo</span>",
-        "<span class=\"fil-sentence\" data-translation=\"they\">sila</span>"
+        "ikaw",
+        "ka",
+        "kayo",
+        "sila"
       ],
       "answer": 2
     }
@@ -375,49 +375,49 @@
   "challenge": [
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Examine the sentence: &#x27;Ate Sarah told us, we should work together so they can be happy.&#x27; Which is the plural pronoun that refers to the speaker and the addressee?\">Suriin ang pangungusap: 'Sabi ni Ate Sarah sa amin, tayo ay dapat magtulungan upang sila ay matuwa.' Alin ang panghalip panao na maramihan na tumutukoy sa nagsasalita at kausap?</span>",
+      "q": "Suriin ang pangungusap: 'Sabi ni Ate Sarah sa amin, tayo ay dapat magtulungan upang sila ay matuwa.' Alin ang panghalip panao na maramihan na tumutukoy sa nagsasalita at kausap?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"us\">amin</span>",
-        "<span class=\"fil-sentence\" data-translation=\"we\">tayo</span>",
-        "<span class=\"fil-sentence\" data-translation=\"they\">sila</span>",
-        "<span class=\"fil-sentence\" data-translation=\"all of the above\">lahat ng nabanggit</span>"
+        "amin",
+        "tayo",
+        "sila",
+        "lahat ng nabanggit"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Why is conflict important in a story?\">Bakit mahalaga ang tunggalian sa isang kwento?</span>",
+      "q": "Bakit mahalaga ang tunggalian sa isang kwento?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"To show the beautiful setting.\">Upang ipakita ang magandang tagpuan.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"To have a challenge and interest in the flow of the story that shows the development of the character.\">Upang magkaroon ng hamon at interes sa daloy ng kwento na nagpapakita ng pag-unlad ng tauhan.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"To end the story immediately.\">Upang wakasan agad ang kwento.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"To know the opinion of the author.\">Upang malaman ang opinyon ng may-akda.</span>"
+        "Upang ipakita ang magandang tagpuan.",
+        "Upang magkaroon ng hamon at interes sa daloy ng kwento na nagpapakita ng pag-unlad ng tauhan.",
+        "Upang wakasan agad ang kwento.",
+        "Upang malaman ang opinyon ng may-akda."
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following contains a fact proven by science?\">Alin sa mga sumusunod ang naglalaman ng katotohanan na napatunayan ng agham?</span>",
+      "q": "Alin sa mga sumusunod ang naglalaman ng katotohanan na napatunayan ng agham?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"For me, water tastes good when it&#x27;s hot.\">Para sa akin, masarap ang tubig kapag mainit.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Water consists of two hydrogen atoms and one oxygen atom (H2O).\">Ang tubig ay binubuo ng dalawang atomo ng hydrogen at isang atomo ng oxygen (H2O).</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Maybe there is water on another planet.\">Siguro ay may tubig sa ibang planeta.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"In my opinion, the water is blue.\">Sa aking palagay, ang tubig ay kulay asul.</span>"
+        "Para sa akin, masarap ang tubig kapag mainit.",
+        "Ang tubig ay binubuo ng dalawang atomo ng hydrogen at isang atomo ng oxygen (H2O).",
+        "Siguro ay may tubig sa ibang planeta.",
+        "Sa aking palagay, ang tubig ay kulay asul."
       ],
       "answer": 1
     },
     {
       "type": "verify",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the statements is correct?\">Alin sa mga pahayag ang tama?</span>",
+      "q": "Alin sa mga pahayag ang tama?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"Statement A: The climax is the height of tension in the story, where the conflict is faced.\">Pahayag A: Ang kasukdulan ang pinakarurok ng kapanabikan sa kwento, kung saan haharapin ang tunggalian.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Statement B: The climax is the first part of the story where the character is introduced.\">Pahayag B: Ang kasukdulan ang unang bahagi ng kwento kung saan ipinapakilala ang tauhan.</span>"
+        "Pahayag A: Ang kasukdulan ang pinakarurok ng kapanabikan sa kwento, kung saan haharapin ang tunggalian.",
+        "Pahayag B: Ang kasukdulan ang unang bahagi ng kwento kung saan ipinapakilala ang tauhan."
       ],
       "answer": 0
     },
     {
       "type": "blank",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What is the use of the pronoun &#x27;they&#x27;?\">Ano ang kailanan ng panghalip panaong 'sila'?</span>",
+      "q": "Ano ang kailanan ng panghalip panaong 'sila'?",
       "answer": "maramihan"
     }
   ],
@@ -433,9 +433,9 @@
   },
   "worksheet": {
     "pages": [
-      "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 1: Pagtukoy sa Panauhan at Kailanan</h3>\n        <p class=\"ws-instruction\">Gamitin ang stylus upang isulat ang <strong>Panauhan</strong> (Una, Ikalawa, o Ikatlo) at <strong>Kailanan</strong> (Isahan o Maramihan) ng panghalip panao.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. Ang panghalip panao na <strong>ako</strong> ay:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 15px;\">\n          <div class=\"ws-q\">2. Ang panghalip panao na <strong>sila</strong> ay:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 15px;\">\n          <div class=\"ws-q\">3. Ang panghalip panao na <strong>kayo</strong> ay:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"></div>\n        </div>\n      </div>\n      ",
-      "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 2: Pagsusuri ng Banghay</h3>\n        <p class=\"ws-instruction\">Basahin ang sitwasyon at isulat ang <strong>Tunggalian</strong> at <strong>Kasukdulan</strong> sa ibaba gamit ang iyong stylus.</p>\n        \n        <div style=\"font-style: italic; background: #f9f9f9; padding: 10px; border-left: 3px solid #ef4444; font-size: 14px; margin-bottom: 15px;\">\n          Nawala ang alagang aso ni Matteo na si Bantay. Naghanap ang pamilya sa buong barangay ngunit hindi nila ito makita. Habang umiiyak si Matteo, narinig niya ang mahinang kahol sa loob ng isang abandonadong balon at doon niya nakita si Bantay na nakakulong.\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-bottom: 10px;\">\n          <div>Tunggalian (Problema):</div>\n          <div class=\"writing-line\" style=\"width: 80%;\"></div>\n        </div>\n        <div class=\"ws-item-row\">\n          <div>Kasukdulan (Turning Point):</div>\n          <div class=\"writing-line\" style=\"width: 80%;\"></div>\n        </div>\n      </div>\n      ",
-      "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 3: Katotohanan at Opinyon</h3>\n        <p class=\"ws-instruction\">Gumuhit ng linya mula sa pahayag patungo sa tamang klasipikasyon (Katotohanan o Opinyon) gamit ang iyong stylus.</p>\n        \n        <div class=\"ws-split\" style=\"margin-top: 20px; line-height: 2.2;\">\n          <div class=\"ws-col-half\">\n            <div>A. Mas maganda ang kulay asul kaysa pula.</div>\n            <div>B. Ang Pilipinas ay may tatlong pangkat ng pulo.</div>\n            <div>C. Sa aking palagay, uulan ngayong gabi.</div>\n            <div>D. Ang bulkang Mayon ay nasa Albay.</div>\n          </div>\n          <div class=\"ws-col-half\" style=\"text-align: right; padding-right: 40px;\">\n            <div>[ &nbsp; &nbsp; ] &nbsp; Katotohanan</div>\n            <div>[ &nbsp; &nbsp; ] &nbsp; Opinyon</div>\n            <div>[ &nbsp; &nbsp; ] &nbsp; Katotohanan</div>\n            <div>[ &nbsp; &nbsp; ] &nbsp; Opinyon</div>\n          </div>\n        </div>\n      </div>\n      "
+      "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 1: Pagtukoy sa Panauhan at Kailanan</h3>\n        <p class=\"ws-instruction\">Gamitin ang stylus upang isulat ang <strong>Panauhan</strong> (Una, Ikalawa, o Ikatlo) at <strong>Kailanan</strong> (Isahan o Maramihan) ng panghalip panao.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. Ang panghalip panao na <strong>ako</strong> ay:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">Unang Panauhan, Isahan</span></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 15px;\">\n          <div class=\"ws-q\">2. Ang panghalip panao na <strong>sila</strong> ay:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">Ikatlong Panauhan, Maramihan</span></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 15px;\">\n          <div class=\"ws-q\">3. Ang panghalip panao na <strong>kayo</strong> ay:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">Ikalawang Panauhan, Maramihan</span></div>\n        </div>\n      </div>\n      ",
+      "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 2: Pagsusuri ng Banghay</h3>\n        <p class=\"ws-instruction\">Basahin ang sitwasyon at isulat ang <strong>Tunggalian</strong> at <strong>Kasukdulan</strong> sa ibaba gamit ang iyong stylus.</p>\n        \n        <div style=\"font-style: italic; background: #f9f9f9; padding: 10px; border-left: 3px solid #ef4444; font-size: 14px; margin-bottom: 15px;\">\n          Nawala ang alagang aso ni Matteo na si Bantay. Naghanap ang pamilya sa buong barangay ngunit hindi nila ito makita. Habang umiiyak si Matteo, narinig niya ang mahinang kahol sa loob ng isang abandonadong balon at doon niya nakita si Bantay na nakakulong.\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-bottom: 10px;\">\n          <div>Tunggalian (Problema):</div>\n          <div class=\"writing-line\" style=\"width: 80%;\"><span class=\"ws-answer\">Nawala ang alagang aso ni Matteo na si Bantay.</span></div>\n        </div>\n        <div class=\"ws-item-row\">\n          <div>Kasukdulan (Turning Point):</div>\n          <div class=\"writing-line\" style=\"width: 80%;\"><span class=\"ws-answer\">Narinig ang mahinang kahol sa abandonadong balon at nakita si Bantay.</span></div>\n        </div>\n      </div>\n      ",
+      "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 3: Katotohanan at Opinyon</h3>\n        <p class=\"ws-instruction\">Gumuhit ng linya mula sa pahayag patungo sa tamang klasipikasyon (Katotohanan o Opinyon) gamit ang iyong stylus.</p>\n        \n        <div class=\"ws-split\" style=\"margin-top: 20px; line-height: 2.2;\">\n          <div class=\"ws-col-half\">\n            <div>A. Mas maganda ang kulay asul kaysa pula.</div>\n            <div>B. Ang Pilipinas ay may tatlong pangkat ng pulo.</div>\n            <div>C. Sa aking palagay, uulan ngayong gabi.</div>\n            <div>D. Ang bulkang Mayon ay nasa Albay.</div>\n          </div>\n          <div class=\"ws-col-half\" style=\"text-align: right; padding-right: 40px;\">\n            <div>[ &nbsp; <span class=\"ws-answer\">B</span> &nbsp; ] &nbsp; Katotohanan</div>\n            <div>[ &nbsp; <span class=\"ws-answer\">A</span> &nbsp; ] &nbsp; Opinyon</div>\n            <div>[ &nbsp; <span class=\"ws-answer\">D</span> &nbsp; ] &nbsp; Katotohanan</div>\n            <div>[ &nbsp; <span class=\"ws-answer\">C</span> &nbsp; ] &nbsp; Opinyon</div>\n          </div>\n        </div>\n      </div>\n      "
     ]
   }
 }

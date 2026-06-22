@@ -89,17 +89,57 @@ def validate_week_file(file_path):
             quiz = sub_data.get('standard', sub_data.get('quiz', []))
             if len(quiz) != 25:
                 errors.append(f"{name} subject '{sub}' quiz has {len(quiz)} questions (expected 25).")
+            else:
+                for idx, q in enumerate(quiz):
+                    answer = q.get('answer', q.get('ans'))
+                    if answer is None or (isinstance(answer, str) and answer.strip() == ""):
+                        errors.append(f"{name} subject '{sub}' quiz Q{idx + 1} is missing a valid 'answer' value.")
                 
             # Challenge Check
             challenge = sub_data.get('challenge', [])
             if len(challenge) != 5:
                 errors.append(f"{name} subject '{sub}' challenge has {len(challenge)} questions (expected 5).")
+            else:
+                for idx, q in enumerate(challenge):
+                    answer = q.get('answer', q.get('ans'))
+                    if answer is None or (isinstance(answer, str) and answer.strip() == ""):
+                        errors.append(f"{name} subject '{sub}' challenge Q{idx + 1} is missing a valid 'answer' value.")
                 
             # Worksheet Check
             worksheet = sub_data.get('worksheet', {})
             pages = worksheet.get('pages', [])
             if len(pages) != 3:
                 errors.append(f"{name} subject '{sub}' worksheet has {len(pages)} pages (expected 3).")
+            else:
+                for idx, page in enumerate(pages):
+                    if 'ws-answer' not in page:
+                        errors.append(f"{name} subject '{sub}' worksheet page {idx + 1} is missing a 'ws-answer' class element.")
+
+            # Performance Task Check (for Grade 3)
+            if is_g3:
+                perf = sub_data.get('performance')
+                if not perf:
+                    errors.append(f"{name} subject '{sub}' is missing a performance task block.")
+                else:
+                    if not isinstance(perf, dict):
+                        errors.append(f"{name} subject '{sub}' performance task is not a dictionary.")
+                    else:
+                        if perf.get('type') != 'performance':
+                            errors.append(f"{name} subject '{sub}' performance task type is not 'performance' (got '{perf.get('type')}').")
+                        if not perf.get('title') or str(perf.get('title')).strip() == "":
+                            errors.append(f"{name} subject '{sub}' performance task has an empty title.")
+                        if not perf.get('desc') or str(perf.get('desc')).strip() == "":
+                            errors.append(f"{name} subject '{sub}' performance task has an empty description.")
+                        labels = perf.get('labels', [])
+                        if not isinstance(labels, list) or len(labels) < 3:
+                            errors.append(f"{name} subject '{sub}' performance task has {len(labels)} rubric labels (expected at least 3).")
+
+            # Bilingual Translation Check for Filipino and Makabansa (for Grade 3)
+            if is_g3 and sub in ['filipino', 'makabansa']:
+                sub_str = json.dumps(sub_data)
+                trans_spans = len(re.findall(r'data-translation', sub_str))
+                if trans_spans < 20:
+                    errors.append(f"{name} subject '{sub}' is missing bilingual translation spans (found only {trans_spans} 'data-translation' tags, expected at least 20).")
                 
     # 2. Validate Weekend Reading translations
     core_dataset = data.get("core", {})

@@ -340,305 +340,335 @@
       "standard": [
         {
           "q": "Which symbol correctly compares: 4,520 ___ 4,250?",
-          "opts": [
+          "type": "choice",
+          "options": [
             ">",
             "<",
             "=",
             "+"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "In the number 8,142, which digit is in the thousands place?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "8",
             "1",
             "4",
             "2"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which number is the smallest?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "2,345",
             "2,435",
             "2,354",
             "2,543"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which number is the largest?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "9,810",
             "9,180",
             "9,801",
             "9,081"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Arrange in ascending order: 450, 405, 504",
-          "opts": [
+          "type": "choice",
+          "options": [
             "405, 450, 504",
             "450, 405, 504",
             "504, 450, 405",
             "405, 504, 450"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Arrange in descending order: 8,100, 8,900, 8,500",
-          "opts": [
+          "type": "choice",
+          "options": [
             "8,900, 8,500, 8,100",
             "8,100, 8,500, 8,900",
             "8,500, 8,900, 8,100",
             "8,900, 8,100, 8,500"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "In 7,305, what is the value of 7?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "7,000",
             "700",
             "70",
             "7"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which statement is true?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "5,432 > 5,423",
             "5,432 < 5,423",
             "5,432 = 5,423",
             "5,432 < 5,000"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the place value of 9 in 9,021?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Thousands",
             "Hundreds",
             "Tens",
             "Ones"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which number is equal to 4 thousands, 2 hundreds, 0 tens, and 8 ones?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "4,208",
             "4,280",
             "4,028",
             "428"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the place value of 0 in 7,015?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Hundreds",
             "Thousands",
             "Tens",
             "Ones"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which number is less than 1,000?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "999",
             "1,001",
             "1,000",
             "1,200"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Compare: 6,781 ___ 6,781",
-          "opts": [
+          "type": "choice",
+          "options": [
             "=",
             ">",
             "<",
             "None"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which digit has the least value in 3,456?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "6",
             "5",
             "4",
             "3"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is 1,000 more than 7,250?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "8,250",
             "7,350",
             "7,260",
             "6,250"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Compare: 8,990 ___ 9,000",
-          "opts": [
+          "type": "choice",
+          "options": [
             "<",
             ">",
             "=",
             "None"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which number has 5 in the hundreds place?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "1,520",
             "5,120",
             "1,250",
             "1,205"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which of these numbers is between 4,500 and 4,600?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "4,550",
             "4,499",
             "4,601",
             "5,500"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Ascending order means:",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Least to greatest",
             "Greatest to least",
             "Equal numbers",
             "Random numbers"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the value of 8 in 3,845?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "800",
             "8,000",
             "80",
             "8"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which is correct?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "1,234 < 1,235",
             "1,234 > 1,235",
             "1,234 = 1,235",
             "1,234 > 2,000"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is 100 less than 9,000?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "8,900",
             "9,100",
             "8,000",
             "8,990"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the place value of 2 in 4,520?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Tens",
             "Ones",
             "Hundreds",
             "Thousands"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which number is equal to 3,000 + 400 + 20 + 5?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "3,425",
             "3,245",
             "3,452",
             "3,0425"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which number is larger than 8,765?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "8,766",
             "8,764",
             "8,675",
             "7,865"
           ],
-          "ans": 0
+          "answer": 0
         }
       ],
       "challenge": [
         {
           "q": "I am a 4-digit number. My thousands digit is 3. My hundreds digit is 1 more than my thousands digit. My tens digit is 5. My ones digit is 0. What number am I?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "3,450",
             "3,150",
             "3,451",
             "4,350"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Using the digits 4, 7, 1, 9 once, what is the largest number you can make?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "9,741",
             "9,714",
             "9,471",
             "7,941"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Using the digits 4, 7, 1, 9 once, what is the smallest number you can make?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "1,479",
             "1,497",
             "1,749",
             "4,179"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which of these has the highest value?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "9 thousands",
             "89 hundreds",
             "90 tens",
             "900 ones"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "I am between 2,340 and 2,350. My ones digit is twice my thousands digit. What number am I?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "2,344",
             "2,346",
             "2,348",
             "2,342"
           ],
-          "ans": 0
+          "answer": 0
         }
       ],
       "performance": {
@@ -648,7 +678,8 @@
           "Heights are correctly recorded",
           "Correct ascending arrangement",
           "Clear verbal explanation"
-        ]
+        ],
+        "type": "performance"
       },
       "worksheet": {
         "pages": [
@@ -4250,305 +4281,335 @@
       "standard": [
         {
           "q": "Which symbol correctly compares: 34,520 ___ 34,250?",
-          "opts": [
+          "type": "choice",
+          "options": [
             ">",
             "<",
             "=",
             "+"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "In the number 85,142, which digit is in the ten thousands place?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "8",
             "5",
             "1",
             "4"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which number is the smallest?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "23,345",
             "23,435",
             "23,354",
             "23,543"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which number is the largest?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "98,810",
             "98,180",
             "98,801",
             "98,081"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Arrange in ascending order: 45,020; 45,002; 45,200",
-          "opts": [
+          "type": "choice",
+          "options": [
             "45,002; 45,020; 45,200",
             "45,020; 45,002; 45,200",
             "45,200; 45,020; 45,002",
             "45,002; 45,200; 45,020"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Arrange in descending order: 81,200; 89,100; 85,400",
-          "opts": [
+          "type": "choice",
+          "options": [
             "89,100; 85,400; 81,200",
             "81,200; 85,400; 89,100",
             "85,400; 89,100; 81,200",
             "89,100; 81,200; 85,400"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "In 73,405, what is the value of 7?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "70,000",
             "7,000",
             "700",
             "70"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which statement is true?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "54,321 > 54,231",
             "54,321 < 54,231",
             "54,321 = 54,231",
             "54,321 < 50,000"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the place value of 9 in 90,215?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Ten Thousands",
             "Thousands",
             "Hundreds",
             "Tens"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which number is equal to 4 ten thousands, 2 thousands, 0 hundreds, 8 tens, and 0 ones?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "42,080",
             "42,800",
             "40,280",
             "4280"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the place value of 0 in 75,015?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Hundreds",
             "Ten Thousands",
             "Thousands",
             "Tens"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which number is less than 50,000?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "49,999",
             "50,001",
             "50,000",
             "52,000"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Compare: 67,812 ___ 67,812",
-          "opts": [
+          "type": "choice",
+          "options": [
             "=",
             ">",
             "<",
             "None"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which digit has the least value in 34,567?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "7",
             "6",
             "5",
             "4"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is 10,000 more than 72,500?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "82,500",
             "73,500",
             "72,600",
             "62,500"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Compare: 89,990 ___ 90,000",
-          "opts": [
+          "type": "choice",
+          "options": [
             "<",
             ">",
             "=",
             "None"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which number has 5 in the thousands place?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "15,200",
             "51,200",
             "12,500",
             "12,050"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which of these numbers is between 45,000 and 46,000?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "45,500",
             "44,999",
             "46,001",
             "55,000"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "In a 5-digit number, the column to the left of Thousands is:",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Ten Thousands",
             "Hundreds",
             "Millions",
             "Ones"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the value of 8 in 38,451?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "8,000",
             "80,000",
             "800",
             "80"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which is correct?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "12,345 < 12,354",
             "12,345 > 12,354",
             "12,345 = 12,354",
             "12,345 > 20,000"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is 100 less than 90,000?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "89,900",
             "90,100",
             "80,000",
             "89,000"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the place value of 2 in 45,201?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Hundreds",
             "Tens",
             "Ones",
             "Thousands"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which number is equal to 30,000 + 4,000 + 200 + 5?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "34,205",
             "32,405",
             "34,250",
             "30,425"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which number is larger than 87,654?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "87,655",
             "87,653",
             "86,754",
             "78,654"
           ],
-          "ans": 0
+          "answer": 0
         }
       ],
       "challenge": [
         {
           "q": "I am a 5-digit number. My ten thousands digit is 5. My thousands digit is 0. My hundreds digit is 5. My tens digit is 0. My ones digit is 5. What number am I?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "50,505",
             "55,505",
             "50,550",
             "55,050"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Using the digits 3, 5, 8, 2, 0 once each, what is the largest 5-digit number you can make?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "85,320",
             "85,230",
             "83,520",
             "85,302"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Using the digits 3, 5, 8, 2, 0 once each, what is the smallest 5-digit number you can make?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "20,358",
             "23,058",
             "20,538",
             "32,058"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which of these has the highest value?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "85 thousands",
             "850 hundreds",
             "85,000 ones",
             "They are all equal"
           ],
-          "ans": 3
+          "answer": 3
         },
         {
           "q": "I am between 12,340 and 12,350. The sum of my ones and tens digits is equal to my ten thousands digit. What number am I?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "12,345 (wait, 4+5=9 != 1)",
             "12,340 (4+0=4 != 1)",
             "12,341 (no)",
             "12,301 (no, between 12340 and 12350 - wait, tens is 4. If sum is 1, ones must be -3, impossible. Let's make it: sum is equal to my thousands digit: 2. Tens is 4. Impossible. Let's make it: ones digit is equal to my ten thousands digit. Answer: 12,341)"
           ],
-          "ans": 3
+          "answer": 3
         }
       ],
       "performance": {
@@ -4558,7 +4619,8 @@
           "Expenses are correctly listed",
           "Correct use of comparison symbols",
           "Correct ascending order"
-        ]
+        ],
+        "type": "performance"
       },
       "worksheet": {
         "pages": [

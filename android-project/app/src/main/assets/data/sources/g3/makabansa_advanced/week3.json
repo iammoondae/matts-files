@@ -134,29 +134,29 @@
   "standard": [
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What is a group of islands surrounded by water, such as the Philippines, called?\">Ano ang tawag sa pangkat ng mga pulo na napapaligiran ng tubig, tulad ng Pilipinas?</span>",
+      "q": "Ano ang tawag sa pangkat ng mga pulo na napapaligiran ng tubig, tulad ng Pilipinas?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"Continent\">Kontinente</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Islands or Archipelago\">Kapuluan o Arkipelago</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Desert\">Disyerto</span>",
-        "<span class=\"fil-sentence\" data-translation=\"mountain\">Bundok</span>"
+        "Kontinente",
+        "Kapuluan o Arkipelago",
+        "Disyerto",
+        "Bundok"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"How many are the main island groups in the Philippines?\">Ilan ang pangunahing pangkat ng pulo sa Pilipinas?</span>",
+      "q": "Ilan ang pangunahing pangkat ng pulo sa Pilipinas?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"two\">Dalawa</span>",
-        "<span class=\"fil-sentence\" data-translation=\"three\">Tatlo</span>",
-        "<span class=\"fil-sentence\" data-translation=\"four\">Apat</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Five\">Lima</span>"
+        "Dalawa",
+        "Tatlo",
+        "Apat",
+        "Lima"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the southernmost group of islands in the Philippines?\">Alin sa mga sumusunod ang pinakatimog na pangkat ng pulo sa Pilipinas?</span>",
+      "q": "Alin sa mga sumusunod ang pinakatimog na pangkat ng pulo sa Pilipinas?",
       "options": [
         "Luzon",
         "Visayas",
@@ -167,7 +167,7 @@
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which is the largest group of islands located in the northern part of the country?\">Alin ang pinakamalaking pangkat ng pulo na matatagpuan sa hilagang bahagi ng bansa?</span>",
+      "q": "Alin ang pinakamalaking pangkat ng pulo na matatagpuan sa hilagang bahagi ng bansa?",
       "options": [
         "Luzon",
         "Visayas",
@@ -178,7 +178,7 @@
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"In which island group is the national capital Metro Manila located?\">Saang pangkat ng pulo matatagpuan ang pambansang kabisera na Metro Manila?</span>",
+      "q": "Saang pangkat ng pulo matatagpuan ang pambansang kabisera na Metro Manila?",
       "options": [
         "Luzon",
         "Visayas",
@@ -189,7 +189,7 @@
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the main island in the Visayas group?\">Alin sa mga sumusunod ang pangunahing isla sa pangkat ng Visayas?</span>",
+      "q": "Alin sa mga sumusunod ang pangunahing isla sa pangkat ng Visayas?",
       "options": [
         "Luzon",
         "Cebu",
@@ -200,29 +200,29 @@
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"The highest mountain in the Philippines is located in Mindanao. what is it\">Matatagpuan sa Mindanao ang pinakamataas na bundok sa Pilipinas. Ano ito?</span>",
+      "q": "Matatagpuan sa Mindanao ang pinakamataas na bundok sa Pilipinas. Ano ito?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"Red Mountain\">Bundok Pulag</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Mount Apo\">Bundok Apo</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Mount Mayon\">Bundok Mayon</span>",
-        "<span class=\"fil-sentence\" data-translation=\"mountain slope\">Bundok Makiling</span>"
+        "Bundok Pulag",
+        "Bundok Apo",
+        "Bundok Mayon",
+        "Bundok Makiling"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What type of climate does the Philippines have because of its geographical location?\">Anong uri ng klima mayroon ang Pilipinas dahil sa heograpikal na lokasyon nito?</span>",
+      "q": "Anong uri ng klima mayroon ang Pilipinas dahil sa heograpikal na lokasyon nito?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"Snowy (polar) climate\">Klimang may niyebe (polar)</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Tropical climate (summer and rainy season)\">Klimang tropikal (tag-init at tag-ulan)</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Desert climate\">Disyertong klima</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Cold climate\">Klimang malamig</span>"
+        "Klimang may niyebe (polar)",
+        "Klimang tropikal (tag-init at tag-ulan)",
+        "Disyertong klima",
+        "Klimang malamig"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What historic site with a large cross is located in Cebu in the Visayas?\">Anong makasaysayang pook na may malaking krus ang matatagpuan sa Cebu sa Visayas?</span>",
+      "q": "Anong makasaysayang pook na may malaking krus ang matatagpuan sa Cebu sa Visayas?",
       "options": [
         "Barasoain Church",
         "Magellan's Cross",
@@ -233,7 +233,7 @@
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"From which island group did the royal dance Singkil come from?\">Saang pangkat ng pulo nagmula ang maharlikang sayaw na Singkil?</span>",
+      "q": "Saang pangkat ng pulo nagmula ang maharlikang sayaw na Singkil?",
       "options": [
         "Luzon",
         "Visayas",
@@ -244,54 +244,54 @@
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following songs is the popular folk song from the Visayas?\">Alin sa mga sumusunod na awitin ang tanyag na awiting-bayan mula sa Visayas?</span>",
+      "q": "Alin sa mga sumusunod na awitin ang tanyag na awiting-bayan mula sa Visayas?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"Leron Leron Darling\">Leron Leron Sinta</span>",
+        "Leron Leron Sinta",
         "Dandansoy",
         "Sarung Banggi",
-        "<span class=\"fil-sentence\" data-translation=\"Our Cu Pung Ring\">Atin Cu Pung Singsing</span>"
+        "Atin Cu Pung Singsing"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What body of water is found in the eastern part of the Philippines?\">Anong anyong tubig ang matatagpuan sa silangang bahagi ng Pilipinas?</span>",
+      "q": "Anong anyong tubig ang matatagpuan sa silangang bahagi ng Pilipinas?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"Pacific Ocean\">Karagatang Pasipiko</span>",
-        "<span class=\"fil-sentence\" data-translation=\"South China Sea\">Dagat Timog Tsina</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Celebes Sea\">Dagat Celebes</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Sulu Sea\">Dagat Sulu</span>"
+        "Karagatang Pasipiko",
+        "Dagat Timog Tsina",
+        "Dagat Celebes",
+        "Dagat Sulu"
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which church in Bulacan (Luzon) witnessed the writing of the country&#x27;s first Constitution?\">Aling simbahan sa Bulacan (Luzon) ang naging saksi sa pagsulat ng unang Saligang Batas ng bansa?</span>",
+      "q": "Aling simbahan sa Bulacan (Luzon) ang naging saksi sa pagsulat ng unang Saligang Batas ng bansa?",
       "options": [
         "Magellan's Cross",
         "Barasoain Church",
         "Fort Pilar",
-        "<span class=\"fil-sentence\" data-translation=\"Church of Quiapo\">Simbahan ng Quiapo</span>"
+        "Simbahan ng Quiapo"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What brass instrument is popular in Mindanao music?\">Anong instrumentong tanso ang tanyag sa musika ng Mindanao?</span>",
+      "q": "Anong instrumentong tanso ang tanyag sa musika ng Mindanao?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"Guitar\">Gitara</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Kulintang or Gong\">Kulintang o Gong</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Piano\">Piyano</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Flute\">Pluta</span>"
+        "Gitara",
+        "Kulintang o Gong",
+        "Piyano",
+        "Pluta"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What is the main language spoken by people in the Cebu and Davao region?\">Ano ang pangunahing wika na sinasalita ng mga tao sa rehiyon ng Cebu at Davao?</span>",
+      "q": "Ano ang pangunahing wika na sinasalita ng mga tao sa rehiyon ng Cebu at Davao?",
       "options": [
         "Tagalog",
-        "<span class=\"fil-sentence\" data-translation=\"Cebuano or Bisaya\">Cebuano o Bisaya</span>",
+        "Cebuano o Bisaya",
         "Ilocano",
         "Bicolano"
       ],
@@ -299,29 +299,29 @@
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which natural resource is popular in the vast farmlands of Central Luzon?\">Aling likas na yaman ang tanyag sa malalawak na bukirin sa Gitnang Luzon?</span>",
+      "q": "Aling likas na yaman ang tanyag sa malalawak na bukirin sa Gitnang Luzon?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"gold and silver\">Ginto at Pilak</span>",
-        "<span class=\"fil-sentence\" data-translation=\"rice\">Palay (Bigas)</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Pineapple and Banana\">Pinya at Saging</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Copra\">Kopra</span>"
+        "Ginto at Pilak",
+        "Palay (Bigas)",
+        "Pinya at Saging",
+        "Kopra"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following landforms is known in Bohol in the Visayas?\">Alin sa mga sumusunod na anyong lupa ang kilala sa Bohol sa Visayas?</span>",
+      "q": "Alin sa mga sumusunod na anyong lupa ang kilala sa Bohol sa Visayas?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"Mount Apo\">Bundok Apo</span>",
+        "Bundok Apo",
         "Chocolate Hills",
-        "<span class=\"fil-sentence\" data-translation=\"Taal Volcano\">Bulkang Taal</span>",
+        "Bulkang Taal",
         "Banaue Rice Terraces"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"In which island group are Zamboanga and Fort Pilar located?\">Saang pangkat ng pulo matatagpuan ang Zamboanga at Fort Pilar?</span>",
+      "q": "Saang pangkat ng pulo matatagpuan ang Zamboanga at Fort Pilar?",
       "options": [
         "Luzon",
         "Visayas",
@@ -332,65 +332,65 @@
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"How many islands does the Philippines have in the latest government study?\">Ilang isla mayroon ang Pilipinas sa pinakahulin pag-aaral ng pamahalaan?</span>",
+      "q": "Ilang isla mayroon ang Pilipinas sa pinakahulin pag-aaral ng pamahalaan?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"more than 7,100\">higit 7,100</span>",
-        "<span class=\"fil-sentence\" data-translation=\"more than 7,600\">higit 7,600</span>",
-        "<span class=\"fil-sentence\" data-translation=\"half way\">kalahating daan</span>",
-        "<span class=\"fil-sentence\" data-translation=\"a thousand\">isang libo</span>"
+        "higit 7,100",
+        "higit 7,600",
+        "kalahating daan",
+        "isang libo"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What is the main industry in Mindanao because of its fertile soil?\">Ano ang pangunahing industriya sa Mindanao dahil sa matabang lupa nito?</span>",
+      "q": "Ano ang pangunahing industriya sa Mindanao dahil sa matabang lupa nito?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"Shipbuilding\">Paggawa ng barko</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Agriculture (Fruit growing)\">Agrikultura (Pagtatanim ng prutas)</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Fabric manufacturing\">Paggawa ng tela</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Snow mining\">Pagmimina ng niyebe</span>"
+        "Paggawa ng barko",
+        "Agrikultura (Pagtatanim ng prutas)",
+        "Paggawa ng tela",
+        "Pagmimina ng niyebe"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the body of water in the western part of the country?\">Alin sa mga sumusunod ang anyong tubig sa kanlurang bahagi ng bansa?</span>",
+      "q": "Alin sa mga sumusunod ang anyong tubig sa kanlurang bahagi ng bansa?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"Pacific Ocean\">Karagatang Pasipiko</span>",
-        "<span class=\"fil-sentence\" data-translation=\"South China Sea or West Philippine Sea\">Dagat Timog Tsina o Kanlurang Dagat ng Pilipinas</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Celebes Sea\">Dagat Celebes</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Mediterranean Sea\">Dagat Mediteraneo</span>"
+        "Karagatang Pasipiko",
+        "Dagat Timog Tsina o Kanlurang Dagat ng Pilipinas",
+        "Dagat Celebes",
+        "Dagat Mediteraneo"
       ],
       "answer": 1
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What dance is popular in the Visayas that is performed during the Sinulog celebration?\">Anong sayaw ang tanyag sa Visayas na ginagawa sa pagdiriwang ng Sinulog?</span>",
+      "q": "Anong sayaw ang tanyag sa Visayas na ginagawa sa pagdiriwang ng Sinulog?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"charge\">Singkil</span>",
+        "Singkil",
         "Sinulog Dance",
         "Cariñosa",
-        "<span class=\"fil-sentence\" data-translation=\"Obando dance\">Sayaw sa Obando</span>"
+        "Sayaw sa Obando"
       ],
       "answer": 1
     },
     {
       "type": "verify",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following statements is correct?\">Alin sa mga sumusunod na pahayag ang tama?</span>",
+      "q": "Alin sa mga sumusunod na pahayag ang tama?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"Statement A: Luzon, Visayas, and Mindanao are represented by the three stars on the Philippine flag.\">Pahayag A: Ang Luzon, Visayas, at Mindanao ay kinakatawan ng tatlong bituin sa watawat ng Pilipinas.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Statement B: Luzon, Visayas, and Mindanao are represented by the eight rays of the sun in the Philippine flag.\">Pahayag B: Ang Luzon, Visayas, at Mindanao ay kinakatawan ng walong sinag ng araw sa watawat ng Pilipinas.</span>"
+        "Pahayag A: Ang Luzon, Visayas, at Mindanao ay kinakatawan ng tatlong bituin sa watawat ng Pilipinas.",
+        "Pahayag B: Ang Luzon, Visayas, at Mindanao ay kinakatawan ng walong sinag ng araw sa watawat ng Pilipinas."
       ],
       "answer": 0
     },
     {
       "type": "blank",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What is the highest mountain in the Philippines located in Mindanao? (start with a capital letter)\">Ano ang pinakamataas na bundok sa Pilipinas na matatagpuan sa Mindanao? (simulan sa malaking titik)</span>",
+      "q": "Ano ang pinakamataas na bundok sa Pilipinas na matatagpuan sa Mindanao? (simulan sa malaking titik)",
       "answer": "Bundok Apo"
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Who was the explorer who brought Magellan&#x27;s Cross to Cebu?\">Sino ang explorer na nagdala ng Magellan's Cross sa Cebu?</span>",
+      "q": "Sino ang explorer na nagdala ng Magellan's Cross sa Cebu?",
       "options": [
         "Miguel Lopez de Legazpi",
         "Ferdinand Magellan",
@@ -403,18 +403,18 @@
   "challenge": [
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Why is the country divided into three major groups and how has it affected our culture?\">Bakit nahahati sa tatlong malalaking pangkat ang bansa at paano ito nakaapekto sa kultura natin?</span>",
+      "q": "Bakit nahahati sa tatlong malalaking pangkat ang bansa at paano ito nakaapekto sa kultura natin?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"Because we are an archipelago separated by bodies of water, we have had different languages, cultures, and traditions but still united as one nation.\">Dahil tayo ay arkipelago na pinaghihiwalay ng mga anyong tubig, kaya nagkaroon ng iba't ibang wika, kultura, at tradisyon ngunit nagkakaisa pa rin bilang isang bansa.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Because the regions are enemies.\">Dahil magkakaaway ang mga rehiyon.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Because there were no roads in the entire Philippines.\">Dahil walang kalsada noon sa buong Pilipinas.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Because we are not of the same race.\">Dahil hindi tayo magkakapareho ng lahi.</span>"
+        "Dahil tayo ay arkipelago na pinaghihiwalay ng mga anyong tubig, kaya nagkaroon ng iba't ibang wika, kultura, at tradisyon ngunit nagkakaisa pa rin bilang isang bansa.",
+        "Dahil magkakaaway ang mga rehiyon.",
+        "Dahil walang kalsada noon sa buong Pilipinas.",
+        "Dahil hindi tayo magkakapareho ng lahi."
       ],
       "answer": 0
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following shows the correct geographical order from North to South?\">Alin sa mga sumusunod ang nagpapakita ng tamang heograpikal na pagkakasunud-sunod mula Hilaga patungong Timog?</span>",
+      "q": "Alin sa mga sumusunod ang nagpapakita ng tamang heograpikal na pagkakasunud-sunod mula Hilaga patungong Timog?",
       "options": [
         "Luzon -> Visayas -> Mindanao",
         "Mindanao -> Visayas -> Luzon",
@@ -425,27 +425,27 @@
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"What is the importance of the Pacific Ocean in the geography and climate of the Philippines?\">Ano ang kahalagahan ng Karagatang Pasipiko sa heograpiya at klima ng Pilipinas?</span>",
+      "q": "Ano ang kahalagahan ng Karagatang Pasipiko sa heograpiya at klima ng Pilipinas?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"It has nothing to do with the country.\">Wala itong kinalaman sa bansa.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"It brings rain and storms, and serves as a major trade route to the east.\">Nagdadala ito ng ulan at mga bagyo, at nagsisilbing pangunahing daanan ng kalakalan sa silangan.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"This makes the country cool throughout the year.\">Ginagawa nitong malamig ang bansa sa buong taon.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"The fish are cold there.\">Nilalamig ang mga isda doon.</span>"
+        "Wala itong kinalaman sa bansa.",
+        "Nagdadala ito ng ulan at mga bagyo, at nagsisilbing pangunahing daanan ng kalakalan sa silangan.",
+        "Ginagawa nitong malamig ang bansa sa buong taon.",
+        "Nilalamig ang mga isda doon."
       ],
       "answer": 1
     },
     {
       "type": "verify",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following statements is true?\">Alin sa mga sumusunod na pahayag ang totoo?</span>",
+      "q": "Alin sa mga sumusunod na pahayag ang totoo?",
       "options": [
-        "<span class=\"fil-sentence\" data-translation=\"Statement A: The Chocolate Hills are in the Visayas, and the Banaue Rice Terraces are in Luzon.\">Pahayag A: Ang Chocolate Hills ay nasa Visayas, at ang Banaue Rice Terraces ay nasa Luzon.</span>",
-        "<span class=\"fil-sentence\" data-translation=\"Statement B: The Chocolate Hills are in Luzon, and the Banaue Rice Terraces are in the Visayas.\">Pahayag B: Ang Chocolate Hills ay nasa Luzon, at ang Banaue Rice Terraces ay nasa Visayas.</span>"
+        "Pahayag A: Ang Chocolate Hills ay nasa Visayas, at ang Banaue Rice Terraces ay nasa Luzon.",
+        "Pahayag B: Ang Chocolate Hills ay nasa Luzon, at ang Banaue Rice Terraces ay nasa Visayas."
       ],
       "answer": 0
     },
     {
       "type": "blank",
-      "q": "<span class=\"fil-sentence\" data-translation=\"In which island group is the Mayon volcano with its perfect cone located? (use capital letters)\">Saang pangkat ng pulo matatagpuan ang bulkang Mayon na may perpektong kono? (use capital letter)</span>",
+      "q": "Saang pangkat ng pulo matatagpuan ang bulkang Mayon na may perpektong kono? (use capital letter)",
       "answer": "Luzon"
     }
   ],
@@ -461,9 +461,9 @@
   },
   "worksheet": {
     "pages": [
-      "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 1: Pagtukoy sa mga Pangkat ng Pulo</h3>\n        <p class=\"ws-instruction\">Isulat ang <strong>Luzon</strong>, <strong>Visayas</strong>, o <strong>Mindanao</strong> sa patlang batay sa inilalarawan gamit ang iyong stylus.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. Matatagpuan ang <strong>Chocolate Hills sa Bohol</strong> sa pangkat ng:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 15px;\">\n          <div class=\"ws-q\">2. Matatagpuan ang <strong>Banaue Rice Terraces</strong> sa pangkat ng:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 15px;\">\n          <div class=\"ws-q\">3. Matatagpuan ang <strong>Bundok Apo sa Davao</strong> sa pangkat ng:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"></div>\n        </div>\n      </div>\n      ",
-      "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 2: Pambansang Sagisag at Rehiyon</h3>\n        <p class=\"ws-instruction\">Isulat ang mga sagot sa bakanteng kahon gamit ang iyong stylus.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. Ano ang sinisimbolo ng tatlong bituin sa watawat ng Pilipinas?</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 80%;\"></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 20px;\">\n          <div class=\"ws-q\">2. Bakit tinatawag na arkipelago o kapuluan ang Pilipinas?</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 80%;\"></div>\n        </div>\n      </div>\n      ",
-      "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 3: Makasaysayang Pook at Anyong Tubig</h3>\n        <p class=\"ws-instruction\">Gumuhit ng linya gamit ang stylus upang itugma ang pook sa lalawigan nito.</p>\n        \n        <div class=\"ws-split\" style=\"margin-top: 20px; line-height: 2.2;\">\n          <div class=\"ws-col-half\">\n            <div>A. Magellan's Cross</div>\n            <div>B. Barasoain Church</div>\n            <div>C. Fort Pilar</div>\n            <div>D. Bundok Apo</div>\n          </div>\n          <div class=\"ws-col-half\" style=\"text-align: right; padding-right: 40px;\">\n            <div>[ &nbsp; &nbsp; ] &nbsp; Bulacan</div>\n            <div>[ &nbsp; &nbsp; ] &nbsp; Cebu</div>\n            <div>[ &nbsp; &nbsp; ] &nbsp; Davao</div>\n            <div>[ &nbsp; &nbsp; ] &nbsp; Zamboanga</div>\n          </div>\n        </div>\n      </div>\n      "
+      "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 1: Pagtukoy sa mga Pangkat ng Pulo</h3>\n        <p class=\"ws-instruction\">Isulat ang <strong>Luzon</strong>, <strong>Visayas</strong>, o <strong>Mindanao</strong> sa patlang batay sa inilalarawan gamit ang iyong stylus.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. Matatagpuan ang <strong>Chocolate Hills sa Bohol</strong> sa pangkat ng:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">Visayas</span></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 15px;\">\n          <div class=\"ws-q\">2. Matatagpuan ang <strong>Banaue Rice Terraces</strong> sa pangkat ng:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">Luzon</span></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 15px;\">\n          <div class=\"ws-q\">3. Matatagpuan ang <strong>Bundok Apo sa Davao</strong> sa pangkat ng:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">Mindanao</span></div>\n        </div>\n      </div>\n      ",
+      "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 2: Pambansang Sagisag at Rehiyon</h3>\n        <p class=\"ws-instruction\">Isulat ang mga sagot sa bakanteng kahon gamit ang iyong stylus.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. Ano ang sinisimbolo ng tatlong bituin sa watawat ng Pilipinas?</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 80%;\"><span class=\"ws-answer\">Luzon, Visayas, at Mindanao (tatlong pangkat ng pulo)</span></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 20px;\">\n          <div class=\"ws-q\">2. Bakit tinatawag na arkipelago o kapuluan ang Pilipinas?</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 80%;\"><span class=\"ws-answer\">Dahil ito ay binubuo ng maraming pulo na napapaligiran ng tubig.</span></div>\n        </div>\n      </div>\n      ",
+      "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 3: Makasaysayang Pook at Anyong Tubig</h3>\n        <p class=\"ws-instruction\">Gumuhit ng linya gamit ang stylus upang itugma ang pook sa lalawigan nito.</p>\n        \n        <div class=\"ws-split\" style=\"margin-top: 20px; line-height: 2.2;\">\n          <div class=\"ws-col-half\">\n            <div>A. Magellan's Cross</div>\n            <div>B. Barasoain Church</div>\n            <div>C. Fort Pilar</div>\n            <div>D. Bundok Apo</div>\n          </div>\n          <div class=\"ws-col-half\" style=\"text-align: right; padding-right: 40px;\">\n            <div>[ &nbsp; <span class=\"ws-answer\">B</span> &nbsp; ] &nbsp; Bulacan</div>\n            <div>[ &nbsp; <span class=\"ws-answer\">A</span> &nbsp; ] &nbsp; Cebu</div>\n            <div>[ &nbsp; <span class=\"ws-answer\">D</span> &nbsp; ] &nbsp; Davao</div>\n            <div>[ &nbsp; <span class=\"ws-answer\">C</span> &nbsp; ] &nbsp; Zamboanga</div>\n          </div>\n        </div>\n      </div>\n      "
     ]
   }
 }

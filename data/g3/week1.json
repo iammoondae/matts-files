@@ -340,305 +340,335 @@
       "standard": [
         {
           "q": "In the number 728, which digit is in the hundreds place?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "7",
             "2",
             "8",
             "None"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the place value of 5 in the number 258?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Tens",
             "Ones",
             "Hundreds",
             "Thousands"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the value of the digit 9 in the number 913?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "900",
             "90",
             "9",
             "9000"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which of the following is 500 + 30 + 6 in standard form?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "536",
             "563",
             "356",
             "5036"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the expanded form of 804?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "800 + 4",
             "80 + 4",
             "800 + 40",
             "8 + 0 + 4"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "How is the number 429 written in word form?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "four hundred twenty-nine",
             "four hundred two nine",
             "forty-two nine",
             "four hundred ninety-two"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "In the number 603, what does the 0 represent?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "0 tens",
             "0 hundreds",
             "0 ones",
             "no placeholder"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "If you add 10 to the number 235, which digit will change?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "3",
             "2",
             "5",
             "all of them"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which digit has the greatest value in the number 481?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "4",
             "8",
             "1",
             "they are equal"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What number is represented by 3 flats, 5 rods, and 2 units?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "352",
             "325",
             "253",
             "3052"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the value of 4 in 412?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "400",
             "40",
             "4",
             "4000"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "How many ones are equal to exactly one ten?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "10",
             "1",
             "100",
             "0"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "How many tens are equal to exactly one hundred?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "10",
             "1",
             "100",
             "5"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which represents 'six hundred seventy' in standard form?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "670",
             "607",
             "760",
             "67"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the expanded form of 290?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "200 + 90",
             "200 + 9",
             "20 + 90",
             "2 + 9 + 0"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the place value of 9 in 819?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Ones",
             "Tens",
             "Hundreds",
             "Thousands"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "In 357, the value of 5 is:",
-          "opts": [
+          "type": "choice",
+          "options": [
             "50",
             "5",
             "500",
             "5000"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What number is 100 more than 452?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "552",
             "462",
             "453",
             "352"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What number is 10 less than 789?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "779",
             "788",
             "689",
             "799"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which digit is in the ones place in 502?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "2",
             "0",
             "5",
             "None"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is standard form of 'eight hundred fifteen'?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "815",
             "850",
             "805",
             "851"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Convert 900 + 8 to standard form:",
-          "opts": [
+          "type": "choice",
+          "options": [
             "908",
             "980",
             "98",
             "9008"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the place value of 0 in 502?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Tens",
             "Ones",
             "Hundreds",
             "Thousands"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which number has 4 in the tens place?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "143",
             "413",
             "134",
             "444"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the value of 2 in 298?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "200",
             "20",
             "2",
             "2000"
           ],
-          "ans": 0
+          "answer": 0
         }
       ],
       "challenge": [
         {
           "q": "I am a 3-digit number. My ones digit is 9. My hundreds digit is 4 less than my ones digit. My tens digit is 0. What number am I?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "509",
             "905",
             "409",
             "904"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "I am a 3-digit number. My tens digit is 7. My hundreds and ones digits are the same, and their sum is 8. What number am I?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "474",
             "878",
             "375",
             "573"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "If you add 3 hundreds, 4 tens, and 12 ones together, what number do you get?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "352",
             "342",
             "3412",
             "423"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the difference in value between the 5 in 521 and the 5 in 153?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "450",
             "500",
             "50",
             "400"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "I have 6 hundreds, 0 tens, and 15 ones. What number am I?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "615",
             "605",
             "651",
             "715"
           ],
-          "ans": 0
+          "answer": 0
         }
       ],
       "performance": {
@@ -648,7 +678,8 @@
           "Correct number of dots in H, T, O columns",
           "Neatness and labeling of chart",
           "Accuracy in explaining place value vs value"
-        ]
+        ],
+        "type": "performance"
       },
       "worksheet": {
         "pages": [
@@ -4246,305 +4277,335 @@
       "standard": [
         {
           "q": "In the number 8,432, which digit has a value of 400?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "4",
             "8",
             "3",
             "2"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the Roman numeral for 45?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "XLV",
             "VL",
             "XXXXV",
             "LXV"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What standard number does the Roman numeral 'XCIV' represent?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "94",
             "114",
             "96",
             "44"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the value of 5 in the number 5,281?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "5,000",
             "500",
             "50",
             "5"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "How many tens are equal to exactly one thousand?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "100",
             "10",
             "1,000",
             "50"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the expanded form of 3,085?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "3,000 + 80 + 5",
             "300 + 85",
             "3,000 + 8 + 5",
             "300 + 80 + 5"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "In the number 9,990, the first 9 is how many times larger than the second 9?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "10 times",
             "100 times",
             "2 times",
             "equal"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which Roman numeral represents 90?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "XC",
             "LXXXX",
             "CX",
             "CD"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the standard form of 'seven thousand forty-two'?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "7,042",
             "7,420",
             "7,402",
             "70,042"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Convert 8,000 + 300 + 6 to standard form.",
-          "opts": [
+          "type": "choice",
+          "options": [
             "8,306",
             "8,360",
             "836",
             "8,036"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What does the Roman numeral 'LXXVI' represent?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "76",
             "66",
             "86",
             "56"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which number has the greatest place value?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "The leftmost non-zero digit",
             "The rightmost digit",
             "The middle digit",
             "They are all equal"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "How is 1,250 written in expanded form?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "1,000 + 200 + 50",
             "100 + 200 + 50",
             "1,000 + 250",
             "1 + 2 + 5 + 0"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the Roman numeral for 19?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "XIX",
             "XVIIII",
             "IXX",
             "XXI"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "How many hundreds are equal to exactly ten thousands?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "100",
             "10",
             "1,000",
             "10,000"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "In 5,612, what is the place value of 6?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Hundreds",
             "Thousands",
             "Tens",
             "Ones"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the value of 0 in 9,081?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "0",
             "100",
             "1,000",
             "no value"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What standard number does 'LXIV' represent?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "64",
             "54",
             "44",
             "74"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which Roman numeral represents 150?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "CL",
             "LC",
             "LL",
             "DL"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is 10 times larger than the number represented by the Roman numeral IX?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "90",
             "9",
             "900",
             "19"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "How many thousands are equal to ten thousands?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "10",
             "1",
             "100",
             "0"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Convert 9,000 + 900 + 9 to standard form.",
-          "opts": [
+          "type": "choice",
+          "options": [
             "9,909",
             "9,990",
             "9,099",
             "9,999"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What standard number is represented by 'XCIX'?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "99",
             "109",
             "89",
             "119"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the place value of 1 in 10,000?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Ten Thousands",
             "Thousands",
             "Hundreds",
             "Tens"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What standard number is represented by 'XLIV'?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "44",
             "64",
             "54",
             "34"
           ],
-          "ans": 0
+          "answer": 0
         }
       ],
       "challenge": [
         {
           "q": "I am a 4-digit number. My thousands digit is 4. My hundreds digit is twice my thousands digit. My ones digit is half my thousands digit. My tens digit is 0. What number am I?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "4,802",
             "4,202",
             "4,804",
             "4,204"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the sum of the Roman numerals 'XLIV' and 'LVI' in standard form?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "100",
             "90",
             "110",
             "120"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the Roman numeral for 99?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "XCIX",
             "IC",
             "XCIX",
             "LXXXXIX"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which number is 1,000 less than the largest 4-digit number?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "8,999",
             "9,999",
             "7,999",
             "9,899"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "If you multiply the Roman numeral V by the Roman numeral IX, what is the product in Roman numerals?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "XLV",
             "LXV",
             "XXXV",
             "VL"
           ],
-          "ans": 0
+          "answer": 0
         }
       ],
       "performance": {
@@ -4554,7 +4615,8 @@
           "Clock drawing is neat and accurate",
           "Correct mapping of I to XII",
           "Clear verbal explanation of rules"
-        ]
+        ],
+        "type": "performance"
       },
       "worksheet": {
         "pages": [

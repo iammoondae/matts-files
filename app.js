@@ -568,19 +568,22 @@ function getTodayAcademicWeek() {
 }
 
 function checkDateWeekAlignment() {
+  const banner = document.getElementById('week-alignment-banner');
+  if (!banner) return;
+
   // Only check once per day
   const todayStr = new Date().toLocaleDateString('en-CA');
   const lastChecked = localStorage.getItem('alignment_last_checked');
   if (lastChecked === todayStr) return;
-  localStorage.setItem('alignment_last_checked', todayStr);
 
   const academicWeek = getTodayAcademicWeek();
-  if (academicWeek === currentWeek) return;
+  if (academicWeek === currentWeek) {
+    localStorage.setItem('alignment_last_checked', todayStr);
+    return;
+  }
   if (!isWeekUnlocked(academicWeek)) return;
 
   // Show non-blocking banner
-  const banner = document.getElementById('week-alignment-banner');
-  if (!banner) return;
   banner.innerHTML = `
     <span>📅 Today is <strong>Week ${academicWeek}</strong> but you're on Week ${currentWeek}.</span>
     <div class="alignment-banner-btns">
@@ -589,6 +592,7 @@ function checkDateWeekAlignment() {
     </div>
   `;
   banner.style.display = 'flex';
+  localStorage.setItem('alignment_last_checked', todayStr);
 }
 
 function switchToAcademicWeek(week) {
@@ -3695,9 +3699,6 @@ function renderWelcomeDashboard() {
 
   const qBody = document.getElementById('viewport-body');
 
-  // Check week-date alignment (once per day)
-  checkDateWeekAlignment();
-
   // --- Build dashboard sections ---
   const grade = getLearnerGrade();
   const subjects = [
@@ -3966,6 +3967,7 @@ function renderWelcomeDashboard() {
   `;
 
   closeSidebar();
+  checkDateWeekAlignment();
 }
 
 function interactMascotDashboard() {

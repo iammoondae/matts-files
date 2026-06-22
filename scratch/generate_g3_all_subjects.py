@@ -25,6 +25,27 @@ def make_translation(fil, eng):
     eng_escaped = eng.replace('"', '&quot;')
     return f'<span class="fil-sentence" data-translation="{eng_escaped}">{fil}</span>'
 
+def normalize_subject_data(sub_data):
+    if not sub_data:
+        return sub_data
+    for quiz_key in ['standard', 'quiz', 'challenge']:
+        if quiz_key in sub_data:
+            normalized_questions = []
+            for q in sub_data[quiz_key]:
+                new_q = dict(q)
+                if 'type' not in new_q:
+                    new_q['type'] = 'choice'
+                if 'opts' in new_q:
+                    new_q['options'] = new_q.pop('opts')
+                if 'ans' in new_q:
+                    new_q['answer'] = new_q.pop('ans')
+                normalized_questions.append(new_q)
+            sub_data[quiz_key] = normalized_questions
+    perf = sub_data.get('performance')
+    if perf and isinstance(perf, dict) and 'type' not in perf:
+        perf['type'] = 'performance'
+    return sub_data
+
 def expand_to_8_lines(text, title, examples, lang='en'):
     # If already exactly 8 lines, keep it as is
     if text.count('\n') + 1 == 8:
@@ -249,14 +270,19 @@ for w in range(1, 5):
         "checklist": checklist_core
     }
     
-    # Ensure all slides of all subjects have exactly 8 lines
+    # Ensure all slides of all subjects have exactly 8 lines, and normalize quiz formats
     for block_name, dataset in [("core", merged_core), ("advanced", merged_advanced)]:
         for sub_name in ["math", "science", "english", "filipino", "makabansa", "gmrc"]:
             sub_data = dataset.get(sub_name)
-            if sub_data and "slides" in sub_data:
-                lang = 'en' if sub_name in ['math', 'science', 'english'] else 'fil'
-                for slide in sub_data["slides"]:
-                    slide["text"] = expand_to_8_lines(slide.get("text", ""), slide.get("title", ""), slide.get("examples", []), lang=lang)
+            if sub_data:
+                # 1. Normalize quiz structures (opts -> options, ans -> answer)
+                normalize_subject_data(sub_data)
+                
+                # 2. Pad slide lengths
+                if "slides" in sub_data:
+                    lang = 'en' if sub_name in ['math', 'science', 'english'] else 'fil'
+                    for slide in sub_data["slides"]:
+                        slide["text"] = expand_to_8_lines(slide.get("text", ""), slide.get("title", ""), slide.get("examples", []), lang=lang)
                     
     output_data = {
         "core": merged_core,

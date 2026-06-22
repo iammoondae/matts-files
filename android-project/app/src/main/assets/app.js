@@ -568,19 +568,22 @@ function getTodayAcademicWeek() {
 }
 
 function checkDateWeekAlignment() {
+  const banner = document.getElementById('week-alignment-banner');
+  if (!banner) return;
+
   // Only check once per day
   const todayStr = new Date().toLocaleDateString('en-CA');
   const lastChecked = localStorage.getItem('alignment_last_checked');
   if (lastChecked === todayStr) return;
-  localStorage.setItem('alignment_last_checked', todayStr);
 
   const academicWeek = getTodayAcademicWeek();
-  if (academicWeek === currentWeek) return;
+  if (academicWeek === currentWeek) {
+    localStorage.setItem('alignment_last_checked', todayStr);
+    return;
+  }
   if (!isWeekUnlocked(academicWeek)) return;
 
   // Show non-blocking banner
-  const banner = document.getElementById('week-alignment-banner');
-  if (!banner) return;
   banner.innerHTML = `
     <span>📅 Today is <strong>Week ${academicWeek}</strong> but you're on Week ${currentWeek}.</span>
     <div class="alignment-banner-btns">
@@ -589,6 +592,7 @@ function checkDateWeekAlignment() {
     </div>
   `;
   banner.style.display = 'flex';
+  localStorage.setItem('alignment_last_checked', todayStr);
 }
 
 function switchToAcademicWeek(week) {
@@ -1106,7 +1110,13 @@ function loadWeekData(weekIdentifier, isRestore) {
   const localContent = localStorage.getItem(`local_${learnerGrade}_week_data_${weekNumber}`);
   if (localContent) {
     try {
-      (0, eval)(localContent);
+      if (localContent.trim().startsWith('{')) {
+        const parsed = JSON.parse(localContent);
+        window[`WEEK${weekNumber}_DATA`] = parsed.core;
+        window[`WEEK${weekNumber}_ADVANCED_DATA`] = parsed.advanced;
+      } else {
+        (0, eval)(localContent);
+      }
       
       const data = window[`WEEK${weekNumber}_DATA`];
       const advData = window[`WEEK${weekNumber}_ADVANCED_DATA`];
@@ -1181,7 +1191,13 @@ function loadReviewData(date, isRestore) {
   const localContent = localStorage.getItem(`local_${learnerGrade}_review_data_${date}`);
   if (localContent) {
     try {
-      (0, eval)(localContent);
+      if (localContent.trim().startsWith('{')) {
+        const parsed = JSON.parse(localContent);
+        window[`REVIEW_${date}_DATA`] = parsed.core;
+        window[`REVIEW_${date}_ADVANCED_DATA`] = parsed.advanced;
+      } else {
+        (0, eval)(localContent);
+      }
       
       const data = window[`REVIEW_${date}_DATA`];
       const advData = window[`REVIEW_${date}_ADVANCED_DATA`];
@@ -1384,33 +1400,31 @@ function checkWeeklyUpdates() {
       let loadedImages = [];
       let loadedReviews = [];
 
-      // A. Download week JS files
+      // A. Download week JSON files
       weeksToDownload.forEach(w => {
-        const url = `${REMOTE_UPDATE_URL}/data/${learnerGrade}/week${w}.js`;
+        const url = `${REMOTE_UPDATE_URL}/data/${learnerGrade}/week${w}.json`;
         const task = fetch(url, { cache: 'no-store' })
           .then(res => {
             if (!res.ok) throw new Error(`Week ${w} download failed (HTTP ${res.status})`);
-            return res.text();
+            return res.json();
           })
-          .then(content => {
-            (0, eval)(content);
-            localStorage.setItem(`local_${learnerGrade}_week_data_${w}`, content);
+          .then(jsonData => {
+            localStorage.setItem(`local_${learnerGrade}_week_data_${w}`, JSON.stringify(jsonData));
             loadedWeeks.push(w);
           });
         tasks.push(task);
       });
 
-      // B. Download review JS files
+      // B. Download review JSON files
       reviewsToDownload.forEach(r => {
-        const url = `${REMOTE_UPDATE_URL}/data/${learnerGrade}/review_${r}.js`;
+        const url = `${REMOTE_UPDATE_URL}/data/${learnerGrade}/review_${r}.json`;
         const task = fetch(url, { cache: 'no-store' })
           .then(res => {
             if (!res.ok) throw new Error(`Review ${r} download failed (HTTP ${res.status})`);
-            return res.text();
+            return res.json();
           })
-          .then(content => {
-            (0, eval)(content);
-            localStorage.setItem(`local_${learnerGrade}_review_data_${r}`, content);
+          .then(jsonData => {
+            localStorage.setItem(`local_${learnerGrade}_review_data_${r}`, JSON.stringify(jsonData));
             loadedReviews.push(r);
           });
         tasks.push(task);
@@ -3685,9 +3699,6 @@ function renderWelcomeDashboard() {
 
   const qBody = document.getElementById('viewport-body');
 
-  // Check week-date alignment (once per day)
-  checkDateWeekAlignment();
-
   // --- Build dashboard sections ---
   const grade = getLearnerGrade();
   const subjects = [
@@ -3956,6 +3967,7 @@ function renderWelcomeDashboard() {
   `;
 
   closeSidebar();
+  checkDateWeekAlignment();
 }
 
 function interactMascotDashboard() {
@@ -6794,8 +6806,8 @@ function removeProfilePic() {
 // ==========================================================================
 // APP VERSION, BUILD INFO & CHANGELOG TIMELINE
 // ==========================================================================
-const RAW_APP_VERSION = "v26.06.21.2005";
-const RAW_BUILD_DATE = "June 21, 2026";
+const RAW_APP_VERSION = "v26.06.22.0957";
+const RAW_BUILD_DATE = "June 22, 2026";
 
 function isPlaceholder(val) {
   return !val || val.startsWith("__APP_") || val.startsWith("__") || val.includes("PLACEHOLDER");

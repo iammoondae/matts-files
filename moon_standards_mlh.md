@@ -104,3 +104,20 @@ To maintain high educational quality and detail across all modules, the weekly c
 * Explain abstract principles using concrete physical observations and everyday local analogies.
 * Incorporate SSES (Special Science Elementary School) extension tasks and HOTS (Higher-Order Thinking Skills) questions directly into standard and challenge quizzes.
 
+### C. Database Completeness & Validation Checks (Gate Checks)
+To ensure complete and error-free content delivery, the database validation compiler and checks (`validate_db.py`) enforce the following gates for Grade 3 (Weeks 1-4) subjects:
+* **Completeness of Learning Modes**: Each subject must define all 5 interactive modes:
+  * `slides`: exactly 25 slides, each formatted with exactly 8 lines of text.
+  * `standard` (or `quiz`): exactly 25 questions.
+  * `challenge`: exactly 5 questions.
+  * `worksheet`: exactly 3 pages.
+  * `performance`: exactly 1 parent-graded performance task.
+* **Performance Task Schema**: The performance task block must be a valid JSON dictionary containing:
+  * `"type": "performance"`
+  * Non-empty `"title"` and `"desc"` strings.
+  * `"labels"`: an array containing at least 3 parent/teacher-scoring rubric labels.
+* **Worksheet Answer Elements**: Every worksheet page HTML string must contain at least one `.ws-answer` class element (e.g. `<span class="ws-answer">...</span>`) to store correct answer keys and facilitate parent grading features.
+* **Bilingual Translation Density**: The `filipino` and `makabansa` databases must contain a minimum of 20 `data-translation` spans per week to ensure comprehensive English-Filipino bilingual support.
+* **Quiz/Challenge Answer Fields**: Every quiz and challenge question must contain a valid, non-empty `"answer"` value matching its correct option/choice index or text input.
+
+

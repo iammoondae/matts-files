@@ -340,305 +340,335 @@
       "standard": [
         {
           "q": "What is the symbol for the ordinal number 'twenty-third'?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "23rd",
             "23th",
             "23st",
             "23nd"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What color is a Php 100 bill in Philippine currency?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Purple",
             "Red",
             "Yellow",
             "Blue"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the value of three Php 50 bills?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Php 150",
             "Php 100",
             "Php 200",
             "Php 50"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which coin has the highest value?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Php 20",
             "Php 10",
             "Php 5",
             "25 centavos"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "If you have a Php 500 bill and buy a shirt for Php 350, how much change will you get?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Php 150",
             "Php 250",
             "Php 100",
             "Php 50"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which is the correct written form of ₱45.50?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "forty-five pesos and fifty centavos",
             "forty-five pesos and fifteen centavos",
             "four hundred fifty pesos",
             "forty-five pesos"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which ordinal number is after 49th?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "50th",
             "50nd",
             "48th",
             "51st"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "How is 82nd written in words?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "eighty-second",
             "eighty-two",
             "eighty-twoth",
             "eighty-first"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which bill has the highest value?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Php 1,000",
             "Php 500",
             "Php 200",
             "Php 100"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "How many Php 10 coins are equal to one Php 100 bill?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "10",
             "5",
             "100",
             "20"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which is greater: Php 250 or Php 205?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Php 250",
             "Php 205",
             "They are equal",
             "None"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "How many 25-centavo coins make up exactly one peso (Php 1)?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "4",
             "10",
             "25",
             "2"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the ordinal form of 'one hundred'?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "100th",
             "100nd",
             "100st",
             "100rd"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the color of the Php 20 paper bill?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Orange",
             "Red",
             "Green",
             "Blue"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "How do you write 'seven pesos and twenty-five centavos' using the peso sign?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Php 7.25",
             "Php 72.5",
             "Php 0.75",
             "7.25 pesos"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which ordinal number matches 'thirty-first'?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "31st",
             "31th",
             "31rd",
             "31nd"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the total value of one Php 100 bill, one Php 50 bill, and two Php 10 coins?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Php 170",
             "Php 160",
             "Php 150",
             "Php 180"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the change if you pay Php 100 for a toy worth Php 85?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Php 15",
             "Php 25",
             "Php 5",
             "Php 20"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which ordinal represents the position '11th'?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "eleventh",
             "eleventst",
             "eleven",
             "tenth"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the value of ten Php 100 bills?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Php 1,000",
             "Php 100",
             "Php 10,000",
             "Php 500"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which coin represents a centavo?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "25 centavos",
             "Php 1",
             "Php 5",
             "Php 10"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the sum of Php 250.50 and Php 50.00?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Php 300.50",
             "Php 300.00",
             "Php 250.00",
             "Php 350.50"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "How is 93rd read?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "ninety-third",
             "ninety-three",
             "ninety-threetst",
             "ninety-second"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which is the smallest paper bill value in circulation?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Php 20",
             "Php 50",
             "Php 100",
             "Php 10"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which represents 'twelfth'?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "12th",
             "12st",
             "12nd",
             "12rd"
           ],
-          "ans": 0
+          "answer": 0
         }
       ],
       "challenge": [
         {
           "q": "If you have 4 bills in your wallet and their total value is Php 170, what bills do you have?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "One Php 100, one Php 50, and two Php 10 bills (actually coins)",
             "Three Php 50 and one Php 20",
             "Two Php 50, one Php 50, and one Php 20",
             "None of these"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "What is the total value of 8 coins of Php 5 and 6 coins of Php 10?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Php 100",
             "Php 80",
             "Php 110",
             "Php 90"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "If the 5th letter of a word is 'E' and the 8th letter is 'Y', which word could it be?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "MONKEY (wait, length is 6, 5th is E)",
             "DONKEY (length 6, 5th is E)",
             "BUTTERFLY (length 9, 5th is E, 8th is L)",
             "BLUEBERRY (length 9, 5th is E, 9th is Y - wait, let's look at standard 5th/8th: alphabet or indices)"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "Which is greater: five Php 20 bills or two Php 50 bills?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "They are equal",
             "Five Php 20 bills",
             "Two Php 50 bills",
             "None"
           ],
-          "ans": 0
+          "answer": 0
         },
         {
           "q": "If you buy three notebook items worth Php 25 each and pay with a Php 100 bill, how much change do you get?",
-          "opts": [
+          "type": "choice",
+          "options": [
             "Php 25",
             "Php 75",
             "Php 15",
             "Php 5"
           ],
-          "ans": 0
+          "answer": 0
         }
       ],
       "performance": {
@@ -648,7 +678,8 @@
           "Assigned reasonable prices",
           "Correct addition of costs",
           "Correct calculation of change"
-        ]
+        ],
+        "type": "performance"
       },
       "worksheet": {
         "pages": [
@@ -4531,9 +4562,9 @@
       },
       "worksheet": {
         "pages": [
-          "\n      <div class=\"ws-page-content\">\n        <h3>Exercise 1: Drawing Parallel and Perpendicular Lines</h3>\n        <p class=\"ws-instruction\">Use your stylus to draw a parallel line and a perpendicular line for each line segment below.</p>\n        \n        <div class=\"ws-split\" style=\"margin-top: 25px; height: 180px;\">\n          <div style=\"border: 1px solid #ccc; width: 45%; height: 100%; padding: 10px; border-radius: 8px;\">\n            <strong>Draw a line Parallel to AB:</strong>\n            <div style=\"width: 80%; height: 2px; background: black; margin: 40px auto 0 auto; position: relative;\">\n              <span style=\"position: absolute; top: -15px; left: 0;\">A</span>\n              <span style=\"position: absolute; top: -15px; right: 0;\">B</span>\n            </div>\n          </div>\n          <div style=\"border: 1px solid #ccc; width: 45%; height: 100%; padding: 10px; border-radius: 8px;\">\n            <strong>Draw a line Perpendicular to CD:</strong>\n            <div style=\"width: 80%; height: 2px; background: black; margin: 40px auto 0 auto; position: relative;\">\n              <span style=\"position: absolute; top: -15px; left: 0;\">C</span>\n              <span style=\"position: absolute; top: -15px; right: 0;\">D</span>\n            </div>\n          </div>\n        </div>\n      </div>\n      ",
-          "\n      <div class=\"ws-page-content\">\n        <h3>Exercise 2: Classifying Lines in Capital Letters</h3>\n        <p class=\"ws-instruction\">Look at the capital letters below. State what types of lines they contain (Parallel, Perpendicular, or Intersecting but not Perpendicular) using your stylus.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. The letter <strong>E</strong> contains:</div>\n          <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"></div>\n        </div>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">2. The letter <strong>X</strong> contains:</div>\n          <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"></div>\n        </div>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">3. The letter <strong>M</strong> contains:</div>\n          <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"></div>\n        </div>\n      </div>\n      ",
-          "\n      <div class=\"ws-page-content\">\n        <h3>Exercise 3: Line Riddles</h3>\n        <p class=\"ws-instruction\">Write the correct answer to the geometric riddles below using your stylus.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. We are a pair of lines. We are in the same plane, we go in the same direction, and we never cross. What are we?</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"></div>\n        </div>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">2. We cross each other and form four right angles. What special lines are we?</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"></div>\n        </div>\n      </div>\n      "
+          "\n      <div class=\"ws-page-content\">\n        <h3>Exercise 1: Drawing Parallel and Perpendicular Lines</h3>\n        <p class=\"ws-instruction\">Use your stylus to draw a parallel line and a perpendicular line for each line segment below.</p>\n        \n        <div class=\"ws-split\" style=\"margin-top: 25px; height: 180px;\">\n          <div style=\"border: 1px solid #ccc; width: 45%; height: 100%; padding: 10px; border-radius: 8px;\">\n            <strong>Draw a line Parallel to AB:</strong>\n            <div style=\"width: 80%; height: 2px; background: black; margin: 40px auto 0 auto; position: relative;\">\n              <span class=\"ws-answer\" style=\"position: absolute; bottom: 10px; left: 10px; font-size: 11px; color: var(--text-translation);\">[Parallel line drawn parallel to AB]</span>\n              <span style=\"position: absolute; top: -15px; left: 0;\">A</span>\n              <span style=\"position: absolute; top: -15px; right: 0;\">B</span>\n            </div>\n          </div>\n          <div style=\"border: 1px solid #ccc; width: 45%; height: 100%; padding: 10px; border-radius: 8px;\">\n            <strong>Draw a line Perpendicular to CD:</strong>\n            <div style=\"width: 80%; height: 2px; background: black; margin: 40px auto 0 auto; position: relative;\">\n              <span class=\"ws-answer\" style=\"position: absolute; bottom: 10px; left: 10px; font-size: 11px; color: var(--text-translation);\">[Perpendicular line drawn at 90° to CD]</span>\n              <span style=\"position: absolute; top: -15px; left: 0;\">C</span>\n              <span style=\"position: absolute; top: -15px; right: 0;\">D</span>\n            </div>\n          </div>\n        </div>\n      </div>\n      ",
+          "\n      <div class=\"ws-page-content\">\n        <h3>Exercise 2: Classifying Lines in Capital Letters</h3>\n        <p class=\"ws-instruction\">Look at the capital letters below. State what types of lines they contain (Parallel, Perpendicular, or Intersecting but not Perpendicular) using your stylus.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. The letter <strong>E</strong> contains:</div>\n          <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"><span class=\"ws-answer\">Parallel and Perpendicular lines</span></div>\n        </div>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">2. The letter <strong>X</strong> contains:</div>\n          <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"><span class=\"ws-answer\">Intersecting but not Perpendicular lines</span></div>\n        </div>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">3. The letter <strong>M</strong> contains:</div>\n          <div class=\"writing-line\" style=\"margin-top: 10px; width: 80%;\"><span class=\"ws-answer\">Parallel and Intersecting but not Perpendicular lines</span></div>\n        </div>\n      </div>\n      ",
+          "\n      <div class=\"ws-page-content\">\n        <h3>Exercise 3: Line Riddles</h3>\n        <p class=\"ws-instruction\">Write the correct answer to the geometric riddles below using your stylus.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. We are a pair of lines. We are in the same plane, we go in the same direction, and we never cross. What are we?</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Parallel lines</span></div>\n        </div>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">2. We cross each other and form four right angles. What special lines are we?</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Perpendicular lines</span></div>\n        </div>\n      </div>\n      "
         ]
       }
     },
@@ -5865,9 +5896,9 @@
       },
       "worksheet": {
         "pages": [
-          "\n      <div class=\"ws-page-content\">\n        <h3>Exercise 1: Matching Collective Nouns</h3>\n        <p class=\"ws-instruction\">Write the correct collective noun in the blanks using your stylus.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. a ______________ of cards (pack / deck)</div>\n          <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"></div>\n        </div>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">2. a ______________ of wolves (pack / herd)</div>\n          <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"></div>\n        </div>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">3. a ______________ of keys (bunch / fleet)</div>\n          <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"></div>\n        </div>\n      </div>\n      ",
-          "\n      <div class=\"ws-page-content\">\n        <h3>Exercise 2: Spelling Final Blends</h3>\n        <p class=\"ws-instruction\">Complete the spelling of the words using the final consonant blends: <strong>-nd</strong>, <strong>-st</strong>, <strong>-ft</strong>, or <strong>-mp</strong>.</p>\n        \n        <div class=\"ws-split\" style=\"margin-top: 25px; line-height: 2.5;\">\n          <div class=\"ws-col-half\">\n            <div>1. sa____ (ground sand)</div>\n            <div>2. la____ (table light)</div>\n          </div>\n          <div class=\"ws-col-half\">\n            <div>3. te____ (exam paper)</div>\n            <div>4. gi____ (present box)</div>\n          </div>\n        </div>\n      </div>\n      ",
-          "\n      <div class=\"ws-page-content\">\n        <h3>Exercise 3: Cause and Effect</h3>\n        <p class=\"ws-instruction\">Identify the Cause and Effect in the scenario below and write it on the lines using your stylus.</p>\n        \n        <div style=\"font-style: italic; background: #f9f9f9; padding: 10px; border-left: 3px solid #3b82f6; font-size: 14px; margin-bottom: 15px;\">\n          The heavy rain fell for three hours, so the streets in our barangay flooded.\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-bottom: 10px;\">\n          <div>Cause:</div>\n          <div class=\"writing-line\" style=\"width: 80%;\"></div>\n        </div>\n        <div class=\"ws-item-row\">\n          <div>Effect:</div>\n          <div class=\"writing-line\" style=\"width: 80%;\"></div>\n        </div>\n      </div>\n      "
+          "\n      <div class=\"ws-page-content\">\n        <h3>Exercise 1: Matching Collective Nouns</h3>\n        <p class=\"ws-instruction\">Write the correct collective noun in the blanks using your stylus.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. a ______________ of cards (pack / deck)</div>\n          <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">deck</span></div>\n        </div>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">2. a ______________ of wolves (pack / herd)</div>\n          <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">pack</span></div>\n        </div>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">3. a ______________ of keys (bunch / fleet)</div>\n          <div class=\"writing-line\" style=\"margin-top: 10px; width: 40%;\"><span class=\"ws-answer\">bunch</span></div>\n        </div>\n      </div>\n      ",
+          "\n      <div class=\"ws-page-content\">\n        <h3>Exercise 2: Spelling Final Blends</h3>\n        <p class=\"ws-instruction\">Complete the spelling of the words using the final consonant blends: <strong>-nd</strong>, <strong>-st</strong>, <strong>-ft</strong>, or <strong>-mp</strong>.</p>\n        \n        <div class=\"ws-split\" style=\"margin-top: 25px; line-height: 2.5;\">\n          <div class=\"ws-col-half\">\n            <div>1. sa<span class=\"ws-answer\">nd</span> (ground sand)</div>\n            <div>2. la<span class=\"ws-answer\">mp</span> (table light)</div>\n          </div>\n          <div class=\"ws-col-half\">\n            <div>3. te<span class=\"ws-answer\">st</span> (exam paper)</div>\n            <div>4. gi<span class=\"ws-answer\">ft</span> (present box)</div>\n          </div>\n        </div>\n      </div>\n      ",
+          "\n      <div class=\"ws-page-content\">\n        <h3>Exercise 3: Cause and Effect</h3>\n        <p class=\"ws-instruction\">Identify the Cause and Effect in the scenario below and write it on the lines using your stylus.</p>\n        \n        <div style=\"font-style: italic; background: #f9f9f9; padding: 10px; border-left: 3px solid #3b82f6; font-size: 14px; margin-bottom: 15px;\">\n          The heavy rain fell for three hours, so the streets in our barangay flooded.\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-bottom: 10px;\">\n          <div>Cause:</div>\n          <div class=\"writing-line\" style=\"width: 80%;\"><span class=\"ws-answer\">The heavy rain fell for three hours</span></div>\n        </div>\n        <div class=\"ws-item-row\">\n          <div>Effect:</div>\n          <div class=\"writing-line\" style=\"width: 80%;\"><span class=\"ws-answer\">the streets in our barangay flooded</span></div>\n        </div>\n      </div>\n      "
         ]
       }
     },
@@ -6159,238 +6190,238 @@
       "standard": [
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What is your pronoun?\">Ano ang panghalip panao?</span>",
+          "q": "Ano ang panghalip panao?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"Word referring to the name of the place.\">Salitang tumutukoy sa ngalan ng lugar.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"A word substituted for a person&#x27;s name.\">Salitang ipinapalit sa ngalan ng tao.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"A word that describes an action.\">Salitang naglalarawan ng kilos.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Descriptive word.\">Salitang naglalarawan ng katangian.</span>"
+            "Salitang tumutukoy sa ngalan ng lugar.",
+            "Salitang ipinapalit sa ngalan ng tao.",
+            "Salitang naglalarawan ng kilos.",
+            "Salitang naglalarawan ng katangian."
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the first person singular pronoun?\">Alin sa mga sumusunod ang unang panauhan ng panghalip panao na isahan?</span>",
+          "q": "Alin sa mga sumusunod ang unang panauhan ng panghalip panao na isahan?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"you\">ikaw</span>",
-            "<span class=\"fil-sentence\" data-translation=\"he\">siya</span>",
-            "<span class=\"fil-sentence\" data-translation=\"I\">ako</span>",
-            "<span class=\"fil-sentence\" data-translation=\"they\">sila</span>"
+            "ikaw",
+            "siya",
+            "ako",
+            "sila"
           ],
           "answer": 2
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What is the use of the pronoun &#x27;they&#x27;?\">Ano ang kailanan ng panghalip panao na 'sila'?</span>",
+          "q": "Ano ang kailanan ng panghalip panao na 'sila'?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"Singular\">Isahan</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Two\">Dalawahan</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Multiple\">Maramihan</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Gender\">Kasarian</span>"
+            "Isahan",
+            "Dalawahan",
+            "Maramihan",
+            "Kasarian"
           ],
           "answer": 2
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the third person singular?\">Alin sa mga sumusunod ang ikatlong panauhan na isahan?</span>",
+          "q": "Alin sa mga sumusunod ang ikatlong panauhan na isahan?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"I\">ako</span>",
-            "<span class=\"fil-sentence\" data-translation=\"you\">ikaw</span>",
-            "<span class=\"fil-sentence\" data-translation=\"he\">siya</span>",
-            "<span class=\"fil-sentence\" data-translation=\"us\">kami</span>"
+            "ako",
+            "ikaw",
+            "siya",
+            "kami"
           ],
           "answer": 2
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What pronoun would you use if you were talking to a group of children?\">Anong panghalip ang gagamitin kung kinakausap mo ang isang grupo ng mga bata?</span>",
+          "q": "Anong panghalip ang gagamitin kung kinakausap mo ang isang grupo ng mga bata?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"us\">kami</span>",
-            "<span class=\"fil-sentence\" data-translation=\"we\">tayo</span>",
-            "<span class=\"fil-sentence\" data-translation=\"You guys\">kayo</span>",
-            "<span class=\"fil-sentence\" data-translation=\"they\">sila</span>"
+            "kami",
+            "tayo",
+            "kayo",
+            "sila"
           ],
           "answer": 2
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What is the difference between &#x27;we&#x27; and &#x27;us&#x27;?\">Ano ang pagkakaiba ng 'kami' at 'tayo'?</span>",
+          "q": "Ano ang pagkakaiba ng 'kami' at 'tayo'?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"&#x27;We&#x27; is singular, &#x27;us&#x27; is plural.\">Ang 'kami' ay isahan, ang 'tayo' ay maramihan.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"&#x27;We&#x27; does not include the interlocutor, &#x27;we&#x27; includes the interlocutor.\">Ang 'kami' ay hindi kasama ang kausap, ang 'tayo' ay kasama ang kausap.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"&#x27;We&#x27; is for animals, &#x27;we&#x27; is for humans.\">Ang 'kami' ay para sa hayop, ang 'tayo' ay para sa tao.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"There is no difference.\">Walang pagkakaiba.</span>"
+            "Ang 'kami' ay isahan, ang 'tayo' ay maramihan.",
+            "Ang 'kami' ay hindi kasama ang kausap, ang 'tayo' ay kasama ang kausap.",
+            "Ang 'kami' ay para sa hayop, ang 'tayo' ay para sa tao.",
+            "Walang pagkakaiba."
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the second person singular pronoun?\">Alin sa mga sumusunod ang panghalip panao na isahan sa ikalawang panauhan?</span>",
+          "q": "Alin sa mga sumusunod ang panghalip panao na isahan sa ikalawang panauhan?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"I\">ako</span>",
-            "<span class=\"fil-sentence\" data-translation=\"you\">ikaw</span>",
-            "<span class=\"fil-sentence\" data-translation=\"he\">siya</span>",
-            "<span class=\"fil-sentence\" data-translation=\"they\">sila</span>"
+            "ako",
+            "ikaw",
+            "siya",
+            "sila"
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What part of the story line refers to the character&#x27;s problem or problem?\">Anong bahagi ng banghay ng kwento ang tumutukoy sa problema o suliranin ng tauhan?</span>",
+          "q": "Anong bahagi ng banghay ng kwento ang tumutukoy sa problema o suliranin ng tauhan?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"beginning\">Simula</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Rivalry\">Tunggalian</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Climax\">Kasukdulan</span>",
-            "<span class=\"fil-sentence\" data-translation=\"End\">Wakas</span>"
+            "Simula",
+            "Tunggalian",
+            "Kasukdulan",
+            "Wakas"
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What is the most exciting or intense part of the story called?\">Ano ang tawag sa pinakakapana-panabik o pinakamasidhing bahagi ng kwento?</span>",
+          "q": "Ano ang tawag sa pinakakapana-panabik o pinakamasidhing bahagi ng kwento?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"beginning\">Simula</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Rivalry\">Tunggalian</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Climax\">Kasukdulan</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Strangeness\">Kakalasan</span>"
+            "Simula",
+            "Tunggalian",
+            "Kasukdulan",
+            "Kakalasan"
           ],
           "answer": 2
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which of the statements is a FACT?\">Alin sa mga pahayag ang isang KATOTOHANAN?</span>",
+          "q": "Alin sa mga pahayag ang isang KATOTOHANAN?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"According to the analysis, sugar dissolves in water.\">Ayon sa pagsusuri, ang asukal ay natutunaw sa tubig.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"For me, bitter gourd is delicious.\">Para sa akin, masarap ang bitter gourd.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"I think it will rain tomorrow.\">Sa tingin ko ay uulan bukas.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Maybe it&#x27;s fun to walk in the park.\">Siguro ay masaya ang mamasyal sa parke.</span>"
+            "Ayon sa pagsusuri, ang asukal ay natutunaw sa tubig.",
+            "Para sa akin, masarap ang bitter gourd.",
+            "Sa tingin ko ay uulan bukas.",
+            "Siguro ay masaya ang mamasyal sa parke."
           ],
           "answer": 0
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which of the statements is an OPINION?\">Alin sa mga pahayag ang isang OPINYON?</span>",
+          "q": "Alin sa mga pahayag ang isang OPINYON?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"The flag of the Philippines has blue, red, white, and yellow colors.\">Ang watawat ng Pilipinas ay may kulay asul, pula, puti, at dilaw.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"For me, Cariñosa is the most difficult dance.\">Para sa akin, ang Cariñosa ang pinakamahirap na sayaw.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"The City of Manila is the capital of the Philippines.\">Ang Lungsod ng Maynila ang kabisera ng Pilipinas.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Jose Rizal was shot in Luneta.\">Si Jose Rizal ay binaril sa Luneta.</span>"
+            "Ang watawat ng Pilipinas ay may kulay asul, pula, puti, at dilaw.",
+            "Para sa akin, ang Cariñosa ang pinakamahirap na sayaw.",
+            "Ang Lungsod ng Maynila ang kabisera ng Pilipinas.",
+            "Si Jose Rizal ay binaril sa Luneta."
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What is the use of the pronoun in the sentence: &#x27;They are playing basketball.&#x27;?\">Ano ang kailanan ng panghalip panao sa pangungusap: 'Sila ay naglalaro ng basketbol.'?</span>",
+          "q": "Ano ang kailanan ng panghalip panao sa pangungusap: 'Sila ay naglalaro ng basketbol.'?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"Singular\">Isahan</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Two\">Dalawahan</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Multiple\">Maramihan</span>",
-            "<span class=\"fil-sentence\" data-translation=\"person\">Panauhan</span>"
+            "Isahan",
+            "Dalawahan",
+            "Maramihan",
+            "Panauhan"
           ],
           "answer": 2
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What person is the pronoun &#x27;I&#x27;?\">Anong panauhan ang panghalip na 'ako'?</span>",
+          "q": "Anong panauhan ang panghalip na 'ako'?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"First\">Una</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Second\">Ikalawa</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Third\">Ikatlo</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Multiple\">Maramihan</span>"
+            "Una",
+            "Ikalawa",
+            "Ikatlo",
+            "Maramihan"
           ],
           "answer": 0
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What person is the pronoun &#x27;you&#x27;?\">Anong panauhan ang panghalip na 'kayo'?</span>",
+          "q": "Anong panauhan ang panghalip na 'kayo'?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"First\">Una</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Second\">Ikalawa</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Third\">Ikatlo</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Singular\">Isahan</span>"
+            "Una",
+            "Ikalawa",
+            "Ikatlo",
+            "Isahan"
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following pronouns is NOT plural?\">Alin sa mga sumusunod na panghalip ang HINDI kabilang sa maramihan?</span>",
+          "q": "Alin sa mga sumusunod na panghalip ang HINDI kabilang sa maramihan?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"us\">kami</span>",
-            "<span class=\"fil-sentence\" data-translation=\"we\">tayo</span>",
-            "<span class=\"fil-sentence\" data-translation=\"they\">sila</span>",
-            "<span class=\"fil-sentence\" data-translation=\"he\">siya</span>"
+            "kami",
+            "tayo",
+            "sila",
+            "siya"
           ],
           "answer": 3
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What does &#x27;conflict&#x27; refer to in the story?\">Ano ang tinutukoy ng 'tunggalian' sa kwento?</span>",
+          "q": "Ano ang tinutukoy ng 'tunggalian' sa kwento?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"The venue of the event.\">Ang tagpuan ng kaganapan.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"The battle or problem of the protagonist against other forces.\">Ang labanan o problema ng bida laban sa ibang pwersa.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"The end of the story.\">Ang katapusan ng kwento.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"The protagonist&#x27;s dialogues.\">Ang mga diyalogo ng bida.</span>"
+            "Ang tagpuan ng kaganapan.",
+            "Ang labanan o problema ng bida laban sa ibang pwersa.",
+            "Ang katapusan ng kwento.",
+            "Ang mga diyalogo ng bida."
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What is the following part after the climax where the action of the story descends?\">Ano ang sumusunod na bahagi pagkatapos ng kasukdulan kung saan pababa ang aksyon ng kwento?</span>",
+          "q": "Ano ang sumusunod na bahagi pagkatapos ng kasukdulan kung saan pababa ang aksyon ng kwento?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"beginning\">Simula</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Rivalry\">Tunggalian</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Strangeness\">Kakalasan</span>",
-            "<span class=\"fil-sentence\" data-translation=\"End\">Wakas</span>"
+            "Simula",
+            "Tunggalian",
+            "Kakalasan",
+            "Wakas"
           ],
           "answer": 2
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following shows an opinion using a sign word?\">Alin sa mga sumusunod ang nagpapakita ng opinyon gamit ang panandang salita?</span>",
+          "q": "Alin sa mga sumusunod ang nagpapakita ng opinyon gamit ang panandang salita?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"It has been proven that the world is round.\">Napatunayan na ang mundo ay bilog.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"In my opinion, the song is good.\">Sa aking palagay, maganda ang kanta.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"According to the news, there is a typhoon.\">Ayon sa balita, may bagyo.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"According to the doctor, drink water.\">Ayon sa doktor, uminom ng tubig.</span>"
+            "Napatunayan na ang mundo ay bilog.",
+            "Sa aking palagay, maganda ang kanta.",
+            "Ayon sa balita, may bagyo.",
+            "Ayon sa doktor, uminom ng tubig."
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What pronoun fits the field: &#x27;Matteo is a good boy. ___ follows the parent.&#x27;?\">Anong panghalip panao ang angkop sa patlang: 'Si Matteo ay mabuting bata. ___ ay sumusunod sa magulang.'?</span>",
+          "q": "Anong panghalip panao ang angkop sa patlang: 'Si Matteo ay mabuting bata. ___ ay sumusunod sa magulang.'?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"I\">Ako</span>",
-            "<span class=\"fil-sentence\" data-translation=\"you\">Ikaw</span>",
-            "<span class=\"fil-sentence\" data-translation=\"he\">Siya</span>",
-            "<span class=\"fil-sentence\" data-translation=\"they\">Sila</span>"
+            "Ako",
+            "Ikaw",
+            "Siya",
+            "Sila"
           ],
           "answer": 2
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which pronoun is appropriate: &#x27;Ana, Ben, and I cleaned the room. ___ was tired.&#x27;?\">Anong panghalip panao ang angkop: 'Sina Ana, Ben, at ako ay naglinis ng silid. ___ ay napagod.'?</span>",
+          "q": "Anong panghalip panao ang angkop: 'Sina Ana, Ben, at ako ay naglinis ng silid. ___ ay napagod.'?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"they\">Sila</span>",
-            "<span class=\"fil-sentence\" data-translation=\"us\">Kami</span>",
-            "<span class=\"fil-sentence\" data-translation=\"You guys\">Kayo</span>",
-            "<span class=\"fil-sentence\" data-translation=\"he\">Siya</span>"
+            "Sila",
+            "Kami",
+            "Kayo",
+            "Siya"
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which is the sign for the truth?\">Alin ang pananda para sa katotohanan?</span>",
+          "q": "Alin ang pananda para sa katotohanan?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"Maybe\">Siguro</span>",
-            "<span class=\"fil-sentence\" data-translation=\"According to the review/document\">Ayon sa pagsusuri/dokumento</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Perhaps\">Marahil</span>",
-            "<span class=\"fil-sentence\" data-translation=\"For me\">Para sa akin</span>"
+            "Siguro",
+            "Ayon sa pagsusuri/dokumento",
+            "Marahil",
+            "Para sa akin"
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"How many persons does the pronoun have?\">Ilang panauhan mayroon ang panghalip panao?</span>",
+          "q": "Ilang panauhan mayroon ang panghalip panao?",
           "options": [
             "1",
             "2",
@@ -6401,26 +6432,26 @@
         },
         {
           "type": "verify",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following pronouns is correct?\">Alin sa mga sumusunod na panghalip ang tama?</span>",
+          "q": "Alin sa mga sumusunod na panghalip ang tama?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"Statement A: &#x27;He&#x27; is singular in the third person, while &#x27;they&#x27; is plural in the third person.\">Pahayag A: Ang 'siya' ay isahan sa ikatlong panauhan, samantalang ang 'sila' ay maramihan sa ikatlong panauhan.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Statement B: &#x27;He&#x27; is plural in the third person, while &#x27;they&#x27; is singular in the third person.\">Pahayag B: Ang 'siya' ay maramihan sa ikatlong panauhan, samantalang ang 'sila' ay isahan sa ikatlong panauhan.</span>"
+            "Pahayag A: Ang 'siya' ay isahan sa ikatlong panauhan, samantalang ang 'sila' ay maramihan sa ikatlong panauhan.",
+            "Pahayag B: Ang 'siya' ay maramihan sa ikatlong panauhan, samantalang ang 'sila' ay isahan sa ikatlong panauhan."
           ],
           "answer": 0
         },
         {
           "type": "blank",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What is the pronoun that is used as a substitute for the speaker&#x27;s name? (use lower case)\">Ano ang panghalip panao na ginagamit bilang pamalit sa ngalan ng nagsasalita? (use lowercase)</span>",
+          "q": "Ano ang panghalip panao na ginagamit bilang pamalit sa ngalan ng nagsasalita? (use lowercase)",
           "answer": "ako"
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What pronoun is appropriate if you talk to your grandparents?\">Anong panghalip ang angkop kung kakausapin mo ang iyong lolo at lola?</span>",
+          "q": "Anong panghalip ang angkop kung kakausapin mo ang iyong lolo at lola?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"you\">ikaw</span>",
-            "<span class=\"fil-sentence\" data-translation=\"you\">ka</span>",
-            "<span class=\"fil-sentence\" data-translation=\"You guys\">kayo</span>",
-            "<span class=\"fil-sentence\" data-translation=\"they\">sila</span>"
+            "ikaw",
+            "ka",
+            "kayo",
+            "sila"
           ],
           "answer": 2
         }
@@ -6428,49 +6459,49 @@
       "challenge": [
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Examine the sentence: &#x27;Ate Sarah told us, we should work together so they can be happy.&#x27; Which is the plural pronoun that refers to the speaker and the addressee?\">Suriin ang pangungusap: 'Sabi ni Ate Sarah sa amin, tayo ay dapat magtulungan upang sila ay matuwa.' Alin ang panghalip panao na maramihan na tumutukoy sa nagsasalita at kausap?</span>",
+          "q": "Suriin ang pangungusap: 'Sabi ni Ate Sarah sa amin, tayo ay dapat magtulungan upang sila ay matuwa.' Alin ang panghalip panao na maramihan na tumutukoy sa nagsasalita at kausap?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"us\">amin</span>",
-            "<span class=\"fil-sentence\" data-translation=\"we\">tayo</span>",
-            "<span class=\"fil-sentence\" data-translation=\"they\">sila</span>",
-            "<span class=\"fil-sentence\" data-translation=\"all of the above\">lahat ng nabanggit</span>"
+            "amin",
+            "tayo",
+            "sila",
+            "lahat ng nabanggit"
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Why is conflict important in a story?\">Bakit mahalaga ang tunggalian sa isang kwento?</span>",
+          "q": "Bakit mahalaga ang tunggalian sa isang kwento?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"To show the beautiful setting.\">Upang ipakita ang magandang tagpuan.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"To have a challenge and interest in the flow of the story that shows the development of the character.\">Upang magkaroon ng hamon at interes sa daloy ng kwento na nagpapakita ng pag-unlad ng tauhan.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"To end the story immediately.\">Upang wakasan agad ang kwento.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"To know the opinion of the author.\">Upang malaman ang opinyon ng may-akda.</span>"
+            "Upang ipakita ang magandang tagpuan.",
+            "Upang magkaroon ng hamon at interes sa daloy ng kwento na nagpapakita ng pag-unlad ng tauhan.",
+            "Upang wakasan agad ang kwento.",
+            "Upang malaman ang opinyon ng may-akda."
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following contains a fact proven by science?\">Alin sa mga sumusunod ang naglalaman ng katotohanan na napatunayan ng agham?</span>",
+          "q": "Alin sa mga sumusunod ang naglalaman ng katotohanan na napatunayan ng agham?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"For me, water tastes good when it&#x27;s hot.\">Para sa akin, masarap ang tubig kapag mainit.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Water consists of two hydrogen atoms and one oxygen atom (H2O).\">Ang tubig ay binubuo ng dalawang atomo ng hydrogen at isang atomo ng oxygen (H2O).</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Maybe there is water on another planet.\">Siguro ay may tubig sa ibang planeta.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"In my opinion, the water is blue.\">Sa aking palagay, ang tubig ay kulay asul.</span>"
+            "Para sa akin, masarap ang tubig kapag mainit.",
+            "Ang tubig ay binubuo ng dalawang atomo ng hydrogen at isang atomo ng oxygen (H2O).",
+            "Siguro ay may tubig sa ibang planeta.",
+            "Sa aking palagay, ang tubig ay kulay asul."
           ],
           "answer": 1
         },
         {
           "type": "verify",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which of the statements is correct?\">Alin sa mga pahayag ang tama?</span>",
+          "q": "Alin sa mga pahayag ang tama?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"Statement A: The climax is the height of tension in the story, where the conflict is faced.\">Pahayag A: Ang kasukdulan ang pinakarurok ng kapanabikan sa kwento, kung saan haharapin ang tunggalian.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Statement B: The climax is the first part of the story where the character is introduced.\">Pahayag B: Ang kasukdulan ang unang bahagi ng kwento kung saan ipinapakilala ang tauhan.</span>"
+            "Pahayag A: Ang kasukdulan ang pinakarurok ng kapanabikan sa kwento, kung saan haharapin ang tunggalian.",
+            "Pahayag B: Ang kasukdulan ang unang bahagi ng kwento kung saan ipinapakilala ang tauhan."
           ],
           "answer": 0
         },
         {
           "type": "blank",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What is the use of the pronoun &#x27;they&#x27;?\">Ano ang kailanan ng panghalip panaong 'sila'?</span>",
+          "q": "Ano ang kailanan ng panghalip panaong 'sila'?",
           "answer": "maramihan"
         }
       ],
@@ -6486,9 +6517,9 @@
       },
       "worksheet": {
         "pages": [
-          "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 1: Pagtukoy sa Panauhan at Kailanan</h3>\n        <p class=\"ws-instruction\">Gamitin ang stylus upang isulat ang <strong>Panauhan</strong> (Una, Ikalawa, o Ikatlo) at <strong>Kailanan</strong> (Isahan o Maramihan) ng panghalip panao.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. Ang panghalip panao na <strong>ako</strong> ay:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 15px;\">\n          <div class=\"ws-q\">2. Ang panghalip panao na <strong>sila</strong> ay:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 15px;\">\n          <div class=\"ws-q\">3. Ang panghalip panao na <strong>kayo</strong> ay:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"></div>\n        </div>\n      </div>\n      ",
-          "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 2: Pagsusuri ng Banghay</h3>\n        <p class=\"ws-instruction\">Basahin ang sitwasyon at isulat ang <strong>Tunggalian</strong> at <strong>Kasukdulan</strong> sa ibaba gamit ang iyong stylus.</p>\n        \n        <div style=\"font-style: italic; background: #f9f9f9; padding: 10px; border-left: 3px solid #ef4444; font-size: 14px; margin-bottom: 15px;\">\n          Nawala ang alagang aso ni Matteo na si Bantay. Naghanap ang pamilya sa buong barangay ngunit hindi nila ito makita. Habang umiiyak si Matteo, narinig niya ang mahinang kahol sa loob ng isang abandonadong balon at doon niya nakita si Bantay na nakakulong.\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-bottom: 10px;\">\n          <div>Tunggalian (Problema):</div>\n          <div class=\"writing-line\" style=\"width: 80%;\"></div>\n        </div>\n        <div class=\"ws-item-row\">\n          <div>Kasukdulan (Turning Point):</div>\n          <div class=\"writing-line\" style=\"width: 80%;\"></div>\n        </div>\n      </div>\n      ",
-          "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 3: Katotohanan at Opinyon</h3>\n        <p class=\"ws-instruction\">Gumuhit ng linya mula sa pahayag patungo sa tamang klasipikasyon (Katotohanan o Opinyon) gamit ang iyong stylus.</p>\n        \n        <div class=\"ws-split\" style=\"margin-top: 20px; line-height: 2.2;\">\n          <div class=\"ws-col-half\">\n            <div>A. Mas maganda ang kulay asul kaysa pula.</div>\n            <div>B. Ang Pilipinas ay may tatlong pangkat ng pulo.</div>\n            <div>C. Sa aking palagay, uulan ngayong gabi.</div>\n            <div>D. Ang bulkang Mayon ay nasa Albay.</div>\n          </div>\n          <div class=\"ws-col-half\" style=\"text-align: right; padding-right: 40px;\">\n            <div>[ &nbsp; &nbsp; ] &nbsp; Katotohanan</div>\n            <div>[ &nbsp; &nbsp; ] &nbsp; Opinyon</div>\n            <div>[ &nbsp; &nbsp; ] &nbsp; Katotohanan</div>\n            <div>[ &nbsp; &nbsp; ] &nbsp; Opinyon</div>\n          </div>\n        </div>\n      </div>\n      "
+          "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 1: Pagtukoy sa Panauhan at Kailanan</h3>\n        <p class=\"ws-instruction\">Gamitin ang stylus upang isulat ang <strong>Panauhan</strong> (Una, Ikalawa, o Ikatlo) at <strong>Kailanan</strong> (Isahan o Maramihan) ng panghalip panao.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. Ang panghalip panao na <strong>ako</strong> ay:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">Unang Panauhan, Isahan</span></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 15px;\">\n          <div class=\"ws-q\">2. Ang panghalip panao na <strong>sila</strong> ay:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">Ikatlong Panauhan, Maramihan</span></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 15px;\">\n          <div class=\"ws-q\">3. Ang panghalip panao na <strong>kayo</strong> ay:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">Ikalawang Panauhan, Maramihan</span></div>\n        </div>\n      </div>\n      ",
+          "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 2: Pagsusuri ng Banghay</h3>\n        <p class=\"ws-instruction\">Basahin ang sitwasyon at isulat ang <strong>Tunggalian</strong> at <strong>Kasukdulan</strong> sa ibaba gamit ang iyong stylus.</p>\n        \n        <div style=\"font-style: italic; background: #f9f9f9; padding: 10px; border-left: 3px solid #ef4444; font-size: 14px; margin-bottom: 15px;\">\n          Nawala ang alagang aso ni Matteo na si Bantay. Naghanap ang pamilya sa buong barangay ngunit hindi nila ito makita. Habang umiiyak si Matteo, narinig niya ang mahinang kahol sa loob ng isang abandonadong balon at doon niya nakita si Bantay na nakakulong.\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-bottom: 10px;\">\n          <div>Tunggalian (Problema):</div>\n          <div class=\"writing-line\" style=\"width: 80%;\"><span class=\"ws-answer\">Nawala ang alagang aso ni Matteo na si Bantay.</span></div>\n        </div>\n        <div class=\"ws-item-row\">\n          <div>Kasukdulan (Turning Point):</div>\n          <div class=\"writing-line\" style=\"width: 80%;\"><span class=\"ws-answer\">Narinig ang mahinang kahol sa abandonadong balon at nakita si Bantay.</span></div>\n        </div>\n      </div>\n      ",
+          "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 3: Katotohanan at Opinyon</h3>\n        <p class=\"ws-instruction\">Gumuhit ng linya mula sa pahayag patungo sa tamang klasipikasyon (Katotohanan o Opinyon) gamit ang iyong stylus.</p>\n        \n        <div class=\"ws-split\" style=\"margin-top: 20px; line-height: 2.2;\">\n          <div class=\"ws-col-half\">\n            <div>A. Mas maganda ang kulay asul kaysa pula.</div>\n            <div>B. Ang Pilipinas ay may tatlong pangkat ng pulo.</div>\n            <div>C. Sa aking palagay, uulan ngayong gabi.</div>\n            <div>D. Ang bulkang Mayon ay nasa Albay.</div>\n          </div>\n          <div class=\"ws-col-half\" style=\"text-align: right; padding-right: 40px;\">\n            <div>[ &nbsp; <span class=\"ws-answer\">B</span> &nbsp; ] &nbsp; Katotohanan</div>\n            <div>[ &nbsp; <span class=\"ws-answer\">A</span> &nbsp; ] &nbsp; Opinyon</div>\n            <div>[ &nbsp; <span class=\"ws-answer\">D</span> &nbsp; ] &nbsp; Katotohanan</div>\n            <div>[ &nbsp; <span class=\"ws-answer\">C</span> &nbsp; ] &nbsp; Opinyon</div>\n          </div>\n        </div>\n      </div>\n      "
         ]
       }
     },
@@ -6788,29 +6819,29 @@
       "standard": [
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What is a group of islands surrounded by water, such as the Philippines, called?\">Ano ang tawag sa pangkat ng mga pulo na napapaligiran ng tubig, tulad ng Pilipinas?</span>",
+          "q": "Ano ang tawag sa pangkat ng mga pulo na napapaligiran ng tubig, tulad ng Pilipinas?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"Continent\">Kontinente</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Islands or Archipelago\">Kapuluan o Arkipelago</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Desert\">Disyerto</span>",
-            "<span class=\"fil-sentence\" data-translation=\"mountain\">Bundok</span>"
+            "Kontinente",
+            "Kapuluan o Arkipelago",
+            "Disyerto",
+            "Bundok"
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"How many are the main island groups in the Philippines?\">Ilan ang pangunahing pangkat ng pulo sa Pilipinas?</span>",
+          "q": "Ilan ang pangunahing pangkat ng pulo sa Pilipinas?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"two\">Dalawa</span>",
-            "<span class=\"fil-sentence\" data-translation=\"three\">Tatlo</span>",
-            "<span class=\"fil-sentence\" data-translation=\"four\">Apat</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Five\">Lima</span>"
+            "Dalawa",
+            "Tatlo",
+            "Apat",
+            "Lima"
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the southernmost group of islands in the Philippines?\">Alin sa mga sumusunod ang pinakatimog na pangkat ng pulo sa Pilipinas?</span>",
+          "q": "Alin sa mga sumusunod ang pinakatimog na pangkat ng pulo sa Pilipinas?",
           "options": [
             "Luzon",
             "Visayas",
@@ -6821,7 +6852,7 @@
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which is the largest group of islands located in the northern part of the country?\">Alin ang pinakamalaking pangkat ng pulo na matatagpuan sa hilagang bahagi ng bansa?</span>",
+          "q": "Alin ang pinakamalaking pangkat ng pulo na matatagpuan sa hilagang bahagi ng bansa?",
           "options": [
             "Luzon",
             "Visayas",
@@ -6832,7 +6863,7 @@
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"In which island group is the national capital Metro Manila located?\">Saang pangkat ng pulo matatagpuan ang pambansang kabisera na Metro Manila?</span>",
+          "q": "Saang pangkat ng pulo matatagpuan ang pambansang kabisera na Metro Manila?",
           "options": [
             "Luzon",
             "Visayas",
@@ -6843,7 +6874,7 @@
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the main island in the Visayas group?\">Alin sa mga sumusunod ang pangunahing isla sa pangkat ng Visayas?</span>",
+          "q": "Alin sa mga sumusunod ang pangunahing isla sa pangkat ng Visayas?",
           "options": [
             "Luzon",
             "Cebu",
@@ -6854,29 +6885,29 @@
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"The highest mountain in the Philippines is located in Mindanao. what is it\">Matatagpuan sa Mindanao ang pinakamataas na bundok sa Pilipinas. Ano ito?</span>",
+          "q": "Matatagpuan sa Mindanao ang pinakamataas na bundok sa Pilipinas. Ano ito?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"Red Mountain\">Bundok Pulag</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Mount Apo\">Bundok Apo</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Mount Mayon\">Bundok Mayon</span>",
-            "<span class=\"fil-sentence\" data-translation=\"mountain slope\">Bundok Makiling</span>"
+            "Bundok Pulag",
+            "Bundok Apo",
+            "Bundok Mayon",
+            "Bundok Makiling"
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What type of climate does the Philippines have because of its geographical location?\">Anong uri ng klima mayroon ang Pilipinas dahil sa heograpikal na lokasyon nito?</span>",
+          "q": "Anong uri ng klima mayroon ang Pilipinas dahil sa heograpikal na lokasyon nito?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"Snowy (polar) climate\">Klimang may niyebe (polar)</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Tropical climate (summer and rainy season)\">Klimang tropikal (tag-init at tag-ulan)</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Desert climate\">Disyertong klima</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Cold climate\">Klimang malamig</span>"
+            "Klimang may niyebe (polar)",
+            "Klimang tropikal (tag-init at tag-ulan)",
+            "Disyertong klima",
+            "Klimang malamig"
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What historic site with a large cross is located in Cebu in the Visayas?\">Anong makasaysayang pook na may malaking krus ang matatagpuan sa Cebu sa Visayas?</span>",
+          "q": "Anong makasaysayang pook na may malaking krus ang matatagpuan sa Cebu sa Visayas?",
           "options": [
             "Barasoain Church",
             "Magellan's Cross",
@@ -6887,7 +6918,7 @@
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"From which island group did the royal dance Singkil come from?\">Saang pangkat ng pulo nagmula ang maharlikang sayaw na Singkil?</span>",
+          "q": "Saang pangkat ng pulo nagmula ang maharlikang sayaw na Singkil?",
           "options": [
             "Luzon",
             "Visayas",
@@ -6898,54 +6929,54 @@
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following songs is the popular folk song from the Visayas?\">Alin sa mga sumusunod na awitin ang tanyag na awiting-bayan mula sa Visayas?</span>",
+          "q": "Alin sa mga sumusunod na awitin ang tanyag na awiting-bayan mula sa Visayas?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"Leron Leron Darling\">Leron Leron Sinta</span>",
+            "Leron Leron Sinta",
             "Dandansoy",
             "Sarung Banggi",
-            "<span class=\"fil-sentence\" data-translation=\"Our Cu Pung Ring\">Atin Cu Pung Singsing</span>"
+            "Atin Cu Pung Singsing"
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What body of water is found in the eastern part of the Philippines?\">Anong anyong tubig ang matatagpuan sa silangang bahagi ng Pilipinas?</span>",
+          "q": "Anong anyong tubig ang matatagpuan sa silangang bahagi ng Pilipinas?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"Pacific Ocean\">Karagatang Pasipiko</span>",
-            "<span class=\"fil-sentence\" data-translation=\"South China Sea\">Dagat Timog Tsina</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Celebes Sea\">Dagat Celebes</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Sulu Sea\">Dagat Sulu</span>"
+            "Karagatang Pasipiko",
+            "Dagat Timog Tsina",
+            "Dagat Celebes",
+            "Dagat Sulu"
           ],
           "answer": 0
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which church in Bulacan (Luzon) witnessed the writing of the country&#x27;s first Constitution?\">Aling simbahan sa Bulacan (Luzon) ang naging saksi sa pagsulat ng unang Saligang Batas ng bansa?</span>",
+          "q": "Aling simbahan sa Bulacan (Luzon) ang naging saksi sa pagsulat ng unang Saligang Batas ng bansa?",
           "options": [
             "Magellan's Cross",
             "Barasoain Church",
             "Fort Pilar",
-            "<span class=\"fil-sentence\" data-translation=\"Church of Quiapo\">Simbahan ng Quiapo</span>"
+            "Simbahan ng Quiapo"
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What brass instrument is popular in Mindanao music?\">Anong instrumentong tanso ang tanyag sa musika ng Mindanao?</span>",
+          "q": "Anong instrumentong tanso ang tanyag sa musika ng Mindanao?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"Guitar\">Gitara</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Kulintang or Gong\">Kulintang o Gong</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Piano\">Piyano</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Flute\">Pluta</span>"
+            "Gitara",
+            "Kulintang o Gong",
+            "Piyano",
+            "Pluta"
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What is the main language spoken by people in the Cebu and Davao region?\">Ano ang pangunahing wika na sinasalita ng mga tao sa rehiyon ng Cebu at Davao?</span>",
+          "q": "Ano ang pangunahing wika na sinasalita ng mga tao sa rehiyon ng Cebu at Davao?",
           "options": [
             "Tagalog",
-            "<span class=\"fil-sentence\" data-translation=\"Cebuano or Bisaya\">Cebuano o Bisaya</span>",
+            "Cebuano o Bisaya",
             "Ilocano",
             "Bicolano"
           ],
@@ -6953,29 +6984,29 @@
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which natural resource is popular in the vast farmlands of Central Luzon?\">Aling likas na yaman ang tanyag sa malalawak na bukirin sa Gitnang Luzon?</span>",
+          "q": "Aling likas na yaman ang tanyag sa malalawak na bukirin sa Gitnang Luzon?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"gold and silver\">Ginto at Pilak</span>",
-            "<span class=\"fil-sentence\" data-translation=\"rice\">Palay (Bigas)</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Pineapple and Banana\">Pinya at Saging</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Copra\">Kopra</span>"
+            "Ginto at Pilak",
+            "Palay (Bigas)",
+            "Pinya at Saging",
+            "Kopra"
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following landforms is known in Bohol in the Visayas?\">Alin sa mga sumusunod na anyong lupa ang kilala sa Bohol sa Visayas?</span>",
+          "q": "Alin sa mga sumusunod na anyong lupa ang kilala sa Bohol sa Visayas?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"Mount Apo\">Bundok Apo</span>",
+            "Bundok Apo",
             "Chocolate Hills",
-            "<span class=\"fil-sentence\" data-translation=\"Taal Volcano\">Bulkang Taal</span>",
+            "Bulkang Taal",
             "Banaue Rice Terraces"
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"In which island group are Zamboanga and Fort Pilar located?\">Saang pangkat ng pulo matatagpuan ang Zamboanga at Fort Pilar?</span>",
+          "q": "Saang pangkat ng pulo matatagpuan ang Zamboanga at Fort Pilar?",
           "options": [
             "Luzon",
             "Visayas",
@@ -6986,65 +7017,65 @@
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"How many islands does the Philippines have in the latest government study?\">Ilang isla mayroon ang Pilipinas sa pinakahulin pag-aaral ng pamahalaan?</span>",
+          "q": "Ilang isla mayroon ang Pilipinas sa pinakahulin pag-aaral ng pamahalaan?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"more than 7,100\">higit 7,100</span>",
-            "<span class=\"fil-sentence\" data-translation=\"more than 7,600\">higit 7,600</span>",
-            "<span class=\"fil-sentence\" data-translation=\"half way\">kalahating daan</span>",
-            "<span class=\"fil-sentence\" data-translation=\"a thousand\">isang libo</span>"
+            "higit 7,100",
+            "higit 7,600",
+            "kalahating daan",
+            "isang libo"
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What is the main industry in Mindanao because of its fertile soil?\">Ano ang pangunahing industriya sa Mindanao dahil sa matabang lupa nito?</span>",
+          "q": "Ano ang pangunahing industriya sa Mindanao dahil sa matabang lupa nito?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"Shipbuilding\">Paggawa ng barko</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Agriculture (Fruit growing)\">Agrikultura (Pagtatanim ng prutas)</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Fabric manufacturing\">Paggawa ng tela</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Snow mining\">Pagmimina ng niyebe</span>"
+            "Paggawa ng barko",
+            "Agrikultura (Pagtatanim ng prutas)",
+            "Paggawa ng tela",
+            "Pagmimina ng niyebe"
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following is the body of water in the western part of the country?\">Alin sa mga sumusunod ang anyong tubig sa kanlurang bahagi ng bansa?</span>",
+          "q": "Alin sa mga sumusunod ang anyong tubig sa kanlurang bahagi ng bansa?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"Pacific Ocean\">Karagatang Pasipiko</span>",
-            "<span class=\"fil-sentence\" data-translation=\"South China Sea or West Philippine Sea\">Dagat Timog Tsina o Kanlurang Dagat ng Pilipinas</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Celebes Sea\">Dagat Celebes</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Mediterranean Sea\">Dagat Mediteraneo</span>"
+            "Karagatang Pasipiko",
+            "Dagat Timog Tsina o Kanlurang Dagat ng Pilipinas",
+            "Dagat Celebes",
+            "Dagat Mediteraneo"
           ],
           "answer": 1
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What dance is popular in the Visayas that is performed during the Sinulog celebration?\">Anong sayaw ang tanyag sa Visayas na ginagawa sa pagdiriwang ng Sinulog?</span>",
+          "q": "Anong sayaw ang tanyag sa Visayas na ginagawa sa pagdiriwang ng Sinulog?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"charge\">Singkil</span>",
+            "Singkil",
             "Sinulog Dance",
             "Cariñosa",
-            "<span class=\"fil-sentence\" data-translation=\"Obando dance\">Sayaw sa Obando</span>"
+            "Sayaw sa Obando"
           ],
           "answer": 1
         },
         {
           "type": "verify",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following statements is correct?\">Alin sa mga sumusunod na pahayag ang tama?</span>",
+          "q": "Alin sa mga sumusunod na pahayag ang tama?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"Statement A: Luzon, Visayas, and Mindanao are represented by the three stars on the Philippine flag.\">Pahayag A: Ang Luzon, Visayas, at Mindanao ay kinakatawan ng tatlong bituin sa watawat ng Pilipinas.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Statement B: Luzon, Visayas, and Mindanao are represented by the eight rays of the sun in the Philippine flag.\">Pahayag B: Ang Luzon, Visayas, at Mindanao ay kinakatawan ng walong sinag ng araw sa watawat ng Pilipinas.</span>"
+            "Pahayag A: Ang Luzon, Visayas, at Mindanao ay kinakatawan ng tatlong bituin sa watawat ng Pilipinas.",
+            "Pahayag B: Ang Luzon, Visayas, at Mindanao ay kinakatawan ng walong sinag ng araw sa watawat ng Pilipinas."
           ],
           "answer": 0
         },
         {
           "type": "blank",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What is the highest mountain in the Philippines located in Mindanao? (start with a capital letter)\">Ano ang pinakamataas na bundok sa Pilipinas na matatagpuan sa Mindanao? (simulan sa malaking titik)</span>",
+          "q": "Ano ang pinakamataas na bundok sa Pilipinas na matatagpuan sa Mindanao? (simulan sa malaking titik)",
           "answer": "Bundok Apo"
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Who was the explorer who brought Magellan&#x27;s Cross to Cebu?\">Sino ang explorer na nagdala ng Magellan's Cross sa Cebu?</span>",
+          "q": "Sino ang explorer na nagdala ng Magellan's Cross sa Cebu?",
           "options": [
             "Miguel Lopez de Legazpi",
             "Ferdinand Magellan",
@@ -7057,18 +7088,18 @@
       "challenge": [
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Why is the country divided into three major groups and how has it affected our culture?\">Bakit nahahati sa tatlong malalaking pangkat ang bansa at paano ito nakaapekto sa kultura natin?</span>",
+          "q": "Bakit nahahati sa tatlong malalaking pangkat ang bansa at paano ito nakaapekto sa kultura natin?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"Because we are an archipelago separated by bodies of water, we have had different languages, cultures, and traditions but still united as one nation.\">Dahil tayo ay arkipelago na pinaghihiwalay ng mga anyong tubig, kaya nagkaroon ng iba't ibang wika, kultura, at tradisyon ngunit nagkakaisa pa rin bilang isang bansa.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Because the regions are enemies.\">Dahil magkakaaway ang mga rehiyon.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Because there were no roads in the entire Philippines.\">Dahil walang kalsada noon sa buong Pilipinas.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Because we are not of the same race.\">Dahil hindi tayo magkakapareho ng lahi.</span>"
+            "Dahil tayo ay arkipelago na pinaghihiwalay ng mga anyong tubig, kaya nagkaroon ng iba't ibang wika, kultura, at tradisyon ngunit nagkakaisa pa rin bilang isang bansa.",
+            "Dahil magkakaaway ang mga rehiyon.",
+            "Dahil walang kalsada noon sa buong Pilipinas.",
+            "Dahil hindi tayo magkakapareho ng lahi."
           ],
           "answer": 0
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following shows the correct geographical order from North to South?\">Alin sa mga sumusunod ang nagpapakita ng tamang heograpikal na pagkakasunud-sunod mula Hilaga patungong Timog?</span>",
+          "q": "Alin sa mga sumusunod ang nagpapakita ng tamang heograpikal na pagkakasunud-sunod mula Hilaga patungong Timog?",
           "options": [
             "Luzon -> Visayas -> Mindanao",
             "Mindanao -> Visayas -> Luzon",
@@ -7079,27 +7110,27 @@
         },
         {
           "type": "choice",
-          "q": "<span class=\"fil-sentence\" data-translation=\"What is the importance of the Pacific Ocean in the geography and climate of the Philippines?\">Ano ang kahalagahan ng Karagatang Pasipiko sa heograpiya at klima ng Pilipinas?</span>",
+          "q": "Ano ang kahalagahan ng Karagatang Pasipiko sa heograpiya at klima ng Pilipinas?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"It has nothing to do with the country.\">Wala itong kinalaman sa bansa.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"It brings rain and storms, and serves as a major trade route to the east.\">Nagdadala ito ng ulan at mga bagyo, at nagsisilbing pangunahing daanan ng kalakalan sa silangan.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"This makes the country cool throughout the year.\">Ginagawa nitong malamig ang bansa sa buong taon.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"The fish are cold there.\">Nilalamig ang mga isda doon.</span>"
+            "Wala itong kinalaman sa bansa.",
+            "Nagdadala ito ng ulan at mga bagyo, at nagsisilbing pangunahing daanan ng kalakalan sa silangan.",
+            "Ginagawa nitong malamig ang bansa sa buong taon.",
+            "Nilalamig ang mga isda doon."
           ],
           "answer": 1
         },
         {
           "type": "verify",
-          "q": "<span class=\"fil-sentence\" data-translation=\"Which of the following statements is true?\">Alin sa mga sumusunod na pahayag ang totoo?</span>",
+          "q": "Alin sa mga sumusunod na pahayag ang totoo?",
           "options": [
-            "<span class=\"fil-sentence\" data-translation=\"Statement A: The Chocolate Hills are in the Visayas, and the Banaue Rice Terraces are in Luzon.\">Pahayag A: Ang Chocolate Hills ay nasa Visayas, at ang Banaue Rice Terraces ay nasa Luzon.</span>",
-            "<span class=\"fil-sentence\" data-translation=\"Statement B: The Chocolate Hills are in Luzon, and the Banaue Rice Terraces are in the Visayas.\">Pahayag B: Ang Chocolate Hills ay nasa Luzon, at ang Banaue Rice Terraces ay nasa Visayas.</span>"
+            "Pahayag A: Ang Chocolate Hills ay nasa Visayas, at ang Banaue Rice Terraces ay nasa Luzon.",
+            "Pahayag B: Ang Chocolate Hills ay nasa Luzon, at ang Banaue Rice Terraces ay nasa Visayas."
           ],
           "answer": 0
         },
         {
           "type": "blank",
-          "q": "<span class=\"fil-sentence\" data-translation=\"In which island group is the Mayon volcano with its perfect cone located? (use capital letters)\">Saang pangkat ng pulo matatagpuan ang bulkang Mayon na may perpektong kono? (use capital letter)</span>",
+          "q": "Saang pangkat ng pulo matatagpuan ang bulkang Mayon na may perpektong kono? (use capital letter)",
           "answer": "Luzon"
         }
       ],
@@ -7115,9 +7146,9 @@
       },
       "worksheet": {
         "pages": [
-          "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 1: Pagtukoy sa mga Pangkat ng Pulo</h3>\n        <p class=\"ws-instruction\">Isulat ang <strong>Luzon</strong>, <strong>Visayas</strong>, o <strong>Mindanao</strong> sa patlang batay sa inilalarawan gamit ang iyong stylus.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. Matatagpuan ang <strong>Chocolate Hills sa Bohol</strong> sa pangkat ng:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 15px;\">\n          <div class=\"ws-q\">2. Matatagpuan ang <strong>Banaue Rice Terraces</strong> sa pangkat ng:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 15px;\">\n          <div class=\"ws-q\">3. Matatagpuan ang <strong>Bundok Apo sa Davao</strong> sa pangkat ng:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"></div>\n        </div>\n      </div>\n      ",
-          "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 2: Pambansang Sagisag at Rehiyon</h3>\n        <p class=\"ws-instruction\">Isulat ang mga sagot sa bakanteng kahon gamit ang iyong stylus.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. Ano ang sinisimbolo ng tatlong bituin sa watawat ng Pilipinas?</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 80%;\"></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 20px;\">\n          <div class=\"ws-q\">2. Bakit tinatawag na arkipelago o kapuluan ang Pilipinas?</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 80%;\"></div>\n        </div>\n      </div>\n      ",
-          "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 3: Makasaysayang Pook at Anyong Tubig</h3>\n        <p class=\"ws-instruction\">Gumuhit ng linya gamit ang stylus upang itugma ang pook sa lalawigan nito.</p>\n        \n        <div class=\"ws-split\" style=\"margin-top: 20px; line-height: 2.2;\">\n          <div class=\"ws-col-half\">\n            <div>A. Magellan's Cross</div>\n            <div>B. Barasoain Church</div>\n            <div>C. Fort Pilar</div>\n            <div>D. Bundok Apo</div>\n          </div>\n          <div class=\"ws-col-half\" style=\"text-align: right; padding-right: 40px;\">\n            <div>[ &nbsp; &nbsp; ] &nbsp; Bulacan</div>\n            <div>[ &nbsp; &nbsp; ] &nbsp; Cebu</div>\n            <div>[ &nbsp; &nbsp; ] &nbsp; Davao</div>\n            <div>[ &nbsp; &nbsp; ] &nbsp; Zamboanga</div>\n          </div>\n        </div>\n      </div>\n      "
+          "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 1: Pagtukoy sa mga Pangkat ng Pulo</h3>\n        <p class=\"ws-instruction\">Isulat ang <strong>Luzon</strong>, <strong>Visayas</strong>, o <strong>Mindanao</strong> sa patlang batay sa inilalarawan gamit ang iyong stylus.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. Matatagpuan ang <strong>Chocolate Hills sa Bohol</strong> sa pangkat ng:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">Visayas</span></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 15px;\">\n          <div class=\"ws-q\">2. Matatagpuan ang <strong>Banaue Rice Terraces</strong> sa pangkat ng:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">Luzon</span></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 15px;\">\n          <div class=\"ws-q\">3. Matatagpuan ang <strong>Bundok Apo sa Davao</strong> sa pangkat ng:</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 60%;\"><span class=\"ws-answer\">Mindanao</span></div>\n        </div>\n      </div>\n      ",
+          "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 2: Pambansang Sagisag at Rehiyon</h3>\n        <p class=\"ws-instruction\">Isulat ang mga sagot sa bakanteng kahon gamit ang iyong stylus.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. Ano ang sinisimbolo ng tatlong bituin sa watawat ng Pilipinas?</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 80%;\"><span class=\"ws-answer\">Luzon, Visayas, at Mindanao (tatlong pangkat ng pulo)</span></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 20px;\">\n          <div class=\"ws-q\">2. Bakit tinatawag na arkipelago o kapuluan ang Pilipinas?</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 80%;\"><span class=\"ws-answer\">Dahil ito ay binubuo ng maraming pulo na napapaligiran ng tubig.</span></div>\n        </div>\n      </div>\n      ",
+          "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 3: Makasaysayang Pook at Anyong Tubig</h3>\n        <p class=\"ws-instruction\">Gumuhit ng linya gamit ang stylus upang itugma ang pook sa lalawigan nito.</p>\n        \n        <div class=\"ws-split\" style=\"margin-top: 20px; line-height: 2.2;\">\n          <div class=\"ws-col-half\">\n            <div>A. Magellan's Cross</div>\n            <div>B. Barasoain Church</div>\n            <div>C. Fort Pilar</div>\n            <div>D. Bundok Apo</div>\n          </div>\n          <div class=\"ws-col-half\" style=\"text-align: right; padding-right: 40px;\">\n            <div>[ &nbsp; <span class=\"ws-answer\">B</span> &nbsp; ] &nbsp; Bulacan</div>\n            <div>[ &nbsp; <span class=\"ws-answer\">A</span> &nbsp; ] &nbsp; Cebu</div>\n            <div>[ &nbsp; <span class=\"ws-answer\">D</span> &nbsp; ] &nbsp; Davao</div>\n            <div>[ &nbsp; <span class=\"ws-answer\">C</span> &nbsp; ] &nbsp; Zamboanga</div>\n          </div>\n        </div>\n      </div>\n      "
         ]
       }
     },
@@ -7736,9 +7767,9 @@
       },
       "worksheet": {
         "pages": [
-          "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 1: Paggalang sa Pamilya at Komunidad</h3>\n        <p class=\"ws-instruction\">Gamitin ang stylus upang isulat ang iyong sagot sa patlang sa mga sumusunod na tanong.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. Paano mo ipinapakita ang paggalang sa iyong mga lolo at lola?</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 15px;\">\n          <div class=\"ws-q\">2. Ano ang gagawin mo kapag nakita mong may nagtatapon ng basura sa parke?</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"></div>\n        </div>\n      </div>\n      ",
-          "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 2: Pambansang Sagisag Matching</h3>\n        <p class=\"ws-instruction\">Itugma the sagisag to the meaning using your stylus.</p>\n        \n        <div class=\"ws-split\" style=\"margin-top: 20px; line-height: 2.2;\">\n          <div class=\"ws-col-half\">\n            <div>1. Sampaguita</div>\n            <div>2. Narra</div>\n            <div>3. Philippine Eagle</div>\n            <div>4. Watawat</div>\n          </div>\n          <div class=\"ws-col-half\" style=\"text-align: right; padding-right: 40px;\">\n            <div>[ &nbsp; &nbsp; ] &nbsp; Simbolo ng bansa at kalayaan</div>\n            <div>[ &nbsp; &nbsp; ] &nbsp; Kalinisan at kababaang-loob</div>\n            <div>[ &nbsp; &nbsp; ] &nbsp; Kalayaan at lakas ng bansa</div>\n            <div>[ &nbsp; &nbsp; ] &nbsp; Katatagan at matibay na kahoy</div>\n          </div>\n        </div>\n      </div>\n      ",
-          "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 3: GMRC Sitwasyon</h3>\n        <p class=\"ws-instruction\">Gumuhit ng masayang mukha (smile) kung tama ang kilos at malungkot na mukha (sad) kung mali gamit ang iyong stylus.</p>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 20px;\">\n          <div class=\"ws-q\">[ &nbsp; &nbsp; ] 1. Pagtayo nang tuwid habang inaawit ang Lupang Hinirang sa flag ceremony.</div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 20px;\">\n          <div class=\"ws-q\">[ &nbsp; &nbsp; ] 2. Pagsusulat sa mga desk at dingding ng paaralan upang maging makulay ito.</div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 20px;\">\n          <div class=\"ws-q\">[ &nbsp; &nbsp; ] 3. Pagsasabi ng 'Salamat po' kapag tinulungan ng school guard na tumawid.</div>\n        </div>\n      </div>\n      "
+          "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 1: Paggalang sa Pamilya at Komunidad</h3>\n        <p class=\"ws-instruction\">Gamitin ang stylus upang isulat ang iyong sagot sa patlang sa mga sumusunod na tanong.</p>\n        \n        <div class=\"ws-item-row\">\n          <div class=\"ws-q\">1. Paano mo ipinapakita ang paggalang sa iyong mga lolo at lola?</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Sa pamamagitan ng pagmamano at pagsasabi ng \"po\" at \"opo\".</span></div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 15px;\">\n          <div class=\"ws-q\">2. Ano ang gagawin mo kapag nakita mong may nagtatapon ng basura sa parke?</div>\n          <div class=\"writing-line\" style=\"margin-top: 15px; width: 90%;\"><span class=\"ws-answer\">Sa pamamagitan ng paglalagay ng basura sa tamang tapunan o pagsasabi nang magalang.</span></div>\n        </div>\n      </div>\n      ",
+          "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 2: Pambansang Sagisag Matching</h3>\n        <p class=\"ws-instruction\">Itugma the sagisag to the meaning using your stylus.</p>\n        \n        <div class=\"ws-split\" style=\"margin-top: 20px; line-height: 2.2;\">\n          <div class=\"ws-col-half\">\n            <div>1. Sampaguita</div>\n            <div>2. Narra</div>\n            <div>3. Philippine Eagle</div>\n            <div>4. Watawat</div>\n          </div>\n          <div class=\"ws-col-half\" style=\"text-align: right; padding-right: 40px;\">\n            <div>[ &nbsp; <span class=\"ws-answer\">4</span> &nbsp; ] &nbsp; Simbolo ng bansa at kalayaan</div>\n            <div>[ &nbsp; <span class=\"ws-answer\">1</span> &nbsp; ] &nbsp; Kalinisan at kababaang-loob</div>\n            <div>[ &nbsp; <span class=\"ws-answer\">3</span> &nbsp; ] &nbsp; Kalayaan at lakas ng bansa</div>\n            <div>[ &nbsp; <span class=\"ws-answer\">2</span> &nbsp; ] &nbsp; Katatagan at matibay na kahoy</div>\n          </div>\n        </div>\n      </div>\n      ",
+          "\n      <div class=\"ws-page-content\">\n        <h3>Pagsasanay 3: GMRC Sitwasyon</h3>\n        <p class=\"ws-instruction\">Gumuhit ng masayang mukha (smile) kung tama ang kilos at malungkot na mukha (sad) kung mali gamit ang iyong stylus.</p>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 20px;\">\n          <div class=\"ws-q\">[ &nbsp; <span class=\"ws-answer\">😊</span> &nbsp; ] 1. Pagtayo nang tuwid habang inaawit ang Lupang Hinirang sa flag ceremony.</div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 20px;\">\n          <div class=\"ws-q\">[ &nbsp; <span class=\"ws-answer\">🙁</span> &nbsp; ] 2. Pagsusulat sa mga desk at dingding ng paaralan upang maging makulay ito.</div>\n        </div>\n        \n        <div class=\"ws-item-row\" style=\"margin-top: 20px;\">\n          <div class=\"ws-q\">[ &nbsp; <span class=\"ws-answer\">😊</span> &nbsp; ] 3. Pagsasabi ng 'Salamat po' kapag tinulungan ng school guard na tumawid.</div>\n        </div>\n      </div>\n      "
         ]
       }
     },
