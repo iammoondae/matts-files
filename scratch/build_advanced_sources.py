@@ -23,12 +23,52 @@ def strip_advanced_remarks(text):
     cleaned = re.sub(r'\s*[\[(]Advanced[\])]\s*', ' ', text, flags=re.IGNORECASE)
     return cleaned.strip()
 
+def split_sentences_html(text):
+    import re
+    tokens = re.split(r'(<[^>]+>)', text)
+    sentences = []
+    current_sentence = []
+    open_spans = 0
+    for token in tokens:
+        if not token:
+            continue
+        if token.startswith('<') and token.endswith('>'):
+            current_sentence.append(token)
+            tag_name_match = re.match(r'^</?([a-zA-Z0-9]+)', token)
+            if tag_name_match:
+                name = tag_name_match.group(1).lower()
+                if name == 'span':
+                    if token.startswith('</'):
+                        open_spans = max(0, open_spans - 1)
+                        if open_spans == 0:
+                            sentences.append("".join(current_sentence).strip())
+                            current_sentence = []
+                    else:
+                        open_spans += 1
+        else:
+            if open_spans > 0:
+                current_sentence.append(token)
+            else:
+                parts = re.split(r'([.!?]+(?:\s+|$))', token)
+                for i, part in enumerate(parts):
+                    if not part:
+                        continue
+                    current_sentence.append(part)
+                    if i % 2 == 1:
+                        sentences.append("".join(current_sentence).strip())
+                        current_sentence = []
+    if current_sentence:
+        remaining = "".join(current_sentence).strip()
+        if remaining:
+            sentences.append(remaining)
+    return sentences
+
 # Smart 8-line slide padding
 def expand_to_8_lines(text, title, examples, lang='en'):
     # Clean input text of newlines and double spaces
     clean_text = text.replace('\n', ' ').strip()
-    sentences = [s.strip() for s in clean_text.split('.') if s.strip()]
-    sentences = [s + "." for s in sentences if not s.endswith('.')]
+    sentences = split_sentences_html(clean_text)
+    sentences = [(s + "." if not s.endswith(('.', '!', '?', '>')) else s) for s in sentences]
     
     lines = []
     

@@ -98,8 +98,8 @@ def translate_worksheet_html(html_content):
         return f"{prefix}{wrapped}"
 
     # Match: (optional prefix number like 1. or A. )(text)<span class="fil-sentence" data-translation="(translation)"></span>
-    # We match it carefully
-    pattern_empty_span = r'([\d\w]+\.\s+|[A-Za-z]\)\s+)?([^<]+?)\s*<span class="fil-sentence" data-translation="\((.*?)\)"></span>'
+    # We match it carefully to avoid matching inside HTML tag attributes
+    pattern_empty_span = r'(?<=[\s>])([\d\w]+\.\s+|[A-Za-z]\)\s+)?([^<>]+?)\s*<span class="fil-sentence" data-translation="\((.*?)\)"></span>'
     html_content = re.sub(pattern_empty_span, repl_span, html_content)
 
     # 2. Translate h3 headings
