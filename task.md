@@ -128,6 +128,11 @@
 - `[x]` Task 126: Expanded all core game databases (including Patterns, Scramble, Sentence Builder, Fact or Fiction, Good Deeds, Organs, Odd One Out, Timeline, Empathy, Number Builder, Word Garden, and Science Sort) to contain at least 20 items per grade/category in `app.js`
 - `[x]` Task 127: Upgraded Memory Match to pick 8 random pairs from a pool of 20 symbols on setup
 - `[x]` Task 128: Compiled and built versioned APK v26.06.18.1949 successfully.
+- `[x]` Task 129: Correct empty span regex in translate_all_subjects.py to prevent matching attributes or tag boundaries
+- `[x]` Task 130: Implement token-based split_sentences_html() in build_advanced_sources.py and generate_g3_all_subjects.py to protect translation spans
+- `[x]` Task 131: Rebuild advanced templates, recompile Grade 3 JSON databases, and validate quality gate
+- `[x]` Task 132: Compile final Android debug APK and push updates to GitHub
+
 
 
 
