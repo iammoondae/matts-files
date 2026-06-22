@@ -2,10 +2,10 @@
   "color": "#f59e0b",
   "icon": "🏝️",
   "title": "Makabansa",
-  "subtitle": "Week 1: Kasaysayan ng Ating Komunidad [Advanced]",
+  "subtitle": "Week 1: Kasaysayan ng Ating Komunidad",
   "slides": [
     {
-      "title": "Maligayang Pagdating sa Makabansa! (Advanced)",
+      "title": "Maligayang Pagdating sa Makabansa!",
       "text": "<span class=\"fil-sentence\" data-translation=\"Hello, little hero! Welcome to Makabansa!\">Kumusta, maliit na bayani! Welcome sa Makabansa!</span> <span class=\"fil-sentence\" data-translation=\"This week, we will study about history.\n\">Ngayong linggo, mag-aaral tayo tungkol sa kasaysayan.\n</span> <span class=\"fil-sentence\" data-translation=\"History is the story of past events in our lives.\n\">Ang kasaysayan ay kwento ng mga nakaraang pangyayari.\n</span> <span class=\"fil-sentence\" data-translation=\"We will identify the history of our own local place.\n\">Tutukuyin natin ang kasaysayan ng sarili nating pook.\n</span> <span class=\"fil-sentence\" data-translation=\"We will study the origin and foundation of our barangay.\n\">Pag-aaralan natin ang pinagmulan ng ating barangay.",
       "examples": [
         {
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "title": "Ano ang Kasaysayan? (Advanced)",
+      "title": "Ano ang Kasaysayan?",
       "text": "<span class=\"fil-sentence\" data-translation=\"History is not just simply old stories from the past.\n\">Ang kasaysayan ay hindi lamang basta lumang kwento.\n</span> <span class=\"fil-sentence\" data-translation=\"It is the study of meaningful past events in lives.\n\">Ito ay pag-aaral ng may-saysay na nakaraang yugto.\n</span> <span class=\"fil-sentence\" data-translation=\"There are four important elements of history we study today.\n\">May apat na mahahalagang elemento ang kasaysayan ngayon.\n</span> <span class=\"fil-sentence\" data-translation=\"These are the people, place, time, and the event itself.\n\">Ito ang tao, lugar, panahon, at ang pangyayari.",
       "examples": [
         {
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "title": "Ang Elemento: Tao (Advanced)",
+      "title": "Ang Elemento: Tao",
       "text": "<span class=\"fil-sentence\" data-translation=\"People are the ones who make history in a place.\n\">Ang mga tao ang gumagawa ng kasaysayan sa pook.\n</span> <span class=\"fil-sentence\" data-translation=\"They lead and help one another in our local barangay.\n\">Sila ang namumuno at nagtutulungan sa barangay natin.\n</span> <span class=\"fil-sentence\" data-translation=\"This includes the first settlers who lived in our town.\n\">Kasama rito ang mga unang nanirahan sa ating bayan.\n</span> <span class=\"fil-sentence\" data-translation=\"This also includes the heroes who fought for freedom yonder.\n\">Kasama rin ang mga bayani na nagtanggol sa kalayaan.",
       "examples": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "title": "Ang Elemento: Lugar (Advanced)",
+      "title": "Ang Elemento: Lugar",
       "text": "<span class=\"fil-sentence\" data-translation=\"History always takes place in a specific physical location.\n\">Ang kasaysayan ay laging nagaganap sa isang lugar.\n</span> <span class=\"fil-sentence\" data-translation=\"This is the physical place where people lived and worked.\n\">Ito ang pook kung saan nanirahan ang mga tao.\n</span> <span class=\"fil-sentence\" data-translation=\"It could be a small barangay, a town, or a province.\n\">Maaaring ito ay isang barangay, bayan, o lalawigan.\n</span> <span class=\"fil-sentence\" data-translation=\"Example: the City of Calamba in Laguna is a place.\n\">Halimbawa: ang Lungsod ng Calamba ay isang pook.",
       "examples": [
         {
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "title": "Ang Elemento: Panahon (Advanced)",
+      "title": "Ang Elemento: Panahon",
       "text": "<span class=\"fil-sentence\" data-translation=\"Time refers to when the historical event actually happened.\n\">Ang panahon ay tumutukoy kung kailan ito nangyari.\n</span> <span class=\"fil-sentence\" data-translation=\"This could be a specific date or year in the calendar.\n\">Maaari itong tiyak na petsa o taon sa kalendaryo.\n</span> <span class=\"fil-sentence\" data-translation=\"Example: June 19, 1861 is the birth date of Rizal.\n\">Halimbawa: Hunyo 19, 1861 ang kapanganakan ni Rizal.\n</span> <span class=\"fil-sentence\" data-translation=\"We can also say 'Spanish Period' or 'Japanese Period'.\n\">Maaari ding sabihing 'Panahon ng Kastila' o 'Hapon'.",
       "examples": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "title": "Ang Elemento: Pangyayari (Advanced)",
+      "title": "Ang Elemento: Pangyayari",
       "text": "<span class=\"fil-sentence\" data-translation=\"The event is the actual action or occurrence that happened.\n\">Ang pangyayari ay ang mismong aksyon na naganap.\n</span> <span class=\"fil-sentence\" data-translation=\"There are events that have deep meaning for a place.\n\">May mga pangyayaring may malalim na saysay sa pook.\n</span> <span class=\"fil-sentence\" data-translation=\"Example: the foundation of the first school in town.\n\">Halimbawa: ang pagtatag ng unang paaralan sa bayan.\n</span> <span class=\"fil-sentence\" data-translation=\"Or perhaps the historical battles fought for our freedom.\n\">O di kaya ay ang labanan para sa kalayaan natin.",
       "examples": [
         {
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "title": "Primary Sources: Artifacts (Advanced)",
+      "title": "Primary Sources: Artifacts",
       "text": "<span class=\"fil-sentence\" data-translation=\"How do we know the history of our local community?\">Paano natin nalalaman ang kasaysayan ng komunidad?</span> <span class=\"fil-sentence\" data-translation=\"We use primary sources during our historical research.\n\">Gumagamit tayo ng mga primaryang batayan sa pagsusuri.\n</span> <span class=\"fil-sentence\" data-translation=\"Artifacts are physical objects made and used in the past.\n\">Ang artifact ay mga pisikal na kagamitan sa nakaraan.\n</span> <span class=\"fil-sentence\" data-translation=\"Examples: old clay pots, ancient coins, and old tools.\n\">Halimbawa: lumang palayok, barya, at mga kasangkapan.\n</span> <span class=\"fil-sentence\" data-translation=\"These physical objects do not lie about past human activities.\n\">Ang mga ito ay hindi nagsisinungaling sa kasaysayan.",
       "examples": [
         {
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "title": "Primary Sources: Dokumento (Advanced)",
+      "title": "Primary Sources: Dokumento",
       "text": "<span class=\"fil-sentence\" data-translation=\"Old documents are also very important primary sources.\n\">Ang mga lumang dokumento ay primaryang batayan din.\n</span> <span class=\"fil-sentence\" data-translation=\"These are written records from the past time periods.\n\">Ito ay mga nakasulat na tala mula sa nakaraang panahon.\n</span> <span class=\"fil-sentence\" data-translation=\"Examples: old letters, maps, laws, and diaries of people.\n\">Halimbawa: lumang sulat, mapa, batas, at diary.\n</span> <span class=\"fil-sentence\" data-translation=\"These were written by people who witnessed the events themselves.\n\">Isinulat ito ng mga taong mismong nakasaksi roon.",
       "examples": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "title": "Secondary Sources sa Kasaysayan (Advanced)",
+      "title": "Secondary Sources sa Kasaysayan",
       "text": "<span class=\"fil-sentence\" data-translation=\"There are also secondary sources of history we can use.\n\">Mayroon ding mga sekondaryang batayan sa kasaysayan.\n</span> <span class=\"fil-sentence\" data-translation=\"These are books or records written after the event occurred.\n\">Ito ay mga aklat o tala na isinulat pagkatapos.\n</span> <span class=\"fil-sentence\" data-translation=\"The author did not witness the actual historical event directly.\n\">Ang may-akda ay hindi nakasaksi sa mismong kaganapan.\n</span> <span class=\"fil-sentence\" data-translation=\"Examples: history textbooks, articles, and encyclopedias.\n\">Halimbawa: mga history textbooks, artikulo, at encyclopedia.",
       "examples": [
         {
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "title": "Ang Kahalagahan ng Timeline (Advanced)",
+      "title": "Ang Kahalagahan ng Timeline",
       "text": "<span class=\"fil-sentence\" data-translation=\"A timeline is a line that displays the sequence of time.\n\">Ang timeline ay isang guhit na nagpapakita ng panahon.\n</span> <span class=\"fil-sentence\" data-translation=\"It arranges events in order from the earliest to the latest.\n\">Inaayos nito ang mga pangyayari mula una hanggang huli.\n</span> <span class=\"fil-sentence\" data-translation=\"We read the horizontal timeline from left to right in books.\n\">Binabasa natin ang timeline mula kaliwa pakanan.\n</span> <span class=\"fil-sentence\" data-translation=\"Example: a timeline of a child growing up in the community.\n\">Halimbawa: timeline ng paglaki ng isang bata sa pook.",
       "examples": [
         {
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "title": "Ang Pinagmulan ng Pangalan (Advanced)",
+      "title": "Ang Pinagmulan ng Pangalan",
       "text": "<span class=\"fil-sentence\" data-translation=\"Every barangay has a story behind its physical name.\n\">Ang bawat barangay ay may kwento ng kanyang pangalan.\n</span> <span class=\"fil-sentence\" data-translation=\"Usually it originates from local plants, trees, or animals.\n\">Karaniwan itong nagmula sa mga halaman o hayop.\n</span> <span class=\"fil-sentence\" data-translation=\"E.\ng.\n, 'Kawayanan' because of many bamboo trees growing there.\n\">E.",
       "examples": [
         {
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "title": "Oral History: Saling-bibig (Advanced)",
+      "title": "Oral History: Saling-bibig",
       "text": "<span class=\"fil-sentence\" data-translation=\"Not all history is written down in big books yonder.\n\">Hindi lahat ng kasaysayan ay nakasulat sa aklat.\n</span> <span class=\"fil-sentence\" data-translation=\"Some stories are passed down using the mouth and ears.\n\">May mga kwentong isinasalin sa pamamagitan ng bibig.\n</span> <span class=\"fil-sentence\" data-translation=\"We call this oral history or verbal storytelling in class.\n\">Tinatawag natin itong oral history o saling-bibig.\n</span> <span class=\"fil-sentence\" data-translation=\"Grandfathers and grandmothers tell stories to their children.\n\">Ang mga lolo at lola ay nagkukuwento sa mga bata.",
       "examples": [
         {
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "title": "Mga Simbolo sa Komunidad (Advanced)",
+      "title": "Mga Simbolo sa Komunidad",
       "text": "<span class=\"fil-sentence\" data-translation=\"The logo of our barangay has drawings and symbols on it.\n\">Ang logo ng barangay ay may mga guhit at simbolo.\n</span> <span class=\"fil-sentence\" data-translation=\"Each symbol tells a unique story about our local place.\n\">Ang bawat simbolo ay naglalahad ng kwento ng pook.\n</span> <span class=\"fil-sentence\" data-translation=\"Example: the symbol of rice stalks represents farming.\n\">Halimbawa: ang simbolo ng palay ay para sa pagsasaka.\n</span> <span class=\"fil-sentence\" data-translation=\"It shows that rice is the primary source of livelihood.\n\">Ipinapakita nito na palay ang pangunahing kabuhayan.",
       "examples": [
         {
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "title": "Katutubong Sining at Disenyo (Advanced)",
+      "title": "Katutubong Sining at Disenyo",
       "text": "<span class=\"fil-sentence\" data-translation=\"Every community has its own native art and designs.\n\">Bawat komunidad ay may sariling mga likhang sining.\n</span> <span class=\"fil-sentence\" data-translation=\"These reflect the history and skill of our ancestors.\n\">Sinasalamin nito ang kasaysayan at galing ng ninuno.\n</span> <span class=\"fil-sentence\" data-translation=\"Examples: wood carvings, woven cloths, and clay pots.\n\">Halimbawa: mga ukit sa kahoy, habi ng tela, at palayok.\n</span> <span class=\"fil-sentence\" data-translation=\"These designs contain native patterns from old generations.\n\">Ang mga disenyong ito ay may mga katutubong pattern.",
       "examples": [
         {
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "title": "Mga Lokal na Awitin at Sayaw (Advanced)",
+      "title": "Mga Lokal na Awitin at Sayaw",
       "text": "<span class=\"fil-sentence\" data-translation=\"Local folk songs describe the daily way of life of people.\n\">Ang mga lokal na awitin ay naglalarawan ng buhay.\n</span> <span class=\"fil-sentence\" data-translation=\"Example: the folk song 'Leron Leron Sinta' in Laguna.\n\">Halimbawa: ang awiting 'Leron Leron Sinta' sa Laguna.\n</span> <span class=\"fil-sentence\" data-translation=\"It shows farming activities and picking of sweet fruits.\n\">Ito ay nagpapakita ng pagsasaka at pamimitas ng prutas.\n</span> <span class=\"fil-sentence\" data-translation=\"There are also native folk dances in our local community.\n\">Mayroon ding mga katutubong sayaw sa ating komunidad.",
       "examples": [
         {
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "title": "Guided Practice: Ang Pagsusuri (Advanced)",
+      "title": "Guided Practice: Ang Pagsusuri",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze a short story of our local history.\n\">Suriin natin ang isang kwento ng ating kasaysayan.\n</span> <span class=\"fil-sentence\" data-translation=\"Read: 'Barangay San Jose was founded in the year 1950.\n'\">Basahin: 'Itinatag ang Barangay San Jose noong 1950.\n'</span> <span class=\"fil-sentence\" data-translation=\"Identify the place mentioned in our statement yonder.\n\">Tukuyin ang pook na binanggit sa ating pahayag.\n</span> <span class=\"fil-sentence\" data-translation=\"The place is 'Barangay San Jose' which is proper.\n\">Ang pook ay 'Barangay San Jose' na isang pantangi.",
       "examples": [
         {
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "title": "Guided Practice: Primary vs Secondary (Advanced)",
+      "title": "Guided Practice: Primary vs Secondary",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the following sources of historical data.\n\">Suriin natin ang mga sumusunod na batayan ngayon.\n</span> <span class=\"fil-sentence\" data-translation=\"If you find an old coin dated with the year 1900,\">Kung nakakita ka ng lumang barya na may taong 1900,</span> <span class=\"fil-sentence\" data-translation=\"this is a primary source (artifact) for the place.\n\">ito ay isang primaryang batayan (artifact) sa pook.\n</span> <span class=\"fil-sentence\" data-translation=\"If you read the book 'History of Laguna' in class,\">Kung binabasa mo ang aklat na 'Kasaysayan ng Laguna',</span> <span class=\"fil-sentence\" data-translation=\"this is a secondary source in our history lesson today.\n\">ito ay isang sekondaryang batayan sa ating aralin.\n</span> <span class=\"fil-sentence\" data-translation=\"The book was written by a researcher after studying coins.\n\">Ang aklat ay isinulat ng mananaliksik pagkatapos.",
       "examples": [
         {
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "title": "Guided Practice: Timeline ng Pook (Advanced)",
+      "title": "Guided Practice: Timeline ng Pook",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's create a timeline for our local barangay hall.\n\">Gumawa tayo ng timeline ng isang barangay hall.\n</span> <span class=\"fil-sentence\" data-translation=\"2000: The small barangay hall was founded in the place.\n\">2000: Itinatag ang maliit na barangay hall sa pook.\n</span> <span class=\"fil-sentence\" data-translation=\"2010: The building was expanded and a clinic was added.\n\">2010: Pinalawak ang gusali at nagdagdag ng klinika.\n</span> <span class=\"fil-sentence\" data-translation=\"2020: A new sports complex was built next to the hall.\n\">2020: Nagpatayo ng bagong sports complex sa tabi nito.",
       "examples": [
         {
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "title": "Guided Practice: Pagsusuri ng Logo (Advanced)",
+      "title": "Guided Practice: Pagsusuri ng Logo",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze the logo of a barangay near our school.\n\">Suriin natin ang logo ng isang barangay sa tabi natin.\n</span> <span class=\"fil-sentence\" data-translation=\"There is a drawing of three fish and a net in the middle.\n\">May guhit ng tatlong isda at lambat sa gitna nito.\n</span> <span class=\"fil-sentence\" data-translation=\"What is the meaning of the fish on this local logo?\">Ano ang ibig sabihin ng mga isda sa logo ng pook?</span> <span class=\"fil-sentence\" data-translation=\"It shows that fishing is the main source of livelihood there.\n\">Ipinapakita nito na pangingisda ang kabuhayan doon.\n</span> <span class=\"fil-sentence\" data-translation=\"The place is near a lake or sea, hence the fish symbol.\n\">Ang pook ay malapit sa lawa o dagat kaya may isda.",
       "examples": [
         {
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "title": "Maling Pagtukoy sa Nakaraan (Advanced)",
+      "title": "Maling Pagtukoy sa Nakaraan",
       "text": "<span class=\"fil-sentence\" data-translation=\"Avoid treating ordinary past events as historical events.\n\">Iwasan ang pagtrato sa ordinaryong bagay bilang kasaysayan.\n</span> <span class=\"fil-sentence\" data-translation=\"Wrong: 'My eating of bread yesterday is part of history.\n'\">Mali: 'Ang pagkain ko ng tinapay kahapon ay kasaysayan.\n'</span> <span class=\"fil-sentence\" data-translation=\"It is just the past, but has no major significance to the town.\n\">Ito ay nakaraan lamang, ngunit walang saysay sa pook.\n</span> <span class=\"fil-sentence\" data-translation=\"History must have a major and lasting impact on the community.\n\">Ang kasaysayan ay dapat may malaking epekto sa lahat.",
       "examples": [
         {
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "title": "Maling Pagsulat ng Timeline (Advanced)",
+      "title": "Maling Pagsulat ng Timeline",
       "text": "<span class=\"fil-sentence\" data-translation=\"Avoid mixing up the years when writing a timeline.\n\">Iwasan ang paghahalo ng mga taon sa timeline.\n</span> <span class=\"fil-sentence\" data-translation=\"Wrong: 2020 (Founding) -> 2000 (Clinic) -> 2010 (Road).\n\">Mali: 2020 (Pagtatag) -> 2000 (Klinika) -> 2010 (Daan).\n</span> <span class=\"fil-sentence\" data-translation=\"This does not show the correct flow of time in history.\n\">Hindi nito ipinapakita ang tamang daloy ng panahon.\n</span> <span class=\"fil-sentence\" data-translation=\"We must start with the oldest year on the left side.\n\">Dapat magsimula sa pinakamatandang taon sa kaliwa.",
       "examples": [
         {
@@ -299,7 +299,7 @@
       ]
     },
     {
-      "title": "Maling Paglalarawan ng Simbolo (Advanced)",
+      "title": "Maling Paglalarawan ng Simbolo",
       "text": "<span class=\"fil-sentence\" data-translation=\"Avoid making up meanings for community symbols arbitrarily.\n\">Iwasan ang pag-imbento ng kahulugan ng logo.\n</span> <span class=\"fil-sentence\" data-translation=\"Do not say the gear on the logo represents a carriage wheel.\n\">Huwag sabihing ang gear sa logo ay gulong ng karwahe.\n</span> <span class=\"fil-sentence\" data-translation=\"In modern seals, the gear represents factories and industry.\n\">Sa makabagong selyo, ang gear ay para sa industriya.\n</span> <span class=\"fil-sentence\" data-translation=\"Verify the history of the place before writing descriptions.\n\">Tiyakin ang kasaysayan ng pook bago maglahad ng tala.",
       "examples": [
         {
@@ -313,7 +313,7 @@
       ]
     },
     {
-      "title": "Kasaysayan ng Ating Bayan (Advanced)",
+      "title": "Kasaysayan ng Ating Bayan",
       "text": "<span class=\"fil-sentence\" data-translation=\"Our barangay's history is part of our town's wider history.\n\">Ang kasaysayan ng barangay ay bahagi ng bayan natin.\n</span> <span class=\"fil-sentence\" data-translation=\"Each small place contributes to the history of the province.\n\">Ang bawat maliit na pook ay nag-aambag sa lalawigan.\n</span> <span class=\"fil-sentence\" data-translation=\"Example: the history of Calamba within our province Laguna.\n\">Halimbawa: ang kasaysayan ng Calamba sa Laguna natin.\n</span> <span class=\"fil-sentence\" data-translation=\"Laguna is known for rich rice fields and beautiful rivers.\n\">Ang Laguna ay kilala sa saganang palay at magandang ilog.",
       "examples": [
         {
@@ -327,7 +327,7 @@
       ]
     },
     {
-      "title": "Karagdagang Pagsasanay 1 (Advanced)",
+      "title": "Karagdagang Pagsasanay 1",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 1.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 1.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
       "examples": [
         {
@@ -341,7 +341,7 @@
       ]
     },
     {
-      "title": "Buod ng Unang Linggo (Advanced)",
+      "title": "Buod ng Unang Linggo",
       "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed all the slides for this week.\n\">Binabati kita! Natapos mo ang lahat ng slide sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We learned about the four elements of history yonder.\n\">Natutunan natin ang apat na elemento ng kasaysayan.\n</span> <span class=\"fil-sentence\" data-translation=\"We learned about people, place, time, and events.\n\">Natutunan natin ang tao, lugar, panahon, at pangyayari.\n</span> <span class=\"fil-sentence\" data-translation=\"We discovered primary and secondary sources of history.\n\">Nalaman natin ang tungkol sa primary at secondary sources.",
       "examples": [
         {

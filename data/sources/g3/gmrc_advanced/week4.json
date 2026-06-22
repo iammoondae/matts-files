@@ -2,10 +2,10 @@
   "color": "#06b6d4",
   "icon": "🧘‍♂️",
   "title": "GMRC",
-  "subtitle": "Week 4: Pagtitipid sa Bahay - Matalinong Pamumuhay [Advanced]",
+  "subtitle": "Week 4: Pagtitipid sa Bahay - Matalinong Pamumuhay",
   "slides": [
     {
-      "title": "Welcome sa Week 4! (Advanced)",
+      "title": "Welcome sa Week 4!",
       "text": "<span class=\"fil-sentence\" data-translation=\"How are you, student? Welcome to the fourth week!\">Kumusta ka, mag-aaral? Welcome sa ikaapat na linggo!</span> <span class=\"fil-sentence\" data-translation=\"This week, we will apply frugality inside our homes.\n\">Ngayong linggo, maglalapat tayo ng pagtitipid sa bahay.\n</span> <span class=\"fil-sentence\" data-translation=\"Let's identify smart and wise living every single day.\n\">Tukuyin natin ang matalinong pamumuhay araw-araw.\n</span> <span class=\"fil-sentence\" data-translation=\"We will use practical methods of conservation in the house.\n\">Gagamit tayo ng mga praktikal na paraan sa pagtitipid.\n</span> <span class=\"fil-sentence\" data-translation=\"How can we avoid wasting food and resources yonder?\">Paano natin maiiwasan ang pagsasayang ng pagkain?</span> <span class=\"fil-sentence\" data-translation=\"We will also study smart and wise shopping at the market.\n\">Pag-aaralan din natin ang matipid na pagbili sa palengke.",
       "examples": [
         {
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "title": "Matalinong Pamumuhay sa Tahanan (Advanced)",
+      "title": "Matalinong Pamumuhay sa Tahanan",
       "text": "<span class=\"fil-sentence\" data-translation=\"Wise living begins right inside our own family home.\n\">Ang matalinong pamumuhay ay nagsisimula sa tahanan.\n</span> <span class=\"fil-sentence\" data-translation=\"It is avoiding spending money on unnecessary luxuries yonder.\n\">Ito ay ang hindi paggastos sa mga hindi kailangang luho.\n</span> <span class=\"fil-sentence\" data-translation=\"We learn the difference between our wants and our needs.\n\">Nalalaman natin ang pagkakaiba ng gusto sa kailangan.\n</span> <span class=\"fil-sentence\" data-translation=\"Our 'needs' are food, clean water, books, and medicine.\n\">Ang 'kailangan' ay pagkain, tubig, aklat, at gamot.",
       "examples": [
         {
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "title": "Ang Pagtitipid sa mga Tirang Pagkain (Advanced)",
+      "title": "Ang Pagtitipid sa mga Tirang Pagkain",
       "text": "<span class=\"fil-sentence\" data-translation=\"Sometimes we have extra food left over after mealtime.\n\">Minsan ay may natitirang pagkain pagkatapos kumain.\n</span> <span class=\"fil-sentence\" data-translation=\"Do not throw these edible foods into the garbage bin yonder.\n\">Huwag itapon ang mga pagkaing ito sa basurahan.\n</span> <span class=\"fil-sentence\" data-translation=\"We can store them safely inside our family refrigerator.\n\">Maaari itong itabi nang maayos sa refrigerator natin.\n</span> <span class=\"fil-sentence\" data-translation=\"Or cover them with a food cover so flies do not touch them.\n\">O kaya ay takpan ng tudlong upang hindi madapuan ng langaw.",
       "examples": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "title": "Matalinong Pamimili sa Palengke (Advanced)",
+      "title": "Matalinong Pamimili sa Palengke",
       "text": "<span class=\"fil-sentence\" data-translation=\"Frugality is also practiced when shopping at the market.\n\">Ang pagtitipid ay ginagawa rin sa pamimili sa palengke.\n</span> <span class=\"fil-sentence\" data-translation=\"The mother creates a written shopping list of needed items.\n\">Ang nanay ay gumagawa ng listahan ng bibilhin niya.\n</span> <span class=\"fil-sentence\" data-translation=\"She buys only the specific items written on her list yonder.\n\">Binibili lamang niya ang nakasulat sa kanyang listahan.\n</span> <span class=\"fil-sentence\" data-translation=\"She avoids buying luxury items that are outside the budget.\n\">Iniiwasan niyang bumili ng mga luho na labas sa badyet.",
       "examples": [
         {
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "title": "Ang Pagtitipid sa Papel at Lapis (Advanced)",
+      "title": "Ang Pagtitipid sa Papel at Lapis",
       "text": "<span class=\"fil-sentence\" data-translation=\"Paper and pencils are resources made from forest trees yonder.\n\">Ang papel at lapis ay mga yaman na galing sa puno.\n</span> <span class=\"fil-sentence\" data-translation=\"Conserving them is a way of caring for our environment today.\n\">Ang pagtitipid sa kanila ay pag-aalaga sa kalikasan.\n</span> <span class=\"fil-sentence\" data-translation=\"Use the back of old papers yonder that are still clean to write.\n\">Gamitin ang likod ng mga lumang papel na malinis pa.\n</span> <span class=\"fil-sentence\" data-translation=\"You can use them as scratch paper during math lessons in class.\n\">Maaari mo itong gawing scratch paper sa matematika.",
       "examples": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "title": "Ang Pagtutulungan sa mga Utility Bills (Advanced)",
+      "title": "Ang Pagtutulungan sa mga Utility Bills",
       "text": "<span class=\"fil-sentence\" data-translation=\"The family pays monthly bills for clean water and lights.\n\">Ang pamilya ay nagbabayad ng bill sa tubig at ilaw.\n</span> <span class=\"fil-sentence\" data-translation=\"Every reduction in use reduces the amount we pay yonder.\n\">Ang bawat bawas sa paggamit ay bawas sa babayaran.\n</span> <span class=\"fil-sentence\" data-translation=\"As a child, you can help greatly in reducing bills at home.\n\">Bilang anak, malaki ang maitutulong mo sa badyet.\n</span> <span class=\"fil-sentence\" data-translation=\"Remind family members to shut off faucets tightly yonder.\n\">Ipaalala sa pamilya na isara ang gripo nang mahigpit.",
       "examples": [
         {
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "title": "Matalinong Pag-recycle sa Bahay (Advanced)",
+      "title": "Matalinong Pag-recycle sa Bahay",
       "text": "<span class=\"fil-sentence\" data-translation=\"Recycling is a wise and smart method of conservation yonder.\n\">Ang pag-recycle ay isang matalinong paraan ng pagtitipid.\n</span> <span class=\"fil-sentence\" data-translation=\"There are trash items that we can reuse for other purposes.\n\">May mga basura na maaari pa nating magamit muli.\n</span> <span class=\"fil-sentence\" data-translation=\"Examples: plastic milk bottles and empty metal food cans.\n\">Halimbawa: mga plastik na bote ng gatas at lata.\n</span> <span class=\"fil-sentence\" data-translation=\"We can turn them into plant pots for our garden flowers.\n\">Maaari natin silang gawing paso para sa mga halaman.",
       "examples": [
         {
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "title": "Ang Pagpaplano ng Badyet ng Bata (Advanced)",
+      "title": "Ang Pagpaplano ng Badyet ng Bata",
       "text": "<span class=\"fil-sentence\" data-translation=\"It is good to learn budget planning while you are young yonder.\n\">Mabuting matutong magplano ng badyet habang bata pa.\n</span> <span class=\"fil-sentence\" data-translation=\"If you are given twenty pesos school allowance every day,\">Kung bibigyan ka ng baon na bente pesos araw-araw,</span> <span class=\"fil-sentence\" data-translation=\"divide it into two parts yonder in your mind today.\n\">hatiin ito sa dalawang bahagi sa iyong isip ngayon.\n</span> <span class=\"fil-sentence\" data-translation=\"Fifteen pesos for buying healthy snacks during recess hours.\n\">Labinlimang piso para sa pagkain sa recess ng paaralan.\n</span> <span class=\"fil-sentence\" data-translation=\"Five pesos yonder for your coin savings box at home.\n\">Limang piso naman para sa iyong alkansya sa bahay.",
       "examples": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "title": "Guided Practice: Paggawa ng Paso (Advanced)",
+      "title": "Guided Practice: Paggawa ng Paso",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's practice recycling a plastic bottle yonder today.\n\">Magsanay tayo sa pag-recycle ng plastik na bote.\n</span> <span class=\"fil-sentence\" data-translation=\"Get a clean plastic milk bottle inside your house today.\n\">Kumuha ng isang malinis na bote ng gatas sa bahay.\n</span> <span class=\"fil-sentence\" data-translation=\"Cut the top portion off carefully yonder using scissors.\n\">Gupitin ang itaas na bahagi gamit ang gunting.\n</span> <span class=\"fil-sentence\" data-translation=\"Make small holes yonder at the bottom for water drainage.\n\">Lagyan ng maliliit na butas sa ilalim para sa tubig.",
       "examples": [
         {
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "title": "Guided Practice: Pamimili sa Palengke (Advanced)",
+      "title": "Guided Practice: Pamimili sa Palengke",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the shopping habits of Matteo's mother yonder.\n\">Suriin natin ang pamimili ng nanay ni Matteo.\n</span> <span class=\"fil-sentence\" data-translation=\"Before going yonder to the town market, she wrote a list.\n\">Bago pumunta sa palengke ng bayan, sumulat siya.\n</span> <span class=\"fil-sentence\" data-translation=\"She wrote: rice, fish, vegetables, and salt on paper sheet.\n\">Isinulat niya: bigas, isda, gulay, at asin sa papel.\n</span> <span class=\"fil-sentence\" data-translation=\"At the market, she bought yonder only these four needed things.\n\">Sa palengke, binili niya lamang ang apat na bagay na ito.",
       "examples": [
         {
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "title": "Guided Practice: Scratch Paper (Advanced)",
+      "title": "Guided Practice: Scratch Paper",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's check solving math problems in our classroom today.\n\">Suriin natin ang paglutas ng math problem sa klase.\n</span> <span class=\"fil-sentence\" data-translation=\"Lani needs extra paper yonder for scratch calculations.\n\">Si Lani ay nangangailangan ng papel para sa scratch.\n</span> <span class=\"fil-sentence\" data-translation=\"She got an old letter yonder that has a clean back side.\n\">Kumuha siya ng lumang liham na malinis ang likod.\n</span> <span class=\"fil-sentence\" data-translation=\"There she wrote her coin computations during math class.\n\">Doon niya isinulat ang pagkuwenta ng barya sa math.",
       "examples": [
         {
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "title": "Maling Pagtatapon ng Gamit (Advanced)",
+      "title": "Maling Pagtatapon ng Gamit",
       "text": "<span class=\"fil-sentence\" data-translation=\"Avoid throwing away supplies yonder that can still be used.\n\">Iwasan ang pagtatapon ng gamit na maaari pang gamitin.\n</span> <span class=\"fil-sentence\" data-translation=\"Wrong: 'Discarding short pencils even if they can be sharpened.\n'\">Mali: 'Itapon ang maikling lapis kahit maaari pang itasa.\n'</span> <span class=\"fil-sentence\" data-translation=\"Short pencils yonder can still be used to write sentences.\n\">Ang maikling lapis ay maaari pa ring isulat sa papel natin.\n</span> <span class=\"fil-sentence\" data-translation=\"Wasting them causes unnecessary expenses yonder for parents.\n\">Ang pagsasayang nito ay nagdudulot ng gastos sa magulang.",
       "examples": [
         {
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "title": "Maling Paggamit ng Scratch Paper (Advanced)",
+      "title": "Maling Paggamit ng Scratch Paper",
       "text": "<span class=\"fil-sentence\" data-translation=\"Avoid using brand new notebooks yonder for scratch writing.\n\">Iwasan ang pagsusulat ng scratch sa bagong notebook.\n</span> <span class=\"fil-sentence\" data-translation=\"Wrong: 'Writing math scratch yonder in new notebooks.\n'\">Mali: 'Sumulat ng math scratch sa gitna ng bagong notebook.\n'</span> <span class=\"fil-sentence\" data-translation=\"New notebooks yonder are reserved for clean lesson records.\n\">Inilalaan ang bagong notebook para sa opisyal na aralin.\n</span> <span class=\"fil-sentence\" data-translation=\"Math scratch calculations must be written on old papers yonder.\n\">Ang math scratch ay dapat isulat sa mga lumang papel.",
       "examples": [
         {
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "title": "Ang Kasaysayan ng Pagtitipid sa Bahay (Advanced)",
+      "title": "Ang Kasaysayan ng Pagtitipid sa Bahay",
       "text": "<span class=\"fil-sentence\" data-translation=\"Frugality is part of the history of our country yonder.\n\">Ang pagtitipid ay bahagi ng kasaysayan ng ating bansa.\n</span> <span class=\"fil-sentence\" data-translation=\"Our ancestors were well-known yonder for being frugal.\n\">Ang ating mga ninuno ay kilala sa pagiging matipid.\n</span> <span class=\"fil-sentence\" data-translation=\"They used natural resources yonder with care and respect.\n\">Gumagamit sila ng mga likas na yaman nang may pag-iingat.\n</span> <span class=\"fil-sentence\" data-translation=\"No resource was thrown away wasted yonder in the community.\n\">Walang yaman na itinapon nang walang saysay sa pook.",
       "examples": [
         {
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "title": "Karagdagang Pagsasanay 1 (Advanced)",
+      "title": "Karagdagang Pagsasanay 1",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
       "examples": [
         {
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "title": "Karagdagang Pagsasanay 2 (Advanced)",
+      "title": "Karagdagang Pagsasanay 2",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
       "examples": [
         {
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "title": "Karagdagang Pagsasanay 3 (Advanced)",
+      "title": "Karagdagang Pagsasanay 3",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
       "examples": [
         {
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "title": "Karagdagang Pagsasanay 4 (Advanced)",
+      "title": "Karagdagang Pagsasanay 4",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
       "examples": [
         {
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "title": "Karagdagang Pagsasanay 5 (Advanced)",
+      "title": "Karagdagang Pagsasanay 5",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
       "examples": [
         {
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "title": "Karagdagang Pagsasanay 6 (Advanced)",
+      "title": "Karagdagang Pagsasanay 6",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
       "examples": [
         {
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "title": "Karagdagang Pagsasanay 7 (Advanced)",
+      "title": "Karagdagang Pagsasanay 7",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
       "examples": [
         {
@@ -299,7 +299,7 @@
       ]
     },
     {
-      "title": "Karagdagang Pagsasanay 8 (Advanced)",
+      "title": "Karagdagang Pagsasanay 8",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
       "examples": [
         {
@@ -313,7 +313,7 @@
       ]
     },
     {
-      "title": "Karagdagang Pagsasanay 9 (Advanced)",
+      "title": "Karagdagang Pagsasanay 9",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
       "examples": [
         {
@@ -327,7 +327,7 @@
       ]
     },
     {
-      "title": "Karagdagang Pagsasanay 10 (Advanced)",
+      "title": "Karagdagang Pagsasanay 10",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 4.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 4.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
       "examples": [
         {
@@ -341,7 +341,7 @@
       ]
     },
     {
-      "title": "Buod ng Ikaapat na Linggo (Advanced)",
+      "title": "Buod ng Ikaapat na Linggo",
       "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed all the slides for this week.\n\">Binabati kita! Natapos mo ang lahat ng slide sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We learned about wise and smart living inside our family homes.\n\">Natutunan natin ang matalinong pamumuhay sa ating tahanan.\n</span> <span class=\"fil-sentence\" data-translation=\"We discovered conserving leftover food and smart shopping yonder.\n\">Nalaman natin ang pagtitipid sa pagkain at pamimili doon.\n</span> <span class=\"fil-sentence\" data-translation=\"We recycled plastic bottles yonder to make plant pots.\n\">Nag-recycle tayo ng plastik na bote upang gawing paso.",
       "examples": [
         {

@@ -3943,11 +3943,11 @@
       "color": "#3b82f6",
       "icon": "🔢",
       "title": "Mathematics",
-      "subtitle": "Week 3: Parallel, Perpendicular, & Intersecting Lines [Advanced]",
+      "subtitle": "Week 3: Parallel, Perpendicular, & Intersecting Lines",
       "slides": [
         {
-          "title": "Introduction to Lines in Geometry (Advanced)",
-          "text": "In geometry, a line is a straight path that extends infinitely in both directions without ending.\nWe represent lines with arrows on both ends.\nToday, we will study how lines relate to each other when they are on the same flat surface.\nFor instance, consider the example of Line vs Line Segment:\nA line segment has two fixed endpoints (like a ruler's edge), while a line extends forever in both directions.\nAnother case is the study of Naming Lines:\nWe name a line using two points on it, like line AB, or with a single lowercase letter, like line l.\nHow does the concept of Introduction to Lines in Geometry (Advanced) help us think critically?",
+          "title": "Introduction to Lines in Geometry",
+          "text": "In geometry, a line is a straight path that extends infinitely in both directions without ending.\nWe represent lines with arrows on both ends.\nToday, we will study how lines relate to each other when they are on the same flat surface.\nFor instance, consider the example of Line vs Line Segment:\nA line segment has two fixed endpoints (like a ruler's edge), while a line extends forever in both directions.\nAnother case is the study of Naming Lines:\nWe name a line using two points on it, like line AB, or with a single lowercase letter, like line l.\nHow does the concept of Introduction to Lines in Geometry help us think critically?",
           "examples": [
             {
               "title": "Line vs Line Segment",
@@ -3960,8 +3960,8 @@
           ]
         },
         {
-          "title": "What are Parallel Lines? (Advanced)",
-          "text": "Parallel lines are lines on the same flat surface that are always the same distance apart (equidistant) and never meet or cross each other, no matter how far they extend.\nThis slide introduces key insights about What are Parallel Lines? (Advanced).\nFor instance, consider the example of Railway Tracks:\nThe two rails of a straight train track are parallel. They must never cross, or the train would derail.\nAnother case is the study of Lined Paper:\nThe horizontal blue lines on your writing notebook are parallel lines.\nHow does the concept of What are Parallel Lines? (Advanced) help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+          "title": "What are Parallel Lines?",
+          "text": "Parallel lines are lines on the same flat surface that are always the same distance apart (equidistant) and never meet or cross each other, no matter how far they extend.\nThis slide introduces key insights about What are Parallel Lines?.\nFor instance, consider the example of Railway Tracks:\nThe two rails of a straight train track are parallel. They must never cross, or the train would derail.\nAnother case is the study of Lined Paper:\nThe horizontal blue lines on your writing notebook are parallel lines.\nHow does the concept of What are Parallel Lines? help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
               "title": "Railway Tracks",
@@ -3974,8 +3974,8 @@
           ]
         },
         {
-          "title": "Identifying Parallel Lines (Advanced)",
-          "text": "We use the symbol || to show that two lines are parallel.\nFor example, if line AB is parallel to line CD, we write AB || CD.\nThey will never intersect.\nFor instance, consider the example of Opposite Edges:\nThe top and bottom edges of a rectangular blackboard or tablet screen are parallel.\nAnother case is the study of Window Grids:\nVertical bars in a window grid are parallel to each other to form a protective cage.\nHow does the concept of Identifying Parallel Lines (Advanced) help us think critically?",
+          "title": "Identifying Parallel Lines",
+          "text": "We use the symbol || to show that two lines are parallel.\nFor example, if line AB is parallel to line CD, we write AB || CD.\nThey will never intersect.\nFor instance, consider the example of Opposite Edges:\nThe top and bottom edges of a rectangular blackboard or tablet screen are parallel.\nAnother case is the study of Window Grids:\nVertical bars in a window grid are parallel to each other to form a protective cage.\nHow does the concept of Identifying Parallel Lines help us think critically?",
           "examples": [
             {
               "title": "Opposite Edges",
@@ -3988,8 +3988,8 @@
           ]
         },
         {
-          "title": "What are Intersecting Lines? (Advanced)",
-          "text": "Intersecting lines are lines that cross each other at exactly one point.\nThe point where they cross is called the point of intersection.\nWhen they cross, they form angles.\nFor instance, consider the example of Crossroads:\nA street intersection where two roads cross each other represents intersecting lines.\nAnother case is the study of Opened Scissors:\nThe two blades of an opened pair of scissors form intersecting lines crossing at the central pivot screw.\nHow does the concept of What are Intersecting Lines? (Advanced) help us think critically?",
+          "title": "What are Intersecting Lines?",
+          "text": "Intersecting lines are lines that cross each other at exactly one point.\nThe point where they cross is called the point of intersection.\nWhen they cross, they form angles.\nFor instance, consider the example of Crossroads:\nA street intersection where two roads cross each other represents intersecting lines.\nAnother case is the study of Opened Scissors:\nThe two blades of an opened pair of scissors form intersecting lines crossing at the central pivot screw.\nHow does the concept of What are Intersecting Lines? help us think critically?",
           "examples": [
             {
               "title": "Crossroads",
@@ -4002,8 +4002,8 @@
           ]
         },
         {
-          "title": "What are Perpendicular Lines? (Advanced)",
-          "text": "Perpendicular lines are a special type of intersecting lines that cross each other to form exactly four right angles (90 degrees).\nThe symbol for perpendicular is ⊥.\nFor instance, consider the example of Perfect Cross:\nA plus sign (+) or a letter 'T' forms perpendicular lines. The angles formed are exactly 90°.\nAnother case is the study of Wall and Floor:\nA vertical wall meets the flat floor perpendicularly to ensure the building is stable.\nHow does the concept of What are Perpendicular Lines? (Advanced) help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+          "title": "What are Perpendicular Lines?",
+          "text": "Perpendicular lines are a special type of intersecting lines that cross each other to form exactly four right angles (90 degrees).\nThe symbol for perpendicular is ⊥.\nFor instance, consider the example of Perfect Cross:\nA plus sign (+) or a letter 'T' forms perpendicular lines. The angles formed are exactly 90°.\nAnother case is the study of Wall and Floor:\nA vertical wall meets the flat floor perpendicularly to ensure the building is stable.\nHow does the concept of What are Perpendicular Lines? help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
               "title": "Perfect Cross",
@@ -4016,8 +4016,8 @@
           ]
         },
         {
-          "title": "Identifying Perpendicular Lines (Advanced)",
-          "text": "If line AB is perpendicular to line CD, we write AB ⊥ CD.\nYou can verify this by placing a protractor or the corner of a sheet of paper at the intersection to see if it fits perfectly.\nFor instance, consider the example of Corner Check:\nThe corner of your textbook is formed by two perpendicular lines meeting at a 90° angle.\nAnother case is the study of Crossroad Corners:\nA grid-style street layout has roads intersecting perpendicularly, creating 90-degree corners.\nHow does the concept of Identifying Perpendicular Lines (Advanced) help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+          "title": "Identifying Perpendicular Lines",
+          "text": "If line AB is perpendicular to line CD, we write AB ⊥ CD.\nYou can verify this by placing a protractor or the corner of a sheet of paper at the intersection to see if it fits perfectly.\nFor instance, consider the example of Corner Check:\nThe corner of your textbook is formed by two perpendicular lines meeting at a 90° angle.\nAnother case is the study of Crossroad Corners:\nA grid-style street layout has roads intersecting perpendicularly, creating 90-degree corners.\nHow does the concept of Identifying Perpendicular Lines help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
               "title": "Corner Check",
@@ -4030,8 +4030,8 @@
           ]
         },
         {
-          "title": "Lines in the Real World (Advanced)",
-          "text": "Architects, engineers, and designers use parallel, perpendicular, and intersecting lines to create houses, bridges, and beautiful artworks.\nLook around and find these lines!.\nFor instance, consider the example of Eiffel Tower:\nThe Eiffel Tower contains intersecting support beams and parallel vertical columns.\nAnother case is the study of Bridges:\nSuspension bridges use parallel vertical cables and perpendicular steel trusses.\nHow does the concept of Lines in the Real World (Advanced) help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+          "title": "Lines in the Real World",
+          "text": "Architects, engineers, and designers use parallel, perpendicular, and intersecting lines to create houses, bridges, and beautiful artworks.\nLook around and find these lines!.\nFor instance, consider the example of Eiffel Tower:\nThe Eiffel Tower contains intersecting support beams and parallel vertical columns.\nAnother case is the study of Bridges:\nSuspension bridges use parallel vertical cables and perpendicular steel trusses.\nHow does the concept of Lines in the Real World help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
               "title": "Eiffel Tower",
@@ -4044,8 +4044,8 @@
           ]
         },
         {
-          "title": "Drawing Geometric Lines (Advanced)",
-          "text": "To draw parallel or perpendicular lines, we use a ruler (straightedge) and a set square (triangle ruler).\nA set square helps us align a perfect 90-degree angle.\nFor instance, consider the example of Drawing Parallel Lines:\nSlide a ruler along a fixed edge to draw two lines that maintain the same distance.\nAnother case is the study of Drawing Perpendiculars:\nPlace the 90° corner of a set square against a line, then draw along the vertical edge.\nHow does the concept of Drawing Geometric Lines (Advanced) help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+          "title": "Drawing Geometric Lines",
+          "text": "To draw parallel or perpendicular lines, we use a ruler (straightedge) and a set square (triangle ruler).\nA set square helps us align a perfect 90-degree angle.\nFor instance, consider the example of Drawing Parallel Lines:\nSlide a ruler along a fixed edge to draw two lines that maintain the same distance.\nAnother case is the study of Drawing Perpendiculars:\nPlace the 90° corner of a set square against a line, then draw along the vertical edge.\nHow does the concept of Drawing Geometric Lines help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
               "title": "Drawing Parallel Lines",
@@ -4218,8 +4218,8 @@
           ]
         },
         {
-          "title": "Summary: Geometric Lines (Advanced)",
-          "text": "Superb! You have mastered lines in geometry: Parallel lines (||, never meet), Intersecting lines (cross at a point), and Perpendicular lines (⊥, cross at exactly 90 degrees).\nThese concepts are the foundation of shape study and drafting.\nFor instance, consider the example of Key Symbols:\n|| means Parallel. ⊥ means Perpendicular. Vertex: Intersection point.\nAnother case is the study of Daily Practice:\nScan your room today: count 5 parallel lines and 5 perpendicular lines in your furniture!\nHow does the concept of Summary: Geometric Lines (Advanced) help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+          "title": "Summary: Geometric Lines",
+          "text": "Superb! You have mastered lines in geometry: Parallel lines (||, never meet), Intersecting lines (cross at a point), and Perpendicular lines (⊥, cross at exactly 90 degrees).\nThese concepts are the foundation of shape study and drafting.\nFor instance, consider the example of Key Symbols:\n|| means Parallel. ⊥ means Perpendicular. Vertex: Intersection point.\nAnother case is the study of Daily Practice:\nScan your room today: count 5 parallel lines and 5 perpendicular lines in your furniture!\nHow does the concept of Summary: Geometric Lines help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
               "title": "Key Symbols",
@@ -4572,10 +4572,10 @@
       "color": "#10b981",
       "icon": "🔬",
       "title": "Science",
-      "subtitle": "Week 3: Science Tools and Materials [Advanced]",
+      "subtitle": "Week 3: Science Tools and Materials",
       "slides": [
         {
-          "title": "Advanced Instrumentation (Advanced)",
+          "title": "Advanced Instrumentation",
           "text": "Scientific research relies on high-precision instruments that extend human senses and reduce measurement error.\nThis slide introduces key insights about Advanced Instrumentation.\nFor instance, consider the example of Calibration:\nComparing instrument readouts against a known standard to adjust accuracy.\nAnother case is the study of Precision:\nThe repeatability of measurements under unchanged conditions.\nHow does the concept of Advanced Instrumentation help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4589,7 +4589,7 @@
           ]
         },
         {
-          "title": "Advanced Vocabulary (Advanced)",
+          "title": "Advanced Vocabulary",
           "text": "Terms of precision measurement: Graduated cylinder, Triple beam balance, Calipers, and Meniscus.\nThis slide introduces key insights about Advanced Vocabulary.\nFor instance, consider the example of Graduated cylinder:\nA narrow container with accurate marks used to measure fluid volumes.\nAnother case is the study of Meniscus:\nThe curve at the upper surface of a liquid in a tube.\nHow does the concept of Advanced Vocabulary help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4603,7 +4603,7 @@
           ]
         },
         {
-          "title": "Instrument Selection Strategy (Advanced)",
+          "title": "Instrument Selection Strategy",
           "text": "Selecting tools requires matching the scale and physical properties of the subject with the resolution of the instrument.\nThis slide introduces key insights about Instrument Selection Strategy.\nFor instance, consider the example of Resolution:\nThe smallest increment of change that can be detected by a tool.\nAnother case is the study of Tolerance:\nThe allowable limit of variation in a physical measurement.\nHow does the concept of Instrument Selection Strategy help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4617,7 +4617,7 @@
           ]
         },
         {
-          "title": "Advanced Tool: Vernier Calipers (Advanced)",
+          "title": "Advanced Tool: Vernier Calipers",
           "text": "Vernier calipers measure internal, external, and depth dimensions with sub-millimeter precision.\nThis slide introduces key insights about Advanced Tool: Vernier Calipers.\nFor instance, consider the example of External Jaws:\nMeasuring the diameter of a clay sphere.\nAnother case is the study of Vernier Scale:\nReading the fractional division of a millimeter for high accuracy.\nHow does the concept of Advanced Tool: Vernier Calipers help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4631,7 +4631,7 @@
           ]
         },
         {
-          "title": "Advanced Tool: Microscope (Advanced)",
+          "title": "Advanced Tool: Microscope",
           "text": "Microscopes use compound lenses and light refraction to magnify objects up to 1000 times their size.\nThis slide introduces key insights about Advanced Tool: Microscope.\nFor instance, consider the example of Coarse Adjustment:\nFocusing the specimen under low magnification power.\nAnother case is the study of Fine Adjustment:\nSharpening the focus detail under high magnification power.\nHow does the concept of Advanced Tool: Microscope help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4645,7 +4645,7 @@
           ]
         },
         {
-          "title": "Advanced Tool: Spring Scale (Advanced)",
+          "title": "Advanced Tool: Spring Scale",
           "text": "Spring scales measure force or weight in Newtons by stretching a calibrated internal spring.\nThis slide introduces key insights about Advanced Tool: Spring Scale.\nFor instance, consider the example of Force Measurement:\nMeasuring the pull force needed to drag a block on cardboard.\nAnother case is the study of Gravity Impact:\nShows the downward gravitational force acting on a mass.\nHow does the concept of Advanced Tool: Spring Scale help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4659,7 +4659,7 @@
           ]
         },
         {
-          "title": "Advanced Tool: Graduated Cylinder (Advanced)",
+          "title": "Advanced Tool: Graduated Cylinder",
           "text": "Graduated cylinders provide much higher liquid volume accuracy than standard beakers or cups.\nThis slide introduces key insights about Advanced Tool: Graduated Cylinder.\nFor instance, consider the example of Material:\nOften made of chemical resistant polypropylene or glass.\nAnother case is the study of Meniscus Reading:\nAlways read at the lowest point of the concave water surface.\nHow does the concept of Advanced Tool: Graduated Cylinder help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4673,7 +4673,7 @@
           ]
         },
         {
-          "title": "Advanced Tool: Digital Balance (Advanced)",
+          "title": "Advanced Tool: Digital Balance",
           "text": "Digital scales measure mass with high precision by converting force into digital electrical signals.\nThis slide introduces key insights about Advanced Tool: Digital Balance.\nFor instance, consider the example of Tare Function:\nResetting the scale to zero with a container on it to weigh only contents.\nAnother case is the study of Units:\nReads mass in grams, ounces, or grains.\nHow does the concept of Advanced Tool: Digital Balance help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4687,7 +4687,7 @@
           ]
         },
         {
-          "title": "Advanced Tool: Bunsen Burner (Advanced)",
+          "title": "Advanced Tool: Bunsen Burner",
           "text": "Bunsen burners produce a single open gas flame used for heating, sterilization, and combustion tests.\nThis slide introduces key insights about Advanced Tool: Bunsen Burner.\nFor instance, consider the example of Air Control:\nAdjusting the collar to control oxygen mix for a clean blue flame.\nAnother case is the study of Safety Valve:\nQuick shut-off gas lines in case of flame blow-back.\nHow does the concept of Advanced Tool: Bunsen Burner help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4701,7 +4701,7 @@
           ]
         },
         {
-          "title": "Advanced Tool: PH Meter (Advanced)",
+          "title": "Advanced Tool: PH Meter",
           "text": "PH meters measure the hydrogen-ion activity in water-based solutions, indicating acidity.\nThis slide introduces key insights about Advanced Tool: PH Meter.\nFor instance, consider the example of Probe Calibration:\nUsing buffer solutions (pH 4, 7, 10) to calibrate the probe.\nAnother case is the study of Resolution:\nReads values with 0.01 precision units.\nHow does the concept of Advanced Tool: PH Meter help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4715,7 +4715,7 @@
           ]
         },
         {
-          "title": "Advanced Tool: Anemometer (Advanced)",
+          "title": "Advanced Tool: Anemometer",
           "text": "Anemometers measure wind speed and direction, converting wind pressure into mechanical rotation.\nThis slide introduces key insights about Advanced Tool: Anemometer.\nFor instance, consider the example of Cups:\nThree or four spinning cups capture wind velocity.\nAnother case is the study of Digital Readout:\nDisplays speed in kilometers per hour or knots.\nHow does the concept of Advanced Tool: Anemometer help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4729,7 +4729,7 @@
           ]
         },
         {
-          "title": "Advanced Tool: Hydrometer (Advanced)",
+          "title": "Advanced Tool: Hydrometer",
           "text": "Hydrometers measure the relative density (specific gravity) of liquids based on buoyancy concepts.\nThis slide introduces key insights about Advanced Tool: Hydrometer.\nFor instance, consider the example of Floatation:\nFloats higher in dense liquids like saltwater, lower in pure water.\nAnother case is the study of Scale:\nReadings at the point where the liquid surface cuts the hydrometer stem.\nHow does the concept of Advanced Tool: Hydrometer help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4743,7 +4743,7 @@
           ]
         },
         {
-          "title": "Advanced Tool: Barometer (Advanced)",
+          "title": "Advanced Tool: Barometer",
           "text": "Barometers measure atmospheric pressure, which is critical for predicting incoming weather fronts.\nThis slide introduces key insights about Advanced Tool: Barometer.\nFor instance, consider the example of Mercury Barometer:\nMeasures the height of a mercury column supported by air pressure.\nAnother case is the study of Aneroid Barometer:\nUses a small, flexible metal box called an aneroid cell.\nHow does the concept of Advanced Tool: Barometer help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4757,7 +4757,7 @@
           ]
         },
         {
-          "title": "Advanced Tool: Spectrophotometer (Advanced)",
+          "title": "Advanced Tool: Spectrophotometer",
           "text": "Spectrophotometers measure light absorption of a chemical solution across wavelengths.\nThis slide introduces key insights about Advanced Tool: Spectrophotometer.\nFor instance, consider the example of Cuvette:\nA small square tube holding the liquid sample inside the machine.\nAnother case is the study of Absorbance:\nMore concentrated solutions absorb more light.\nHow does the concept of Advanced Tool: Spectrophotometer help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4771,7 +4771,7 @@
           ]
         },
         {
-          "title": "Advanced Tool: Sound Level Meter (Advanced)",
+          "title": "Advanced Tool: Sound Level Meter",
           "text": "Sound level meters measure sound pressure levels in decibels (dB), tracking acoustic noise.\nThis slide introduces key insights about Advanced Tool: Sound Level Meter.\nFor instance, consider the example of Microphone:\nConverts sound waves into electrical signals.\nAnother case is the study of Decibel Scale:\nA logarithmic scale representing sound intensity.\nHow does the concept of Advanced Tool: Sound Level Meter help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4785,7 +4785,7 @@
           ]
         },
         {
-          "title": "Advanced Tool: Crucible & Tong (Advanced)",
+          "title": "Advanced Tool: Crucible & Tong",
           "text": "Crucibles are ceramic pots that hold metals during high-temperature heating.\nThis slide introduces key insights about Advanced Tool: Crucible & Tong.\nFor instance, consider the example of Refractory Material:\nCan withstand temperatures over 1000 degrees Celsius without melting.\nAnother case is the study of Tong Safety:\nUsing metal pincers to transfer hot crucibles from furnace to cooling pad.\nHow does the concept of Advanced Tool: Crucible & Tong help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4799,7 +4799,7 @@
           ]
         },
         {
-          "title": "Advanced Tool: Pipette & Micropipette (Advanced)",
+          "title": "Advanced Tool: Pipette & Micropipette",
           "text": "Micropipettes transfer microscopic liquid volumes in microliters (uL) with absolute precision.\nThis slide introduces key insights about Advanced Tool: Pipette & Micropipette.\nFor instance, consider the example of Plunger Steps:\nFirst stop to draw liquid; second stop to blow out remaining drops.\nAnother case is the study of Disposable Tips:\nPlastic tips changed between samples to prevent contamination.\nHow does the concept of Advanced Tool: Pipette & Micropipette help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4813,7 +4813,7 @@
           ]
         },
         {
-          "title": "Advanced Tool: Stopwatch & Gate Timer (Advanced)",
+          "title": "Advanced Tool: Stopwatch & Gate Timer",
           "text": "Photocell gates measure speed accurately by recording the time an object blocks a light beam.\nThis slide introduces key insights about Advanced Tool: Stopwatch & Gate Timer.\nFor instance, consider the example of Photocell:\nLight sensor that triggers the clock start/stop instantly.\nAnother case is the study of Precision:\nMeasures time intervals in milliseconds, removing human reaction delay.\nHow does the concept of Advanced Tool: Stopwatch & Gate Timer help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4827,7 +4827,7 @@
           ]
         },
         {
-          "title": "Guided Practice: Calibration Protocols (Advanced)",
+          "title": "Guided Practice: Calibration Protocols",
           "text": "Understanding how to calibrate a digital scale and a pH probe.\nThis slide introduces key insights about Guided Practice: Calibration Protocols.\nFor instance, consider the example of Digital Scale:\nPlace a certified 100g weight and select calibrate mode.\nAnother case is the study of pH Calibration:\nDip probe in neutral buffer, select calibrate, then wash with distilled water.\nHow does the concept of Guided Practice: Calibration Protocols help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4841,7 +4841,7 @@
           ]
         },
         {
-          "title": "Guided Practice: Reading Meniscus (Advanced)",
+          "title": "Guided Practice: Reading Meniscus",
           "text": "Reading volume markings on a graduated cylinder.\nThis slide introduces key insights about Guided Practice: Reading Meniscus.\nFor instance, consider the example of Concave Meniscus:\nWater curves up the sides of glass; read the flat bottom of the curve.\nAnother case is the study of Convex Meniscus:\nMercury curves down; read the top of the curve.\nHow does the concept of Guided Practice: Reading Meniscus help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4855,7 +4855,7 @@
           ]
         },
         {
-          "title": "Guided Practice: Force Calibration (Advanced)",
+          "title": "Guided Practice: Force Calibration",
           "text": "Using a spring scale to measure mechanical drag.\nThis slide introduces key insights about Guided Practice: Force Calibration.\nFor instance, consider the example of Zeroing:\nHold scale vertically with nothing attached and adjust screw to 0.\nAnother case is the study of Measurement:\nRead force units in Newtons while dragging a block slowly.\nHow does the concept of Guided Practice: Force Calibration help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4869,7 +4869,7 @@
           ]
         },
         {
-          "title": "Guided Practice: Microscopic View (Advanced)",
+          "title": "Guided Practice: Microscopic View",
           "text": "Calculating total magnification of a compound microscope.\nThis slide introduces key insights about Guided Practice: Microscopic View.\nFor instance, consider the example of Eyepiece Magnification:\nStandard eyepiece is 10x magnification.\nAnother case is the study of Objective Lens:\nUsing a 40x objective lens yields a total magnification of 400x.\nHow does the concept of Guided Practice: Microscopic View help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4883,7 +4883,7 @@
           ]
         },
         {
-          "title": "Common Error: Parallax Error (Advanced)",
+          "title": "Common Error: Parallax Error",
           "text": "Parallax error happens when you read markings from an angle instead of eye level.\nThis slide introduces key insights about Common Error: Parallax Error.\nFor instance, consider the example of Incorrect:\nLooking down at a thermometer creates a false higher reading.\nAnother case is the study of Correct:\nPosition your eyes exactly level with the fluid surface.\nHow does the concept of Common Error: Parallax Error help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4897,7 +4897,7 @@
           ]
         },
         {
-          "title": "Common Error: Taring Neglect (Advanced)",
+          "title": "Common Error: Taring Neglect",
           "text": "Neglecting to tare a scale results in the container's weight being added to the mass.\nThis slide introduces key insights about Common Error: Taring Neglect.\nFor instance, consider the example of Incorrect:\nWeighing 10g of salt inside a 50g beaker and recording 60g.\nAnother case is the study of Correct:\nPlacing the beaker, pressing 'Tare' (zeroing), then adding salt for a 10g reading.\nHow does the concept of Common Error: Taring Neglect help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4911,7 +4911,7 @@
           ]
         },
         {
-          "title": "Summary of Week 3 Advanced (Advanced)",
+          "title": "Summary of Week 3 Advanced",
           "text": "You completed Week 3 Advanced! You now understand precision calibration and advanced tools.\nThis slide introduces key insights about Summary of Week 3 Advanced.\nFor instance, consider the example of Key Takeaway:\nAdvanced science requires reducing human and tool errors through systematic protocols.\nAnother case is the study of Next Step:\nAdvance to Week 4 to master science process skills like data classification and communication.\nHow does the concept of Summary of Week 3 Advanced help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -5277,11 +5277,11 @@
       "color": "#3b82f6",
       "icon": "🙋‍♂️",
       "title": "English",
-      "subtitle": "Week 3: Collective Nouns & Final Consonant Blends [Advanced]",
+      "subtitle": "Week 3: Collective Nouns & Final Consonant Blends",
       "slides": [
         {
-          "title": "What are Collective Nouns? (Advanced)",
-          "text": "A collective noun is a word that names a group of people, animals, or things as a single unit or entity.\nEven though the group has many members, we treat the noun as a single thing.\nFor instance, consider the example of For People:\nA 'class' of students, a 'team' of players, an 'audience' of listeners.\nAnother case is the study of For Animals:\nA 'flock' of birds, a 'herd' of cows, a 'school' of fish, a 'pack' of wolves.\nHow does the concept of What are Collective Nouns? (Advanced) help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+          "title": "What are Collective Nouns?",
+          "text": "A collective noun is a word that names a group of people, animals, or things as a single unit or entity.\nEven though the group has many members, we treat the noun as a single thing.\nFor instance, consider the example of For People:\nA 'class' of students, a 'team' of players, an 'audience' of listeners.\nAnother case is the study of For Animals:\nA 'flock' of birds, a 'herd' of cows, a 'school' of fish, a 'pack' of wolves.\nHow does the concept of What are Collective Nouns? help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
               "title": "For People",
@@ -5294,8 +5294,8 @@
           ]
         },
         {
-          "title": "Collective Nouns for Things (Advanced)",
-          "text": "We also use specific collective nouns to group inanimate objects together.\nUsing the correct collective noun makes your English descriptive and precise.\nFor instance, consider the example of Everyday Objects:\nA 'bunch' of keys, a 'set' of tools, a 'pack' of cards, a 'fleet' of ships.\nAnother case is the study of In a Sentence:\nMatteo found a 'bunch' of bananas on the kitchen counter.\nHow does the concept of Collective Nouns for Things (Advanced) help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+          "title": "Collective Nouns for Things",
+          "text": "We also use specific collective nouns to group inanimate objects together.\nUsing the correct collective noun makes your English descriptive and precise.\nFor instance, consider the example of Everyday Objects:\nA 'bunch' of keys, a 'set' of tools, a 'pack' of cards, a 'fleet' of ships.\nAnother case is the study of In a Sentence:\nMatteo found a 'bunch' of bananas on the kitchen counter.\nHow does the concept of Collective Nouns for Things help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
               "title": "Everyday Objects",
@@ -5308,8 +5308,8 @@
           ]
         },
         {
-          "title": "Agreement Rules: Singular vs. Plural (Advanced)",
-          "text": "Most of the time, collective nouns take singular verbs because we view the group acting together as one unit.\nHowever, if the members are acting individually, we can use a plural verb.\nFor instance, consider the example of Singular Verb (Together):\nThe team 'is' playing well. (The group acts together -> Singular)\nAnother case is the study of Plural Verb (Individuals):\nThe family 'are' arguing about their dinner plans. (Members act separately -> Plural)\nHow does the concept of Agreement Rules: Singular vs. Plural (Advanced) help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+          "title": "Agreement Rules: Singular vs. Plural",
+          "text": "Most of the time, collective nouns take singular verbs because we view the group acting together as one unit.\nHowever, if the members are acting individually, we can use a plural verb.\nFor instance, consider the example of Singular Verb (Together):\nThe team 'is' playing well. (The group acts together -> Singular)\nAnother case is the study of Plural Verb (Individuals):\nThe family 'are' arguing about their dinner plans. (Members act separately -> Plural)\nHow does the concept of Agreement Rules: Singular vs. Plural help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
               "title": "Singular Verb (Together)",
@@ -5322,8 +5322,8 @@
           ]
         },
         {
-          "title": "What are Final Consonant Blends? (Advanced)",
-          "text": "A final consonant blend is when two consonant letters sit at the end of a word, and both consonant sounds are pronounced smoothly together.\nLet's practice hearing and spelling these endings.\nFor instance, consider the example of The -st Blend:\n/s/ and /t/ blend to make /st/ as in 'nest', 'fast', or 'vest'.\nAnother case is the study of The -nd Blend:\n/n/ and /d/ blend to make /nd/ as in 'hand', 'sand', or 'pond'.\nHow does the concept of What are Final Consonant Blends? (Advanced) help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+          "title": "What are Final Consonant Blends?",
+          "text": "A final consonant blend is when two consonant letters sit at the end of a word, and both consonant sounds are pronounced smoothly together.\nLet's practice hearing and spelling these endings.\nFor instance, consider the example of The -st Blend:\n/s/ and /t/ blend to make /st/ as in 'nest', 'fast', or 'vest'.\nAnother case is the study of The -nd Blend:\n/n/ and /d/ blend to make /nd/ as in 'hand', 'sand', or 'pond'.\nHow does the concept of What are Final Consonant Blends? help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
               "title": "The -st Blend",
@@ -5336,8 +5336,8 @@
           ]
         },
         {
-          "title": "Common Final Blends: -nd and -mp (Advanced)",
-          "text": "Practice saying and spelling: -nd (wind, send, land, mind) and -mp (camp, jump, lamp, stamp).\nListen carefully to make sure you hear both ending sounds.\nFor instance, consider the example of -nd Sentences:\nMatteo played on the wet 'sand' near the 'pond'.\nAnother case is the study of -mp Sentences:\nTurn off the 'lamp' before you 'jump' into bed.\nHow does the concept of Common Final Blends: -nd and -mp (Advanced) help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+          "title": "Common Final Blends: -nd and -mp",
+          "text": "Practice saying and spelling: -nd (wind, send, land, mind) and -mp (camp, jump, lamp, stamp).\nListen carefully to make sure you hear both ending sounds.\nFor instance, consider the example of -nd Sentences:\nMatteo played on the wet 'sand' near the 'pond'.\nAnother case is the study of -mp Sentences:\nTurn off the 'lamp' before you 'jump' into bed.\nHow does the concept of Common Final Blends: -nd and -mp help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
               "title": "-nd Sentences",
@@ -5350,8 +5350,8 @@
           ]
         },
         {
-          "title": "Common Final Blends: -st and -ft (Advanced)",
-          "text": "Practice saying: -st (dust, last, post, best) and -ft (gift, lift, soft, draft).\nS-blends and T-blends are very sharp at the end of words.\nFor instance, consider the example of -st Sentences:\nShe was the 'last' student to finish the reading 'test'.\nAnother case is the study of -ft Sentences:\nHe gave his mother a lovely 'gift' wrapped in 'soft' paper.\nHow does the concept of Common Final Blends: -st and -ft (Advanced) help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+          "title": "Common Final Blends: -st and -ft",
+          "text": "Practice saying: -st (dust, last, post, best) and -ft (gift, lift, soft, draft).\nS-blends and T-blends are very sharp at the end of words.\nFor instance, consider the example of -st Sentences:\nShe was the 'last' student to finish the reading 'test'.\nAnother case is the study of -ft Sentences:\nHe gave his mother a lovely 'gift' wrapped in 'soft' paper.\nHow does the concept of Common Final Blends: -st and -ft help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
               "title": "-st Sentences",
@@ -5364,8 +5364,8 @@
           ]
         },
         {
-          "title": "Common Final Blends: -lk and -lt (Advanced)",
-          "text": "Practice saying: -lk (milk, walk, talk) and -lt (belt, melt, salt).\nThese blends contain the letter 'l' and have a soft, flowing sound followed by a sharp ending.\nFor instance, consider the example of -lk Sentences:\nDrink a glass of cold 'milk' every morning.\nAnother case is the study of -lt Sentences:\nThe ice will 'melt' quickly in the hot sun.\nHow does the concept of Common Final Blends: -lk and -lt (Advanced) help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+          "title": "Common Final Blends: -lk and -lt",
+          "text": "Practice saying: -lk (milk, walk, talk) and -lt (belt, melt, salt).\nThese blends contain the letter 'l' and have a soft, flowing sound followed by a sharp ending.\nFor instance, consider the example of -lk Sentences:\nDrink a glass of cold 'milk' every morning.\nAnother case is the study of -lt Sentences:\nThe ice will 'melt' quickly in the hot sun.\nHow does the concept of Common Final Blends: -lk and -lt help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
               "title": "-lk Sentences",
@@ -5378,7 +5378,7 @@
           ]
         },
         {
-          "title": "Analyzing Text: Cause & Effect (Advanced)",
+          "title": "Analyzing Text: Cause & Effect",
           "text": "Informational texts often show Cause and Effect.\nThe Cause is *why* something happens (the reason).\nThe Effect is *what* happens (the result).\nLook for clue words like: because, so, since, as a result.\nFor instance, consider the example of Identifying Cause:\nBecause the sun was hot, the ice cream melted. Cause: Sun was hot.\nAnother case is the study of Identifying Effect:\nBecause the sun was hot, the ice cream melted. Effect: Ice cream melted.",
           "examples": [
             {
@@ -5552,8 +5552,8 @@
           ]
         },
         {
-          "title": "Summary: Collectives & Final Blends (Advanced)",
-          "text": "Wonderful! You have learned collective nouns for groups, verb agreement rules, final consonant blends (-nd, -mp, -st, -ft, -lk, -lt), and how to identify cause and effect in informational texts.\nThis slide introduces key insights about Summary: Collectives & Final Blends (Advanced).\nFor instance, consider the example of Key Grammar:\nCollective: group as one (flock, class). Final blends: end of word. Cause: why. Effect: what.\nAnother case is the study of Daily English:\nPractice: Find 3 collective nouns in your house today and use them in full sentences!\nHow does the concept of Summary: Collectives & Final Blends (Advanced) help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
+          "title": "Summary: Collectives & Final Blends",
+          "text": "Wonderful! You have learned collective nouns for groups, verb agreement rules, final consonant blends (-nd, -mp, -st, -ft, -lk, -lt), and how to identify cause and effect in informational texts.\nThis slide introduces key insights about Summary: Collectives & Final Blends.\nFor instance, consider the example of Key Grammar:\nCollective: group as one (flock, class). Final blends: end of word. Cause: why. Effect: what.\nAnother case is the study of Daily English:\nPractice: Find 3 collective nouns in your house today and use them in full sentences!\nHow does the concept of Summary: Collectives & Final Blends help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
               "title": "Key Grammar",
@@ -5906,10 +5906,10 @@
       "color": "#ef4444",
       "icon": "🇵🇭",
       "title": "Filipino",
-      "subtitle": "Week 3: Panghalip Panao at Elemento ng Kwento [Advanced]",
+      "subtitle": "Week 3: Panghalip Panao at Elemento ng Kwento",
       "slides": [
         {
-          "title": "Ano ang Panghalip Panao? (Advanced)",
+          "title": "Ano ang Panghalip Panao?",
           "text": "<span class=\"fil-sentence\" data-translation=\"Personal pronouns (panghalip panao) are words used to replace names of people.\nThey make our sentences shorter and prevent repeating names.\n\">Ang panghalip panao ay mga salitang humahalili o pumapalit sa ngalan ng tao.\nGinagamit ito upang hindi paulit-ulit ang pagbanggit sa pangalan.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Halimbawa 1:\">Halimbawa, tingnan natin ang tungkol sa Halimbawa 1:</span>\n<span class=\"fil-sentence\" data-translation=\"Si Ana ay masipag. Siya ay naglilinis. ('Siya' replaced 'Ana')\">Si Ana ay masipag na bata. Siya ay palaging naglilinis ng bahay.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Halimbawa 2:\">Ang isa pang kaso ay ang pag-aaral ng Halimbawa 2:</span>",
           "examples": [
             {
@@ -5923,8 +5923,8 @@
           ]
         },
         {
-          "title": "Tatlong Panauhan ng Panghalip Panao (Advanced)",
-          "text": "<span class=\"fil-sentence\" data-translation=\"Personal pronouns have three persons: First Person (speaker - ako, kami), Second Person (listener - ikaw, kayo), and Third Person (person spoken about - siya, sila).\n\">Ang panghalip panao ay may tatlong panauhan batay sa taong nagsasalita, kinakausap, o pinag-uusapan: Una, Ikalawa, at Ikatlo.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Unang Panauhan (Speaker):\">Halimbawa, tingnan natin ang tungkol sa Unang Panauhan (Speaker):</span>\n<span class=\"fil-sentence\" data-translation=\"Ako ay nag-aaral ng aking leksyon. (I am studying)\">Ako ay nag-aaral ng aking leksyon tuwing hapon.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Ikalawang Panauhan (Listener):\">Ang isa pang kaso ay ang pag-aaral ng Ikalawang Panauhan (Listener):</span>\n<span class=\"fil-sentence\" data-translation=\"Ikaw ba ang kumuha ng aklat ko? (Are you the one?)\">Ikaw ba ang kumuha ng aklat ko sa lamesa?</span>\n<span class=\"fil-sentence\" data-translation=\"How does the concept of Tatlong Panauhan ng Panghalip Panao (Advanced) help us think critically?\">Paano nakakatulong ang konsepto ng Tatlong Panauhan ng Panghalip Panao (Advanced) sa ating kritikal na pag-iisip?</span>",
+          "title": "Tatlong Panauhan ng Panghalip Panao",
+          "text": "<span class=\"fil-sentence\" data-translation=\"Personal pronouns have three persons: First Person (speaker - ako, kami), Second Person (listener - ikaw, kayo), and Third Person (person spoken about - siya, sila).\n\">Ang panghalip panao ay may tatlong panauhan batay sa taong nagsasalita, kinakausap, o pinag-uusapan: Una, Ikalawa, at Ikatlo.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Unang Panauhan (Speaker):\">Halimbawa, tingnan natin ang tungkol sa Unang Panauhan (Speaker):</span>\n<span class=\"fil-sentence\" data-translation=\"Ako ay nag-aaral ng aking leksyon. (I am studying)\">Ako ay nag-aaral ng aking leksyon tuwing hapon.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Ikalawang Panauhan (Listener):\">Ang isa pang kaso ay ang pag-aaral ng Ikalawang Panauhan (Listener):</span>\n<span class=\"fil-sentence\" data-translation=\"Ikaw ba ang kumuha ng aklat ko? (Are you the one?)\">Ikaw ba ang kumuha ng aklat ko sa lamesa?</span>\n<span class=\"fil-sentence\" data-translation=\"How does the concept of Tatlong Panauhan ng Panghalip Panao help us think critically?\">Paano nakakatulong ang konsepto ng Tatlong Panauhan ng Panghalip Panao sa ating kritikal na pag-iisip?</span>",
           "examples": [
             {
               "title": "Unang Panauhan (Speaker)",
@@ -5937,7 +5937,7 @@
           ]
         },
         {
-          "title": "Kailanan ng Panghalip Panao: Isahan (Advanced)",
+          "title": "Kailanan ng Panghalip Panao: Isahan",
           "text": "<span class=\"fil-sentence\" data-translation=\"Singular personal pronouns refer to exactly one person: ako (I), ikaw/ka (you), and siya (he/she).\n\">Ang isahang kailanan ng panghalip panao ay tumutukoy sa iisang tao lamang.\nIto ay ang 'ako', 'ikaw' (o 'ka'), at 'siya'.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Gamit ang 'siya':\">Halimbawa, tingnan natin ang tungkol sa Gamit ang 'siya':</span>\n<span class=\"fil-sentence\" data-translation=\"Siya ang nagbigay sa akin ng kendi kahapon. (She gave it)\">Siya ang nagbigay sa akin ng kendi kahapon sa klase.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Gamit ang 'ka':\">Ang isa pang kaso ay ang pag-aaral ng Gamit ang 'ka':</span>\n<span class=\"fil-sentence\" data-translation=\"Kumain ka na ba ng tanghalian? (Have you eaten?)\">Kumain ka na ba ng masustansyang tanghalian ngayon?</span>",
           "examples": [
             {
@@ -5951,7 +5951,7 @@
           ]
         },
         {
-          "title": "Kailanan ng Panghalip Panao: Maramihan (Advanced)",
+          "title": "Kailanan ng Panghalip Panao: Maramihan",
           "text": "<span class=\"fil-sentence\" data-translation=\"Plural personal pronouns refer to multiple people: kami (we - excluding listener), tayo (we - including listener), kayo (you - plural), and sila (they).\n\">Ang maramihang kailanan ay tumutukoy sa dalawa o higit pang tao.\nIto ay ang 'kami', 'tayo', 'kayo', at 'sila'.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Kami vs Tayo:\">Halimbawa, tingnan natin ang tungkol sa Kami vs Tayo:</span>\n<span class=\"fil-sentence\" data-translation=\"'Kami' excludes the person being spoken to, while 'tayo' includes everyone.\">Kami ay mamamasyal (hindi kasama ang kausap). Tayo ay magdasal (kasama ang lahat).</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Gamit ang 'sila':\">Ang isa pang kaso ay ang pag-aaral ng Gamit ang 'sila':</span>\n<span class=\"fil-sentence\" data-translation=\"Sila ay nagtatanim ng mga gulay sa likod-bahay. (They are planting)\">Sila ay nagtatanim ng mga gulay sa likod-bahay ni Lolo Juan.</span>",
           "examples": [
             {
@@ -5965,7 +5965,7 @@
           ]
         },
         {
-          "title": "Malalim na Pagsusuri ng Banghay ng Kwento (Advanced)",
+          "title": "Malalim na Pagsusuri ng Banghay ng Kwento",
           "text": "<span class=\"fil-sentence\" data-translation=\"The plot (banghay) is the backbone of the story.\nIn advanced reading, we identify the Conflict (Tunggalian) and the Climax (Kasukdulan) where the story is most exciting.\n\">Ang banghay ay may mga tiyak na bahagi: Simula, Tunggalian (suliranin), Kasukdulan (pinakamasidhing bahagi), Kakalasan (pababang aksyon), at Wakas.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Tunggalian (Conflict):\">Halimbawa, tingnan natin ang tungkol sa Tunggalian (Conflict):</span>\n<span class=\"fil-sentence\" data-translation=\"The problem faced by the characters. Example: Rabbit gets trapped.\">Ang suliranin sa kwento. Halimbawa: Si Kuneho ay nahulog sa bitag.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Kasukdulan (Climax):\">Ang isa pang kaso ay ang pag-aaral ng Kasukdulan (Climax):</span>\n<span class=\"fil-sentence\" data-translation=\"The turning point or most exciting part. Example: Rabbit escaping.\">Ang pinakapananabik na bahagi kung malulutas ba ang problema.</span>",
           "examples": [
             {
@@ -5979,7 +5979,7 @@
           ]
         },
         {
-          "title": "Pagsusuri ng Katotohanan at Opinyon (Advanced)",
+          "title": "Pagsusuri ng Katotohanan at Opinyon",
           "text": "<span class=\"fil-sentence\" data-translation=\"Facts are objective details backed by evidence.\nOpinions are subjective feelings.\nIdentifying them protects us from fake news.\n\">Mahalagang malaman kung ang isang pahayag sa kwento ay katotohanan o opinyon upang maging kritikal na mambabasa.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Katotohanan:\">Halimbawa, tingnan natin ang tungkol sa Katotohanan:</span>\n<span class=\"fil-sentence\" data-translation=\"The sun rises in the east. (Objective fact)\">Ang araw ay sumisikat sa silangan araw-araw. (Katotohanan)</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Opinyon:\">Ang isa pang kaso ay ang pag-aaral ng Opinyon:</span>",
           "examples": [
             {
@@ -6173,8 +6173,8 @@
           ]
         },
         {
-          "title": "Buod: Panghalip at Kwento (Advanced)",
-          "text": "<span class=\"fil-sentence\" data-translation=\"Excellent! You have mastered personal pronouns, their persons and numbers, advanced story plot elements (climax), and separating fact from opinion.\n\">Binabati kita! Natutunan mo ang panghalip panao (panauhan at kailanan), mga bahagi ng banghay (tunggalian at kasukdulan), at ang pagkilala sa katotohanan at opinyon.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Tandaan:\">Halimbawa, tingnan natin ang tungkol sa Tandaan:</span>\n<span class=\"fil-sentence\" data-translation=\"Panghalip panao: ako, siya, sila. Kasukdulan = climax. Katotohanan = may patunay.\">Panghalip panao: ako, siya, sila. Kasukdulan = climax. Katotohanan = may patunay.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Daily Challenge:\">Ang isa pang kaso ay ang pag-aaral ng Daily Challenge:</span>\n<span class=\"fil-sentence\" data-translation=\"Write a three-sentence diary entry using at least three different personal pronouns today.\">Sumulat ng tatlong pangungusap tungkol sa iyong araw gamit ang iba't ibang panghalip panao!</span>\n<span class=\"fil-sentence\" data-translation=\"How does the concept of Buod: Panghalip at Kwento (Advanced) help us think critically?\">Paano nakakatulong ang konsepto ng Buod: Panghalip at Kwento (Advanced) sa ating kritikal na pag-iisip?</span>",
+          "title": "Buod: Panghalip at Kwento",
+          "text": "<span class=\"fil-sentence\" data-translation=\"Excellent! You have mastered personal pronouns, their persons and numbers, advanced story plot elements (climax), and separating fact from opinion.\n\">Binabati kita! Natutunan mo ang panghalip panao (panauhan at kailanan), mga bahagi ng banghay (tunggalian at kasukdulan), at ang pagkilala sa katotohanan at opinyon.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Tandaan:\">Halimbawa, tingnan natin ang tungkol sa Tandaan:</span>\n<span class=\"fil-sentence\" data-translation=\"Panghalip panao: ako, siya, sila. Kasukdulan = climax. Katotohanan = may patunay.\">Panghalip panao: ako, siya, sila. Kasukdulan = climax. Katotohanan = may patunay.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Daily Challenge:\">Ang isa pang kaso ay ang pag-aaral ng Daily Challenge:</span>\n<span class=\"fil-sentence\" data-translation=\"Write a three-sentence diary entry using at least three different personal pronouns today.\">Sumulat ng tatlong pangungusap tungkol sa iyong araw gamit ang iba't ibang panghalip panao!</span>\n<span class=\"fil-sentence\" data-translation=\"How does the concept of Buod: Panghalip at Kwento help us think critically?\">Paano nakakatulong ang konsepto ng Buod: Panghalip at Kwento sa ating kritikal na pag-iisip?</span>",
           "examples": [
             {
               "title": "Tandaan",
@@ -6527,10 +6527,10 @@
       "color": "#f59e0b",
       "icon": "🏫",
       "title": "Makabansa",
-      "subtitle": "Week 3: Heograpiya at Rehiyon ng Pilipinas [Advanced]",
+      "subtitle": "Week 3: Heograpiya at Rehiyon ng Pilipinas",
       "slides": [
         {
-          "title": "Ang Heograpiya ng Pilipinas (Advanced)",
+          "title": "Ang Heograpiya ng Pilipinas",
           "text": "<span class=\"fil-sentence\" data-translation=\"Geography is the study of land, water, climate, and resources of a place.\nThe Philippines is an archipelago in Southeast Asia.\n\">Ang heograpiya ay ang pag-aaral ng pisikal na katangian, klima, at likas na yaman ng isang lugar.\nAng Pilipinas ay isang kapuluan sa Timog-Silangang Asya.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Kapuluan (Archipelago):\">Halimbawa, tingnan natin ang tungkol sa Kapuluan (Archipelago):</span>\n<span class=\"fil-sentence\" data-translation=\"An archipelago is a group of islands surrounded by water. The Philippines has over 7,600 islands.\">Ang kapuluan ay pangkat ng mga pulo na napapaligiran ng tubig. Ang bansa ay may higit 7,600 na pulo.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Lokasyon:\">Ang isa pang kaso ay ang pag-aaral ng Lokasyon:</span>",
           "examples": [
             {
@@ -6544,7 +6544,7 @@
           ]
         },
         {
-          "title": "Ang Tatlong Pangkat ng Pulo: Luzon (Advanced)",
+          "title": "Ang Tatlong Pangkat ng Pulo: Luzon",
           "text": "<span class=\"fil-sentence\" data-translation=\"The Philippines is divided into three main island groups: Luzon, Visayas, and Mindanao.\nLuzon is the largest and northernmost group.\n\">Ang Pilipinas ay nahahati sa tatlong malalaking pangkat ng pulo: Luzon, Visayas, at Mindanao.\nAng Luzon ang pinakamalaki sa hilaga.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Mga Lalawigan sa Luzon:\">Halimbawa, tingnan natin ang tungkol sa Mga Lalawigan sa Luzon:</span>\n<span class=\"fil-sentence\" data-translation=\"Luzon includes major regions like Ilocos, Cagayan Valley, Central Luzon, and Bicol.\">Kabilang sa Luzon ang mga rehiyon ng Ilocos, Central Luzon, at Bicol.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Kabisera (Capital):\">Ang isa pang kaso ay ang pag-aaral ng Kabisera (Capital):</span>",
           "examples": [
             {
@@ -6558,7 +6558,7 @@
           ]
         },
         {
-          "title": "Ang Tatlong Pangkat ng Pulo: Visayas (Advanced)",
+          "title": "Ang Tatlong Pangkat ng Pulo: Visayas",
           "text": "<span class=\"fil-sentence\" data-translation=\"The Visayas is the central island group of the Philippines.\nIt consists of many medium-sized islands clustered together.\n\">Ang Visayas ang gitnang pangkat ng pulo.\nBinubuo ito ng mga katamtamang laki ng mga isla na magkakagrupo.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Pangunahing Isla:\">Halimbawa, tingnan natin ang tungkol sa Pangunahing Isla:</span>\n<span class=\"fil-sentence\" data-translation=\"Major islands in Visayas include Panay, Negros, Cebu, Bohol, Leyte, and Samar.\">Kabilang dito ang mga isla ng Cebu, Bohol, Samar, at Leyte.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Kultura at Wika:\">Ang isa pang kaso ay ang pag-aaral ng Kultura at Wika:</span>",
           "examples": [
             {
@@ -6572,7 +6572,7 @@
           ]
         },
         {
-          "title": "Ang Tatlong Pangkat ng Pulo: Mindanao (Advanced)",
+          "title": "Ang Tatlong Pangkat ng Pulo: Mindanao",
           "text": "<span class=\"fil-sentence\" data-translation=\"Mindanao is the southernmost and second largest island group.\nIt is known for its rich agriculture, mountains, and diverse culture.\n\">Ang Mindanao ang pinakatimog na pangkat ng pulo at pangalawang pinakamalaki.\nKilala ito sa agrikultura at bundok.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Bundok Apo (Mount Apo):\">Halimbawa, tingnan natin ang tungkol sa Bundok Apo (Mount Apo):</span>\n<span class=\"fil-sentence\" data-translation=\"Mount Apo is the highest mountain in the Philippines, located in Mindanao.\">Matatagpuan sa Mindanao ang Bundok Apo na pinakamataas na bundok sa bansa.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Kulturang Muslim at Katutubo:\">Ang isa pang kaso ay ang pag-aaral ng Kulturang Muslim at Katutubo:</span>",
           "examples": [
             {
@@ -6586,7 +6586,7 @@
           ]
         },
         {
-          "title": "Likas na Yaman at Klima ng Rehiyon (Advanced)",
+          "title": "Likas na Yaman at Klima ng Rehiyon",
           "text": "<span class=\"fil-sentence\" data-translation=\"Each region has unique natural resources based on its geography.\nThe country has a tropical climate with wet and dry seasons.\n\">Ang bawat rehiyon ay may sariling likas na yaman batay sa heograpiya nito.\nMayroon tayong klimang tropikal (tag-init at tag-ulan).\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Likas na Yaman:\">Halimbawa, tingnan natin ang tungkol sa Likas na Yaman:</span>\n<span class=\"fil-sentence\" data-translation=\"Luzon is rich in minerals and rice; Visayas in sugar and fish; Mindanao in fruits.\">Luzon: palay at ginto. Visayas: asukal at isda. Mindanao: saging at pinya.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Klimang Tropikal:\">Ang isa pang kaso ay ang pag-aaral ng Klimang Tropikal:</span>",
           "examples": [
             {
@@ -6600,8 +6600,8 @@
           ]
         },
         {
-          "title": "Katutubong Musika at Sayaw sa Luzon (Advanced)",
-          "text": "<span class=\"fil-sentence\" data-translation=\"Luzon's folk music and dance reflect Spanish influences and tribal traditions in the mountains, such as the Cordillera gangsa dances.\n\">Ang musika at sayaw sa Luzon ay nagpapakita ng impluwensyang Kastila at tradisyong katutubo sa kabundukan tulad ng sining sa Cordillera.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Carinosa sa Luzon:\">Halimbawa, tingnan natin ang tungkol sa Carinosa sa Luzon:</span>\n<span class=\"fil-sentence\" data-translation=\"Carinosa is popular in lowlands of Luzon, reflecting Spanish social behavior.\">Tanyag ang Cariñosa sa mga kapatagan ng Luzon.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Sining sa Cordillera:\">Ang isa pang kaso ay ang pag-aaral ng Sining sa Cordillera:</span>\n<span class=\"fil-sentence\" data-translation=\"Traditional gong (gangsa) dances celebrating good harvest in the mountains.\">Mga sayaw na may kasamang gangsa (gong) ilang pasasalamat sa masaganang ani.</span>\n<span class=\"fil-sentence\" data-translation=\"How does the concept of Katutubong Musika at Sayaw sa Luzon (Advanced) help us think critically?\">Paano nakakatulong ang konsepto ng Katutubong Musika at Sayaw sa Luzon (Advanced) sa ating kritikal na pag-iisip?</span>",
+          "title": "Katutubong Musika at Sayaw sa Luzon",
+          "text": "<span class=\"fil-sentence\" data-translation=\"Luzon's folk music and dance reflect Spanish influences and tribal traditions in the mountains, such as the Cordillera gangsa dances.\n\">Ang musika at sayaw sa Luzon ay nagpapakita ng impluwensyang Kastila at tradisyong katutubo sa kabundukan tulad ng sining sa Cordillera.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Carinosa sa Luzon:\">Halimbawa, tingnan natin ang tungkol sa Carinosa sa Luzon:</span>\n<span class=\"fil-sentence\" data-translation=\"Carinosa is popular in lowlands of Luzon, reflecting Spanish social behavior.\">Tanyag ang Cariñosa sa mga kapatagan ng Luzon.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Sining sa Cordillera:\">Ang isa pang kaso ay ang pag-aaral ng Sining sa Cordillera:</span>\n<span class=\"fil-sentence\" data-translation=\"Traditional gong (gangsa) dances celebrating good harvest in the mountains.\">Mga sayaw na may kasamang gangsa (gong) ilang pasasalamat sa masaganang ani.</span>\n<span class=\"fil-sentence\" data-translation=\"How does the concept of Katutubong Musika at Sayaw sa Luzon help us think critically?\">Paano nakakatulong ang konsepto ng Katutubong Musika at Sayaw sa Luzon sa ating kritikal na pag-iisip?</span>",
           "examples": [
             {
               "title": "Carinosa sa Luzon",
@@ -6614,7 +6614,7 @@
           ]
         },
         {
-          "title": "Musika at Sayaw sa Visayas at Mindanao (Advanced)",
+          "title": "Musika at Sayaw sa Visayas at Mindanao",
           "text": "<span class=\"fil-sentence\" data-translation=\"Visayan music is known for guitar melodies and festive dances (Sinulog).\nMindanao features Islamic kulintang ensembles and tribal war dances.\n\">Ang Visayas ay sikat sa gitara at kapistahan (Sinulog).\nAng Mindanao ay kilala sa kulintang at sayaw na Singkil.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Singkil sa Mindanao:\">Halimbawa, tingnan natin ang tungkol sa Singkil sa Mindanao:</span>\n<span class=\"fil-sentence\" data-translation=\"A royal dance showing a princess stepping over bamboo poles, accompanied by kulintang.\">Isang maharlikang sayaw ng Mindanao na gumagamit ng mga kawayan at kulintang.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Dandansoy sa Visayas:\">Ang isa pang kaso ay ang pag-aaral ng Dandansoy sa Visayas:</span>",
           "examples": [
             {
@@ -6628,8 +6628,8 @@
           ]
         },
         {
-          "title": "Makasaysayang Pook ng Bansa (Advanced)",
-          "text": "<span class=\"fil-sentence\" data-translation=\"Preserved historical sites exist across all three island groups: Barasoain Church in Luzon, Magellan's Cross in Visayas, and Fort Pilar in Mindanao.\n\">May mga makasaysayang pook sa bawat pangkat ng pulo: Barasoain Church (Luzon), Magellan's Cross (Visayas), at Fort Pilar (Mindanao).\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Magellan's Cross (Cebu):\">Halimbawa, tingnan natin ang tungkol sa Magellan's Cross (Cebu):</span>\n<span class=\"fil-sentence\" data-translation=\"The cross planted by Portuguese explorer Ferdinand Magellan in 1521 in Cebu.\">Ang krus na itinanim ni Ferdinand Magellan sa Cebu noong taong 1521.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Barasoain Church (Bulacan):\">Ang isa pang kaso ay ang pag-aaral ng Barasoain Church (Bulacan):</span>\n<span class=\"fil-sentence\" data-translation=\"The historic church where the first Philippine Constitution was written.\">Ang simbahan kung saan isinulat ang unang Saligang Batas ng Pilipinas.</span>\n<span class=\"fil-sentence\" data-translation=\"How does the concept of Makasaysayang Pook ng Bansa (Advanced) help us think critically?\">Paano nakakatulong ang konsepto ng Makasaysayang Pook ng Bansa (Advanced) sa ating kritikal na pag-iisip?</span>",
+          "title": "Makasaysayang Pook ng Bansa",
+          "text": "<span class=\"fil-sentence\" data-translation=\"Preserved historical sites exist across all three island groups: Barasoain Church in Luzon, Magellan's Cross in Visayas, and Fort Pilar in Mindanao.\n\">May mga makasaysayang pook sa bawat pangkat ng pulo: Barasoain Church (Luzon), Magellan's Cross (Visayas), at Fort Pilar (Mindanao).\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Magellan's Cross (Cebu):\">Halimbawa, tingnan natin ang tungkol sa Magellan's Cross (Cebu):</span>\n<span class=\"fil-sentence\" data-translation=\"The cross planted by Portuguese explorer Ferdinand Magellan in 1521 in Cebu.\">Ang krus na itinanim ni Ferdinand Magellan sa Cebu noong taong 1521.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Barasoain Church (Bulacan):\">Ang isa pang kaso ay ang pag-aaral ng Barasoain Church (Bulacan):</span>\n<span class=\"fil-sentence\" data-translation=\"The historic church where the first Philippine Constitution was written.\">Ang simbahan kung saan isinulat ang unang Saligang Batas ng Pilipinas.</span>\n<span class=\"fil-sentence\" data-translation=\"How does the concept of Makasaysayang Pook ng Bansa help us think critically?\">Paano nakakatulong ang konsepto ng Makasaysayang Pook ng Bansa sa ating kritikal na pag-iisip?</span>",
           "examples": [
             {
               "title": "Magellan's Cross (Cebu)",
@@ -6802,8 +6802,8 @@
           ]
         },
         {
-          "title": "Buod: Heograpiya at Kultura (Advanced)",
-          "text": "<span class=\"fil-sentence\" data-translation=\"Outstanding! You have learned the geography of the Philippines, the three island groups (Luzon, Visayas, Mindanao), regional music, and historical landmarks.\n\">Kamangha-mangha! Natutunan mo ang heograpiya ng Pilipinas (Luzon, Visayas, Mindanao), katutubong musika at sayaw ng iba't ibang pangkat ng pulo, at ang mga makasaysayang pook nito.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Tandaan:\">Halimbawa, tingnan natin ang tungkol sa Tandaan:</span>\n<span class=\"fil-sentence\" data-translation=\"Luzon (North, largest), Visayas (Central, islands), Mindanao (South, agriculture). Magellan's Cross in Cebu. Singkil in Mindanao.\">Luzon (Hilaga), Visayas (Gitna), Mindanao (Timog). Magellan's Cross sa Cebu. Singkil sa Mindanao.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Hamon:\">Ang isa pang kaso ay ang pag-aaral ng Hamon:</span>\n<span class=\"fil-sentence\" data-translation=\"Locate Luzon, Visayas, and Mindanao on a Philippine map today and circle major cities like Manila, Cebu, and Davao.\">Hanapin sa mapa ng Pilipinas ang Luzon, Visayas, at Mindanao at bilugan ang mga pangunahing lungsod ngayon!</span>\n<span class=\"fil-sentence\" data-translation=\"How does the concept of Buod: Heograpiya at Kultura (Advanced) help us think critically?\">Paano nakakatulong ang konsepto ng Buod: Heograpiya at Kultura (Advanced) sa ating kritikal na pag-iisip?</span>",
+          "title": "Buod: Heograpiya at Kultura",
+          "text": "<span class=\"fil-sentence\" data-translation=\"Outstanding! You have learned the geography of the Philippines, the three island groups (Luzon, Visayas, Mindanao), regional music, and historical landmarks.\n\">Kamangha-mangha! Natutunan mo ang heograpiya ng Pilipinas (Luzon, Visayas, Mindanao), katutubong musika at sayaw ng iba't ibang pangkat ng pulo, at ang mga makasaysayang pook nito.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Tandaan:\">Halimbawa, tingnan natin ang tungkol sa Tandaan:</span>\n<span class=\"fil-sentence\" data-translation=\"Luzon (North, largest), Visayas (Central, islands), Mindanao (South, agriculture). Magellan's Cross in Cebu. Singkil in Mindanao.\">Luzon (Hilaga), Visayas (Gitna), Mindanao (Timog). Magellan's Cross sa Cebu. Singkil sa Mindanao.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Hamon:\">Ang isa pang kaso ay ang pag-aaral ng Hamon:</span>\n<span class=\"fil-sentence\" data-translation=\"Locate Luzon, Visayas, and Mindanao on a Philippine map today and circle major cities like Manila, Cebu, and Davao.\">Hanapin sa mapa ng Pilipinas ang Luzon, Visayas, at Mindanao at bilugan ang mga pangunahing lungsod ngayon!</span>\n<span class=\"fil-sentence\" data-translation=\"How does the concept of Buod: Heograpiya at Kultura help us think critically?\">Paano nakakatulong ang konsepto ng Buod: Heograpiya at Kultura sa ating kritikal na pag-iisip?</span>",
           "examples": [
             {
               "title": "Tandaan",
@@ -7156,10 +7156,10 @@
       "color": "#8b5cf6",
       "icon": "❤️",
       "title": "GMRC",
-      "subtitle": "Week 3: Paggalang sa Pamilya at Pagmamahal sa Bayan [Advanced]",
+      "subtitle": "Week 3: Paggalang sa Pamilya at Pagmamahal sa Bayan",
       "slides": [
         {
-          "title": "Ang Pamilya bilang Haligi ng Lipunan (Advanced)",
+          "title": "Ang Pamilya bilang Haligi ng Lipunan",
           "text": "<span class=\"fil-sentence\" data-translation=\"The family is the basic unit of society.\nRespect and unity inside the family build a strong, peaceful community and nation.\n\">Ang pamilya ang pinakapayak at pinakamahalagang yunit ng lipunan.\nAng paggalang sa loob ng pamilya ay nagtatayo ng matatag na bansa.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Bayanihan sa Tahanan:\">Halimbawa, tingnan natin ang tungkol sa Bayanihan sa Tahanan:</span>\n<span class=\"fil-sentence\" data-translation=\"Helping each other with chores brings peace and order at home.\">Ang pagtulong ng bawat isa sa mga gawaing-bahay ay nagdadala ng kaayusan.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Pakikipagkapwa:\">Ang isa pang kaso ay ang pag-aaral ng Pakikipagkapwa:</span>",
           "examples": [
             {
@@ -7173,7 +7173,7 @@
           ]
         },
         {
-          "title": "Paggalang sa mga Nakatatanda sa Pamilya (Advanced)",
+          "title": "Paggalang sa mga Nakatatanda sa Pamilya",
           "text": "<span class=\"fil-sentence\" data-translation=\"Elders hold wisdom from their long lives.\nWe show respect by greeting them, using polite titles, and listening to their guidance.\n\">Ang mga nakatatanda ay mayaman sa karanasan.\nIpakita natin ang paggalang sa pamamagitan ng magalang na pananalita at pakikinig.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Pagsunod sa Bilin:\">Halimbawa, tingnan natin ang tungkol sa Pagsunod sa Bilin:</span>\n<span class=\"fil-sentence\" data-translation=\"Listening to grandfather's advice about safety when crossing roads.\">Pakikinig sa mga paalala ni Lolo tungkol sa kaligtasan sa daan.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Pagsasabi ng 'Mano po':\">Ang isa pang kaso ay ang pag-aaral ng Pagsasabi ng 'Mano po':</span>",
           "examples": [
             {
@@ -7187,7 +7187,7 @@
           ]
         },
         {
-          "title": "Pagkamakabayan (Patriotism) (Advanced)",
+          "title": "Pagkamakabayan (Patriotism)",
           "text": "<span class=\"fil-sentence\" data-translation=\"Patriotism is the love and loyalty we show to our country.\nWe express it by respecting national symbols, flag, and anthem.\n\">Ang pagkamakabayan ay ang pagmamahal, paggalang, at katapatan sa ating bansa.\nNaipapakita ito sa paggalang sa watawat at pambansang awit.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Lupang Hinirang:\">Halimbawa, tingnan natin ang tungkol sa Lupang Hinirang:</span>\n<span class=\"fil-sentence\" data-translation=\"Standing straight with the right hand over the heart while singing the national anthem.\">Pagtayo nang tuwid habang inaawit ang Lupang Hinirang nang may puso.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Watawat ng Pilipinas:\">Ang isa pang kaso ay ang pag-aaral ng Watawat ng Pilipinas:</span>",
           "examples": [
             {
@@ -7201,7 +7201,7 @@
           ]
         },
         {
-          "title": "Paggalang sa mga Pambansang Sagisag (Advanced)",
+          "title": "Paggalang sa mga Pambansang Sagisag",
           "text": "<span class=\"fil-sentence\" data-translation=\"National symbols represent our identity.\nRespecting the national flower (Sampaguita), bird (Eagle), and tree (Narra) shows pride in our country.\n\">Ang mga pambansang sagisag ay kumakatawan sa ating pagkakakilanlan tulad ng Sampaguita, Narra, at Philippine Eagle.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Pambansang Puno: Narra:\">Halimbawa, tingnan natin ang tungkol sa Pambansang Puno: Narra:</span>\n<span class=\"fil-sentence\" data-translation=\"The Narra tree symbolizes the strength and resilience of the Filipino people.\">Ang punong Narra ay sumisimbolo sa katatagan at lakas ng mga Pilipino.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Pambansang Bulaklak:\">Ang isa pang kaso ay ang pag-aaral ng Pambansang Bulaklak:</span>\n<span class=\"fil-sentence\" data-translation=\"The Sampaguita represents purity and humility.\">Ang Sampaguita ay sumisimbolo sa kalinisan ng puso at kababaang-loob.</span>",
           "examples": [
             {
@@ -7215,7 +7215,7 @@
           ]
         },
         {
-          "title": "Pangangalaga sa Pampublikong Ari-arian (Advanced)",
+          "title": "Pangangalaga sa Pampublikong Ari-arian",
           "text": "<span class=\"fil-sentence\" data-translation=\"Public properties, like parks, school desks, and libraries, belong to everyone.\nProtecting them shows respect for our community.\n\">Ang mga pampublikong ari-arian tulad ng parke at aklatan ay pagmamay-ari ng lahat.\nAng pag-aalaga rito ay tanda ng mabuting asal.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Huwag Magsusulat sa Desk:\">Halimbawa, tingnan natin ang tungkol sa Huwag Magsusulat sa Desk:</span>\n<span class=\"fil-sentence\" data-translation=\"Keeping school tables clean so that other students can use them neatly.\">Pagpapanatiling malinis sa mga upuan sa paaralan nang walang sulat.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Pagtatapon sa Basurahan:\">Ang isa pang kaso ay ang pag-aaral ng Pagtatapon sa Basurahan:</span>",
           "examples": [
             {
@@ -7229,7 +7229,7 @@
           ]
         },
         {
-          "title": "Mabuting Mamamayan (Good Citizenship) (Advanced)",
+          "title": "Mabuting Mamamayan (Good Citizenship)",
           "text": "<span class=\"fil-sentence\" data-translation=\"A good citizen obeys community rules, helps neighbors, and shows love for the environment.\nThese actions make our country a better place.\n\">Ang mabuting mamamayan ay sumusunod sa batas-trapiko, nagreresiklo, at tumutulong sa mga nangangailangan sa barangay.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Bayanihan:\">Halimbawa, tingnan natin ang tungkol sa Bayanihan:</span>\n<span class=\"fil-sentence\" data-translation=\"Helping a neighbor clean the drainage to prevent floods before the rain.\">Pagtulong sa paglilinis ng kanal upang maiwasan ang baha sa komunidad.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Pagsunod sa Alituntunin:\">Ang isa pang kaso ay ang pag-aaral ng Pagsunod sa Alituntunin:</span>\n<span class=\"fil-sentence\" data-translation=\"Obeying pedestrian crossings and traffic lights for safety on the road.\">Pagtawid sa tamang tawiran (pedestrian lane) upang maiwasan ang sakuna.</span>",
           "examples": [
             {
@@ -7423,8 +7423,8 @@
           ]
         },
         {
-          "title": "Buod: Paggalang at Pagmamahal sa Bayan (Advanced)",
-          "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You have learned GMRC values: respect for family, pagmamano, patriotism, national symbols, and protecting public properties.\n\">Binabati kita! Natutunan mo ang paggalang sa pamilya, pagmamano, pagmamahal sa bayan (paggalang sa watawat at awit), pagpapahalaga sa pampublikong ari-arian, at pagiging mabuting mamamayan.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Tandaan:\">Halimbawa, tingnan natin ang tungkol sa Tandaan:</span>\n<span class=\"fil-sentence\" data-translation=\"Respect family -> Love country -> Obey laws -> Protect public spaces -> Stand straight for anthem.\">Igalang ang pamilya -> Mahalin ang bansa -> Sundin ang batas -> Alagaan ang paligid -> Tumayo nang tuwid.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Hamon:\">Ang isa pang kaso ay ang pag-aaral ng Hamon:</span>\n<span class=\"fil-sentence\" data-translation=\"Stand straight and sing the national anthem proudly during the flag ceremony tomorrow!\">Tumayo nang tuwid at awitin nang buong puso ang Lupang Hinirang sa seremonya ng watawat bukas!</span>\n<span class=\"fil-sentence\" data-translation=\"How does the concept of Buod: Paggalang at Pagmamahal sa Bayan (Advanced) help us think critically?\">Paano nakakatulong ang konsepto ng Buod: Paggalang at Pagmamahal sa Bayan (Advanced) sa ating kritikal na pag-iisip?</span>",
+          "title": "Buod: Paggalang at Pagmamahal sa Bayan",
+          "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You have learned GMRC values: respect for family, pagmamano, patriotism, national symbols, and protecting public properties.\n\">Binabati kita! Natutunan mo ang paggalang sa pamilya, pagmamano, pagmamahal sa bayan (paggalang sa watawat at awit), pagpapahalaga sa pampublikong ari-arian, at pagiging mabuting mamamayan.\n</span>.\n<span class=\"fil-sentence\" data-translation=\"For instance, consider the example of Tandaan:\">Halimbawa, tingnan natin ang tungkol sa Tandaan:</span>\n<span class=\"fil-sentence\" data-translation=\"Respect family -> Love country -> Obey laws -> Protect public spaces -> Stand straight for anthem.\">Igalang ang pamilya -> Mahalin ang bansa -> Sundin ang batas -> Alagaan ang paligid -> Tumayo nang tuwid.</span>\n<span class=\"fil-sentence\" data-translation=\"Another case is the study of Hamon:\">Ang isa pang kaso ay ang pag-aaral ng Hamon:</span>\n<span class=\"fil-sentence\" data-translation=\"Stand straight and sing the national anthem proudly during the flag ceremony tomorrow!\">Tumayo nang tuwid at awitin nang buong puso ang Lupang Hinirang sa seremonya ng watawat bukas!</span>\n<span class=\"fil-sentence\" data-translation=\"How does the concept of Buod: Paggalang at Pagmamahal sa Bayan help us think critically?\">Paano nakakatulong ang konsepto ng Buod: Paggalang at Pagmamahal sa Bayan sa ating kritikal na pag-iisip?</span>",
           "examples": [
             {
               "title": "Tandaan",

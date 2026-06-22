@@ -4634,10 +4634,10 @@
       "color": "#10b981",
       "icon": "🔬",
       "title": "Science",
-      "subtitle": "Week 2: Asking Questions Like a Scientist [Advanced]",
+      "subtitle": "Week 2: Asking Questions Like a Scientist",
       "slides": [
         {
-          "title": "Formulating Scientific Questions (Advanced)",
+          "title": "Formulating Scientific Questions",
           "text": "An advanced scientific question must isolate variables and be testable through empirical observation and controlled experimentation.\nThis slide introduces key insights about Formulating Scientific Questions.\nFor instance, consider the example of Empirical:\nBased on verifiable observations or experience rather than theory.\nAnother case is the study of Isolating Variables:\nEnsuring only one factor is changed to observe its direct effect.\nHow does the concept of Formulating Scientific Questions help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4651,7 +4651,7 @@
           ]
         },
         {
-          "title": "Inquiry and Hypotheses (Advanced)",
+          "title": "Inquiry and Hypotheses",
           "text": "Questions drive hypotheses.\nA hypothesis acts as a bridge between a question and an experimental test.\nFor instance, consider the example of Formulating:\nConverting 'Why does this happen?' into 'If we change X, then Y will behave in this way.'\nAnother case is the study of Operational Definition:\nDefining exactly how a variable will be measured.\nHow does the concept of Inquiry and Hypotheses help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4665,7 +4665,7 @@
           ]
         },
         {
-          "title": "Defining Testable Parameters (Advanced)",
+          "title": "Defining Testable Parameters",
           "text": "Vague concepts like 'better', 'faster', or 'stronger' must be defined using measurable parameters (time, length, mass).\nThis slide introduces key insights about Defining Testable Parameters.\nFor instance, consider the example of Subjective:\nExample: 'Which plane is best?' (Not testable).\nAnother case is the study of Objective:\nExample: 'Which plane design has the longest flight time in seconds?' (Testable).\nHow does the concept of Defining Testable Parameters help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4679,7 +4679,7 @@
           ]
         },
         {
-          "title": "Tinkering with Viscosity (Advanced)",
+          "title": "Tinkering with Viscosity",
           "text": "Tinkering with different liquids (water, oil, honey) shows how liquid thickness affects flow rate.\nThis slide introduces key insights about Tinkering with Viscosity.\nFor instance, consider the example of Viscosity:\nA fluid's resistance to flow. Honey has higher viscosity than water.\nAnother case is the study of Experiment:\nHow does heating honey affect its flow rate down a cardboard ramp?\nHow does the concept of Tinkering with Viscosity help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4693,7 +4693,7 @@
           ]
         },
         {
-          "title": "Tinkering with Air Pressure (Advanced)",
+          "title": "Tinkering with Air Pressure",
           "text": "Tinkering with syringes and plastic tubes shows how gas compression behaves under force.\nThis slide introduces key insights about Tinkering with Air Pressure.\nFor instance, consider the example of Compression:\nSqueezing air decreases its volume while increasing pressure.\nAnother case is the study of Pneumatics:\nUsing compressed gas to transmit force and perform mechanical work.\nHow does the concept of Tinkering with Air Pressure help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4707,7 +4707,7 @@
           ]
         },
         {
-          "title": "Tinkering with Capillary Action (Advanced)",
+          "title": "Tinkering with Capillary Action",
           "text": "Tinkering with paper towels and colored water shows how liquids climb upwards against gravity.\nThis slide introduces key insights about Tinkering with Capillary Action.\nFor instance, consider the example of Capillary Action:\nLiquid moving through tiny spaces due to adhesion and cohesion.\nAnother case is the study of Application:\nHow does paper towel thickness affect the rate of water absorption?\nHow does the concept of Tinkering with Capillary Action help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4721,7 +4721,7 @@
           ]
         },
         {
-          "title": "Tinkering with Electromagnetism (Advanced)",
+          "title": "Tinkering with Electromagnetism",
           "text": "Tinkering with copper wire, an iron nail, and a battery creates a temporary magnet.\nThis slide introduces key insights about Tinkering with Electromagnetism.\nFor instance, consider the example of Electromagnet:\nA magnet created by running electric current through a coil of wire.\nAnother case is the study of Variables:\nHow does the number of wire coils affect the number of paperclips pulled?\nHow does the concept of Tinkering with Electromagnetism help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4735,7 +4735,7 @@
           ]
         },
         {
-          "title": "Tinkering with Aerodynamic Lift (Advanced)",
+          "title": "Tinkering with Aerodynamic Lift",
           "text": "Tinkering with curved cardboard wings demonstrates Bernoulli's principle of air velocity and pressure.\nThis slide introduces key insights about Tinkering with Aerodynamic Lift.\nFor instance, consider the example of Lift:\nUpward aerodynamic force created by pressure differences on a wing.\nAnother case is the study of Angle of Attack:\nThe tilt of the wing relative to oncoming air flow.\nHow does the concept of Tinkering with Aerodynamic Lift help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4749,7 +4749,7 @@
           ]
         },
         {
-          "title": "Tinkering with Surface Tension (Advanced)",
+          "title": "Tinkering with Surface Tension",
           "text": "Tinkering with water, pepper flakes, and liquid dish soap shows how surface molecules stick together.\nThis slide introduces key insights about Tinkering with Surface Tension.\nFor instance, consider the example of Surface Tension:\nCohesive forces that make water act like it has an elastic skin.\nAnother case is the study of Surfactant:\nSoap breaks surface tension, causing pepper to scatter instantly.\nHow does the concept of Tinkering with Surface Tension help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4763,7 +4763,7 @@
           ]
         },
         {
-          "title": "Tinkering with Solubility (Advanced)",
+          "title": "Tinkering with Solubility",
           "text": "Tinkering with salt, water, and sand shows the difference between solutions and mixtures.\nThis slide introduces key insights about Tinkering with Solubility.\nFor instance, consider the example of Solute & Solvent:\nSalt (solute) dissolves in water (solvent) to form a uniform solution.\nAnother case is the study of Suspension:\nSand does not dissolve; it forms a mixture that settles over time.\nHow does the concept of Tinkering with Solubility help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4777,7 +4777,7 @@
           ]
         },
         {
-          "title": "Tinkering with Light Optics (Advanced)",
+          "title": "Tinkering with Light Optics",
           "text": "Tinkering with water filled jars acts as cylinder lenses, refracting light to flip images.\nThis slide introduces key insights about Tinkering with Light Optics.\nFor instance, consider the example of Refraction Index:\nMeasure of how much a material bends light rays.\nAnother case is the study of Image Reversal:\nLight rays cross at a focal point, reversing the image left to right.\nHow does the concept of Tinkering with Light Optics help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4791,7 +4791,7 @@
           ]
         },
         {
-          "title": "Tinkering with Rotational Inertia (Advanced)",
+          "title": "Tinkering with Rotational Inertia",
           "text": "Tinkering with spinning eggs (raw vs.\nhard-boiled) shows how internal states affect motion.\nFor instance, consider the example of Inertia:\nAn object's resistance to changes in its rotation state.\nAnother case is the study of Liquid Center:\nRaw eggs spin poorly because the liquid sloshes around inside.\nHow does the concept of Tinkering with Rotational Inertia help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4805,7 +4805,7 @@
           ]
         },
         {
-          "title": "Tinkering with Light Reflection (Advanced)",
+          "title": "Tinkering with Light Reflection",
           "text": "Tinkering with multiple mirrors demonstrates how angle alignments create infinite reflections.\nThis slide introduces key insights about Tinkering with Light Reflection.\nFor instance, consider the example of Law of Reflection:\nThe angle of incidence equals the angle of reflection.\nAnother case is the study of Kaleidoscope:\nArranging mirrors at 60 degree angles creates hexagonal patterns.\nHow does the concept of Tinkering with Light Reflection help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4819,7 +4819,7 @@
           ]
         },
         {
-          "title": "Tinkering with Pitch Frequency (Advanced)",
+          "title": "Tinkering with Pitch Frequency",
           "text": "Tinkering with glass bottles filled with different levels of water shows how air column length changes pitch.\nThis slide introduces key insights about Tinkering with Pitch Frequency.\nFor instance, consider the example of Resonance:\nStriking a glass vibrates the water; blowing across the top vibrates the air.\nAnother case is the study of Wavelength:\nMore water means less air, creating shorter waves and higher pitches.\nHow does the concept of Tinkering with Pitch Frequency help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4833,7 +4833,7 @@
           ]
         },
         {
-          "title": "Tinkering with Phototropism (Advanced)",
+          "title": "Tinkering with Phototropism",
           "text": "Tinkering with cardboard shoe box mazes shows how plant seedlings navigate obstacles to find light.\nThis slide introduces key insights about Tinkering with Phototropism.\nFor instance, consider the example of Auxin:\nPlant hormone that builds up on the dark side of a stem, causing it to bend.\nAnother case is the study of Adaptation:\nSurvival strategy ensuring leaves can perform photosynthesis.\nHow does the concept of Tinkering with Phototropism help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4847,7 +4847,7 @@
           ]
         },
         {
-          "title": "Tinkering with Heat Conduction (Advanced)",
+          "title": "Tinkering with Heat Conduction",
           "text": "Tinkering with butter pats placed on copper, plastic, and wooden spoons shows heat transfer rates.\nThis slide introduces key insights about Tinkering with Heat Conduction.\nFor instance, consider the example of Thermal Conductivity:\nMeasure of a material's ability to conduct heat energy.\nAnother case is the study of Observation:\nButter melts first on copper because metals are excellent conductors.\nHow does the concept of Tinkering with Heat Conduction help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4861,7 +4861,7 @@
           ]
         },
         {
-          "title": "Tinkering with Rock Density (Advanced)",
+          "title": "Tinkering with Rock Density",
           "text": "Tinkering with a water overflow container allows us to measure the volume of irregular stones.\nThis slide introduces key insights about Tinkering with Rock Density.\nFor instance, consider the example of Displacement:\nAn object placed in water displaces a volume of water equal to its own volume.\nAnother case is the study of Density:\nMass divided by volume. Helps identify minerals.\nHow does the concept of Tinkering with Rock Density help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4875,7 +4875,7 @@
           ]
         },
         {
-          "title": "Tinkering with Seed Germination (Advanced)",
+          "title": "Tinkering with Seed Germination",
           "text": "Tinkering with soil acidity (adding vinegar or baking soda) tests chemical impact on seed growth.\nThis slide introduces key insights about Tinkering with Seed Germination.\nFor instance, consider the example of pH Level:\nMeasure of acidity or alkalinity of a growing medium.\nAnother case is the study of Germination Rate:\nThe percentage of seeds that sprout under specific test conditions.\nHow does the concept of Tinkering with Seed Germination help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4889,7 +4889,7 @@
           ]
         },
         {
-          "title": "Guided Practice: Defining Questions (Advanced)",
+          "title": "Guided Practice: Defining Questions",
           "text": "Refining a raw curiosity statement into a mathematically testable question.\nThis slide introduces key insights about Guided Practice: Defining Questions.\nFor instance, consider the example of Raw observation:\nToy cars go slower on rugs than on wooden floors.\nAnother case is the study of Testable Question:\nHow does the texture of a surface affect the friction force in Newtons?\nHow does the concept of Guided Practice: Defining Questions help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4903,7 +4903,7 @@
           ]
         },
         {
-          "title": "Guided Practice: Controlled Setups (Advanced)",
+          "title": "Guided Practice: Controlled Setups",
           "text": "Designing a control group to compare results against experimental groups.\nThis slide introduces key insights about Guided Practice: Controlled Setups.\nFor instance, consider the example of Control Group:\nThe baseline setup kept under normal conditions (no changes).\nAnother case is the study of Experimental Group:\nThe setup where the independent variable is changed.\nHow does the concept of Guided Practice: Controlled Setups help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4917,7 +4917,7 @@
           ]
         },
         {
-          "title": "Guided Practice: Liquid Viscosity (Advanced)",
+          "title": "Guided Practice: Liquid Viscosity",
           "text": "Formulating questions about fluid dynamics and flow rates.\nThis slide introduces key insights about Guided Practice: Liquid Viscosity.\nFor instance, consider the example of Observation:\nCold maple syrup flows slower than warm maple syrup.\nAnother case is the study of Question:\nHow does liquid temperature affect viscosity and flow rate?\nHow does the concept of Guided Practice: Liquid Viscosity help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4931,7 +4931,7 @@
           ]
         },
         {
-          "title": "Guided Practice: Plant Geotropism (Advanced)",
+          "title": "Guided Practice: Plant Geotropism",
           "text": "Formulating questions about gravity's impact on roots and stems.\nThis slide introduces key insights about Guided Practice: Plant Geotropism.\nFor instance, consider the example of Observation:\nRoots grow downwards even if the seed is planted upside down.\nAnother case is the study of Question:\nHow does gravity influence the direction of root growth (geotropism)?\nHow does the concept of Guided Practice: Plant Geotropism help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4945,7 +4945,7 @@
           ]
         },
         {
-          "title": "Common Error: Confounding Variables (Advanced)",
+          "title": "Common Error: Confounding Variables",
           "text": "Changing more than one variable at a time makes it impossible to know which caused the result.\nThis slide introduces key insights about Common Error: Confounding Variables.\nFor instance, consider the example of Incorrect:\nTesting different plane shapes using different paper materials.\nAnother case is the study of Correct:\nUsing the exact same paper material for all plane shapes tested.\nHow does the concept of Common Error: Confounding Variables help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4959,7 +4959,7 @@
           ]
         },
         {
-          "title": "Common Error: Ignoring Anomalies (Advanced)",
+          "title": "Common Error: Ignoring Anomalies",
           "text": "Do not ignore unexpected data points.\nAnomalies often lead to new discoveries.\nFor instance, consider the example of Incorrect:\nDeleting a test result because it does not fit your hypothesis.\nAnother case is the study of Correct:\nRecording the anomaly and investigating what hidden variable caused it.\nHow does the concept of Common Error: Ignoring Anomalies help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -4973,7 +4973,7 @@
           ]
         },
         {
-          "title": "Summary of Week 2 Advanced (Advanced)",
+          "title": "Summary of Week 2 Advanced",
           "text": "You completed Week 2 Advanced! You can now isolate variables and formulate operational definitions.\nThis slide introduces key insights about Summary of Week 2 Advanced.\nFor instance, consider the example of Key Takeaway:\nTinkering must be done systematically by holding controls constant.\nAnother case is the study of Next Step:\nGet ready to study advanced science tools and precision measurement in Week 3!\nHow does the concept of Summary of Week 2 Advanced help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
           "examples": [
             {
@@ -5337,10 +5337,10 @@
       "color": "#8b5cf6",
       "icon": "📖",
       "title": "English",
-      "subtitle": "Week 2: CCVC Words & Action Verbs [Advanced]",
+      "subtitle": "Week 2: CCVC Words & Action Verbs",
       "slides": [
         {
-          "title": "Welcome to the Animal Kingdom! (Advanced)",
+          "title": "Welcome to the Animal Kingdom!",
           "text": "Hello, Explorer! Welcome to English Week 2! This week, we are diving into the world of action.\nWe will learn about words that start with double consonants.\nWe will understand action verbs and how they show movement.\nWe will ask questions like a scientist using question marks.\nWe will also learn to read character feelings and traits.\nLet's keep our eyes open and watch animals in action.\nAre you ready to explore the animal kingdom today?.\nFor instance, consider the example of Weekly Goal:",
           "examples": [
             {
@@ -5354,7 +5354,7 @@
           ]
         },
         {
-          "title": "Starting Sounds (CCVC) (Advanced)",
+          "title": "Starting Sounds (CCVC)",
           "text": "CCVC words stand for Consonant-Consonant-Vowel-Consonant.\nThey start with a blend of two consonant sounds.\nThink of the word f-r-o-g.\nThe 'f' and 'r' blend.\nWe say them together quickly: frog! CCVC words are different from CVCC words.\nThey have their consonant blends at the beginning.\nLet's practice saying beginning consonant blends today.\nThey help us name many interesting things in nature!.",
           "examples": [
             {
@@ -5368,7 +5368,7 @@
           ]
         },
         {
-          "title": "Phonics Hunt: The Green Frog (Advanced)",
+          "title": "Phonics Hunt: The Green Frog",
           "text": "In the wet pond, we observe a green frog.\nThe word 'frog' starts with the 'fr' blend.\nWe watch how it leaps from leaf to leaf.\nWe spell the word as f - r - o - g.\nListen to the beginning sound of the word 'frog'.\nThe letters 'f' and 'r' join to make 'fr'.\nIt is a wonderful CCVC word we see in ponds.\nLet's say 'frog' aloud and feel the blend!.",
           "examples": [
             {
@@ -5382,7 +5382,7 @@
           ]
         },
         {
-          "title": "Phonics Hunt: The Crawling Crab (Advanced)",
+          "title": "Phonics Hunt: The Crawling Crab",
           "text": "On the sandy beach, we spot a small crab.\nIt crawls sideways along the wet sand.\nThe word 'crab' starts with the 'cr' blend.\nWe spell the word as c - r - a - b.\nHow many legs does a crab use to crawl? Crabs are fascinating creatures in the shoreline habitat.\nSay 'crab' to hear the 'cr' starting sound.\nIt is another CCVC word in our nature list!.\nFor instance, consider the example of Spelling:",
           "examples": [
             {
@@ -5396,7 +5396,7 @@
           ]
         },
         {
-          "title": "Phonics Hunt: In the Pond (Advanced)",
+          "title": "Phonics Hunt: In the Pond",
           "text": "We watch a small fish swim in the water.\nThe word 'swim' starts with the blend 'sw'.\nWe must not block the drain plug in the sink.\nThe word 'plug' starts with the blend 'pl'.\nBoth 'swim' and 'plug' are CCVC spelling patterns.\nThey help us describe actions and useful objects.\nWe spell them as s-w-i-m and p-l-u-g.\nPractice writing these words in your notebook now!.",
           "examples": [
             {
@@ -5410,7 +5410,7 @@
           ]
         },
         {
-          "title": "Phonics Hunt: Music and Play (Advanced)",
+          "title": "Phonics Hunt: Music and Play",
           "text": "Hear the loud beat of the parade drum! The word 'drum' starts with the blend 'dr'.\nRed and blue flags wave in the blowing wind.\nThe word 'flag' starts with the blend 'fl'.\nBoth 'drum' and 'flag' add color to our day.\nThey follow the CCVC word spelling structure.\nWe spell them as d-r-u-m and f-l-a-g.\nCan you hear the starting sounds of drum and flag?.\nFor instance, consider the example of Spelling:",
           "examples": [
             {
@@ -5424,7 +5424,7 @@
           ]
         },
         {
-          "title": "Phonics Hunt: Safety First (Advanced)",
+          "title": "Phonics Hunt: Safety First",
           "text": "We see a red stop sign on the paved road.\nThe word 'stop' starts with the blend 'st'.\nWe must not slip on the wet bathroom floor.\nThe word 'slip' starts with the blend 'sl'.\nBoth 'stop' and 'slip' help keep us safe.\nThey are common CCVC words used in instructions.\nWe spell them as s-t-o-p and s-l-i-p.\nBe careful to say the starting consonants clearly!.",
           "examples": [
             {
@@ -5438,7 +5438,7 @@
           ]
         },
         {
-          "title": "Phonics Hunt: Flat Leaves (Advanced)",
+          "title": "Phonics Hunt: Flat Leaves",
           "text": "The leaves of the water lily are green and flat.\nThe word 'flat' starts with the blend 'fl'.\nBe careful not to fall into a deep mud trap! The word 'trap' starts with the blend 'tr'.\nBoth 'flat' and 'trap' describe physical things.\nThey follow the CCVC word pattern in phonics.\nWe spell them as f-l-a-t and t-r-a-p.\nLet's practice writing them on our paper today!.\nFor instance, consider the example of Spelling:",
           "examples": [
             {
@@ -5452,7 +5452,7 @@
           ]
         },
         {
-          "title": "Grammar: Action Words (Verbs) (Advanced)",
+          "title": "Grammar: Action Words (Verbs)",
           "text": "Verbs are words that show action or movement.\nThey tell us what people, animals, or things do.\nWithout verbs, nothing in our stories would move! Verbs are the motor engines of our sentences.\nThey show actions like run, jump, sing, and play.\nIn science, we use verbs to describe natural events.\nE.\ng.\n, 'The wind blows' or 'The water boils'.",
           "examples": [
             {
@@ -5466,7 +5466,7 @@
           ]
         },
         {
-          "title": "Observing Animals in Action (Advanced)",
+          "title": "Observing Animals in Action",
           "text": "Let's watch animals in their natural habitats.\nThe green frog leaps across the pond.\nThe blue bird flies high in the clear sky.\nThe gold fish swims in the cool stream.\nThe action verbs are leaps, flies, and swims.\nThey describe the movements of living things.\nUsing specific verbs makes our observations clear.\nWhat actions can you observe a dog performing?.",
           "examples": [
             {
@@ -5480,7 +5480,7 @@
           ]
         },
         {
-          "title": "Verbs in Our Daily Life (Advanced)",
+          "title": "Verbs in Our Daily Life",
           "text": "We use verbs to talk about what we do.\n'Matteo reads a story book in the room.\n' 'The children play at school during recess.\n' 'My sister writes a science report on paper.\n' The verbs are reads, play, and writes.\nThey tell us the actions of our characters.\nNotice how the verb changes for one or many.\nMatteo reads (one), but the children play (many).",
           "examples": [
             {
@@ -5498,7 +5498,7 @@
           ]
         },
         {
-          "title": "Sentence Engine: Interrogative Sentences (Advanced)",
+          "title": "Sentence Engine: Interrogative Sentences",
           "text": "An interrogative sentence is an asking sentence.\nIt asks a question to gather facts or details.\nIt must always start with a capital letter.\nIt must always end with a question mark (?).\nScientists use interrogative sentences to investigate nature.\nThey ask questions about how the world works.\nLet's learn how to ask questions in English.\nIt is the first step to becoming a scientist!.",
           "examples": [
             {
@@ -5512,7 +5512,7 @@
           ]
         },
         {
-          "title": "Question Words (Advanced)",
+          "title": "Question Words",
           "text": "We start questions with special interrogative words.\nThese words are: Who, What, Where, When, and Why.\n'Who is looking at the green frog in the pond?' 'What does the crawling crab eat on the beach?' 'Where does the water flow when it rains?' Each word asks for a different kind of detail.\n'Where' asks for place, 'What' asks for things.\nWhich question word asks about the reason why?.\nFor instance, consider the example of Question Words:\nWho, What, Where, When, Why\nAnother case is the study of HOTS Challenge:",
           "examples": [
             {
@@ -5526,7 +5526,7 @@
           ]
         },
         {
-          "title": "Story Time: The Pond Detective (Advanced)",
+          "title": "Story Time: The Pond Detective",
           "text": "Let's read a short story about Matteo's discovery: 'Matteo looks closely at the quiet pond.\nHe asks, 'Who is hiding under the green leaf?' Suddenly, a green frog leaps out of the water! Matteo laughs and says, 'My frog friend is safe!'' This story has both telling and asking sentences.\nThe question helps us find out what happens next.\nLet's look at the character's feelings next!.\nFor instance, consider the example of Reading Task:\nIdentify the CCVC words and verbs in this story!\nAnother case is the study of HOTS Challenge:\nHow would you apply this linguistic pattern to create a complex sentence?",
           "examples": [
             {
@@ -5540,7 +5540,7 @@
           ]
         },
         {
-          "title": "Inferring Feelings: Happy or Scared? (Advanced)",
+          "title": "Inferring Feelings: Happy or Scared?",
           "text": "To infer means to find clues in the story.\nWe use these clues to understand what is not said.\nIn our story, Matteo laughs when the frog leaps.\nHe says, 'My frog friend is safe!' in a happy voice.\nWe can infer that Matteo feels happy and relieved.\nHe is not scared of the leaping green frog at all.\nPaying attention to actions helps us infer feelings.\nHow do you feel when you see a frog leap?.",
           "examples": [
             {
@@ -5554,7 +5554,7 @@
           ]
         },
         {
-          "title": "Inferring Traits: Curious Matteo (Advanced)",
+          "title": "Inferring Traits: Curious Matteo",
           "text": "Character traits are the qualities of a person.\nWe infer traits by looking at character choices.\nMatteo looks closely at the pond to find things.\nHe asks questions about who is hiding under leaves.\nWe can infer that Matteo is a curious boy.\nHe acts like a scientist who loves to explore.\nUnderstanding traits makes story characters feel real.\nWhat traits do you show when you do experiments?.",
           "examples": [
             {
@@ -5568,7 +5568,7 @@
           ]
         },
         {
-          "title": "Grammar: Possessive Pronouns (Advanced)",
+          "title": "Grammar: Possessive Pronouns",
           "text": "Possessive pronouns show who owns an object.\nThey tell us who the object belongs to in a sentence.\nThe pronouns are: my, your, his, her, and its.\n'This is my magnifying glass.\n' (belongs to me).\n'That is his science notebook.\n' (belongs to him).\n'She plays with her green balloon.",
           "examples": [
             {
@@ -5582,7 +5582,7 @@
           ]
         },
         {
-          "title": "Interrogative vs Possessive (Advanced)",
+          "title": "Interrogative vs Possessive",
           "text": "Interrogative and possessive pronouns work together.\nWe use an interrogative pronoun to ask a question: 'Whose science book is on the desk?' We use a possessive pronoun to give the answer: 'It is her science book on the desk.\n' This shows how questions and answers connect.\nAlways use the correct pronoun for the character.\nWhose pencil are you using to write today?.\nFor instance, consider the example of Interrogative:\nWhose\nAnother case is the study of Possessive:",
           "examples": [
             {
@@ -5600,7 +5600,7 @@
           ]
         },
         {
-          "title": "Science Connection: Animal Habitats (Advanced)",
+          "title": "Science Connection: Animal Habitats",
           "text": "Where does the crab crawl during the day? It lives in its sandy shoreline habitat.\nThe question 'Where does the crab live?' is interrogative.\nIt ends with a question mark and asks about place.\nThe answer is a declarative sentence telling a fact: 'The crab crawls in the wet sand.\n' We use verbs like 'crawls' to show its action.\nWe use nouns like 'sand' to describe its habitat.\nFor instance, consider the example of Observation:\nA crab crawling in the wet sand.",
           "examples": [
             {
@@ -5614,7 +5614,7 @@
           ]
         },
         {
-          "title": "Science Connection: Water Safety (Advanced)",
+          "title": "Science Connection: Water Safety",
           "text": "Why must we keep the drain plug clean? A clean plug lets the water flow safely away.\nThe question 'Why do we clean it?' is interrogative.\nThe word 'flow' is an action verb for water.\nIn science, we ask questions about water movement.\nWe observe how liquid flows down the pipe.\nThe word 'plug' is our CCVC spelling focus.\nWe must spell it correctly as p - l - u - g!.\nFor instance, consider the example of Action Verb:",
           "examples": [
             {
@@ -5628,7 +5628,7 @@
           ]
         },
         {
-          "title": "Guided Practice: Spotting CCVC (Advanced)",
+          "title": "Guided Practice: Spotting CCVC",
           "text": "Let's play a game to spot CCVC words.\nRead this: 'The child sat on a flat rock.\n' Which word starts with a double consonant blend? Yes, the word is 'flat'! It starts with 'fl'.\nThe other words do not follow the CCVC pattern.\nSpelling 'flat' correctly requires the letters f-l-a-t.\nCan you find another CCVC word in your house? Look at the flag or the drain plug!.\nFor instance, consider the example of Check:\nf - l - a - t starts with the consonants f and l.",
           "examples": [
             {
@@ -5642,7 +5642,7 @@
           ]
         },
         {
-          "title": "Guided Practice: Finding the Verb (Advanced)",
+          "title": "Guided Practice: Finding the Verb",
           "text": "Let's practice finding action words in sentences.\nRead: 'The blue bird flies high in the sky.\n' What is the bird doing in the sentence? It is flying! So the verb is 'flies'.\nThe other words are nouns, adjectives, or pronouns.\nThe verb 'flies' tells us the action of the subject.\nAlways look for the action word to find the verb.\nWhat verb describes what a fish does in water?.\nFor instance, consider the example of Verb Check:",
           "examples": [
             {
@@ -5656,7 +5656,7 @@
           ]
         },
         {
-          "title": "Guided Practice: Question Mark (Advanced)",
+          "title": "Guided Practice: Question Mark",
           "text": "Let's check the rules for asking sentences.\nWhich sentence is punctuated correctly today? 'A.\nWhere is the green frog.\n' or 'B.\nWhere is the green frog?' B is correct because it asks a question! It must end with a question mark, not a period.\nAlways check the ending mark of your questions.\nIt tells the reader how to say the sentence!.\nFor instance, consider the example of Corrected:",
           "examples": [
             {
@@ -5670,7 +5670,7 @@
           ]
         },
         {
-          "title": "Common Error: Capitalizing Pronouns (Advanced)",
+          "title": "Common Error: Capitalizing Pronouns",
           "text": "A common mistake is capitalizing possessive pronouns.\nDo not write: 'This is My green frog.\n' Instead, write: 'This is my green frog.\n' Pronouns like 'my' or 'her' do not need capitals.\nThey only start with a capital if they begin a sentence.\nE.\ng.\n, 'My frog is green.",
           "examples": [
             {
@@ -5688,7 +5688,7 @@
           ]
         },
         {
-          "title": "Summary of Week 2 (Advanced)",
+          "title": "Summary of Week 2",
           "text": "Congratulations! You completed all the slides for Week 2.\nLet's review the main language tools we mastered.\nWe learned to decode CCVC words like frog, crab, and plug.\nWe learned to identify action verbs in our sentences.\nWe learned to write interrogative sentences with question marks.\nWe learned to infer character feelings and traits from clues.\nWe connected our English lessons to animal observations.\nYou are now ready to take the quiz and challenges!.",
           "examples": [
             {
@@ -6058,10 +6058,10 @@
       "color": "#ec4899",
       "icon": "🗣️",
       "title": "Filipino",
-      "subtitle": "Week 2: Pangngalan sa Tao, Bagay, Hayop, at Pangyayari [Advanced]",
+      "subtitle": "Week 2: Pangngalan sa Tao, Bagay, Hayop, at Pangyayari",
       "slides": [
         {
-          "title": "Maligayang Pagdating sa Week 2! (Advanced)",
+          "title": "Maligayang Pagdating sa Week 2!",
           "text": "<span class=\"fil-sentence\" data-translation=\"How are you, student? Welcome to the second week!\">Kumusta ka, mag-aaral? Welcome sa ikalawang linggo!</span> <span class=\"fil-sentence\" data-translation=\"This week, we will expand our language knowledge.\n\">Ngayong linggo, palalawakin natin ang ating kaalaman.\n</span> <span class=\"fil-sentence\" data-translation=\"We will study other categories of nouns.\n\">Pag-aaralan natin ang iba pang kategorya ng pangngalan.\n</span> <span class=\"fil-sentence\" data-translation=\"These are names of people, things, animals, and events.\n\">Ito ang ngalan ng tao, bagay, hayop, at pangyayari.\n</span> <span class=\"fil-sentence\" data-translation=\"Let's identify the common and proper noun in each.\n\">Tukuyin natin ang pambalana at pantangi sa bawat isa.",
           "examples": [
             {
@@ -6075,7 +6075,7 @@
           ]
         },
         {
-          "title": "Ngalan ng Tao sa Balarila (Advanced)",
+          "title": "Ngalan ng Tao sa Balarila",
           "text": "<span class=\"fil-sentence\" data-translation=\"People play different roles in our daily lives.\n\">Ang tao ay may iba't ibang papel sa ating buhay.\n</span> <span class=\"fil-sentence\" data-translation=\"The general term we use for them is a common noun.\n\">Ang pangkalahatang tawag sa kanila ay pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"Examples: teacher, doctor, hero, police, and mother.\n\">Halimbawa: guro, doktor, bayani, pulis, at nanay.\n</span> <span class=\"fil-sentence\" data-translation=\"These words start with a lowercase letter in writing.\n\">Ang mga salitang ito ay nagsisimula sa maliit na titik.",
           "examples": [
             {
@@ -6089,7 +6089,7 @@
           ]
         },
         {
-          "title": "Ngalan ng Bagay sa Balarila (Advanced)",
+          "title": "Ngalan ng Bagay sa Balarila",
           "text": "<span class=\"fil-sentence\" data-translation=\"Things are non-living objects that we use daily.\n\">Ang bagay ay mga walang-buhay na gamit natin.\n</span> <span class=\"fil-sentence\" data-translation=\"The general term for objects is a common noun.\n\">Ang pangkalahatang tawag sa bagay ay pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"Examples: shoes, milk, car, paper, and pencil.\n\">Halimbawa: sapatos, gatas, kotse, papel, at lapis.\n</span> <span class=\"fil-sentence\" data-translation=\"We write these common objects in lowercase letters.\n\">Isinusulat natin ang mga ito sa maliit na titik.",
           "examples": [
             {
@@ -6103,7 +6103,7 @@
           ]
         },
         {
-          "title": "Ngalan ng Hayop sa Balarila (Advanced)",
+          "title": "Ngalan ng Hayop sa Balarila",
           "text": "<span class=\"fil-sentence\" data-translation=\"Animals are living creatures that live with us.\n\">Ang mga hayop ay may buhay ring kasama natin.\n</span> <span class=\"fil-sentence\" data-translation=\"The general name of an animal is a common noun.\n\">Ang pangkalahatang tawag sa hayop ay pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"Examples: dog, cat, bird, carabao, and fish.\n\">Halimbawa: aso, pusa, ibon, kalabaw, at isda.\n</span> <span class=\"fil-sentence\" data-translation=\"These are written using lowercase letters in sentences.\n\">Ang mga ito ay isinusulat sa maliit na titik.",
           "examples": [
             {
@@ -6117,7 +6117,7 @@
           ]
         },
         {
-          "title": "Ngalan ng Pangyayari (Advanced)",
+          "title": "Ngalan ng Pangyayari",
           "text": "<span class=\"fil-sentence\" data-translation=\"Events are occasions that we experience or celebrate.\n\">Ang pangyayari ay mga okasyon na ating dinaranas.\n</span> <span class=\"fil-sentence\" data-translation=\"The general term for an occasion is a common noun.\n\">Ang pangkalahatang tawag sa okasyon ay pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"Examples: birthday, wedding, baptism, and festival.\n\">Halimbawa: kaarawan, kasal, binyag, at pista.\n</span> <span class=\"fil-sentence\" data-translation=\"But the specific name of a holiday is proper.\n\">Ngunit ang tiyak na pagdiriwang ay pantangi.",
           "examples": [
             {
@@ -6131,7 +6131,7 @@
           ]
         },
         {
-          "title": "Tao: Pangkalahatan at Tiyak (Advanced)",
+          "title": "Tao: Pangkalahatan at Tiyak",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's practice identifying names of people.\n\">Mag-ehersisyo tayo sa pagkilala ng ngalan ng tao.\n</span> <span class=\"fil-sentence\" data-translation=\"Read: 'Mrs.\nSantos is a kind teacher.\n'\">Basahin: 'Si Gng.\nSantos ay isang mabait na guro.\n'</span> <span class=\"fil-sentence\" data-translation=\"The word 'teacher' here is common because it's a role.\n\">Ang 'guro' dito ay pambalana dahil ito ay tungkulin.",
           "examples": [
             {
@@ -6145,7 +6145,7 @@
           ]
         },
         {
-          "title": "Bagay: Tiyak na Tatak (Advanced)",
+          "title": "Bagay: Tiyak na Tatak",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's look at the shoes you are wearing today.\n\">Tingnan natin ang mga sapatos na suot mo ngayon.\n</span> <span class=\"fil-sentence\" data-translation=\"The word 'shoes' is a common noun of thing.\n\">Ang salitang 'sapatos' ay isang pangngalang pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"If the shoes are brand Nike, how do we write it?\">Kung ang sapatos ay tatak Nike, paano ito isusulat?</span> <span class=\"fil-sentence\" data-translation=\"We will write it as 'Nike' using a capital N.\n\">Isusulat natin ito na 'Nike' gamit ang malaking N.\n</span> <span class=\"fil-sentence\" data-translation=\"We will not write the brand name in lowercase.\n\">Hindi natin isusulat ang brand sa maliit na titik.",
           "examples": [
             {
@@ -6159,7 +6159,7 @@
           ]
         },
         {
-          "title": "Hayop: Pangalan ng Alaga (Advanced)",
+          "title": "Hayop: Pangalan ng Alaga",
           "text": "<span class=\"fil-sentence\" data-translation=\"Do you have a favorite dog or cat at home?\">Mayroon ka bang paboritong aso o pusa sa bahay?</span> <span class=\"fil-sentence\" data-translation=\"The words 'dog' and 'cat' are common nouns only.\n\">Ang salitang 'aso' at 'pusa' ay mga pambalana lamang.\n</span> <span class=\"fil-sentence\" data-translation=\"But if you name your dog 'Bantay',\">Ngunit kung tinawag mo ang iyong aso na 'Bantay',</span> <span class=\"fil-sentence\" data-translation=\"the name 'Bantay' becomes a proper noun in language.\n\">ang 'Bantay' ay magiging pangngalang pantangi sa wika.\n</span> <span class=\"fil-sentence\" data-translation=\"It must be written with a capital first letter B.\n\">Dapat itong isulat na malaki ang unang titik na B.\n</span> <span class=\"fil-sentence\" data-translation=\"Example: 'Bantay is happy while eating his food.\n'\">Halimbawa: 'Masaya si Bantay habang kumakain ng pagkain.",
           "examples": [
             {
@@ -6173,7 +6173,7 @@
           ]
         },
         {
-          "title": "Pangyayari: Mga Pagdiriwang (Advanced)",
+          "title": "Pangyayari: Mga Pagdiriwang",
           "text": "<span class=\"fil-sentence\" data-translation=\"Every year is full of happy occasions for us.\n\">Ang bawat taon ay puno ng masasayang okasyon.\n</span> <span class=\"fil-sentence\" data-translation=\"The word 'birthday' is common in our language.\n\">Ang 'kaarawan' ay pambalana sa ating wika.\n</span> <span class=\"fil-sentence\" data-translation=\"Millions of people celebrate their birthdays daily.\n\">Milyun-milyong tao ang nagdiriwang ng kaarawan.\n</span> <span class=\"fil-sentence\" data-translation=\"But 'Christmas' is a specific occasion in December.\n\">Ngunit ang 'Pasko' ay tiyak na okasyon sa Disyembre.",
           "examples": [
             {
@@ -6187,7 +6187,7 @@
           ]
         },
         {
-          "title": "Guided Practice: Tao (Advanced)",
+          "title": "Guided Practice: Tao",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's examine the people around us today.\n\">Suriin natin ang mga tao sa ating paligid ngayon.\n</span> <span class=\"fil-sentence\" data-translation=\"Who is teaching us inside our classroom?\">Sino ang nagtuturo sa atin sa silid-aralan?</span> <span class=\"fil-sentence\" data-translation=\"She is our 'teacher' which is a common noun.\n\">Siya ay ang ating 'guro' na isang pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"If her name is Mrs.\nCruz, how do we write it?\">Kung ang pangalan niya ay Gng.\nCruz, paano isusulat?</span> <span class=\"fil-sentence\" data-translation=\"We will write it as 'Mrs.\nCruz' with capital letters.",
           "examples": [
             {
@@ -6201,7 +6201,7 @@
           ]
         },
         {
-          "title": "Guided Practice: Bagay (Advanced)",
+          "title": "Guided Practice: Bagay",
           "text": "<span class=\"fil-sentence\" data-translation=\"Hold your pencil that you are using to write.\n\">Hawakan mo ang iyong lapis na ginagamit sa pagsulat.\n</span> <span class=\"fil-sentence\" data-translation=\"The word 'pencil' is a general thing or common noun.\n\">Ang salitang 'lapis' ay pangkalahatang bagay o pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"What is the brand of your pencil written on it?\">Ano ang tatak ng iyong lapis na nakasulat dito?</span> <span class=\"fil-sentence\" data-translation=\"Perhaps it is 'Mongol' which is a proper noun.\n\">Maaaring ito ay 'Mongol' na isang pangngalang pantangi.\n</span> <span class=\"fil-sentence\" data-translation=\"We need to start Mongol with a capital letter M.\n\">Kailangan nating simulan ang Mongol sa malaking titik M.",
           "examples": [
             {
@@ -6215,7 +6215,7 @@
           ]
         },
         {
-          "title": "Guided Practice: Hayop (Advanced)",
+          "title": "Guided Practice: Hayop",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the dog barking on the street.\n\">Suriin natin ang aso na tumatahol sa kalsada.\n</span> <span class=\"fil-sentence\" data-translation=\"The word 'dog' is the general name of this animal.\n\">Ang 'aso' ay pangkalahatang tawag sa hayop na ito.\n</span> <span class=\"fil-sentence\" data-translation=\"Therefore, the word dog is a common noun.\n\">Kaya ang aso ay isang pangngalang pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"If the dog of Matteo is named 'Tagpi',\">Kung ang aso ni Matteo ay pinangalanang 'Tagpi',</span> <span class=\"fil-sentence\" data-translation=\"the word 'Tagpi' is proper with a capital T.\n\">ang salitang 'Tagpi' ay pantangi na may malaking T.",
           "examples": [
             {
@@ -6229,7 +6229,7 @@
           ]
         },
         {
-          "title": "Guided Practice: Pangyayari (Advanced)",
+          "title": "Guided Practice: Pangyayari",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's think of the Christmas occasion in December.\n\">Isipin natin ang okasyon ng Pasko sa Disyembre.\n</span> <span class=\"fil-sentence\" data-translation=\"The word 'Christmas' is a specific event or holiday.\n\">Ang salitang 'Pasko' ay tiyak na pangyayari o okasyon.\n</span> <span class=\"fil-sentence\" data-translation=\"So it is a proper noun in the Filipino language.\n\">Kaya ito ay isang pangngalang pantangi sa Filipino.\n</span> <span class=\"fil-sentence\" data-translation=\"How do we write the word Christmas on paper?\">Paano natin isusulat ang salitang Pasko sa papel?</span> <span class=\"fil-sentence\" data-translation=\"We will write it as 'Pasko' with a capital letter P.\n\">Isusulat natin ito na 'Pasko' na may malaking titik P.",
           "examples": [
             {
@@ -6243,7 +6243,7 @@
           ]
         },
         {
-          "title": "Pagwawasto sa Pangungusap (Advanced)",
+          "title": "Pagwawasto sa Pangungusap",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the letters in this sentence.\n\">Suriin natin ang mga titik sa pangungusap na ito.\n</span> <span class=\"fil-sentence\" data-translation=\"Wrong: 'Bumili si matteo ng sapatos na nike.\n' (lowercase names)\">Mali: 'Bumili si matteo ng sapatos na nike.\n'</span> <span class=\"fil-sentence\" data-translation=\"Why is the writing of this sentence incorrect?\">Bakit mali ang pagsulat ng pangungusap na ito?</span> <span class=\"fil-sentence\" data-translation=\"Because 'matteo' and 'nike' are proper nouns.\n\">Dahil ang 'matteo' at 'nike' ay mga pantangi.\n</span> <span class=\"fil-sentence\" data-translation=\"They should begin with capital letters M and N.\n\">Dapat silang magsimula sa malaking titik M at N.",
           "examples": [
             {
@@ -6257,7 +6257,7 @@
           ]
         },
         {
-          "title": "Maling Pagsulat ng Hayop (Advanced)",
+          "title": "Maling Pagsulat ng Hayop",
           "text": "<span class=\"fil-sentence\" data-translation=\"Avoid writing the specific name of pets in lowercase.\n\">Iwasan ang pagsusulat ng pangalan ng hayop sa maliit.\n</span> <span class=\"fil-sentence\" data-translation=\"Wrong: 'Naglalaro ang pusa kong si muning sa bahay.\n' (muning lowercase)\">Mali: 'Naglalaro ang pusa kong si muning sa bahay.\n'</span> <span class=\"fil-sentence\" data-translation=\"Because 'muning' is the specific name of your cat.\n\">Dahil ang 'muning' ay tiyak na ngalan ng iyong pusa.\n</span> <span class=\"fil-sentence\" data-translation=\"It must be written as 'Muning' with a capital M.\n\">Dapat itong isulat na 'Muning' na may malaking M.",
           "examples": [
             {
@@ -6271,7 +6271,7 @@
           ]
         },
         {
-          "title": "Maling Pagsulat ng Bagay (Advanced)",
+          "title": "Maling Pagsulat ng Bagay",
           "text": "<span class=\"fil-sentence\" data-translation=\"Do not capitalize the first letter of general objects.\n\">Huwag lakihan ang unang titik ng pangkalahatang bagay.\n</span> <span class=\"fil-sentence\" data-translation=\"Wrong: 'Kumuha ako ng Lapis sa aking bag kanina.\n' (Lapis capitalized)\">Mali: 'Kumuha ako ng Lapis sa aking bag kanina.\n'</span> <span class=\"fil-sentence\" data-translation=\"The word 'lapis' is just a general common noun.\n\">Ang 'lapis' ay pangkalahatang pambalana lamang sa wika.\n</span> <span class=\"fil-sentence\" data-translation=\"So it should be written with a lowercase letter l.\n\">Kaya dapat itong isulat sa maliit na titik l.",
           "examples": [
             {
@@ -6285,7 +6285,7 @@
           ]
         },
         {
-          "title": "Kategorya ng Tao: Mga Tungkulin (Advanced)",
+          "title": "Kategorya ng Tao: Mga Tungkulin",
           "text": "<span class=\"fil-sentence\" data-translation=\"The professional roles of people are common nouns.\n\">Ang mga tungkulin ng tao ay mga pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"Examples: engineer, nurse, firefighter, and soldier.\n\">Halimbawa: inhinyero, nars, bumbero, at sundalo.\n</span> <span class=\"fil-sentence\" data-translation=\"We write these roles using lowercase letters.\n\">Isinusulat natin ang mga ito sa maliit na titik.\n</span> <span class=\"fil-sentence\" data-translation=\"But the specific name of a soldier is proper.\n\">Ngunit ang tiyak na ngalan ng sundalo ay pantangi.",
           "examples": [
             {
@@ -6299,7 +6299,7 @@
           ]
         },
         {
-          "title": "Kategorya ng Bagay: Mga Laruan (Advanced)",
+          "title": "Kategorya ng Bagay: Mga Laruan",
           "text": "<span class=\"fil-sentence\" data-translation=\"Toys belong to the category of thing names.\n\">Ang mga laruan ay kabilang sa ngalan ng bagay.\n</span> <span class=\"fil-sentence\" data-translation=\"The words 'toy' and 'doll' are common nouns.\n\">Ang 'laruan' at 'manika' ay mga pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"Many toys can be found in a child's playroom.\n\">Maraming laruan ang makikita sa silid ng bata.\n</span> <span class=\"fil-sentence\" data-translation=\"But the specific brand of the toy is proper.\n\">Ngunit ang tiyak na tatak ng laruan ay pantangi.",
           "examples": [
             {
@@ -6313,7 +6313,7 @@
           ]
         },
         {
-          "title": "Kategorya ng Hayop: Mga Ibon (Advanced)",
+          "title": "Kategorya ng Hayop: Mga Ibon",
           "text": "<span class=\"fil-sentence\" data-translation=\"Birds are animals that fly through the air.\n\">Ang mga ibon ay mga hayop na lumilipad sa hangin.\n</span> <span class=\"fil-sentence\" data-translation=\"The words 'bird' and 'parrot' are common nouns.\n\">Ang salitang 'ibon' at 'loro' ay mga pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"The eagle is also a common noun in our grammar.\n\">Ang agila ay pambalana rin sa ating balarila.\n</span> <span class=\"fil-sentence\" data-translation=\"But if your pet parrot has a specific name,\">Ngunit kung may tiyak na ngalan ang alagang loro,</span> <span class=\"fil-sentence\" data-translation=\"like 'Polly', it becomes a proper noun.\n\">tulad ng 'Polly', ito ay magiging pantangi.",
           "examples": [
             {
@@ -6327,7 +6327,7 @@
           ]
         },
         {
-          "title": "Kategorya ng Pangyayari: Mga Pista (Advanced)",
+          "title": "Kategorya ng Pangyayari: Mga Pista",
           "text": "<span class=\"fil-sentence\" data-translation=\"The festival is an important event in our town.\n\">Ang pista ay isang mahalagang pangyayari sa bayan.\n</span> <span class=\"fil-sentence\" data-translation=\"The word 'pista' is a common noun of event.\n\">Ang salitang 'pista' ay isang pangngalang pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"Many towns have their own festivals every year.\n\">Maraming bayan ang may kani-kanilang pista taon-taon.\n</span> <span class=\"fil-sentence\" data-translation=\"But 'Pahiyas Festival' is a proper noun of event.\n\">Ngunit ang 'Pista ng Pahiyas' ay pantangi sa wika.",
           "examples": [
             {
@@ -6341,7 +6341,7 @@
           ]
         },
         {
-          "title": "Pagsasanay sa Kategorya: Tao (Advanced)",
+          "title": "Pagsasanay sa Kategorya: Tao",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's identify the category of person in practice.\n\">Tukuyin natin ang kategorya ng tao sa pagsasanay.\n</span> <span class=\"fil-sentence\" data-translation=\"Read: 'Dr.\nRizal is an excellent doctor.\n'\">Basahin: 'Si Dr.\nRizal ay isang mahusay na doktor.\n'</span> <span class=\"fil-sentence\" data-translation=\"What is the general name of person in the statement?\">Ano ang pangkalahatang ngalan ng tao sa pahayag?</span> <span class=\"fil-sentence\" data-translation=\"The general name is 'doctor' which is common.\n\">Ang pangkalahatang ngalan ay 'doktor' na pambalana.",
           "examples": [
             {
@@ -6355,7 +6355,7 @@
           ]
         },
         {
-          "title": "Pagsasanay sa Kategorya: Bagay (Advanced)",
+          "title": "Pagsasanay sa Kategorya: Bagay",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the things we use in our classroom.\n\">Suriin natin ang mga bagay na ginagamit sa klase.\n</span> <span class=\"fil-sentence\" data-translation=\"Read: 'He used the crayon of brand Crayola.\n'\">Basahin: 'Ginamit niya ang krayola na Crayola.\n'</span> <span class=\"fil-sentence\" data-translation=\"The first 'krayola' is a general common noun.\n\">Ang unang 'krayola' ay pangkalahatang pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"The second 'Crayola' is a specific brand or proper noun.\n\">Ang ikalawang 'Crayola' ay tiyak na tatak o pantangi.",
           "examples": [
             {
@@ -6369,7 +6369,7 @@
           ]
         },
         {
-          "title": "Pagsasanay sa Kategorya: Hayop (Advanced)",
+          "title": "Pagsasanay sa Kategorya: Hayop",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's identify the animals in this sentence.\n\">Tukuyin natin ang mga hayop sa pangungusap na ito.\n</span> <span class=\"fil-sentence\" data-translation=\"Read: 'Matteo has a pet cat named Muning.\n'\">Basahin: 'May alagang pusa si Matteo na si Muning.\n'</span> <span class=\"fil-sentence\" data-translation=\"The word 'cat' is the general name for this animal.\n\">Ang 'pusa' ay pangkalahatang tawag sa hayop na ito.\n</span> <span class=\"fil-sentence\" data-translation=\"So it is a common noun in our language.\n\">Kaya ito ay isang pangngalang pambalana sa wika.",
           "examples": [
             {
@@ -6383,7 +6383,7 @@
           ]
         },
         {
-          "title": "Pagsasanay sa Kategorya: Pangyayari (Advanced)",
+          "title": "Pagsasanay sa Kategorya: Pangyayari",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the occasions we celebrate in our lives.\n\">Suriin natin ang mga okasyon na ipinagdiriwang natin.\n</span> <span class=\"fil-sentence\" data-translation=\"Read: 'Every festival like Pahiyas is happy.\n'\">Basahin: 'Masaya ang bawat pista tulad ng Pahiyas.\n'</span> <span class=\"fil-sentence\" data-translation=\"The word 'pista' is a general name of an event.\n\">Ang 'pista' ay pangkalahatang ngalan ng pangyayari.\n</span> <span class=\"fil-sentence\" data-translation=\"So it is a common noun in our grammar lessons.\n\">Kaya ito ay isang pangngalang pambalana sa balarila.",
           "examples": [
             {
@@ -6397,7 +6397,7 @@
           ]
         },
         {
-          "title": "Buod ng Ikalawang Linggo (Advanced)",
+          "title": "Buod ng Ikalawang Linggo",
           "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed all the slides today.\n\">Binabati kita! Natapos mo ang lahat ng slide ngayon.\n</span> <span class=\"fil-sentence\" data-translation=\"We learned about common and proper nouns of people.\n\">Natutunan natin ang pambalana at pantangi sa tao.\n</span> <span class=\"fil-sentence\" data-translation=\"We also learned about common and proper nouns of things.\n\">Natutunan din natin ang pambalana at pantangi sa bagay.\n</span> <span class=\"fil-sentence\" data-translation=\"We learned these concepts for animals and events too.\n\">Natutunan natin ang mga ito sa hayop at pangyayari.",
           "examples": [
             {
@@ -6761,10 +6761,10 @@
       "color": "#f59e0b",
       "icon": "🏝️",
       "title": "Makabansa",
-      "subtitle": "Week 2: Mahahalagang Pook sa Ating Komunidad [Advanced]",
+      "subtitle": "Week 2: Mahahalagang Pook sa Ating Komunidad",
       "slides": [
         {
-          "title": "Maligayang Pagdating sa Week 2! (Advanced)",
+          "title": "Maligayang Pagdating sa Week 2!",
           "text": "<span class=\"fil-sentence\" data-translation=\"How are you, student? Welcome to the second week!\">Kumusta ka, mag-aaral? Welcome sa ikalawang linggo!</span> <span class=\"fil-sentence\" data-translation=\"This week, we will travel around our own local place.\n\">Ngayong linggo, maglalakbay tayo sa ating sariling pook.\n</span> <span class=\"fil-sentence\" data-translation=\"Let's identify the important places in our community.\n\">Tukuyin natin ang mahahalagang pook sa ating komunidad.\n</span> <span class=\"fil-sentence\" data-translation=\"This includes the barangay hall, church, and school.\n\">Kasama rito ang barangay hall, simbahan, at paaralan.\n</span> <span class=\"fil-sentence\" data-translation=\"We will study the role and function of each of these places.\n\">Pag-aaralan natin ang tungkulin ng bawat pook na ito.",
           "examples": [
             {
@@ -6778,7 +6778,7 @@
           ]
         },
         {
-          "title": "Ang Barangay Hall: Sentro ng Pamamahala (Advanced)",
+          "title": "Ang Barangay Hall: Sentro ng Pamamahala",
           "text": "<span class=\"fil-sentence\" data-translation=\"The barangay hall is a very important place for all of us.\n\">Ang barangay hall ay isang napakahalagang pook sa atin.\n</span> <span class=\"fil-sentence\" data-translation=\"It is the center of governance in our own local community.\n\">Ito ang sentro ng pamamahala sa ating sariling komunidad.\n</span> <span class=\"fil-sentence\" data-translation=\"This is where the captain and barangay councilors meet.\n\">Dito nagpupulong ang kapitan at mga barangay kagawad.\n</span> <span class=\"fil-sentence\" data-translation=\"They make local laws to preserve peace and order yonder.\n\">Gumagawa sila ng mga batas upang mapanatili ang kapayapaan.",
           "examples": [
             {
@@ -6792,7 +6792,7 @@
           ]
         },
         {
-          "title": "Ang Health Center: Pook ng Kalusugan (Advanced)",
+          "title": "Ang Health Center: Pook ng Kalusugan",
           "text": "<span class=\"fil-sentence\" data-translation=\"The health center is a place that cares for health.\n\">Ang health center ay pook na nag-aalaga sa kalusugan.\n</span> <span class=\"fil-sentence\" data-translation=\"This is where babies, children, and elders go for care.\n\">Dito pumupunta ang mga sanggol, bata, at matatanda.\n</span> <span class=\"fil-sentence\" data-translation=\"There are nurses, doctors, and midwives serving the public.\n\">Mayroong mga nars, doktor, at midwives na naglilingkod.\n</span> <span class=\"fil-sentence\" data-translation=\"They provide free vaccines and medicines to us in town.\n\">Nagbibigay sila ng libreng bakuna at mga gamot sa amin.",
           "examples": [
             {
@@ -6806,7 +6806,7 @@
           ]
         },
         {
-          "title": "Ang Paaralan: Pook ng Karunungan (Advanced)",
+          "title": "Ang Paaralan: Pook ng Karunungan",
           "text": "<span class=\"fil-sentence\" data-translation=\"The school is a place where we acquire knowledge and wisdom.\n\">Ang paaralan ay pook kung saan tayo nakakukuha ng dunong.\n</span> <span class=\"fil-sentence\" data-translation=\"This is where teachers instruct the young students daily.\n\">Dito nagtuturo ang mga guro sa mga mag-aaral.\n</span> <span class=\"fil-sentence\" data-translation=\"We learn to read, write, and compute numbers yonder.\n\">Natututo tayong magbasa, magsulat, at magkuwenta rito.\n</span> <span class=\"fil-sentence\" data-translation=\"This includes studying science, languages, and history.\n\">Kasama rito ang pag-aaral ng science at kasaysayan.",
           "examples": [
             {
@@ -6820,7 +6820,7 @@
           ]
         },
         {
-          "title": "Ang Simbahan: Pook ng Pananampalataya (Advanced)",
+          "title": "Ang Simbahan: Pook ng Pananampalataya",
           "text": "<span class=\"fil-sentence\" data-translation=\"The church or mosque is a place for quiet prayer.\n\">Ang simbahan o moske ay pook para sa pananalangin.\n</span> <span class=\"fil-sentence\" data-translation=\"Here families gather to express gratitude to God yonder.\n\">Dito nagtitipon ang pamilya upang magpasalamat sa Diyos.\n</span> <span class=\"fil-sentence\" data-translation=\"Good values and love for neighbors are taught here.\n\">Itinuturo rito ang mabuting asal at pagmamahal sa kapwa.\n</span> <span class=\"fil-sentence\" data-translation=\"There are priests, pastors, or imams leading worship services.\n\">May mga pari, pastor, o imam na namumuno sa pagsamba.",
           "examples": [
             {
@@ -6834,7 +6834,7 @@
           ]
         },
         {
-          "title": "Ang Palengke: Pook ng Kalakalan (Advanced)",
+          "title": "Ang Palengke: Pook ng Kalakalan",
           "text": "<span class=\"fil-sentence\" data-translation=\"The market is the center of trade in our local community.\n\">Ang palengke ay sentro ng kalakalan sa komunidad natin.\n</span> <span class=\"fil-sentence\" data-translation=\"This is where vendors go to sell their harvested goods.\n\">Dito pumupunta ang mga tindero upang magbenta ng ani.\n</span> <span class=\"fil-sentence\" data-translation=\"This includes fresh fish, meat, vegetables, and sweet fruits.\n\">Kasama rito ang isda, karne, gulay, at mga prutas.\n</span> <span class=\"fil-sentence\" data-translation=\"This is also where citizens buy food ingredients daily.\n\">Dito rin pumupunta ang mga mamamayan upang bumili ng ulam.",
           "examples": [
             {
@@ -6848,7 +6848,7 @@
           ]
         },
         {
-          "title": "Ang Plaza at Parke: Pook ng Libangan (Advanced)",
+          "title": "Ang Plaza at Parke: Pook ng Libangan",
           "text": "<span class=\"fil-sentence\" data-translation=\"The plaza is a wide and open public space in the town.\n\">Ang plaza ay isang malawak at bukas na pook sa bayan.\n</span> <span class=\"fil-sentence\" data-translation=\"Here children play every afternoon after school classes.\n\">Dito naglalaro ang mga bata tuwing hapon pagkatapos ng klase.\n</span> <span class=\"fil-sentence\" data-translation=\"This is also where barangay programs and festivals are held.\n\">Dito rin ginaganap ang mga programa at pista ng barangay.\n</span> <span class=\"fil-sentence\" data-translation=\"There are trees, benches, and sometimes a wind vane yonder.\n\">May mga puno, upuan, at kung minsan ay wind vane.",
           "examples": [
             {
@@ -6862,7 +6862,7 @@
           ]
         },
         {
-          "title": "Mga Makasaysayang Monumento (Advanced)",
+          "title": "Mga Makasaysayang Monumento",
           "text": "<span class=\"fil-sentence\" data-translation=\"There are places that remind us of our local heroes.\n\">May mga pook na nagpapaalala sa ating mga bayani.\n</span> <span class=\"fil-sentence\" data-translation=\"We call these historical monuments in our community.\n\">Tinatawag natin silang mga makasaysayang monumento sa bayan.\n</span> <span class=\"fil-sentence\" data-translation=\"Example: the monument of Dr.\nRizal in the town plaza.\n\">Halimbawa: ang monumento ni Dr.\nRizal sa plaza ng bayan.",
           "examples": [
             {
@@ -6876,7 +6876,7 @@
           ]
         },
         {
-          "title": "Ang Police Outpost: Pook ng Seguridad (Advanced)",
+          "title": "Ang Police Outpost: Pook ng Seguridad",
           "text": "<span class=\"fil-sentence\" data-translation=\"The police outpost or tanod outpost is a physical place.\n\">Ang police outpost o barangay tanod outpost ay pook.\n</span> <span class=\"fil-sentence\" data-translation=\"This is where police officers and tanods watch at night.\n\">Dito nagbabantay ang mga pulis at tanod sa gabi.\n</span> <span class=\"fil-sentence\" data-translation=\"They preserve the safety and security of our entire place.\n\">Sila ang nagpapanatili ng seguridad sa buong pook natin.\n</span> <span class=\"fil-sentence\" data-translation=\"They ensure there is no crime or trouble on the streets.\n\">Tinitiyak nila na walang krimen o gulo sa mga kalye.",
           "examples": [
             {
@@ -6890,7 +6890,7 @@
           ]
         },
         {
-          "title": "Ang Bahay-Pamahalaan ng Bayan (Advanced)",
+          "title": "Ang Bahay-Pamahalaan ng Bayan",
           "text": "<span class=\"fil-sentence\" data-translation=\"The municipal hall or capitol is a much larger place.\n\">Ang munisipyo o kapitolyo ay mas malaking pook.\n</span> <span class=\"fil-sentence\" data-translation=\"It is the government building of the entire town or city.\n\">Ito ang bahay-pamahalaan ng buong bayan o lungsod.\n</span> <span class=\"fil-sentence\" data-translation=\"This is where the mayor of our town works every day.\n\">Dito nagtatrabaho ang alkalde o mayor ng bayan natin.\n</span> <span class=\"fil-sentence\" data-translation=\"This is where licenses are made and major laws are enacted.\n\">Dito ginagawa ang mga lisensya at malalaking batas.",
           "examples": [
             {
@@ -6904,7 +6904,7 @@
           ]
         },
         {
-          "title": "Selyo at Logo ng Ating Pook (Advanced)",
+          "title": "Selyo at Logo ng Ating Pook",
           "text": "<span class=\"fil-sentence\" data-translation=\"Every important public building has a seal or logo.\n\">Ang bawat mahahalagang pook ay may selyo o logo.\n</span> <span class=\"fil-sentence\" data-translation=\"We can observe this on our barangay hall and municipal hall.\n\">Makikita natin ito sa barangay hall at munisipyo natin.\n</span> <span class=\"fil-sentence\" data-translation=\"The seal contains drawings representing the local lifestyle.\n\">Ang selyo ay naglalaman ng mga simbolo ng pamumuhay.\n</span> <span class=\"fil-sentence\" data-translation=\"There are symbols of rice, fish, or industrial gears yonder.\n\">May simbolo ng palay, isda, o gulong ng makina.",
           "examples": [
             {
@@ -6918,7 +6918,7 @@
           ]
         },
         {
-          "title": "Pook ng Likas na Yaman (Advanced)",
+          "title": "Pook ng Likas na Yaman",
           "text": "<span class=\"fil-sentence\" data-translation=\"There are places where we get our natural resources.\n\">May mga pook na pinagkukunan ng likas na yaman.\n</span> <span class=\"fil-sentence\" data-translation=\"Example: the lake of Laguna de Bay in our province yonder.\n\">Halimbawa: ang lawa ng Laguna de Bay sa lalawigan.\n</span> <span class=\"fil-sentence\" data-translation=\"This is a fishing location for many families living nearby.\n\">Ito ay pook-pangingisda para sa maraming pamilya.\n</span> <span class=\"fil-sentence\" data-translation=\"The fields near the mountains are for growing rice crops.\n\">Ang mga bukid sa tabi ng bundok ay para sa palay.",
           "examples": [
             {
@@ -6932,7 +6932,7 @@
           ]
         },
         {
-          "title": "Guided Practice: Pook at Tungkulin (Advanced)",
+          "title": "Guided Practice: Pook at Tungkulin",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's practice connecting places to their functions.\n\">Magsanay tayo sa pag-uugnay ng pook at tungkulin.\n</span> <span class=\"fil-sentence\" data-translation=\"Analyze: 'Where does a sick person go for medicine?'\">Suriin: 'Saan pumupunta ang may-sakit para sa gamot?'</span> <span class=\"fil-sentence\" data-translation=\"The answer is the local health center or hospital yonder.\n\">Ang sagot ay health center o ospital ng komunidad.\n</span> <span class=\"fil-sentence\" data-translation=\"Analyze: 'Where do children study science subjects daily?'\">Suriin: 'Saan nag-aaral ang mga bata ng science?'</span> <span class=\"fil-sentence\" data-translation=\"The answer is the school, which is our place of learning.\n\">Ang sagot ay paaralan na pook ng karunungan natin.\n</span> <span class=\"fil-sentence\" data-translation=\"Analyze: 'Where does the barangay captain hold meetings?'\">Suriin: 'Saan nagpupulong ang kapitan ng barangay?'</span> <span class=\"fil-sentence\" data-translation=\"The answer is the barangay hall, the center of governance.\n\">Ang sagot ay barangay hall na sentro ng pamamahala.",
           "examples": [
             {
@@ -6946,7 +6946,7 @@
           ]
         },
         {
-          "title": "Guided Practice: Simbolo sa Logo (Advanced)",
+          "title": "Guided Practice: Simbolo sa Logo",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze the logo of the municipal hall in town.\n\">Suriin natin ang logo ng munisipyo sa ating bayan.\n</span> <span class=\"fil-sentence\" data-translation=\"There is a symbol of a sun with eight rays on the logo.\n\">May simbolo ng araw na may walong sinag sa logo.\n</span> <span class=\"fil-sentence\" data-translation=\"What does the sun represent in our national history?\">Ano ang ibig sabihin ng araw sa kasaysayan natin?</span> <span class=\"fil-sentence\" data-translation=\"It symbolizes the hope and freedom of our nation yonder.\n\">Ito ay sumasagisag sa pag-asa at kalayaan ng bansa.\n</span> <span class=\"fil-sentence\" data-translation=\"There is also a symbol of a mountain with green trees.\n\">May simbolo rin ng bundok na may berdeng puno roon.",
           "examples": [
             {
@@ -6960,7 +6960,7 @@
           ]
         },
         {
-          "title": "Guided Practice: Makasaysayang Lugar (Advanced)",
+          "title": "Guided Practice: Makasaysayang Lugar",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze a historical place in our province Laguna.\n\">Suriin natin ang isang makasaysayang pook sa Laguna.\n</span> <span class=\"fil-sentence\" data-translation=\"This is the 'Rizal Shrine' yonder in Calamba City.\n\">Ito ay ang 'Bahay ni Rizal' sa Lungsod ng Calamba.\n</span> <span class=\"fil-sentence\" data-translation=\"This is where Jose Rizal grew up with his family members.\n\">Dito lumaki si Jose Rizal kasama ang kanyang pamilya.\n</span> <span class=\"fil-sentence\" data-translation=\"This house is built using hard stone and strong wood panels.\n\">Ang bahay na ito ay gawa sa matigas na bato at kahoy.",
           "examples": [
             {
@@ -6974,7 +6974,7 @@
           ]
         },
         {
-          "title": "Maling Pagtukoy sa Tungkulin (Advanced)",
+          "title": "Maling Pagtukoy sa Tungkulin",
           "text": "<span class=\"fil-sentence\" data-translation=\"Avoid confusing the functions of different public places.\n\">Iwasan ang pagpapalit ng tungkulin ng mga pook.\n</span> <span class=\"fil-sentence\" data-translation=\"Wrong: 'We went to the barangay hall for medical treatment.\n'\">Mali: 'Pumunta kami sa barangay hall upang magpagamot.\n'</span> <span class=\"fil-sentence\" data-translation=\"The barangay hall is not a medical clinic or hospital.\n\">Ang barangay hall ay hindi klinika o ospital sa pook.\n</span> <span class=\"fil-sentence\" data-translation=\"You must visit the health center when you are feeling sick.\n\">Dapat pumunta sa health center kapag may karamdaman.",
           "examples": [
             {
@@ -6988,7 +6988,7 @@
           ]
         },
         {
-          "title": "Maling Paglalarawan ng Pook-Samba (Advanced)",
+          "title": "Maling Paglalarawan ng Pook-Samba",
           "text": "<span class=\"fil-sentence\" data-translation=\"Avoid showing lack of respect for places of worship yonder.\n\">Iwasan ang kawalan ng galang sa mga pook-pagsamba.\n</span> <span class=\"fil-sentence\" data-translation=\"Do not write yonder that the church is a playground for kids.\n\">Huwag sabihing ang simbahan ay palaruan ng mga bata.\n</span> <span class=\"fil-sentence\" data-translation=\"It is a place for prayer and quiet spiritual activities.\n\">Ito ay pook para sa pananalangin at tahimik na pagsamba.\n</span> <span class=\"fil-sentence\" data-translation=\"We must behave quietly and properly inside these buildings.\n\">Dapat maging tahimik at maayos ang kilos sa loob nito.",
           "examples": [
             {
@@ -7002,7 +7002,7 @@
           ]
         },
         {
-          "title": "Karagdagang Pagsasanay 1 (Advanced)",
+          "title": "Karagdagang Pagsasanay 1",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
           "examples": [
             {
@@ -7016,7 +7016,7 @@
           ]
         },
         {
-          "title": "Karagdagang Pagsasanay 2 (Advanced)",
+          "title": "Karagdagang Pagsasanay 2",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
           "examples": [
             {
@@ -7030,7 +7030,7 @@
           ]
         },
         {
-          "title": "Karagdagang Pagsasanay 3 (Advanced)",
+          "title": "Karagdagang Pagsasanay 3",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
           "examples": [
             {
@@ -7044,7 +7044,7 @@
           ]
         },
         {
-          "title": "Karagdagang Pagsasanay 4 (Advanced)",
+          "title": "Karagdagang Pagsasanay 4",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
           "examples": [
             {
@@ -7058,7 +7058,7 @@
           ]
         },
         {
-          "title": "Karagdagang Pagsasanay 5 (Advanced)",
+          "title": "Karagdagang Pagsasanay 5",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
           "examples": [
             {
@@ -7072,7 +7072,7 @@
           ]
         },
         {
-          "title": "Karagdagang Pagsasanay 6 (Advanced)",
+          "title": "Karagdagang Pagsasanay 6",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
           "examples": [
             {
@@ -7086,7 +7086,7 @@
           ]
         },
         {
-          "title": "Karagdagang Pagsasanay 7 (Advanced)",
+          "title": "Karagdagang Pagsasanay 7",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
           "examples": [
             {
@@ -7100,7 +7100,7 @@
           ]
         },
         {
-          "title": "Summary ng Ikalawang Linggo (Advanced)",
+          "title": "Summary ng Ikalawang Linggo",
           "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed all the slides for this week.\n\">Binabati kita! Natapos mo ang lahat ng slide sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We learned about the important public places in our town.\n\">Natutunan natin ang mga mahahalagang pook sa bayan.\n</span> <span class=\"fil-sentence\" data-translation=\"We discovered the roles of the barangay hall and school.\n\">Nalaman natin ang tungkulin ng barangay hall at eskwelahan.\n</span> <span class=\"fil-sentence\" data-translation=\"We identified the symbols on our local community logo.\n\">Natukoy natin ang mga simbolo sa logo ng ating pook.",
           "examples": [
             {
@@ -7464,10 +7464,10 @@
       "color": "#06b6d4",
       "icon": "🧘‍♂️",
       "title": "GMRC",
-      "subtitle": "Week 2: Tiwala sa Sarili - Pagbabahagi ng Ating Galing [Advanced]",
+      "subtitle": "Week 2: Tiwala sa Sarili - Pagbabahagi ng Ating Galing",
       "slides": [
         {
-          "title": "Welcome sa Week 2! (Advanced)",
+          "title": "Welcome sa Week 2!",
           "text": "<span class=\"fil-sentence\" data-translation=\"How are you, student? Welcome to the second week!\">Kumusta ka, mag-aaral? Welcome sa ikalawang linggo!</span> <span class=\"fil-sentence\" data-translation=\"This week, we will continue our self-confidence lesson.\n\">Ngayong linggo, ipagpapatuloy natin ang ating aralin.\n</span> <span class=\"fil-sentence\" data-translation=\"Let's connect our self-confidence to helping others yonder.\n\">Tukutubing-ugnayan natin ang tiwala sa ating kapwa.\n</span> <span class=\"fil-sentence\" data-translation=\"We will study the value of sharing our talents in school.\n\">Pag-aaralan natin ang pagbabahagi ng ating talento.\n</span> <span class=\"fil-sentence\" data-translation=\"How can we assist our classmates who are struggling today?\">Paano natin matutulungan ang mga nahihirapang kaklase?</span> <span class=\"fil-sentence\" data-translation=\"Let's learn the importance of joining school activities.\n\">Alamin natin ang kahalagahan ng paglahok sa mga aktibidad.",
           "examples": [
             {
@@ -7481,7 +7481,7 @@
           ]
         },
         {
-          "title": "Ang Halaga ng Pagbabahagi (Advanced)",
+          "title": "Ang Halaga ng Pagbabahagi",
           "text": "<span class=\"fil-sentence\" data-translation=\"Talents should not be hidden away in the dark yonder.\n\">Ang talento ay hindi dapat itinatago sa dilim.\n</span> <span class=\"fil-sentence\" data-translation=\"These were given to us to share with others in life.\n\">Ito ay ibinigay sa atin upang ibahagi sa kapwa.\n</span> <span class=\"fil-sentence\" data-translation=\"When you share your talent, it grows even stronger yonder.\n\">Kapag ibinahagi mo ang galing, lalo itong lumalago.\n</span> <span class=\"fil-sentence\" data-translation=\"Example: helping your playmate in the barangay to read books.\n\">Halimbawa: ang pagtulong sa kalaro na magbasa.",
           "examples": [
             {
@@ -7495,7 +7495,7 @@
           ]
         },
         {
-          "title": "Pagtulong sa Nahihirapang Kaklase (Advanced)",
+          "title": "Pagtulong sa Nahihirapang Kaklase",
           "text": "<span class=\"fil-sentence\" data-translation=\"Inside our classroom, there are children who struggle daily.\n\">Sa ating silid-aralan, may mga batang nahihirapan.\n</span> <span class=\"fil-sentence\" data-translation=\"Perhaps they find math calculations or writing difficult.\n\">Maaaring nahihirapan sila sa matematika o pagsulat.\n</span> <span class=\"fil-sentence\" data-translation=\"If you are good at those, do not laugh at them yonder.\n\">Kung ikaw ay magaling doon, huwag silang pagtawanan.\n</span> <span class=\"fil-sentence\" data-translation=\"Approach them and say: 'I will help you with the lesson.\n'\">Lapitan sila at sabihing: 'Tutulungan kita sa aralin.",
           "examples": [
             {
@@ -7509,7 +7509,7 @@
           ]
         },
         {
-          "title": "Paglahok sa mga Aktibidad sa Paaralan (Advanced)",
+          "title": "Paglahok sa mga Aktibidad sa Paaralan",
           "text": "<span class=\"fil-sentence\" data-translation=\"The school organizes different programs and games yonder.\n\">Ang paaralan ay may iba't ibang programa at palaro.\n</span> <span class=\"fil-sentence\" data-translation=\"There are competitions for singing and drawing pictures.\n\">Mayroong mga patimpalak sa pag-awit at pagguhit.\n</span> <span class=\"fil-sentence\" data-translation=\"Participating in these events displays your self-confidence.\n\">Ang paglahok sa mga ito ay nagpapakita ng tiwala.\n</span> <span class=\"fil-sentence\" data-translation=\"Do not be afraid to join even if others are highly skilled.\n\">Huwag matakot na sumali kahit may mas magaling pa.",
           "examples": [
             {
@@ -7523,7 +7523,7 @@
           ]
         },
         {
-          "title": "Pakikipaglaro nang may Disiplina (Advanced)",
+          "title": "Pakikipaglaro nang may Disiplina",
           "text": "<span class=\"fil-sentence\" data-translation=\"Games in the plaza display our physical talents yonder.\n\">Ang mga laro sa plaza ay nagpapakita ng talento natin.\n</span> <span class=\"fil-sentence\" data-translation=\"Such as sipa, tag games, or running along the streets.\n\">Tulad ng sipa, patintero, o pagtakbo sa kalsada.\n</span> <span class=\"fil-sentence\" data-translation=\"In playing, we require self-discipline and mutual trust.\n\">Sa pakikipaglaro, kailangan ang disiplina at tiwala.\n</span> <span class=\"fil-sentence\" data-translation=\"Follow game rules carefully to prevent arguments and fights.\n\">Sundin ang mga panuntunan ng laro upang maiwasan ang away.",
           "examples": [
             {
@@ -7537,7 +7537,7 @@
           ]
         },
         {
-          "title": "Ang Pagpapalakas ng Loob ng Kalaro (Advanced)",
+          "title": "Ang Pagpapalakas ng Loob ng Kalaro",
           "text": "<span class=\"fil-sentence\" data-translation=\"There are playmates who are very shy during team games.\n\">May mga kalaro na madaling mahiya sa paglalaro.\n</span> <span class=\"fil-sentence\" data-translation=\"They are afraid to try because they might make mistakes.\n\">Natatakot silang sumubok dahil baka sila magkamali.\n</span> <span class=\"fil-sentence\" data-translation=\"As a friend, it is your duty to encourage them yonder.\n\">Bilang kaibigan, tungkulin mong palakasin ang loob nila.\n</span> <span class=\"fil-sentence\" data-translation=\"Tell them: 'You can do it! Give it a try in the game.\n'\">Sabihin sa kanila: 'Kaya mo yan! Sumubok ka sa laro.",
           "examples": [
             {
@@ -7551,7 +7551,7 @@
           ]
         },
         {
-          "title": "Overcoming Shyness: Pagtalo sa Hiyang Sarili (Advanced)",
+          "title": "Overcoming Shyness: Pagtalo sa Hiyang Sarili",
           "text": "<span class=\"fil-sentence\" data-translation=\"Shyness is a natural feeling for many young children.\n\">Ang pagkamahiyain ay natural na pakiramdam ng bata.\n</span> <span class=\"fil-sentence\" data-translation=\"But we can overcome it using active self-confidence.\n\">Ngunit maaari natin itong talunin gamit ang tiwala.\n</span> <span class=\"fil-sentence\" data-translation=\"Practice speaking in front of a mirror in your house.\n\">Mag-ensayo sa harap ng salamin sa inyong tahanan.\n</span> <span class=\"fil-sentence\" data-translation=\"Look into the eyes of the listener with a warm smile.\n\">Tumingin sa mata ng iyong kausap nang may ngiti.",
           "examples": [
             {
@@ -7565,7 +7565,7 @@
           ]
         },
         {
-          "title": "Tiwala sa Sarili at Pamilya (Advanced)",
+          "title": "Tiwala sa Sarili at Pamilya",
           "text": "<span class=\"fil-sentence\" data-translation=\"Our family is the first to support our talents yonder.\n\">Ang pamilya ang unang sumusuporta sa ating galing.\n</span> <span class=\"fil-sentence\" data-translation=\"Showcase your special talents to your parents at home.\n\">Ipagmalaki ang iyong talento sa iyong mga magulang.\n</span> <span class=\"fil-sentence\" data-translation=\"You can sing songs for them during quiet afternoon hours.\n\">Maaari kang umawit para sa kanila tuwing hapon.\n</span> <span class=\"fil-sentence\" data-translation=\"You can also show them your drawing projects from school.\n\">Maaari mo ring ipakita ang iyong mga iginuhit na larawan.",
           "examples": [
             {
@@ -7579,7 +7579,7 @@
           ]
         },
         {
-          "title": "Guided Practice: Pagtulong sa Pagsulat (Advanced)",
+          "title": "Guided Practice: Pagtulong sa Pagsulat",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's practice helping a classmate with their writing.\n\">Magsanay tayo sa pagtulong sa kaklase sa pagsusulat.\n</span> <span class=\"fil-sentence\" data-translation=\"Kiko finds it difficult to write capital letters properly.\n\">Si Kiko ay nahihirapang sumulat ng malalaking titik.\n</span> <span class=\"fil-sentence\" data-translation=\"Approach him and show the correct way to trace letter M.\n\">Lapitan mo siya at ipakita ang tamang pagsulat ng M.\n</span> <span class=\"fil-sentence\" data-translation=\"Say: 'Let's do this step-by-step on your writing paper.\n'\">Sabihin: 'Gawin natin ito nang dahan-dahan sa papel.",
           "examples": [
             {
@@ -7593,7 +7593,7 @@
           ]
         },
         {
-          "title": "Guided Practice: Paglahok sa Palaro (Advanced)",
+          "title": "Guided Practice: Paglahok sa Palaro",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's observe Matteo's participation in a school contest.\n\">Suriin natin ang paglahok ni Matteo sa paligsahan.\n</span> <span class=\"fil-sentence\" data-translation=\"He joined the drawing competition about environmental science.\n\">Sumali siya sa patimpalak ng pagguhit ng kalikasan.\n</span> <span class=\"fil-sentence\" data-translation=\"Even though there were older students participating yonder,\">Kahit may mga mas matatandang mag-aaral doon sa klase,</span> <span class=\"fil-sentence\" data-translation=\"he trusted yonder in his own artistic design and layout.\n\">nagtitiwala siya sa kanyang sariling disenyong gawa.\n</span> <span class=\"fil-sentence\" data-translation=\"He drew Mount Makiling and a clean, flowing river on paper.\n\">Gumuhit siya ng Bundok Makiling at malinis na ilog.",
           "examples": [
             {
@@ -7607,7 +7607,7 @@
           ]
         },
         {
-          "title": "Guided Practice: Pagbabahagi sa Barangay (Advanced)",
+          "title": "Guided Practice: Pagbabahagi sa Barangay",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's check a program inside our local barangay hall.\n\">Suriin natin ang isang programa sa ating barangay hall.\n</span> <span class=\"fil-sentence\" data-translation=\"There is a folk singing competition organized for children.\n\">May paligsahan ng katutubong awitin para sa mga bata.\n</span> <span class=\"fil-sentence\" data-translation=\"Lani participated and sang the song Leron Leron Sinta.\n\">Si Lani ay sumali at umawit ng Leron Leron Sinta.\n</span> <span class=\"fil-sentence\" data-translation=\"Her voice was loud and clear, heard by all the tanods.\n\">Ang kanyang tinig ay malakas at narinig ng mga tanod.",
           "examples": [
             {
@@ -7621,7 +7621,7 @@
           ]
         },
         {
-          "title": "Maling Pagmamaliit sa Sarili (Advanced)",
+          "title": "Maling Pagmamaliit sa Sarili",
           "text": "<span class=\"fil-sentence\" data-translation=\"Avoid thinking yonder that you have nothing to offer others.\n\">Iwasan ang pag-iisip na wala kang maitutulong sa iba.\n</span> <span class=\"fil-sentence\" data-translation=\"Wrong: 'I am not smart, I cannot help my classmates yonder.\n'\">Mali: 'Hindi ako magaling, hindi ko sila matutulungan.\n'</span> <span class=\"fil-sentence\" data-translation=\"Every child has a simple and unique way to assist others.\n\">Ang bawat bata ay may simpleng paraan upang tumulong.\n</span> <span class=\"fil-sentence\" data-translation=\"You can share your crayons with the classmate next to you.\n\">Maaari mong ipahiram ang iyong krayola sa katabi mo.",
           "examples": [
             {
@@ -7635,7 +7635,7 @@
           ]
         },
         {
-          "title": "Maling Pakikipag-away sa Palaro (Advanced)",
+          "title": "Maling Pakikipag-away sa Palaro",
           "text": "<span class=\"fil-sentence\" data-translation=\"Avoid starting arguments when losing in playground games.\n\">Iwasan ang pakikipag-away kapag natatalo sa palaro.\n</span> <span class=\"fil-sentence\" data-translation=\"Wrong: 'I was cheated! I will never play with you again!'\">Mali: 'Nadaya ako! Hindi na ako makikipaglaro sa inyo!'</span> <span class=\"fil-sentence\" data-translation=\"Anger does not display self-discipline or moral maturity.\n\">Ang galit ay hindi nagpapakita ng disiplina sa sarili.\n</span> <span class=\"fil-sentence\" data-translation=\"It shows a lack of acceptance of game outcomes yonder.\n\">Ito ay nagpapakita ng kawalan ng pagtanggap sa laro natin.\n</span> <span class=\"fil-sentence\" data-translation=\"We must remain calm and accept the results gracefully.\n\">Dapat maging mahinahon at tanggapin ang resulta nang maayos.",
           "examples": [
             {
@@ -7649,7 +7649,7 @@
           ]
         },
         {
-          "title": "Ang Pagpaplano ng Pagtulong (Advanced)",
+          "title": "Ang Pagpaplano ng Pagtulong",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's create a plan to help out inside our households.\n\">Gumawa tayo ng plano ng pagtulong sa ating pamilya.\n</span> <span class=\"fil-sentence\" data-translation=\"Write down three simple household chores on your paper.\n\">Isulat sa papel ang tatlong simpleng gawaing-bahay.\n</span> <span class=\"fil-sentence\" data-translation=\"E.\ng.\n, making your bed in the morning, watering plants.\n\">E.",
           "examples": [
             {
@@ -7663,7 +7663,7 @@
           ]
         },
         {
-          "title": "Karagdagang Pagsasanay 1 (Advanced)",
+          "title": "Karagdagang Pagsasanay 1",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
           "examples": [
             {
@@ -7677,7 +7677,7 @@
           ]
         },
         {
-          "title": "Karagdagang Pagsasanay 2 (Advanced)",
+          "title": "Karagdagang Pagsasanay 2",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
           "examples": [
             {
@@ -7691,7 +7691,7 @@
           ]
         },
         {
-          "title": "Karagdagang Pagsasanay 3 (Advanced)",
+          "title": "Karagdagang Pagsasanay 3",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
           "examples": [
             {
@@ -7705,7 +7705,7 @@
           ]
         },
         {
-          "title": "Karagdagang Pagsasanay 4 (Advanced)",
+          "title": "Karagdagang Pagsasanay 4",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
           "examples": [
             {
@@ -7719,7 +7719,7 @@
           ]
         },
         {
-          "title": "Karagdagang Pagsasanay 5 (Advanced)",
+          "title": "Karagdagang Pagsasanay 5",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
           "examples": [
             {
@@ -7733,7 +7733,7 @@
           ]
         },
         {
-          "title": "Karagdagang Pagsasanay 6 (Advanced)",
+          "title": "Karagdagang Pagsasanay 6",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
           "examples": [
             {
@@ -7747,7 +7747,7 @@
           ]
         },
         {
-          "title": "Karagdagang Pagsasanay 7 (Advanced)",
+          "title": "Karagdagang Pagsasanay 7",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
           "examples": [
             {
@@ -7761,7 +7761,7 @@
           ]
         },
         {
-          "title": "Karagdagang Pagsasanay 8 (Advanced)",
+          "title": "Karagdagang Pagsasanay 8",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
           "examples": [
             {
@@ -7775,7 +7775,7 @@
           ]
         },
         {
-          "title": "Karagdagang Pagsasanay 9 (Advanced)",
+          "title": "Karagdagang Pagsasanay 9",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
           "examples": [
             {
@@ -7789,7 +7789,7 @@
           ]
         },
         {
-          "title": "Karagdagang Pagsasanay 10 (Advanced)",
+          "title": "Karagdagang Pagsasanay 10",
           "text": "<span class=\"fil-sentence\" data-translation=\"Let's review our lessons for this week.\n\">Mag-review tayo ng mga aralin sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied the important concepts of Week 2.\n\">Pinag-aralan natin ang mahahalagang konsepto ng Week 2.\n</span> <span class=\"fil-sentence\" data-translation=\"Be careful in reading and understanding the words.\n\">Maging maingat sa pagbabasa at pag-unawa ng mga salita.\n</span> <span class=\"fil-sentence\" data-translation=\"Apply your knowledge to your own daily life.\n\">Gamitin ang iyong kaalaman sa iyong sariling buhay.",
           "examples": [
             {
@@ -7803,7 +7803,7 @@
           ]
         },
         {
-          "title": "Buod ng Ikalawang Linggo (Advanced)",
+          "title": "Buod ng Ikalawang Linggo",
           "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed all the slides for this week.\n\">Binabati kita! Natapos mo ang lahat ng slide sa linggong ito.\n</span> <span class=\"fil-sentence\" data-translation=\"We learned about sharing our talents with our neighbors.\n\">Natutunan natin ang pagbabahagi ng talento sa ating kapwa.\n</span> <span class=\"fil-sentence\" data-translation=\"We discovered the value of teaching our playmates in town.\n\">Nalaman natin ang kahalagahan ng pagtuturo sa kalaro natin.\n</span> <span class=\"fil-sentence\" data-translation=\"We studied how to participate in school competitions.\n\">Nag-aral tayong lumahok sa mga paligsahan sa paaralan.",
           "examples": [
             {

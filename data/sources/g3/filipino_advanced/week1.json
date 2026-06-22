@@ -2,10 +2,10 @@
   "color": "#ec4899",
   "icon": "🗣️",
   "title": "Filipino",
-  "subtitle": "Week 1: Pangngalang Pantangi at Pambalana sa Pook [Advanced]",
+  "subtitle": "Week 1: Pangngalang Pantangi at Pambalana sa Pook",
   "slides": [
     {
-      "title": "Maligayang Pagdating sa Filipino! (Advanced)",
+      "title": "Maligayang Pagdating sa Filipino!",
       "text": "<span class=\"fil-sentence\" data-translation=\"Hello, Grade Three student! Welcome!\">Kumusta, mag-aaral sa Grade Three! Maligayang pagdating!</span> <span class=\"fil-sentence\" data-translation=\"This week, we will study about nouns.\n\">Ngayong linggo, mag-aaral tayo tungkol sa mga pangngalan.\n</span> <span class=\"fil-sentence\" data-translation=\"A noun is a name of a person, thing, or place.\n\">Ang pangngalan ay ngalan ng tao, bagay, o pook.\n</span> <span class=\"fil-sentence\" data-translation=\"We will use examples from our own community.\n\">Gagamit tayo ng mga halimbawa sa ating sariling komunidad.\n</span> <span class=\"fil-sentence\" data-translation=\"We will study proper and common nouns of places.\n\">Pag-aaralan natin ang pangngalang pantangi at pambalana sa pook.",
       "examples": [
         {
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "title": "Ano ang Pangngalan? (Advanced)",
+      "title": "Ano ang Pangngalan?",
       "text": "<span class=\"fil-sentence\" data-translation=\"A noun is a word used to name things in the world.\n\">Ang pangngalan ay tawag sa ngalan ng mga bagay.\n</span> <span class=\"fil-sentence\" data-translation=\"This includes people, animals, places, and events.\n\">Kasama rito ang tao, hayop, pook, at mga pangyayari.\n</span> <span class=\"fil-sentence\" data-translation=\"Around us, there are different types of places.\n\">Sa paligid natin, may mga iba't ibang uri ng pook.\n</span> <span class=\"fil-sentence\" data-translation=\"We have homes, schools, churches, and markets.\n\">Mayroon tayong tahanan, paaralan, simbahan, at palengke.",
       "examples": [
         {
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "title": "Pangngalang Pambalana (Advanced)",
+      "title": "Pangngalang Pambalana",
       "text": "<span class=\"fil-sentence\" data-translation=\"A common noun is a general name of a place.\n\">Ang pambalana ay pangkalahatang ngalan ng pook.\n</span> <span class=\"fil-sentence\" data-translation=\"It is not specific and refers to general categories.\n\">Ito ay hindi tiyak at tumutukoy sa pangkalahatan.\n</span> <span class=\"fil-sentence\" data-translation=\"It starts with a lowercase letter when written.\n\">Nagsisimula ito sa maliit na titik kapag isinusulat.\n</span> <span class=\"fil-sentence\" data-translation=\"Examples: city, province, hospital, and river.\n\">Halimbawa: lungsod, lalawigan, ospital, at ilog.",
       "examples": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "title": "Pangngalang Pantangi (Advanced)",
+      "title": "Pangngalang Pantangi",
       "text": "<span class=\"fil-sentence\" data-translation=\"A proper noun is a specific name of a place.\n\">Ang pantangi ay tiyak na ngalan ng isang pook.\n</span> <span class=\"fil-sentence\" data-translation=\"It refers to one unique and specific place only.\n\">Ito ay tumutukoy sa isang tanging lugar lamang.\n</span> <span class=\"fil-sentence\" data-translation=\"It always starts with a capital letter in writing.\n\">Lagi itong nagsisimula sa malaking titik sa pagsulat.\n</span> <span class=\"fil-sentence\" data-translation=\"Examples: Manila, Laguna, Barangay San Jose, Pasig River.\n\">Halimbawa: Maynila, Laguna, Barangay San Jose, Ilog Pasig.",
       "examples": [
         {
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "title": "Pagkukumpara sa Pagsulat (Advanced)",
+      "title": "Pagkukumpara sa Pagsulat",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's compare the two types of nouns side by side.\n\">Pagkumparahin natin ang dalawang uri ng pangngalan.\n</span> <span class=\"fil-sentence\" data-translation=\"The common noun is 'country', the proper is 'Philippines'.\n\">Ang pambalana ay 'bansa', ang pantangi ay 'Pilipinas'.\n</span> <span class=\"fil-sentence\" data-translation=\"The common noun is 'province', the proper is 'Laguna'.\n\">Ang pambalana ay 'lalawigan', ang pantangi ay 'Laguna'.\n</span> <span class=\"fil-sentence\" data-translation=\"The common noun is 'school', the proper is 'Calamba School'.\n\">Ang pambalana ay 'paaralan', ang pantangi ay 'Paaralang Calamba'.",
       "examples": [
         {
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "title": "Ang Tahanan at Komunidad (Advanced)",
+      "title": "Ang Tahanan at Komunidad",
       "text": "<span class=\"fil-sentence\" data-translation=\"Our home is an important place for all of us.\n\">Ang ating tahanan ay isang mahalagang pook sa atin.\n</span> <span class=\"fil-sentence\" data-translation=\"The common noun for it is 'home' or 'house'.\n\">Ang pambalana para rito ay 'tahanan' o 'bahay'.\n</span> <span class=\"fil-sentence\" data-translation=\"The proper noun is your own specific address today.\n\">Ang pantangi naman ay ang iyong sariling address ngayon.\n</span> <span class=\"fil-sentence\" data-translation=\"Example: '123 Rizal Street' is a proper noun.\n\">Halimbawa: '123 Kalye Rizal' ay isang pangngalang pantangi.",
       "examples": [
         {
@@ -93,7 +93,7 @@
       ]
     },
     {
-      "title": "Ang Paaralan sa Pagsusuri (Advanced)",
+      "title": "Ang Paaralan sa Pagsusuri",
       "text": "<span class=\"fil-sentence\" data-translation=\"The school is a place where we study together.\n\">Ang paaralan ay pook kung saan tayo nag-aaral.\n</span> <span class=\"fil-sentence\" data-translation=\"The word 'school' is a general common noun.\n\">Ang 'paaralan' ay pangkalahatang pangngalang pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"We have different rooms inside the school building.\n\">Mayroon tayong iba't ibang silid sa loob nito.\n</span> <span class=\"fil-sentence\" data-translation=\"There is the classroom, library, office, and restroom.\n\">May silid-aralan, aklatan, opisina, at palikuran.",
       "examples": [
         {
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "title": "Mga Lugar ng Pagsamba (Advanced)",
+      "title": "Mga Lugar ng Pagsamba",
       "text": "<span class=\"fil-sentence\" data-translation=\"The church is a place for our quiet prayers.\n\">Ang simbahan ay pook para sa ating pananalangin.\n</span> <span class=\"fil-sentence\" data-translation=\"The word 'church' is a general common noun.\n\">Ang 'simbahan' ay pangkalahatang pambalana na salita.\n</span> <span class=\"fil-sentence\" data-translation=\"There are different churches and chapels in the community.\n\">May iba't ibang simbahan at kapilya sa komunidad.\n</span> <span class=\"fil-sentence\" data-translation=\"Example: 'San Pablo Cathedral' is a proper noun.\n\">Halimbawa: 'Katedral ng San Pablo' ay isang pantangi.",
       "examples": [
         {
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "title": "Mga Pook ng Kalusugan (Advanced)",
+      "title": "Mga Pook ng Kalusugan",
       "text": "<span class=\"fil-sentence\" data-translation=\"The hospital is a place that cares for sick people.\n\">Ang ospital ay pook na nag-aalaga sa may-sakit.\n</span> <span class=\"fil-sentence\" data-translation=\"The words 'hospital' and 'health center' are common nouns.\n\">Ang 'ospital' at 'health center' ay mga pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"We use them in general everyday conversations.\n\">Ginagamit natin ang mga ito sa pangkalahatang usapan.\n</span> <span class=\"fil-sentence\" data-translation=\"But the specific name of a clinic is a proper noun.\n\">Ngunit ang tiyak na ngalan ng klinika ay pantangi.",
       "examples": [
         {
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "title": "Mga Likas na Pook (Advanced)",
+      "title": "Mga Likas na Pook",
       "text": "<span class=\"fil-sentence\" data-translation=\"Nature is full of beautiful natural places.\n\">Ang kalikasan ay puno ng magagandang likas na pook.\n</span> <span class=\"fil-sentence\" data-translation=\"Examples: mountain, hill, river, sea, and waterfall.\n\">Halimbawa: bundok, burol, ilog, dagat, at talon.\n</span> <span class=\"fil-sentence\" data-translation=\"These words are common nouns in Filipino.\n\">Ang mga salitang ito ay mga pambalana sa Filipino.\n</span> <span class=\"fil-sentence\" data-translation=\"When we give a specific name, it becomes proper.\n\">Kapag binigyan natin ng tiyak na ngalan, ito ay pantangi.",
       "examples": [
         {
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "title": "Mga Makasaysayang Pook (Advanced)",
+      "title": "Mga Makasaysayang Pook",
       "text": "<span class=\"fil-sentence\" data-translation=\"There are places that play a big part in history.\n\">May mga pook na may malaking bahagi sa kasaysayan.\n</span> <span class=\"fil-sentence\" data-translation=\"The term 'historical place' is a common noun.\n\">Ang 'makasaysayang pook' ay isang pangngalang pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"But the specific monument is proper in language.\n\">Ngunit ang tiyak na monumento ay pantangi sa wika.\n</span> <span class=\"fil-sentence\" data-translation=\"Example: 'Rizal Park' in Manila is a proper noun.\n\">Halimbawa: 'Rizal Park' sa Maynila ay isang pantangi.",
       "examples": [
         {
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "title": "Mga Lugar ng Pamimili (Advanced)",
+      "title": "Mga Lugar ng Pamimili",
       "text": "<span class=\"fil-sentence\" data-translation=\"The market is a place where we buy our food.\n\">Ang palengke ay pook kung saan tayo namimili.\n</span> <span class=\"fil-sentence\" data-translation=\"The words 'market' and 'store' are common nouns.\n\">Ang 'palengke' at 'tindahan' ay mga pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"There are many stores in our own barangay.\n\">Maraming tindahan sa ating sariling barangay.\n</span> <span class=\"fil-sentence\" data-translation=\"But the specific name of a mall is proper.\n\">Ngunit ang tiyak na ngalan ng mall ay pantangi.",
       "examples": [
         {
@@ -177,7 +177,7 @@
       ]
     },
     {
-      "title": "Mga Lugar ng Libangan (Advanced)",
+      "title": "Mga Lugar ng Libangan",
       "text": "<span class=\"fil-sentence\" data-translation=\"The park is a beautiful place for playing.\n\">Ang parke ay magandang pook para sa paglalaro.\n</span> <span class=\"fil-sentence\" data-translation=\"The words 'park' and 'playground' are common nouns.\n\">Ang 'parke' at 'laruan' ay mga pambalana sa wika.\n</span> <span class=\"fil-sentence\" data-translation=\"Here we run around and play with our friends.\n\">Dito tayo tumatakbo at nakikipaglaro sa mga kaibigan.\n</span> <span class=\"fil-sentence\" data-translation=\"If the park has a specific name, it is proper.\n\">Kung ang parke ay may tiyak na pangalan, ito ay pantangi.",
       "examples": [
         {
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "title": "Pagsusuri sa Pangungusap (Advanced)",
+      "title": "Pagsusuri sa Pangungusap",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's analyze the place nouns in sentences.\n\">Suriin natin ang mga pook sa pangungusap.\n</span> <span class=\"fil-sentence\" data-translation=\"Statement: 'We went to a big school.\n'\">Pahayag: 'Pumunta kami sa isang malaking paaralan.\n'</span> <span class=\"fil-sentence\" data-translation=\"The place here is 'school' which is a common noun.\n\">Ang pook dito ay 'paaralan' na isang pambalana.\n</span> <span class=\"fil-sentence\" data-translation=\"Another statement: 'We are studying in Calamba.\n'\">Isa pang pahayag: 'Kami ay nag-aaral sa Calamba.",
       "examples": [
         {
@@ -205,7 +205,7 @@
       ]
     },
     {
-      "title": "Panuntunan sa Malaking Titik (Advanced)",
+      "title": "Panuntunan sa Malaking Titik",
       "text": "<span class=\"fil-sentence\" data-translation=\"Why is the capital letter important for proper nouns?\">Bakit mahalaga ang malaking titik sa pantangi?</span> <span class=\"fil-sentence\" data-translation=\"It indicates the specific and unique name of a place.\n\">Ito ay nagpapakita ng tiyak na ngalan ng pook.\n</span> <span class=\"fil-sentence\" data-translation=\"If we write 'pilipinas' in lowercase, it is wrong.\n\">Kung isusulat natin ang 'pilipinas', ito ay mali.\n</span> <span class=\"fil-sentence\" data-translation=\"It must be written as 'Pilipinas' with a capital P.\n\">Dapat itong isulat na 'Pilipinas' na may malaking P.\n</span> <span class=\"fil-sentence\" data-translation=\"Likewise for 'ilog pasig', it must be 'Ilog Pasig'.\n\">Gayundin sa 'ilog pasig', dapat ay 'Ilog Pasig'.",
       "examples": [
         {
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "title": "Pambalana sa Ating Paligid (Advanced)",
+      "title": "Pambalana sa Ating Paligid",
       "text": "<span class=\"fil-sentence\" data-translation=\"Look outside your window right now.\n\">Tumingin ka sa labas ng inyong bintana ngayon.\n</span> <span class=\"fil-sentence\" data-translation=\"What general places can you observe out there?\">Ano-anong mga pangkalahatang pook ang iyong nakikita?</span> <span class=\"fil-sentence\" data-translation=\"Maybe there is a road, field, river, or houses.\n\">Maaaring may kalsada, bukid, ilog, o kabahayan.\n</span> <span class=\"fil-sentence\" data-translation=\"These words represent general types of places.\n\">Ang mga salitang ito ay mga pangkalahatang pook.\n</span> <span class=\"fil-sentence\" data-translation=\"So they are common nouns in our language.\n\">Kaya sila ay mga pangngalang pambalana sa wika.",
       "examples": [
         {
@@ -233,7 +233,7 @@
       ]
     },
     {
-      "title": "Mga Bayani at Kanilang Pook (Advanced)",
+      "title": "Mga Bayani at Kanilang Pook",
       "text": "<span class=\"fil-sentence\" data-translation=\"Many places are named after our national heroes.\n\">Maraming pook ang ipinangalan sa mga bayani natin.\n</span> <span class=\"fil-sentence\" data-translation=\"Examples: 'Rizal Street' or 'Town of Bonifacio'.\n\">Halimbawa: 'Kalye Rizal' o 'Bayan ng Bonifacio'.\n</span> <span class=\"fil-sentence\" data-translation=\"These historical places are proper nouns.\n\">Ang mga pook na ito ay mga pangngalang pantangi.\n</span> <span class=\"fil-sentence\" data-translation=\"A capital letter is needed due to the specific name.\n\">Kailangan ang malaking titik dahil may tiyak na ngalan.",
       "examples": [
         {
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "title": "Pagsasanay: Paghahanap ng Pook (Advanced)",
+      "title": "Pagsasanay: Paghahanap ng Pook",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's play a game of finding places today.\n\">Maglaro tayo ng paghahanap ng mga pook ngayon.\n</span> <span class=\"fil-sentence\" data-translation=\"Read: 'Matteo went to the big market.\n'\">Basahin: 'Pumunta si Matteo sa malaking palengke.\n'</span> <span class=\"fil-sentence\" data-translation=\"Where did Matteo go in our sentence?\">Saan pumunta si Matteo sa ating pangungusap?</span> <span class=\"fil-sentence\" data-translation=\"He went to the 'market' which is a general place.\n\">Pumunta siya sa 'palengke' na isang pangkalahatang pook.\n</span> <span class=\"fil-sentence\" data-translation=\"The word 'market' is a common noun of place.\n\">Ang salitang 'palengke' ay pangngalang pambalana.",
       "examples": [
         {
@@ -261,7 +261,7 @@
       ]
     },
     {
-      "title": "Pagsasanay: Tiyak na Pook (Advanced)",
+      "title": "Pagsasanay: Tiyak na Pook",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's read another sentence in our language.\n\">Basahin natin ang isa pang pangungusap sa wika.\n</span> <span class=\"fil-sentence\" data-translation=\"Statement: 'They went on vacation to Baguio City.\n'\">Pahayag: 'Sila ay nagbakasyon sa Lungsod ng Baguio.\n'</span> <span class=\"fil-sentence\" data-translation=\"What is the specific place mentioned in the statement?\">Ano ang tiyak na pook na binanggit sa pahayag?</span> <span class=\"fil-sentence\" data-translation=\"The specific place is 'Baguio City' in Luzon.\n\">Ang tiyak na pook ay 'Lungsod ng Baguio' sa Luzon.\n</span> <span class=\"fil-sentence\" data-translation=\"This is a proper noun in our language.\n\">Ito ay isang pangngalang pantangi sa ating wika.",
       "examples": [
         {
@@ -275,7 +275,7 @@
       ]
     },
     {
-      "title": "Pagsasanay: Tama o Mali? (Advanced)",
+      "title": "Pagsasanay: Tama o Mali?",
       "text": "<span class=\"fil-sentence\" data-translation=\"Let's check the spelling of the following places.\n\">Suriin natin ang pagsulat ng mga sumusunod na pook.\n</span> <span class=\"fil-sentence\" data-translation=\"Statement: 'He lives in barangay san Juan.\n'\">Pahayag: 'Nakatira siya sa barangay san Juan.\n'</span> <span class=\"fil-sentence\" data-translation=\"Is there a mistake in writing this place name?\">Mayroon bang pagkakamali sa pagsulat ng pook na ito?</span> <span class=\"fil-sentence\" data-translation=\"Yes, 'barangay san Juan' should be a proper noun.\n\">Oo, ang 'barangay san Juan' ay dapat maging pantangi.\n</span> <span class=\"fil-sentence\" data-translation=\"It must be written as 'Barangay San Juan' with capitals.\n\">Dapat itong isulat na 'Barangay San Juan' na malaki.",
       "examples": [
         {
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "title": "Maling Paggamit ng Titik (Advanced)",
+      "title": "Maling Paggamit ng Titik",
       "text": "<span class=\"fil-sentence\" data-translation=\"Avoid writing common nouns with capital letters.\n\">Iwasan ang pagsusulat ng pambalana sa malaking titik.\n</span> <span class=\"fil-sentence\" data-translation=\"Wrong: 'We went to a Hospital.\n' (common noun capitalized)\">Mali: 'Pumunta kami sa isang Ospital.\n'</span> <span class=\"fil-sentence\" data-translation=\"The word 'hospital' is just a common noun here.\n\">Ang 'ospital' ay pambalana lamang sa pangungusap.\n</span> <span class=\"fil-sentence\" data-translation=\"So it should be written with a lowercase letter o.\n\">Kaya dapat itong isulat sa maliit na titik o.",
       "examples": [
         {
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "title": "Pagkilala sa mga Kategorya (Advanced)",
+      "title": "Pagkilala sa mga Kategorya",
       "text": "<span class=\"fil-sentence\" data-translation=\"Do not confuse people or things with places.\n\">Huwag ipagpalit ang tao o bagay sa pook.\n</span> <span class=\"fil-sentence\" data-translation=\"The 'teacher' is a person; the 'school' is a place.\n\">Ang 'guro' ay tao; ang 'paaralan' ay pook.\n</span> <span class=\"fil-sentence\" data-translation=\"The 'book' is a thing; the 'library' is a place.\n\">Ang 'aklat' ay bagay; ang 'aklatan' ay pook.\n</span> <span class=\"fil-sentence\" data-translation=\"The 'doctor' is a person; the 'hospital' is a place.\n\">Ang 'doktor' ay tao; ang 'ospital' ay pook.",
       "examples": [
         {
@@ -317,7 +317,7 @@
       ]
     },
     {
-      "title": "Bakit Mahalaga ang Pook? (Advanced)",
+      "title": "Bakit Mahalaga ang Pook?",
       "text": "<span class=\"fil-sentence\" data-translation=\"Places provide the setting for our stories.\n\">Ang mga pook ay nagbibigay ng setting sa kwento.\n</span> <span class=\"fil-sentence\" data-translation=\"This is where all important events take place.\n\">Dito nagaganap ang lahat ng mahahalagang pangyayari.\n</span> <span class=\"fil-sentence\" data-translation=\"In writing stories, we need to specify the place.\n\">Sa pagsulat ng kwento, kailangan natin ang pook.\n</span> <span class=\"fil-sentence\" data-translation=\"Specifying the place gives clarity to the reader.\n\">Ang pagtukoy sa pook ay nagbibigay-linaw sa mambabasa.",
       "examples": [
         {
@@ -331,7 +331,7 @@
       ]
     },
     {
-      "title": "Gabay sa Pagsusulat ng Pook (Advanced)",
+      "title": "Gabay sa Pagsusulat ng Pook",
       "text": "<span class=\"fil-sentence\" data-translation=\"Here is a quick guide to writing places correctly.\n\">Narito ang mabilis na gabay sa pagsusulat ng pook.\n</span> <span class=\"fil-sentence\" data-translation=\"First, determine if it is common or proper.\n\">Una, alamin kung ito ay pambalana o pantangi.\n</span> <span class=\"fil-sentence\" data-translation=\"Second, if it is proper, capitalize the first letter.\n\">Pangalawa, kung ito ay pantangi, lakihan ang titik.\n</span> <span class=\"fil-sentence\" data-translation=\"Third, if common, use lowercase first letters.\n\">Pangatlo, kung pambalana, gamitin ang maliit na titik.",
       "examples": [
         {
@@ -345,7 +345,7 @@
       ]
     },
     {
-      "title": "Buod ng Unang Linggo (Advanced)",
+      "title": "Buod ng Unang Linggo",
       "text": "<span class=\"fil-sentence\" data-translation=\"Congratulations! You completed the slides for Week 1.\n\">Binabati kita! Natapos mo ang mga slide sa Week 1.\n</span> <span class=\"fil-sentence\" data-translation=\"We learned about common nouns of places.\n\">Natutunan natin ang mga pangngalang pambalana sa pook.\n</span> <span class=\"fil-sentence\" data-translation=\"We also learned about proper nouns of places.\n\">Natutunan din natin ang pangngalang pantangi sa pook.\n</span> <span class=\"fil-sentence\" data-translation=\"We discovered the correct use of capital letters.\n\">Nalaman natin ang wastong paggamit ng malaking titik.",
       "examples": [
         {
