@@ -89,6 +89,72 @@ const PARENT_LEARNER_ACTIVITIES = [
       "Now, fill the syringe with liquid water and seal the tip with your thumb.",
       "Try to push the plunger forward again. Notice how water cannot be compressed compared to air. Discuss how molecules are arranged differently in liquids and gases."
     ]
+  },
+  {
+    title: "Magnets and Magnetic Fields Experiment",
+    objectives: "Classify common household items into magnetic and non-magnetic materials, and map out the field of attraction.",
+    steps: [
+      "Find a refrigerator magnet or any small magnet in your home.",
+      "Collect 8 household items: a paperclip, a wooden pencil, a copper coin, an iron nail, a plastic spoon, a key, paper, and aluminum foil.",
+      "Touch the magnet to each item and record whether it sticks (magnetic) or does not stick (non-magnetic).",
+      "Observe that only metals containing iron, nickel, or cobalt are attracted to magnets.",
+      "Place a paperclip on a table. Slowly bring the magnet closer and measure the distance at which the paperclip jumps to the magnet. Write down this distance."
+    ]
+  },
+  {
+    title: "Shadow Shape and Size Exploration Log",
+    objectives: "Observe how light travels in straight lines and how the size and shape of a shadow change with distance from a light source.",
+    steps: [
+      "Find a flashlight or use a smartphone flashlight in a dark or dimly lit room.",
+      "Select a solid, opaque object (like a toy figure, a cup, or a closed book).",
+      "Hold the object 10 centimeters away from a flat wall, shine the flashlight on it, and observe the sharpness and size of the shadow.",
+      "Move the object closer to the flashlight (away from the wall) and observe how the shadow grows larger and blurrier.",
+      "Move the object closer to the wall (away from the flashlight) and observe how the shadow grows smaller and sharper. Explain how shadows are formed when light is blocked."
+    ]
+  },
+  {
+    title: "Family Budgeting and Shopping Math Activity",
+    objectives: "Apply addition and multiplication skills to plan a simple family meal within a budget of 500 Pesos.",
+    steps: [
+      "With a parent, write down a menu for a simple lunch or dinner (e.g., Sinigang or Adobo).",
+      "List all the ingredients needed (e.g., pork/chicken, vegetables, tamarind mix, soy sauce, garlic).",
+      "Look up or ask your parent for the approximate cost of each ingredient in the local market or store.",
+      "Calculate the total cost of all the ingredients using addition. Ensure it does not exceed 500 Pesos.",
+      "If the total is below 500 Pesos, calculate how much change you will receive. If it is over, discuss what ingredients can be adjusted."
+    ]
+  },
+  {
+    title: "Bilingual Story Translation and Phonics Activity",
+    objectives: "Read a short story, identify adjectives and pronouns, and translate key sentences between English and Filipino.",
+    steps: [
+      "Read a short story or paragraph from your weekly Reading block together with your parent.",
+      "Identify at least 3 adjectives (describing words) and 3 pronouns (pointing or replacing words) used in the story.",
+      "Write down the identified words in your study log and write their counterparts (e.g. 'he' to 'siya', 'beautiful' to 'maganda').",
+      "Select one key sentence from the story and translate it from English to Filipino, ensuring proper grammar and meaning.",
+      "Read the translated sentence aloud to your parent and explain how the meaning is preserved across both languages."
+    ]
+  },
+  {
+    title: "Mapping Our Community and History Log",
+    objectives: "Draw a simple map of your local barangay or neighborhood and interview a parent about the history of its name.",
+    steps: [
+      "On a clean sheet of paper, draw a simple map of your neighborhood showing your home, the nearest street, and key landmarks (e.g., barangay hall, school, chapel, store).",
+      "Identify the cardinal directions (North, South, East, West) and mark them on your map.",
+      "Ask your parent or grandparent about the history of your barangay: why was it named that way, and what was it like in the past?",
+      "Write a brief 3-sentence summary of the barangay's history next to your map.",
+      "Discuss with your parent how the community has changed over time in terms of buildings, roads, and environment."
+    ]
+  },
+  {
+    title: "Water Conservation Audit and GMRC Checklist",
+    objectives: "Perform a household audit of water usage and create a daily checklist to practice the values of saving resources (pagtitipid).",
+    steps: [
+      "Inspect all the water faucets, pipes, and toilets in your house with a parent to check for any leaks.",
+      "Observe how members of the family wash dishes, take baths, or water plants, and discuss if water is being wasted.",
+      "Create a 'Water Saver' checklist in your study log with rules: (a) Turn off the faucet while brushing teeth, (b) Use a basin (palanggana) for washing dishes, (c) Reuse laundry water for flushing toilets.",
+      "Track your family's compliance with these rules for three days by marking checkmarks.",
+      "Calculate how much water was saved and discuss how conservation shows respect and care for the family and environment."
+    ]
   }
 ];
 
@@ -547,7 +613,7 @@ function isWeekUnlocked(weekNum) {
   const learnerGrade = getLearnerGrade();
   const localContent = localStorage.getItem(`local_${learnerGrade}_week_data_${weekNum}`);
   const hasLocalData = localContent !== null && localContent !== "" && localContent !== "undefined" && localContent !== "null";
-  return weekNum === 1 || weekNum === 2 || weekNum === 3 || weekNum === 4 || weekNum === 5 || hasLocalData;
+  return weekNum === 1 || weekNum === 2 || weekNum === 3 || weekNum === 4 || hasLocalData;
 }
 
 function getAcademicWeekFromDate(date) {
@@ -1385,12 +1451,21 @@ function checkWeeklyUpdates() {
       return response.json();
     })
     .then(manifest => {
+      const localVersion = localStorage.getItem(`local_${learnerGrade}_manifest_version`);
+      const remoteVersion = manifest.version || '';
+      
+      if (localVersion && localVersion === remoteVersion) {
+        alert("There is no available update.");
+        resetButton();
+        return;
+      }
+
       const weeksToDownload = manifest.weeks || [];
       const imagesToDownload = manifest.images || [];
       const reviewsToDownload = manifest.reviews || [];
 
       if (weeksToDownload.length === 0 && imagesToDownload.length === 0 && reviewsToDownload.length === 0) {
-        alert("No updates listed in the manifest.");
+        alert("There is no available update.");
         resetButton();
         return;
       }
@@ -1454,6 +1529,9 @@ function checkWeeklyUpdates() {
       });
 
       return Promise.all(tasks).then(() => {
+        if (remoteVersion) {
+          localStorage.setItem(`local_${learnerGrade}_manifest_version`, remoteVersion);
+        }
         buildWeekSelector();
         
         if (loadedWeeks.includes(currentWeek)) {
@@ -1716,7 +1794,7 @@ function renderCurrentView() {
   
   const transBtn = document.getElementById('header-trans-btn');
   if (transBtn) {
-    if (currentSubject === 'filipino' || currentSubject === 'makabansa') {
+    if (currentSubject === 'filipino' || currentSubject === 'makabansa' || currentSubject === 'gmrc') {
       transBtn.style.display = 'flex';
       const isShowing = document.body.classList.contains('show-translation');
       transBtn.classList.toggle('active-tool', isShowing);
@@ -6450,12 +6528,27 @@ function runOnboardingUpdate() {
       return response.json();
     })
     .then(manifest => {
+      const localVersion = localStorage.getItem(`local_${learnerGrade}_manifest_version`);
+      const remoteVersion = manifest.version || '';
+
+      if (localVersion && localVersion === remoteVersion) {
+        if (statusEl) {
+          statusEl.style.color = "var(--correct)";
+          statusEl.innerHTML = "✅ There is no available update.";
+        }
+        setTimeout(() => showOnboardingPINStep(), 1500);
+        return;
+      }
+
       const weeksToDownload = manifest.weeks || [];
       const imagesToDownload = manifest.images || [];
       const reviewsToDownload = manifest.reviews || [];
 
       if (weeksToDownload.length === 0 && imagesToDownload.length === 0 && reviewsToDownload.length === 0) {
-        if (statusEl) statusEl.innerHTML = "✅ Database is up to date!";
+        if (statusEl) {
+          statusEl.style.color = "var(--correct)";
+          statusEl.innerHTML = "✅ There is no available update.";
+        }
         setTimeout(() => showOnboardingPINStep(), 1500);
         return;
       }
@@ -6476,34 +6569,32 @@ function runOnboardingUpdate() {
         }
       }
 
-      // Download week JS files
+      // Download week JSON files
       weeksToDownload.forEach(w => {
-        const url = `${REMOTE_UPDATE_URL}/data/${learnerGrade}/week${w}.js`;
+        const url = `${REMOTE_UPDATE_URL}/data/${learnerGrade}/week${w}.json`;
         const task = fetch(url, { cache: 'no-store' })
           .then(res => {
             if (!res.ok) throw new Error(`Week ${w} download failed`);
-            return res.text();
+            return res.json();
           })
-          .then(content => {
-            (0, eval)(content);
-            localStorage.setItem(`local_${learnerGrade}_week_data_${w}`, content);
+          .then(jsonData => {
+            localStorage.setItem(`local_${learnerGrade}_week_data_${w}`, JSON.stringify(jsonData));
             loadedWeeks.push(w);
             updateProgress();
           });
         tasks.push(task);
       });
 
-      // Download review JS files
+      // Download review JSON files
       reviewsToDownload.forEach(r => {
-        const url = `${REMOTE_UPDATE_URL}/data/${learnerGrade}/review_${r}.js`;
+        const url = `${REMOTE_UPDATE_URL}/data/${learnerGrade}/review_${r}.json`;
         const task = fetch(url, { cache: 'no-store' })
           .then(res => {
             if (!res.ok) throw new Error(`Review ${r} download failed`);
-            return res.text();
+            return res.json();
           })
-          .then(content => {
-            (0, eval)(content);
-            localStorage.setItem(`local_${learnerGrade}_review_data_${r}`, content);
+          .then(jsonData => {
+            localStorage.setItem(`local_${learnerGrade}_review_data_${r}`, JSON.stringify(jsonData));
             updateProgress();
           });
         tasks.push(task);
@@ -6533,6 +6624,9 @@ function runOnboardingUpdate() {
       });
 
       return Promise.all(tasks).then(() => {
+        if (remoteVersion) {
+          localStorage.setItem(`local_${learnerGrade}_manifest_version`, remoteVersion);
+        }
         buildWeekSelector();
         if (statusEl) {
           statusEl.style.color = "var(--correct)";
@@ -6744,7 +6838,7 @@ function openSettings() {
   
   const transSection = document.getElementById('settings-subject-tools-section');
   const transRow = document.getElementById('settings-trans-row');
-  const isTransAvailable = (currentSubject === 'filipino' || currentSubject === 'makabansa');
+  const isTransAvailable = (currentSubject === 'filipino' || currentSubject === 'makabansa' || currentSubject === 'gmrc');
   if (transSection) {
     transSection.style.display = isTransAvailable ? 'block' : 'none';
   }
@@ -6806,7 +6900,7 @@ function removeProfilePic() {
 // ==========================================================================
 // APP VERSION, BUILD INFO & CHANGELOG TIMELINE
 // ==========================================================================
-const RAW_APP_VERSION = "v26.06.22.0957";
+const RAW_APP_VERSION = "v26.06.22.1337";
 const RAW_BUILD_DATE = "June 22, 2026";
 
 function isPlaceholder(val) {

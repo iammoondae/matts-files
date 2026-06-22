@@ -261,7 +261,7 @@ for w in [1, 2, 4]:
                 slide["title"] = strip_advanced_remarks(slide["title"])
                 # Inject HOTS Challenge
                 slide["examples"].append({
-                    "title": "HOTS Hamon",
+                    "title": make_translation("HOTS Hamon", "HOTS Challenge"),
                     "content": make_translation("Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?", "How will you apply this concept to your daily decision-making?")
                 })
                 slide["text"] = expand_to_8_lines(slide["text"], slide["title"], slide["examples"], lang='fil')

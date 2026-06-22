@@ -3163,6 +3163,10 @@ body:not(.light-mode) .settings-btn-about:hover {
 .slide-card-inner {
   width: 100%;
 }
+.slide-card-inner p {
+  white-space: pre-line;
+  line-height: 1.6;
+}
 .slide-card-inner.flip-next {
   animation: slideInRight 0.3s ease-out;
 }

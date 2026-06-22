@@ -76,6 +76,12 @@ if [ -f "${APK_PATH}" ]; then
     cp "${APK_PATH}" "${WORKSPACE_DIR}/Matteo's Learning Hub ${BUILD_VERSION}.apk"
     cp "${APK_PATH}" "${WORKSPACE_DIR}/app-debug.apk"
     echo "Copied APK to workspace root as: Matteo's Learning Hub ${BUILD_VERSION}.apk and app-debug.apk"
+
+    echo "=== Auto-committing and pushing build updates to GitHub ==="
+    cd "${WORKSPACE_DIR}"
+    git add -A
+    git commit -m "Build and release: ${BUILD_VERSION}"
+    git push origin main
 else
     echo "Error: APK file was not generated."
     exit 1

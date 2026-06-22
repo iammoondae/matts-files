@@ -86,8 +86,9 @@ To ensure all AI models, coding assistants, and engineers maintain complete stra
 * The forgot PIN recovery multiplication puzzle (e.g. `num1 * num2` challenge proving adult user) must remain operational.
 
 ### C. Bilingual Translation Tags
-* The Filipino and Makabansa modules must have responsive English/Filipino translation features.
+* The Filipino, Makabansa, and GMRC modules must have responsive English/Filipino translation features.
 * All daily and weekend reading slides must contain high-density `<span data-translation="...">` spans (minimum 6 per day) for tap-to-translate functionality.
+* Every text line and HTML element in Filipino, Makabansa, and GMRC (including slide titles, slide examples, worksheets, and performance tasks) must contain bilingual English translations.
 
 ---
 
@@ -98,6 +99,7 @@ To maintain high educational quality and detail across all modules, the weekly c
 * **Requirement**: Each study guide slide (`slides` array objects) must contain at least eight (8) lines of rich, detailed, student-facing content in the `text` field (approximately 40 to 60 words).
 * **Scope**: This rule applies universally to all subjects: Mathematics, Science, English, Filipino, Makabansa, and GMRC.
 * **Goal**: This prevents brief, superficial definitions and ensures children receive thorough, narrative explanations, real-world examples, and step-by-step guidance.
+* **Visual Line Preservation**: The slide paragraph element `.slide-card-inner p` must preserve newlines (`white-space: pre-line`) so that compiled 8-line texts display exactly as eight separate lines to the student.
 
 ### B. Student-Facing Active Pedagogy
 * No teacher-facing instructions or pedagogical meta-talk.
@@ -117,8 +119,13 @@ To ensure complete and error-free content delivery, the database validation comp
   * Non-empty `"title"` and `"desc"` strings.
   * `"labels"`: an array containing at least 3 parent/teacher-scoring rubric labels.
 * **Worksheet Answer Elements**: Every worksheet page HTML string must contain at least one `.ws-answer` class element (e.g. `<span class="ws-answer">...</span>`) to store correct answer keys and facilitate parent grading features.
-* **Bilingual Translation Density**: The `filipino` and `makabansa` databases must contain a minimum of 20 `data-translation` spans per week to ensure comprehensive English-Filipino bilingual support.
+* **Bilingual Translation Density**: The `filipino`, `makabansa`, and `gmrc` databases must contain a minimum of 20 `data-translation` spans per week to ensure comprehensive English-Filipino bilingual support.
 * **Quiz/Challenge Answer Fields**: Every quiz and challenge question must contain a valid, non-empty `"answer"` value matching its correct option/choice index or text input.
 * **Clean Title & Subtitle Remarks**: Subject titles, subtitles, and individual slide titles must never include the suffix/remark `(Advanced)` or `[Advanced]`. All titles must remain clean and readable to students.
 
+---
 
+## 🔄 6. Database Update & Synchronization Standards
+* **Version comparison**: The update system (onboarding and settings button) must fetch the remote `manifest.json` first and compare its `version` field with `localStorage.getItem('local_' + learnerGrade + '_manifest_version')`.
+* **Conditional Download**: Redundant downloads are prohibited. If the versions match, the app must report "There is no available update." and stop execution.
+* **State Updates**: Upon successful download of weekly topic JSON databases, the local storage manifest version key must be updated to match the remote version.

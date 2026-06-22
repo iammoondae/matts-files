@@ -2,10 +2,10 @@
   "color": "#10b981",
   "icon": "🔬",
   "title": "Science",
-  "subtitle": "Week 4: Science Process Skills [Advanced]",
+  "subtitle": "Week 4: Science Process Skills",
   "slides": [
     {
-      "title": "Scientific Process Integration (Advanced)",
+      "title": "Scientific Process Integration",
       "text": "Scientific research integrates multiple process skills to establish causal relationships and document empirical evidence.\nThis slide introduces key insights about Scientific Process Integration.\nFor instance, consider the example of Causal Relationship:\nA link where one event (cause) makes another event happen (effect).\nAnother case is the study of Systematic Observation:\nObserving with standardized protocols to eliminate human bias.\nHow does the concept of Scientific Process Integration help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "title": "Advanced Vocabulary (Advanced)",
+      "title": "Advanced Vocabulary",
       "text": "Terms of empirical research: Quantitative analysis, Extrapolation, Interpolation, and Correlation.\nThis slide introduces key insights about Advanced Vocabulary.\nFor instance, consider the example of Extrapolation:\nEstimating values beyond the observed range based on a trend.\nAnother case is the study of Correlation:\nA mutual relationship or connection between two variables.\nHow does the concept of Advanced Vocabulary help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "title": "Empirical Reasoning (Advanced)",
+      "title": "Empirical Reasoning",
       "text": "Scientists use process skills to construct models, communicate raw data tables, and formulate theories.\nThis slide introduces key insights about Empirical Reasoning.\nFor instance, consider the example of Scientific Theory:\nA well-substantiated explanation of some aspect of the natural world.\nAnother case is the study of Model Construction:\nCreating physical or digital representations to study systems.\nHow does the concept of Empirical Reasoning help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "title": "Process: Botanical Observation (Advanced)",
+      "title": "Process: Botanical Observation",
       "text": "Using high-magnification tools to observe plant guard cell behavior under different humidity levels.\nThis slide introduces key insights about Process: Botanical Observation.\nFor instance, consider the example of Stomata:\nMicroscopic pores on leaves that open and close to regulate gas exchange.\nAnother case is the study of Osmotic Pressure:\nThe force that drives water in and out of guard cells.\nHow does the concept of Process: Botanical Observation help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "title": "Process: Buoyancy Predictions (Advanced)",
+      "title": "Process: Buoyancy Predictions",
       "text": "Predicting displacement volume and buoyant forces using Archimedes' principle.\nThis slide introduces key insights about Process: Buoyancy Predictions.\nFor instance, consider the example of Archimedes Principle:\nAn object floats when the buoyant force equals the weight of displaced fluid.\nAnother case is the study of Volume Displacement:\nMeasuring exactly how much water is pushed aside in cubic centimeters.\nHow does the concept of Process: Buoyancy Predictions help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "title": "Process: Precise Calibration (Advanced)",
+      "title": "Process: Precise Calibration",
       "text": "Measuring liquid meniscus levels with graduated glassware, adjusting for thermal expansion of liquids.\nThis slide introduces key insights about Process: Precise Calibration.\nFor instance, consider the example of Cohesive Forces:\nAttraction between similar molecules, pulling water into a curve.\nAnother case is the study of Thermal Expansion:\nLiquids expand slightly when heated, changing volume readings.\nHow does the concept of Process: Precise Calibration help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "title": "Process: Taxonomic Classification (Advanced)",
+      "title": "Process: Taxonomic Classification",
       "text": "Classifying organisms using a dichotomous key based on binary morphological characteristics.\nThis slide introduces key insights about Process: Taxonomic Classification.\nFor instance, consider the example of Dichotomous Key:\nA tool that allows the user to identify organisms through progressive choices.\nAnother case is the study of Morphology:\nThe physical shape and structure of an organism.\nHow does the concept of Process: Taxonomic Classification help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "title": "Process: Graphical Communication (Advanced)",
+      "title": "Process: Graphical Communication",
       "text": "Communicating multi-variable datasets using scatter plots, line graphs, and regression lines.\nThis slide introduces key insights about Process: Graphical Communication.\nFor instance, consider the example of Independent Axis:\nThe X-axis, representing the independent variable.\nAnother case is the study of Dependent Axis:\nThe Y-axis, representing the dependent variable.\nHow does the concept of Process: Graphical Communication help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "title": "Process: Causal Inferences (Advanced)",
+      "title": "Process: Causal Inferences",
       "text": "Differentiating between correlation and causation when observing environmental phenomena.\nThis slide introduces key insights about Process: Causal Inferences.\nFor instance, consider the example of Causation:\nOne event directly producing the other (e.g., gravity causing objects to fall).\nAnother case is the study of Coincidence:\nTwo events happening together without a direct causal link.\nHow does the concept of Process: Causal Inferences help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "title": "Process: Kinetic Observations (Advanced)",
+      "title": "Process: Kinetic Observations",
       "text": "Observing molecular activity in substances during phase transitions.\nThis slide introduces key insights about Process: Kinetic Observations.\nFor instance, consider the example of Kinetic Theory:\nAll matter consists of tiny particles in constant motion.\nAnother case is the study of Phase Transitions:\nHeat changes particle motion, causing solid/liquid/gas shifts.\nHow does the concept of Process: Kinetic Observations help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "title": "Process: Pressure Predictions (Advanced)",
+      "title": "Process: Pressure Predictions",
       "text": "Predicting air pressure variations inside a closed cylinder when volume is compressed.\nThis slide introduces key insights about Process: Pressure Predictions.\nFor instance, consider the example of Boyle's Law:\nPressure of a gas is inversely proportional to its volume at constant temp.\nAnother case is the study of Prediction:\nDecreasing volume by half will double the internal pressure.\nHow does the concept of Process: Pressure Predictions help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "title": "Process: Spatial Measurements (Advanced)",
+      "title": "Process: Spatial Measurements",
       "text": "Measuring the coordinates of objects to map positions in three-dimensional space.\nThis slide introduces key insights about Process: Spatial Measurements.\nFor instance, consider the example of Cartesian Coordinates:\nUsing X, Y, and Z axes to define exact locations.\nAnother case is the study of Reference Point:\nThe fixed origin (0,0,0) from which all distances are measured.\nHow does the concept of Process: Spatial Measurements help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "title": "Process: Chemical Classification (Advanced)",
+      "title": "Process: Chemical Classification",
       "text": "Classifying household liquids into acids, bases, or neutrals using litmus paper.\nThis slide introduces key insights about Process: Chemical Classification.\nFor instance, consider the example of Indicator:\nChemicals that change color depending on pH levels.\nAnother case is the study of Litmus Paper:\nTurns red in acids, blue in bases, and remains unchanged in neutrals.\nHow does the concept of Process: Chemical Classification help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "title": "Process: Geological Inferences (Advanced)",
+      "title": "Process: Geological Inferences",
       "text": "Inferring the history of an area by observing layers of rock and soil (stratigraphy).\nThis slide introduces key insights about Process: Geological Inferences.\nFor instance, consider the example of Law of Superposition:\nOlder rock layers are found at the bottom, younger at the top.\nAnother case is the study of Sedimentation:\nThe accumulation of minerals settling out of water over time.\nHow does the concept of Process: Geological Inferences help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "title": "Process: Cell Biology Observations (Advanced)",
+      "title": "Process: Cell Biology Observations",
       "text": "Observing cellular structures under a microscope during cell division (mitosis).\nThis slide introduces key insights about Process: Cell Biology Observations.\nFor instance, consider the example of Chromosomes:\nThread-like structures carrying genetic info that separate during division.\nAnother case is the study of Staining:\nAdding dye to make cell structures visible under light.\nHow does the concept of Process: Cell Biology Observations help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "title": "Process: Thermodynamic Predictions (Advanced)",
+      "title": "Process: Thermodynamic Predictions",
       "text": "Predicting the rate of cooling of a hot liquid based on insulation materials.\nThis slide introduces key insights about Process: Thermodynamic Predictions.\nFor instance, consider the example of Newton's Law of Cooling:\nRate of heat loss is proportional to temperature difference.\nAnother case is the study of Insulator:\nMaterials with low conductivity that slow down heat transfer.\nHow does the concept of Process: Thermodynamic Predictions help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "title": "Process: Mass displacement (Advanced)",
+      "title": "Process: Mass displacement",
       "text": "Measuring mass changes in a chemical reaction to verify conservation of mass.\nThis slide introduces key insights about Process: Mass displacement.\nFor instance, consider the example of Conservation of Mass:\nMatter cannot be created or destroyed in a chemical reaction.\nAnother case is the study of Closed System:\nA sealed container preventing gas from escaping during tests.\nHow does the concept of Process: Mass displacement help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "title": "Process: Ecological Classification (Advanced)",
+      "title": "Process: Ecological Classification",
       "text": "Classifying ecosystems into biomes based on average precipitation and temperature.\nThis slide introduces key insights about Process: Ecological Classification.\nFor instance, consider the example of Biome:\nA large community of plants and animals occupying a distinct region.\nAnother case is the study of Climograph:\nA graph showing monthly precipitation and temperature of a biome.\nHow does the concept of Process: Ecological Classification help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "title": "Guided Practice: Dichotomous Keys (Advanced)",
+      "title": "Guided Practice: Dichotomous Keys",
       "text": "Navigating a key to classify an unknown leaf specimen.\nThis slide introduces key insights about Guided Practice: Dichotomous Keys.\nFor instance, consider the example of Key Step 1:\nChoose: Broad leaf (go to 2) or Needle-like leaf (Pine).\nAnother case is the study of Key Step 2:\nChoose: Smooth edge (Oak) or Jagged edge (Maple).\nHow does the concept of Guided Practice: Dichotomous Keys help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "title": "Guided Practice: Interpolating Data (Advanced)",
+      "title": "Guided Practice: Interpolating Data",
       "text": "Estimating value points between measured data markers on a graph.\nThis slide introduces key insights about Guided Practice: Interpolating Data.\nFor instance, consider the example of Method:\nFind the value on the line between the plotted points.\nAnother case is the study of Accuracy:\nEnsures data trend line is followed correctly.\nHow does the concept of Guided Practice: Interpolating Data help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "title": "Guided Practice: Extrapolating Trends (Advanced)",
+      "title": "Guided Practice: Extrapolating Trends",
       "text": "Extrapolating a growth curve beyond the measured time frame.\nThis slide introduces key insights about Guided Practice: Extrapolating Trends.\nFor instance, consider the example of Method:\nExtend the trend line forward, maintaining the rate slope.\nAnother case is the study of Risk:\nAssumes environmental factors remain constant in the future.\nHow does the concept of Guided Practice: Extrapolating Trends help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -299,7 +299,7 @@
       ]
     },
     {
-      "title": "Guided Practice: Inferences from Fossils (Advanced)",
+      "title": "Guided Practice: Inferences from Fossils",
       "text": "Inferring ancient diets by observing fossilized tooth shapes.\nThis slide introduces key insights about Guided Practice: Inferences from Fossils.\nFor instance, consider the example of Fossil tooth:\nSharp, pointed teeth observed in fossil skull.\nAnother case is the study of Inference:\nThe animal was a carnivore (meat eater) because of tooth structure.\nHow does the concept of Guided Practice: Inferences from Fossils help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -313,7 +313,7 @@
       ]
     },
     {
-      "title": "Common Error: Mistaking Correlation for Causation (Advanced)",
+      "title": "Common Error: Mistaking Correlation for Causation",
       "text": "Assuming that because two trends rise together, one must cause the other.\nThis slide introduces key insights about Common Error: Mistaking Correlation for Causation.\nFor instance, consider the example of Incorrect:\nSaying 'Ice cream sales cause sunburns because both rise in summer.'\nAnother case is the study of Correct:\nThe sun's heat causes both ice cream sales and sunburns.\nHow does the concept of Common Error: Mistaking Correlation for Causation help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -327,7 +327,7 @@
       ]
     },
     {
-      "title": "Common Error: Cherry-Picking Data (Advanced)",
+      "title": "Common Error: Cherry-Picking Data",
       "text": "Only selecting data points that confirm your hypothesis while ignoring exceptions.\nThis slide introduces key insights about Common Error: Cherry-Picking Data.\nFor instance, consider the example of Incorrect:\nRecording only the fast car runs and ignoring the slow ones.\nAnother case is the study of Correct:\nCalculating the average of all trials, including anomalies.\nHow does the concept of Common Error: Cherry-Picking Data help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -341,7 +341,7 @@
       ]
     },
     {
-      "title": "Summary of Week 4 Advanced (Advanced)",
+      "title": "Summary of Week 4 Advanced",
       "text": "You completed Week 4 Advanced! You now possess a complete toolkit of science process skills.\nThis slide introduces key insights about Summary of Week 4 Advanced.\nFor instance, consider the example of Key Takeaway:\nProcess skills are integrated to build models and establish laws.\nAnother case is the study of Next Step:\nReview your learnings and prepare for the term culminating tasks!\nHow does the concept of Summary of Week 4 Advanced help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {

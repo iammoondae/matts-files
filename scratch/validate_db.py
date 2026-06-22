@@ -146,8 +146,8 @@ def validate_week_file(file_path):
                         if not isinstance(labels, list) or len(labels) < 3:
                             errors.append(f"{name} subject '{sub}' performance task has {len(labels)} rubric labels (expected at least 3).")
 
-            # Bilingual Translation Check for Filipino and Makabansa (for Grade 3)
-            if is_g3 and sub in ['filipino', 'makabansa']:
+            # Bilingual Translation Check for Filipino, Makabansa, and GMRC (for Grade 3)
+            if is_g3 and sub in ['filipino', 'makabansa', 'gmrc']:
                 sub_str = json.dumps(sub_data)
                 trans_spans = len(re.findall(r'data-translation', sub_str))
                 if trans_spans < 20:

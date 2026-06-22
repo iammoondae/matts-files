@@ -2,10 +2,10 @@
   "color": "#10b981",
   "icon": "🔬",
   "title": "Science",
-  "subtitle": "Week 3: Science Tools and Materials [Advanced]",
+  "subtitle": "Week 3: Science Tools and Materials",
   "slides": [
     {
-      "title": "Advanced Instrumentation (Advanced)",
+      "title": "Advanced Instrumentation",
       "text": "Scientific research relies on high-precision instruments that extend human senses and reduce measurement error.\nThis slide introduces key insights about Advanced Instrumentation.\nFor instance, consider the example of Calibration:\nComparing instrument readouts against a known standard to adjust accuracy.\nAnother case is the study of Precision:\nThe repeatability of measurements under unchanged conditions.\nHow does the concept of Advanced Instrumentation help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "title": "Advanced Vocabulary (Advanced)",
+      "title": "Advanced Vocabulary",
       "text": "Terms of precision measurement: Graduated cylinder, Triple beam balance, Calipers, and Meniscus.\nThis slide introduces key insights about Advanced Vocabulary.\nFor instance, consider the example of Graduated cylinder:\nA narrow container with accurate marks used to measure fluid volumes.\nAnother case is the study of Meniscus:\nThe curve at the upper surface of a liquid in a tube.\nHow does the concept of Advanced Vocabulary help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "title": "Instrument Selection Strategy (Advanced)",
+      "title": "Instrument Selection Strategy",
       "text": "Selecting tools requires matching the scale and physical properties of the subject with the resolution of the instrument.\nThis slide introduces key insights about Instrument Selection Strategy.\nFor instance, consider the example of Resolution:\nThe smallest increment of change that can be detected by a tool.\nAnother case is the study of Tolerance:\nThe allowable limit of variation in a physical measurement.\nHow does the concept of Instrument Selection Strategy help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "title": "Advanced Tool: Vernier Calipers (Advanced)",
+      "title": "Advanced Tool: Vernier Calipers",
       "text": "Vernier calipers measure internal, external, and depth dimensions with sub-millimeter precision.\nThis slide introduces key insights about Advanced Tool: Vernier Calipers.\nFor instance, consider the example of External Jaws:\nMeasuring the diameter of a clay sphere.\nAnother case is the study of Vernier Scale:\nReading the fractional division of a millimeter for high accuracy.\nHow does the concept of Advanced Tool: Vernier Calipers help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "title": "Advanced Tool: Microscope (Advanced)",
+      "title": "Advanced Tool: Microscope",
       "text": "Microscopes use compound lenses and light refraction to magnify objects up to 1000 times their size.\nThis slide introduces key insights about Advanced Tool: Microscope.\nFor instance, consider the example of Coarse Adjustment:\nFocusing the specimen under low magnification power.\nAnother case is the study of Fine Adjustment:\nSharpening the focus detail under high magnification power.\nHow does the concept of Advanced Tool: Microscope help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "title": "Advanced Tool: Spring Scale (Advanced)",
+      "title": "Advanced Tool: Spring Scale",
       "text": "Spring scales measure force or weight in Newtons by stretching a calibrated internal spring.\nThis slide introduces key insights about Advanced Tool: Spring Scale.\nFor instance, consider the example of Force Measurement:\nMeasuring the pull force needed to drag a block on cardboard.\nAnother case is the study of Gravity Impact:\nShows the downward gravitational force acting on a mass.\nHow does the concept of Advanced Tool: Spring Scale help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "title": "Advanced Tool: Graduated Cylinder (Advanced)",
+      "title": "Advanced Tool: Graduated Cylinder",
       "text": "Graduated cylinders provide much higher liquid volume accuracy than standard beakers or cups.\nThis slide introduces key insights about Advanced Tool: Graduated Cylinder.\nFor instance, consider the example of Material:\nOften made of chemical resistant polypropylene or glass.\nAnother case is the study of Meniscus Reading:\nAlways read at the lowest point of the concave water surface.\nHow does the concept of Advanced Tool: Graduated Cylinder help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "title": "Advanced Tool: Digital Balance (Advanced)",
+      "title": "Advanced Tool: Digital Balance",
       "text": "Digital scales measure mass with high precision by converting force into digital electrical signals.\nThis slide introduces key insights about Advanced Tool: Digital Balance.\nFor instance, consider the example of Tare Function:\nResetting the scale to zero with a container on it to weigh only contents.\nAnother case is the study of Units:\nReads mass in grams, ounces, or grains.\nHow does the concept of Advanced Tool: Digital Balance help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "title": "Advanced Tool: Bunsen Burner (Advanced)",
+      "title": "Advanced Tool: Bunsen Burner",
       "text": "Bunsen burners produce a single open gas flame used for heating, sterilization, and combustion tests.\nThis slide introduces key insights about Advanced Tool: Bunsen Burner.\nFor instance, consider the example of Air Control:\nAdjusting the collar to control oxygen mix for a clean blue flame.\nAnother case is the study of Safety Valve:\nQuick shut-off gas lines in case of flame blow-back.\nHow does the concept of Advanced Tool: Bunsen Burner help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "title": "Advanced Tool: PH Meter (Advanced)",
+      "title": "Advanced Tool: PH Meter",
       "text": "PH meters measure the hydrogen-ion activity in water-based solutions, indicating acidity.\nThis slide introduces key insights about Advanced Tool: PH Meter.\nFor instance, consider the example of Probe Calibration:\nUsing buffer solutions (pH 4, 7, 10) to calibrate the probe.\nAnother case is the study of Resolution:\nReads values with 0.01 precision units.\nHow does the concept of Advanced Tool: PH Meter help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "title": "Advanced Tool: Anemometer (Advanced)",
+      "title": "Advanced Tool: Anemometer",
       "text": "Anemometers measure wind speed and direction, converting wind pressure into mechanical rotation.\nThis slide introduces key insights about Advanced Tool: Anemometer.\nFor instance, consider the example of Cups:\nThree or four spinning cups capture wind velocity.\nAnother case is the study of Digital Readout:\nDisplays speed in kilometers per hour or knots.\nHow does the concept of Advanced Tool: Anemometer help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "title": "Advanced Tool: Hydrometer (Advanced)",
+      "title": "Advanced Tool: Hydrometer",
       "text": "Hydrometers measure the relative density (specific gravity) of liquids based on buoyancy concepts.\nThis slide introduces key insights about Advanced Tool: Hydrometer.\nFor instance, consider the example of Floatation:\nFloats higher in dense liquids like saltwater, lower in pure water.\nAnother case is the study of Scale:\nReadings at the point where the liquid surface cuts the hydrometer stem.\nHow does the concept of Advanced Tool: Hydrometer help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "title": "Advanced Tool: Barometer (Advanced)",
+      "title": "Advanced Tool: Barometer",
       "text": "Barometers measure atmospheric pressure, which is critical for predicting incoming weather fronts.\nThis slide introduces key insights about Advanced Tool: Barometer.\nFor instance, consider the example of Mercury Barometer:\nMeasures the height of a mercury column supported by air pressure.\nAnother case is the study of Aneroid Barometer:\nUses a small, flexible metal box called an aneroid cell.\nHow does the concept of Advanced Tool: Barometer help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "title": "Advanced Tool: Spectrophotometer (Advanced)",
+      "title": "Advanced Tool: Spectrophotometer",
       "text": "Spectrophotometers measure light absorption of a chemical solution across wavelengths.\nThis slide introduces key insights about Advanced Tool: Spectrophotometer.\nFor instance, consider the example of Cuvette:\nA small square tube holding the liquid sample inside the machine.\nAnother case is the study of Absorbance:\nMore concentrated solutions absorb more light.\nHow does the concept of Advanced Tool: Spectrophotometer help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "title": "Advanced Tool: Sound Level Meter (Advanced)",
+      "title": "Advanced Tool: Sound Level Meter",
       "text": "Sound level meters measure sound pressure levels in decibels (dB), tracking acoustic noise.\nThis slide introduces key insights about Advanced Tool: Sound Level Meter.\nFor instance, consider the example of Microphone:\nConverts sound waves into electrical signals.\nAnother case is the study of Decibel Scale:\nA logarithmic scale representing sound intensity.\nHow does the concept of Advanced Tool: Sound Level Meter help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "title": "Advanced Tool: Crucible & Tong (Advanced)",
+      "title": "Advanced Tool: Crucible & Tong",
       "text": "Crucibles are ceramic pots that hold metals during high-temperature heating.\nThis slide introduces key insights about Advanced Tool: Crucible & Tong.\nFor instance, consider the example of Refractory Material:\nCan withstand temperatures over 1000 degrees Celsius without melting.\nAnother case is the study of Tong Safety:\nUsing metal pincers to transfer hot crucibles from furnace to cooling pad.\nHow does the concept of Advanced Tool: Crucible & Tong help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "title": "Advanced Tool: Pipette & Micropipette (Advanced)",
+      "title": "Advanced Tool: Pipette & Micropipette",
       "text": "Micropipettes transfer microscopic liquid volumes in microliters (uL) with absolute precision.\nThis slide introduces key insights about Advanced Tool: Pipette & Micropipette.\nFor instance, consider the example of Plunger Steps:\nFirst stop to draw liquid; second stop to blow out remaining drops.\nAnother case is the study of Disposable Tips:\nPlastic tips changed between samples to prevent contamination.\nHow does the concept of Advanced Tool: Pipette & Micropipette help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "title": "Advanced Tool: Stopwatch & Gate Timer (Advanced)",
+      "title": "Advanced Tool: Stopwatch & Gate Timer",
       "text": "Photocell gates measure speed accurately by recording the time an object blocks a light beam.\nThis slide introduces key insights about Advanced Tool: Stopwatch & Gate Timer.\nFor instance, consider the example of Photocell:\nLight sensor that triggers the clock start/stop instantly.\nAnother case is the study of Precision:\nMeasures time intervals in milliseconds, removing human reaction delay.\nHow does the concept of Advanced Tool: Stopwatch & Gate Timer help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "title": "Guided Practice: Calibration Protocols (Advanced)",
+      "title": "Guided Practice: Calibration Protocols",
       "text": "Understanding how to calibrate a digital scale and a pH probe.\nThis slide introduces key insights about Guided Practice: Calibration Protocols.\nFor instance, consider the example of Digital Scale:\nPlace a certified 100g weight and select calibrate mode.\nAnother case is the study of pH Calibration:\nDip probe in neutral buffer, select calibrate, then wash with distilled water.\nHow does the concept of Guided Practice: Calibration Protocols help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "title": "Guided Practice: Reading Meniscus (Advanced)",
+      "title": "Guided Practice: Reading Meniscus",
       "text": "Reading volume markings on a graduated cylinder.\nThis slide introduces key insights about Guided Practice: Reading Meniscus.\nFor instance, consider the example of Concave Meniscus:\nWater curves up the sides of glass; read the flat bottom of the curve.\nAnother case is the study of Convex Meniscus:\nMercury curves down; read the top of the curve.\nHow does the concept of Guided Practice: Reading Meniscus help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "title": "Guided Practice: Force Calibration (Advanced)",
+      "title": "Guided Practice: Force Calibration",
       "text": "Using a spring scale to measure mechanical drag.\nThis slide introduces key insights about Guided Practice: Force Calibration.\nFor instance, consider the example of Zeroing:\nHold scale vertically with nothing attached and adjust screw to 0.\nAnother case is the study of Measurement:\nRead force units in Newtons while dragging a block slowly.\nHow does the concept of Guided Practice: Force Calibration help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -299,7 +299,7 @@
       ]
     },
     {
-      "title": "Guided Practice: Microscopic View (Advanced)",
+      "title": "Guided Practice: Microscopic View",
       "text": "Calculating total magnification of a compound microscope.\nThis slide introduces key insights about Guided Practice: Microscopic View.\nFor instance, consider the example of Eyepiece Magnification:\nStandard eyepiece is 10x magnification.\nAnother case is the study of Objective Lens:\nUsing a 40x objective lens yields a total magnification of 400x.\nHow does the concept of Guided Practice: Microscopic View help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -313,7 +313,7 @@
       ]
     },
     {
-      "title": "Common Error: Parallax Error (Advanced)",
+      "title": "Common Error: Parallax Error",
       "text": "Parallax error happens when you read markings from an angle instead of eye level.\nThis slide introduces key insights about Common Error: Parallax Error.\nFor instance, consider the example of Incorrect:\nLooking down at a thermometer creates a false higher reading.\nAnother case is the study of Correct:\nPosition your eyes exactly level with the fluid surface.\nHow does the concept of Common Error: Parallax Error help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -327,7 +327,7 @@
       ]
     },
     {
-      "title": "Common Error: Taring Neglect (Advanced)",
+      "title": "Common Error: Taring Neglect",
       "text": "Neglecting to tare a scale results in the container's weight being added to the mass.\nThis slide introduces key insights about Common Error: Taring Neglect.\nFor instance, consider the example of Incorrect:\nWeighing 10g of salt inside a 50g beaker and recording 60g.\nAnother case is the study of Correct:\nPlacing the beaker, pressing 'Tare' (zeroing), then adding salt for a 10g reading.\nHow does the concept of Common Error: Taring Neglect help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -341,7 +341,7 @@
       ]
     },
     {
-      "title": "Summary of Week 3 Advanced (Advanced)",
+      "title": "Summary of Week 3 Advanced",
       "text": "You completed Week 3 Advanced! You now understand precision calibration and advanced tools.\nThis slide introduces key insights about Summary of Week 3 Advanced.\nFor instance, consider the example of Key Takeaway:\nAdvanced science requires reducing human and tool errors through systematic protocols.\nAnother case is the study of Next Step:\nAdvance to Week 4 to master science process skills like data classification and communication.\nHow does the concept of Summary of Week 3 Advanced help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {

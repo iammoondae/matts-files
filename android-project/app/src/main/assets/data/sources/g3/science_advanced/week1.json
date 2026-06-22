@@ -2,10 +2,10 @@
   "color": "#10b981",
   "icon": "🔬",
   "title": "Science",
-  "subtitle": "Week 1: Science in Our Daily Life [Advanced]",
+  "subtitle": "Week 1: Science in Our Daily Life",
   "slides": [
     {
-      "title": "Advanced Scientific Inquiry (Advanced)",
+      "title": "Advanced Scientific Inquiry",
       "text": "Scientific inquiry is a systematic way of exploring the natural world.\nIt involves making observations, asking testable questions, and forming hypotheses.\nFor instance, consider the example of Hypothesis:\nAn educated guess that can be tested through experiments.\nAnother case is the study of Systematic:\nFollowing a step-by-step method to ensure results are reliable.\nHow does the concept of Advanced Scientific Inquiry help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "title": "Quantitative vs. Qualitative (Advanced)",
+      "title": "Quantitative vs. Qualitative",
       "text": "Observations can be qualitative (describing qualities using senses) or quantitative (using numbers and measurements).\nThis slide introduces key insights about Quantitative vs. Qualitative.\nFor instance, consider the example of Qualitative:\nExample: 'The chemical solution smells sour and has a bright blue color.'\nAnother case is the study of Quantitative:\nExample: 'The plant grew 3.5 centimeters in five days.'\nHow does the concept of Quantitative vs. Qualitative help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "title": "The Scientific Method (Advanced)",
+      "title": "The Scientific Method",
       "text": "The scientific method is a tool used by scientists to study problems.\nIt begins with an observation and a question.\nFor instance, consider the example of Testable Question:\nA question that can be answered by doing an experiment, not just looking up facts.\nAnother case is the study of Variables:\nFactors in an experiment that can change, like temperature or water amount.\nHow does the concept of The Scientific Method help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "title": "Atmospheric Science: Weather (Advanced)",
+      "title": "Atmospheric Science: Weather",
       "text": "Weather is driven by temperature, air pressure, and moisture in the atmosphere.\nScience helps us forecast these shifts.\nFor instance, consider the example of Air Temperature:\nDetermines whether moisture falls as rain, snow, or hail.\nAnother case is the study of Evaporation Cycle:\nSolar energy turns surface water into vapor, fueling cloud formation.\nHow does the concept of Atmospheric Science: Weather help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "title": "Botanical Adaptations (Advanced)",
+      "title": "Botanical Adaptations",
       "text": "Plants have specialized structures that help them survive in their local environment.\nThis slide introduces key insights about Botanical Adaptations.\nFor instance, consider the example of Photosynthesis:\nThe process by which plants use sunlight, carbon dioxide, and water to create chemical energy.\nAnother case is the study of Tropism:\nGrowth response towards an external stimulus, such as phototropism (light).\nHow does the concept of Botanical Adaptations help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "title": "Zoological Classification (Advanced)",
+      "title": "Zoological Classification",
       "text": "Animals are classified by their physical structures, diets, and habitats.\nThis slide introduces key insights about Zoological Classification.\nFor instance, consider the example of Vertebrates:\nAnimals with backbones, like mammals, birds, reptiles, amphibians, and fish.\nAnother case is the study of Invertebrates:\nAnimals without backbones, like insects, spiders, and crabs.\nHow does the concept of Zoological Classification help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "title": "Thermodynamics: Heat Transfer (Advanced)",
+      "title": "Thermodynamics: Heat Transfer",
       "text": "Heat transfers from hotter objects to colder ones until they reach the same temperature.\nThis slide introduces key insights about Thermodynamics: Heat Transfer.\nFor instance, consider the example of Conduction:\nHeat transfer through direct touch, like a spoon heating up in hot soup.\nAnother case is the study of Convection:\nHeat transfer in liquids and gases as warm parts rise and cool parts sink.\nHow does the concept of Thermodynamics: Heat Transfer help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "title": "Optics: Light Refraction (Advanced)",
+      "title": "Optics: Light Refraction",
       "text": "Light bends when it passes from one medium to another, such as from air into water.\nThis slide introduces key insights about Optics: Light Refraction.\nFor instance, consider the example of Refraction:\nBending of light waves which makes straws in water look broken.\nAnother case is the study of Lenses:\nCurved glass pieces that bend light to magnify objects.\nHow does the concept of Optics: Light Refraction help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -117,7 +117,7 @@
       ]
     },
     {
-      "title": "Physics: Force and Friction (Advanced)",
+      "title": "Physics: Force and Friction",
       "text": "Friction is a force that opposes motion when two surfaces rub against each other.\nThis slide introduces key insights about Physics: Force and Friction.\nFor instance, consider the example of Friction:\nRough surfaces create more friction, slowing moving objects down.\nAnother case is the study of Lubricants:\nOil or water reduces friction, allowing parts to slide smoothly.\nHow does the concept of Physics: Force and Friction help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "title": "Phase Changes of Matter (Advanced)",
+      "title": "Phase Changes of Matter",
       "text": "Adding or removing heat energy causes matter to change its physical state.\nThis slide introduces key insights about Phase Changes of Matter.\nFor instance, consider the example of Sublimation:\nSolid turning directly into gas, like dry ice evaporating.\nAnother case is the study of Condensation:\nGas cooling down to turn into a liquid, like dew on grass.\nHow does the concept of Phase Changes of Matter help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "title": "Meteorology: Clouds & Rain (Advanced)",
+      "title": "Meteorology: Clouds & Rain",
       "text": "Clouds are made of billions of tiny water droplets that condense around dust particles in the air.\nThis slide introduces key insights about Meteorology: Clouds & Rain.\nFor instance, consider the example of Precipitation:\nWhen droplets grow too heavy, gravity pulls them down as rain.\nAnother case is the study of Cloud Types:\nCumulus (fluffy), Stratus (flat layers), and Cirrus (wispy high clouds).\nHow does the concept of Meteorology: Clouds & Rain help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "title": "Aerodynamics: Air Resistance (Advanced)",
+      "title": "Aerodynamics: Air Resistance",
       "text": "Air resistance is a type of friction that slows down objects moving through the air.\nThis slide introduces key insights about Aerodynamics: Air Resistance.\nFor instance, consider the example of Drag:\nFlat objects experience more drag because they push more air.\nAnother case is the study of Streamlining:\nShapes that cut through air easily, like airplanes or birds.\nHow does the concept of Aerodynamics: Air Resistance help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "title": "Pedology: Soil Composition (Advanced)",
+      "title": "Pedology: Soil Composition",
       "text": "Soil is a mixture of weathered rock, organic matter, water, and air.\nThis slide introduces key insights about Pedology: Soil Composition.\nFor instance, consider the example of Humus:\nDecayed plant and animal matter that provides nutrients for plants.\nAnother case is the study of Soil Horizons:\nLayers of soil: topsoil (rich in humus), subsoil, and bedrock.\nHow does the concept of Pedology: Soil Composition help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -187,7 +187,7 @@
       ]
     },
     {
-      "title": "Astronomy: Earth's Rotation (Advanced)",
+      "title": "Astronomy: Earth's Rotation",
       "text": "The Earth rotates counter-clockwise on its axis once every 24 hours.\nThis slide introduces key insights about Astronomy: Earth's Rotation.\nFor instance, consider the example of Apparent Motion:\nThe Sun appears to move across the sky because of Earth's spin.\nAnother case is the study of Time Zones:\nDifferent parts of Earth experience daylight at different times.\nHow does the concept of Astronomy: Earth's Rotation help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "title": "Chemistry: Oxidation (Advanced)",
+      "title": "Chemistry: Oxidation",
       "text": "Rusting is a chemical reaction called oxidation, where iron combines with oxygen and moisture.\nThis slide introduces key insights about Chemistry: Oxidation.\nFor instance, consider the example of Iron Oxide:\nThe chemical name for rust, which ruins the strength of metal.\nAnother case is the study of Galvanization:\nCoating iron with zinc to prevent oxygen from reaching the metal.\nHow does the concept of Chemistry: Oxidation help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "title": "Microbiology: Pathogens (Advanced)",
+      "title": "Microbiology: Pathogens",
       "text": "Germs are microscopic pathogens (bacteria, viruses, fungi) that can cause infections.\nThis slide introduces key insights about Microbiology: Pathogens.\nFor instance, consider the example of Antiseptic:\nChemicals that kill or prevent the growth of microorganisms.\nAnother case is the study of Immune System:\nThe body's natural defense network that fights off pathogens.\nHow does the concept of Microbiology: Pathogens help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "title": "Biochemistry: Cellular Energy (Advanced)",
+      "title": "Biochemistry: Cellular Energy",
       "text": "Cells break down glucose molecules to release energy in a process called respiration.\nThis slide introduces key insights about Biochemistry: Cellular Energy.\nFor instance, consider the example of Glucose:\nA simple sugar that serves as the primary energy source for cells.\nAnother case is the study of Metabolism:\nAll chemical reactions in a living organism that sustain life.\nHow does the concept of Biochemistry: Cellular Energy help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -243,7 +243,7 @@
       ]
     },
     {
-      "title": "Acoustics: Sound Waves (Advanced)",
+      "title": "Acoustics: Sound Waves",
       "text": "Sound travels as longitudinal waves through solids, liquids, and gases, but cannot travel through a vacuum.\nThis slide introduces key insights about Acoustics: Sound Waves.\nFor instance, consider the example of Medium:\nMaterial that sound waves travel through; sound travels fastest in solids.\nAnother case is the study of Frequency:\nThe number of vibrations per second, which determines the pitch.\nHow does the concept of Acoustics: Sound Waves help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -257,7 +257,7 @@
       ]
     },
     {
-      "title": "Guided Practice: Hypothesizing (Advanced)",
+      "title": "Guided Practice: Hypothesizing",
       "text": "Formulating a testable hypothesis based on an observation.\nThis slide introduces key insights about Guided Practice: Hypothesizing.\nFor instance, consider the example of Observation:\nIron nails in salty water rust faster than in tap water.\nAnother case is the study of Hypothesis:\nIf water contains salt, then iron will rust at a faster rate.\nHow does the concept of Guided Practice: Hypothesizing help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -271,7 +271,7 @@
       ]
     },
     {
-      "title": "Guided Practice: Variables (Advanced)",
+      "title": "Guided Practice: Variables",
       "text": "Identifying independent, dependent, and controlled variables in an experiment.\nThis slide introduces key insights about Guided Practice: Variables.\nFor instance, consider the example of Independent Variable:\nThe factor you change (e.g., amount of sunlight).\nAnother case is the study of Dependent Variable:\nThe factor you measure (e.g., plant height).\nHow does the concept of Guided Practice: Variables help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -285,7 +285,7 @@
       ]
     },
     {
-      "title": "Guided Practice: State Changes (Advanced)",
+      "title": "Guided Practice: State Changes",
       "text": "Analyzing thermodynamic state changes in materials.\nThis slide introduces key insights about Guided Practice: State Changes.\nFor instance, consider the example of Scenario:\nSolid candle wax melting into liquid when a wick is lit.\nAnother case is the study of Scientific Analysis:\nHeat increases molecule vibration, breaking solid bonds.\nHow does the concept of Guided Practice: State Changes help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -299,7 +299,7 @@
       ]
     },
     {
-      "title": "Guided Practice: Weather Prediction (Advanced)",
+      "title": "Guided Practice: Weather Prediction",
       "text": "Analyzing meteorological data to predict weather patterns.\nThis slide introduces key insights about Guided Practice: Weather Prediction.\nFor instance, consider the example of Data:\nFalling air pressure, rising humidity, and dark clouds.\nAnother case is the study of Prediction:\nA rainstorm or low-pressure weather system is approaching.\nHow does the concept of Guided Practice: Weather Prediction help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -313,7 +313,7 @@
       ]
     },
     {
-      "title": "Common Error: Non-testable Hypotheses (Advanced)",
+      "title": "Common Error: Non-testable Hypotheses",
       "text": "Avoid forming statements that cannot be proven true or false through testing.\nThis slide introduces key insights about Common Error: Non-testable Hypotheses.\nFor instance, consider the example of Incorrect:\nHypothesis: 'Plants grow better when they are happy.'\nAnother case is the study of Correct:\nHypothesis: 'Plants grow taller when watered daily.'\nHow does the concept of Common Error: Non-testable Hypotheses help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -327,7 +327,7 @@
       ]
     },
     {
-      "title": "Common Error: Concluding Too Early (Advanced)",
+      "title": "Common Error: Concluding Too Early",
       "text": "Do not draw scientific conclusions from a single trial.\nRepeat experiments for accuracy.\nFor instance, consider the example of Incorrect:\nTesting one seed and concluding that all seeds grow in three days.\nAnother case is the study of Correct:\nTesting twenty seeds and calculating the average germination rate.\nHow does the concept of Common Error: Concluding Too Early help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {
@@ -341,7 +341,7 @@
       ]
     },
     {
-      "title": "Summary of Week 1 Advanced (Advanced)",
+      "title": "Summary of Week 1 Advanced",
       "text": "You completed Week 1 Advanced! You are now ready to apply the scientific method systematically.\nThis slide introduces key insights about Summary of Week 1 Advanced.\nFor instance, consider the example of Key Takeaway:\nScientific inquiry requires precision, control, and testable questions.\nAnother case is the study of Next Step:\nAdvance to Week 2 to practice the art of scientific questioning.\nHow does the concept of Summary of Week 1 Advanced help us think critically?\nKeep up your curiosity and check your facts as a scientist!",
       "examples": [
         {

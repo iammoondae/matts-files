@@ -150,7 +150,7 @@ def pad_slides(slides, subject, week_num):
             )
             examples = [{"title": f"Review Card {review_num}", "content": "Practice explaining these science ideas to your family."}]
         else:
-            title = f"Karagdagang Pagsasanay {review_num}"
+            title = make_translation(f"Karagdagang Pagsasanay {review_num}", f"Additional Practice {review_num}")
             text = make_text(
                 make_translation("Mag-review tayo ng mga aralin sa linggong ito.", "Let's review our lessons for this week."),
                 make_translation(f"Pinag-aralan natin ang mahahalagang konsepto ng Week {week_num}.", f"We studied the important concepts of Week {week_num}."),
@@ -161,7 +161,10 @@ def pad_slides(slides, subject, week_num):
                 make_translation("Subukang sagutin ang lahat ng tanong sa pagsusulit natin.", "Try to answer all the questions in our quiz today."),
                 make_translation("Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!", "Continue being an excellent and hardworking student!")
             )
-            examples = [{"title": f"Pagsasanay {review_num}", "content": "Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon."}]
+            examples = [{
+                "title": make_translation(f"Pagsasanay {review_num}", f"Practice {review_num}"),
+                "content": make_translation("Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon.", "Share what you have learned from the lesson with your family today.")
+            }]
             
         padded.append({
             "title": title,
@@ -312,5 +315,21 @@ for w in range(1, 5):
 # Remove extraction helper script since it is no longer needed
 if os.path.exists(os.path.join(BASE_DIR, "scratch", "extract_sources.py")):
     os.remove(os.path.join(BASE_DIR, "scratch", "extract_sources.py"))
+
+# Auto-update Grade 3 manifest.json version
+import datetime
+manifest_path = os.path.join(DATA_DIR, "manifest.json")
+if os.path.exists(manifest_path):
+    with open(manifest_path, "r", encoding="utf-8") as f_m:
+        manifest_data = json.load(f_m)
+else:
+    manifest_data = {"weeks": [1, 2, 3, 4], "reviews": [], "images": []}
+
+now = datetime.datetime.now()
+manifest_data["version"] = now.strftime("%Y.%m.%d.%H%M")
+
+with open(manifest_path, "w", encoding="utf-8") as f_m:
+    json.dump(manifest_data, f_m, indent=2, ensure_ascii=False)
+print(f"Updated manifest.json version to: {manifest_data['version']}")
 
 print("Grade 3 database compilation finished successfully!")

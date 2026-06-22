@@ -1451,12 +1451,21 @@ function checkWeeklyUpdates() {
       return response.json();
     })
     .then(manifest => {
+      const localVersion = localStorage.getItem(`local_${learnerGrade}_manifest_version`);
+      const remoteVersion = manifest.version || '';
+      
+      if (localVersion && localVersion === remoteVersion) {
+        alert("There is no available update.");
+        resetButton();
+        return;
+      }
+
       const weeksToDownload = manifest.weeks || [];
       const imagesToDownload = manifest.images || [];
       const reviewsToDownload = manifest.reviews || [];
 
       if (weeksToDownload.length === 0 && imagesToDownload.length === 0 && reviewsToDownload.length === 0) {
-        alert("No updates listed in the manifest.");
+        alert("There is no available update.");
         resetButton();
         return;
       }
@@ -1520,6 +1529,9 @@ function checkWeeklyUpdates() {
       });
 
       return Promise.all(tasks).then(() => {
+        if (remoteVersion) {
+          localStorage.setItem(`local_${learnerGrade}_manifest_version`, remoteVersion);
+        }
         buildWeekSelector();
         
         if (loadedWeeks.includes(currentWeek)) {
@@ -1782,7 +1794,7 @@ function renderCurrentView() {
   
   const transBtn = document.getElementById('header-trans-btn');
   if (transBtn) {
-    if (currentSubject === 'filipino' || currentSubject === 'makabansa') {
+    if (currentSubject === 'filipino' || currentSubject === 'makabansa' || currentSubject === 'gmrc') {
       transBtn.style.display = 'flex';
       const isShowing = document.body.classList.contains('show-translation');
       transBtn.classList.toggle('active-tool', isShowing);
@@ -6516,12 +6528,27 @@ function runOnboardingUpdate() {
       return response.json();
     })
     .then(manifest => {
+      const localVersion = localStorage.getItem(`local_${learnerGrade}_manifest_version`);
+      const remoteVersion = manifest.version || '';
+
+      if (localVersion && localVersion === remoteVersion) {
+        if (statusEl) {
+          statusEl.style.color = "var(--correct)";
+          statusEl.innerHTML = "✅ There is no available update.";
+        }
+        setTimeout(() => showOnboardingPINStep(), 1500);
+        return;
+      }
+
       const weeksToDownload = manifest.weeks || [];
       const imagesToDownload = manifest.images || [];
       const reviewsToDownload = manifest.reviews || [];
 
       if (weeksToDownload.length === 0 && imagesToDownload.length === 0 && reviewsToDownload.length === 0) {
-        if (statusEl) statusEl.innerHTML = "✅ Database is up to date!";
+        if (statusEl) {
+          statusEl.style.color = "var(--correct)";
+          statusEl.innerHTML = "✅ There is no available update.";
+        }
         setTimeout(() => showOnboardingPINStep(), 1500);
         return;
       }
@@ -6597,6 +6624,9 @@ function runOnboardingUpdate() {
       });
 
       return Promise.all(tasks).then(() => {
+        if (remoteVersion) {
+          localStorage.setItem(`local_${learnerGrade}_manifest_version`, remoteVersion);
+        }
         buildWeekSelector();
         if (statusEl) {
           statusEl.style.color = "var(--correct)";
@@ -6808,7 +6838,7 @@ function openSettings() {
   
   const transSection = document.getElementById('settings-subject-tools-section');
   const transRow = document.getElementById('settings-trans-row');
-  const isTransAvailable = (currentSubject === 'filipino' || currentSubject === 'makabansa');
+  const isTransAvailable = (currentSubject === 'filipino' || currentSubject === 'makabansa' || currentSubject === 'gmrc');
   if (transSection) {
     transSection.style.display = isTransAvailable ? 'block' : 'none';
   }
