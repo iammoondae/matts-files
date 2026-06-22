@@ -368,4 +368,15 @@ We have successfully resolved all stability issues, implemented the Welcome Dash
     - Corrected the empty span translation regex in `scratch/translate_all_subjects.py` to prevent crossing tag boundaries.
 3. **Successful Compilation & APK Package**:
     - Rebuilt all advanced templates, compiled all Grade 3 databases with zero HTML or syntax errors, validated the database successfully, and generated the final Android package: **[Matteo's Learning Hub v26.06.22.1413.apk](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/Matteo's%20Learning%20Hub%20v26.06.22.1413.apk)**.
-
+### 🌟 125-150 Word Study Slides & Science Topic Title display (June 22, 2026 - Part 4):
+1. **Transitioned to the 125-150 Word Count Slide Rule**:
+    - Replaced the legacy 8-line rule with a word count check (125-150 visible words per slide) to allow study guide slides to render as unified paragraphs.
+    - Updated `expand_to_word_count()` inside [generate_g3_all_subjects.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/generate_g3_all_subjects.py) and [build_advanced_sources.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/build_advanced_sources.py) to count visible words by stripping HTML/translation tags, joining lines with spaces, and appending structured padding sentences dynamically to meet the word count range.
+    - This change resolves the abbreviation text-splitting issues (such as `(e. g. , ...)` being split into separate lines).
+2. **Updated Validation Rules and Moon Standards**:
+    - Modified [validate_db.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/validate_db.py) to check for a 125-150 visible word count range on Grade 3 slides and verify that no newline characters (`\n`) are present in slide text.
+    - Updated Section 5 in [moon_standards_mlh.md](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/moon_standards_mlh.md) to document the new 125-150 word rule and normal paragraph wrap.
+3. **Fixed Science Subtitle Display in Header**:
+    - Removed the hardcoded override in `app.js` (lines 1850-1854) that cleared the Science topic subtitle. Science now displays its topic subtitle in the header (e.g. "Week 1: Science in Our Daily Life") in complete alignment with other subjects.
+4. **Successful Compilation & APK Package**:
+    - Rebuilt all advanced templates, compiled all Grade 3 databases, validated them successfully with zero errors, and compiled the new versioned APK: **[Matteo's Learning Hub v26.06.22.1452.apk](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/Matteo's%20Learning%20Hub%20v26.06.22.1452.apk)**.
