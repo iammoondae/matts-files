@@ -380,3 +380,11 @@ We have successfully resolved all stability issues, implemented the Welcome Dash
     - Removed the hardcoded override in `app.js` (lines 1850-1854) that cleared the Science topic subtitle. Science now displays its topic subtitle in the header (e.g. "Week 1: Science in Our Daily Life") in complete alignment with other subjects.
 4. **Successful Compilation & APK Package**:
     - Rebuilt all advanced templates, compiled all Grade 3 databases, validated them successfully with zero errors, and compiled the new versioned APK: **[Matteo's Learning Hub v26.06.22.1452.apk](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/Matteo's%20Learning%20Hub%20v26.06.22.1452.apk)**.
+
+### 🌟 Misplaced Colon Layout Resolution in Bilingual Slides (June 22, 2026 - Part 5):
+1. **Resolved HTML Tag Nesting & Misplaced Colons**:
+    - Fixed a bug in `expand_to_word_count()` where examples containing translation HTML spans were double-wrapped in nested outer spans. This nesting caused the block-level rendering of the first span's translation to push the trailing colon (`:`) and content span to the next line in GMRC, Makabansa, and Filipino subjects.
+    - Implemented `clean_html_text()` and `extract_translation()` helper functions inside [generate_g3_all_subjects.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/generate_g3_all_subjects.py) and [build_advanced_sources.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/build_advanced_sources.py) to cleanly extract translations, strip HTML tags from input strings, and produce a single clean outer translation span containing the colon inside the tag structure (e.g. `<span class="fil-sentence" data-translation="For instance, consider the example of Goal of the Week: Determine proper nouns...">Halimbawa, tingnan natin ang tungkol sa Layunin ng Linggo: Matukoy ang...</span>`).
+2. **Successful Compilation & APK Package**:
+    - Compiled all advanced templates, rebuilt all Grade 3 databases with clean colon structures, verified they satisfy all gate checks with zero validation errors, and built the new versioned installer: **[Matteo's Learning Hub v26.06.22.1600.apk](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/Matteo's%20Learning%20Hub%20v26.06.22.1600.apk)**.
+
