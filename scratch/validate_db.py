@@ -6,7 +6,7 @@ import json
 base_dir = "/home/moondae/Antigravity Projects/Matts Files_apk/data"
 grades = ["g1", "g2", "g3"]
 subjects = ["math", "science", "english", "filipino", "makabansa", "gmrc"]
-weeks = [1, 2, 3, 4, 5]
+weeks = [1, 2, 3, 4]
 
 def extract_json_block(text, prefix):
     idx = text.find(prefix)
@@ -294,9 +294,9 @@ def main():
                 grade_weeks = manifest_data.get("weeks", [])
             except Exception as e:
                 print(f"Warning: Failed to load manifest {manifest_path}: {e}")
-                grade_weeks = [1, 2, 3, 4, 5]
+                grade_weeks = [1, 2, 3, 4]
         else:
-            grade_weeks = [1, 2, 3, 4, 5]
+            grade_weeks = [1, 2, 3, 4]
             
         for w in grade_weeks:
             file_name = f"week{w}.json"
