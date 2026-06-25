@@ -22,7 +22,8 @@
           "title": "Example 2",
           "content": "Review standard details: Parallel lines = never meet, constant distance."
         }
-      ]
+      ],
+      "image": "images/line_relationships.png"
     },
     {
       "title": "Parallel Lines in Daily Life",
@@ -52,7 +53,8 @@
           "title": "Example 5",
           "content": "Review standard details: Intersecting lines = cross at a single point."
         }
-      ]
+      ],
+      "image": "images/line_relationships.png"
     },
     {
       "title": "Finding Intersecting Lines",
@@ -72,7 +74,8 @@
           "title": "Example 7",
           "content": "Review standard details: Perpendicular lines = cross at a right angle."
         }
-      ]
+      ],
+      "image": "images/line_relationships.png"
     },
     {
       "title": "Understanding the Right Angle",

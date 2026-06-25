@@ -121,7 +121,7 @@ To ensure complete and error-free content delivery, the database validation comp
 * **Worksheet Answer Elements**: Every worksheet page HTML string must contain at least one `.ws-answer` class element (e.g. `<span class="ws-answer">...</span>`) to store correct answer keys and facilitate parent grading features.
 * **Bilingual Translation Density**: The `filipino`, `makabansa`, and `gmrc` databases must contain a minimum of 20 `data-translation` spans per week to ensure comprehensive English-Filipino bilingual support.
 * **Quiz/Challenge Answer Fields**: Every quiz and challenge question must contain a valid, non-empty `"answer"` value matching its correct option/choice index or text input.
-* **Clean Title & Subtitle Remarks**: Subject titles, subtitles, and individual slide titles must never include the suffix/remark `(Advanced)` or `[Advanced]`. All titles must remain clean and readable to students.
+* **Forbidden 'Advanced' Remarks & Prefix Placeholders**: Subject titles, subtitles, individual slide titles, slide texts, and all example fields (titles and contents) must never include brackets/suffix remarks like `(Advanced)` or `[Advanced]` (case-insensitive). They are also strictly prohibited from containing prefix placeholders such as `Advanced math:`, `Advanced science:`, `Advanced english:`, `Advanced filipino:`, `Advanced makabansa:`, `Advanced gmrc:`, `Advanced analysis:`, or `Advanced analysis is required:` (case-insensitive). All content must remain clean, student-facing, and fully integrated.
 
 ---
 

@@ -42,7 +42,8 @@
           "title": "Example 4",
           "content": "Review standard details: Grid = Rows x Columns."
         }
-      ]
+      ],
+      "image": "images/area_grid_5x4.png"
     },
     {
       "title": "Counting Tiles by Rows",
@@ -72,7 +73,8 @@
           "title": "Example 7",
           "content": "Review standard details: Area = 3 rows x 4 columns = 12 tiles."
         }
-      ]
+      ],
+      "image": "images/area_grid_5x4.png"
     },
     {
       "title": "Area of a Grid Square",
@@ -132,7 +134,8 @@
           "title": "Example 13",
           "content": "Review standard details: Area = 6 units x 4 units = 24 square units."
         }
-      ]
+      ],
+      "image": "images/area_grid_5x4.png"
     },
     {
       "title": "The Square Area Formula",

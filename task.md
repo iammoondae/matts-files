@@ -138,3 +138,10 @@
 - `[x]` Task 136: Verify unique email checks on onboarding and progress reset Parent PIN gate
 - `[x]` Task 137: Recompile Grade 3 JSON databases and run Quality Gate validation
 - `[x]` Task 138: Package and compile the final versioned debug APK
+- `[x]` Task 139: Update database validation script (validate_db.py) to strictly scan and reject forbidden "Advanced" prefixes (like Advanced math:, Advanced science:, etc.) in all slide titles, texts, and example fields
+- `[x]` Task 140: Update Moon Standards (moon_standards_mlh.md) to document the forbidden prefixes check rule in Section 5.C
+- `[x]` Task 141: Modify math slide generation script (rewrite_math_sources.py) to remove all advanced prefixes and inject educational slide image paths
+- `[x]` Task 142: Generate 4 educational diagrams (area_grid_5x4.png, geometry_basics.png, line_relationships.png, place_value_chart.png) and save them in images/
+- `[x]` Task 143: Register the four generated image filenames in the database manifest.json
+- `[x]` Task 144: Run math source rewriting, recompile Grade 3 JSON databases, and verify that Quality Gate validation checks pass successfully with zero errors
+

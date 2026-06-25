@@ -430,3 +430,22 @@ We have successfully resolved all stability issues, implemented the Welcome Dash
 4. **Validation and Integration**:
     - Ensured that all newly generated slides have word counts of exactly 125-150 words per slide and do not contain newline boundaries.
     - Successfully passed the codebase and database Quality Gate check (`validate_db.py`) with zero errors.
+
+### 🚫 Forbidden 'Advanced' Remarks Removal & Localized Educational Images (June 25, 2026 - Part 4):
+1. **Forbidden Prefix & Bracket Checks**:
+    - Upgraded the database quality checker ([validate_db.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/validate_db.py)) to scan slide titles, texts, and example fields (titles/contents) for forbidden brackets like `[Advanced]`, `(Advanced)` and prefix placeholders like `Advanced math:`, `Advanced science:`, `Advanced english:`, `Advanced filipino:`, `Advanced makabansa:`, `Advanced gmrc:`, `Advanced analysis:` (case-insensitive).
+    - Documented these forbidden keywords check rules in Section 5.C of [moon_standards_mlh.md](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/moon_standards_mlh.md) as a permanent project standard to prevent future regressions.
+2. **Clean Student-Facing Slide Templates**:
+    - Modified [rewrite_math_sources.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/rewrite_math_sources.py) to remove all advanced prefixes (`[Advanced]`, `Advanced analysis:`, `Advanced math:`) from standard and advanced Mathematics slide titles, texts, and examples.
+3. **Generated Educational diagrams**:
+    - Used the image generator to create 4 premium educational diagrams and saved them under the [images/](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/images) folder:
+      - `area_grid_5x4.png` (Grid layout for area calculation)
+      - `geometry_basics.png` (Visual point, line, segment, ray)
+      - `line_relationships.png` (Visual parallel, intersecting, perpendicular lines)
+      - `place_value_chart.png` (Place value table for numbers up to 10,000)
+    - Linked these images to the corresponding slides in the math source templates.
+    - Registered the 4 image files in [manifest.json](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/data/g3/manifest.json) under the `"images"` array to enable automatic caching and downloads.
+4. **Database Compilation and Validation**:
+    - Recompiled all weekly JSON databases using [generate_g3_all_subjects.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/generate_g3_all_subjects.py).
+    - Verified that [validate_db.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/validate_db.py) reports a 100% successful **PASS** status for all Grade 1, 2, and 3 database files.
+

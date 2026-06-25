@@ -77,14 +77,45 @@ def validate_week_file(file_path):
             if len(slides) != 25:
                 errors.append(f"{name} subject '{sub}' study guide has {len(slides)} slides (expected 25).")
             else:
-                # 8-Line Text Check & Forbidden "Advanced" remarks check in slide titles
+                # Forbidden prefix and bracket remarks scanner
+                def check_forbidden_text(text):
+                    if not isinstance(text, str):
+                        return None
+                    if re.search(r'[\[(]advanced[\])]', text, re.IGNORECASE):
+                        return "bracketed '[Advanced]' or '(Advanced)' remark"
+                    pattern = r'\badvanced\s+(math|science|english|filipino|makabansa|gmrc|analysis)(\s+is\s+required)?\s*:'
+                    match = re.search(pattern, text, re.IGNORECASE)
+                    if match:
+                        return f"forbidden prefix '{match.group(0)}'"
+                    return None
+
                 for idx, slide in enumerate(slides):
                     slide_title = slide.get('title', '')
-                    if "(Advanced)" in slide_title or "[Advanced]" in slide_title:
-                        errors.append(f"{name} subject '{sub}' slide {idx + 1} title '{slide_title}' contains forbidden 'Advanced' remarks.")
+                    slide_text = slide.get('text', '')
+                    
+                    # Check slide title
+                    err_title = check_forbidden_text(slide_title)
+                    if err_title:
+                        errors.append(f"{name} subject '{sub}' slide {idx + 1} title '{slide_title}' {err_title}.")
+                        
+                    # Check slide text
+                    err_text = check_forbidden_text(slide_text)
+                    if err_text:
+                        errors.append(f"{name} subject '{sub}' slide {idx + 1} ('{slide_title}') text {err_text}.")
+                        
+                    # Check examples
+                    examples = slide.get('examples', [])
+                    for ex_idx, ex in enumerate(examples):
+                        ex_title = ex.get('title', '')
+                        ex_content = ex.get('content', '')
+                        err_ex_title = check_forbidden_text(ex_title)
+                        if err_ex_title:
+                            errors.append(f"{name} subject '{sub}' slide {idx + 1} example {ex_idx + 1} title '{ex_title}' {err_ex_title}.")
+                        err_ex_content = check_forbidden_text(ex_content)
+                        if err_ex_content:
+                            errors.append(f"{name} subject '{sub}' slide {idx + 1} example {ex_idx + 1} content '{ex_content}' {err_ex_content}.")
                     
                     if is_g3:
-                        slide_text = slide.get('text', '')
                         # Calculate visible words by stripping HTML tags
                         visible_text = re.sub(r'<[^>]+>', ' ', slide_text)
                         words = [w for w in visible_text.split() if w]
@@ -97,10 +128,12 @@ def validate_week_file(file_path):
             # Forbidden "Advanced" remarks check in subject titles and subtitles
             sub_title = sub_data.get('title', '')
             sub_subtitle = sub_data.get('subtitle', '')
-            if "(Advanced)" in sub_title or "[Advanced]" in sub_title:
-                errors.append(f"{name} subject '{sub}' title '{sub_title}' contains forbidden 'Advanced' remarks.")
-            if "(Advanced)" in sub_subtitle or "[Advanced]" in sub_subtitle:
-                errors.append(f"{name} subject '{sub}' subtitle '{sub_subtitle}' contains forbidden 'Advanced' remarks.")
+            err_sub_title = check_forbidden_text(sub_title)
+            if err_sub_title:
+                errors.append(f"{name} subject '{sub}' title '{sub_title}' {err_sub_title}.")
+            err_sub_subtitle = check_forbidden_text(sub_subtitle)
+            if err_sub_subtitle:
+                errors.append(f"{name} subject '{sub}' subtitle '{sub_subtitle}' {err_sub_subtitle}.")
                 
             # Standard/Quiz Check
             quiz = sub_data.get('standard', sub_data.get('quiz', []))

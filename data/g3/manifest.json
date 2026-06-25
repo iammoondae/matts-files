@@ -11,7 +11,11 @@
     "angle_types.png",
     "microscope.png",
     "regular_polygons.png",
-    "chemical_changes.png"
+    "chemical_changes.png",
+    "area_grid_5x4.png",
+    "geometry_basics.png",
+    "line_relationships.png",
+    "place_value_chart.png"
   ],
-  "version": "2026.06.25.0915"
+  "version": "2026.06.25.0931"
 }

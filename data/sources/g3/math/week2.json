@@ -22,7 +22,8 @@
           "title": "Example 2",
           "content": "Review standard details: 1 sq. cm = 1 cm x 1 cm."
         }
-      ]
+      ],
+      "image": "images/geometry_basics.png"
     },
     {
       "title": "Measuring in Square Centimeters",
@@ -102,7 +103,8 @@
           "title": "Example 10",
           "content": "Review standard details: Point = exact location in space."
         }
-      ]
+      ],
+      "image": "images/geometry_basics.png"
     },
     {
       "title": "Points in the Real World",
@@ -122,7 +124,8 @@
           "title": "Example 12",
           "content": "Review standard details: Line = straight path that goes on forever."
         }
-      ]
+      ],
+      "image": "images/geometry_basics.png"
     },
     {
       "title": "Representing Lines",
@@ -142,7 +145,8 @@
           "title": "Example 14",
           "content": "Review standard details: Segment AB = path between endpoints A and B."
         }
-      ]
+      ],
+      "image": "images/geometry_basics.png"
     },
     {
       "title": "Measuring Line Segments",
@@ -162,7 +166,8 @@
           "title": "Example 16",
           "content": "Review standard details: Ray AB = starts at A, goes forever through B."
         }
-      ]
+      ],
+      "image": "images/geometry_basics.png"
     },
     {
       "title": "Rays in Daily Life",
