@@ -1,5 +1,5 @@
 // Safe LocalStorage Wrapper to prevent crashes in restricted frames/sandboxes
-const localStorage = (() => {
+const safeStorage = (() => {
   const fallback = {};
   return {
     getItem(key) {
@@ -184,7 +184,7 @@ let timerMode = 'study'; // 'study' or 'break'
 
 // Helper to get learner grade
 function getLearnerGrade() {
-  return localStorage.getItem('session_grade_level') || 'g3';
+  return safeStorage.getItem('session_grade_level') || 'g3';
 }
 
 function getActiveGradeNumber() {
@@ -391,20 +391,20 @@ window.addEventListener('DOMContentLoaded', () => {
   });
 
   // Restore music preference
-  musicEnabled = localStorage.getItem('session_music_enabled') === 'true';
+  musicEnabled = safeStorage.getItem('session_music_enabled') === 'true';
   if (musicEnabled) {
     toggleMusic(true);
   }
 
   // Restore SFX preference
-  sfxEnabled = localStorage.getItem('session_sfx_enabled') === 'true';
+  sfxEnabled = safeStorage.getItem('session_sfx_enabled') === 'true';
 
   // Restore worksheet finger drawing preference
-  wsDrawWithFinger = localStorage.getItem('session_wsDrawWithFinger') !== 'false';
+  wsDrawWithFinger = safeStorage.getItem('session_wsDrawWithFinger') !== 'false';
 
   // Check onboarding on startup
-  const nickname = localStorage.getItem('session_nickname');
-  const grade = localStorage.getItem('session_grade_level');
+  const nickname = safeStorage.getItem('session_nickname');
+  const grade = safeStorage.getItem('session_grade_level');
   
   if (!nickname || !grade) {
     const overlay = document.getElementById('onboarding-overlay');
@@ -418,26 +418,26 @@ window.addEventListener('DOMContentLoaded', () => {
     buildWeekSelector();
     
     // Restore session if available
-    const savedWeek = localStorage.getItem('session_currentWeek');
+    const savedWeek = safeStorage.getItem('session_currentWeek');
     if (savedWeek) {
       currentWeek = parseInt(savedWeek);
-      currentLevel = localStorage.getItem('session_currentLevel') || 'core';
-      currentSubject = localStorage.getItem('session_currentSubject') || 'math';
-      currentMode = localStorage.getItem('session_currentMode');
-      window.IS_REVIEW_MODE = localStorage.getItem('session_IS_REVIEW_MODE') === 'true';
-      window.CURRENT_REVIEW_DATE = localStorage.getItem('session_CURRENT_REVIEW_DATE') || null;
-      currentSlideIndex = parseInt(localStorage.getItem('session_currentSlideIndex') || '0');
-      currentQuestionIndex = parseInt(localStorage.getItem('session_currentQuestionIndex') || '0');
-      currentReadingDay = localStorage.getItem('session_currentReadingDay') || null;
-      currentReadingSlide = parseInt(localStorage.getItem('session_currentReadingSlide') || '0');
-      currentWorksheetPage = parseInt(localStorage.getItem('session_currentWorksheetPage') || '0');
-      quizScore = parseInt(localStorage.getItem('session_quizScore') || '0');
+      currentLevel = safeStorage.getItem('session_currentLevel') || 'core';
+      currentSubject = safeStorage.getItem('session_currentSubject') || 'math';
+      currentMode = safeStorage.getItem('session_currentMode');
+      window.IS_REVIEW_MODE = safeStorage.getItem('session_IS_REVIEW_MODE') === 'true';
+      window.CURRENT_REVIEW_DATE = safeStorage.getItem('session_CURRENT_REVIEW_DATE') || null;
+      currentSlideIndex = parseInt(safeStorage.getItem('session_currentSlideIndex') || '0');
+      currentQuestionIndex = parseInt(safeStorage.getItem('session_currentQuestionIndex') || '0');
+      currentReadingDay = safeStorage.getItem('session_currentReadingDay') || null;
+      currentReadingSlide = parseInt(safeStorage.getItem('session_currentReadingSlide') || '0');
+      currentWorksheetPage = parseInt(safeStorage.getItem('session_currentWorksheetPage') || '0');
+      quizScore = parseInt(safeStorage.getItem('session_quizScore') || '0');
       try {
-        wrongAnswersLog = JSON.parse(localStorage.getItem('session_wrongAnswersLog') || '[]');
+        wrongAnswersLog = JSON.parse(safeStorage.getItem('session_wrongAnswersLog') || '[]');
       } catch (e) {
         wrongAnswersLog = [];
       }
-      wsShowAnswers = localStorage.getItem('session_wsShowAnswers') === 'true';
+      wsShowAnswers = safeStorage.getItem('session_wsShowAnswers') === 'true';
       
       // Sync level button styles
       document.querySelectorAll('.level-selector .level-btn').forEach(btn => btn.classList.remove('active'));
@@ -460,7 +460,7 @@ window.addEventListener('DOMContentLoaded', () => {
       }
       
       // Sync translation state
-      const showTranslation = localStorage.getItem('session_showTranslation') === 'true';
+      const showTranslation = safeStorage.getItem('session_showTranslation') === 'true';
       if (showTranslation) {
         document.body.classList.add('show-translation');
       } else {
@@ -483,7 +483,7 @@ window.addEventListener('DOMContentLoaded', () => {
   }
   
   // Restore theme setting and status bar color
-  const savedTheme = localStorage.getItem('session_theme');
+  const savedTheme = safeStorage.getItem('session_theme');
   if (savedTheme === 'light') {
     document.body.classList.add('light-mode');
   } else {
@@ -492,7 +492,7 @@ window.addEventListener('DOMContentLoaded', () => {
   updateThemeColorMeta();
 
   // Restore font scale setting
-  const savedFontScale = localStorage.getItem('session_globalFontScale');
+  const savedFontScale = safeStorage.getItem('session_globalFontScale');
   if (savedFontScale) {
     globalFontScale = parseInt(savedFontScale);
   } else {
@@ -506,9 +506,9 @@ window.addEventListener('DOMContentLoaded', () => {
     if (document.hasFocus() && currentMode && currentMode !== '' && currentMode !== 'home' && currentMode !== 'parents') {
       const today = new Date().toISOString().split('T')[0];
       const key = `study_time_seconds_${today}`;
-      let secs = parseInt(localStorage.getItem(key) || '0');
+      let secs = parseInt(safeStorage.getItem(key) || '0');
       secs++;
-      localStorage.setItem(key, secs.toString());
+      safeStorage.setItem(key, secs.toString());
     }
 
     if (timerRunning) {
@@ -611,7 +611,7 @@ function resetStudyTimer() {
 
 function isWeekUnlocked(weekNum) {
   const learnerGrade = getLearnerGrade();
-  const localContent = localStorage.getItem(`local_${learnerGrade}_week_data_${weekNum}`);
+  const localContent = safeStorage.getItem(`local_${learnerGrade}_week_data_${weekNum}`);
   const hasLocalData = localContent !== null && localContent !== "" && localContent !== "undefined" && localContent !== "null";
   return weekNum === 1 || weekNum === 2 || weekNum === 3 || weekNum === 4 || hasLocalData;
 }
@@ -639,12 +639,12 @@ function checkDateWeekAlignment() {
 
   // Only check once per day
   const todayStr = new Date().toLocaleDateString('en-CA');
-  const lastChecked = localStorage.getItem('alignment_last_checked');
+  const lastChecked = safeStorage.getItem('alignment_last_checked');
   if (lastChecked === todayStr) return;
 
   const academicWeek = getTodayAcademicWeek();
   if (academicWeek === currentWeek) {
-    localStorage.setItem('alignment_last_checked', todayStr);
+    safeStorage.setItem('alignment_last_checked', todayStr);
     return;
   }
   if (!isWeekUnlocked(academicWeek)) return;
@@ -658,7 +658,7 @@ function checkDateWeekAlignment() {
     </div>
   `;
   banner.style.display = 'flex';
-  localStorage.setItem('alignment_last_checked', todayStr);
+  safeStorage.setItem('alignment_last_checked', todayStr);
 }
 
 function switchToAcademicWeek(week) {
@@ -683,29 +683,29 @@ function isTaskComplete(week, subject, mode) {
   const level = currentLevel;
 
   if (mode === 'quiz') {
-    const score = localStorage.getItem(`highscore_${grade}_w${week}_sses_${subject}_${level}_quiz`);
+    const score = safeStorage.getItem(`highscore_${grade}_w${week}_sses_${subject}_${level}_quiz`);
     return score !== null;
   }
   if (mode === 'challenge') {
-    const score = localStorage.getItem(`highscore_${grade}_w${week}_sses_${subject}_${level}_challenge`);
+    const score = safeStorage.getItem(`highscore_${grade}_w${week}_sses_${subject}_${level}_challenge`);
     return score !== null;
   }
   if (mode === 'performance') {
-    return localStorage.getItem(`performance_complete_${grade}_w${week}_${subject}_${level}`) === 'true';
+    return safeStorage.getItem(`performance_complete_${grade}_w${week}_${subject}_${level}`) === 'true';
   }
   if (mode === 'reading') {
     // At least one day completed counts as started; all 5 = complete
     const days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday'];
     const completed = days.filter(d =>
-      localStorage.getItem(`reading_${grade}_w${week}_${d}`) === 'completed'
+      safeStorage.getItem(`reading_${grade}_w${week}_${d}`) === 'completed'
     ).length;
     return completed >= 5;
   }
   if (mode === 'study') {
-    return localStorage.getItem(`study_complete_${grade}_w${week}_${subject}_${level}`) === 'true';
+    return safeStorage.getItem(`study_complete_${grade}_w${week}_${subject}_${level}`) === 'true';
   }
   if (mode === 'worksheet') {
-    return localStorage.getItem(`worksheet_complete_${grade}_w${week}_${subject}_${level}`) === 'true';
+    return safeStorage.getItem(`worksheet_complete_${grade}_w${week}_${subject}_${level}`) === 'true';
   }
   return false;
 }
@@ -715,12 +715,12 @@ function isTaskStarted(week, subject, mode) {
   const level = currentLevel;
 
   if (mode === 'quiz') {
-    return localStorage.getItem(`quiz_inprogress_${grade}_w${week}_${subject}_${level}`) !== null;
+    return safeStorage.getItem(`quiz_inprogress_${grade}_w${week}_${subject}_${level}`) !== null;
   }
   if (mode === 'reading') {
     const days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday'];
     return days.some(d =>
-      localStorage.getItem(`reading_${grade}_w${week}_${d}`) === 'completed'
+      safeStorage.getItem(`reading_${grade}_w${week}_${d}`) === 'completed'
     );
   }
   return false;
@@ -761,7 +761,7 @@ const DEFAULT_SCHEDULE_BY_GRADE = {
 };
 
 function getScheduleConfig() {
-  const saved = localStorage.getItem('schedule_config');
+  const saved = safeStorage.getItem('schedule_config');
   if (saved) {
     try { return JSON.parse(saved); } catch(e) {}
   }
@@ -770,7 +770,7 @@ function getScheduleConfig() {
 }
 
 function saveScheduleConfig(config) {
-  localStorage.setItem('schedule_config', JSON.stringify(config));
+  safeStorage.setItem('schedule_config', JSON.stringify(config));
 }
 
 function getTodaySubjects() {
@@ -829,7 +829,7 @@ function _anyScoreEquals(mode, score, max) {
   const subjects = ['math','science','english','filipino','makabansa','gmrc'];
   for (let w = 1; w <= 40; w++) {
     for (let s of subjects) {
-      const val = parseInt(localStorage.getItem(`highscore_${grade}_w${w}_sses_${s}_${level}_${mode}`) || '-1');
+      const val = parseInt(safeStorage.getItem(`highscore_${grade}_w${w}_sses_${s}_${level}_${mode}`) || '-1');
       if (val === score) return true;
     }
   }
@@ -843,7 +843,7 @@ function _countScores(mode) {
   let count = 0;
   for (let w = 1; w <= 40; w++) {
     for (let s of subjects) {
-      if (localStorage.getItem(`highscore_${grade}_w${w}_sses_${s}_${level}_${mode}`) !== null) count++;
+      if (safeStorage.getItem(`highscore_${grade}_w${w}_sses_${s}_${level}_${mode}`) !== null) count++;
     }
   }
   return count;
@@ -855,7 +855,7 @@ function _countReadingDays() {
   let count = 0;
   for (let w = 1; w <= 40; w++) {
     days.forEach(d => {
-      if (localStorage.getItem(`reading_${grade}_w${w}_${d}`) === 'completed') count++;
+      if (safeStorage.getItem(`reading_${grade}_w${w}_${d}`) === 'completed') count++;
     });
   }
   return count;
@@ -865,7 +865,7 @@ function _fullWeekReading() {
   const grade = getLearnerGrade();
   const days = ['monday','tuesday','wednesday','thursday','friday'];
   for (let w = 1; w <= 40; w++) {
-    if (days.every(d => localStorage.getItem(`reading_${grade}_w${w}_${d}`) === 'completed')) return true;
+    if (days.every(d => safeStorage.getItem(`reading_${grade}_w${w}_${d}`) === 'completed')) return true;
   }
   return false;
 }
@@ -877,7 +877,7 @@ function _countPerformance() {
   let count = 0;
   for (let w = 1; w <= 40; w++) {
     for (let s of subjects) {
-      if (localStorage.getItem(`performance_complete_${grade}_w${w}_${s}_${level}`) === 'true') count++;
+      if (safeStorage.getItem(`performance_complete_${grade}_w${w}_${s}_${level}`) === 'true') count++;
     }
   }
   return count;
@@ -889,7 +889,7 @@ function _allSubjectsPassedInAnyWeek() {
   const subjects = ['math','science','english','filipino','makabansa','gmrc'];
   for (let w = 1; w <= 40; w++) {
     if (subjects.every(s => {
-      const score = parseInt(localStorage.getItem(`highscore_${grade}_w${w}_sses_${s}_${level}_quiz`) || '-1');
+      const score = parseInt(safeStorage.getItem(`highscore_${grade}_w${w}_sses_${s}_${level}_quiz`) || '-1');
       return score >= QUIZ_PASSING_SCORE;
     })) return true;
   }
@@ -901,7 +901,7 @@ function _subjectStreakPassed(subject, streakCount) {
   const level = currentLevel;
   let streak = 0;
   for (let w = 1; w <= 40; w++) {
-    const score = parseInt(localStorage.getItem(`highscore_${grade}_w${w}_sses_${subject}_${level}_quiz`) || '-1');
+    const score = parseInt(safeStorage.getItem(`highscore_${grade}_w${w}_sses_${subject}_${level}_quiz`) || '-1');
     if (score >= QUIZ_PASSING_SCORE) {
       streak++;
       if (streak >= streakCount) return true;
@@ -920,10 +920,10 @@ function getEarnedBadges() {
 
 function checkAndSaveNewBadges() {
   const earned = getEarnedBadges().map(b => b.id);
-  const prev = JSON.parse(localStorage.getItem('earned_badges') || '[]');
+  const prev = JSON.parse(safeStorage.getItem('earned_badges') || '[]');
   const newOnes = earned.filter(id => !prev.includes(id));
   if (newOnes.length > 0) {
-    localStorage.setItem('earned_badges', JSON.stringify(earned));
+    safeStorage.setItem('earned_badges', JSON.stringify(earned));
   }
   return newOnes;
 }
@@ -937,7 +937,7 @@ function saveQuizProgress() {
   const level = currentLevel;
   const key = `quiz_inprogress_${grade}_w${currentWeek}_${currentSubject}_${level}`;
   if (currentQuestionIndex > 0) {
-    localStorage.setItem(key, JSON.stringify({
+    safeStorage.setItem(key, JSON.stringify({
       questionIndex: currentQuestionIndex,
       score: quizScore,
       wrongAnswers: wrongAnswersLog,
@@ -951,20 +951,20 @@ function clearQuizProgress() {
   const grade = getLearnerGrade();
   const level = currentLevel;
   const key = `quiz_inprogress_${grade}_w${currentWeek}_${currentSubject}_${level}`;
-  localStorage.removeItem(key);
+  safeStorage.removeItem(key);
 }
 
 function getQuizProgress(week, subject) {
   const grade = getLearnerGrade();
   const level = currentLevel;
   const key = `quiz_inprogress_${grade}_w${week}_${subject}_${level}`;
-  const saved = localStorage.getItem(key);
+  const saved = safeStorage.getItem(key);
   if (!saved) return null;
   try {
     const data = JSON.parse(saved);
     // Expire after 24 hours
     if (Date.now() - data.timestamp > 86400000) {
-      localStorage.removeItem(key);
+      safeStorage.removeItem(key);
       return null;
     }
     return data;
@@ -1013,8 +1013,8 @@ function isYesterday(dateStr) {
 }
 
 function getActiveStreak() {
-  const lastDateStr = localStorage.getItem('streak_last_date');
-  const count = parseInt(localStorage.getItem('streak_count') || '0');
+  const lastDateStr = safeStorage.getItem('streak_last_date');
+  const count = parseInt(safeStorage.getItem('streak_count') || '0');
   if (!lastDateStr) return 0;
   
   const todayStr = new Date().toLocaleDateString('en-CA');
@@ -1031,8 +1031,8 @@ function getActiveStreak() {
 
 function recordCompletion() {
   const todayStr = new Date().toLocaleDateString('en-CA');
-  const lastDateStr = localStorage.getItem('streak_last_date');
-  let count = parseInt(localStorage.getItem('streak_count') || '0');
+  const lastDateStr = safeStorage.getItem('streak_last_date');
+  let count = parseInt(safeStorage.getItem('streak_count') || '0');
   
   if (lastDateStr === todayStr) {
     // Already logged completion today, keep streak as is
@@ -1046,8 +1046,8 @@ function recordCompletion() {
     count = 1;
   }
   
-  localStorage.setItem('streak_count', count.toString());
-  localStorage.setItem('streak_last_date', todayStr);
+  safeStorage.setItem('streak_count', count.toString());
+  safeStorage.setItem('streak_last_date', todayStr);
   
   saveSessionState();
 }
@@ -1123,11 +1123,11 @@ function buildWeekSelector() {
     }
   }
 
-  // Scan localStorage for custom review dates
+  // Scan safeStorage for custom review dates
   const reviewDates = [];
   const reviewPrefix = `local_${learnerGrade}_review_data_`;
-  for (let k = 0; k < localStorage.length; k++) {
-    const key = localStorage.key(k);
+  for (let k = 0; k < safeStorage.length; k++) {
+    const key = safeStorage.key(k);
     if (key && key.startsWith(reviewPrefix)) {
       const date = key.substring(reviewPrefix.length);
       if (date && !reviewDates.includes(date)) {
@@ -1172,8 +1172,8 @@ function loadWeekData(weekIdentifier, isRestore) {
   
   const learnerGrade = getLearnerGrade();
 
-  // Check if we have local uploaded data in localStorage (remains evaluation for local uploads)
-  const localContent = localStorage.getItem(`local_${learnerGrade}_week_data_${weekNumber}`);
+  // Check if we have local uploaded data in safeStorage (remains evaluation for local uploads)
+  const localContent = safeStorage.getItem(`local_${learnerGrade}_week_data_${weekNumber}`);
   if (localContent) {
     try {
       if (localContent.trim().startsWith('{')) {
@@ -1253,8 +1253,8 @@ function loadReviewData(date, isRestore) {
 
   const learnerGrade = getLearnerGrade();
 
-  // Check if we have local uploaded data in localStorage
-  const localContent = localStorage.getItem(`local_${learnerGrade}_review_data_${date}`);
+  // Check if we have local uploaded data in safeStorage
+  const localContent = safeStorage.getItem(`local_${learnerGrade}_review_data_${date}`);
   if (localContent) {
     try {
       if (localContent.trim().startsWith('{')) {
@@ -1367,7 +1367,7 @@ function handleWeeklyUpload(files) {
           }
           
           if (detectedWeek) {
-            localStorage.setItem(`local_${learnerGrade}_week_data_${detectedWeek}`, content);
+            safeStorage.setItem(`local_${learnerGrade}_week_data_${detectedWeek}`, content);
             loadedWeeks.push(detectedWeek);
             successWeeksCount++;
             
@@ -1383,7 +1383,7 @@ function handleWeeklyUpload(files) {
         }
       } else if (isImage) {
         try {
-          localStorage.setItem(`local_image_${file.name}`, content);
+          safeStorage.setItem(`local_image_${file.name}`, content);
           loadedImages.push(file.name);
           successImagesCount++;
         } catch (err) {
@@ -1419,13 +1419,13 @@ function handleWeeklyUpload(files) {
   }
 }
 
-// Helper to retrieve correct image source (checks localStorage cache first)
+// Helper to retrieve correct image source (checks safeStorage cache first)
 function getImageSrc(imagePath) {
   if (!imagePath) return '';
   const parts = imagePath.split('/');
   const filename = parts[parts.length - 1];
   
-  const cachedDataURL = localStorage.getItem(`local_image_${filename}`);
+  const cachedDataURL = safeStorage.getItem(`local_image_${filename}`);
   if (cachedDataURL) {
     return cachedDataURL;
   }
@@ -1435,9 +1435,14 @@ function getImageSrc(imagePath) {
 // Function to check online updates from the GitHub repository (Option B)
 function checkWeeklyUpdates() {
   const btn = document.getElementById('update-topics-btn');
+  const headerBtn = document.getElementById('header-update-btn');
   if (btn) {
     btn.disabled = true;
     btn.innerText = "⏳ Checking Updates...";
+  }
+  if (headerBtn) {
+    headerBtn.disabled = true;
+    headerBtn.innerText = "⏳ Updating...";
   }
 
   const learnerGrade = getLearnerGrade();
@@ -1451,7 +1456,7 @@ function checkWeeklyUpdates() {
       return response.json();
     })
     .then(manifest => {
-      const localVersion = localStorage.getItem(`local_${learnerGrade}_manifest_version`);
+      const localVersion = safeStorage.getItem(`local_${learnerGrade}_manifest_version`);
       const remoteVersion = manifest.version || '';
       
       if (localVersion && localVersion === remoteVersion) {
@@ -1484,7 +1489,7 @@ function checkWeeklyUpdates() {
             return res.json();
           })
           .then(jsonData => {
-            localStorage.setItem(`local_${learnerGrade}_week_data_${w}`, JSON.stringify(jsonData));
+            safeStorage.setItem(`local_${learnerGrade}_week_data_${w}`, JSON.stringify(jsonData));
             loadedWeeks.push(w);
           });
         tasks.push(task);
@@ -1499,7 +1504,7 @@ function checkWeeklyUpdates() {
             return res.json();
           })
           .then(jsonData => {
-            localStorage.setItem(`local_${learnerGrade}_review_data_${r}`, JSON.stringify(jsonData));
+            safeStorage.setItem(`local_${learnerGrade}_review_data_${r}`, JSON.stringify(jsonData));
             loadedReviews.push(r);
           });
         tasks.push(task);
@@ -1522,7 +1527,7 @@ function checkWeeklyUpdates() {
             });
           })
           .then(base64Data => {
-            localStorage.setItem(`local_image_${img}`, base64Data);
+            safeStorage.setItem(`local_image_${img}`, base64Data);
             loadedImages.push(img);
           });
         tasks.push(task);
@@ -1530,7 +1535,7 @@ function checkWeeklyUpdates() {
 
       return Promise.all(tasks).then(() => {
         if (remoteVersion) {
-          localStorage.setItem(`local_${learnerGrade}_manifest_version`, remoteVersion);
+          safeStorage.setItem(`local_${learnerGrade}_manifest_version`, remoteVersion);
         }
         buildWeekSelector();
         
@@ -1564,6 +1569,10 @@ function checkWeeklyUpdates() {
     if (btn) {
       btn.disabled = false;
       btn.innerText = "📥 Update Weekly Topics";
+    }
+    if (headerBtn) {
+      headerBtn.disabled = false;
+      headerBtn.innerText = "📥 Update";
     }
   }
 }
@@ -1668,7 +1677,7 @@ function setMode(mode) {
 
   // If we came from home dashboard, we need to highlight the current subject button and update headers
   if (wasHome) {
-    localStorage.setItem('session_has_opened_before', 'true');
+    safeStorage.setItem('session_has_opened_before', 'true');
     if (mode === 'reading') {
       document.querySelectorAll('.subject-buttons-list .nav-btn').forEach(btn => btn.classList.remove('active'));
     } else {
@@ -1703,7 +1712,7 @@ function setSubject(subjectKey, isRestore) {
   if (!currentMode || currentMode === 'home' || currentMode === 'parents' || currentMode === 'competencies' || currentMode === 'games') {
     currentMode = 'study';
     if (!isRestore) {
-      localStorage.setItem('session_has_opened_before', 'true');
+      safeStorage.setItem('session_has_opened_before', 'true');
     }
   }
 
@@ -1762,23 +1771,23 @@ function setSubject(subjectKey, isRestore) {
 }
 
 function saveSessionState() {
-  localStorage.setItem('session_currentWeek', currentWeek);
-  localStorage.setItem('session_currentLevel', currentLevel);
-  localStorage.setItem('session_currentSubject', currentSubject);
-  localStorage.setItem('session_currentMode', currentMode);
-  localStorage.setItem('session_IS_REVIEW_MODE', window.IS_REVIEW_MODE ? 'true' : 'false');
-  localStorage.setItem('session_CURRENT_REVIEW_DATE', window.CURRENT_REVIEW_DATE || '');
-  localStorage.setItem('session_currentSlideIndex', currentSlideIndex);
-  localStorage.setItem('session_currentQuestionIndex', currentQuestionIndex);
-  localStorage.setItem('session_currentReadingDay', currentReadingDay || '');
-  localStorage.setItem('session_currentReadingSlide', currentReadingSlide);
-  localStorage.setItem('session_currentWorksheetPage', currentWorksheetPage);
-  localStorage.setItem('session_quizScore', quizScore);
-  localStorage.setItem('session_wrongAnswersLog', JSON.stringify(wrongAnswersLog));
+  safeStorage.setItem('session_currentWeek', currentWeek);
+  safeStorage.setItem('session_currentLevel', currentLevel);
+  safeStorage.setItem('session_currentSubject', currentSubject);
+  safeStorage.setItem('session_currentMode', currentMode);
+  safeStorage.setItem('session_IS_REVIEW_MODE', window.IS_REVIEW_MODE ? 'true' : 'false');
+  safeStorage.setItem('session_CURRENT_REVIEW_DATE', window.CURRENT_REVIEW_DATE || '');
+  safeStorage.setItem('session_currentSlideIndex', currentSlideIndex);
+  safeStorage.setItem('session_currentQuestionIndex', currentQuestionIndex);
+  safeStorage.setItem('session_currentReadingDay', currentReadingDay || '');
+  safeStorage.setItem('session_currentReadingSlide', currentReadingSlide);
+  safeStorage.setItem('session_currentWorksheetPage', currentWorksheetPage);
+  safeStorage.setItem('session_quizScore', quizScore);
+  safeStorage.setItem('session_wrongAnswersLog', JSON.stringify(wrongAnswersLog));
   
   const transToggle = document.getElementById('settings-translation-toggle');
-  localStorage.setItem('session_showTranslation', transToggle && transToggle.checked ? 'true' : 'false');
-  localStorage.setItem('session_wsShowAnswers', wsShowAnswers ? 'true' : 'false');
+  safeStorage.setItem('session_showTranslation', transToggle && transToggle.checked ? 'true' : 'false');
+  safeStorage.setItem('session_wsShowAnswers', wsShowAnswers ? 'true' : 'false');
 }
 
 function renderCurrentView() {
@@ -2007,8 +2016,8 @@ function nextSlide() {
   if (currentSlideIndex === totalSlides - 1) {
     const grade = getLearnerGrade();
     const key = `study_complete_${grade}_w${currentWeek}_${currentSubject}_${currentLevel}`;
-    if (localStorage.getItem(key) !== 'true') {
-      localStorage.setItem(key, 'true');
+    if (safeStorage.getItem(key) !== 'true') {
+      safeStorage.setItem(key, 'true');
       recordCompletion();
       checkAndSaveNewBadges();
     }
@@ -2279,7 +2288,7 @@ function renderPerformanceView(subjectData, qBody) {
   // Load saved grades for this week, level, and subject
   const learnerGrade = getLearnerGrade();
   const storageKey = `performance_${learnerGrade}_w${currentWeek}_sses_${currentSubject}_${currentLevel}`;
-  const savedGrades = localStorage.getItem(storageKey);
+  const savedGrades = safeStorage.getItem(storageKey);
   let grades = [];
   if (savedGrades) {
     try {
@@ -2328,11 +2337,11 @@ function renderPerformanceView(subjectData, qBody) {
 function submitPerformanceTask() {
   const learnerGrade = getLearnerGrade();
   const storageKey = `performance_${learnerGrade}_w${currentWeek}_sses_${currentSubject}_${currentLevel}`;
-  localStorage.setItem(storageKey, JSON.stringify(rubricGrades));
+  safeStorage.setItem(storageKey, JSON.stringify(rubricGrades));
   
   // Mark performance task as complete
   const completeKey = `performance_complete_${learnerGrade}_w${currentWeek}_${currentSubject}_${currentLevel}`;
-  localStorage.setItem(completeKey, 'true');
+  safeStorage.setItem(completeKey, 'true');
   recordCompletion();
   checkAndSaveNewBadges();
   
@@ -2365,12 +2374,12 @@ function showSummaryScreen(questionsList) {
   const storageKey = isReview 
     ? `highscore_${learnerGrade}_review_${window.CURRENT_REVIEW_DATE}_sses_${currentSubject}_${currentLevel}_${currentMode}`
     : `highscore_${learnerGrade}_w${currentWeek}_sses_${currentSubject}_${currentLevel}_${currentMode}`;
-  const previousHigh = parseInt(localStorage.getItem(storageKey)) || 0;
+  const previousHigh = parseInt(safeStorage.getItem(storageKey)) || 0;
   if (quizScore > previousHigh) {
-    localStorage.setItem(storageKey, quizScore);
+    safeStorage.setItem(storageKey, quizScore);
     // Maintain standard key compatibility for legacy lookups
     if (!isReview && currentMode === 'quiz') {
-      localStorage.setItem(`highscore_${learnerGrade}_w${currentWeek}_sses_${currentSubject}_${currentLevel}_standard`, quizScore);
+      safeStorage.setItem(`highscore_${learnerGrade}_w${currentWeek}_sses_${currentSubject}_${currentLevel}_standard`, quizScore);
     }
     updateScoresDisplay();
   }
@@ -2378,7 +2387,7 @@ function showSummaryScreen(questionsList) {
   // Save mistakes log permanently for remediation
   if (!isReview) {
     const mistakesKey = `mistakes_${learnerGrade}_w${currentWeek}_sses_${currentSubject}_${currentLevel}_${currentMode}`;
-    localStorage.setItem(mistakesKey, JSON.stringify(wrongAnswersLog));
+    safeStorage.setItem(mistakesKey, JSON.stringify(wrongAnswersLog));
   }
 
   recordCompletion();
@@ -2446,7 +2455,7 @@ function renderMonthlyChecklist(weekData, qBody) {
     data.competencies.forEach((comp, idx) => {
       const learnerGrade = getLearnerGrade();
       const storageKey = `checklist_${learnerGrade}_w${currentWeek}_${subjectKey}_${idx}`;
-      const checked = localStorage.getItem(storageKey) === 'true' ? 'checked' : '';
+      const checked = safeStorage.getItem(storageKey) === 'true' ? 'checked' : '';
       listHTML += `
         <div class="competency-item">
           <input type="checkbox" id="check-${subjectKey}-${idx}" ${checked} onchange="toggleChecklistValue('${subjectKey}', ${idx}, this.checked)">
@@ -2472,7 +2481,7 @@ function renderMonthlyChecklist(weekData, qBody) {
 
 function toggleChecklistValue(subjectKey, idx, checked) {
   const learnerGrade = getLearnerGrade();
-  localStorage.setItem(`checklist_${learnerGrade}_w${currentWeek}_${subjectKey}_${idx}`, checked);
+  safeStorage.setItem(`checklist_${learnerGrade}_w${currentWeek}_${subjectKey}_${idx}`, checked);
 }
 
 // Score board display updates
@@ -2490,7 +2499,7 @@ function updateScoresDisplay() {
     const scoreKey = isReview 
       ? `highscore_${learnerGrade}_review_${window.CURRENT_REVIEW_DATE}_sses_${sub}_${currentLevel}_${currentMode}`
       : `highscore_${learnerGrade}_w${currentWeek}_sses_${sub}_${currentLevel}_${currentMode}`;
-    const score = localStorage.getItem(scoreKey) || '-';
+    const score = safeStorage.getItem(scoreKey) || '-';
     let total = '-';
     if (data[sub] && data[sub][currentMode]) {
       total = Array.isArray(data[sub][currentMode]) ? data[sub][currentMode].length : '-';
@@ -2505,29 +2514,29 @@ function clearScores() {
   const learnerGrade = getLearnerGrade();
   subjects.forEach(sub => {
     if (isReview) {
-      localStorage.removeItem(`highscore_${learnerGrade}_review_${window.CURRENT_REVIEW_DATE}_sses_${sub}_core_quiz`);
-      localStorage.removeItem(`highscore_${learnerGrade}_review_${window.CURRENT_REVIEW_DATE}_sses_${sub}_core_challenge`);
-      localStorage.removeItem(`highscore_${learnerGrade}_review_${window.CURRENT_REVIEW_DATE}_sses_${sub}_advanced_quiz`);
-      localStorage.removeItem(`highscore_${learnerGrade}_review_${window.CURRENT_REVIEW_DATE}_sses_${sub}_advanced_challenge`);
+      safeStorage.removeItem(`highscore_${learnerGrade}_review_${window.CURRENT_REVIEW_DATE}_sses_${sub}_core_quiz`);
+      safeStorage.removeItem(`highscore_${learnerGrade}_review_${window.CURRENT_REVIEW_DATE}_sses_${sub}_core_challenge`);
+      safeStorage.removeItem(`highscore_${learnerGrade}_review_${window.CURRENT_REVIEW_DATE}_sses_${sub}_advanced_quiz`);
+      safeStorage.removeItem(`highscore_${learnerGrade}_review_${window.CURRENT_REVIEW_DATE}_sses_${sub}_advanced_challenge`);
       // Fallback cleanup for old keys
-      localStorage.removeItem(`highscore_review_${window.CURRENT_REVIEW_DATE}_sses_${sub}_g3_quiz`);
-      localStorage.removeItem(`highscore_review_${window.CURRENT_REVIEW_DATE}_sses_${sub}_g3_challenge`);
-      localStorage.removeItem(`highscore_review_${window.CURRENT_REVIEW_DATE}_sses_${sub}_advanced_quiz`);
-      localStorage.removeItem(`highscore_review_${window.CURRENT_REVIEW_DATE}_sses_${sub}_advanced_challenge`);
+      safeStorage.removeItem(`highscore_review_${window.CURRENT_REVIEW_DATE}_sses_${sub}_g3_quiz`);
+      safeStorage.removeItem(`highscore_review_${window.CURRENT_REVIEW_DATE}_sses_${sub}_g3_challenge`);
+      safeStorage.removeItem(`highscore_review_${window.CURRENT_REVIEW_DATE}_sses_${sub}_advanced_quiz`);
+      safeStorage.removeItem(`highscore_review_${window.CURRENT_REVIEW_DATE}_sses_${sub}_advanced_challenge`);
     } else {
-      localStorage.removeItem(`highscore_${learnerGrade}_w${currentWeek}_sses_${sub}_core_standard`);
-      localStorage.removeItem(`highscore_${learnerGrade}_w${currentWeek}_sses_${sub}_core_quiz`);
-      localStorage.removeItem(`highscore_${learnerGrade}_w${currentWeek}_sses_${sub}_core_challenge`);
-      localStorage.removeItem(`highscore_${learnerGrade}_w${currentWeek}_sses_${sub}_advanced_standard`);
-      localStorage.removeItem(`highscore_${learnerGrade}_w${currentWeek}_sses_${sub}_advanced_quiz`);
-      localStorage.removeItem(`highscore_${learnerGrade}_w${currentWeek}_sses_${sub}_advanced_challenge`);
+      safeStorage.removeItem(`highscore_${learnerGrade}_w${currentWeek}_sses_${sub}_core_standard`);
+      safeStorage.removeItem(`highscore_${learnerGrade}_w${currentWeek}_sses_${sub}_core_quiz`);
+      safeStorage.removeItem(`highscore_${learnerGrade}_w${currentWeek}_sses_${sub}_core_challenge`);
+      safeStorage.removeItem(`highscore_${learnerGrade}_w${currentWeek}_sses_${sub}_advanced_standard`);
+      safeStorage.removeItem(`highscore_${learnerGrade}_w${currentWeek}_sses_${sub}_advanced_quiz`);
+      safeStorage.removeItem(`highscore_${learnerGrade}_w${currentWeek}_sses_${sub}_advanced_challenge`);
       // Fallback cleanup for old keys
-      localStorage.removeItem(`highscore_w${currentWeek}_sses_${sub}_g3_standard`);
-      localStorage.removeItem(`highscore_w${currentWeek}_sses_${sub}_g3_quiz`);
-      localStorage.removeItem(`highscore_w${currentWeek}_sses_${sub}_g3_challenge`);
-      localStorage.removeItem(`highscore_w${currentWeek}_sses_${sub}_advanced_standard`);
-      localStorage.removeItem(`highscore_w${currentWeek}_sses_${sub}_advanced_quiz`);
-      localStorage.removeItem(`highscore_w${currentWeek}_sses_${sub}_advanced_challenge`);
+      safeStorage.removeItem(`highscore_w${currentWeek}_sses_${sub}_g3_standard`);
+      safeStorage.removeItem(`highscore_w${currentWeek}_sses_${sub}_g3_quiz`);
+      safeStorage.removeItem(`highscore_w${currentWeek}_sses_${sub}_g3_challenge`);
+      safeStorage.removeItem(`highscore_w${currentWeek}_sses_${sub}_advanced_standard`);
+      safeStorage.removeItem(`highscore_w${currentWeek}_sses_${sub}_advanced_quiz`);
+      safeStorage.removeItem(`highscore_w${currentWeek}_sses_${sub}_advanced_challenge`);
     }
   });
   updateScoresDisplay();
@@ -2557,7 +2566,7 @@ function setupBgMusic(src, name) {
 
 function toggleMusic(enabled) {
   musicEnabled = enabled;
-  localStorage.setItem('session_music_enabled', enabled ? 'true' : 'false');
+  safeStorage.setItem('session_music_enabled', enabled ? 'true' : 'false');
   
   const musicToggle = document.getElementById('settings-music-toggle');
   if (musicToggle) musicToggle.checked = enabled;
@@ -2645,7 +2654,7 @@ function resetDefaultMusic() {
 
 function toggleSFXSettings(enabled) {
   sfxEnabled = enabled;
-  localStorage.setItem('session_sfx_enabled', enabled ? 'true' : 'false');
+  safeStorage.setItem('session_sfx_enabled', enabled ? 'true' : 'false');
   
   const sfxToggle = document.getElementById('settings-sfx-toggle');
   if (sfxToggle) sfxToggle.checked = enabled;
@@ -2700,7 +2709,7 @@ function applyWorksheetAnswersVisibility() {
 function toggleTheme() {
   document.body.classList.toggle('light-mode');
   const isLight = document.body.classList.contains('light-mode');
-  localStorage.setItem('session_theme', isLight ? 'light' : 'dark');
+  safeStorage.setItem('session_theme', isLight ? 'light' : 'dark');
   updateThemeColorMeta();
   
   const themeToggle = document.getElementById('settings-theme-toggle');
@@ -2782,7 +2791,7 @@ function renderWorksheetView(subjectData, qBody) {
   worksheetZoom = 1.0;
   
   const grade = getLearnerGrade();
-  const isComplete = localStorage.getItem(`worksheet_complete_${grade}_w${currentWeek}_${currentSubject}_${currentLevel}`) === 'true';
+  const isComplete = safeStorage.getItem(`worksheet_complete_${grade}_w${currentWeek}_${currentSubject}_${currentLevel}`) === 'true';
   const isLastPage = (currentWorksheetPage === pages.length - 1);
 
   let completedMsgHTML = '';
@@ -2918,7 +2927,7 @@ function renderWorksheetView(subjectData, qBody) {
 function submitWorksheetComplete() {
   const grade = getLearnerGrade();
   const key = `worksheet_complete_${grade}_w${currentWeek}_${currentSubject}_${currentLevel}`;
-  localStorage.setItem(key, 'true');
+  safeStorage.setItem(key, 'true');
   recordCompletion();
   checkAndSaveNewBadges();
   playSFX(true);
@@ -3004,7 +3013,7 @@ function toggleWorksheetEraser() {
 
 function toggleWorksheetFingerDraw() {
   wsDrawWithFinger = !wsDrawWithFinger;
-  localStorage.setItem('session_wsDrawWithFinger', wsDrawWithFinger ? 'true' : 'false');
+  safeStorage.setItem('session_wsDrawWithFinger', wsDrawWithFinger ? 'true' : 'false');
   
   const btn = document.getElementById('ws-finger-btn');
   if (btn) {
@@ -3207,7 +3216,7 @@ function saveWorksheetDrawing() {
   if (!canvas) return;
   const learnerGrade = getLearnerGrade();
   const key = `drawings_${learnerGrade}_w${currentWeek}_${currentLevel}_${currentSubject}_p${currentWorksheetPage}`;
-  localStorage.setItem(key, canvas.toDataURL());
+  safeStorage.setItem(key, canvas.toDataURL());
 }
 
 function loadWorksheetDrawing() {
@@ -3216,7 +3225,7 @@ function loadWorksheetDrawing() {
   const ctx = canvas.getContext('2d');
   const learnerGrade = getLearnerGrade();
   const key = `drawings_${learnerGrade}_w${currentWeek}_${currentLevel}_${currentSubject}_p${currentWorksheetPage}`;
-  const dataURL = localStorage.getItem(key);
+  const dataURL = safeStorage.getItem(key);
   
   ctx.clearRect(0, 0, canvas.width, canvas.height);
   if (dataURL) {
@@ -3266,7 +3275,7 @@ function initDefaultReadingDay(data) {
   const learnerGrade = getLearnerGrade();
   const days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday'];
   for (let day of days) {
-    if (localStorage.getItem(`reading_${learnerGrade}_w${currentWeek}_${day}`) !== 'completed') {
+    if (safeStorage.getItem(`reading_${learnerGrade}_w${currentWeek}_${day}`) !== 'completed') {
       return day;
     }
   }
@@ -3314,7 +3323,7 @@ function renderReadingView(data, qBody) {
   const learnerGrade = getLearnerGrade();
   days.forEach(d => {
     if (data.reading[d]) {
-      const isCompleted = localStorage.getItem(`reading_${learnerGrade}_w${currentWeek}_${d}`) === 'completed';
+      const isCompleted = safeStorage.getItem(`reading_${learnerGrade}_w${currentWeek}_${d}`) === 'completed';
       const isActive = d === currentReadingDay;
       const isWeekend = (d === 'saturday' || d === 'sunday');
       const flag = isWeekend ? '🇵🇭' : '🇬🇧';
@@ -3405,7 +3414,7 @@ function changeReadingDay(day) {
 function completeReadingDay() {
   const learnerGrade = getLearnerGrade();
   const storageKey = `reading_${learnerGrade}_w${currentWeek}_${currentReadingDay}`;
-  localStorage.setItem(storageKey, 'completed');
+  safeStorage.setItem(storageKey, 'completed');
   recordCompletion();
   
   playSFX(true);
@@ -3467,8 +3476,8 @@ function showProgressDashboard() {
   
   // Determine dynamically how many weeks to display in the grid
   let maxWeekWithProgress = 1;
-  for (let i = 0; i < localStorage.length; i++) {
-    const key = localStorage.key(i);
+  for (let i = 0; i < safeStorage.length; i++) {
+    const key = safeStorage.key(i);
     const match = key.match(/^(?:highscore|performance|checklist|drawings)_.*_w(\d+)_/);
     if (match) {
       const wNum = parseInt(match[1]);
@@ -3495,9 +3504,9 @@ function showProgressDashboard() {
       const challengeKey = `highscore_${learnerGrade}_w${w}_sses_${sub.key}_${currentLevel}_challenge`;
       const perfKey = `performance_${learnerGrade}_w${w}_sses_${sub.key}_${currentLevel}`;
       
-      const quizScore = localStorage.getItem(quizKey);
-      const challengeScore = localStorage.getItem(challengeKey);
-      const perfScore = localStorage.getItem(perfKey);
+      const quizScore = safeStorage.getItem(quizKey);
+      const challengeScore = safeStorage.getItem(challengeKey);
+      const perfScore = safeStorage.getItem(perfKey);
       
       const record = {
         week: w,
@@ -3635,7 +3644,7 @@ function showProgressDashboard() {
     let completedCount = 0;
     const days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday'];
     days.forEach(day => {
-      if (localStorage.getItem(`reading_${learnerGrade}_w${w}_${day}`) === 'completed') {
+      if (safeStorage.getItem(`reading_${learnerGrade}_w${w}_${day}`) === 'completed') {
         completedCount++;
       }
     });
@@ -3722,8 +3731,8 @@ function confirmClearAllProgress() {
     
     // Clear high scores, drawings, readings, and streaks safely by querying keys by index
     const keysToClear = [];
-    for (let i = 0; i < localStorage.length; i++) {
-      const key = localStorage.key(i);
+    for (let i = 0; i < safeStorage.length; i++) {
+      const key = safeStorage.key(i);
       if (key && (
         key.startsWith('highscore_') || 
         key.startsWith('performance_') || 
@@ -3736,7 +3745,7 @@ function confirmClearAllProgress() {
       }
     }
     keysToClear.forEach(key => {
-      localStorage.removeItem(key);
+      safeStorage.removeItem(key);
     });
     alert("All student progress has been cleared.");
     
@@ -3756,7 +3765,7 @@ function renderWelcomeDashboard() {
   saveSessionState();
 
   // Update header
-  const nickname = localStorage.getItem('session_nickname') || 'Matteo';
+  const nickname = safeStorage.getItem('session_nickname') || 'Matteo';
   const mascotName = getMascotName();
   document.getElementById('header-icon').innerText = '🏠';
   document.getElementById('header-title').innerText = 'Welcome Dashboard';
@@ -3839,7 +3848,7 @@ function renderWelcomeDashboard() {
   for (let w = currentWeek - 1; w >= Math.max(1, currentWeek - 4) && reviewCount < 2; w--) {
     for (let sub of subjects) {
       if (reviewCount >= 2) break;
-      const quizScore = localStorage.getItem(`highscore_${grade}_w${w}_sses_${sub.key}_${currentLevel}_quiz`);
+      const quizScore = safeStorage.getItem(`highscore_${grade}_w${w}_sses_${sub.key}_${currentLevel}_quiz`);
       if (quizScore !== null) {
         const score = parseInt(quizScore);
         const pct = Math.round((score / 25) * 100);
@@ -3880,7 +3889,7 @@ function renderWelcomeDashboard() {
     for (let sub of subjects) {
       for (let m of modes) {
         if (catchupCount >= 2) break;
-        const dismissed = localStorage.getItem(`catchup_dismissed_${grade}_w${w}_${sub.key}_${m}`);
+        const dismissed = safeStorage.getItem(`catchup_dismissed_${grade}_w${w}_${sub.key}_${m}`);
         if (!dismissed && !isTaskComplete(w, sub.key, m)) {
           catchupItems.push({ w, sub, m });
           catchupCount++;
@@ -3973,7 +3982,7 @@ function renderWelcomeDashboard() {
     }
   });
   // Streak at risk
-  const lastDate = localStorage.getItem('streak_last_date');
+  const lastDate = safeStorage.getItem('streak_last_date');
   const todayStr = new Date().toLocaleDateString('en-CA');
   if (streak > 0 && lastDate !== todayStr) {
     notifItems.push(`⚡ Complete a task today to keep your 🔥 ${streak}-day streak!`);
@@ -4047,7 +4056,7 @@ function renderWelcomeDashboard() {
 }
 
 function interactMascotDashboard() {
-  const nickname = localStorage.getItem('session_nickname') || 'Matteo';
+  const nickname = safeStorage.getItem('session_nickname') || 'Matteo';
   const mascotName = getMascotName();
   const modal = document.getElementById('mascot-interactive-modal');
   const img = document.getElementById('dashboard-mascot-modal-img');
@@ -4150,7 +4159,7 @@ function launchAdvancedPreview(week) {
 }
 
 function dismissCatchup(grade, week, subject, mode) {
-  localStorage.setItem(`catchup_dismissed_${grade}_w${week}_${subject}_${mode}`, 'true');
+  safeStorage.setItem(`catchup_dismissed_${grade}_w${week}_${subject}_${mode}`, 'true');
   renderWelcomeDashboard();
 }
 
@@ -4219,7 +4228,7 @@ function clearPin() {
 }
 
 function validateEnteredPin(pin) {
-  const savedPin = localStorage.getItem('parent_pin') || '0000';
+  const savedPin = safeStorage.getItem('parent_pin') || '0000';
   if (pin === savedPin) {
     isParentUnlocked = true;
     const callback = onPinSuccessCallback;
@@ -4255,7 +4264,7 @@ function handleForgotPin(event) {
   if (response === null) return; // cancelled
   
   if (parseInt(response.trim()) === correctAnswer) {
-    localStorage.setItem('parent_pin', '0000');
+    safeStorage.setItem('parent_pin', '0000');
     alert("Verification successful!\nYour Parent PIN has been reset to the default '0000'.");
     clearPin();
   } else {
@@ -4272,7 +4281,7 @@ function getActiveLearningTimeLast7Days() {
     const dateStr = d.toISOString().split('T')[0];
     const dayName = d.toLocaleDateString('en-US', { weekday: 'short' });
     const key = `study_time_seconds_${dateStr}`;
-    const secs = parseInt(localStorage.getItem(key) || '0');
+    const secs = parseInt(safeStorage.getItem(key) || '0');
     totalSecs += secs;
     learningTimeByDay.push({
       dateStr: dateStr,
@@ -4289,7 +4298,7 @@ function getActiveLearningTimeLast7Days() {
 function parentsCompleteWorksheet(wNum, subjectKey) {
   const grade = getLearnerGrade();
   const storageKey = `worksheet_${grade}_w${wNum}_sses_${subjectKey}_${currentLevel}_completed`;
-  localStorage.setItem(storageKey, 'true');
+  safeStorage.setItem(storageKey, 'true');
   playSFX(true);
   initConfetti();
   renderParentDashboard();
@@ -4298,7 +4307,7 @@ function parentsCompleteWorksheet(wNum, subjectKey) {
 function parentsResetWorksheet(wNum, subjectKey) {
   const grade = getLearnerGrade();
   const storageKey = `worksheet_${grade}_w${wNum}_sses_${subjectKey}_${currentLevel}_completed`;
-  localStorage.removeItem(storageKey);
+  safeStorage.removeItem(storageKey);
   renderParentDashboard();
 }
 
@@ -4338,7 +4347,7 @@ function renderParentDashboard() {
   if (!qBody) return;
 
   const learnerGrade = getLearnerGrade();
-  const nickname = localStorage.getItem('session_nickname') || 'Matteo';
+  const nickname = safeStorage.getItem('session_nickname') || 'Matteo';
   const streak = getActiveStreak();
   const timeLog = getActiveLearningTimeLast7Days();
   
@@ -4353,16 +4362,16 @@ function renderParentDashboard() {
     gmrc: { name: 'GMRC', color: '#eab308' }
   };
 
-  // Find all mistake keys in localStorage
-  for (let i = 0; i < localStorage.length; i++) {
-    const key = localStorage.key(i);
+  // Find all mistake keys in safeStorage
+  for (let i = 0; i < safeStorage.length; i++) {
+    const key = safeStorage.key(i);
     const match = key.match(/^mistakes_([a-z0-9]+)_w(\d+)_sses_([a-z]+)_([a-z]+)_(quiz|challenge)$/);
     if (match) {
       const wNum = parseInt(match[2]);
       const subKey = match[3];
       const modeKey = match[5];
       try {
-        const mistakesList = JSON.parse(localStorage.getItem(key) || '[]');
+        const mistakesList = JSON.parse(safeStorage.getItem(key) || '[]');
         if (mistakesList.length > 0) {
           remediationItems.push({
             subjectKey: subKey,
@@ -4394,7 +4403,7 @@ function renderParentDashboard() {
     // We check all weeks (up to 40)
     for (let w = 1; w <= 40; w++) {
       const quizKey = `highscore_${learnerGrade}_w${w}_sses_${sub}_${currentLevel}_quiz`;
-      const val = localStorage.getItem(quizKey);
+      const val = safeStorage.getItem(quizKey);
       if (val !== null) {
         quizSum += parseInt(val);
         quizCount++;
@@ -4421,7 +4430,7 @@ function renderParentDashboard() {
   let worksheetsHTML = '';
   subjectsKeys.forEach(sub => {
     const wsKey = `worksheet_${learnerGrade}_w${currentWeek}_sses_${sub}_${currentLevel}_completed`;
-    const isCompleted = localStorage.getItem(wsKey) === 'true';
+    const isCompleted = safeStorage.getItem(wsKey) === 'true';
     worksheetsHTML += `
       <div class="parents-worksheet-item">
         <div>
@@ -4505,7 +4514,7 @@ function renderParentDashboard() {
 
   subjectsKeys.forEach(sub => {
     const quizKey = `highscore_${learnerGrade}_w${currentWeek}_sses_${sub}_${currentLevel}_quiz`;
-    const scoreVal = localStorage.getItem(quizKey);
+    const scoreVal = safeStorage.getItem(quizKey);
     const score = scoreVal !== null ? parseInt(scoreVal) : null;
     let scoreDisplay = 'No Exam';
     let statusClass = 'background: rgba(100,116,139,0.08); color: var(--text-muted);';
@@ -5059,8 +5068,8 @@ function renderTrophiesGrid() {
   const grid = document.getElementById('trophy-showcase-grid');
   if (!grid) return;
 
-  const streakVal = parseInt(localStorage.getItem('streak_days') || '0');
-  const gamesPlayed = parseInt(localStorage.getItem('games_played_count') || '0');
+  const streakVal = parseInt(safeStorage.getItem('streak_days') || '0');
+  const gamesPlayed = parseInt(safeStorage.getItem('games_played_count') || '0');
 
   const trophies = [
     { id: 'streak_3', name: 'Early Bird 🐦', desc: 'Reach a 3-day study streak.', target: 3, current: streakVal, type: 'streak' },
@@ -5072,7 +5081,7 @@ function renderTrophiesGrid() {
   let html = '';
   trophies.forEach(t => {
     const isUnlocked = t.current >= t.target;
-    const isClaimed = localStorage.getItem(`claimed_trophy_${t.id}`) === 'true';
+    const isClaimed = safeStorage.getItem(`claimed_trophy_${t.id}`) === 'true';
 
     html += `
       <div class="game-card" style="min-height: 120px; opacity: ${isUnlocked ? '1' : '0.6'}; border-color: ${isClaimed ? '#10b981' : (isUnlocked ? '#eab308' : 'var(--border-color)')};">
@@ -5098,7 +5107,7 @@ function renderTrophiesGrid() {
 }
 
 function claimTrophyReward(achId) {
-  localStorage.setItem(`claimed_trophy_${achId}`, 'true');
+  safeStorage.setItem(`claimed_trophy_${achId}`, 'true');
   addCoins(50);
   initConfetti();
   renderTrophiesGrid();
@@ -5120,9 +5129,9 @@ function feedMascot(snack) {
   }
   
   playerCoins -= cost;
-  localStorage.setItem('hub_coins', String(playerCoins));
+  safeStorage.setItem('hub_coins', String(playerCoins));
   tobiHappiness = Math.min(100, tobiHappiness + happinessBoost);
-  localStorage.setItem('mascot_happiness', String(tobiHappiness));
+  safeStorage.setItem('mascot_happiness', String(tobiHappiness));
   
   // Save custom bubble message
   const speech = document.getElementById('tobi-speech-bubble');
@@ -5192,9 +5201,9 @@ function buyShopItem(itemId, cost) {
   }
   
   playerCoins -= cost;
-  localStorage.setItem('hub_coins', String(playerCoins));
+  safeStorage.setItem('hub_coins', String(playerCoins));
   ownedOutfits.push(itemId);
-  localStorage.setItem('hub_owned_outfits', JSON.stringify(ownedOutfits));
+  safeStorage.setItem('hub_owned_outfits', JSON.stringify(ownedOutfits));
   
   closeHubShopModal();
   openHubShopModal();
@@ -5253,7 +5262,7 @@ function closeMascotWardrobe() {
 
 function equipOutfit(outfitId) {
   activeMascotOutfit = outfitId;
-  localStorage.setItem('mascot_active_outfit', outfitId);
+  safeStorage.setItem('mascot_active_outfit', outfitId);
   
   const avatar = document.getElementById('tobi-avatar-img');
   if (avatar) avatar.src = getMascotImg();
@@ -5899,9 +5908,9 @@ function completeGameRewards(gameId) {
   if (!container) return;
   
   // Increment games count
-  let count = parseInt(localStorage.getItem('games_played_count') || '0');
+  let count = parseInt(safeStorage.getItem('games_played_count') || '0');
   count++;
-  localStorage.setItem('games_played_count', String(count));
+  safeStorage.setItem('games_played_count', String(count));
   
   let win = true;
   let summaryText = "";
@@ -6334,7 +6343,7 @@ function resetScheduleToDefault() {
 }
 
 function openFeedbackForm() {
-  const nickname = localStorage.getItem('session_nickname') || 'Matteo';
+  const nickname = safeStorage.getItem('session_nickname') || 'Matteo';
   const gradeCode = getLearnerGrade();
   const gradeNames = { 'g1': 'Grade 1', 'g2': 'Grade 2', 'g3': 'Grade 3' };
   const gradeName = gradeNames[gradeCode] || gradeCode;
@@ -6348,17 +6357,17 @@ function openFeedbackForm() {
 }
 
 function initGamesCenterState() {
-  playerCoins = parseInt(localStorage.getItem('hub_coins') || '0');
-  playerLifetimeStars = parseInt(localStorage.getItem('hub_stars') || '0');
-  mascotLevel = parseInt(localStorage.getItem('mascot_level') || '1');
-  mascotXP = parseInt(localStorage.getItem('mascot_xp') || '0');
-  activeMascotOutfit = localStorage.getItem('mascot_active_outfit') || 'default';
-  tobiHappiness = parseInt(localStorage.getItem('mascot_happiness') || '100');
+  playerCoins = parseInt(safeStorage.getItem('hub_coins') || '0');
+  playerLifetimeStars = parseInt(safeStorage.getItem('hub_stars') || '0');
+  mascotLevel = parseInt(safeStorage.getItem('mascot_level') || '1');
+  mascotXP = parseInt(safeStorage.getItem('mascot_xp') || '0');
+  activeMascotOutfit = safeStorage.getItem('mascot_active_outfit') || 'default';
+  tobiHappiness = parseInt(safeStorage.getItem('mascot_happiness') || '100');
   
   try {
-    ownedOutfits = JSON.parse(localStorage.getItem('hub_owned_outfits') || '["default"]');
-    ownedThemes = JSON.parse(localStorage.getItem('hub_owned_themes') || '["default"]');
-    ownedSongs = JSON.parse(localStorage.getItem('hub_owned_songs') || '["default"]');
+    ownedOutfits = JSON.parse(safeStorage.getItem('hub_owned_outfits') || '["default"]');
+    ownedThemes = JSON.parse(safeStorage.getItem('hub_owned_themes') || '["default"]');
+    ownedSongs = JSON.parse(safeStorage.getItem('hub_owned_songs') || '["default"]');
   } catch(e) {
     ownedOutfits = ['default'];
     ownedThemes = ['default'];
@@ -6366,18 +6375,18 @@ function initGamesCenterState() {
   }
   
   // Clean up happiness based on time decay
-  const lastDecay = localStorage.getItem('mascot_last_decay_time');
+  const lastDecay = safeStorage.getItem('mascot_last_decay_time');
   const now = Date.now();
   if (lastDecay) {
     const hoursElapsed = (now - parseInt(lastDecay)) / (1000 * 60 * 60);
     if (hoursElapsed >= 12) {
       const decaySteps = Math.floor(hoursElapsed / 12);
       tobiHappiness = Math.max(0, tobiHappiness - decaySteps * 10);
-      localStorage.setItem('mascot_happiness', String(tobiHappiness));
-      localStorage.setItem('mascot_last_decay_time', String(now));
+      safeStorage.setItem('mascot_happiness', String(tobiHappiness));
+      safeStorage.setItem('mascot_last_decay_time', String(now));
     }
   } else {
-    localStorage.setItem('mascot_last_decay_time', String(now));
+    safeStorage.setItem('mascot_last_decay_time', String(now));
   }
   
   updateWalletUI();
@@ -6395,7 +6404,7 @@ function updateWalletUI() {
 
 function addCoins(amount) {
   playerCoins += amount;
-  localStorage.setItem('hub_coins', String(playerCoins));
+  safeStorage.setItem('hub_coins', String(playerCoins));
   updateWalletUI();
 }
 
@@ -6408,19 +6417,19 @@ function addXP(amount) {
   if (mascotXP >= xpNeeded) {
     mascotXP -= xpNeeded;
     mascotLevel++;
-    localStorage.setItem('mascot_level', String(mascotLevel));
+    safeStorage.setItem('mascot_level', String(mascotLevel));
     setTimeout(() => {
       const mName = getMascotName();
       alert(`🎉 Level Up! ${mName} is now Level ${mascotLevel}!`);
     }, 500);
   }
-  localStorage.setItem('mascot_xp', String(mascotXP));
+  safeStorage.setItem('mascot_xp', String(mascotXP));
   updateWalletUI();
 }
 
 // Onboarding & settings drawer logic
 function applyLearnerProfile() {
-  const nickname = localStorage.getItem('session_nickname') || 'Matteo';
+  const nickname = safeStorage.getItem('session_nickname') || 'Matteo';
   const grade = getLearnerGrade();
   
   // Update brand title text (without overwriting the avatar image)
@@ -6457,9 +6466,9 @@ function submitOnboarding() {
     return;
   }
 
-  localStorage.setItem('session_nickname', nickname);
-  localStorage.setItem('session_grade_level', grade);
-  localStorage.setItem('session_currentLevel', 'core');
+  safeStorage.setItem('session_nickname', nickname);
+  safeStorage.setItem('session_grade_level', grade);
+  safeStorage.setItem('session_currentLevel', 'core');
   currentLevel = 'core';
   applyLearnerProfile();
 
@@ -6526,7 +6535,7 @@ function runOnboardingUpdate() {
       return response.json();
     })
     .then(manifest => {
-      const localVersion = localStorage.getItem(`local_${learnerGrade}_manifest_version`);
+      const localVersion = safeStorage.getItem(`local_${learnerGrade}_manifest_version`);
       const remoteVersion = manifest.version || '';
 
       if (localVersion && localVersion === remoteVersion) {
@@ -6576,7 +6585,7 @@ function runOnboardingUpdate() {
             return res.json();
           })
           .then(jsonData => {
-            localStorage.setItem(`local_${learnerGrade}_week_data_${w}`, JSON.stringify(jsonData));
+            safeStorage.setItem(`local_${learnerGrade}_week_data_${w}`, JSON.stringify(jsonData));
             loadedWeeks.push(w);
             updateProgress();
           });
@@ -6592,7 +6601,7 @@ function runOnboardingUpdate() {
             return res.json();
           })
           .then(jsonData => {
-            localStorage.setItem(`local_${learnerGrade}_review_data_${r}`, JSON.stringify(jsonData));
+            safeStorage.setItem(`local_${learnerGrade}_review_data_${r}`, JSON.stringify(jsonData));
             updateProgress();
           });
         tasks.push(task);
@@ -6615,7 +6624,7 @@ function runOnboardingUpdate() {
             });
           })
           .then(base64Data => {
-            localStorage.setItem(`local_image_${img}`, base64Data);
+            safeStorage.setItem(`local_image_${img}`, base64Data);
             updateProgress();
           });
         tasks.push(task);
@@ -6623,7 +6632,7 @@ function runOnboardingUpdate() {
 
       return Promise.all(tasks).then(() => {
         if (remoteVersion) {
-          localStorage.setItem(`local_${learnerGrade}_manifest_version`, remoteVersion);
+          safeStorage.setItem(`local_${learnerGrade}_manifest_version`, remoteVersion);
         }
         buildWeekSelector();
         if (statusEl) {
@@ -6712,7 +6721,7 @@ function saveOnboardingPIN(pin) {
     alert("Parent PIN must be exactly 4 digits.");
     return;
   }
-  localStorage.setItem('parent_pin', finalPin);
+  safeStorage.setItem('parent_pin', finalPin);
   finishOnboarding();
 }
 
@@ -6730,12 +6739,12 @@ function finishOnboarding() {
 function updateProfileName(value) {
   const val = value.trim();
   if (val === '') return;
-  localStorage.setItem('session_nickname', val);
+  safeStorage.setItem('session_nickname', val);
   applyLearnerProfile();
 }
 
 function updateProfileGrade(value) {
-  localStorage.setItem('session_grade_level', value);
+  safeStorage.setItem('session_grade_level', value);
   applyLearnerProfile();
   // Re-load week data for the current week using the new grade
   loadWeekData(currentWeek);
@@ -6745,7 +6754,7 @@ function adjustFontScale(delta) {
   let newScale = globalFontScale + delta;
   newScale = Math.max(70, Math.min(150, newScale));
   globalFontScale = newScale;
-  localStorage.setItem('session_globalFontScale', globalFontScale.toString());
+  safeStorage.setItem('session_globalFontScale', globalFontScale.toString());
   
   // Apply zoom factor
   document.body.style.zoom = `${globalFontScale}%`;
@@ -6757,7 +6766,7 @@ function adjustFontScale(delta) {
 
 function resetFontScale() {
   globalFontScale = 100;
-  localStorage.setItem('session_globalFontScale', '100');
+  safeStorage.setItem('session_globalFontScale', '100');
   
   // Apply default zoom
   document.body.style.zoom = '100%';
@@ -6780,7 +6789,7 @@ function changeParentPIN() {
     return;
   }
 
-  const activePin = localStorage.getItem('parent_pin') || '0000';
+  const activePin = safeStorage.getItem('parent_pin') || '0000';
   if (currentPin !== activePin) {
     alert("Incorrect current PIN. Please try again.");
     return;
@@ -6795,7 +6804,7 @@ function changeParentPIN() {
     return;
   }
 
-  localStorage.setItem('parent_pin', newPin);
+  safeStorage.setItem('parent_pin', newPin);
   alert("Parent PIN updated successfully!");
   currentPinInput.value = '';
   pinInput.value = '';
@@ -6814,7 +6823,7 @@ function openSettings() {
   
   // Sync settings inputs with current state
   const nicknameInput = document.getElementById('settings-nickname');
-  if (nicknameInput) nicknameInput.value = localStorage.getItem('session_nickname') || '';
+  if (nicknameInput) nicknameInput.value = safeStorage.getItem('session_nickname') || '';
   
   const gradeSelect = document.getElementById('settings-grade');
   if (gradeSelect) gradeSelect.value = getLearnerGrade();
@@ -6858,7 +6867,7 @@ function closeSettings() {
 }
 
 function applyProfilePic() {
-  const picData = localStorage.getItem('session_profile_pic');
+  const picData = safeStorage.getItem('session_profile_pic');
   const brandPic = document.getElementById('brand-profile-pic');
   const settingsPic = document.getElementById('settings-profile-pic');
   
@@ -6878,7 +6887,7 @@ function handleProfilePicUpload(files) {
   const reader = new FileReader();
   reader.onload = (e) => {
     try {
-      localStorage.setItem('session_profile_pic', e.target.result);
+      safeStorage.setItem('session_profile_pic', e.target.result);
       applyProfilePic();
       alert("Profile avatar updated successfully!");
     } catch (err) {
@@ -6890,7 +6899,7 @@ function handleProfilePicUpload(files) {
 }
 
 function removeProfilePic() {
-  localStorage.removeItem('session_profile_pic');
+  safeStorage.removeItem('session_profile_pic');
   applyProfilePic();
   alert("Profile avatar removed.");
 }
@@ -6898,7 +6907,7 @@ function removeProfilePic() {
 // ==========================================================================
 // APP VERSION, BUILD INFO & CHANGELOG TIMELINE
 // ==========================================================================
-const RAW_APP_VERSION = "v26.06.25.0837";
+const RAW_APP_VERSION = "v26.06.25.1234";
 const RAW_BUILD_DATE = "June 25, 2026";
 
 function isPlaceholder(val) {
@@ -6924,20 +6933,20 @@ const APP_VERSION = isPlaceholder(RAW_APP_VERSION) ? getDynamicVersion() : RAW_A
 const BUILD_DATE = isPlaceholder(RAW_BUILD_DATE) ? getFormattedCurrentDate() : RAW_BUILD_DATE;
 
 function checkAppVersionUpgrade() {
-  const lastVersion = localStorage.getItem('app_installed_version');
+  const lastVersion = safeStorage.getItem('app_installed_version');
   if (lastVersion !== APP_VERSION) {
     console.log(`New app version detected: ${lastVersion} -> ${APP_VERSION}. Clearing weekly database cache...`);
     const keysToClear = [];
-    for (let i = 0; i < localStorage.length; i++) {
-      const key = localStorage.key(i);
+    for (let i = 0; i < safeStorage.length; i++) {
+      const key = safeStorage.key(i);
       if (key && key.startsWith('local_')) {
         keysToClear.push(key);
       }
     }
     keysToClear.forEach(key => {
-      localStorage.removeItem(key);
+      safeStorage.removeItem(key);
     });
-    localStorage.setItem('app_installed_version', APP_VERSION);
+    safeStorage.setItem('app_installed_version', APP_VERSION);
   }
 }
 
@@ -7605,7 +7614,8 @@ const MATATAG_COMPETENCIES = {
         "GMRC3-T3-W6-10: Nakikipagtulungan sa pangkatang gawain (bayanihan), pangangalaga sa kalikasan, paghihiwalay ng basura, at paggalang sa watawat"
       ]
     }
-  };
+  }
+};
 
 function formatCompetencyText(item, subjectKey) {
   if (!item.includes(':')) return item;

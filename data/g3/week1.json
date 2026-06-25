@@ -176,7 +176,8 @@
               "title": "Example 17",
               "content": "Review standard details: Area = 8 rows x 10 columns = 80 boxes."
             }
-          ]
+          ],
+          "image": "images/math_w1_img4.png"
         },
         {
           "title": "Tuna Stall Grid in GenSan",
@@ -237,7 +238,8 @@
               "title": "Example 23",
               "content": "Review standard details: Overlap = Incorrect area measurement."
             }
-          ]
+          ],
+          "image": "images/math_w1_img5.png"
         },
         {
           "title": "Common Error: Leaving Gaps",
@@ -717,7 +719,8 @@
               "title": "Refraction",
               "content": "Bending of light waves inside water droplets creates rainbows."
             }
-          ]
+          ],
+          "image": "images/science_w1_img5.png"
         },
         {
           "title": "Wind and Air",
@@ -748,7 +751,8 @@
               "title": "Earth Spin",
               "content": "Earth's rotation causes the sun to appear to move in the sky."
             }
-          ]
+          ],
+          "image": "images/science_w1_img4.png"
         },
         {
           "title": "Rusting of Metals",
@@ -1321,7 +1325,8 @@
               "title": "Near Examples",
               "content": "This pencil (1 near), These rocks (many near)."
             }
-          ]
+          ],
+          "image": "images/english_w1_img4.png"
         },
         {
           "title": "Far From Us: That and Those",
@@ -1366,7 +1371,8 @@
               "title": "Reading Task",
               "content": "Read the story aloud to practice your spelling words!"
             }
-          ]
+          ],
+          "image": "images/english_w1_img5.png"
         },
         {
           "title": "Characters: Who is in the Story?",
@@ -1923,7 +1929,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"church\">Simbahan</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"chapel (chapel - pambalana), Quiapo Church (proper)\">kapilya (chapel - pambalana), Simbahan ng Quiapo (proper)</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w1_img4.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Health Areas\">Mga Pook ng Kalusugan</span>",
@@ -1953,7 +1960,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"history\">Kasaysayan</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"monument (monument - pambalana), Fort Santiago (proper)\">monumento (monument - pambalana), Fort Santiago (proper)</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w1_img5.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Shopping Areas\">Mga Lugar ng Pamimili</span>",
@@ -2519,7 +2527,8 @@
               "title": "Artifacts",
               "content": "<span class=\"fil-sentence\" data-translation=\"old coins, pots, old furniture\">lumang barya (old coins), palayok (pots), lumang kasangkapan</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w1_img4.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Primary Sources: Documents\">Primary Sources: Dokumento</span>",
@@ -2590,7 +2599,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Native Art\">Katutubong Sining</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"wood carving, textile weaving, pottery with designs\">ukit sa kahoy, habi ng tela, palayok na may disenyo</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w1_img5.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Local Songs and Dances\">Mga Lokal na Awitin at Sayaw</span>",
@@ -3094,7 +3104,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Ability\">Kakayahan</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"dancing, computing, writing\">pagsayaw (dancing), pagkuwenta (computing), pagsulat (writing)</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w1_img4.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Acceptance of One&#x27;s Ability\">Pagtanggap sa Sariling Kakayahan</span>",
@@ -3125,7 +3136,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Courage\">Lakas ng Loob</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Preparation + Courage = Defeating Fear\">Paghahanda + Lakas ng loob = Pagtalo sa Takot</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w1_img5.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Trust in Self and Community\">Tiwala sa Sarili at Komunidad</span>",
@@ -4051,7 +4063,8 @@
               "title": "Example 17",
               "content": "Review standard details: Area = 8 rows x 10 columns = 80 boxes."
             }
-          ]
+          ],
+          "image": "images/math_w1_img4.png"
         },
         {
           "title": "Tuna Stall Grid in GenSan",
@@ -4112,7 +4125,8 @@
               "title": "Example 23",
               "content": "Review standard details: Overlap = Incorrect area measurement."
             }
-          ]
+          ],
+          "image": "images/math_w1_img5.png"
         },
         {
           "title": "Common Error: Leaving Gaps",
@@ -4632,7 +4646,8 @@
               "title": "Condensation",
               "content": "Gas cooling down to turn into a liquid, like dew on grass."
             }
-          ]
+          ],
+          "image": "images/science_w1_img5.png"
         },
         {
           "title": "Meteorology: Clouds & Rain",
@@ -4675,7 +4690,8 @@
               "title": "Soil Horizons",
               "content": "Layers of soil: topsoil (rich in humus), subsoil, and bedrock."
             }
-          ]
+          ],
+          "image": "images/science_w1_img4.png"
         },
         {
           "title": "Astronomy: Earth's Rotation",
@@ -5336,7 +5352,8 @@
               "title": "HOTS Challenge",
               "content": "How would you apply this linguistic pattern to create a complex sentence?"
             }
-          ]
+          ],
+          "image": "images/english_w1_img4.png"
         },
         {
           "title": "Far From Us: That and Those",
@@ -5397,7 +5414,8 @@
               "title": "HOTS Challenge",
               "content": "How would you apply this linguistic pattern to create a complex sentence?"
             }
-          ]
+          ],
+          "image": "images/english_w1_img5.png"
         },
         {
           "title": "Characters: Who is in the Story?",
@@ -6030,7 +6048,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w1_img4.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Health Areas\">Mga Pook ng Kalusugan</span>",
@@ -6072,7 +6091,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w1_img5.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Shopping Areas\">Mga Lugar ng Pamimili</span>",
@@ -6722,7 +6742,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w1_img4.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Primary Sources: Documents\">Primary Sources: Dokumento</span>",
@@ -6821,7 +6842,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w1_img5.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Local Songs and Dances\">Mga Lokal na Awitin at Sayaw</span>",
@@ -7385,7 +7407,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w1_img4.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Acceptance of One&#x27;s Ability\">Pagtanggap sa Sariling Kakayahan</span>",
@@ -7428,7 +7451,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w1_img5.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Trust in Self and Community\">Tiwala sa Sarili at Komunidad</span>",
