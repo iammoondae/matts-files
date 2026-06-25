@@ -388,3 +388,22 @@ We have successfully resolved all stability issues, implemented the Welcome Dash
 2. **Successful Compilation & APK Package**:
     - Compiled all advanced templates, rebuilt all Grade 3 databases with clean colon structures, verified they satisfy all gate checks with zero validation errors, and built the new versioned installer: **[Matteo's Learning Hub v26.06.22.1600.apk](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/Matteo's%20Learning%20Hub%20v26.06.22.1600.apk)**.
 
+### 🌟 South Cotabato Subject Localization & New Grade 3 Math/Science Curriculum (June 25, 2026):
+1. **South Cotabato Subject Localization**:
+    - Modified all Grade 3 subject templates (`math`, `science`, `english`, `filipino`, `makabansa`, `gmrc`) to use localized South Cotabato contexts.
+    - Resolved Spanish origin name slides ("la timog cotabato" / "Timog Cotabato de Bay") in Makabansa Week 2 and Week 4, replacing them with factually accurate South Cotabato and B'laan history:
+        - **Koronadal Name Origin**: Derived from the B'laan words "koron" (cogon grass) and "nadal" (plains) meaning "cogon plains".
+        - **Marbel Name Origin**: Derived from the B'laan word "Marb-el" meaning "murky waters".
+        - **Timog Cotabato Name Origin**: Derived from the Maguindanaon word "kuta wato" meaning "stone fort".
+        - **Lake References**: Replaced legacy "Timog Cotabato de Bay" mismatches with the scenic and culturally famous "Lake Sebu" / "Lawa ng Sebu".
+        - **Clay Pot Legend / Monument**: Replaced the "Kalan-Banga" monument yonder in Koronadal City plaza (which is factually located in Calamba, Laguna) with the "Roundball Monument" (welcome monument) at the busy intersection representing the convergence and unity of different cultural groups (B'laan, T'boli, and Christian settlers).
+        - Modified quiz questions, standard reviews, worksheet exercises (e.g. matching name origins, analyzing the Roundball monument meaning), and performance tasks to reflect these B'laan origins and the Roundball monument, maintaining correct options and answer indices.
+    - **Rizal Monument Birthplace Corrections**: Corrected Rizal monument options in Makabansa Week 2 to point to Rizal's correct birthplace `Calamba, Laguna` rather than Koronadal, resolving legacy factual errors.
+2. **Onboarding & PIN Security Enhancements**:
+    - **Unique Email Check**: Integrated unique email checks in [LoginActivity.kt](file:///android-project/app/src/main/java/dev/matteo/learninghub/LoginActivity.kt) during onboarding using Firebase's `fetchSignInMethodsForEmail` API, suggesting users log in if they already have an active account.
+    - **Progress Reset PIN Gate**: Integrated the Parent PIN gate challenge when clearing student progress via settings in [app.js](file:///app.js) inside `confirmClearAllProgress()`.
+3. **Database Recompilation & Quality Gate Checks**:
+    - Recompiled all weekly JSON databases using [generate_g3_all_subjects.py](file:///scratch/generate_g3_all_subjects.py).
+    - Verified that [validate_db.py](file:///scratch/validate_db.py) fully passes with zero errors, satisfying the 125-150 word count rules, no newline boundaries in slide text, and double-confirms worksheet `.ws-answer` configurations.
+4. **Android Package Compilation**:
+    - Compiled the final Android debug package containing the localized South Cotabato weekly database: **[Matteo's Learning Hub v26.06.25.0845.apk](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/Matteo's%20Learning%20Hub%20v26.06.25.0845.apk)**.

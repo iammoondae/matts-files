@@ -132,8 +132,9 @@
 - `[x]` Task 130: Implement token-based split_sentences_html() in build_advanced_sources.py and generate_g3_all_subjects.py to protect translation spans
 - `[x]` Task 131: Rebuild advanced templates, recompile Grade 3 JSON databases, and validate quality gate
 - `[x]` Task 132: Compile final Android debug APK and push updates to GitHub
-
-
-
-
-
+- `[x]` Task 133: Localize Grade 3 subject templates to South Cotabato contexts
+- `[x]` Task 134: Correct Jose Rizal birthplace options and T'nalak Weaving Center historic site references
+- `[x]` Task 135: Correct Spanish province/city name origin slides ("la timog cotabato" / "Timog Cotabato de Bay") with B'laan/Maguindanaon history
+- `[x]` Task 136: Verify unique email checks on onboarding and progress reset Parent PIN gate
+- `[x]` Task 137: Recompile Grade 3 JSON databases and run Quality Gate validation
+- `[x]` Task 138: Package and compile the final versioned debug APK

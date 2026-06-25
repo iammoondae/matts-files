@@ -105,8 +105,8 @@
       ]
     },
     {
-      "title": "Guided Practice: Leron Leron Sinta",
-      "text": "<span class=\"fil-sentence\" data-translation=\"We will sing the folk song 'Leron Leron Sinta' today.\">Aawitin natin ang 'Leron Leron Sinta' sa klase natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Read: 'Leron, leron sinta, bud of the papaya...'\">Basahin: 'Leron, leron sinta, buko ng papaya...'</span>\n<span class=\"fil-sentence\" data-translation=\"What is the fruit mentioned at the start of the song?\">Ano ang prutas na binanggit sa simula ng kanta?</span>\n<span class=\"fil-sentence\" data-translation=\"The fruit is 'papaya' which is a common noun of thing.\">Ang prutas ay 'papaya' na isang ngalan ng bagay.</span>\n<span class=\"fil-sentence\" data-translation=\"What is the person in the song doing up yonder tree?\">Ano ang ginagawa ng tao sa kanta sa itaas ng puno?</span>\n<span class=\"fil-sentence\" data-translation=\"He is picking fruits but the branch broke unexpectedly.\">Siya ay pumipitas ng prutas ngunit nabali ang sanga.</span>\n<span class=\"fil-sentence\" data-translation=\"This folk song describes the agricultural way of life yonder.\">Ang kantang ito ay naglalarawan ng buhay sa bukid.</span>\n<span class=\"fil-sentence\" data-translation=\"Write the name of this fruit onto your writing paper now!\">Isulat ang pangalan ng prutas na ito sa inyong papel!</span>",
+      "title": "Guided Practice: tradisyonal na awitin",
+      "text": "<span class=\"fil-sentence\" data-translation=\"We will sing the folk song 'tradisyonal na awitin' today.\">Aawitin natin ang 'tradisyonal na awitin' sa klase natin.</span>\n<span class=\"fil-sentence\" data-translation=\"Read: 'Leron, leron sinta, bud of the papaya...'\">Basahin: 'Leron, leron sinta, buko ng papaya...'</span>\n<span class=\"fil-sentence\" data-translation=\"What is the fruit mentioned at the start of the song?\">Ano ang prutas na binanggit sa simula ng kanta?</span>\n<span class=\"fil-sentence\" data-translation=\"The fruit is 'papaya' which is a common noun of thing.\">Ang prutas ay 'papaya' na isang ngalan ng bagay.</span>\n<span class=\"fil-sentence\" data-translation=\"What is the person in the song doing up yonder tree?\">Ano ang ginagawa ng tao sa kanta sa itaas ng puno?</span>\n<span class=\"fil-sentence\" data-translation=\"He is picking fruits but the branch broke unexpectedly.\">Siya ay pumipitas ng prutas ngunit nabali ang sanga.</span>\n<span class=\"fil-sentence\" data-translation=\"This folk song describes the agricultural way of life yonder.\">Ang kantang ito ay naglalarawan ng buhay sa bukid.</span>\n<span class=\"fil-sentence\" data-translation=\"Write the name of this fruit onto your writing paper now!\">Isulat ang pangalan ng prutas na ito sa inyong papel!</span>",
       "examples": [
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Practice Singing\">Pagsasanay Awitin</span>",
@@ -271,7 +271,7 @@
       "type": "choice",
       "q": "<span class=\"fil-sentence\" data-translation=\"Where is the famous Jewelry Festival celebrated?\">Saan ipinagdiriwang ang sikat na Pista ng Pahiyas?</span>",
       "options": [
-        "Calamba, Laguna",
+        "Koronadal, Timog Cotabato",
         "Lucban, Quezon",
         "Balayan, Batangas",
         "Daet, Camarines"
@@ -307,7 +307,7 @@
         "Lucban, Quezon",
         "Balayan, Batangas",
         "Daet, Camarines Norte",
-        "Calamba, Laguna"
+        "Koronadal, Timog Cotabato"
       ],
       "answer": 1
     },
@@ -357,7 +357,7 @@
     },
     {
       "type": "verify",
-      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: &#x27;Leron Leron Sinta&#x27; is a local folk song that describes farm life.\">Tama o Mali: Ang 'Leron Leron Sinta' ay isang lokal na folk song na naglalarawan ng buhay-bukid.</span>",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: &#x27;tradisyonal na awitin&#x27; is a local folk song that describes farm life.\">Tama o Mali: Ang 'tradisyonal na awitin' ay isang lokal na folk song na naglalarawan ng buhay-bukid.</span>",
       "options": [
         "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
         "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
@@ -432,7 +432,7 @@
     },
     {
       "type": "verify",
-      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: The Jewelry Festival is held every May 15 in Laguna.\">Tama o Mali: Ang Pista ng Pahiyas ay ginaganap tuwing Mayo 15 sa Laguna.</span>",
+      "q": "<span class=\"fil-sentence\" data-translation=\"True or False: The Jewelry Festival is held every May 15 in Timog Cotabato.\">Tama o Mali: Ang Pista ng Pahiyas ay ginaganap tuwing Mayo 15 sa Timog Cotabato.</span>",
       "options": [
         "<span class=\"fil-sentence\" data-translation=\"True\">Tama</span>",
         "<span class=\"fil-sentence\" data-translation=\"False\">Mali</span>"
@@ -456,7 +456,7 @@
       "options": [
         "<span class=\"fil-sentence\" data-translation=\"smile at the reader\">ngumiti sa mambabasa</span>",
         "<span class=\"fil-sentence\" data-translation=\"get your foot stuck between the bamboo\">maipit ang paa sa pagitan ng kawayan</span>",
-        "<span class=\"fil-sentence\" data-translation=\"sing Leron Leron Sinta\">kumanta ng Leron Leron Sinta</span>",
+        "<span class=\"fil-sentence\" data-translation=\"sing tradisyonal na awitin\">kumanta ng tradisyonal na awitin</span>",
         "<span class=\"fil-sentence\" data-translation=\"look at the teacher\">tumingin sa guro</span>"
       ],
       "answer": 1
@@ -540,7 +540,7 @@
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: How is the song &#x27;Leron Leron Sinta&#x27; related to the livelihood of the people in Laguna back in the day?\">Challenge: Paano nagkakaugnay ang awiting 'Leron Leron Sinta' sa kabuhayan ng mga tao sa Laguna noong araw?</span>",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Challenge: How is the song &#x27;tradisyonal na awitin&#x27; related to the livelihood of the people in Timog Cotabato back in the day?\">Challenge: Paano nagkakaugnay ang awiting 'tradisyonal na awitin' sa kabuhayan ng mga tao sa Timog Cotabato noong araw?</span>",
       "options": [
         "<span class=\"fil-sentence\" data-translation=\"It shows that fishing is the only activity there.\">Ipinapakita nito na pangingisda ang tanging gawa doon.</span>",
         "<span class=\"fil-sentence\" data-translation=\"It depicts the farming lifestyle and picking of local fruits.\">Inilalarawan nito ang pamumuhay sa pagsasaka at pagpitas ng mga lokal na prutas.</span>",
@@ -586,7 +586,7 @@
   "performance": {
     "type": "performance",
     "title": "<span class=\"fil-sentence\" data-translation=\"Report-Festival of Our Area\">Ulat-Pista ng Ating Pook</span>",
-    "desc": "<span class=\"fil-sentence\" data-translation=\"Talk to your parents about the festival of your hometown or city. Find out when it is celebrated, who is the patron or what product is featured, and what local foods are prepared. Write a report on paper, draw the celebration, and sing Leron Leron Sinta in front of your family.\">Kausapin ang iyong magulang tungkol sa pista ng inyong sariling bayan o lungsod. Alamin kung kailan ito ipinagdiriwang, sino ang patron o anong produkto ang itinatampok, at anong mga lokal na pagkain ang inihahanda. Sumulat ng ulat sa papel, iguhit ang pagdiriwang, at awitin ang Leron Leron Sinta sa harap ng iyong pamilya.</span>",
+    "desc": "<span class=\"fil-sentence\" data-translation=\"Talk to your parents about the festival of your hometown or city. Find out when it is celebrated, who is the patron or what product is featured, and what local foods are prepared. Write a report on paper, draw the celebration, and sing tradisyonal na awitin in front of your family.\">Kausapin ang iyong magulang tungkol sa pista ng inyong sariling bayan o lungsod. Alamin kung kailan ito ipinagdiriwang, sino ang patron o anong produkto ang itinatampok, at anong mga lokal na pagkain ang inihahanda. Sumulat ng ulat sa papel, iguhit ang pagdiriwang, at awitin ang tradisyonal na awitin sa harap ng iyong pamilya.</span>",
     "labels": [
       "<span class=\"fil-sentence\" data-translation=\"The date and products of the town&#x27;s festival are correctly identified\">Wastong natukoy ang petsa at produkto ng pista ng bayan</span>",
       "<span class=\"fil-sentence\" data-translation=\"The parade or local foods are well drawn\">Maayos na naiguhit ang parada o mga lokal na pagkain</span>",
@@ -597,7 +597,7 @@
     "pages": [
       "<div class=\"ws-page-content\">\n                  <h3><span class=\"fil-sentence\" data-translation=\"Exercise 1: Identifying Festivals\">Pagsasanay 1: Pagkilala sa mga Pista</span></h3>\n                  <p class=\"ws-instruction\"><span class=\"fil-sentence\" data-translation=\"Write the name of the correct festival (Jewelry, Lechon Festival, or Pineapple Festival) based on the product and place.\">Isulat ang ngalan ng tamang pista (<strong><span class=\"fil-sentence\" data-translation=\"jewelry\">Pahiyas</span></strong>, <strong><span class=\"fil-sentence\" data-translation=\"Lechon Festival\">Pista ng Lechon</span></strong>, o <strong><span class=\"fil-sentence\" data-translation=\"Pineapple Festival\">Pista ng Pinya</span></strong>) batay sa produkto at lugar.</span></p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">1. <span class=\"fil-sentence\" data-translation=\"Parade of dressed and decorated roasted pigs in Balayan, Batangas:\">Parada ng mga nakadamit at pinalamutiang inihaw na baboy sa Balayan, Batangas:</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pista ng Lechon</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">2. <span class=\"fil-sentence\" data-translation=\"Decorating colorful kiping made of rice in houses in Lucban, Quezon:\">Pagpapalamuti ng makukulay na kiping na yari sa bigas sa mga bahay sa Lucban, Quezon:</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pahiyas</span></div>\n                  </div>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\">3. <span class=\"fil-sentence\" data-translation=\"Celebrating the bountiful harvest of sweet Formosa pineapples in Daet:\">Pagdiriwang ng saganang ani ng matatamis na pinyang Formosa sa Daet:</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 10px; width: 60%;\"><span class=\"ws-answer\">Pista ng Pinya</span></div>\n                  </div>\n                </div>",
       "<div class=\"ws-page-content\">\n                  <h3><span class=\"fil-sentence\" data-translation=\"Exercise 2: Native Art and Dance\">Pagsasanay 2: Katutubong Sining at Sayaw</span></h3>\n                  <p class=\"ws-instruction\"><span class=\"fil-sentence\" data-translation=\"Match the art or dance with its equipment counterpart by writing the correct letter.\">Iugnay ang sining o sayaw sa katapat nitong kagamitan sa pamamagitan ng pagsulat ng tamang titik.</span></p>\n                  <div class=\"ws-split\" style=\"margin-top: 20px;\">\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.0;\">\n                      <div><strong><span class=\"fil-sentence\" data-translation=\"Art and Dance:\">Sining at Sayaw:</span></strong></div>\n                      <div>1. <span class=\"fil-sentence\" data-translation=\"Tinikling Dance\">Sayaw na Tinikling</span></div>\n                      <div>2. <span class=\"fil-sentence\" data-translation=\"Mat Weaving\">Paghabi ng Banig</span></div>\n                      <div>3. <span class=\"fil-sentence\" data-translation=\"Clog Making\">Paggawa ng Bakya</span></div>\n                    </div>\n                    <div class=\"ws-col-half\" style=\"font-size: 15px; line-height: 2.0; text-align: right; padding-right: 40px;\">\n                      <div><strong><span class=\"fil-sentence\" data-translation=\"Basic Equipment:\">Pangunahing Kagamitan:</span></strong></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">C</span><span class=\"fil-sentence\" data-translation=\"pandan leaves\">&nbsp; ] &nbsp; A. dahon ng pandan</span></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">A</span><span class=\"fil-sentence\" data-translation=\"two long bamboo poles\">&nbsp; ] &nbsp; B. dalawang mahabang kawayan</span></div>\n                      <div>[ &nbsp; <span class=\"ws-answer\">B</span><span class=\"fil-sentence\" data-translation=\"hard wood block\">&nbsp; ] &nbsp; C. matigas na kahoy</span></div>\n                    </div>\n                  </div>\n                </div>",
-      "<div class=\"ws-page-content\">\n                  <h3><span class=\"fil-sentence\" data-translation=\"Exercise 3: Review of a Local Song\">Pagsasanay 3: Pagsusuri ng Lokal na Awitin</span></h3>\n                  <p class=\"ws-instruction\"><span class=\"fil-sentence\" data-translation=\"Answer the question with accurate details based on the song &#x27;Leron Leron Sinta&#x27;.\">Sagutin ang tanong gamit ang tumpak na detalye batay sa awiting 'Leron Leron Sinta'.</span></p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\"><span class=\"fil-sentence\" data-translation=\"What is the moral lesson when the papaya branch broke?\">Ano ang mahalagang aral sa kanta kapag nabali ang sanga ng puno ng papaya?</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Dapat maging maingat sa pag-akyat sa mga puno at sa paggawa ng trabaho sa bukid.</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Ang kawalan ng pag-iingat ay maaaring magdulot ng aksidente o pagkakahulog.</span></div>\n                  </div>\n                </div>"
+      "<div class=\"ws-page-content\">\n                  <h3><span class=\"fil-sentence\" data-translation=\"Exercise 3: Review of a Local Song\">Pagsasanay 3: Pagsusuri ng Lokal na Awitin</span></h3>\n                  <p class=\"ws-instruction\"><span class=\"fil-sentence\" data-translation=\"Answer the question with accurate details based on the song &#x27;tradisyonal na awitin&#x27;.\">Sagutin ang tanong gamit ang tumpak na detalye batay sa awiting 'tradisyonal na awitin'.</span></p>\n                  <div class=\"ws-item-row\">\n                    <div class=\"ws-q\"><span class=\"fil-sentence\" data-translation=\"What is the moral lesson when the papaya branch broke?\">Ano ang mahalagang aral sa kanta kapag nabali ang sanga ng puno ng papaya?</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Dapat maging maingat sa pag-akyat sa mga puno at sa paggawa ng trabaho sa bukid.</span></div>\n                    <div class=\"writing-line\" style=\"margin-top: 20px; width: 100%;\"><span class=\"ws-answer\">Ang kawalan ng pag-iingat ay maaaring magdulot ng aksidente o pagkakahulog.</span></div>\n                  </div>\n                </div>"
     ]
   }
 }

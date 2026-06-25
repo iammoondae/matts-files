@@ -3713,34 +3713,36 @@ function showProgressDashboard() {
 }
 
 function confirmClearAllProgress() {
-  const firstConfirm = confirm("⚠️ Are you sure you want to clear all student progress? This will delete all quiz scores, daily reading records, checklist completions, and drawing progress. This action is permanent and NOT recoverable!");
-  if (!firstConfirm) return;
-  
-  const secondConfirm = confirm("🚨 DOUBLE CONFIRMATION REQUIRED:\n\nAre you absolutely sure you want to delete all student records? This data cannot be recovered after clearing.");
-  if (!secondConfirm) return;
-  
-  // Clear high scores, drawings, readings, and streaks safely by querying keys by index
-  const keysToClear = [];
-  for (let i = 0; i < localStorage.length; i++) {
-    const key = localStorage.key(i);
-    if (key && (
-      key.startsWith('highscore_') || 
-      key.startsWith('performance_') || 
-      key.startsWith('drawings_') || 
-      key.startsWith('reading_') ||
-      key.startsWith('streak_') ||
-      key.startsWith('checklist_')
-    )) {
-      keysToClear.push(key);
+  showPinModal(() => {
+    const firstConfirm = confirm("⚠️ Are you sure you want to clear all student progress? This will delete all quiz scores, daily reading records, checklist completions, and drawing progress. This action is permanent and NOT recoverable!");
+    if (!firstConfirm) return;
+    
+    const secondConfirm = confirm("🚨 DOUBLE CONFIRMATION REQUIRED:\n\nAre you absolutely sure you want to delete all student records? This data cannot be recovered after clearing.");
+    if (!secondConfirm) return;
+    
+    // Clear high scores, drawings, readings, and streaks safely by querying keys by index
+    const keysToClear = [];
+    for (let i = 0; i < localStorage.length; i++) {
+      const key = localStorage.key(i);
+      if (key && (
+        key.startsWith('highscore_') || 
+        key.startsWith('performance_') || 
+        key.startsWith('drawings_') || 
+        key.startsWith('reading_') ||
+        key.startsWith('streak_') ||
+        key.startsWith('checklist_')
+      )) {
+        keysToClear.push(key);
+      }
     }
-  }
-  keysToClear.forEach(key => {
-    localStorage.removeItem(key);
+    keysToClear.forEach(key => {
+      localStorage.removeItem(key);
+    });
+    alert("All student progress has been cleared.");
+    
+    closeSettings();
+    showProgressDashboard();
   });
-  alert("All student progress has been cleared.");
-  
-  closeSettings();
-  showProgressDashboard();
 }
 
 // ==========================================================================
@@ -7490,219 +7492,120 @@ const MATATAG_COMPETENCIES = {
   },
   g3: {
     math: {
-      "Quarter 1": [
-        "M3NS-I-1: Visualize, represent, read, and write numbers up to 10,000",
-        "M3NS-I-2: Identify the place value and value of a digit in numbers up to 10,000",
-        "M3NS-I-3: Compare numbers up to 10,000 using relation symbols (>, <, =)",
-        "M3NS-I-4: Round off numbers to the nearest tens, hundreds, and thousands",
-        "M3NS-I-5: Skip count by 10s, 100s, and 1,000s",
-        "M3NS-I-6: Read and write ordinal numbers from 1st to 100th",
-        "M3NS-I-7: Recognize, read, write, and compare paper bills and coins up to Php 1,000",
-        "M3NS-I-8: Add 3-to-4-digit numbers with sums up to 10,000",
-        "M3NS-I-9: Subtract 3-to-4-digit numbers with minuends up to 10,000",
-        "M3NS-I-10: Solve word problems involving addition and subtraction"
+      "Term 1": [
+        "M3NS-T1-W1-2: Illustrate, estimate, and derive formulas for the area of squares and rectangles using square tile units",
+        "M3NS-T1-W2: Find the areas of squares and rectangles in sq. cm and sq. m, solve area word problems, and recognize points, lines, segments, and rays",
+        "M3NS-T1-W3: Recognize and draw parallel, intersecting, and perpendicular lines; draw line segments of equal length using a ruler",
+        "M3NS-T1-W4: Represent whole numbers up to 10,000 using pictorial models and numerals",
+        "M3NS-T1-W5: Read and write numbers up to 10,000 in numerals and in words",
+        "M3NS-T1-W6: Describe the position of objects using ordinal numbers up to 100th",
+        "M3NS-T1-W7-8: Determine place value, value, and digit of a 4-digit number",
+        "M3NS-T1-W9: Round whole numbers to the nearest ten, hundred, or thousand; compare numbers using relation symbols",
+        "M3NS-T1-W10: Order whole numbers up to 10,000 from smallest to largest and vice versa"
       ],
-      "Quarter 2": [
-        "M3NS-II-1: Visualize and represent multiplication facts up to 10",
-        "M3NS-II-2: Multiply 2-to-3-digit numbers by 1-to-2-digit numbers",
-        "M3NS-II-3: Multiply whole numbers by 10, 100, and 1,000",
-        "M3NS-II-4: State basic division facts up to 10",
-        "M3NS-II-5: Divide 2-to-3-digit numbers by 1-digit numbers",
-        "M3NS-II-6: Read and write proper fractions with denominators 10 and below",
-        "M3NS-II-7: Compare and order proper fractions using number lines",
-        "M3NS-II-8: Identify and represent equivalent fractions",
-        "M3NS-II-9: Solve word problems involving multiplication, division, and fractions"
+      "Term 2": [
+        "M3NS-T2-W1: Measure, estimate, and compare mass of objects in grams, kilograms, and milligrams",
+        "M3NS-T2-W2: Measure, estimate, and compare capacity in liters and milliliters",
+        "M3NS-T2-W3: Read, write, and add money up to ₱10,000, with and without regrouping",
+        "M3NS-T2-W4: Estimate the sum of addends with up to 4 digits",
+        "M3NS-T2-W5: Solve problems involving addition of numbers with sums up to 10,000, including money",
+        "M3NS-T2-W6: Subtract numbers up to 10,000, with and without regrouping",
+        "M3NS-T2-W7: Estimate difference of two numbers, and perform addition/subtraction of 3 to 4 numbers",
+        "M3NS-T2-W8: Solve problems involving addition and subtraction, and collect data from experiments",
+        "M3NS-T2-W9: Present and interpret data in tables and single bar graphs",
+        "M3NS-T2-W10: Solve problems using data in single bar graphs, and describe/compare outcomes of events"
       ],
-      "Quarter 3": [
-        "M3GE-III-1: Identify and draw parallel, intersecting, and perpendicular lines",
-        "M3GE-III-2: Classify triangles and quadrilaterals by sides and angles",
-        "M3GE-III-3: Classify 3D shapes (prisms, pyramids, cylinders, cones, spheres)",
-        "M3GE-III-4: Identify lines of symmetry in 2D shapes",
-        "M3ME-III-1: Read, write, tell time, and calculate elapsed time in minutes",
-        "M3ME-III-2: Convert time measures (seconds, minutes, hours, days, weeks, etc.)",
-        "M3ME-III-3: Measure, compare, and estimate mass in grams and kilograms",
-        "M3ME-III-4: Measure, compare, and estimate capacity in milliliters and liters"
-      ],
-      "Quarter 4": [
-        "M3ME-IV-1: Calculate area of a square and rectangle in standard units (cm², m²)",
-        "M3AL-IV-1: Determine missing terms in continuous and repeating patterns",
-        "M3SP-IV-1: Collect, organize, and present data in tables and bar graphs",
-        "M3SP-IV-2: Interpret data presented in bar graphs and simple tables",
-        "M3SP-IV-3: Describe probability/likelihood of an event occurring"
+      "Term 3": [
+        "M3NS-T3-W1: Multiply numbers using the 6, 7, 8, and 9 multiplication tables",
+        "M3NS-T3-W2: Illustrate and apply properties of multiplication for the 6, 7, 8, and 9 tables",
+        "M3NS-T3-W3: Multiply numbers with/without regrouping (2 to 4 digits), and estimate products",
+        "M3NS-T3-W4: Solve 1-to-2 step multiplication problems, and determine missing terms in patterns",
+        "M3NS-T3-W5: Illustrate division through equal jumps on number line and as inverse of multiplication",
+        "M3NS-T3-W6: Divide numbers using the 6, 7, 8, and 9 multiplication tables, and solve missing numbers",
+        "M3NS-T3-W7: Divide numbers (2 to 4 digits) with and without remainder, including by 10, 100, 1000",
+        "M3NS-T3-W8-9: Estimate quotients, solve division problems, represent fractions, and add/subtract similar fractions",
+        "M3ME-T3-W9: Describe and draw the effect of a two-direction multi-step slide (translation) in basic shapes",
+        "M3ME-T3-W10: Identify shapes with line symmetry, and complete symmetric figures"
       ]
     },
     science: {
-      "Quarter 1": [
-        "S3MT-I-1: Classify objects as solid, liquid, or gas based on characteristics",
-        "S3MT-I-2: Describe physical properties of solids (hardness, mass, texture)",
-        "S3MT-I-3: Describe physical properties of liquids (flow, shape of container)",
-        "S3MT-I-4: Describe properties of gases (shape, weight, fill space)",
-        "S3MT-I-5: Measure and record temperature using a thermometer",
-        "S3MT-I-6: Describe phase changes in materials based on temperature"
+      "Term 1": [
+        "S3MT-T1-W1-3: Identify objects, activities, or natural events in the local environment, participate in guided activities, describe uses of science equipment, and explain science process skills",
+        "S3MT-T1-W4: Describe physical properties of solid materials (hard, shiny, stretchable), explain phase changes, handle/dispose of materials properly, and identify properties and uses of metals"
       ],
-      "Quarter 2": [
-        "S3LT-II-1: Identify parts and functions of human sense organs",
-        "S3LT-II-2: Practice healthy habits to clean and protect sense organs",
-        "S3LT-II-3: Describe parts and functions of different animals",
-        "S3LT-II-4: Classify animals according to covering, food, and habitat",
-        "S3LT-II-5: Identify parts and functions of plants",
-        "S3LT-II-6: Compare characteristics of parents and offspring in living things",
-        "S3LT-II-7: Identify basic needs of living things and ecosystem interactions"
+      "Term 2": [
+        "S3LT-T2-W1-4: Observe and describe the difference between living and non-living things, their characteristics (grow, respond, reproduce), and describe outer body parts of animals and plants",
+        "S3LT-T2-W5-7: Identify basic needs of all living things, explain dependencies on the environment, recognize the need to protect the environment, explore object movement, and measure position changes"
       ],
-      "Quarter 3": [
-        "S3FE-III-1: Describe how objects move (direction, speed)",
-        "S3FE-III-2: Demonstrate effects of push or pull on object movement",
-        "S3FE-III-3: Identify natural and artificial light sources and shadow formation",
-        "S3FE-III-4: Describe how sound is produced (vibrations) and travels",
-        "S3FE-III-5: Describe safe practices in handling electrical appliances"
-      ],
-      "Quarter 4": [
-        "S3ES-IV-1: Classify local landforms and water forms in the community",
-        "S3ES-IV-2: Describe the importance of soil, water, and air to living things",
-        "S3ES-IV-3: Record daily weather using simple weather instruments",
-        "S3ES-IV-4: Describe safety precautions during extreme weather conditions",
-        "S3ES-IV-5: Describe changes in the position of the Sun during the day",
-        "S3ES-IV-6: Practice safety measures to protect from excessive sun exposure"
+      "Term 3": [
+        "S3FE-T3-W1-3: Explore and describe how sound is made and transferred, describe sources of light and their uses, explore light behavior, and explain safety measures for light and sound",
+        "S3ES-T3-W4-6: Locate and describe non-living things, identify useful things made from earth materials, record weather changes and their effects, observe sky objects, and describe sun safety"
       ]
     },
     english: {
-      "Quarter 1": [
-        "EN3OL-I-1: Introduce oneself, family, and friends with confidence using appropriate expressions, pronouns, and verbs.",
-        "EN3OL-I-2: Follow 2-to-3 step directions in class routines",
-        "EN3PWS-I-1: Decode words with short vowel sounds in CVC pattern",
-        "EN3PWS-I-2: Read words containing initial and final consonant blends",
-        "EN3V-I-1: Use synonyms and antonyms to understand words in context",
-        "EN3G-I-1: Classify and use mass nouns, count nouns, and collective nouns",
-        "EN3RC-I-1: Identify basic story elements (characters, setting, plot)",
-        "EN3W-I-1: Construct simple sentences with correct grammar and capitalization"
+      "Term 1": [
+        "EN3-T1-W1-5: Identify sight words and read words accurately according to patterns (CVCC, CCVC), identify high-frequency words, and use content-specific words",
+        "EN3-T1-W6-10: Use simple sentences to express ideas, identify parts of sentences (subject/predicate), use capitalization and punctuation, and comprehend stories (characters, setting, plot)"
       ],
-      "Quarter 2": [
-        "EN3OL-II-1: Ask and answer simple questions about community members",
-        "EN3PWS-II-1: Read words with long vowel sounds (CVCe pattern)",
-        "EN3PWS-II-2: Decode words with common vowel digraphs",
-        "EN3V-II-1: Identify and use compound words and basic homonyms",
-        "EN3G-II-1: Identify and use personal pronouns and possessive pronouns",
-        "EN3G-II-2: Use demonstrative pronouns (this, that, these, those)",
-        "EN3RC-II-1: Sequence 3-to-4 chronological events in a text",
-        "EN3RC-II-2: Identify the main idea of a simple informational paragraph",
-        "EN3W-II-1: Write compound sentences using coordinating conjunctions"
+      "Term 2": [
+        "EN3-T2-W1-5: Decode words with long vowels (CVCe) and vowel digraphs, identify compound words and homonyms, and use personal and possessive pronouns",
+        "EN3-T2-W6-10: Sequence events, identify main ideas, write compound sentences, make inferences, and write short paragraphs"
       ],
-      "Quarter 3": [
-        "EN3OL-III-1: Deliver simple presentations describing weather or daily tasks",
-        "EN3PWS-III-1: Decode words with diphthongs (oy, ow, ou, etc.)",
-        "EN3PWS-III-2: Read words with r-controlled vowels (ar, er, ir, or, ur)",
-        "EN3V-III-1: Group words into categories and use dictionaries",
-        "EN3G-III-1: Identify and use action verbs and linking verbs",
-        "EN3G-III-2: Use simple tenses of verbs (present, past, future) in sentences",
-        "EN3RC-III-1: Make basic inferences and predict outcomes of stories",
-        "EN3RC-III-2: Distinguish between facts and opinions in read texts",
-        "EN3W-III-1: Write a short paragraph describing a topic"
-      ],
-      "Quarter 4": [
-        "EN3OL-IV-1: Retell local folk stories, legends, or songs with expression",
-        "EN3PWS-IV-1: Decode multi-syllabic words and words with common prefixes/suffixes",
-        "EN3G-IV-1: Identify and use descriptive, possessive, and demonstrative adjectives",
-        "EN3G-IV-2: Form and use degrees of comparison of adjectives",
-        "EN3G-IV-3: Use common spatial and temporal prepositions",
-        "EN3RC-IV-1: Identify cause-and-effect relationships in informational texts",
-        "EN3RC-IV-2: Interpret simple pictographs, tables, and bar graphs",
-        "EN3W-IV-1: Write a simple letter or short journal entry"
+      "Term 3": [
+        "EN3-T3-W1-5: Decode words with diphthongs and r-controlled vowels, use action and linking verbs, and write descriptive sentences",
+        "EN3-T3-W6-10: Form degrees of comparison of adjectives, use prepositions, identify cause-and-effect, and write simple letters or journal entry"
       ]
     },
     filipino: {
-      "Quarter 1": [
-        "F3PN-I-1: Nasasagot ang mga tanong tungkol sa napakinggang kwento o balita",
-        "F3PS-I-1: Naipakikilala ang sarili gamit ang magalang na pananalita",
-        "F3WG-I-1: Nagagamit ang pangngalang pantangi at pambalana sa talakayan",
-        "F3WG-I-2: Natutukoy at nagagamit ang kasarian ng pangngalan",
-        "F3AL-I-1: Natutukoy ang elemento ng kwento (tauhan, tagpuan, banghay)",
-        "F3PT-I-1: Nabibigyang-kahulugan ang mga salita sa pamamagitan ng pahiwatig",
-        "F3PU-I-1: Naisusulat nang maayos ang sariling pangalan at simpleng talata"
+      "Term 1": [
+        "F3-T1-W1-5: Nasasagot ang mga tanong tungkol sa napakinggang kwento, naipakikilala ang sarili gamit ang magalang na pananalita, at nagagamit ang pangngalang pantangi at pambalana",
+        "F3-T1-W6-10: Natutukoy ang kasarian ng pangngalan, elemento ng kwento (tauhan, tagpuan, banghay), at nabibigyang-kahulugan ang mga salita"
       ],
-      "Quarter 2": [
-        "F3WG-II-1: Nagagamit ang panghalip panao sa pakikipag-usap at pagsulat",
-        "F3WG-II-2: Nagagamit ang panghalip pamatlig sa pagtukoy ng bagay at pook",
-        "F3PN-II-1: Nasusunod ang 2-3 hakbang na nakasulat o narinig na panuto",
-        "F3PB-II-1: Napagsusunod-sunod ang mga pangyayari sa kwento",
-        "F3PB-II-2: Natutukoy ang pangunahing paksang diwa ng binasang talata",
-        "F3PU-II-1: Nakasusulat ng mga pangungusap na may tamang bantas at malaking titik"
+      "Term 2": [
+        "F3-T2-W1-5: Nagagamit ang panghalip panao at pamatlig sa pakikipag-usap, at nasusunod ang 2-3 hakbang na panuto",
+        "F3-T2-W6-10: Napagsusunod-sunod ang mga pangyayari sa kwento, natutukoy ang paksang diwa, at nakasusulat na may tamang bantas"
       ],
-      "Quarter 3": [
-        "F3WG-III-1: Natutukoy at nagagamit ang pandiwa sa iba't ibang aspekto",
-        "F3PT-III-1: Nakikilala ang mga salitang magkasingkahulugan at magkasalungat",
-        "F3PB-III-1: Naiuugnay ang sariling karanasan sa binasang kwento",
-        "F3PB-III-2: Napag-iiba ang katotohanan sa opinyon sa binasang teksto",
-        "F3PU-III-1: Nakasusulat ng isang maikling talaarawan o tala ng obserbasyon"
-      ],
-      "Quarter 4": [
-        "F3WG-IV-1: Natutukoy at nagagamit ang pang-uri sa paglalarawan",
-        "F3WG-IV-2: Nagagamit ang pang-uri sa paghahambing (mas, pinaka)",
-        "F3WG-IV-3: Nagagamit ang pang-abay na naglalarawan sa kilos",
-        "F3PB-IV-1: Naibibigay ang sanhi at bunga ng mga pangyayari sa teksto",
-        "F3PU-IV-1: Nakasusulat ng isang simpleng liham-pangkaibigan"
+      "Term 3": [
+        "F3-T3-W1-5: Natutukoy at nagagamit ang pandiwa sa iba't ibang aspekto, at nakikilala ang mga salitang magkasingkahulugan at magkasalungat",
+        "F3-T3-W6-10: Naiuugnay ang sariling karanasan sa binasa, napag-iiba ang katotohanan sa opinyon, at nakasusulat ng talaarawan o liham-pangkaibigan"
       ]
     },
     makabansa: {
-      "Quarter 1": [
-        "MAK3-I-1: Naipaliliwanag ang kahulugan at mga elemento ng kasaysayan ng komunidad",
-        "MAK3-I-2: Natutukoy at nabibigyang-kahulugan ang mga simbolo at sagisag",
-        "MAK3-I-3: Naihahambing ang kasaysayan ng sariling komunidad sa timeline",
-        "MAK3-I-4: Nakikilala at nakalilikha ng mga ritmo at himig gamit ang boses/percuss",
-        "MAK3-I-5: Nakikilala ang sining ng pagguhit gamit ang katutubong disenyo",
-        "MAK3-I-6: Nagagawa ang kilos lokomotor nang may koordinasyon at balanse",
-        "MAK3-I-7: Nailalarawan ang malusog at ligtas na kapaligiran sa sariling tahanan"
+      "Term 1": [
+        "MAK3-T1-W1-5: Natatalakay ang mahahalagang tao, lugar, at pangyayari na bahagi ng kasaysayan ng pook na kinabibilangan",
+        "MAK3-T1-W6-8: Naipaliliwanag ang mga pagbabagong naganap sa kinabibilangang komunidad",
+        "MAK3-T1-W9-10: Napahahalagahan ang kasaysayan at pagbabagong nagaganap sa kinabibilangang komunidad"
       ],
-      "Quarter 2": [
-        "MAK3-II-1: Nasusuri ang impluwensya ng pisikal na heograpiya sa kabuhayan",
-        "MAK3-II-2: Natutukoy ang mga natatanging tradisyon at wika sa sariling rehiyon",
-        "MAK3-II-3: Nakalilikha ng likhang-sining gamit ang katutubong materyales",
-        "MAK3-II-4: Nakalalahok sa tradisyonal na Laro ng Lahi nang may kaligtasan",
-        "MAK3-II-5: Naipakikita ang kaalaman sa tamang nutrisyon at pag-iwas sa sakit"
+      "Term 2": [
+        "MAK3-T2-W1-2: Naipaliliwanag ang ugnayan ng kapaligiran at kultura",
+        "MAK3-T2-W3-5: Natatalakay ang kahulugan ng pagkakakilanlan at sagisag ng kinabibilangang komunidad tulad ng himno, coat of arms, bayaning lokal at iba pa",
+        "MAK3-T2-W6-8: Naiuugnay ang kultura sa sariling pagkakakilanlan",
+        "MAK3-T2-W9-10: Napahahalagahan ang sining at kultura ng mas malawak na komunidad (bayan, lungsod, lalawigan, rehiyon)"
       ],
-      "Quarter 3": [
-        "MAK3-III-1: Natutukoy ang namumuno sa barangay at pamayanan at kanilang tungkulin",
-        "MAK3-III-2: Nailalarawan ang mga serbisyo at paglilingkod ng barangay",
-        "MAK3-III-3: Nakalilikha ng dula-dulaan na nagpapakita ng buhay ng mga bayani",
-        "MAK3-III-4: Naipakikita ang mga manipulative skills (pagsalo, paghagis, pagsipa)",
-        "MAK3-III-5: Nakasusunod sa mga panuntunan sa kaligtasan sa kalsada at paaralan"
-      ],
-      "Quarter 4": [
-        "MAK3-IV-1: Naiisa-isa ang likas na yaman at kahalagahan ng pangangalaga sa mga ito",
-        "MAK3-IV-2: Natutukoy ang mga magagandang tanawin at potensyal sa turismo",
-        "MAK3-IV-3: Naipaliliwanag ang karapatan at tungkulin ng bata sa komunidad",
-        "MAK3-IV-4: Nakikilahok sa pagtatanghal ng lokal na sayaw o musika sa paaralan",
-        "MAK3-IV-5: Naipakikita ang fitness sa pakikilahok sa laro at ehersisyo",
-        "MAK3-IV-6: Naipakikita ang kahandaan sa oras ng kalamidad tulad ng bagyo/lindol"
+      "Term 3": [
+        "MAK3-T3-W1: Naipaliliwanag ang konsepto at mga kaugnay na kaisipan ng pagka-Pilipino",
+        "MAK3-T3-W2-3: Naiuugnay ang sariling katangian sa pagiging isang Pilipino",
+        "MAK3-T3-W4: Napahahalagahan ang pagkakakilanlan bilang isang Pilipino",
+        "MAK3-T3-W5-6: Natutukoy ang papel ng pagiging aktibong Pilipino",
+        "MAK3-T3-W7-8: Napahahalagahan ang papel ng pagiging aktibong Pilipino",
+        "MAK3-T3-W9-10: Naipamamalas ang pagiging isang aktibo at responsableng batang Pilipino (Pagsasakatuparan ng Panatang Makabayan)"
       ]
     },
     gmrc: {
-      "Quarter 1": [
-        "GMRC3-I-1: Naisasagawa ang mga gawi sa pansariling kalinisan at kaayusan",
-        "GMRC3-I-2: Naipakikita ang disiplina sa pag-aayos at pagliligpit ng gamit",
-        "GMRC3-I-3: Naisasagawa ang pagkusa sa mga simpleng gawaing-bahay",
-        "GMRC3-I-4: Naipakikita ang katapatan sa pamilya sa pamamagitan ng katotohanan"
+      "Term 1": [
+        "GMRC3-T1-W1-5: Naipakikita ang tiwala sa sarili, pagiging mapagmalasakit sa pag-iingat ng pera/gamit, at pagiging responsable sa tungkulin",
+        "GMRC3-T1-W6-10: Naipakikita ang pananalig sa Diyos sa pamamagitan ng pagsunod sa Kaniyang aral, disiplina sa kapaligiran, at magalang na pakikitungo"
       ],
-      "Quarter 2": [
-        "GMRC3-II-1: Naipakikita ang paggalang sa nakatatanda gamit ang magagalang na salita",
-        "GMRC3-II-2: Naipakikita ang mga katangian ng mabuting kaibigan tulad ng pagbabahagi",
-        "GMRC3-II-3: Nakalalahok sa pagtulong sa kapuwa sa paaralan nang walang kapalit",
-        "GMRC3-II-4: Naipakikita ang paggalang sa pagkakaiba-iba ng kapuwa"
+      "Term 2": [
+        "GMRC3-T2-W1-5: Naipakikita ang pagiging mapagpasensiya sa kapuwa, maingat na paghuhusga sa impormasyon, at pagiging totoo sa pakikipag-ugnayan",
+        "GMRC3-T2-W6-10: Naipakikita ang pagkukusa sa gawain, pagtulong sa kapuwa, pagiging masunurin, at paggalang sa Persons with Disability (PWD)"
       ],
-      "Quarter 3": [
-        "GMRC3-III-1: Nakasusunod sa mga tuntunin ng paaralan nang may pagkukusa",
-        "GMRC3-III-2: Naipakikita ang pangangalaga sa mga pampublikong kagamitan",
-        "GMRC3-III-3: Naipamamalas ang kapayapaan sa pamamagitan ng mahinahong paglutas",
-        "GMRC3-III-4: Nakikipagtulungan sa pangkatang gawain (bayanihan) sa paaralan"
-      ],
-      "Quarter 4": [
-        "GMRC3-IV-1: Naisasagawa ang mga gawi sa pangangalaga sa kalikasan",
-        "GMRC3-IV-2: Naisasagawa ang tamang paghihiwalay ng basura (biodegradable/etc.)",
-        "GMRC3-IV-3: Naipakikita ang pagmamahal sa bayan sa pamamagitan ng paggalang sa watawat",
-        "GMRC3-IV-4: Ipinagmamalaki ang mga lokal na produkto at kultura ng sariling bansa"
+      "Term 3": [
+        "GMRC3-T3-W1-5: Nakapagsasanay sa pagiging madasalin, pagiging masinop sa paglikha ng gamit, at pagmamahal sa bayan sa angkop na kilos",
+        "GMRC3-T3-W6-10: Nakikipagtulungan sa pangkatang gawain (bayanihan), pangangalaga sa kalikasan, paghihiwalay ng basura, at paggalang sa watawat"
       ]
     }
-  }
-};
+  };
 
 function formatCompetencyText(item, subjectKey) {
   if (!item.includes(':')) return item;
@@ -7800,7 +7703,7 @@ function showCompetencies(subjectKey) {
   if (!bodyEl) return;
 
   let contentHTML = '';
-  const quarters = ["Quarter 1", "Quarter 2", "Quarter 3", "Quarter 4"];
+  const quarters = (grade === 'g3') ? ["Term 1", "Term 2", "Term 3"] : ["Quarter 1", "Quarter 2", "Quarter 3", "Quarter 4"];
   
   let hasData = false;
   quarters.forEach(q => {

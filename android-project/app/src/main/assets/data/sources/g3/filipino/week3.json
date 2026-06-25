@@ -136,7 +136,7 @@
     },
     {
       "title": "<span class=\"fil-sentence\" data-translation=\"Pronouns in Our Story\">Panghalip sa Ating Kwento</span>",
-      "text": "<span class=\"fil-sentence\" data-translation=\"Let's read a short story about Matteo's day:\">Basahin natin ang maikling kwento tungkol kay Matteo:</span>\n<span class=\"fil-sentence\" data-translation=\"'Matteo went to the beautiful Pasig River.\">'Si Matteo ay pumunta sa magandang ilog ng Pasig.</span>\n<span class=\"fil-sentence\" data-translation=\"He brought a small outrigger boat for play.\">Siya ay nagdala ng munting banca para sa laro.</span>\n<span class=\"fil-sentence\" data-translation=\"He pointed to the eagle in the sky: That is fast!'\">Itinuro niya ang agila sa langit: Iyon ay mabilis!'</span>\n<span class=\"fil-sentence\" data-translation=\"In this short story, we used 'siya' and 'iyon'.\">Sa kwentong ito, ginamit ang 'siya' at 'iyon'.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'siya' is a personal pronoun replacing Matteo.\">Ang 'siya' ay panao na pumalit sa ngalang Matteo.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'iyon' is a demonstrative pointing to the bird.\">Ang 'iyon' ay pamatlig na tumukoy sa malayong ibon.</span>\n<span class=\"fil-sentence\" data-translation=\"Do the same thing when writing your own short stories!\">Gawin din ito sa pagsulat ng sarili mong kwento!</span>",
+      "text": "<span class=\"fil-sentence\" data-translation=\"Let's read a short story about Matteo's day:\">Basahin natin ang maikling kwento tungkol kay Matteo:</span>\n<span class=\"fil-sentence\" data-translation=\"'Matteo went to the beautiful Lake Sebu.\">'Si Matteo ay pumunta sa magandang Lawa ng Sebu.</span>\n<span class=\"fil-sentence\" data-translation=\"He brought a small outrigger boat for play.\">Siya ay nagdala ng munting banca para sa laro.</span>\n<span class=\"fil-sentence\" data-translation=\"He pointed to the eagle in the sky: That is fast!'\">Itinuro niya ang agila sa langit: Iyon ay mabilis!'</span>\n<span class=\"fil-sentence\" data-translation=\"In this short story, we used 'siya' and 'iyon'.\">Sa kwentong ito, ginamit ang 'siya' at 'iyon'.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'siya' is a personal pronoun replacing Matteo.\">Ang 'siya' ay panao na pumalit sa ngalang Matteo.</span>\n<span class=\"fil-sentence\" data-translation=\"The word 'iyon' is a demonstrative pointing to the bird.\">Ang 'iyon' ay pamatlig na tumukoy sa malayong ibon.</span>\n<span class=\"fil-sentence\" data-translation=\"Do the same thing when writing your own short stories!\">Gawin din ito sa pagsulat ng sarili mong kwento!</span>",
       "examples": [
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Story\">Kwento</span>",
@@ -399,7 +399,7 @@
     },
     {
       "type": "choice",
-      "q": "<span class=\"fil-sentence\" data-translation=\"Fill in the blank: &#x27;I pointed to the distant mountain: ___ Mount Makiling.&#x27;\">Punan ang patlang: 'Itinuro ko ang malayong bundok: ___ ang Bundok Makiling.'</span>",
+      "q": "<span class=\"fil-sentence\" data-translation=\"Fill in the blank: &#x27;I pointed to the distant mountain: ___ Mount Matutum.&#x27;\">Punan ang patlang: 'Itinuro ko ang malayong bundok: ___ ang Bundok Matutum.'</span>",
       "options": [
         "<span class=\"fil-sentence\" data-translation=\"this\">Ito</span>",
         "<span class=\"fil-sentence\" data-translation=\"that&#x27;s it\">Iyan</span>",

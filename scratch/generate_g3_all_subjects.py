@@ -279,8 +279,14 @@ for w in range(1, 5):
     core = existing_data.get("core", {})
     advanced = existing_data.get("advanced", {})
     
-    # Extract preserved subjects/blocks
-    math_core = core.get("math")
+    # Load math core from sources if exists, otherwise preserve
+    math_core_path = os.path.join(SOURCES_DIR, "math", f"week{w}.json")
+    if os.path.exists(math_core_path):
+        with open(math_core_path, "r", encoding="utf-8") as f_math:
+            math_core = json.load(f_math)
+            math_core["slides"] = pad_slides(math_core["slides"], "math", w)
+    else:
+        math_core = core.get("math")
     english_core = core.get("english")
     reading_core = core.get("reading")
     checklist_core = core.get("checklist")

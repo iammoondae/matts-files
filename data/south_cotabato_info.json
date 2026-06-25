@@ -1,0 +1,149 @@
+{
+  "province": {
+    "english": "South Cotabato",
+    "filipino": "Timog Cotabato"
+  },
+  "capital": {
+    "english": "Koronadal City (also called Marbel)",
+    "filipino": "Lungsod ng Koronadal (tinatawag ding Marbel)"
+  },
+  "description": {
+    "english": "South Cotabato is a beautiful province in the southern part of Mindanao, Philippines, famous for its rich culture, lush fruit farms, majestic mountains, and scenic lakes.",
+    "filipino": "Ang Timog Cotabato ay isang magandang lalawigan sa timog na bahagi ng Mindanao, Pilipinas, na tanyag sa mayayamang kultura, malalagong taniman ng prutas, maringal na kabundukan, at kaakit-akit na mga lawa."
+  },
+  "facts": [
+    {
+      "id": "polomolok_pineapple_matutum",
+      "english": "Polomolok is known for its vast sweet pineapple plantations and the majestic, cone-shaped Mount Matutum volcano.",
+      "filipino": "Ang Polomolok ay kilala sa malalawak na taniman ng matamis na pinya at ang maringal na Bulkang Matutum na hugis-kono."
+    },
+    {
+      "id": "gensan_tuna_capital",
+      "english": "General Santos City is known as the Tuna Capital of the Philippines because it has the largest fish port and catches the most tuna fish.",
+      "filipino": "Ang Lungsod ng General Santos ay kilala bilang Kabisera ng Tuna sa Pilipinas dahil mayroon itong pinakamalaking pantalan at dito hinuhuli ang pinakamaraming tuna."
+    },
+    {
+      "id": "pacquiao_gensan",
+      "english": "Manny Pacquiao, the famous world boxing champion and hero, originally came from General Santos City.",
+      "filipino": "Si Manny Pacquiao, ang sikat na kampeon sa boksing sa buong mundo at bayani, ay orihinal na nagmula sa Lungsod ng General Santos."
+    },
+    {
+      "id": "textile_weaving_sebu_tboli",
+      "english": "Lake Sebu and T'boli are well known for textile weaving, especially the traditional T'nalak cloth woven from abaca fiber by the dream weavers.",
+      "filipino": "Ang Lake Sebu at T'boli ay tanyag sa paghahabi ng tela, lalo na ang tradisyonal na T'nalak na hinahabi mula sa hibla ng abaka ng mga dream weavers."
+    },
+    {
+      "id": "lake_sebu_tourist",
+      "english": "Lake Sebu is a famous mountain resort town known for its peaceful lake, floating restaurants, seven clean waterfalls, and an exciting zipline.",
+      "filipino": "Ang Lake Sebu ay isang tanyag na resort na bayan sa kabundukan na kilala sa tahimik na lawa, mga lumulutang na kainan, pitong malilinis na talon, at kapana-panabik na zipline."
+    },
+    {
+      "id": "tupi_fruit_basket",
+      "english": "Tupi is known as the fruit basket of South Cotabato because it grows delicious papayas, pineapples, dragon fruits, and beautiful sunflower gardens.",
+      "filipino": "Ang Tupi ay kilala bilang basket ng prutas sa Timog Cotabato dahil dito itinatanim ang masasarap na papaya, pinya, dragon fruit, at magagandang halamanan ng sunflower."
+    },
+    {
+      "id": "bayanihan_spirit",
+      "english": "The people of South Cotabato practice cooperation or bayanihan to help build schools, harvest crops, and clean up their environment.",
+      "filipino": "Ang mga mamamayan ng Timog Cotabato ay nagpapakita ng pagtutulungan o bayanihan upang makatulong sa pagpapatayo ng mga paaralan, pag-ani ng pananim, at paglilinis ng kapaligiran."
+    }
+  ],
+  "places": [
+    {
+      "name": "General Santos City",
+      "type": "Highly Urbanized City",
+      "description": {
+        "english": "A busy port city geographically located next to South Cotabato, known for its tuna industry.",
+        "filipino": "Isang abalang lungsod-pantalan na heograpikal na katabi ng Timog Cotabato, na kilala sa industriya ng tuna."
+      }
+    },
+    {
+      "name": "Koronadal City",
+      "type": "Capital City",
+      "description": {
+        "english": "The capital of South Cotabato and the administrative regional center.",
+        "filipino": "Ang kabisera ng Timog Cotabato at sentrong pampangasiwaan ng rehiyon."
+      }
+    },
+    {
+      "name": "Polomolok",
+      "type": "Municipality",
+      "description": {
+        "english": "A large town at the foot of Mount Matutum, home to extensive pineapple fields.",
+        "filipino": "Isang malaking bayan sa paanan ng Bulkang Matutum, tahanan ng malalawak na taniman ng pinya."
+      }
+    },
+    {
+      "name": "Tupi",
+      "type": "Municipality",
+      "description": {
+        "english": "A cold mountain town famous for fruit plantations, flowers, and agricultural farms.",
+        "filipino": "Isang malamig na bayan sa bundok na sikat sa mga taniman ng prutas, bulaklak, at sakahan."
+      }
+    },
+    {
+      "name": "T'boli",
+      "type": "Municipality",
+      "description": {
+        "english": "A town rich in culture, ancestral lands, and traditional T'nalak weaving heritage.",
+        "filipino": "Isang bayan na mayaman sa kultura, lupang ninuno, at tradisyon ng paghahabi ng T'nalak."
+      }
+    },
+    {
+      "name": "Lake Sebu",
+      "type": "Municipality",
+      "description": {
+        "english": "A scenic town high in the hills, featuring lakes, waterfalls, and cultural eco-tourism.",
+        "filipino": "Isang magandang bayan sa kabundukan na may mga lawa, talon, at kultural na eko-turismo."
+      }
+    },
+    {
+      "name": "Surallah",
+      "type": "Municipality",
+      "description": {
+        "english": "Known as the cultural hub with beautiful monuments representing local tribes.",
+        "filipino": "Kilala bilang sentrong kultural na may magagandang monumento na kumakatawan sa mga katutubong tribo."
+      }
+    },
+    {
+      "name": "Banga",
+      "type": "Municipality",
+      "description": {
+        "english": "Known as the food basket town because it produces high-quality rice and corn crops.",
+        "filipino": "Kilala bilang basket ng pagkain dahil nagpapatubo ito ng mataas na kalidad na palay at mais."
+      }
+    },
+    {
+      "name": "Norala",
+      "type": "Municipality",
+      "description": {
+        "english": "An agricultural town known for vast green rice fields and warm farmers.",
+        "filipino": "Isang bayang pansakahan na kilala sa malalawak na luntiang palayan at mababait na magsasaka."
+      }
+    },
+    {
+      "name": "Santo Niño",
+      "type": "Municipality",
+      "description": {
+        "english": "A peaceful municipality known for agricultural farming and community unity.",
+        "filipino": "Isang tahimik na bayan na kilala sa pagsasaka at pagkakaisa ng komunidad."
+      }
+    },
+    {
+      "name": "Tantangan",
+      "type": "Municipality",
+      "description": {
+        "english": "Known for pottery clay crafts and agricultural products like coconuts.",
+        "filipino": "Kilala sa paggawa ng palayok at mga produktong sakahan tulad ng niyog."
+      }
+    },
+    {
+      "name": "Tampakan",
+      "type": "Municipality",
+      "description": {
+        "english": "A mountainous town rich in mineral resources and beautiful forest hills.",
+        "filipino": "Isang bayang maburol na mayaman sa yamang-mineral at magagandang gubat."
+      }
+    }
+  ]
+}

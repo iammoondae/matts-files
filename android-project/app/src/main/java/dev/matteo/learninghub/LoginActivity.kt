@@ -208,22 +208,55 @@ class LoginActivity : AppCompatActivity() {
             showDialogLoading()
 
             if (isSignUpMode) {
-                // Sign Up / Create Account
-                auth.createUserWithEmailAndPassword(email, password)
-                    .addOnCompleteListener { task ->
-                        if (task.isSuccessful) {
-                            Log.d(TAG, "Email create account: success")
-                            saveUserProfile()
-                            dialog.dismiss()
-                            goToMainActivity()
-                        } else {
-                            val errorMsg = when (task.exception) {
-                                is FirebaseAuthWeakPasswordException -> "Password is too weak. Use at least 6 characters."
-                                is FirebaseAuthUserCollisionException -> "This email is already registered! Please sign in instead."
-                                is FirebaseAuthInvalidCredentialsException -> "Invalid email format."
-                                else -> "Account creation failed: ${task.exception?.localizedMessage}"
+                // Sign Up / Create Account - verify if email is already registered first
+                auth.fetchSignInMethodsForEmail(email)
+                    .addOnCompleteListener { fetchTask ->
+                        if (fetchTask.isSuccessful) {
+                            val signInMethods = fetchTask.result?.signInMethods
+                            if (!signInMethods.isNullOrEmpty()) {
+                                // Already registered!
+                                showDialogError("This email is already registered! Please sign in instead.")
+                                isSignUpMode = false
+                                updateDialogUI()
+                            } else {
+                                // Not registered yet, proceed to create account
+                                auth.createUserWithEmailAndPassword(email, password)
+                                    .addOnCompleteListener { task ->
+                                        if (task.isSuccessful) {
+                                            Log.d(TAG, "Email create account: success")
+                                            saveUserProfile()
+                                            dialog.dismiss()
+                                            goToMainActivity()
+                                        } else {
+                                            val errorMsg = when (task.exception) {
+                                                is FirebaseAuthWeakPasswordException -> "Password is too weak. Use at least 6 characters."
+                                                is FirebaseAuthUserCollisionException -> "This email is already registered! Please sign in instead."
+                                                is FirebaseAuthInvalidCredentialsException -> "Invalid email format."
+                                                else -> "Account creation failed: ${task.exception?.localizedMessage}"
+                                            }
+                                            showDialogError(errorMsg)
+                                        }
+                                    }
                             }
-                            showDialogError(errorMsg)
+                        } else {
+                            // Offline or other error, try direct creation and let Firebase return error
+                            auth.createUserWithEmailAndPassword(email, password)
+                                .addOnCompleteListener { task ->
+                                    if (task.isSuccessful) {
+                                        Log.d(TAG, "Email create account: success")
+                                        saveUserProfile()
+                                        dialog.dismiss()
+                                        goToMainActivity()
+                                    } else {
+                                        val errorMsg = when (task.exception) {
+                                            is FirebaseAuthWeakPasswordException -> "Password is too weak. Use at least 6 characters."
+                                            is FirebaseAuthUserCollisionException -> "This email is already registered! Please sign in instead."
+                                            is FirebaseAuthInvalidCredentialsException -> "Invalid email format."
+                                            else -> "Account creation failed: ${task.exception?.localizedMessage}"
+                                        }
+                                        showDialogError(errorMsg)
+                                    }
+                                }
                         }
                     }
             } else {

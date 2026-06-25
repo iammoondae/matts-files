@@ -205,7 +205,7 @@
         "Bundok Pulag",
         "Bundok Apo",
         "Bundok Mayon",
-        "Bundok Makiling"
+        "Bundok Matutum"
       ],
       "answer": 1
     },
@@ -246,7 +246,7 @@
       "type": "choice",
       "q": "Alin sa mga sumusunod na awitin ang tanyag na awiting-bayan mula sa Visayas?",
       "options": [
-        "Leron Leron Sinta",
+        "tradisyonal na awitin",
         "Dandansoy",
         "Sarung Banggi",
         "Atin Cu Pung Singsing"
