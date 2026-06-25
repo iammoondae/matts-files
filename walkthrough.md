@@ -407,3 +407,10 @@ We have successfully resolved all stability issues, implemented the Welcome Dash
     - Verified that [validate_db.py](file:///scratch/validate_db.py) fully passes with zero errors, satisfying the 125-150 word count rules, no newline boundaries in slide text, and double-confirms worksheet `.ws-answer` configurations.
 4. **Android Package Compilation**:
     - Compiled the final Android debug package containing the localized South Cotabato weekly database: **[Matteo's Learning Hub v26.06.25.0845.apk](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/Matteo's%20Learning%20Hub%20v26.06.25.0845.apk)**.
+
+### 🌐 Web Browser Compatibility & Update Button Polish (June 25, 2026 - Part 2):
+1. **Resolved Browser Syntax Error**:
+    - Identified a fatal `SyntaxError: Identifier 'localStorage' has already been declared` when loading the application on standard web browsers (and GitHub Pages). This was caused by declaring a global `const localStorage` to wrap native storage for iframe sandboxing.
+    - Renamed the global wrapper identifier and all of its stand-alone references in [app.js](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/app.js) to `safeStorage`, while keeping the internal calls to `window.localStorage` unchanged. This allows standard web browsers to parse the file successfully, rendering the onboarding forms and learning dashboards.
+2. **Unified Update Buttons Visual Feedback**:
+    - Updated `checkWeeklyUpdates()` and `resetButton()` in [app.js](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/app.js) to query, disable, and update the text of both the settings update button (`#update-topics-btn`) and the header toolbar update button (`#header-update-btn`) simultaneously. This ensures that clicking either button provides immediate visual loading states to the user.
