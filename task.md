@@ -153,5 +153,14 @@
 - `[x]` Task 151: Add all 72 generated image filenames to the "images" array in data/g3/manifest.json
 - `[x]` Task 152: Compile all Grade 3 subjects using generate_g3_all_subjects.py and run validate_db.py to confirm that all Quality Gate checks pass cleanly with zero errors
 - `[x]` Task 153: Commit all changes and push to GitHub
+- `[x]` Task 154: Implement text wrapping helper function and integrate it in `draw_textbox` inside `generate_all_diagrams.py`
+- `[x]` Task 155: Correct the Solid Density scale tilt and coordinates in Science Week 2 Image 2 so the pan tips downward on the iron block side
+- `[x]` Task 156: Align Phase Change arrows in Science Week 1 Image 2 to touch the actual box boundaries
+- `[x]` Task 157: Expand the checklist container width to X = 100 to 700 for all checklist infographics (`idx == 3`) to prevent text overflow
+- `[x]` Task 158: Run `generate_all_diagrams.py` to output the updated PNG diagrams
+- `[x]` Task 159: Recompile all Grade 3 subjects using `generate_g3_all_subjects.py`
+- `[x]` Task 160: Run the Quality Gate checker `validate_db.py` to confirm that all validation checks pass successfully
+- `[x]` Task 161: Commit all changes and push them to GitHub
+
 
 

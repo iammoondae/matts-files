@@ -79,23 +79,61 @@ def create_card_template(subject, week_num, title, subtitle):
     
     return img, draw
 
+# Helper to wrap text to fit a given maximum pixel width
+def wrap_text(text, font, max_width):
+    lines = []
+    paragraphs = text.split("\n")
+    for paragraph in paragraphs:
+        if not paragraph.strip():
+            lines.append("")
+            continue
+        words = [w for w in paragraph.split(" ") if w]
+        current_line = []
+        for word in words:
+            test_line = " ".join(current_line + [word])
+            bbox = font.getbbox(test_line)
+            width = bbox[2] - bbox[0]
+            if width <= max_width:
+                current_line.append(word)
+            else:
+                if current_line:
+                    lines.append(" ".join(current_line))
+                    current_line = [word]
+                else:
+                    lines.append(word)
+                    current_line = []
+        if current_line:
+            lines.append(" ".join(current_line))
+    return lines
+
 # Helper to draw centered rounded text boxes
 def draw_textbox(draw, coords, text, fill_color, border_color, text_color, font, align="center"):
     draw.rectangle(coords, fill=fill_color, outline=border_color, width=2)
-    # Calculate text dimensions to center
-    x = (coords[0] + coords[2]) // 2
-    y = (coords[1] + coords[3]) // 2
     
-    # Simple text wrapping for 2 lines if needed
-    lines = text.split("\n")
-    if len(lines) == 1:
-        draw.text((x, y), lines[0], fill=text_color, font=font, anchor="mm")
-    else:
-        # Draw multi-line text centered
+    # Calculate box dimensions
+    box_width = coords[2] - coords[0]
+    
+    # Wrap text to fit width with padding
+    max_text_width = box_width - 24
+    wrapped_lines = wrap_text(text, font, max_text_width)
+    
+    # Calculate line height
+    try:
+        ascent, descent = font.getmetrics()
+        line_height = ascent + descent + 2
+    except:
         line_height = font.getbbox("A")[3] + 4
-        y_start = y - (line_height * len(lines)) // 2
-        for idx, line in enumerate(lines):
-            draw.text((x, y_start + idx * line_height + line_height // 2), line, fill=text_color, font=font, anchor="mm")
+        
+    total_text_height = len(wrapped_lines) * line_height
+    
+    # Center text vertically and horizontally
+    x_center = (coords[0] + coords[2]) // 2
+    y_start = (coords[1] + coords[3]) // 2 - total_text_height // 2
+    
+    for idx, line in enumerate(wrapped_lines):
+        y_pos = y_start + idx * line_height + line_height // 2
+        draw.text((x_center, y_pos), line, fill=text_color, font=font, anchor="mm")
+
 
 # Helper to draw clean directional arrows
 def draw_arrow(draw, start, end, fill="#475569", width=3):
@@ -465,17 +503,18 @@ def draw_core_diagram(draw, subject, week, idx):
                 draw_textbox(draw, [100, 420, 300, 480], "Liquid", "#93c5fd", "#3b82f6", "#1e3a8a", bold_font)
                 draw_textbox(draw, [500, 420, 700, 480], "Gas", "#fcd34d", "#f59e0b", "#7c2d12", bold_font)
                 # Arrows
-                draw_arrow(draw, (230, 280), (180, 410), fill="#3b82f6") # Solid to liquid (Melting)
-                draw.text((150, 320), "Melting\n(+Heat)", fill="#1e293b", font=sm_font)
+                draw_arrow(draw, (330, 280), (200, 420), fill="#3b82f6") # Solid to liquid (Melting)
+                draw.text((180, 320), "Melting\n(+Heat)", fill="#1e293b", font=sm_font)
                 
-                draw_arrow(draw, (180, 410), (230, 280), fill="#ef4444") # Liquid to solid (Freezing)
-                draw.text((230, 360), "Freezing\n(-Heat)", fill="#1e293b", font=sm_font)
+                draw_arrow(draw, (230, 420), (360, 280), fill="#ef4444") # Liquid to solid (Freezing)
+                draw.text((320, 350), "Freezing\n(-Heat)", fill="#1e293b", font=sm_font)
                 
-                draw_arrow(draw, (310, 450), (490, 450), fill="#f59e0b") # Liquid to gas (Evaporation)
-                draw.text((400, 420), "Evaporating (+Heat)", fill="#1e293b", font=sm_font, anchor="mm")
+                draw_arrow(draw, (300, 440), (500, 440), fill="#f59e0b") # Liquid to gas (Evaporation)
+                draw.text((400, 415), "Evaporating (+Heat)", fill="#1e293b", font=sm_font, anchor="mm")
                 
-                draw_arrow(draw, (490, 470), (310, 470), fill="#3b82f6") # Gas to liquid (Condensation)
-                draw.text((400, 490), "Condensing (-Heat)", fill="#1e293b", font=sm_font, anchor="mm")
+                draw_arrow(draw, (500, 460), (300, 460), fill="#3b82f6") # Gas to liquid (Condensation)
+                draw.text((400, 485), "Condensing (-Heat)", fill="#1e293b", font=sm_font, anchor="mm")
+
             elif idx == 3: # Solid/Liquid/Gas Examples
                 # Simple table listing examples of solids, liquids, gases
                 draw.rectangle([100, 240, 700, 600], outline="#10b981", width=3)
@@ -512,19 +551,22 @@ def draw_core_diagram(draw, subject, week, idx):
             elif idx == 2: # Solid Density Balance Scale
                 # Draw a simple balance scale comparing iron (dense) and wood (less dense)
                 draw.line([(400, 240), (400, 480)], fill="#334155", width=6) # Stand
-                draw.line([(250, 350), (550, 300)], fill="#334155", width=4) # Balanced bar tilted
+                draw.line([(250, 280), (550, 370)], fill="#334155", width=4) # Balanced bar tilted (iron lower Y, wood higher Y)
                 # Pans
-                draw.line([(250, 350), (220, 420)], fill="#475569", width=2)
-                draw.line([(250, 350), (280, 420)], fill="#475569", width=2)
-                draw.rectangle([200, 420, 300, 440], fill="#334155")
-                draw.rectangle([220, 370, 280, 420], fill="#78350f") # wood block
-                draw.text((250, 460), "Wood block (floats)\nLess Dense", fill="#334155", font=reg_font, anchor="mm")
+                # Wood Pan (left - Y starts at 280, hangs down to 350)
+                draw.line([(250, 280), (220, 350)], fill="#475569", width=2)
+                draw.line([(250, 280), (280, 350)], fill="#475569", width=2)
+                draw.rectangle([200, 350, 300, 370], fill="#334155")
+                draw.rectangle([220, 300, 280, 350], fill="#78350f") # wood block
+                draw.text((250, 390), "Wood block (floats)\nLess Dense", fill="#334155", font=reg_font, anchor="mm")
                 
-                draw.line([(550, 300), (520, 370)], fill="#475569", width=2)
-                draw.line([(550, 300), (580, 370)], fill="#475569", width=2)
-                draw.rectangle([500, 370, 600, 390], fill="#334155")
-                draw.rectangle([530, 320, 570, 370], fill="#94a3b8") # iron block
-                draw.text((550, 410), "Iron block (sinks)\nMore Dense", fill="#334155", font=reg_font, anchor="mm")
+                # Iron Pan (right - Y starts at 370, hangs down to 440)
+                draw.line([(550, 370), (520, 440)], fill="#475569", width=2)
+                draw.line([(550, 370), (580, 440)], fill="#475569", width=2)
+                draw.rectangle([500, 440, 600, 460], fill="#334155")
+                draw.rectangle([530, 390, 570, 440], fill="#94a3b8") # iron block
+                draw.text((550, 480), "Iron block (sinks)\nMore Dense", fill="#334155", font=reg_font, anchor="mm")
+
             elif idx == 3: # Molecular packing grid
                 draw.rectangle([250, 240, 550, 480], fill="#ffffff", outline="#10b981", width=3)
                 for r in range(6):
@@ -632,23 +674,24 @@ def draw_core_diagram(draw, subject, week, idx):
             
         elif idx == 3: # Concept checklist / Hierarchy / Board
             # Visual board style
-            draw_textbox(draw, [150, 220, 650, 280], get_infographic_text(subject, week, 3, "header"), theme_color, theme_color, "#ffffff", bold_font)
+            draw_textbox(draw, [100, 220, 700, 280], get_infographic_text(subject, week, 3, "header"), theme_color, theme_color, "#ffffff", bold_font)
             
             # Checklist items list inside a large white container card
-            draw.rectangle([150, 300, 650, 600], fill="#ffffff", outline="#cbd5e1", width=2)
+            draw.rectangle([100, 300, 700, 600], fill="#ffffff", outline="#cbd5e1", width=2)
             
             items = get_infographic_text(subject, week, 3, "items")
             for i_idx, item in enumerate(items):
                 y = 330 + i_idx * 50
                 # Draw check box
-                draw.rectangle([180, y-10, 200, y+10], fill="#d1fae5", outline="#10b981", width=2)
+                draw.rectangle([130, y-10, 150, y+10], fill="#d1fae5", outline="#10b981", width=2)
                 # Check mark inside box
-                draw.line([(183, y), (190, y+6)], fill="#047857", width=2)
-                draw.line([(190, y+6), (198, y-6)], fill="#047857", width=2)
+                draw.line([(133, y), (140, y+6)], fill="#047857", width=2)
+                draw.line([(140, y+6), (148, y-6)], fill="#047857", width=2)
                 # Text label next to check
-                draw.text((220, y), item, fill="#334155", font=reg_font, anchor="lm")
+                draw.text((170, y), item, fill="#334155", font=reg_font, anchor="lm")
                 
-            draw_textbox(draw, [150, 620, 650, 680], get_infographic_text(subject, week, 3, "footer"), "#fef08a", "#eab308", "#854d0e", bold_font)
+            draw_textbox(draw, [100, 620, 700, 680], get_infographic_text(subject, week, 3, "footer"), "#fef08a", "#eab308", "#854d0e", bold_font)
+
 
 # Text contents for the standard infographics template generator
 def get_infographic_text(subject, week, idx, part):

@@ -460,3 +460,15 @@ We have successfully resolved all stability issues, implemented the Welcome Dash
     - Recompiled all weekly JSON databases using [generate_g3_all_subjects.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/generate_g3_all_subjects.py).
     - Verified that [validate_db.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/validate_db.py) reports a 100% successful **PASS** status for all Grade 1, 2, and 3 database files.
 
+### 🎨 Diagram Text Overlaps & Layout Alignment Fixes (June 25, 2026 - Part 6):
+1. **Dynamic PIL Text Wrapping Helper**:
+    - Added a robust `wrap_text` helper function in [generate_all_diagrams.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/generate_all_diagrams.py) to wrap long strings based on font size and pixel width constraints.
+    - Updated `draw_textbox` to use this wrapping logic, calculating total block height and dynamically centering lines vertically. This prevents horizontal text box overflows and layout overlaps.
+2. **Scientific & Diagram Layout Alignment Corrections**:
+    - **Solid Density Balance Scale (Science Week 2, Image 2)**: Adjusted balanced bar coordinates so the scale tilts downward on the heavier iron block side (Y = 370) and upward on the wood block side (Y = 280), representing correct physical principles.
+    - **Phase Change Arrows (Science Week 1, Image 2)**: Aligned Solid-to-Liquid and Liquid-to-Gas arrows to touch the borders of their respective state boxes.
+    - **Checklist Layout Width Expansion (All Subjects, Image 3)**: Stretched card and checklist width to 600px (X = 100 to X = 700) to provide plenty of space for descriptive items, eliminating label truncation.
+3. **Database Recompilation and Quality Gate Validation**:
+    - Recompiled all weekly JSON databases and verified that the database validation Quality Gate [validate_db.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/validate_db.py) reports a clean **PASS** status with zero errors.
+
+
