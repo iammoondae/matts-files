@@ -5,252 +5,252 @@
   "icon": "🔢",
   "slides": [
     {
-      "title": "Area Concept Slide 1",
-      "text": "Area is the amount of flat space that a shape covers. We can measure area by covering a surface with smaller, identical shapes like square tiles. A square tile has equal sides, making it a perfect unit for measuring area without leaving any gaps or overlaps between the shapes. In the town of Polomolok, farmers layout square wooden crates to estimate the ground space needed for harvesting sweet pineapples near Mount Matutum. How can we use square tiles to measure the flat surface of a table or floor? Let us discuss how this helps us count units. Review detail 1. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems..",
+      "title": "Understanding Area",
+      "text": "Let's learn how to measure the flat space covered by a shape. We call this space the area of the shape. To measure it, we cover the surface completely with smaller, identical units. In math, we express this as: Area = covered surface space. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. Can you look at your desk and imagine covering it with square papers?",
       "examples": [
         {
           "title": "Example 1",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Area = covered surface space."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 2",
-      "text": "Area is the amount of flat space that a shape covers. We can measure area by covering a surface with smaller, identical shapes like square tiles. A square tile has equal sides, making it a perfect unit for measuring area without leaving any gaps or overlaps between the shapes. In the town of Polomolok, farmers layout square wooden crates to estimate the ground space needed for harvesting sweet pineapples near Mount Matutum. How can we use square tiles to measure the flat surface of a table or floor? Let us discuss how this helps us count units. Review detail 2. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems..",
+      "title": "The Concept of Square Tiles",
+      "text": "A square tile is a shape with four equal sides. It is the perfect unit for measuring area because squares fit together side-by-side without leaving gaps. In math, we express this as: 1 tile = 1 unit of area. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. How does using the same size of square tiles help us get an accurate measurement?",
       "examples": [
         {
           "title": "Example 2",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: 1 tile = 1 unit of area."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 3",
-      "text": "Area is the amount of flat space that a shape covers. We can measure area by covering a surface with smaller, identical shapes like square tiles. A square tile has equal sides, making it a perfect unit for measuring area without leaving any gaps or overlaps between the shapes. In the town of Polomolok, farmers layout square wooden crates to estimate the ground space needed for harvesting sweet pineapples near Mount Matutum. How can we use square tiles to measure the flat surface of a table or floor? Let us discuss how this helps us count units. Review detail 3. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems..",
+      "title": "Covering Surfaces Perfectly",
+      "text": "When we cover a shape to find its area, we must make sure there are no gaps or overlaps. Every square tile must touch the edge of the next tile. In math, we express this as: Total Area = Sum of all tiles. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. What would happen to our area count if some tiles overlapped each other?",
       "examples": [
         {
           "title": "Example 3",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Total Area = Sum of all tiles."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 4",
-      "text": "Area is the amount of flat space that a shape covers. We can measure area by covering a surface with smaller, identical shapes like square tiles. A square tile has equal sides, making it a perfect unit for measuring area without leaving any gaps or overlaps between the shapes. In the town of Polomolok, farmers layout square wooden crates to estimate the ground space needed for harvesting sweet pineapples near Mount Matutum. How can we use square tiles to measure the flat surface of a table or floor? Let us discuss how this helps us count units. Review detail 4. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems..",
+      "title": "Rows and Columns in a Grid",
+      "text": "To organize our tiles, we arrange them in neat rows that go across and columns that go down. This arrangement forms a grid pattern on the surface. In math, we express this as: Grid = Rows x Columns. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. Multiplying rows by columns gives the exact number of squares without counting them individually. Can you count the number of rows and columns on a tiled floor?",
       "examples": [
         {
           "title": "Example 4",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Grid = Rows x Columns."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 5",
-      "text": "Area is the amount of flat space that a shape covers. We can measure area by covering a surface with smaller, identical shapes like square tiles. A square tile has equal sides, making it a perfect unit for measuring area without leaving any gaps or overlaps between the shapes. In the town of Polomolok, farmers layout square wooden crates to estimate the ground space needed for harvesting sweet pineapples near Mount Matutum. How can we use square tiles to measure the flat surface of a table or floor? Let us discuss how this helps us count units. Review detail 5. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems..",
+      "title": "Counting Tiles by Rows",
+      "text": "We can find the total area of a grid by adding the tiles in each row. If there are 4 rows with 4 tiles each, we add 4 four times. In math, we express this as: Total = 4 + 4 + 4 + 4 = 16. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. Why is adding by rows faster than counting each tile one by one?",
       "examples": [
         {
           "title": "Example 5",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Total = 4 + 4 + 4 + 4 = 16."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 6",
-      "text": "To find the area of a rectangle, we can draw grid lines inside it to make rows and columns of square tiles. Counting all the individual squares inside the grid tells us the total area. This visual grid method helps us see how area is made of repeated rows. Students at Koronadal Central Elementary School draw square grids on their paper to plan layout maps of local parks in South Cotabato. If a rectangle is divided into equal rows and columns, how does counting the squares help us find the total area? Study slide 6. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice.",
+      "title": "Counting Tiles by Columns",
+      "text": "Just like adding by rows, we can also count tiles by columns. If we have 4 columns of 5 tiles, we add 5 four times to get the area. In math, we express this as: Total = 5 + 5 + 5 + 5 = 20. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. Do we get the same total area if we count by columns instead of rows?",
       "examples": [
         {
           "title": "Example 6",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Total = 5 + 5 + 5 + 5 = 20."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 7",
-      "text": "To find the area of a rectangle, we can draw grid lines inside it to make rows and columns of square tiles. Counting all the individual squares inside the grid tells us the total area. This visual grid method helps us see how area is made of repeated rows. Students at Koronadal Central Elementary School draw square grids on their paper to plan layout maps of local parks in South Cotabato. If a rectangle is divided into equal rows and columns, how does counting the squares help us find the total area? Study slide 7. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice.",
+      "title": "Area of a Grid Rectangle",
+      "text": "Let's calculate the area of a rectangle made of tiles. We multiply the number of horizontal rows by the number of vertical columns to find the total units. In math, we express this as: Area = 3 rows x 4 columns = 12 tiles. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. If a grid has 3 rows and 4 columns, how many tiles are there?",
       "examples": [
         {
           "title": "Example 7",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Area = 3 rows x 4 columns = 12 tiles."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 8",
-      "text": "To find the area of a rectangle, we can draw grid lines inside it to make rows and columns of square tiles. Counting all the individual squares inside the grid tells us the total area. This visual grid method helps us see how area is made of repeated rows. Students at Koronadal Central Elementary School draw square grids on their paper to plan layout maps of local parks in South Cotabato. If a rectangle is divided into equal rows and columns, how does counting the squares help us find the total area? Study slide 8. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice.",
+      "title": "Area of a Grid Square",
+      "text": "A square grid has the same number of rows and columns. To find its area, we multiply this number by itself because all its sides are equal length. In math, we express this as: Area = 4 rows x 4 columns = 16 tiles. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. If a square grid has 4 rows, what is its total area in tiles?",
       "examples": [
         {
           "title": "Example 8",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Area = 4 rows x 4 columns = 16 tiles."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 9",
-      "text": "To find the area of a rectangle, we can draw grid lines inside it to make rows and columns of square tiles. Counting all the individual squares inside the grid tells us the total area. This visual grid method helps us see how area is made of repeated rows. Students at Koronadal Central Elementary School draw square grids on their paper to plan layout maps of local parks in South Cotabato. If a rectangle is divided into equal rows and columns, how does counting the squares help us find the total area? Study slide 9. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice.",
+      "title": "Estimating Area of Large Spaces",
+      "text": "Sometimes we do not have enough tiles to cover a large floor. We can place a few tiles along the sides and estimate the total by imagining the grid. In math, we express this as: Estimate = Rows x Columns. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. Multiplying rows by columns gives the exact number of squares without counting them individually. Why is estimating area helpful when planning to buy tiles for a room?",
       "examples": [
         {
           "title": "Example 9",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Estimate = Rows x Columns."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 10",
-      "text": "To find the area of a rectangle, we can draw grid lines inside it to make rows and columns of square tiles. Counting all the individual squares inside the grid tells us the total area. This visual grid method helps us see how area is made of repeated rows. Students at Koronadal Central Elementary School draw square grids on their paper to plan layout maps of local parks in South Cotabato. If a rectangle is divided into equal rows and columns, how does counting the squares help us find the total area? Study slide 10. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice.",
+      "title": "The Multiplicative Area Model",
+      "text": "Multiplication is a powerful math tool that helps us find area instantly. Instead of counting 50 tiles individually, we multiply the rows by the columns to get the answer. In math, we express this as: Area = Rows x Columns. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. Multiplying rows by columns gives the exact number of squares without counting them individually. How does multiplication save us time when measuring a very large tiled wall?",
       "examples": [
         {
           "title": "Example 10",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Area = Rows x Columns."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 11",
-      "text": "We can estimate the area of large flat surfaces by placing a few sample square tiles and imagining the rest of the grid. Estimating helps us find a close answer when we do not have enough tiles to cover the entire space, which is very useful in real-world projects. Weavers in Lake Sebu estimate the area of their traditional T'nalak mats by laying down square cardboard templates before starting their weaving process. Why is estimation a useful skill when measuring large areas in our homes and schools? Let us explore this idea in card 11. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice.",
+      "title": "Introducing the Area Formula",
+      "text": "We can write our grid rule as a standard mathematical formula: Area equals Length multiplied by Width. This formula works for all rectangles and squares. In math, we express this as: Area = Length x Width. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. Multiplying rows by columns gives the exact number of squares without counting them individually. What do the letters L and W stand for in our area formula?",
       "examples": [
         {
           "title": "Example 11",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Area = Length x Width."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 12",
-      "text": "We can estimate the area of large flat surfaces by placing a few sample square tiles and imagining the rest of the grid. Estimating helps us find a close answer when we do not have enough tiles to cover the entire space, which is very useful in real-world projects. Weavers in Lake Sebu estimate the area of their traditional T'nalak mats by laying down square cardboard templates before starting their weaving process. Why is estimation a useful skill when measuring large areas in our homes and schools? Let us explore this idea in card 12. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice.",
+      "title": "Length and Width Explained",
+      "text": "Length is the measurement of the longer side of a rectangle, and Width is the measurement of the shorter side. We measure both sides using the same units. In math, we express this as: Length = long side, Width = short side. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. Which side of your math textbook is the length and which is the width?",
       "examples": [
         {
           "title": "Example 12",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Length = long side, Width = short side."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 13",
-      "text": "We can estimate the area of large flat surfaces by placing a few sample square tiles and imagining the rest of the grid. Estimating helps us find a close answer when we do not have enough tiles to cover the entire space, which is very useful in real-world projects. Weavers in Lake Sebu estimate the area of their traditional T'nalak mats by laying down square cardboard templates before starting their weaving process. Why is estimation a useful skill when measuring large areas in our homes and schools? Let us explore this idea in card 13. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice.",
+      "title": "Calculating Rectangle Area",
+      "text": "Let's use our new formula to find the area of a rectangle. If the length is 6 units and the width is 4 units, we multiply 6 by 4. In math, we express this as: Area = 6 units x 4 units = 24 square units. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. Can you calculate the area of a rectangle with length 8 and width 3?",
       "examples": [
         {
           "title": "Example 13",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Area = 6 units x 4 units = 24 square units."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 14",
-      "text": "We can estimate the area of large flat surfaces by placing a few sample square tiles and imagining the rest of the grid. Estimating helps us find a close answer when we do not have enough tiles to cover the entire space, which is very useful in real-world projects. Weavers in Lake Sebu estimate the area of their traditional T'nalak mats by laying down square cardboard templates before starting their weaving process. Why is estimation a useful skill when measuring large areas in our homes and schools? Let us explore this idea in card 14. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice.",
+      "title": "The Square Area Formula",
+      "text": "Since a square has equal sides, its length and width are the same. We write its formula as Area equals Side multiplied by Side, or Side squared. In math, we express this as: Area = Side x Side. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. Multiplying rows by columns gives the exact number of squares without counting them individually. How is the square area formula different from the rectangle area formula?",
       "examples": [
         {
           "title": "Example 14",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Area = Side x Side."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 15",
-      "text": "We can estimate the area of large flat surfaces by placing a few sample square tiles and imagining the rest of the grid. Estimating helps us find a close answer when we do not have enough tiles to cover the entire space, which is very useful in real-world projects. Weavers in Lake Sebu estimate the area of their traditional T'nalak mats by laying down square cardboard templates before starting their weaving process. Why is estimation a useful skill when measuring large areas in our homes and schools? Let us explore this idea in card 15. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice.",
+      "title": "Calculating Square Area",
+      "text": "Let's apply the square area formula. If a square has a side length of 5 units, we multiply 5 by 5 to find that the area is 25. In math, we express this as: Area = 5 units x 5 units = 25 square units. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. What is the area of a square table with a side length of 7 units?",
       "examples": [
         {
           "title": "Example 15",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Area = 5 units x 5 units = 25 square units."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 16",
-      "text": "We can derive the area formula by observing that the total number of tiles is equal to the number of rows multiplied by the number of columns. For a rectangle, this is length multiplied by width. For a square, since all sides are equal, it is side multiplied by side. A fruit vendor at the General Santos City public market uses this multiplication rule to calculate the area of their rectangular tuna display table. How does multiplying the number of rows by columns make finding the area faster than counting each tile one by one? Card 16. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important.",
+      "title": "Weaving Mats in Lake Sebu",
+      "text": "Weavers in Lake Sebu use these area ideas in their daily life. They layout square cardboard templates to plan the size of their traditional T'nalak mats. In math, we express this as: Area = 3 m x 2 m = 6 square meters. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. How does knowing the area help weavers determine how much abaca fiber they need?",
       "examples": [
         {
           "title": "Example 16",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Area = 3 m x 2 m = 6 square meters."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 17",
-      "text": "We can derive the area formula by observing that the total number of tiles is equal to the number of rows multiplied by the number of columns. For a rectangle, this is length multiplied by width. For a square, since all sides are equal, it is side multiplied by side. A fruit vendor at the General Santos City public market uses this multiplication rule to calculate the area of their rectangular tuna display table. How does multiplying the number of rows by columns make finding the area faster than counting each tile one by one? Card 17. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important.",
+      "title": "Pineapple Plots in Polomolok",
+      "text": "Farmers in Polomolok use grids to organize pineapple crates. They lay out rows of boxes to estimate the ground space needed for harvesting sweet pineapples. In math, we express this as: Area = 8 rows x 10 columns = 80 boxes. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. If a farmer has 8 rows of 10 crates, what is the area?",
       "examples": [
         {
           "title": "Example 17",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Area = 8 rows x 10 columns = 80 boxes."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 18",
-      "text": "We can derive the area formula by observing that the total number of tiles is equal to the number of rows multiplied by the number of columns. For a rectangle, this is length multiplied by width. For a square, since all sides are equal, it is side multiplied by side. A fruit vendor at the General Santos City public market uses this multiplication rule to calculate the area of their rectangular tuna display table. How does multiplying the number of rows by columns make finding the area faster than counting each tile one by one? Card 18. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important.",
+      "title": "Tuna Stall Grid in GenSan",
+      "text": "A fish vendor at the General Santos City public market organizes their display table in a grid. This helps them count and show their fresh tuna fish. In math, we express this as: Area = 4 units x 3 units = 12 square units. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. Why does a grid layout make it easier for customers to see the fish?",
       "examples": [
         {
           "title": "Example 18",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Area = 4 units x 3 units = 12 square units."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 19",
-      "text": "We can derive the area formula by observing that the total number of tiles is equal to the number of rows multiplied by the number of columns. For a rectangle, this is length multiplied by width. For a square, since all sides are equal, it is side multiplied by side. A fruit vendor at the General Santos City public market uses this multiplication rule to calculate the area of their rectangular tuna display table. How does multiplying the number of rows by columns make finding the area faster than counting each tile one by one? Card 19. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important.",
+      "title": "Finding a Missing Side",
+      "text": "If we know the total area of a rectangle and its width, we can use division to find its missing length. We divide the area by the width. In math, we express this as: Length = Area / Width. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. Multiplying rows by columns gives the exact number of squares without counting them individually. If the area is 24 and the width is 4, what is the length?",
       "examples": [
         {
           "title": "Example 19",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Length = Area / Width."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 20",
-      "text": "We can derive the area formula by observing that the total number of tiles is equal to the number of rows multiplied by the number of columns. For a rectangle, this is length multiplied by width. For a square, since all sides are equal, it is side multiplied by side. A fruit vendor at the General Santos City public market uses this multiplication rule to calculate the area of their rectangular tuna display table. How does multiplying the number of rows by columns make finding the area faster than counting each tile one by one? Card 20. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important.",
+      "title": "Solving for Missing Side Example",
+      "text": "Let's solve a missing side problem together. A rectangular plot has an area of 20 square units and a width of 4 units. We divide 20 by 4. In math, we express this as: Length = 20 / 4 = 5 units. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. Can you find the width of a rectangle with area 30 and length 6?",
       "examples": [
         {
           "title": "Example 20",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Length = 20 / 4 = 5 units."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 21",
-      "text": "Solving area problems is easy once we understand the grid. We can find the missing side if we know the total area and one side length by dividing the area by the known side. Practice using both counting grids and formulas to master these area calculations. Workers building a community center in Tupi use these area formulas to calculate how many square floor tiles they need to order. How can understanding area formulas help builders and decorators save time and materials in their daily work? Summary slide 21. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation.",
+      "title": "Comparing Rectangular Areas",
+      "text": "We can compare the areas of two different shapes to see which one covers more space. We calculate the area of both and compare the final numbers. In math, we express this as: Area A = 12 units, Area B = 15 units. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. Multiplying rows by columns gives the exact number of squares without counting them individually. Which is larger: a 4x4 square or a 5x3 rectangle?",
       "examples": [
         {
           "title": "Example 21",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Area A = 12 units, Area B = 15 units."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 22",
-      "text": "Solving area problems is easy once we understand the grid. We can find the missing side if we know the total area and one side length by dividing the area by the known side. Practice using both counting grids and formulas to master these area calculations. Workers building a community center in Tupi use these area formulas to calculate how many square floor tiles they need to order. How can understanding area formulas help builders and decorators save time and materials in their daily work? Summary slide 22. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation.",
+      "title": "Combined Grid Areas",
+      "text": "To find the area of a large shape made of two smaller grids, we calculate the area of each grid separately and then add the two numbers together. In math, we express this as: Total Area = Area 1 + Area 2. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. If we join a 3x3 grid and a 4x2 grid, what is total area?",
       "examples": [
         {
           "title": "Example 22",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Total Area = Area 1 + Area 2."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 23",
-      "text": "Solving area problems is easy once we understand the grid. We can find the missing side if we know the total area and one side length by dividing the area by the known side. Practice using both counting grids and formulas to master these area calculations. Workers building a community center in Tupi use these area formulas to calculate how many square floor tiles they need to order. How can understanding area formulas help builders and decorators save time and materials in their daily work? Summary slide 23. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation.",
+      "title": "Common Error: Overlapping Tiles",
+      "text": "A common mistake when measuring area is letting the tiles overlap. This makes our count too small because some space is covered twice by the same tiles. In math, we express this as: Overlap = Incorrect area measurement. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. Multiplying rows by columns gives the exact number of squares without counting them individually. How can we make sure our tiles do not overlap when measuring?",
       "examples": [
         {
           "title": "Example 23",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Overlap = Incorrect area measurement."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 24",
-      "text": "Solving area problems is easy once we understand the grid. We can find the missing side if we know the total area and one side length by dividing the area by the known side. Practice using both counting grids and formulas to master these area calculations. Workers building a community center in Tupi use these area formulas to calculate how many square floor tiles they need to order. How can understanding area formulas help builders and decorators save time and materials in their daily work? Summary slide 24. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation.",
+      "title": "Common Error: Leaving Gaps",
+      "text": "Another mistake is leaving gaps between tiles. Gaps make our area measurement inaccurate because we are not counting the empty space between the tiles. In math, we express this as: Gaps = Empty spaces in measurement. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. Multiplying rows by columns gives the exact number of squares without counting them individually. Why must tiles touch edge-to-edge to give a true area measurement?",
       "examples": [
         {
           "title": "Example 24",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Gaps = Empty spaces in measurement."
         }
       ]
     },
     {
-      "title": "Area Concept Slide 25",
-      "text": "Solving area problems is easy once we understand the grid. We can find the missing side if we know the total area and one side length by dividing the area by the known side. Practice using both counting grids and formulas to master these area calculations. Workers building a community center in Tupi use these area formulas to calculate how many square floor tiles they need to order. How can understanding area formulas help builders and decorators save time and materials in their daily work? Summary slide 25. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation.",
+      "title": "Review of Area Concepts",
+      "text": "Let's summarize what we learned. Area measures covered flat space. We cover shapes with square tiles, count them, or use the multiplication formula: Area equals Length times Width. In math, we express this as: Area = space covered on a flat surface. Let's learn and master this key mathematical concept. A square tile has equal sides, which makes it the standard base for measuring flat spaces. We must make sure that every tile lies flat and touches the edges of the neighboring tiles. Counting each unit one by one is simple, but multiplication makes the process much faster. The total area is directly related to the length and width of the covering grid. How will you explain the concept of area to a friend today?",
       "examples": [
         {
           "title": "Example 25",
-          "content": "A rectangle has 4 rows and 5 columns of tiles. Total area = 4 multiplied by 5 = 20 square tile units."
+          "content": "Review standard details: Area = space covered on a flat surface."
         }
       ]
     }
