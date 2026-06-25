@@ -39,6 +39,11 @@ cp -r "${WORKSPACE_DIR}/data" "${ASSETS_DIR}/"
 cp -r "${WORKSPACE_DIR}/images" "${ASSETS_DIR}/"
 cp -r "${WORKSPACE_DIR}/Worksheets" "${ASSETS_DIR}/"
 
+# Exclude large weekly images from the APK assets to reduce packaged APK size (fetched from GitHub instead)
+echo "=== Excluding weekly images from APK assets ==="
+find "${ASSETS_DIR}/images" -type f ! -name "mascot_*" -delete
+rm -rf "${ASSETS_DIR}/images/nanobanana"
+
 echo "=== Injecting Build Info into app.js asset ==="
 sed -i "s/__APP_BUILD_VERSION__/${BUILD_VERSION}/g" "${ASSETS_DIR}/app.js"
 sed -i "s/__APP_BUILD_DATE__/${BUILD_DATE_FULL}/g" "${ASSETS_DIR}/app.js"

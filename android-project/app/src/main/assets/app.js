@@ -1429,8 +1429,15 @@ function getImageSrc(imagePath) {
   if (cachedDataURL) {
     return cachedDataURL;
   }
-  return imagePath;
+  
+  // If it's a mascot UI image or the app icon, load it locally from assets.
+  // Otherwise, fall back to fetching it from GitHub raw contents to reduce APK size.
+  if (filename.startsWith('mascot_') || filename === 'icon.png') {
+    return imagePath;
+  }
+  return `${REMOTE_UPDATE_URL}/images/${filename}`;
 }
+
 
 // Function to check online updates from the GitHub repository (Option B)
 function checkWeeklyUpdates() {
@@ -1940,7 +1947,7 @@ function renderStudySlide(subjectData, qBody) {
     imageHTML = `
       <div class="slide-image-container-wrapper" style="display: flex; flex-direction: column; align-items: center; gap: 8px; width: 100%;">
         <div class="slide-image-container">
-          <img src="${getImageSrc(slide.image)}" alt="${slide.title}" class="slide-image" id="study-slide-img" style="max-height: ${currentMaxHeight}; width: auto; transition: max-height 0.2s ease;">
+          <img src="${getImageSrc(slide.image)}" alt="${slide.title}" class="slide-image" id="study-slide-img" style="max-height: ${currentMaxHeight}; width: 100%; height: auto; object-fit: contain; transition: max-height 0.2s ease;">
         </div>
         <div class="image-zoom-toolbar" style="display: flex; justify-content: center; gap: 8px; margin-bottom: 15px;">
           <button class="ws-btn-action" onclick="zoomStudyImage(-0.25)">➖ Zoom Out</button>
@@ -6907,7 +6914,7 @@ function removeProfilePic() {
 // ==========================================================================
 // APP VERSION, BUILD INFO & CHANGELOG TIMELINE
 // ==========================================================================
-const RAW_APP_VERSION = "v26.06.25.1234";
+const RAW_APP_VERSION = "v26.06.25.1325";
 const RAW_BUILD_DATE = "June 25, 2026";
 
 function isPlaceholder(val) {
