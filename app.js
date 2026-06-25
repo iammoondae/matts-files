@@ -1945,9 +1945,9 @@ function renderStudySlide(subjectData, qBody) {
     // Determine the active display style for the zoomed state
     const currentMaxHeight = `${250 * studyImageScale}px`;
     imageHTML = `
-      <div class="slide-image-container-wrapper" style="display: flex; flex-direction: column; align-items: center; gap: 8px; width: 100%;">
+      <div class="slide-image-container-wrapper" style="display: flex; flex-direction: column; align-items: center; gap: 8px; width: 100%; max-width: 100%;">
         <div class="slide-image-container">
-          <img src="${getImageSrc(slide.image)}" alt="${slide.title}" class="slide-image" id="study-slide-img" style="max-height: ${currentMaxHeight}; width: 100%; height: auto; object-fit: contain; transition: max-height 0.2s ease;">
+          <img src="${getImageSrc(slide.image)}" alt="${slide.title}" class="slide-image" id="study-slide-img" style="max-height: ${currentMaxHeight}; max-width: 100%; height: auto; object-fit: contain; transition: max-height 0.2s ease;">
         </div>
         <div class="image-zoom-toolbar" style="display: flex; justify-content: center; gap: 8px; margin-bottom: 15px;">
           <button class="ws-btn-action" onclick="zoomStudyImage(-0.25)">➖ Zoom Out</button>

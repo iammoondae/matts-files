@@ -305,6 +305,8 @@ main.content {
   padding: 24px;
   height: 100vh;
   overflow-y: auto;
+  min-width: 0;
+  max-width: 100%;
 }
 
 .top-controls {
@@ -423,6 +425,8 @@ main.content {
   padding: 32px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
   overflow-y: auto;
+  min-width: 0;
+  max-width: 100%;
 }
 
 .progress-container {
@@ -459,6 +463,8 @@ main.content {
   flex-direction: column;
   justify-content: center;
   animation: fadeIn 0.4s ease;
+  min-width: 0;
+  max-width: 100%;
 }
 
 .viewport-body h2 {
@@ -1485,15 +1491,15 @@ body.light-mode .priority-item {
 
 /* Slide Images */
 .slide-image-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 15px 0 20px 0;
+  display: block;
+  text-align: center;
+  margin: 15px auto 20px auto;
   width: 100%;
+  max-width: 100%;
 }
 
 .slide-image {
-  width: 100%;
+  display: inline-block;
   max-width: 100%;
   height: auto;
   max-height: 250px;
@@ -3160,10 +3166,12 @@ body:not(.light-mode) .settings-btn-about:hover {
 /* Slide Transitions */
 .slide-flip-container {
   width: 100%;
+  max-width: 100%;
   overflow: hidden;
 }
 .slide-card-inner {
   width: 100%;
+  max-width: 100%;
 }
 .slide-card-inner p {
   white-space: pre-line;
