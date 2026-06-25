@@ -45,6 +45,11 @@ function stripStoryPrefix(title) {
   return title.replace(/^(Short Story:|Story:|PERFORMANCE TASK:)\s*/i, '').trim();
 }
 
+function stripHtmlTagsAndQuotes(text) {
+  if (!text) return '';
+  return text.replace(/<[^>]*>/g, '').replace(/"/g, '&quot;').trim();
+}
+
 const PARENT_LEARNER_ACTIVITIES = [
   {
     title: "Everyday Material Tinkering Log",
@@ -1947,7 +1952,7 @@ function renderStudySlide(subjectData, qBody) {
     imageHTML = `
       <div class="slide-image-container-wrapper" style="display: flex; flex-direction: column; align-items: center; gap: 8px; width: 100%; max-width: 100%;">
         <div class="slide-image-container">
-          <img src="${getImageSrc(slide.image)}" alt="${slide.title}" class="slide-image" id="study-slide-img" style="max-height: ${currentMaxHeight}; max-width: 100%; width: auto; height: auto; object-fit: contain; transition: max-height 0.2s ease;">
+          <img src="${getImageSrc(slide.image)}" alt="${stripHtmlTagsAndQuotes(slide.title)}" class="slide-image" id="study-slide-img" style="max-height: ${currentMaxHeight}; max-width: 100%; width: auto; height: auto; object-fit: contain; transition: max-height 0.2s ease;">
         </div>
         <div class="image-zoom-toolbar" style="display: flex; justify-content: center; gap: 8px; margin-bottom: 15px;">
           <button class="ws-btn-action" onclick="zoomStudyImage(-0.25)">➖ Zoom Out</button>
@@ -6914,7 +6919,7 @@ function removeProfilePic() {
 // ==========================================================================
 // APP VERSION, BUILD INFO & CHANGELOG TIMELINE
 // ==========================================================================
-const RAW_APP_VERSION = "v26.06.25.1401";
+const RAW_APP_VERSION = "v26.06.25.1412";
 const RAW_BUILD_DATE = "June 25, 2026";
 
 function isPlaceholder(val) {
