@@ -471,4 +471,17 @@ We have successfully resolved all stability issues, implemented the Welcome Dash
 3. **Database Recompilation and Quality Gate Validation**:
     - Recompiled all weekly JSON databases and verified that the database validation Quality Gate [validate_db.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/validate_db.py) reports a clean **PASS** status with zero errors.
 
+### 🌐 APK Size Optimization & Slide Image Layout Fit (June 25, 2026 - Part 7):
+1. **GitHub Dynamic Remote Image Loading**:
+    - Excluded large weekly illustration images (such as the 30 high-resolution Nano Banana diagrams) from the compiled APK assets, moving them to be fetched dynamically from the GitHub raw repository: `${REMOTE_UPDATE_URL}/images/${filename}`.
+    - Preserved key UI assets like the mascot (`mascot_owl_*.png`) and the default profile image (`icon.png`) locally inside the APK assets for instant local rendering.
+    - Configured the image retriever helper `getImageSrc` in [app.js](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/app.js) to resolve to local cached data first, and fall back to fetching from the remote GitHub raw URL if not cached.
+2. **Study Guide Slide Image Layout Fix**:
+    - Fixed responsive image container sizing inside `renderStudySlide` in [app.js](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/app.js) by setting explicit inline styling attributes: `width: 100%; height: auto; object-fit: contain;`.
+    - Added CSS style declarations for `.slide-image` in [index.css](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/index.css) specifying `width: 100%` and `height: auto`, which prevents images from overflowing slide boundaries or stretching vertically in modern WebView flexboxes.
+3. **Lightweight APK Compilation**:
+    - Modified [build_apk.sh](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/build_apk.sh) to clean out large weekly images and the `nanobanana` subfolder from local build assets prior to triggering the Gradle debug build.
+    - Compiled `Matteo's Learning Hub v26.06.25.1325.apk` (20MB), reducing the package size from **418MB** (down by 95%).
+    - Automatically committed and successfully pushed all update changes to GitHub main branch.
+
 
