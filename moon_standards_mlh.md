@@ -122,6 +122,7 @@ To ensure complete and error-free content delivery, the database validation comp
 * **Bilingual Translation Density**: The `filipino`, `makabansa`, and `gmrc` databases must contain a minimum of 20 `data-translation` spans per week to ensure comprehensive English-Filipino bilingual support.
 * **Quiz/Challenge Answer Fields**: Every quiz and challenge question must contain a valid, non-empty `"answer"` value matching its correct option/choice index or text input.
 * **Forbidden 'Advanced' Remarks & Prefix Placeholders**: Subject titles, subtitles, individual slide titles, slide texts, and all example fields (titles and contents) must never include brackets/suffix remarks like `(Advanced)` or `[Advanced]` (case-insensitive). They are also strictly prohibited from containing prefix placeholders such as `Advanced math:`, `Advanced science:`, `Advanced english:`, `Advanced filipino:`, `Advanced makabansa:`, `Advanced gmrc:`, `Advanced analysis:`, or `Advanced analysis is required:` (case-insensitive). All content must remain clean, student-facing, and fully integrated.
+* **Professional Diagram Images**: Each subject-week in all Grade 3 databases must contain between 3 and 5 unique educational images referenced in its slides, and all referenced image files must exist on disk in the `images/` directory. All images must be professional, clear, vector-style diagrams, schematics, or charts (non-cartoonish) that support learning.
 
 ---
 

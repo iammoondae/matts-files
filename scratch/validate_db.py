@@ -89,6 +89,7 @@ def validate_week_file(file_path):
                         return f"forbidden prefix '{match.group(0)}'"
                     return None
 
+                referenced_images = set()
                 for idx, slide in enumerate(slides):
                     slide_title = slide.get('title', '')
                     slide_text = slide.get('text', '')
@@ -115,6 +116,15 @@ def validate_week_file(file_path):
                         if err_ex_content:
                             errors.append(f"{name} subject '{sub}' slide {idx + 1} example {ex_idx + 1} content '{ex_content}' {err_ex_content}.")
                     
+                    # Check slide image presence on disk
+                    img_path = slide.get('image')
+                    if img_path:
+                        referenced_images.add(img_path)
+                        img_filename = os.path.basename(img_path)
+                        img_file_abs = os.path.join(os.path.dirname(base_dir), "images", img_filename)
+                        if not os.path.exists(img_file_abs):
+                            errors.append(f"{name} subject '{sub}' slide {idx + 1} ('{slide_title}') references missing image file '{img_filename}' at '{img_file_abs}'.")
+                    
                     if is_g3:
                         # Calculate visible words by stripping HTML tags
                         visible_text = re.sub(r'<[^>]+>', ' ', slide_text)
@@ -124,6 +134,10 @@ def validate_week_file(file_path):
                             errors.append(f"{name} subject '{sub}' slide {idx + 1} ('{slide_title}') has {word_count} words (expected 125-150 words).")
                         if '\n' in slide_text:
                             errors.append(f"{name} subject '{sub}' slide {idx + 1} ('{slide_title}') contains newlines.")
+
+                if is_g3:
+                    if len(referenced_images) < 3 or len(referenced_images) > 5:
+                        errors.append(f"{name} subject '{sub}' has {len(referenced_images)} unique images (expected between 3 and 5 images per subject per week, got: {list(referenced_images)}).")
 
             # Forbidden "Advanced" remarks check in subject titles and subtitles
             sub_title = sub_data.get('title', '')

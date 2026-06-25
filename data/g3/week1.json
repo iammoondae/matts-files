@@ -44,8 +44,7 @@
               "title": "Example 4",
               "content": "Review standard details: Grid = Rows x Columns."
             }
-          ],
-          "image": "images/area_grid_5x4.png"
+          ]
         },
         {
           "title": "Counting Tiles by Rows",
@@ -55,7 +54,8 @@
               "title": "Example 5",
               "content": "Review standard details: Total = 4 + 4 + 4 + 4 = 16."
             }
-          ]
+          ],
+          "image": "images/math_w1_img1.png"
         },
         {
           "title": "Counting Tiles by Columns",
@@ -75,8 +75,7 @@
               "title": "Example 7",
               "content": "Review standard details: Area = 3 rows x 4 columns = 12 tiles."
             }
-          ],
-          "image": "images/area_grid_5x4.png"
+          ]
         },
         {
           "title": "Area of a Grid Square",
@@ -126,7 +125,8 @@
               "title": "Example 12",
               "content": "Review standard details: Length = long side, Width = short side."
             }
-          ]
+          ],
+          "image": "images/math_w1_img2.png"
         },
         {
           "title": "Calculating Rectangle Area",
@@ -136,8 +136,7 @@
               "title": "Example 13",
               "content": "Review standard details: Area = 6 units x 4 units = 24 square units."
             }
-          ],
-          "image": "images/area_grid_5x4.png"
+          ]
         },
         {
           "title": "The Square Area Formula",
@@ -197,7 +196,8 @@
               "title": "Example 19",
               "content": "Review standard details: Length = Area / Width."
             }
-          ]
+          ],
+          "image": "images/math_w1_img3.png"
         },
         {
           "title": "Solving for Missing Side Example",
@@ -666,7 +666,8 @@
               "title": "Animal Fact",
               "content": "Fish have gills to breathe oxygen underwater while swimming."
             }
-          ]
+          ],
+          "image": "images/science_w1_img1.png"
         },
         {
           "title": "Water Around Us",
@@ -736,7 +737,8 @@
               "title": "Soil Types",
               "content": "Loam is the best soil for growing healthy garden vegetables."
             }
-          ]
+          ],
+          "image": "images/science_w1_img2.png"
         },
         {
           "title": "Day and Night",
@@ -806,7 +808,8 @@
               "title": "Fact Check",
               "content": "Factual: 'Water boils at 100 degrees Celsius.'"
             }
-          ]
+          ],
+          "image": "images/science_w1_img3.png"
         },
         {
           "title": "Guided Practice: Cooking Science",
@@ -1267,7 +1270,8 @@
               "title": "Spelling",
               "content": "p - i - n - k"
             }
-          ]
+          ],
+          "image": "images/english_w1_img1.png"
         },
         {
           "title": "Phonics Hunt: Keeping Active",
@@ -1337,7 +1341,8 @@
               "title": "Rule",
               "content": "Always start with a capital letter and end with a period."
             }
-          ]
+          ],
+          "image": "images/english_w1_img2.png"
         },
         {
           "title": "Declarative: Spotting the Parts",
@@ -1415,7 +1420,8 @@
               "title": "Observation",
               "content": "Pointing to sand near your feet: 'This is wet sand.'"
             }
-          ]
+          ],
+          "image": "images/english_w1_img3.png"
         },
         {
           "title": "Science Connection: The Pink Fish",
@@ -1886,7 +1892,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Remember\">Tandaan</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Special = Capital letter\">Pantangi = Malaking titik (Capital letter)</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w1_img1.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"The Home and Community\">Ang Tahanan at Komunidad</span>",
@@ -1956,7 +1963,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Shopping\">Pamimili</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"store (store - pambalana), Rustan&#x27;s Supermarket (proper)\">tindahan (store - pambalana), Rustan's Supermarket (proper)</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w1_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Entertainment Areas\">Mga Lugar ng Libangan</span>",
@@ -2026,7 +2034,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Training\">Pagsasanay</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"City of Baguio (proper noun - place)\">Lungsod ng Baguio (proper noun - place)</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w1_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Exercise: Right or Wrong?\">Pagsasanay: Tama o Mali?</span>",
@@ -2489,7 +2498,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Element: Time\">Elemento: Panahon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"years, dates, centuries\">mga taon (years), petsa (dates), mga siglo (centuries)</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w1_img1.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"The Element: Event\">Ang Elemento: Pangyayari</span>",
@@ -2559,7 +2569,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Mouth to mouth\">Saling-bibig</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Grandparents&#x27; stories about the past.\">Mga kwento ng lolo at lola tungkol sa nakaraan.</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w1_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Community Symbols\">Mga Simbolo sa Komunidad</span>",
@@ -2629,7 +2640,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Logo Analysis\">Pagsusuri ng Logo</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"fish and nets -&gt; fishing livelihood\">isda at lambat -> kabuhayan sa pangingisda (fishing)</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w1_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Misidentifying the Past\">Maling Pagtukoy sa Nakaraan</span>",
@@ -3092,7 +3104,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Acceptance\">Pagtanggap</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Show off your own prowess without hesitation.\">Ipagmalaki ang sariling galing nang walang pag-aalinlangan.</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w1_img1.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Training and Development\">Ang Pagsasanay at Pag-unlad</span>",
@@ -3162,7 +3175,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Thought Error\">Kaisipan Error</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"wrong: I&#x27;m not good -&gt; right: I will practice to learn\">mali: wala akong galing -> tama: mag-eensayo ako upang matuto</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w1_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"False Boasting of Talent\">Maling Pagyayabang ng Talento</span>",
@@ -3232,7 +3246,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Exercise 5\">Pagsasanay 5</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Share what you learned in the lesson with your family today.\">Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon.</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w1_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Training 6\">Karagdagang Pagsasanay 6</span>",
@@ -3904,8 +3919,7 @@
               "title": "Example 4",
               "content": "Review standard details: Grid = Rows x Columns."
             }
-          ],
-          "image": "images/area_grid_5x4.png"
+          ]
         },
         {
           "title": "Counting Tiles by Rows",
@@ -3915,7 +3929,8 @@
               "title": "Example 5",
               "content": "Review standard details: Total = 4 + 4 + 4 + 4 = 16."
             }
-          ]
+          ],
+          "image": "images/math_w1_img1.png"
         },
         {
           "title": "Counting Tiles by Columns",
@@ -3935,8 +3950,7 @@
               "title": "Example 7",
               "content": "Review standard details: Area = 3 rows x 4 columns = 12 tiles."
             }
-          ],
-          "image": "images/area_grid_5x4.png"
+          ]
         },
         {
           "title": "Area of a Grid Square",
@@ -3986,7 +4000,8 @@
               "title": "Example 12",
               "content": "Review standard details: Length = long side, Width = short side."
             }
-          ]
+          ],
+          "image": "images/math_w1_img2.png"
         },
         {
           "title": "Calculating Rectangle Area",
@@ -3996,8 +4011,7 @@
               "title": "Example 13",
               "content": "Review standard details: Area = 6 units x 4 units = 24 square units."
             }
-          ],
-          "image": "images/area_grid_5x4.png"
+          ]
         },
         {
           "title": "The Square Area Formula",
@@ -4057,7 +4071,8 @@
               "title": "Example 19",
               "content": "Review standard details: Length = Area / Width."
             }
-          ]
+          ],
+          "image": "images/math_w1_img3.png"
         },
         {
           "title": "Solving for Missing Side Example",
@@ -4546,7 +4561,8 @@
               "title": "Tropism",
               "content": "Growth response towards an external stimulus, such as phototropism (light)."
             }
-          ]
+          ],
+          "image": "images/science_w1_img1.png"
         },
         {
           "title": "Zoological Classification",
@@ -4644,7 +4660,8 @@
               "title": "Streamlining",
               "content": "Shapes that cut through air easily, like airplanes or birds."
             }
-          ]
+          ],
+          "image": "images/science_w1_img2.png"
         },
         {
           "title": "Pedology: Soil Composition",
@@ -4742,7 +4759,8 @@
               "title": "Hypothesis",
               "content": "If water contains salt, then iron will rust at a faster rate."
             }
-          ]
+          ],
+          "image": "images/science_w1_img3.png"
         },
         {
           "title": "Guided Practice: Variables",
@@ -5247,7 +5265,8 @@
               "title": "HOTS Challenge",
               "content": "How would you apply this linguistic pattern to create a complex sentence?"
             }
-          ]
+          ],
+          "image": "images/english_w1_img1.png"
         },
         {
           "title": "Phonics Hunt: Keeping Active",
@@ -5345,7 +5364,8 @@
               "title": "HOTS Challenge",
               "content": "How would you apply this linguistic pattern to create a complex sentence?"
             }
-          ]
+          ],
+          "image": "images/english_w1_img2.png"
         },
         {
           "title": "Declarative: Spotting the Parts",
@@ -5451,7 +5471,8 @@
               "title": "HOTS Challenge",
               "content": "How would you apply this linguistic pattern to create a complex sentence?"
             }
-          ]
+          ],
+          "image": "images/english_w1_img3.png"
         },
         {
           "title": "Science Connection: The Pink Fish",
@@ -5966,7 +5987,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w1_img1.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"The Home and Community\">Ang Tahanan at Komunidad</span>",
@@ -6064,7 +6086,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w1_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Entertainment Areas\">Mga Lugar ng Libangan</span>",
@@ -6162,7 +6185,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w1_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Exercise: Right or Wrong?\">Pagsasanay: Tama o Mali?</span>",
@@ -6669,7 +6693,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w1_img1.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"The Element: Event\">Ang Elemento: Pangyayari</span>",
@@ -6767,7 +6792,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w1_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Community Symbols\">Mga Simbolo sa Komunidad</span>",
@@ -6865,7 +6891,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w1_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Misidentifying the Past\">Maling Pagtukoy sa Nakaraan</span>",
@@ -7372,7 +7399,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w1_img1.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Training and Development\">Ang Pagsasanay at Pag-unlad</span>",
@@ -7470,7 +7498,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w1_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"False Boasting of Talent\">Maling Pagyayabang ng Talento</span>",
@@ -7568,7 +7597,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w1_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Training 6\">Karagdagang Pagsasanay 6</span>",

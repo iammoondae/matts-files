@@ -24,8 +24,7 @@
               "title": "Example 2",
               "content": "Review standard details: Parallel lines = never meet, constant distance."
             }
-          ],
-          "image": "images/line_relationships.png"
+          ]
         },
         {
           "title": "Parallel Lines in Daily Life",
@@ -56,7 +55,7 @@
               "content": "Review standard details: Intersecting lines = cross at a single point."
             }
           ],
-          "image": "images/line_relationships.png"
+          "image": "images/math_w3_img1.png"
         },
         {
           "title": "Finding Intersecting Lines",
@@ -76,8 +75,7 @@
               "title": "Example 7",
               "content": "Review standard details: Perpendicular lines = cross at a right angle."
             }
-          ],
-          "image": "images/line_relationships.png"
+          ]
         },
         {
           "title": "Understanding the Right Angle",
@@ -127,7 +125,8 @@
               "title": "Example 12",
               "content": "Review standard details: Drawing square corner angles."
             }
-          ]
+          ],
+          "image": "images/math_w3_img2.png"
         },
         {
           "title": "Drawing Intersecting Lines",
@@ -197,7 +196,8 @@
               "title": "Example 19",
               "content": "Review standard details: Letter lines = parallel, intersecting, perpendicular."
             }
-          ]
+          ],
+          "image": "images/math_w3_img3.png"
         },
         {
           "title": "Mount Matutum Trail Maps",
@@ -666,7 +666,8 @@
               "title": "Balloon",
               "content": "Using inflated balloons to push lightweight toy carts forward."
             }
-          ]
+          ],
+          "image": "images/science_w3_img1.png"
         },
         {
           "title": "Modeling Clay and Force",
@@ -736,7 +737,8 @@
               "title": "Accuracy",
               "content": "Avoiding parallax error by looking straight down at marks."
             }
-          ]
+          ],
+          "image": "images/science_w3_img2.png"
         },
         {
           "title": "Magnifying Soil Grains",
@@ -806,7 +808,8 @@
               "title": "Focusing",
               "content": "Moving the leaf slowly back and forth to find focus."
             }
-          ]
+          ],
+          "image": "images/science_w3_img3.png"
         },
         {
           "title": "Guided Practice: Safe Cutting",
@@ -1267,7 +1270,8 @@
               "title": "Spelling",
               "content": "t - u - l - i - p"
             }
-          ]
+          ],
+          "image": "images/english_w3_img1.png"
         },
         {
           "title": "Phonics Hunt: Making Music",
@@ -1341,7 +1345,8 @@
               "title": "Command",
               "content": "Stand up."
             }
-          ]
+          ],
+          "image": "images/english_w3_img2.png"
         },
         {
           "title": "Punctuation in Imperatives",
@@ -1419,7 +1424,8 @@
               "title": "Suffixes",
               "content": "Words often end in suffixes like -ing, -er, -ly, -s."
             }
-          ]
+          ],
+          "image": "images/english_w3_img3.png"
         },
         {
           "title": "Science Connection: Insect Observations",
@@ -1888,7 +1894,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Pamatal (Nearby)\">Pamatlig (Malapit)</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"this (this - held or close to the speaker)\">ito (this - hawak o malapit sa nagsasalita)</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w3_img1.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Adverbial Pronoun: That\">Panghalip Pamatlig: Iyan</span>",
@@ -1958,7 +1965,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Support Error\">Pamatlig Error</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"wrong: this star -&gt; right: that star\">mali: bituin na ito -> tama: bituin na iyon</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w3_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Misuse of Manner\">Maling Paggamit ng Panao</span>",
@@ -2028,7 +2036,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Exercise 5\">Pagsasanay 5</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Share what you learned in the lesson with your family today.\">Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon.</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w3_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Training 6\">Karagdagang Pagsasanay 6</span>",
@@ -2491,7 +2500,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Pineapple Festival\">Pista ng Pinya</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Celebration of Formosa pineapple as the main crop.\">Pagdiriwang ng Formosa pinya bilang pangunahing ani.</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w3_img1.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Local Arts and Crafts\">Mga Lokal na Sining at Kagamitan</span>",
@@ -2561,7 +2571,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Date Error\">Petsa Error</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"wrong: Jewel -&gt; December 25, right: Jewel -&gt; May 15\">mali: Pahiyas -> Disyembre 25, tama: Pahiyas -> Mayo 15</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w3_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Dance Misrepresentation\">Maling Paglalarawan ng Sayaw</span>",
@@ -2631,7 +2642,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Exercise 5\">Pagsasanay 5</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Share what you learned in the lesson with your family today.\">Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon.</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w3_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Training 6\">Karagdagang Pagsasanay 6</span>",
@@ -3094,7 +3106,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Consume Food\">Ubusin ang Pagkain</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Take only enough to avoid wastage.\">Kumuha lamang ng sapat upang maiwasan ang pagsasayang.</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w3_img1.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Saving Electricity\">Ang Pagtitipid sa Kuryente</span>",
@@ -3164,7 +3177,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Water Error\">Tubig Error</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"wrong: let the faucet run -&gt; right: close the faucet when done\">mali: hayaang tumulo ang gripo -> tama: isara ang gripo kapag tapos na</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w3_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Wrongly Buying Unnecessary\">Maling Pagbili ng Hindi Kailangan</span>",
@@ -3234,7 +3248,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Exercise 5\">Pagsasanay 5</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Share what you learned in the lesson with your family today.\">Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon.</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w3_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Training 6\">Karagdagang Pagsasanay 6</span>",
@@ -3886,8 +3901,7 @@
               "title": "Example 2",
               "content": "Review standard details: Parallel lines = never meet, constant distance."
             }
-          ],
-          "image": "images/line_relationships.png"
+          ]
         },
         {
           "title": "Parallel Lines in Daily Life",
@@ -3918,7 +3932,7 @@
               "content": "Review standard details: Intersecting lines = cross at a single point."
             }
           ],
-          "image": "images/line_relationships.png"
+          "image": "images/math_w3_img1.png"
         },
         {
           "title": "Finding Intersecting Lines",
@@ -3938,8 +3952,7 @@
               "title": "Example 7",
               "content": "Review standard details: Perpendicular lines = cross at a right angle."
             }
-          ],
-          "image": "images/line_relationships.png"
+          ]
         },
         {
           "title": "Understanding the Right Angle",
@@ -3989,7 +4002,8 @@
               "title": "Example 12",
               "content": "Review standard details: Drawing square corner angles."
             }
-          ]
+          ],
+          "image": "images/math_w3_img2.png"
         },
         {
           "title": "Drawing Intersecting Lines",
@@ -4059,7 +4073,8 @@
               "title": "Example 19",
               "content": "Review standard details: Letter lines = parallel, intersecting, perpendicular."
             }
-          ]
+          ],
+          "image": "images/math_w3_img3.png"
         },
         {
           "title": "Mount Matutum Trail Maps",
@@ -4548,7 +4563,8 @@
               "title": "Fine Adjustment",
               "content": "Sharpening the focus detail under high magnification power."
             }
-          ]
+          ],
+          "image": "images/science_w3_img1.png"
         },
         {
           "title": "Advanced Tool: Spring Scale",
@@ -4646,7 +4662,8 @@
               "title": "Scale",
               "content": "Readings at the point where the liquid surface cuts the hydrometer stem."
             }
-          ]
+          ],
+          "image": "images/science_w3_img2.png"
         },
         {
           "title": "Advanced Tool: Barometer",
@@ -4744,7 +4761,8 @@
               "title": "pH Calibration",
               "content": "Dip probe in neutral buffer, select calibrate, then wash with distilled water."
             }
-          ]
+          ],
+          "image": "images/science_w3_img3.png"
         },
         {
           "title": "Guided Practice: Reading Meniscus",
@@ -5253,7 +5271,8 @@
               "title": "-mp Sentences",
               "content": "Turn off the 'lamp' before you 'jump' into bed."
             }
-          ]
+          ],
+          "image": "images/english_w3_img1.png"
         },
         {
           "title": "Common Final Blends: -st and -ft",
@@ -5335,7 +5354,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Practice 4\">Pagsasanay 4</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Share what you have learned from the lesson with your family today.\">Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon.</span>"
             }
-          ]
+          ],
+          "image": "images/english_w3_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Practice 5\">Karagdagang Pagsasanay 5</span>",
@@ -5405,7 +5425,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Practice 11\">Pagsasanay 11</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Share what you have learned from the lesson with your family today.\">Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon.</span>"
             }
-          ]
+          ],
+          "image": "images/english_w3_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Practice 12\">Karagdagang Pagsasanay 12</span>",
@@ -5882,7 +5903,8 @@
               "title": "Kasukdulan (Climax)",
               "content": "<span class=\"fil-sentence\" data-translation=\"The turning point or most exciting part. Example: Rabbit escaping.\">Ang pinakapananabik na bahagi kung malulutas ba ang problema.</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w3_img1.png"
         },
         {
           "title": "Pagsusuri ng Katotohanan at Opinyon",
@@ -5956,7 +5978,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Practice 6\">Pagsasanay 6</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Share what you have learned from the lesson with your family today.\">Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon.</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w3_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Practice 7\">Karagdagang Pagsasanay 7</span>",
@@ -6026,7 +6049,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Practice 13\">Pagsasanay 13</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Share what you have learned from the lesson with your family today.\">Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon.</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w3_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Practice 14\">Karagdagang Pagsasanay 14</span>",
@@ -6503,7 +6527,8 @@
               "title": "Klimang Tropikal",
               "content": "<span class=\"fil-sentence\" data-translation=\"The tropical climate allows agricultural crops to grow all year round.\">Ang klimang tropikal ay nagbibigay-daan sa pagtatanim sa buong taon.</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w3_img1.png"
         },
         {
           "title": "Katutubong Musika at Sayaw sa Luzon",
@@ -6585,7 +6610,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Practice 4\">Pagsasanay 4</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Share what you have learned from the lesson with your family today.\">Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon.</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w3_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Practice 5\">Karagdagang Pagsasanay 5</span>",
@@ -6655,7 +6681,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Practice 11\">Pagsasanay 11</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Share what you have learned from the lesson with your family today.\">Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon.</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w3_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Practice 12\">Karagdagang Pagsasanay 12</span>",
@@ -7132,7 +7159,8 @@
               "title": "Pagtatapon sa Basurahan",
               "content": "<span class=\"fil-sentence\" data-translation=\"Throwing plastic wrappers in the trash bin inside public parks.\">Pagtatapon ng kalat sa tamang basurahan sa mga pampublikong plasa.</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w3_img1.png"
         },
         {
           "title": "Mabuting Mamamayan (Good Citizenship)",
@@ -7206,7 +7234,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Practice 6\">Pagsasanay 6</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Share what you have learned from the lesson with your family today.\">Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon.</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w3_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Practice 7\">Karagdagang Pagsasanay 7</span>",
@@ -7276,7 +7305,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Practice 13\">Pagsasanay 13</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Share what you have learned from the lesson with your family today.\">Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon.</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w3_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Practice 14\">Karagdagang Pagsasanay 14</span>",

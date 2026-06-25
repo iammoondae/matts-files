@@ -393,6 +393,15 @@ for w in range(1, 5):
                             slide["title"] = strip_advanced_remarks(slide["title"])
                         slide["text"] = expand_to_word_count(slide.get("text", ""), slide.get("title", ""), slide.get("examples", []), lang=lang)
                     
+                    # 3. Clear any existing image entries and programmatically inject new images
+                    for slide in sub_data["slides"]:
+                        if "image" in slide:
+                            del slide["image"]
+                    if len(sub_data["slides"]) >= 19:
+                        sub_data["slides"][4]["image"] = f"images/{sub_name}_w{w}_img1.png"
+                        sub_data["slides"][11]["image"] = f"images/{sub_name}_w{w}_img2.png"
+                        sub_data["slides"][18]["image"] = f"images/{sub_name}_w{w}_img3.png"
+                    
     output_data = {
         "core": merged_core,
         "advanced": merged_advanced
@@ -407,7 +416,7 @@ for w in range(1, 5):
 if os.path.exists(os.path.join(BASE_DIR, "scratch", "extract_sources.py")):
     os.remove(os.path.join(BASE_DIR, "scratch", "extract_sources.py"))
 
-# Auto-update Grade 3 manifest.json version
+# Auto-update Grade 3 manifest.json version and image registry
 import datetime
 manifest_path = os.path.join(DATA_DIR, "manifest.json")
 if os.path.exists(manifest_path):
@@ -419,8 +428,25 @@ else:
 now = datetime.datetime.now()
 manifest_data["version"] = now.strftime("%Y.%m.%d.%H%M")
 
+# Compile list of all images for Grade 3
+all_images = []
+existing_images = manifest_data.get("images", [])
+for img in existing_images:
+    if img not in all_images:
+        all_images.append(img)
+        
+for sub in ["math", "science", "english", "filipino", "makabansa", "gmrc"]:
+    for week in [1, 2, 3, 4]:
+        for img_idx in [1, 2, 3]:
+            filename = f"{sub}_w{week}_img{img_idx}.png"
+            if filename not in all_images:
+                all_images.append(filename)
+
+manifest_data["images"] = all_images
+
 with open(manifest_path, "w", encoding="utf-8") as f_m:
     json.dump(manifest_data, f_m, indent=2, ensure_ascii=False)
 print(f"Updated manifest.json version to: {manifest_data['version']}")
 
 print("Grade 3 database compilation finished successfully!")
+

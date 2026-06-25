@@ -404,9 +404,20 @@ We have successfully resolved all stability issues, implemented the Welcome Dash
     - **Progress Reset PIN Gate**: Integrated the Parent PIN gate challenge when clearing student progress via settings in [app.js](file:///app.js) inside `confirmClearAllProgress()`.
 3. **Database Recompilation & Quality Gate Checks**:
     - Recompiled all weekly JSON databases using [generate_g3_all_subjects.py](file:///scratch/generate_g3_all_subjects.py).
-    - Verified that [validate_db.py](file:///scratch/validate_db.py) fully passes with zero errors, satisfying the 125-150 word count rules, no newline boundaries in slide text, and double-confirms worksheet `.ws-answer` configurations.
-4. **Android Package Compilation**:
-    - Compiled the final Android debug package containing the localized South Cotabato weekly database: **[Matteo's Learning Hub v26.06.25.0845.apk](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/Matteo's%20Learning%20Hub%20v26.06.25.0845.apk)**.
+    - Verified that [validate_db.py](file:///scratch/validate_db.py) reports a 100% successful **PASS** status for all Grade 1, 2, and 3 database files.
+
+### 🎨 Grade 3 Advanced Subjects Restructuring & 72 Programmatic Educational Diagrams (June 25, 2026 - Part 5):
+1. **Quality Gate Image Constraints Enforced**:
+    - Updated [validate_db.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/validate_db.py) to check that every Grade 3 subject-week contains between 3 and 5 unique image references and that all referenced image paths exist on disk under `images/`.
+    - Documented these weekly subject-image requirements in Section 5.C of the Moon Standards ([moon_standards_mlh.md](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/moon_standards_mlh.md)).
+2. **72 High-Quality Educational Diagrams**:
+    - Created and ran the programmatic diagram generator script ([generate_all_diagrams.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/generate_all_diagrams.py)), utilizing PIL (Pillow) to draw 72 high-contrast, professional, non-cartoonish educational charts and diagrams (3 images per subject-week for 6 subjects × 4 weeks) and output them directly into `images/`.
+3. **Dynamic Slide Image Injection & Manifest Registry**:
+    - Modified [generate_g3_all_subjects.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/generate_g3_all_subjects.py) to programmatically clear any old images and inject the 3 unique weekly diagrams into slides 5, 12, and 19 for all 6 subjects (Math, Science, English, Filipino, Makabansa, GMRC) in both Core and Advanced datasets.
+    - Updated the manifest update logic in the compiler script to automatically gather and register all 72 generated diagram filenames (e.g., `math_w1_img1.png`, etc.) in the `"images"` array of [manifest.json](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/data/g3/manifest.json) for automatic download and caching.
+4. **Successful Compilation and Validation**:
+    - Ran the compiler script to update all database JSON files.
+    - Ran [validate_db.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/validate_db.py) and confirmed that the entire database Quality Gate validation checks now output a 100% **PASS** status with zero errors.
 
 ### 🌐 Web Browser Compatibility & Update Button Polish (June 25, 2026 - Part 2):
 1. **Resolved Browser Syntax Error**:

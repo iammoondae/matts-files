@@ -24,8 +24,7 @@
               "title": "Example 2",
               "content": "Review standard details: 1 sq. cm = 1 cm x 1 cm."
             }
-          ],
-          "image": "images/geometry_basics.png"
+          ]
         },
         {
           "title": "Measuring in Square Centimeters",
@@ -55,7 +54,8 @@
               "title": "Example 5",
               "content": "Review standard details: Area = 5 m x 4 m = 20 sq. m."
             }
-          ]
+          ],
+          "image": "images/math_w2_img1.png"
         },
         {
           "title": "Estimating Metric Area",
@@ -105,8 +105,7 @@
               "title": "Example 10",
               "content": "Review standard details: Point = exact location in space."
             }
-          ],
-          "image": "images/geometry_basics.png"
+          ]
         },
         {
           "title": "Points in the Real World",
@@ -127,7 +126,7 @@
               "content": "Review standard details: Line = straight path that goes on forever."
             }
           ],
-          "image": "images/geometry_basics.png"
+          "image": "images/math_w2_img2.png"
         },
         {
           "title": "Representing Lines",
@@ -147,8 +146,7 @@
               "title": "Example 14",
               "content": "Review standard details: Segment AB = path between endpoints A and B."
             }
-          ],
-          "image": "images/geometry_basics.png"
+          ]
         },
         {
           "title": "Measuring Line Segments",
@@ -168,8 +166,7 @@
               "title": "Example 16",
               "content": "Review standard details: Ray AB = starts at A, goes forever through B."
             }
-          ],
-          "image": "images/geometry_basics.png"
+          ]
         },
         {
           "title": "Rays in Daily Life",
@@ -199,7 +196,8 @@
               "title": "Example 19",
               "content": "Review standard details: Geometric designs = points and segments."
             }
-          ]
+          ],
+          "image": "images/math_w2_img3.png"
         },
         {
           "title": "City Layout Maps",
@@ -668,7 +666,8 @@
               "title": "Balloon Test",
               "content": "Air escaping from the neck pushes the balloon forward."
             }
-          ]
+          ],
+          "image": "images/science_w2_img1.png"
         },
         {
           "title": "Tinkering with Sponges",
@@ -738,7 +737,8 @@
               "title": "Spin Test",
               "content": "Rough surfaces create high friction, stopping tops quickly."
             }
-          ]
+          ],
+          "image": "images/science_w2_img2.png"
         },
         {
           "title": "Tinkering with Mirrors",
@@ -808,7 +808,8 @@
               "title": "Why Question",
               "content": "Why does heat speed up the melting of solid butter?"
             }
-          ]
+          ],
+          "image": "images/science_w2_img3.png"
         },
         {
           "title": "Guided Practice: Forming How Questions",
@@ -1271,7 +1272,8 @@
               "title": "Spelling",
               "content": "s - w - i - m  and  p - l - u - g"
             }
-          ]
+          ],
+          "image": "images/english_w2_img1.png"
         },
         {
           "title": "Phonics Hunt: Music and Play",
@@ -1345,7 +1347,8 @@
               "title": "Rule",
               "content": "Always start with a capital letter and end with a question mark."
             }
-          ]
+          ],
+          "image": "images/english_w2_img2.png"
         },
         {
           "title": "Question Words",
@@ -1419,7 +1422,8 @@
               "title": "Observation",
               "content": "A crab crawling in the wet sand."
             }
-          ]
+          ],
+          "image": "images/english_w2_img3.png"
         },
         {
           "title": "Science Connection: Water Safety",
@@ -1892,7 +1896,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Event\">Pangyayari</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"festival (festival - pambalana), Christmas (proper)\">pista (festival - pambalana), Pasko (proper)</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w2_img1.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Person: General and Specific\">Tao: Pangkalahatan at Tiyak</span>",
@@ -1962,7 +1967,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"dog\">Aso</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"dog (fate) -&gt; Patch (special)\">aso (pambalana) -> Tagpi (pantangi)</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w2_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Guided Practice: Events\">Guided Practice: Pangyayari</span>",
@@ -2032,7 +2038,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"bird\">Ibon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"bird (bird - palambana), Polly (proper)\">ibon (bird - pambalana), Polly (proper)</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w2_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Event Category: Festivals\">Kategorya ng Pangyayari: Mga Pista</span>",
@@ -2495,7 +2502,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Place of Worship\">Pook-Pagsamba</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"church, mosque, chapel, or temple in the community.\">simbahan, moske, kapilya, o templo sa komunidad.</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w2_img1.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"The Market: Place of Trade\">Ang Palengke: Pook ng Kalakalan</span>",
@@ -2565,7 +2573,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Natural Resources\">Likas na Yaman</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"lake, field, forest\">lawa (lake), bukid (fields), kagubatan (forests)</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w2_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Guided Practice: Place and Role\">Guided Practice: Pook at Tungkulin</span>",
@@ -2635,7 +2644,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Exercise 2\">Pagsasanay 2</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Share what you learned in the lesson with your family today.\">Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon.</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w2_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Training 3\">Karagdagang Pagsasanay 3</span>",
@@ -3098,7 +3108,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Game Discipline\">Disiplina sa Laro</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Follow the rules and respect the game at all times.\">Sundin ang regulasyon at igalang ang kalaro sa lahat ng oras.</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w2_img1.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"The Encouragement of the Game\">Ang Pagpapalakas ng Loob ng Kalaro</span>",
@@ -3168,7 +3179,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Underestimation Error\">Pagmamaliit Error</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"wrong: I can&#x27;t help -&gt; right: I will listen properly\">mali: wala akong maitutulong -> tama: makikinig ako nang maayos</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w2_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Wrong Game Fighting\">Maling Pakikipag-away sa Palaro</span>",
@@ -3238,7 +3250,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Exercise 5\">Pagsasanay 5</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Share what you learned in the lesson with your family today.\">Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon.</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w2_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Training 6\">Karagdagang Pagsasanay 6</span>",
@@ -3890,8 +3903,7 @@
               "title": "Example 2",
               "content": "Review standard details: 1 sq. cm = 1 cm x 1 cm."
             }
-          ],
-          "image": "images/geometry_basics.png"
+          ]
         },
         {
           "title": "Measuring in Square Centimeters",
@@ -3921,7 +3933,8 @@
               "title": "Example 5",
               "content": "Review standard details: Area = 5 m x 4 m = 20 sq. m."
             }
-          ]
+          ],
+          "image": "images/math_w2_img1.png"
         },
         {
           "title": "Estimating Metric Area",
@@ -3971,8 +3984,7 @@
               "title": "Example 10",
               "content": "Review standard details: Point = exact location in space."
             }
-          ],
-          "image": "images/geometry_basics.png"
+          ]
         },
         {
           "title": "Points in the Real World",
@@ -3993,7 +4005,7 @@
               "content": "Review standard details: Line = straight path that goes on forever."
             }
           ],
-          "image": "images/geometry_basics.png"
+          "image": "images/math_w2_img2.png"
         },
         {
           "title": "Representing Lines",
@@ -4013,8 +4025,7 @@
               "title": "Example 14",
               "content": "Review standard details: Segment AB = path between endpoints A and B."
             }
-          ],
-          "image": "images/geometry_basics.png"
+          ]
         },
         {
           "title": "Measuring Line Segments",
@@ -4034,8 +4045,7 @@
               "title": "Example 16",
               "content": "Review standard details: Ray AB = starts at A, goes forever through B."
             }
-          ],
-          "image": "images/geometry_basics.png"
+          ]
         },
         {
           "title": "Rays in Daily Life",
@@ -4065,7 +4075,8 @@
               "title": "Example 19",
               "content": "Review standard details: Geometric designs = points and segments."
             }
-          ]
+          ],
+          "image": "images/math_w2_img3.png"
         },
         {
           "title": "City Layout Maps",
@@ -4554,7 +4565,8 @@
               "title": "Pneumatics",
               "content": "Using compressed gas to transmit force and perform mechanical work."
             }
-          ]
+          ],
+          "image": "images/science_w2_img1.png"
         },
         {
           "title": "Tinkering with Capillary Action",
@@ -4652,7 +4664,8 @@
               "title": "Liquid Center",
               "content": "Raw eggs spin poorly because the liquid sloshes around inside."
             }
-          ]
+          ],
+          "image": "images/science_w2_img2.png"
         },
         {
           "title": "Tinkering with Light Reflection",
@@ -4750,7 +4763,8 @@
               "title": "Testable Question",
               "content": "How does the texture of a surface affect the friction force in Newtons?"
             }
-          ]
+          ],
+          "image": "images/science_w2_img3.png"
         },
         {
           "title": "Guided Practice: Controlled Setups",
@@ -5257,7 +5271,8 @@
               "title": "HOTS Challenge",
               "content": "How would you apply this linguistic pattern to create a complex sentence?"
             }
-          ]
+          ],
+          "image": "images/english_w2_img1.png"
         },
         {
           "title": "Phonics Hunt: Music and Play",
@@ -5359,7 +5374,8 @@
               "title": "HOTS Challenge",
               "content": "How would you apply this linguistic pattern to create a complex sentence?"
             }
-          ]
+          ],
+          "image": "images/english_w2_img2.png"
         },
         {
           "title": "Question Words",
@@ -5461,7 +5477,8 @@
               "title": "HOTS Challenge",
               "content": "How would you apply this linguistic pattern to create a complex sentence?"
             }
-          ]
+          ],
+          "image": "images/english_w2_img3.png"
         },
         {
           "title": "Science Connection: Water Safety",
@@ -5978,7 +5995,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w2_img1.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Person: General and Specific\">Tao: Pangkalahatan at Tiyak</span>",
@@ -6076,7 +6094,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w2_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Guided Practice: Events\">Guided Practice: Pangyayari</span>",
@@ -6174,7 +6193,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w2_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Event Category: Festivals\">Kategorya ng Pangyayari: Mga Pista</span>",
@@ -6681,7 +6701,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w2_img1.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"The Market: Place of Trade\">Ang Palengke: Pook ng Kalakalan</span>",
@@ -6779,7 +6800,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w2_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Guided Practice: Place and Role\">Guided Practice: Pook at Tungkulin</span>",
@@ -6873,7 +6895,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w2_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Training 3\">Karagdagang Pagsasanay 3</span>",
@@ -7380,7 +7403,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w2_img1.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"The Encouragement of the Game\">Ang Pagpapalakas ng Loob ng Kalaro</span>",
@@ -7478,7 +7502,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w2_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Wrong Game Fighting\">Maling Pakikipag-away sa Palaro</span>",
@@ -7576,7 +7601,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w2_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Training 6\">Karagdagang Pagsasanay 6</span>",

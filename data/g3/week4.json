@@ -34,8 +34,7 @@
               "title": "Example 3",
               "content": "Review standard details: Place values = Thousands, Hundreds, Tens, Ones."
             }
-          ],
-          "image": "images/place_value_chart.png"
+          ]
         },
         {
           "title": "Understanding Place Value",
@@ -55,7 +54,8 @@
               "title": "Example 5",
               "content": "Review standard details: Value of 6 in 7,621 = 6 x 100 = 600."
             }
-          ]
+          ],
+          "image": "images/math_w4_img1.png"
         },
         {
           "title": "Reading Numbers in Words",
@@ -85,8 +85,7 @@
               "title": "Example 8",
               "content": "Review standard details: 5,234 = 5,000 + 200 + 30 + 4."
             }
-          ],
-          "image": "images/place_value_chart.png"
+          ]
         },
         {
           "title": "Pineapple Harvesting counts",
@@ -126,7 +125,8 @@
               "title": "Example 12",
               "content": "Review standard details: Rounding = finding the nearest benchmark number."
             }
-          ]
+          ],
+          "image": "images/math_w4_img2.png"
         },
         {
           "title": "Rounding to the Nearest Ten",
@@ -196,7 +196,8 @@
               "title": "Example 19",
               "content": "Review standard details: 9,800 > 9,500 > 9,100."
             }
-          ]
+          ],
+          "image": "images/math_w4_img3.png"
         },
         {
           "title": "Finding Number Patterns",
@@ -665,7 +666,8 @@
               "title": "Units",
               "content": "1 cm = 10 mm, 1 m = 100 cm."
             }
-          ]
+          ],
+          "image": "images/science_w4_img1.png"
         },
         {
           "title": "Observing Solid Properties",
@@ -735,7 +737,8 @@
               "title": "Force Test",
               "content": "Soft push = 10 cm, hard push = 30 cm distance."
             }
-          ]
+          ],
+          "image": "images/science_w4_img2.png"
         },
         {
           "title": "Predicting Material Changes",
@@ -805,7 +808,8 @@
               "title": "Color Test",
               "content": "Blue + Yellow = Green is a verified prediction."
             }
-          ]
+          ],
+          "image": "images/science_w4_img3.png"
         },
         {
           "title": "Guided Practice: Measuring",
@@ -1266,7 +1270,8 @@
               "title": "Spelling",
               "content": "s-p-i-d-e-r and t-u-l-i-p"
             }
-          ]
+          ],
+          "image": "images/english_w4_img1.png"
         },
         {
           "title": "Grammar: Describing Words (Adjectives)",
@@ -1340,7 +1345,8 @@
               "title": "Reading Task",
               "content": "Gather clues to make a prediction about what happens next!"
             }
-          ]
+          ],
+          "image": "images/english_w4_img2.png"
         },
         {
           "title": "Predicting Endings: What is It?",
@@ -1410,7 +1416,8 @@
               "title": "Comparison",
               "content": "Metal is shiny, but wood is dull."
             }
-          ]
+          ],
+          "image": "images/english_w4_img3.png"
         },
         {
           "title": "Science Connection: Weather Predictions",
@@ -1883,7 +1890,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"shiny\">Makintab</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"metal key, coin, mirror\">susi (metal key), barya (coin), salamin (mirror)</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w4_img1.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"The Characteristics: Rough\">Ang Katangiang: Magaspang</span>",
@@ -1953,7 +1961,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Training Texture\">Pagsasanay Texture</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"sandpaper -&gt; rough, paper -&gt; smooth, tree -&gt; rough\">liha -> magaspang, papel -> makinis, puno -> magaspang</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w4_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Attribute Misidentification\">Maling Pagtukoy ng Katangian</span>",
@@ -2023,7 +2032,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Exercise 5\">Pagsasanay 5</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Share what you learned in the lesson with your family today.\">Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon.</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w4_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Training 6\">Karagdagang Pagsasanay 6</span>",
@@ -2486,7 +2496,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Cooperation\">Pagtutulungan</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"tanod outpost (barangay) + police station (municipality)\">tanod outpost (barangay) + police station (munisipyo)</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w4_img1.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"The Province of Timog Cotabato\">Ang Lalawigan ng Timog Cotabato</span>",
@@ -2556,7 +2567,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Contact Error\">Ugnayan Error</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"wrong: separate country -&gt; right: part of a city or town\">mali: hiwalay na bansa -> tama: bahagi ng lungsod o bayan</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w4_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"False Story of Koronadal's Name\">Maling Kwento ng Pangalan ng Koronadal</span>",
@@ -2626,7 +2638,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Exercise 5\">Pagsasanay 5</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Share what you learned in the lesson with your family today.\">Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon.</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w4_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Training 6\">Karagdagang Pagsasanay 6</span>",
@@ -3089,7 +3102,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Save Paper and Pencil\">Tipid Papel at Lapis</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Use the back of the paper; break the broken pencil.\">Gamitin ang likod ng papel; tasin ang nabaling lapis.</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w4_img1.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Cooperation on Utility Bills\">Ang Pagtutulungan sa mga Utility Bills</span>",
@@ -3159,7 +3173,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Using Error\">Gamit Error</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"wrong: throw away the short pencil -&gt; right: assess and use again\">mali: itapon ang maikling lapis -> tama: itasa at gamitin muli</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w4_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Misuse of Scratch Paper\">Maling Paggamit ng Scratch Paper</span>",
@@ -3229,7 +3244,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"Exercise 5\">Pagsasanay 5</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"Share what you learned in the lesson with your family today.\">Ibahagi ang iyong mga natutunan sa aralin sa iyong pamilya ngayon.</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w4_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Training 6\">Karagdagang Pagsasanay 6</span>",
@@ -3891,8 +3907,7 @@
               "title": "Example 3",
               "content": "Review standard details: Place values = Thousands, Hundreds, Tens, Ones."
             }
-          ],
-          "image": "images/place_value_chart.png"
+          ]
         },
         {
           "title": "Understanding Place Value",
@@ -3912,7 +3927,8 @@
               "title": "Example 5",
               "content": "Review standard details: Value of 6 in 7,621 = 6 x 100 = 600."
             }
-          ]
+          ],
+          "image": "images/math_w4_img1.png"
         },
         {
           "title": "Reading Numbers in Words",
@@ -3942,8 +3958,7 @@
               "title": "Example 8",
               "content": "Review standard details: 5,234 = 5,000 + 200 + 30 + 4."
             }
-          ],
-          "image": "images/place_value_chart.png"
+          ]
         },
         {
           "title": "Pineapple Harvesting counts",
@@ -3983,7 +3998,8 @@
               "title": "Example 12",
               "content": "Review standard details: Rounding = finding the nearest benchmark number."
             }
-          ]
+          ],
+          "image": "images/math_w4_img2.png"
         },
         {
           "title": "Rounding to the Nearest Ten",
@@ -4053,7 +4069,8 @@
               "title": "Example 19",
               "content": "Review standard details: 9,800 > 9,500 > 9,100."
             }
-          ]
+          ],
+          "image": "images/math_w4_img3.png"
         },
         {
           "title": "Finding Number Patterns",
@@ -4542,7 +4559,8 @@
               "title": "Volume Displacement",
               "content": "Measuring exactly how much water is pushed aside in cubic centimeters."
             }
-          ]
+          ],
+          "image": "images/science_w4_img1.png"
         },
         {
           "title": "Process: Precise Calibration",
@@ -4640,7 +4658,8 @@
               "title": "Reference Point",
               "content": "The fixed origin (0,0,0) from which all distances are measured."
             }
-          ]
+          ],
+          "image": "images/science_w4_img2.png"
         },
         {
           "title": "Process: Chemical Classification",
@@ -4738,7 +4757,8 @@
               "title": "Key Step 2",
               "content": "Choose: Smooth edge (Oak) or Jagged edge (Maple)."
             }
-          ]
+          ],
+          "image": "images/science_w4_img3.png"
         },
         {
           "title": "Guided Practice: Interpolating Data",
@@ -5241,7 +5261,8 @@
               "title": "HOTS Challenge",
               "content": "How would you apply this linguistic pattern to create a complex sentence?"
             }
-          ]
+          ],
+          "image": "images/english_w4_img1.png"
         },
         {
           "title": "Grammar: Describing Words (Adjectives)",
@@ -5343,7 +5364,8 @@
               "title": "HOTS Challenge",
               "content": "How would you apply this linguistic pattern to create a complex sentence?"
             }
-          ]
+          ],
+          "image": "images/english_w4_img2.png"
         },
         {
           "title": "Predicting Endings: What is It?",
@@ -5441,7 +5463,8 @@
               "title": "HOTS Challenge",
               "content": "How would you apply this linguistic pattern to create a complex sentence?"
             }
-          ]
+          ],
+          "image": "images/english_w4_img3.png"
         },
         {
           "title": "Science Connection: Weather Predictions",
@@ -5958,7 +5981,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w4_img1.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"The Characteristics: Rough\">Ang Katangiang: Magaspang</span>",
@@ -6056,7 +6080,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w4_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Attribute Misidentification\">Maling Pagtukoy ng Katangian</span>",
@@ -6154,7 +6179,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/filipino_w4_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Training 6\">Karagdagang Pagsasanay 6</span>",
@@ -6661,7 +6687,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w4_img1.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"The Province of Timog Cotabato\">Ang Lalawigan ng Timog Cotabato</span>",
@@ -6759,7 +6786,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w4_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"False Story of Koronadal's Name\">Maling Kwento ng Pangalan ng Koronadal</span>",
@@ -6857,7 +6885,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/makabansa_w4_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Training 6\">Karagdagang Pagsasanay 6</span>",
@@ -7364,7 +7393,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w4_img1.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Cooperation on Utility Bills\">Ang Pagtutulungan sa mga Utility Bills</span>",
@@ -7462,7 +7492,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w4_img2.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Misuse of Scratch Paper\">Maling Paggamit ng Scratch Paper</span>",
@@ -7560,7 +7591,8 @@
               "title": "<span class=\"fil-sentence\" data-translation=\"HOTS Challenge\">HOTS Hamon</span>",
               "content": "<span class=\"fil-sentence\" data-translation=\"How will you apply this concept to your daily decision-making?\">Paano mo gagamitin ang konseptong ito sa iyong pang-araw-araw na pagpapasiya?</span>"
             }
-          ]
+          ],
+          "image": "images/gmrc_w4_img3.png"
         },
         {
           "title": "<span class=\"fil-sentence\" data-translation=\"Additional Training 6\">Karagdagang Pagsasanay 6</span>",
