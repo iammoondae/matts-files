@@ -7614,7 +7614,8 @@ const MATATAG_COMPETENCIES = {
         "GMRC3-T3-W6-10: Nakikipagtulungan sa pangkatang gawain (bayanihan), pangangalaga sa kalikasan, paghihiwalay ng basura, at paggalang sa watawat"
       ]
     }
-  };
+  }
+};
 
 function formatCompetencyText(item, subjectKey) {
   if (!item.includes(':')) return item;
