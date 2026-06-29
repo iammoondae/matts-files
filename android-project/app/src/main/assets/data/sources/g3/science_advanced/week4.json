@@ -6,7 +6,7 @@
   "slides": [
     {
       "title": "Scientific Process Integration",
-      "text": "Scientific research integrates multiple process skills to establish causal relationships and document empirical evidence. For instance, consider the example of Causal Relationship: A link where one event (cause) makes another event happen (effect). For instance, consider the example of Systematic Observation: Observing with standardized protocols to eliminate human bias. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Scientific research integrates multiple process skills to establish causal relationships and document empirical evidence. For instance, consider the example of Causal Relationship: A link where one event (cause) makes another event happen (effect). For instance, consider the example of Systematic Observation: Observing with standardized protocols to eliminate human bias.",
       "examples": [
         {
           "title": "Causal Relationship",
@@ -20,7 +20,7 @@
     },
     {
       "title": "Advanced Vocabulary",
-      "text": "Terms of empirical research: Quantitative analysis, Extrapolation, Interpolation, and Correlation. For instance, consider the example of Extrapolation: Estimating values beyond the observed range based on a trend. For instance, consider the example of Correlation: A mutual relationship or connection between two variables. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Terms of empirical research: Quantitative analysis, Extrapolation, Interpolation, and Correlation. For instance, consider the example of Extrapolation: Estimating values beyond the observed range based on a trend. For instance, consider the example of Correlation: A mutual relationship or connection between two variables.",
       "examples": [
         {
           "title": "Extrapolation",
@@ -34,7 +34,7 @@
     },
     {
       "title": "Empirical Reasoning",
-      "text": "Scientists use process skills to construct models, communicate raw data tables, and formulate theories. For instance, consider the example of Scientific Theory: A well-substantiated explanation of some aspect of the natural world. For instance, consider the example of Model Construction: Creating physical or digital representations to study systems. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Scientists use process skills to construct models, communicate raw data tables, and formulate theories. For instance, consider the example of Scientific Theory: A well-substantiated explanation of some aspect of the natural world. For instance, consider the example of Model Construction: Creating physical or digital representations to study systems.",
       "examples": [
         {
           "title": "Scientific Theory",
@@ -48,7 +48,7 @@
     },
     {
       "title": "Process: Botanical Observation",
-      "text": "Using high-magnification tools to observe plant guard cell behavior under different humidity levels. For instance, consider the example of Stomata: Microscopic pores on leaves that open and close to regulate gas exchange. For instance, consider the example of Osmotic Pressure: The force that drives water in and out of guard cells. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Using high-magnification tools to observe plant guard cell behavior under different humidity levels. For instance, consider the example of Stomata: Microscopic pores on leaves that open and close to regulate gas exchange. For instance, consider the example of Osmotic Pressure: The force that drives water in and out of guard cells.",
       "examples": [
         {
           "title": "Stomata",
@@ -62,7 +62,7 @@
     },
     {
       "title": "Process: Buoyancy Predictions",
-      "text": "Predicting displacement volume and buoyant forces using Archimedes' principle. For instance, consider the example of Archimedes Principle: An object floats when the buoyant force equals the weight of displaced fluid. For instance, consider the example of Volume Displacement: Measuring exactly how much water is pushed aside in cubic centimeters. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Predicting displacement volume and buoyant forces using Archimedes' principle. For instance, consider the example of Archimedes Principle: An object floats when the buoyant force equals the weight of displaced fluid. For instance, consider the example of Volume Displacement: Measuring exactly how much water is pushed aside in cubic centimeters.",
       "examples": [
         {
           "title": "Archimedes Principle",
@@ -76,7 +76,7 @@
     },
     {
       "title": "Process: Precise Calibration",
-      "text": "Measuring liquid meniscus levels with graduated glassware, adjusting for thermal expansion of liquids. For instance, consider the example of Cohesive Forces: Attraction between similar molecules, pulling water into a curve. For instance, consider the example of Thermal Expansion: Liquids expand slightly when heated, changing volume readings. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Measuring liquid meniscus levels with graduated glassware, adjusting for thermal expansion of liquids. For instance, consider the example of Cohesive Forces: Attraction between similar molecules, pulling water into a curve. For instance, consider the example of Thermal Expansion: Liquids expand slightly when heated, changing volume readings.",
       "examples": [
         {
           "title": "Cohesive Forces",
@@ -90,7 +90,7 @@
     },
     {
       "title": "Process: Taxonomic Classification",
-      "text": "Classifying organisms using a dichotomous key based on binary morphological characteristics. For instance, consider the example of Dichotomous Key: A tool that allows the user to identify organisms through progressive choices. For instance, consider the example of Morphology: The physical shape and structure of an organism. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Classifying organisms using a dichotomous key based on binary morphological characteristics. For instance, consider the example of Dichotomous Key: A tool that allows the user to identify organisms through progressive choices. For instance, consider the example of Morphology: The physical shape and structure of an organism.",
       "examples": [
         {
           "title": "Dichotomous Key",
@@ -104,7 +104,7 @@
     },
     {
       "title": "Process: Graphical Communication",
-      "text": "Communicating multi-variable datasets using scatter plots, line graphs, and regression lines. For instance, consider the example of Independent Axis: The X-axis, representing the independent variable. For instance, consider the example of Dependent Axis: The Y-axis, representing the dependent variable. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Communicating multi-variable datasets using scatter plots, line graphs, and regression lines. For instance, consider the example of Independent Axis: The X-axis, representing the independent variable. For instance, consider the example of Dependent Axis: The Y-axis, representing the dependent variable.",
       "examples": [
         {
           "title": "Independent Axis",
@@ -118,7 +118,7 @@
     },
     {
       "title": "Process: Causal Inferences",
-      "text": "Differentiating between correlation and causation when observing environmental phenomena. For instance, consider the example of Causation: One event directly producing the other (e.g., gravity causing objects to fall). For instance, consider the example of Coincidence: Two events happening together without a direct causal link. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Differentiating between correlation and causation when observing environmental phenomena. For instance, consider the example of Causation: One event directly producing the other (e.g., gravity causing objects to fall). For instance, consider the example of Coincidence: Two events happening together without a direct causal link.",
       "examples": [
         {
           "title": "Causation",
@@ -132,7 +132,7 @@
     },
     {
       "title": "Process: Kinetic Observations",
-      "text": "Observing molecular activity in substances during phase transitions. For instance, consider the example of Kinetic Theory: All matter consists of tiny particles in constant motion. For instance, consider the example of Phase Transitions: Heat changes particle motion, causing solid/liquid/gas shifts. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Observing molecular activity in substances during phase transitions. For instance, consider the example of Kinetic Theory: All matter consists of tiny particles in constant motion. For instance, consider the example of Phase Transitions: Heat changes particle motion, causing solid/liquid/gas shifts.",
       "examples": [
         {
           "title": "Kinetic Theory",
@@ -146,7 +146,7 @@
     },
     {
       "title": "Process: Pressure Predictions",
-      "text": "Predicting air pressure variations inside a closed cylinder when volume is compressed. For instance, consider the example of Boyle's Law: Pressure of a gas is inversely proportional to its volume at constant temp. For instance, consider the example of Prediction: Decreasing volume by half will double the internal pressure. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Predicting air pressure variations inside a closed cylinder when volume is compressed. For instance, consider the example of Boyle's Law: Pressure of a gas is inversely proportional to its volume at constant temp. For instance, consider the example of Prediction: Decreasing volume by half will double the internal pressure.",
       "examples": [
         {
           "title": "Boyle's Law",
@@ -160,7 +160,7 @@
     },
     {
       "title": "Process: Spatial Measurements",
-      "text": "Measuring the coordinates of objects to map positions in three-dimensional space. For instance, consider the example of Cartesian Coordinates: Using X, Y, and Z axes to define exact locations. For instance, consider the example of Reference Point: The fixed origin (0,0,0) from which all distances are measured. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Measuring the coordinates of objects to map positions in three-dimensional space. For instance, consider the example of Cartesian Coordinates: Using X, Y, and Z axes to define exact locations. For instance, consider the example of Reference Point: The fixed origin (0,0,0) from which all distances are measured.",
       "examples": [
         {
           "title": "Cartesian Coordinates",
@@ -174,7 +174,7 @@
     },
     {
       "title": "Process: Chemical Classification",
-      "text": "Classifying household liquids into acids, bases, or neutrals using litmus paper. For instance, consider the example of Indicator: Chemicals that change color depending on pH levels. For instance, consider the example of Litmus Paper: Turns red in acids, blue in bases, and remains unchanged in neutrals. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Classifying household liquids into acids, bases, or neutrals using litmus paper. For instance, consider the example of Indicator: Chemicals that change color depending on pH levels. For instance, consider the example of Litmus Paper: Turns red in acids, blue in bases, and remains unchanged in neutrals.",
       "examples": [
         {
           "title": "Indicator",
@@ -188,7 +188,7 @@
     },
     {
       "title": "Process: Geological Inferences",
-      "text": "Inferring the history of an area by observing layers of rock and soil (stratigraphy). For instance, consider the example of Law of Superposition: Older rock layers are found at the bottom, younger at the top. For instance, consider the example of Sedimentation: The accumulation of minerals settling out of water over time. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Inferring the history of an area by observing layers of rock and soil (stratigraphy). For instance, consider the example of Law of Superposition: Older rock layers are found at the bottom, younger at the top. For instance, consider the example of Sedimentation: The accumulation of minerals settling out of water over time.",
       "examples": [
         {
           "title": "Law of Superposition",
@@ -202,7 +202,7 @@
     },
     {
       "title": "Process: Cell Biology Observations",
-      "text": "Observing cellular structures under a microscope during cell division (mitosis). For instance, consider the example of Chromosomes: Thread-like structures carrying genetic info that separate during division. For instance, consider the example of Staining: Adding dye to make cell structures visible under light. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Observing cellular structures under a microscope during cell division (mitosis). For instance, consider the example of Chromosomes: Thread-like structures carrying genetic info that separate during division. For instance, consider the example of Staining: Adding dye to make cell structures visible under light.",
       "examples": [
         {
           "title": "Chromosomes",
@@ -216,7 +216,7 @@
     },
     {
       "title": "Process: Thermodynamic Predictions",
-      "text": "Predicting the rate of cooling of a hot liquid based on insulation materials. For instance, consider the example of Newton's Law of Cooling: Rate of heat loss is proportional to temperature difference. For instance, consider the example of Insulator: Materials with low conductivity that slow down heat transfer. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Predicting the rate of cooling of a hot liquid based on insulation materials. For instance, consider the example of Newton's Law of Cooling: Rate of heat loss is proportional to temperature difference. For instance, consider the example of Insulator: Materials with low conductivity that slow down heat transfer.",
       "examples": [
         {
           "title": "Newton's Law of Cooling",
@@ -230,7 +230,7 @@
     },
     {
       "title": "Process: Mass displacement",
-      "text": "Measuring mass changes in a chemical reaction to verify conservation of mass. For instance, consider the example of Conservation of Mass: Matter cannot be created or destroyed in a chemical reaction. For instance, consider the example of Closed System: A sealed container preventing gas from escaping during tests. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Measuring mass changes in a chemical reaction to verify conservation of mass. For instance, consider the example of Conservation of Mass: Matter cannot be created or destroyed in a chemical reaction. For instance, consider the example of Closed System: A sealed container preventing gas from escaping during tests.",
       "examples": [
         {
           "title": "Conservation of Mass",
@@ -244,7 +244,7 @@
     },
     {
       "title": "Process: Ecological Classification",
-      "text": "Classifying ecosystems into biomes based on average precipitation and temperature. For instance, consider the example of Biome: A large community of plants and animals occupying a distinct region. For instance, consider the example of Climograph: A graph showing monthly precipitation and temperature of a biome. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Classifying ecosystems into biomes based on average precipitation and temperature. For instance, consider the example of Biome: A large community of plants and animals occupying a distinct region. For instance, consider the example of Climograph: A graph showing monthly precipitation and temperature of a biome.",
       "examples": [
         {
           "title": "Biome",
@@ -258,7 +258,7 @@
     },
     {
       "title": "Guided Practice: Dichotomous Keys",
-      "text": "Navigating a key to classify an unknown leaf specimen. For instance, consider the example of Key Step 1: Choose: Broad leaf (go to 2) or Needle-like leaf (Pine). For instance, consider the example of Key Step 2: Choose: Smooth edge (Oak) or Jagged edge (Maple). To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Navigating a key to classify an unknown leaf specimen. For instance, consider the example of Key Step 1: Choose: Broad leaf (go to 2) or Needle-like leaf (Pine). For instance, consider the example of Key Step 2: Choose: Smooth edge (Oak) or Jagged edge (Maple).",
       "examples": [
         {
           "title": "Key Step 1",
@@ -272,7 +272,7 @@
     },
     {
       "title": "Guided Practice: Interpolating Data",
-      "text": "Estimating value points between measured data markers on a graph. For instance, consider the example of Method: Find the value on the line between the plotted points. For instance, consider the example of Accuracy: Ensures data trend line is followed correctly. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Estimating value points between measured data markers on a graph. For instance, consider the example of Method: Find the value on the line between the plotted points. For instance, consider the example of Accuracy: Ensures data trend line is followed correctly.",
       "examples": [
         {
           "title": "Method",
@@ -286,7 +286,7 @@
     },
     {
       "title": "Guided Practice: Extrapolating Trends",
-      "text": "Extrapolating a growth curve beyond the measured time frame. For instance, consider the example of Method: Extend the trend line forward, maintaining the rate slope. For instance, consider the example of Risk: Assumes environmental factors remain constant in the future. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Extrapolating a growth curve beyond the measured time frame. For instance, consider the example of Method: Extend the trend line forward, maintaining the rate slope. For instance, consider the example of Risk: Assumes environmental factors remain constant in the future.",
       "examples": [
         {
           "title": "Method",
@@ -300,7 +300,7 @@
     },
     {
       "title": "Guided Practice: Inferences from Fossils",
-      "text": "Inferring ancient diets by observing fossilized tooth shapes. For instance, consider the example of Fossil tooth: Sharp, pointed teeth observed in fossil skull. For instance, consider the example of Inference: The animal was a carnivore (meat eater) because of tooth structure. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Inferring ancient diets by observing fossilized tooth shapes. For instance, consider the example of Fossil tooth: Sharp, pointed teeth observed in fossil skull. For instance, consider the example of Inference: The animal was a carnivore (meat eater) because of tooth structure.",
       "examples": [
         {
           "title": "Fossil tooth",
@@ -314,7 +314,7 @@
     },
     {
       "title": "Common Error: Mistaking Correlation for Causation",
-      "text": "Assuming that because two trends rise together, one must cause the other. For instance, consider the example of Incorrect: Saying 'Ice cream sales cause sunburns because both rise in summer.' For instance, consider the example of Correct: The sun's heat causes both ice cream sales and sunburns. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Assuming that because two trends rise together, one must cause the other. For instance, consider the example of Incorrect: Saying 'Ice cream sales cause sunburns because both rise in summer.' For instance, consider the example of Correct: The sun's heat causes both ice cream sales and sunburns.",
       "examples": [
         {
           "title": "Incorrect",
@@ -328,7 +328,7 @@
     },
     {
       "title": "Common Error: Cherry-Picking Data",
-      "text": "Only selecting data points that confirm your hypothesis while ignoring exceptions. For instance, consider the example of Incorrect: Recording only the fast car runs and ignoring the slow ones. For instance, consider the example of Correct: Calculating the average of all trials, including anomalies. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Only selecting data points that confirm your hypothesis while ignoring exceptions. For instance, consider the example of Incorrect: Recording only the fast car runs and ignoring the slow ones. For instance, consider the example of Correct: Calculating the average of all trials, including anomalies.",
       "examples": [
         {
           "title": "Incorrect",
@@ -342,7 +342,7 @@
     },
     {
       "title": "Summary of Week 4 Advanced",
-      "text": "You completed Week 4 Advanced! You now possess a complete toolkit of science process skills. For instance, consider the example of Key Takeaway: Process skills are integrated to build models and establish laws. For instance, consider the example of Next Step: Review your learnings and prepare for the term culminating tasks! To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "You completed Week 4 Advanced! You now possess a complete toolkit of science process skills. For instance, consider the example of Key Takeaway: Process skills are integrated to build models and establish laws. For instance, consider the example of Next Step: Review your learnings and prepare for the term culminating tasks!",
       "examples": [
         {
           "title": "Key Takeaway",

@@ -2,7 +2,7 @@
 set -e
 
 WORKSPACE_DIR="/home/moondae/Antigravity Projects/Matts Files_apk"
-BUILD_TOOLS_DIR="/home/moondae/build_tools_matts"
+BUILD_TOOLS_DIR="${WORKSPACE_DIR}/build-tools"
 ANDROID_PROJECT_DIR="${WORKSPACE_DIR}/android-project"
 ASSETS_DIR="${ANDROID_PROJECT_DIR}/app/src/main/assets"
 
@@ -38,6 +38,7 @@ cp "${WORKSPACE_DIR}/background5.mp3" "${ASSETS_DIR}/"
 cp -r "${WORKSPACE_DIR}/data" "${ASSETS_DIR}/"
 cp -r "${WORKSPACE_DIR}/images" "${ASSETS_DIR}/"
 cp -r "${WORKSPACE_DIR}/Worksheets" "${ASSETS_DIR}/"
+cp -r "${WORKSPACE_DIR}/modules" "${ASSETS_DIR}/"
 
 # Exclude large weekly images from the APK assets to reduce packaged APK size (fetched from GitHub instead)
 echo "=== Excluding weekly images from APK assets ==="
@@ -81,12 +82,6 @@ if [ -f "${APK_PATH}" ]; then
     cp "${APK_PATH}" "${WORKSPACE_DIR}/Matteo's Learning Hub ${BUILD_VERSION}.apk"
     cp "${APK_PATH}" "${WORKSPACE_DIR}/app-debug.apk"
     echo "Copied APK to workspace root as: Matteo's Learning Hub ${BUILD_VERSION}.apk and app-debug.apk"
-
-    # echo "=== Auto-committing and pushing build updates to GitHub ==="
-    # cd "${WORKSPACE_DIR}"
-    # git add -A
-    # git commit -m "Build and release: ${BUILD_VERSION}"
-    # git push origin main
 else
     echo "Error: APK file was not generated."
     exit 1

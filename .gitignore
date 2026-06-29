@@ -40,3 +40,7 @@ keystore.properties
 # IDE/OS noise
 *.iml
 .DS_Store
+
+# Local backups and python cache
+backups/
+__pycache__/

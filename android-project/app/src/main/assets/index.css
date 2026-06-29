@@ -1,15 +1,17 @@
 :root {
-  --bg-gradient: radial-gradient(circle at top left, #0f172a, #020617);
-  --bg-card: rgba(30, 41, 59, 0.45);
-  --border-card: rgba(255, 255, 255, 0.08);
+  /* Starry Night Dark Theme (Default) */
+  --bg-gradient: radial-gradient(circle at top left, #090e1f, #020409);
+  --bg-card: rgba(18, 25, 47, 0.65);
+  --border-card: rgba(99, 102, 241, 0.15);
   --border-color: var(--border-card);
-  --text-main: #f8fafc;
+  --text-main: #f1f5f9;
   --text-muted: #94a3b8;
   --text-translation: #38bdf8;
-  --sidebar-bg: rgba(15, 23, 42, 0.85);
+  --sidebar-bg: rgba(9, 14, 30, 0.93);
   
+  /* Harmonized Vibrant Colors for Subjects */
   --correct: #10b981;
-  --incorrect: #ef4444;
+  --incorrect: #f43f5e;
   --accent: #6366f1;
   --accent-hover: #4f46e5;
   
@@ -21,22 +23,25 @@
   --sub-gmrc: #eab308;      
   
   --active-subject-color: var(--sub-math);
-  --card-radius: 20px;
+  --card-radius: 24px;
   --slider-track-bg: rgba(255, 255, 255, 0.15);
   --slider-track-border: rgba(255, 255, 255, 0.1);
+  --glass-blur: blur(20px);
 }
 
 body.light-mode {
-  --bg-gradient: radial-gradient(circle at top left, #f8fafc, #e2e8f0);
-  --bg-card: rgba(255, 255, 255, 0.85);
-  --border-card: rgba(0, 0, 0, 0.08);
+  /* Warm Cream & Soft Yellow Theme */
+  --bg-gradient: radial-gradient(circle at top left, #fdfbf7, #f5eccf);
+  --bg-card: rgba(255, 255, 255, 0.82);
+  --border-card: rgba(142, 120, 80, 0.12);
   --border-color: var(--border-card);
-  --text-main: #0f172a;
-  --text-muted: #64748b;
+  --text-main: #3e3223;
+  --text-muted: #7d6e5a;
   --text-translation: #0284c7;
-  --sidebar-bg: rgba(255, 255, 255, 0.95);
+  --sidebar-bg: rgba(252, 248, 237, 0.95);
   --slider-track-bg: #cbd5e1;
   --slider-track-border: #94a3b8;
+  --glass-blur: blur(12px);
 }
 
 * {
@@ -3553,3 +3558,50 @@ body.show-translation .choice-btn span {
 
 
 
+
+/* Redesigned Mascot Animations */
+@keyframes tobiIdle {
+  0% { transform: translateY(0) scale(1); }
+  50% { transform: translateY(-4px) scale(1.02); }
+  100% { transform: translateY(0) scale(1); }
+}
+
+@keyframes tobiShake {
+  0%, 100% { transform: rotate(0deg); }
+  20%, 60% { transform: rotate(-8deg); }
+  40%, 80% { transform: rotate(8deg); }
+}
+
+.tobi-games-img {
+  transition: transform 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+.tobi-games-img.bouncing {
+  animation: tobiIdle 3.5s ease-in-out infinite;
+}
+
+.tobi-games-img:hover {
+  transform: scale(1.18) rotate(3deg);
+  cursor: pointer;
+}
+
+.tobi-games-img.success-shake {
+  animation: tobiShake 0.6s ease-in-out;
+}
+
+/* Glassmorphism Enhancements */
+.viewer-card {
+  backdrop-filter: var(--glass-blur);
+  -webkit-backdrop-filter: var(--glass-blur);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.sidebar {
+  backdrop-filter: var(--glass-blur) !important;
+  -webkit-backdrop-filter: var(--glass-blur) !important;
+}
+
+.home-subject-card, .notif-panel, .snapshot-panel, .sched-col, .badge-chip {
+  backdrop-filter: var(--glass-blur);
+  -webkit-backdrop-filter: var(--glass-blur);
+}

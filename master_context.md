@@ -9,6 +9,16 @@ Welcome! This document serves as the absolute single source of truth (master con
 * **Target User**: Grade 1 to Grade 3 learners in the Philippines, as well as their parents.
 * **Core Curriculum**: Aligned with the official **DepEd MATATAG Curriculum** (Mathematics, Science, English, Filipino, Makabansa, GMRC).
 * **Tech Stack**: Pure hybrid local web view (Vanilla HTML5, CSS3, and ES6 Javascript). Running inside a standard Android WebView via Cordova/Gradle packaging. No frameworks (React/Vue/Tailwind) are used to keep loading times instant and performance extremely high.
+* **Modular Codebase Layout**: In June 2026, the monolith JS code was split into structured modules inside the `modules/` folder to improve maintainability. The sub-modules are loaded sequentially in the HTML layout before the core `app.js` entrypoint script:
+  * `modules/studyguide.js` (Study Guide interactive lessons)
+  * `modules/quiz.js` (Standard Quiz and Challenge mode scoring)
+  * `modules/worksheet.js` (Practice Worksheet drawing & checking engine)
+  * `modules/performance.js` (Performance Task Parent grading interface)
+  * `modules/reading.js` (Daily Reading slide renderer)
+  * `modules/games.js` (Quick play games center and coins shop)
+  * `modules/parent_dash.js` (Parents' performance analytics and insights)
+  * `modules/home_dash.js` (Home welcome dashboard, streaks, and onboarding steps)
+  * `app.js` (Core state engine, audio setup, and routing manager)
 
 ---
 
@@ -50,13 +60,13 @@ Welcome! This document serves as the absolute single source of truth (master con
 
 ### D. Translation Controls
 * **Toggle Button**: A translation button is placed in the upper-left (to the left of the theme toggle).
-* **Visibility Rule**: This translation button **must only be visible** when the active subject is **Filipino** or **Makabansa**. For all other subjects, it is hidden.
+* **Visibility Rule**: This translation button **must only be visible** when the active subject is **Filipino**, **Makabansa**, or **GMRC**. For all other subjects, it is hidden.
 
 ---
 
-## 🎮 5. Educational Games Placeholder
-* An **Educational Games** tab exists in the sidebar modes list.
-* Clicking it displays a beautiful "Under Construction" welcome dashboard explaining that interactive Math, Science, and spelling games are coming in a future update.
+## 🎮 5. Educational Games & Mascot Center
+* An **Educational Games** tab in the sidebar launches the interactive Quick Play games center.
+* Includes dynamic currency updates (Coins earned on completing lessons/quizzes), character experience level formulas, and shopping unlock structures for dressing Tobi the mascot in custom outfits.
 
 ---
 

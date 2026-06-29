@@ -42,21 +42,21 @@ The app must support a fully responsive, high-contrast, premium light/dark layou
 * **CSS Custom Properties**: Global styles must use CSS variables mapping color tokens under `:root` (dark mode) and `body.light-mode` overrides.
   ```css
   :root {
-    --bg-gradient: radial-gradient(circle at top left, #0f172a, #020617);
-    --bg-card: rgba(30, 41, 59, 0.45);
-    --text-main: #f8fafc;
+    --bg-gradient: radial-gradient(circle at top left, #090e1f, #020409);
+    --bg-card: rgba(18, 25, 47, 0.65);
+    --text-main: #f1f5f9;
     --text-muted: #94a3b8;
   }
   body.light-mode {
-    --bg-gradient: radial-gradient(circle at top left, #f8fafc, #e2e8f0);
-    --bg-card: rgba(255, 255, 255, 0.85);
-    --text-main: #0f172a;
-    --text-muted: #64748b;
+    --bg-gradient: radial-gradient(circle at top left, #fdfbf7, #f5eccf);
+    --bg-card: rgba(255, 255, 255, 0.82);
+    --text-main: #3e3223;
+    --text-muted: #7d6e5a;
   }
   ```
 * **Readability Gate**:
-  * Main text in dark mode must use bright colors (e.g. `#f8fafc` or higher) to avoid low contrast.
-  * Main text in light mode must use dark charcoal (e.g. `#0f172a` or `#1e293b`).
+  * Main text in dark mode must use bright colors (e.g. `#f1f5f9` or higher) to avoid low contrast.
+  * Main text in light mode must use dark charcoal (e.g. `#3e3223` or `#1e293b`).
   * Text element contrast must satisfy high readability (WCAG AA standard guidelines) on all backgrounds.
 
 ### B. Transition Mechanics
@@ -86,7 +86,7 @@ To ensure all AI models, coding assistants, and engineers maintain complete stra
 * The following files must be present at all times to prevent crash exceptions:
   * `icon.png` (app/profile launcher logo)
   * `correct.wav` / `incorrect.wav` (interactive quiz feedback SFX)
-  * `background2.mp3` / `background5.mp3` (ambient study music)
+  * `background5.mp3` (ambient study music)
 
 ### B. Parental Control Security
 * Access to settings, resets, and dashboards must be secured with the Parent PIN.
@@ -138,3 +138,14 @@ To ensure complete and error-free content delivery, the database validation comp
 * **Version comparison**: The update system (onboarding and settings button) must fetch the remote `manifest.json` first and compare its `version` field with `localStorage.getItem('local_' + learnerGrade + '_manifest_version')`.
 * **Conditional Download**: Redundant downloads are prohibited. If the versions match, the app must report "There is no available update." and stop execution.
 * **State Updates**: Upon successful download of weekly topic JSON databases, the local storage manifest version key must be updated to match the remote version.
+
+---
+
+## 📂 7. Project Backup and Versioning Standards
+* **Backup Trigger**: A developer or AI agent must run `python3 backup.py "<one-sentence description>"` before implementing significant architectural changes, content refactoring, or compiling release-ready APK packages.
+* **Version String Format**: The backup protocol must name directories strictly in the format `YY.MM.DD_HHMMSS` (representing local system time, e.g., `26.06.30_213351`).
+* **Rotation Policy**: The active backups count is strictly capped at a maximum of 30. Older backup directories must be automatically deleted once this capacity is exceeded.
+* **Log Documentation**: Every backup must log its version and its description in `backups/versionlog.txt`, sorted with the newest entries at the top. Pruned (deleted) versions must also be removed from this log to keep it synchronized with the directories on disk.
+* **Backup Inclusions & Exclusions**:
+  * **Excluded**: Large build caches and binaries (`.git/`, `backups/`, `build-tools/`, `android-project/.gradle/`, `android-project/app/build/`, and all output `*.apk` packages).
+  * **Included**: All source assets, worksheets, HTML/CSS/JS files, database templates (`data/`), and static media assets (including audio files `background5.mp3`, `correct.wav`, `incorrect.wav` and mascot icons).

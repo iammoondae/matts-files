@@ -6,7 +6,7 @@
   "slides": [
     {
       "title": "Advanced Instrumentation",
-      "text": "Scientific research relies on high-precision instruments that extend human senses and reduce measurement error. For instance, consider the example of Calibration: Comparing instrument readouts against a known standard to adjust accuracy. For instance, consider the example of Precision: The repeatability of measurements under unchanged conditions. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Scientific research relies on high-precision instruments that extend human senses and reduce measurement error. For instance, consider the example of Calibration: Comparing instrument readouts against a known standard to adjust accuracy. For instance, consider the example of Precision: The repeatability of measurements under unchanged conditions.",
       "examples": [
         {
           "title": "Calibration",
@@ -20,7 +20,7 @@
     },
     {
       "title": "Advanced Vocabulary",
-      "text": "Terms of precision measurement: Graduated cylinder, Triple beam balance, Calipers, and Meniscus. For instance, consider the example of Graduated cylinder: A narrow container with accurate marks used to measure fluid volumes. For instance, consider the example of Meniscus: The curve at the upper surface of a liquid in a tube. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Terms of precision measurement: Graduated cylinder, Triple beam balance, Calipers, and Meniscus. For instance, consider the example of Graduated cylinder: A narrow container with accurate marks used to measure fluid volumes. For instance, consider the example of Meniscus: The curve at the upper surface of a liquid in a tube.",
       "examples": [
         {
           "title": "Graduated cylinder",
@@ -34,7 +34,7 @@
     },
     {
       "title": "Instrument Selection Strategy",
-      "text": "Selecting tools requires matching the scale and physical properties of the subject with the resolution of the instrument. For instance, consider the example of Resolution: The smallest increment of change that can be detected by a tool. For instance, consider the example of Tolerance: The allowable limit of variation in a physical measurement. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Selecting tools requires matching the scale and physical properties of the subject with the resolution of the instrument. For instance, consider the example of Resolution: The smallest increment of change that can be detected by a tool. For instance, consider the example of Tolerance: The allowable limit of variation in a physical measurement.",
       "examples": [
         {
           "title": "Resolution",
@@ -48,7 +48,7 @@
     },
     {
       "title": "Advanced Tool: Vernier Calipers",
-      "text": "Vernier calipers measure internal, external, and depth dimensions with sub-millimeter precision. For instance, consider the example of External Jaws: Measuring the diameter of a clay sphere. For instance, consider the example of Vernier Scale: Reading the fractional division of a millimeter for high accuracy. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Vernier calipers measure internal, external, and depth dimensions with sub-millimeter precision. For instance, consider the example of External Jaws: Measuring the diameter of a clay sphere. For instance, consider the example of Vernier Scale: Reading the fractional division of a millimeter for high accuracy.",
       "examples": [
         {
           "title": "External Jaws",
@@ -62,7 +62,7 @@
     },
     {
       "title": "Advanced Tool: Microscope",
-      "text": "Microscopes use compound lenses and light refraction to magnify objects up to 1000 times their size. For instance, consider the example of Coarse Adjustment: Focusing the specimen under low magnification power. For instance, consider the example of Fine Adjustment: Sharpening the focus detail under high magnification power. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Microscopes use compound lenses and light refraction to magnify objects up to 1000 times their size. For instance, consider the example of Coarse Adjustment: Focusing the specimen under low magnification power. For instance, consider the example of Fine Adjustment: Sharpening the focus detail under high magnification power.",
       "examples": [
         {
           "title": "Coarse Adjustment",
@@ -76,7 +76,7 @@
     },
     {
       "title": "Advanced Tool: Spring Scale",
-      "text": "Spring scales measure force or weight in Newtons by stretching a calibrated internal spring. For instance, consider the example of Force Measurement: Measuring the pull force needed to drag a block on cardboard. For instance, consider the example of Gravity Impact: Shows the downward gravitational force acting on a mass. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Spring scales measure force or weight in Newtons by stretching a calibrated internal spring. For instance, consider the example of Force Measurement: Measuring the pull force needed to drag a block on cardboard. For instance, consider the example of Gravity Impact: Shows the downward gravitational force acting on a mass.",
       "examples": [
         {
           "title": "Force Measurement",
@@ -90,7 +90,7 @@
     },
     {
       "title": "Advanced Tool: Graduated Cylinder",
-      "text": "Graduated cylinders provide much higher liquid volume accuracy than standard beakers or cups. For instance, consider the example of Material: Often made of chemical resistant polypropylene or glass. For instance, consider the example of Meniscus Reading: Always read at the lowest point of the concave water surface. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Graduated cylinders provide much higher liquid volume accuracy than standard beakers or cups. For instance, consider the example of Material: Often made of chemical resistant polypropylene or glass. For instance, consider the example of Meniscus Reading: Always read at the lowest point of the concave water surface.",
       "examples": [
         {
           "title": "Material",
@@ -104,7 +104,7 @@
     },
     {
       "title": "Advanced Tool: Digital Balance",
-      "text": "Digital scales measure mass with high precision by converting force into digital electrical signals. For instance, consider the example of Tare Function: Resetting the scale to zero with a container on it to weigh only contents. For instance, consider the example of Units: Reads mass in grams, ounces, or grains. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Digital scales measure mass with high precision by converting force into digital electrical signals. For instance, consider the example of Tare Function: Resetting the scale to zero with a container on it to weigh only contents. For instance, consider the example of Units: Reads mass in grams, ounces, or grains.",
       "examples": [
         {
           "title": "Tare Function",
@@ -118,7 +118,7 @@
     },
     {
       "title": "Advanced Tool: Bunsen Burner",
-      "text": "Bunsen burners produce a single open gas flame used for heating, sterilization, and combustion tests. For instance, consider the example of Air Control: Adjusting the collar to control oxygen mix for a clean blue flame. For instance, consider the example of Safety Valve: Quick shut-off gas lines in case of flame blow-back. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Bunsen burners produce a single open gas flame used for heating, sterilization, and combustion tests. For instance, consider the example of Air Control: Adjusting the collar to control oxygen mix for a clean blue flame. For instance, consider the example of Safety Valve: Quick shut-off gas lines in case of flame blow-back.",
       "examples": [
         {
           "title": "Air Control",
@@ -132,7 +132,7 @@
     },
     {
       "title": "Advanced Tool: PH Meter",
-      "text": "PH meters measure the hydrogen-ion activity in water-based solutions, indicating acidity. For instance, consider the example of Probe Calibration: Using buffer solutions (pH 4, 7, 10) to calibrate the probe. For instance, consider the example of Resolution: Reads values with 0.01 precision units. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "PH meters measure the hydrogen-ion activity in water-based solutions, indicating acidity. For instance, consider the example of Probe Calibration: Using buffer solutions (pH 4, 7, 10) to calibrate the probe. For instance, consider the example of Resolution: Reads values with 0.01 precision units.",
       "examples": [
         {
           "title": "Probe Calibration",
@@ -146,7 +146,7 @@
     },
     {
       "title": "Advanced Tool: Anemometer",
-      "text": "Anemometers measure wind speed and direction, converting wind pressure into mechanical rotation. For instance, consider the example of Cups: Three or four spinning cups capture wind velocity. For instance, consider the example of Digital Readout: Displays speed in kilometers per hour or knots. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Anemometers measure wind speed and direction, converting wind pressure into mechanical rotation. For instance, consider the example of Cups: Three or four spinning cups capture wind velocity. For instance, consider the example of Digital Readout: Displays speed in kilometers per hour or knots.",
       "examples": [
         {
           "title": "Cups",
@@ -160,7 +160,7 @@
     },
     {
       "title": "Advanced Tool: Hydrometer",
-      "text": "Hydrometers measure the relative density (specific gravity) of liquids based on buoyancy concepts. For instance, consider the example of Floatation: Floats higher in dense liquids like saltwater, lower in pure water. For instance, consider the example of Scale: Readings at the point where the liquid surface cuts the hydrometer stem. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Hydrometers measure the relative density (specific gravity) of liquids based on buoyancy concepts. For instance, consider the example of Floatation: Floats higher in dense liquids like saltwater, lower in pure water. For instance, consider the example of Scale: Readings at the point where the liquid surface cuts the hydrometer stem.",
       "examples": [
         {
           "title": "Floatation",
@@ -174,7 +174,7 @@
     },
     {
       "title": "Advanced Tool: Barometer",
-      "text": "Barometers measure atmospheric pressure, which is critical for predicting incoming weather fronts. For instance, consider the example of Mercury Barometer: Measures the height of a mercury column supported by air pressure. For instance, consider the example of Aneroid Barometer: Uses a small, flexible metal box called an aneroid cell. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Barometers measure atmospheric pressure, which is critical for predicting incoming weather fronts. For instance, consider the example of Mercury Barometer: Measures the height of a mercury column supported by air pressure. For instance, consider the example of Aneroid Barometer: Uses a small, flexible metal box called an aneroid cell.",
       "examples": [
         {
           "title": "Mercury Barometer",
@@ -188,7 +188,7 @@
     },
     {
       "title": "Advanced Tool: Spectrophotometer",
-      "text": "Spectrophotometers measure light absorption of a chemical solution across wavelengths. For instance, consider the example of Cuvette: A small square tube holding the liquid sample inside the machine. For instance, consider the example of Absorbance: More concentrated solutions absorb more light. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Spectrophotometers measure light absorption of a chemical solution across wavelengths. For instance, consider the example of Cuvette: A small square tube holding the liquid sample inside the machine. For instance, consider the example of Absorbance: More concentrated solutions absorb more light.",
       "examples": [
         {
           "title": "Cuvette",
@@ -202,7 +202,7 @@
     },
     {
       "title": "Advanced Tool: Sound Level Meter",
-      "text": "Sound level meters measure sound pressure levels in decibels (dB), tracking acoustic noise. For instance, consider the example of Microphone: Converts sound waves into electrical signals. For instance, consider the example of Decibel Scale: A logarithmic scale representing sound intensity. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Sound level meters measure sound pressure levels in decibels (dB), tracking acoustic noise. For instance, consider the example of Microphone: Converts sound waves into electrical signals. For instance, consider the example of Decibel Scale: A logarithmic scale representing sound intensity.",
       "examples": [
         {
           "title": "Microphone",
@@ -216,7 +216,7 @@
     },
     {
       "title": "Advanced Tool: Crucible & Tong",
-      "text": "Crucibles are ceramic pots that hold metals during high-temperature heating. For instance, consider the example of Refractory Material: Can withstand temperatures over 1000 degrees Celsius without melting. For instance, consider the example of Tong Safety: Using metal pincers to transfer hot crucibles from furnace to cooling pad. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Crucibles are ceramic pots that hold metals during high-temperature heating. For instance, consider the example of Refractory Material: Can withstand temperatures over 1000 degrees Celsius without melting. For instance, consider the example of Tong Safety: Using metal pincers to transfer hot crucibles from furnace to cooling pad.",
       "examples": [
         {
           "title": "Refractory Material",
@@ -230,7 +230,7 @@
     },
     {
       "title": "Advanced Tool: Pipette & Micropipette",
-      "text": "Micropipettes transfer microscopic liquid volumes in microliters (uL) with absolute precision. For instance, consider the example of Plunger Steps: First stop to draw liquid; second stop to blow out remaining drops. For instance, consider the example of Disposable Tips: Plastic tips changed between samples to prevent contamination. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Micropipettes transfer microscopic liquid volumes in microliters (uL) with absolute precision. For instance, consider the example of Plunger Steps: First stop to draw liquid; second stop to blow out remaining drops. For instance, consider the example of Disposable Tips: Plastic tips changed between samples to prevent contamination.",
       "examples": [
         {
           "title": "Plunger Steps",
@@ -244,7 +244,7 @@
     },
     {
       "title": "Advanced Tool: Stopwatch & Gate Timer",
-      "text": "Photocell gates measure speed accurately by recording the time an object blocks a light beam. For instance, consider the example of Photocell: Light sensor that triggers the clock start/stop instantly. For instance, consider the example of Precision: Measures time intervals in milliseconds, removing human reaction delay. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Photocell gates measure speed accurately by recording the time an object blocks a light beam. For instance, consider the example of Photocell: Light sensor that triggers the clock start/stop instantly. For instance, consider the example of Precision: Measures time intervals in milliseconds, removing human reaction delay.",
       "examples": [
         {
           "title": "Photocell",
@@ -258,7 +258,7 @@
     },
     {
       "title": "Guided Practice: Calibration Protocols",
-      "text": "Understanding how to calibrate a digital scale and a pH probe. For instance, consider the example of Digital Scale: Place a certified 100g weight and select calibrate mode. For instance, consider the example of pH Calibration: Dip probe in neutral buffer, select calibrate, then wash with distilled water. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Understanding how to calibrate a digital scale and a pH probe. For instance, consider the example of Digital Scale: Place a certified 100g weight and select calibrate mode. For instance, consider the example of pH Calibration: Dip probe in neutral buffer, select calibrate, then wash with distilled water.",
       "examples": [
         {
           "title": "Digital Scale",
@@ -272,7 +272,7 @@
     },
     {
       "title": "Guided Practice: Reading Meniscus",
-      "text": "Reading volume markings on a graduated cylinder. For instance, consider the example of Concave Meniscus: Water curves up the sides of glass; read the flat bottom of the curve. For instance, consider the example of Convex Meniscus: Mercury curves down; read the top of the curve. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Reading volume markings on a graduated cylinder. For instance, consider the example of Concave Meniscus: Water curves up the sides of glass; read the flat bottom of the curve. For instance, consider the example of Convex Meniscus: Mercury curves down; read the top of the curve.",
       "examples": [
         {
           "title": "Concave Meniscus",
@@ -286,7 +286,7 @@
     },
     {
       "title": "Guided Practice: Force Calibration",
-      "text": "Using a spring scale to measure mechanical drag. For instance, consider the example of Zeroing: Hold scale vertically with nothing attached and adjust screw to 0. For instance, consider the example of Measurement: Read force units in Newtons while dragging a block slowly. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Using a spring scale to measure mechanical drag. For instance, consider the example of Zeroing: Hold scale vertically with nothing attached and adjust screw to 0. For instance, consider the example of Measurement: Read force units in Newtons while dragging a block slowly.",
       "examples": [
         {
           "title": "Zeroing",
@@ -300,7 +300,7 @@
     },
     {
       "title": "Guided Practice: Microscopic View",
-      "text": "Calculating total magnification of a compound microscope. For instance, consider the example of Eyepiece Magnification: Standard eyepiece is 10x magnification. For instance, consider the example of Objective Lens: Using a 40x objective lens yields a total magnification of 400x. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Calculating total magnification of a compound microscope. For instance, consider the example of Eyepiece Magnification: Standard eyepiece is 10x magnification. For instance, consider the example of Objective Lens: Using a 40x objective lens yields a total magnification of 400x.",
       "examples": [
         {
           "title": "Eyepiece Magnification",
@@ -314,7 +314,7 @@
     },
     {
       "title": "Common Error: Parallax Error",
-      "text": "Parallax error happens when you read markings from an angle instead of eye level. For instance, consider the example of Incorrect: Looking down at a thermometer creates a false higher reading. For instance, consider the example of Correct: Position your eyes exactly level with the fluid surface. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Parallax error happens when you read markings from an angle instead of eye level. For instance, consider the example of Incorrect: Looking down at a thermometer creates a false higher reading. For instance, consider the example of Correct: Position your eyes exactly level with the fluid surface.",
       "examples": [
         {
           "title": "Incorrect",
@@ -328,7 +328,7 @@
     },
     {
       "title": "Common Error: Taring Neglect",
-      "text": "Neglecting to tare a scale results in the container's weight being added to the mass. For instance, consider the example of Incorrect: Weighing 10g of salt inside a 50g beaker and recording 60g. For instance, consider the example of Correct: Placing the beaker, pressing 'Tare' (zeroing), then adding salt for a 10g reading. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "Neglecting to tare a scale results in the container's weight being added to the mass. For instance, consider the example of Incorrect: Weighing 10g of salt inside a 50g beaker and recording 60g. For instance, consider the example of Correct: Placing the beaker, pressing 'Tare' (zeroing), then adding salt for a 10g reading.",
       "examples": [
         {
           "title": "Incorrect",
@@ -342,7 +342,7 @@
     },
     {
       "title": "Summary of Week 3 Advanced",
-      "text": "You completed Week 3 Advanced! You now understand precision calibration and advanced tools. For instance, consider the example of Key Takeaway: Advanced science requires reducing human and tool errors through systematic protocols. For instance, consider the example of Next Step: Advance to Week 4 to master science process skills like data classification and communication. To understand this concept deeply, we must look at how it applies to different situations in our daily lives. By studying this topic, students can develop critical thinking skills and learn to solve complex problems. It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation. Every example we observe helps us connect theoretical knowledge with practical real-world applications. As we explore more about this, we will find new ways to use this information to help our community.",
+      "text": "You completed Week 3 Advanced! You now understand precision calibration and advanced tools. For instance, consider the example of Key Takeaway: Advanced science requires reducing human and tool errors through systematic protocols. For instance, consider the example of Next Step: Advance to Week 4 to master science process skills like data classification and communication.",
       "examples": [
         {
           "title": "Key Takeaway",

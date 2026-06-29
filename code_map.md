@@ -154,3 +154,7 @@ This index maps the main architectural structures, settings systems, layouts, lo
 ### E. Native Build Script (`build_apk.sh`)
 * **File Path**: [build_apk.sh](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/scratch/build_apk.sh)
 * **Role**: Android build orchestration script compiling assets, managing version numbers, and building debug/release APK files.
+
+### F. Project Backup Protocol (`backup.py`)
+* **File Path**: [backup.py](file:///home/moondae/Antigravity%20Projects/Matts%20Files_apk/backup.py)
+* **Role**: Python script implementing the workspace backup, rotation, and version logging protocol before major updates.
