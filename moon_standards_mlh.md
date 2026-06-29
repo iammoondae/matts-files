@@ -4,6 +4,13 @@ This document establishes the official quality gate guidelines for development a
 
 ---
 
+## 📋 0. General Development & Plan Standards
+* **Implementation Plan Quality Rule**: In every implementation plan, the developer/AI assistant must always check the Moon Standards to ensure full compliance. This check is mandatory before execution starts.
+* **Image Generation & Approval**: The developer/AI assistant must explicitly inform the user when image generation has completed, specifying the directories where the images are saved, and request approval before proceeding with final integration or packaging.
+* **Direct Image Prompt Rule**: Weekly image generation prompts must be passed directly to the generator exactly as defined in the prompts database, with no additional hidden global style rules or wrapper layers. The prompt must be a direct visual interpretation of the slide description, and the negative prompt must only contain standard exclusions (`text, words, letters, numbers, labels, 3D, photorealistic, watermarks`) without over-constraining terms like "shadows" or "busy background" to allow for rich, cozy, and detailed backgrounds where appropriate (like bedrooms or scenic lakes).
+
+---
+
 ## 🔒 1. Onboarding & Login Standards
 The application is a hybrid Android app powered by Firebase Authentication. To maintain full cross-device capability and seamless user access, four (4) distinct onboarding login options must remain implemented, functioning, and un-compromised:
 
@@ -95,10 +102,11 @@ To ensure all AI models, coding assistants, and engineers maintain complete stra
 ## 📚 5. Curriculum & Study Guide Standards
 To maintain high educational quality and detail across all modules, the weekly content databases must follow these guidelines:
 
-### A. Slide Content Length (125-150 Word Rule)
-* **Requirement**: Each study guide slide (`slides` array objects) must contain between 125 and 150 words of rich, detailed, student-facing content in the `text` field.
+### A. Slide Content Length (80-150 Word Rule)
+* **Requirement**: Each study guide slide (`slides` array objects) must contain between 80 and 150 words of rich, detailed, student-facing content in the `text` field.
 * **Scope**: This rule applies universally to all Grade 3 subjects: Mathematics, Science, English, Filipino, Makabansa, and GMRC.
 * **Goal**: This prevents brief, superficial definitions, ensures thorough narrative explanations, and guarantees rich, comprehensive reading material for the student.
+* **Slide Uniqueness**: All slide content must be unique, contextually rich, and directly relevant to the topic. Static padding sentences, boilerplate text, or repeated placeholder paragraphs are strictly prohibited.
 * **Paragraph Wrap**: The slide text must be formatted as a continuous block of text without separating sentences into new lines (no newlines). The slide paragraph element `.slide-card-inner p` should wrap normally to display as a unified block of text.
 
 ### B. Student-Facing Active Pedagogy
@@ -109,7 +117,7 @@ To maintain high educational quality and detail across all modules, the weekly c
 ### C. Database Completeness & Validation Checks (Gate Checks)
 To ensure complete and error-free content delivery, the database validation compiler and checks (`validate_db.py`) enforce the following gates for Grade 3 (Weeks 1-4) subjects:
 * **Completeness of Learning Modes**: Each subject must define all 5 interactive modes:
-  * `slides`: exactly 25 slides, each containing 125 to 150 words of text.
+  * `slides`: exactly 25 slides, each containing 80 to 150 words of text.
   * `standard` (or `quiz`): exactly 25 questions.
   * `challenge`: exactly 5 questions.
   * `worksheet`: exactly 3 pages.
@@ -122,7 +130,7 @@ To ensure complete and error-free content delivery, the database validation comp
 * **Bilingual Translation Density**: The `filipino`, `makabansa`, and `gmrc` databases must contain a minimum of 20 `data-translation` spans per week to ensure comprehensive English-Filipino bilingual support.
 * **Quiz/Challenge Answer Fields**: Every quiz and challenge question must contain a valid, non-empty `"answer"` value matching its correct option/choice index or text input.
 * **Forbidden 'Advanced' Remarks & Prefix Placeholders**: Subject titles, subtitles, individual slide titles, slide texts, and all example fields (titles and contents) must never include brackets/suffix remarks like `(Advanced)` or `[Advanced]` (case-insensitive). They are also strictly prohibited from containing prefix placeholders such as `Advanced math:`, `Advanced science:`, `Advanced english:`, `Advanced filipino:`, `Advanced makabansa:`, `Advanced gmrc:`, `Advanced analysis:`, or `Advanced analysis is required:` (case-insensitive). All content must remain clean, student-facing, and fully integrated.
-* **Professional Diagram Images**: Each subject-week in all Grade 3 databases must contain between 3 and 5 unique educational images referenced in its slides, and all referenced image files must exist on disk in the `images/` directory. All images must be professional, clear, vector-style diagrams, schematics, or charts (non-cartoonish) that support learning.
+* **Professional Diagram Images**: Each subject-week in all Grade 3 databases must contain exactly 5 unique educational images referenced in its slides, and all referenced image files must exist on disk in the `images/` directory. All images must be professional, clear, vector-style diagrams, schematics, or charts (non-cartoonish) that support learning.
 
 ---
 

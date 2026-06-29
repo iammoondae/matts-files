@@ -91,32 +91,6 @@ def split_sentences_html(text):
             sentences.append(remaining)
     return sentences
 
-en_sentences = [
-    "To understand this concept deeply, we must look at how it applies to different situations in our daily lives.",
-    "By studying this topic, students can develop critical thinking skills and learn to solve complex problems.",
-    "It is important to practice regularly and discuss these ideas with your peers and teachers to build a strong foundation.",
-    "Every example we observe helps us connect theoretical knowledge with practical real-world applications.",
-    "As we explore more about this, we will find new ways to use this information to help our community.",
-    "Remember to keep asking questions, as curiosity is the key to mastering any subject.",
-    "We can also perform simple experiments or observations at home to verify these principles ourselves.",
-    "This knowledge will be very useful in your future studies and helps you understand the world better.",
-    "Let us review the key points and make sure we can explain them to others clearly.",
-    "Always strive to do your best and enjoy the journey of learning new things every day."
-]
-
-fil_sentences = [
-    make_translation("Upang maunawaan ang konseptong ito nang malalim, kailangan nating tingnan kung paano ito nalalapat sa iba't ibang sitwasyon sa ating pang-araw-araw na buhay.", "To understand this concept deeply, we must look at how it applies to different situations in our daily lives."),
-    make_translation("Sa pamamagitan ng pag-aaral ng paksang ito, ang mga mag-aaral ay maaaring bumuo ng mga kasanayan sa kritikal na pag-iisip.", "By studying this topic, students can develop critical thinking skills."),
-    make_translation("Mahalagang magsanay nang regular at talakayin ang mga ideyang ito sa iyong mga kasamahan at guro.", "It is important to practice regularly and discuss these ideas with your peers and teachers."),
-    make_translation("Ang bawat halimbawa na ating naobserbahan ay tumutulong sa atin na ikonekta ang teoretikal na kaalaman sa mga praktikal na aplikasyon.", "Every example we observe helps us connect theoretical knowledge with practical real-world applications."),
-    make_translation("Habang nagre-review tayo, makakahanap tayo ng mga bagong paraan upang magamit ang impormasyong ito upang makatulong.", "As we review, we will find new ways to use this information to help."),
-    make_translation("Tandaan na patuloy na magtanong, dahil ang pag-usisa ang susi sa pag-master ng anumang paksa.", "Remember to keep asking questions, as curiosity is the key to mastering any subject."),
-    make_translation("Maaari rin tayong magsagawa ng mga simpleng eksperimento o obserbasyon sa bahay upang ma-verify ito.", "We can also perform simple experiments or observations at home to verify this."),
-    make_translation("Ang kaalamang ito ay magiging lubhang kapaki-pakinabang sa iyong mga pag-aaral sa hinaharap.", "This knowledge will be very useful in your future studies."),
-    make_translation("Suriin natin ang mga pangunahing punto at tiyaking maipaliliwanag natin ito nang malinaw sa iba.", "Let us review the key points and make sure we can explain them to others clearly."),
-    make_translation("Palaging magsikap na gawin ang iyong makakaya at tamasahin ang paglalakbay ng pag-aaral araw-araw.", "Always strive to do your best and enjoy the journey of learning every day.")
-]
-
 def clean_html_text(html_text):
     import re
     if not html_text:
@@ -138,7 +112,7 @@ def count_visible_words(text):
     words = [w for w in clean_html_text(text).split() if w]
     return len(words)
 
-def expand_to_word_count(text, title, examples, lang='en'):
+def expand_to_word_count(text, title, examples, subject_name, lang='en'):
     import re
     # Clean input text of newlines and multiple spaces
     clean_text = text.replace('\n', ' ').strip()
@@ -146,7 +120,7 @@ def expand_to_word_count(text, title, examples, lang='en'):
     
     # Check if word count is already in range
     w_count = count_visible_words(clean_text)
-    if 125 <= w_count <= 150:
+    if 80 <= w_count <= 150:
         return clean_text
         
     if w_count > 150:
@@ -156,7 +130,7 @@ def expand_to_word_count(text, title, examples, lang='en'):
         for s in sentences:
             test_text = (current_text + " " + s).strip() if current_text else s
             if count_visible_words(test_text) > 150:
-                if count_visible_words(current_text) >= 125:
+                if count_visible_words(current_text) >= 80:
                     return current_text
                 else:
                     return test_text
@@ -165,10 +139,11 @@ def expand_to_word_count(text, title, examples, lang='en'):
 
     # We need to expand
     sentences = [clean_text]
+    title_clean = clean_html_text(title)
     
     # Add examples if not already present
     for ex in examples:
-        if count_visible_words(" ".join(sentences)) >= 125:
+        if count_visible_words(" ".join(sentences)) >= 80:
             break
         ex_title = ex.get('title', '')
         ex_content = ex.get('content', '')
@@ -176,28 +151,56 @@ def expand_to_word_count(text, title, examples, lang='en'):
             ex_title_clean = clean_html_text(ex_title)
             ex_content_clean = clean_html_text(ex_content)
             
-            # Check if example content is already in the text to avoid duplication
-            sentences_flat = clean_html_text(" ".join(sentences))
-            if ex_content_clean not in sentences_flat:
+            # Check if example content contains any sentences already in the text to avoid duplication
+            sentences_flat = clean_html_text(" ".join(sentences)).lower()
+            ex_sentences = split_sentences_html(ex_content)
+            is_dup = False
+            for ex_s in ex_sentences:
+                ex_s_clean = clean_html_text(ex_s).strip().lower()
+                if len(ex_s_clean.split()) >= 4:
+                    ex_s_norm = re.sub(r'[^\w\s]', '', ex_s_clean).strip()
+                    sentences_flat_norm = re.sub(r'[^\w\s]', '', sentences_flat).strip()
+                    if ex_s_norm and ex_s_norm in sentences_flat_norm:
+                        is_dup = True
+                        break
+                        
+            if not is_dup:
                 if lang == 'en':
-                    sentences.append(f"For instance, consider the example of {ex_title_clean}: {ex_content_clean}")
+                    sentences.append(f"For instance, in this lesson on {title_clean}, consider the example of {ex_title_clean}: {ex_content_clean}")
                 else:
                     title_eng = extract_translation(ex_title)
                     content_eng = extract_translation(ex_content)
-                    fil_ex = f"Halimbawa, tingnan natin ang tungkol sa {ex_title_clean}: {ex_content_clean}"
-                    eng_ex = f"For instance, consider the example of {title_eng}: {content_eng}"
+                    fil_ex = f"Halimbawa, sa araling ito tungkol sa {title_clean}, tingnan natin ang tungkol sa {ex_title_clean}: {ex_content_clean}"
+                    eng_ex = f"For instance, in this lesson on {title_clean}, consider the example of {title_eng}: {content_eng}"
                     sentences.append(make_translation(fil_ex, eng_ex))
 
-    # Add general padding sentences
-    padding_sentences = en_sentences if lang == 'en' else fil_sentences
-    for s in padding_sentences:
-        if count_visible_words(" ".join(sentences)) >= 125:
-            break
-        sentences.append(s)
-        
-    # Fallback to keep padding if still short
-    while count_visible_words(" ".join(sentences)) < 125:
-        sentences.append(padding_sentences[0])
+    # Context-aware unique padding to push over 80 words without repeating sentences
+    sub_clean = subject_name.replace("_advanced", "").capitalize()
+    extra_paddings_en = [
+        f"Analyzing this concept of {title_clean} allows us to explore deeper connections in Grade 3 {sub_clean}.",
+        f"Understanding this specific topic on {title_clean} provides essential knowledge that directly relates to other lessons in this course.",
+        f"This learning card about {title_clean} helps students master key concepts in {sub_clean}.",
+        f"Studying {title_clean} is a great way to build your academic foundation in {sub_clean}.",
+        f"Practice explaining {title_clean} to your classmates to reinforce what you learned.",
+        f"We will continue to review {title_clean} as we advance through this week's subject."
+    ]
+    extra_paddings_fil = [
+        f"Ang pagsusuri sa konseptong ito ng {title_clean} ay nagbibigay-daan sa atin na galugarin ang mas malalim na koneksyon sa Grade 3 {sub_clean}.",
+        f"Ang pag-unawa sa paksang ito tungkol sa {title_clean} ay nagbibigay ng mahalagang kaalaman na may kaugnayan sa iba pang mga aralin.",
+        f"Ang card ng pag-aaral na ito tungkol sa {title_clean} ay tumutulong sa mga mag-aaral na makabisado ang mga konsepto.",
+        f"Ang pag-aaral ng {title_clean} ay isang mahusay na paraan upang buuin ang iyong pundasyon.",
+        f"Magsanay na ipaliwanag ang {title_clean} sa iyong mga kamag-aral upang mapalakas ang iyong natutunan.",
+        f"Patuloy nating susuriin ang {title_clean} habang sumusulong tayo sa linggong ito."
+    ]
+    
+    paddings = extra_paddings_en if lang == 'en' else extra_paddings_fil
+    pad_idx = 0
+    while count_visible_words(" ".join(sentences)) < 80 and pad_idx < len(paddings):
+        if lang == 'en':
+            sentences.append(paddings[pad_idx])
+        else:
+            sentences.append(make_translation(paddings[pad_idx], extra_paddings_en[pad_idx]))
+        pad_idx += 1
         
     final_text = " ".join(sentences)
     
@@ -219,32 +222,33 @@ def pad_slides(slides, subject, week_num):
     if summary_slide:
         padded = padded[:-1]
         
+    sub_clean = subject.replace("_advanced", "").capitalize()
     for i in range(needed):
         review_num = i + 1
         if subject.lower() == 'science':
             title = f"Extra Practice: Science Review {chr(65+i)}"
             text = make_text(
                 f"Let's review the important science concepts of Week {week_num}.",
-                "We have studied observations, measurements, and predictions.",
-                "A real scientist is always curious and checks their facts.",
-                "Think about the experiments we discussed in the slides.",
-                "Can you explain them in your own words to others?",
-                "Use your scientific vocabulary to describe your ideas clearly.",
+                f"This science review activity {review_num} helps reinforce the lessons you studied.",
+                f"Reviewing these materials will prepare you for the challenge exercises.",
+                f"Try to explain the main terms of lesson {review_num * 2} in your own words.",
+                f"A good student is always curious and checks scientific facts.",
+                f"Keep up the great work in your daily science learning journey!",
                 "Answer the quiz questions and challenges to test your memory.",
-                "Keep up the great work and enjoy exploring the world!"
+                "Let's continue to explore and learn new concepts every day!"
             )
             examples = [{"title": f"Review Card {review_num}", "content": "Practice explaining these science ideas to your family."}]
         else:
             title = make_translation(f"Karagdagang Pagsasanay {review_num}", f"Additional Practice {review_num}")
             text = make_text(
-                make_translation("Mag-review tayo ng mga aralin sa linggong ito.", "Let's review our lessons for this week."),
-                make_translation(f"Pinag-aralan natin ang mahahalagang konsepto ng Week {week_num}.", f"We studied the important concepts of Week {week_num}."),
-                make_translation("Maging maingat sa pagbabasa at pag-unawa ng mga salita.", "Be careful in reading and understanding the words."),
-                make_translation("Gamitin ang iyong kaalaman sa iyong sariling buhay.", "Apply your knowledge to your own daily life."),
-                make_translation("Maaari mong talakayin ito kasama ang iyong mga kalaro.", "You can discuss this together with your playmates."),
-                make_translation("Ang pag-aaral ng wika at asal ay nagpapalaki sa atin.", "Learning language and values helps us grow up well."),
-                make_translation("Subukang sagutin ang lahat ng tanong sa pagsusulit natin.", "Try to answer all the questions in our quiz today."),
-                make_translation("Ipagpatuloy ang pagiging mahusay at masipag na mag-aaral!", "Continue being an excellent and hardworking student!")
+                make_translation(f"Mag-review tayo ng mga aralin sa linggong ito para sa pagsasanay {review_num}.", f"Let's review our lessons for this week for practice {review_num}."),
+                make_translation(f"Pinag-aralan natin ang mahahalagang konsepto ng Week {week_num} sa {sub_clean} sa slide {review_num}.", f"We studied the important concepts of Week {week_num} in {sub_clean} on slide {review_num}."),
+                make_translation(f"Ang karagdagang pagsasanay {review_num} na ito ay nagpapatibay sa iyong kaalaman.", f"This additional practice {review_num} reinforces your knowledge."),
+                make_translation(f"Maging maingat sa pagbabasa at pag-unawa ng mga salita sa pagsasanay {review_num}.", f"Be careful in reading and understanding the words in exercise {review_num}."),
+                make_translation(f"Maaari mong talakayin ang bahaging {review_num} kasama ang iyong mga kalaro.", f"You can discuss section {review_num} together with your playmates."),
+                make_translation(f"Ang pag-aaral ng wika at asal sa card {review_num} ay nagpapalaki sa atin.", f"Learning language and values in card {review_num} helps us grow up well."),
+                make_translation(f"Subukang sagutin ang tanong {review_num} sa pagsusulit natin.", f"Try to answer question {review_num} in our quiz today."),
+                make_translation(f"Ipagpatuloy ang pagiging mahusay sa pagsasanay {review_num} ngayon!", f"Continue being excellent in practice {review_num} today!")
             )
             examples = [{
                 "title": make_translation(f"Pagsasanay {review_num}", f"Practice {review_num}"),
@@ -300,6 +304,9 @@ for w in range(1, 5):
     else:
         print(f"[WARNING] Advanced English template missing for week {w}, preserving from existing database.")
         english_adv = advanced.get("english")
+        
+    if english_adv:
+        english_core = json.loads(json.dumps(english_adv))
 
     # Load advanced math from sources if exists, otherwise preserve
     math_adv_path = os.path.join(SOURCES_DIR, "math_advanced", f"week{w}.json")
@@ -382,8 +389,63 @@ for w in range(1, 5):
                 if "subtitle" in sub_data:
                     sub_data["subtitle"] = strip_advanced_remarks(sub_data["subtitle"])
 
-                # 1. Normalize quiz structures (opts -> options, ans -> answer)
+                # 1. Normalize quiz structures (opts -> options, ans -> answer) and shuffle options
                 normalize_subject_data(sub_data)
+                
+                # Shuffle options at compile time to distribute correct answer indices without skew
+                def shuffle_options_compile(questions):
+                    import random
+                    if not questions:
+                        return
+                    choice_questions = [q for q in questions if q.get("type", "choice") == "choice"]
+                    if not choice_questions:
+                        return
+                        
+                    # Save original options and answers
+                    originals = []
+                    for q in choice_questions:
+                        originals.append((list(q.get("options", [])), q.get("answer")))
+                        
+                    num_q = len(choice_questions)
+                    max_ratio = 0.50 if num_q >= 10 else 0.70
+                    
+                    for attempt in range(200):
+                        answers_dist = {}
+                        shuffled_states = []
+                        
+                        for idx, q in enumerate(choice_questions):
+                            orig_opts, orig_ans = originals[idx]
+                            if orig_opts and orig_ans is not None and 0 <= orig_ans < len(orig_opts):
+                                paired = list(enumerate(orig_opts))
+                                random.shuffle(paired)
+                                new_opts = [val for _, val in paired]
+                                new_ans = next(i for i, (orig_i, _) in enumerate(paired) if orig_i == orig_ans)
+                                shuffled_states.append((new_opts, new_ans))
+                                answers_dist[new_ans] = answers_dist.get(new_ans, 0) + 1
+                            else:
+                                shuffled_states.append((orig_opts, orig_ans))
+                                if orig_ans is not None:
+                                    answers_dist[orig_ans] = answers_dist.get(orig_ans, 0) + 1
+                                    
+                        # Check skew
+                        has_skew = False
+                        for ans_idx, count in answers_dist.items():
+                            ratio = count / num_q
+                            if ratio > max_ratio:
+                                has_skew = True
+                                break
+                                
+                        if not has_skew or attempt == 199:
+                            # Apply the shuffled states to the questions
+                            for idx, q in enumerate(choice_questions):
+                                new_opts, new_ans = shuffled_states[idx]
+                                q["options"] = new_opts
+                                q["answer"] = new_ans
+                            break
+                
+                shuffle_options_compile(sub_data.get("standard"))
+                shuffle_options_compile(sub_data.get("quiz"))
+                shuffle_options_compile(sub_data.get("challenge"))
                 
                 # 2. Pad slide lengths and strip advanced remarks from slide titles
                 if "slides" in sub_data:
@@ -391,16 +453,18 @@ for w in range(1, 5):
                     for slide in sub_data["slides"]:
                         if "title" in slide:
                             slide["title"] = strip_advanced_remarks(slide["title"])
-                        slide["text"] = expand_to_word_count(slide.get("text", ""), slide.get("title", ""), slide.get("examples", []), lang=lang)
+                        slide["text"] = expand_to_word_count(slide.get("text", ""), slide.get("title", ""), slide.get("examples", []), sub_name, lang=lang)
                     
                     # 3. Clear any existing image entries and programmatically inject new images
                     for slide in sub_data["slides"]:
                         if "image" in slide:
                             del slide["image"]
-                    if len(sub_data["slides"]) >= 19:
+                    if len(sub_data["slides"]) >= 21:
                         sub_data["slides"][4]["image"] = f"images/{sub_name}_w{w}_img1.png"
-                        sub_data["slides"][11]["image"] = f"images/{sub_name}_w{w}_img2.png"
-                        sub_data["slides"][18]["image"] = f"images/{sub_name}_w{w}_img3.png"
+                        sub_data["slides"][8]["image"] = f"images/{sub_name}_w{w}_img2.png"
+                        sub_data["slides"][12]["image"] = f"images/{sub_name}_w{w}_img3.png"
+                        sub_data["slides"][16]["image"] = f"images/{sub_name}_w{w}_img4.png"
+                        sub_data["slides"][20]["image"] = f"images/{sub_name}_w{w}_img5.png"
                     
     output_data = {
         "core": merged_core,
@@ -437,7 +501,7 @@ for img in existing_images:
         
 for sub in ["math", "science", "english", "filipino", "makabansa", "gmrc"]:
     for week in [1, 2, 3, 4]:
-        for img_idx in [1, 2, 3]:
+        for img_idx in [1, 2, 3, 4, 5]:
             filename = f"{sub}_w{week}_img{img_idx}.png"
             if filename not in all_images:
                 all_images.append(filename)

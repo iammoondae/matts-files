@@ -50,6 +50,20 @@ function stripHtmlTagsAndQuotes(text) {
   return text.replace(/<[^>]*>/g, '').replace(/"/g, '&quot;').trim();
 }
 
+async function calculateSHA256(text) {
+  const msgBuffer = new TextEncoder().encode(text);
+  const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
+  const hashArray = Array.from(new Uint8Array(hashBuffer));
+  const hashHex = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+  return hashHex;
+}
+
+async function verifyFileHash(text, expectedHash) {
+  if (!expectedHash) return false;
+  const calculated = await calculateSHA256(text);
+  return calculated.toLowerCase() === expectedHash.toLowerCase();
+}
+
 const PARENT_LEARNER_ACTIVITIES = [
   {
     title: "Everyday Material Tinkering Log",
@@ -1186,7 +1200,7 @@ function loadWeekData(weekIdentifier, isRestore) {
         window[`WEEK${weekNumber}_DATA`] = parsed.core;
         window[`WEEK${weekNumber}_ADVANCED_DATA`] = parsed.advanced;
       } else {
-        (0, eval)(localContent);
+        console.warn("Legacy .js database format is no longer supported for security reasons.");
       }
       
       const data = window[`WEEK${weekNumber}_DATA`];
@@ -1267,7 +1281,7 @@ function loadReviewData(date, isRestore) {
         window[`REVIEW_${date}_DATA`] = parsed.core;
         window[`REVIEW_${date}_ADVANCED_DATA`] = parsed.advanced;
       } else {
-        (0, eval)(localContent);
+        console.warn("Legacy .js review database format is no longer supported for security reasons.");
       }
       
       const data = window[`REVIEW_${date}_DATA`];
@@ -1338,7 +1352,7 @@ function changeWeek(val) {
   loadWeekData(val);
 }
 
-// Handler for uploading one or multiple weekX.js or image files manually
+// Handler for uploading one or multiple weekX.json or image files manually
 function handleWeeklyUpload(files) {
   if (!files || files.length === 0) return;
   
@@ -1355,37 +1369,39 @@ function handleWeeklyUpload(files) {
     const reader = new FileReader();
     
     const isJS = file.name.endsWith('.js');
+    const isJSON = file.name.endsWith('.json');
     const isImage = /\.(png|jpe?g|gif|webp)$/i.test(file.name);
     
     reader.onload = (e) => {
       const content = e.target.result;
-      if (isJS) {
+      if (isJSON) {
         try {
-          (0, eval)(content);
+          const parsed = JSON.parse(content);
+          const weekMatch = file.name.match(/^week(\d+)\.json$/i);
+          const reviewMatch = file.name.match(/^review_(.+)\.json$/i);
           
-          let detectedWeek = null;
-          for (let w = 1; w <= 40; w++) {
-            if (window[`WEEK${w}_DATA`]) {
-              detectedWeek = w;
-              break;
-            }
-          }
-          
-          if (detectedWeek) {
-            safeStorage.setItem(`local_${learnerGrade}_week_data_${detectedWeek}`, content);
-            loadedWeeks.push(detectedWeek);
+          if (weekMatch) {
+            const w = parseInt(weekMatch[1]);
+            safeStorage.setItem(`local_${learnerGrade}_week_data_${w}`, JSON.stringify(parsed));
+            loadedWeeks.push(w);
             successWeeksCount++;
             
-            if (detectedWeek === currentWeek) {
+            if (w === currentWeek) {
               loadWeekData(currentWeek);
             }
+          } else if (reviewMatch) {
+            const rDate = reviewMatch[1];
+            safeStorage.setItem(`local_${learnerGrade}_review_data_${rDate}`, JSON.stringify(parsed));
+            successWeeksCount++;
           } else {
-            throw new Error("No valid WEEKx_DATA variable detected in the file.");
+            throw new Error("Invalid JSON filename. Must be 'weekX.json' or 'review_DATE.json'.");
           }
         } catch (err) {
           console.error(err);
           alert(`Error loading "${file.name}": ${err.message}`);
         }
+      } else if (isJS) {
+        alert(`Legacy .js uploads are deprecated for security. Please convert "${file.name}" to .json format.`);
       } else if (isImage) {
         try {
           safeStorage.setItem(`local_image_${file.name}`, content);
@@ -1402,7 +1418,7 @@ function handleWeeklyUpload(files) {
         buildWeekSelector();
         let msg = "Upload results:\n";
         if (successWeeksCount > 0) {
-          msg += `• Loaded ${successWeeksCount} weeks to ${learnerGrade.toUpperCase()}: Week ${loadedWeeks.sort((a,b)=>a-b).join(', ')}\n`;
+          msg += `• Loaded ${successWeeksCount} data sets to ${learnerGrade.toUpperCase()}\n`;
         }
         if (successImagesCount > 0) {
           msg += `• Loaded ${successImagesCount} images: ${loadedImages.join(', ')}\n`;
@@ -1413,7 +1429,7 @@ function handleWeeklyUpload(files) {
       }
     };
     
-    if (isJS) {
+    if (isJS || isJSON) {
       reader.readAsText(file);
     } else if (isImage) {
       reader.readAsDataURL(file);
@@ -1444,93 +1460,139 @@ function getImageSrc(imagePath) {
 }
 
 
-// Function to check online updates from the GitHub repository (Option B)
-function checkWeeklyUpdates() {
-  const btn = document.getElementById('update-topics-btn');
-  const headerBtn = document.getElementById('header-update-btn');
-  if (btn) {
-    btn.disabled = true;
-    btn.innerText = "⏳ Checking Updates...";
-  }
-  if (headerBtn) {
-    headerBtn.disabled = true;
-    headerBtn.innerText = "⏳ Updating...";
+// Unified function to download and verify weekly topics, reviews, and images
+async function downloadWeeklyTopics(reporter) {
+  if (reporter && typeof reporter.onStart === 'function') {
+    reporter.onStart();
   }
 
   const learnerGrade = getLearnerGrade();
   const manifestUrl = `${REMOTE_UPDATE_URL}/data/${learnerGrade}/manifest.json`;
 
-  fetch(manifestUrl, { cache: 'no-store' })
-    .then(response => {
-      if (!response.ok) {
-        throw new Error(`Failed to fetch manifest for ${learnerGrade.toUpperCase()} (HTTP ${response.status})`);
+  try {
+    const response = await fetch(manifestUrl, { cache: 'no-store' });
+    if (!response.ok) {
+      throw new Error(`Failed to fetch manifest for ${learnerGrade.toUpperCase()} (HTTP ${response.status})`);
+    }
+    const manifest = await response.json();
+    const localVersion = safeStorage.getItem(`local_${learnerGrade}_manifest_version`);
+    const remoteVersion = manifest.version || '';
+
+    if (localVersion && localVersion === remoteVersion) {
+      if (reporter && typeof reporter.onNoUpdate === 'function') {
+        reporter.onNoUpdate();
       }
-      return response.json();
-    })
-    .then(manifest => {
-      const localVersion = safeStorage.getItem(`local_${learnerGrade}_manifest_version`);
-      const remoteVersion = manifest.version || '';
+      return;
+    }
+
+    const weeksToDownload = manifest.weeks || [];
+    const imagesToDownload = manifest.images || [];
+    const reviewsToDownload = manifest.reviews || [];
+
+    if (weeksToDownload.length === 0 && imagesToDownload.length === 0 && reviewsToDownload.length === 0) {
+      if (reporter && typeof reporter.onNoUpdate === 'function') {
+        reporter.onNoUpdate();
+      }
+      return;
+    }
+
+    const totalTasks = weeksToDownload.length + reviewsToDownload.length + imagesToDownload.length;
+    let completedCount = 0;
+
+    const reportProgress = () => {
+      completedCount++;
+      if (reporter && typeof reporter.onProgress === 'function') {
+        reporter.onProgress(completedCount, totalTasks);
+      }
+    };
+
+    if (reporter && typeof reporter.onProgress === 'function') {
+      reporter.onProgress(0, totalTasks);
+    }
+
+    const loadedWeeks = [];
+    const loadedReviews = [];
+    const loadedImages = [];
+
+    // Helper for downloading a single file with optional SHA-256 hash verification
+    const downloadAndVerifyFile = async (url, expectedHash, filename) => {
+      const res = await fetch(url, { cache: 'no-store' });
+      if (!res.ok) {
+        throw new Error(`Download failed for ${filename} (HTTP ${res.status})`);
+      }
+      const text = await res.text();
       
-      if (localVersion && localVersion === remoteVersion) {
-        alert("There is no available update.");
-        resetButton();
-        return;
+      if (expectedHash) {
+        const isValid = await verifyFileHash(text, expectedHash);
+        if (!isValid) {
+          throw new Error(`Content verification failed: Hash mismatch for file ${filename}.`);
+        }
       }
+      return text;
+    };
 
-      const weeksToDownload = manifest.weeks || [];
-      const imagesToDownload = manifest.images || [];
-      const reviewsToDownload = manifest.reviews || [];
+    const tasks = [];
 
-      if (weeksToDownload.length === 0 && imagesToDownload.length === 0 && reviewsToDownload.length === 0) {
-        alert("There is no available update.");
-        resetButton();
-        return;
-      }
+    // 1. Download week JSON files
+    weeksToDownload.forEach(item => {
+      let w = typeof item === 'object' ? (item.week || item.file.match(/\d+/)[0]) : item;
+      let expectedHash = typeof item === 'object' ? item.sha256 : null;
+      w = parseInt(w);
+      const filename = `week${w}.json`;
+      const url = `${REMOTE_UPDATE_URL}/data/${learnerGrade}/${filename}`;
 
-      let tasks = [];
-      let loadedWeeks = [];
-      let loadedImages = [];
-      let loadedReviews = [];
-
-      // A. Download week JSON files
-      weeksToDownload.forEach(w => {
-        const url = `${REMOTE_UPDATE_URL}/data/${learnerGrade}/week${w}.json`;
-        const task = fetch(url, { cache: 'no-store' })
-          .then(res => {
-            if (!res.ok) throw new Error(`Week ${w} download failed (HTTP ${res.status})`);
-            return res.json();
-          })
-          .then(jsonData => {
-            safeStorage.setItem(`local_${learnerGrade}_week_data_${w}`, JSON.stringify(jsonData));
+      tasks.push(
+        downloadAndVerifyFile(url, expectedHash, filename)
+          .then(text => {
+            JSON.parse(text); // validate JSON syntax
+            safeStorage.setItem(`local_${learnerGrade}_week_data_${w}`, text);
             loadedWeeks.push(w);
-          });
-        tasks.push(task);
-      });
-
-      // B. Download review JSON files
-      reviewsToDownload.forEach(r => {
-        const url = `${REMOTE_UPDATE_URL}/data/${learnerGrade}/review_${r}.json`;
-        const task = fetch(url, { cache: 'no-store' })
-          .then(res => {
-            if (!res.ok) throw new Error(`Review ${r} download failed (HTTP ${res.status})`);
-            return res.json();
+            reportProgress();
           })
-          .then(jsonData => {
-            safeStorage.setItem(`local_${learnerGrade}_review_data_${r}`, JSON.stringify(jsonData));
-            loadedReviews.push(r);
-          });
-        tasks.push(task);
-      });
+      );
+    });
 
-      // C. Download images and convert to Base64 data URLs
-      imagesToDownload.forEach(img => {
-        const url = `${REMOTE_UPDATE_URL}/images/${img}`;
-        const task = fetch(url, { cache: 'no-store' })
+    // 2. Download review JSON files
+    reviewsToDownload.forEach(item => {
+      let r = typeof item === 'object' ? (item.review || item.file.match(/review_(.+)\.json/)[1]) : item;
+      let expectedHash = typeof item === 'object' ? item.sha256 : null;
+      const filename = `review_${r}.json`;
+      const url = `${REMOTE_UPDATE_URL}/data/${learnerGrade}/${filename}`;
+
+      tasks.push(
+        downloadAndVerifyFile(url, expectedHash, filename)
+          .then(text => {
+            JSON.parse(text); // validate JSON syntax
+            safeStorage.setItem(`local_${learnerGrade}_review_data_${r}`, text);
+            loadedReviews.push(r);
+            reportProgress();
+          })
+      );
+    });
+
+    // 3. Download image files
+    imagesToDownload.forEach(item => {
+      let img = typeof item === 'object' ? item.file : item;
+      let expectedHash = typeof item === 'object' ? item.sha256 : null;
+      const url = `${REMOTE_UPDATE_URL}/images/${img}`;
+
+      tasks.push(
+        fetch(url, { cache: 'no-store' })
           .then(res => {
             if (!res.ok) throw new Error(`Image ${img} download failed (HTTP ${res.status})`);
             return res.blob();
           })
-          .then(blob => {
+          .then(async blob => {
+            if (expectedHash) {
+              const arrayBuffer = await blob.arrayBuffer();
+              const hashBuffer = await crypto.subtle.digest('SHA-256', arrayBuffer);
+              const hashArray = Array.from(new Uint8Array(hashBuffer));
+              const calculated = hashArray.map(b => b.toString(16).padStart(2, '0')).join('');
+              if (calculated.toLowerCase() !== expectedHash.toLowerCase()) {
+                throw new Error(`Content verification failed: Hash mismatch for image ${img}.`);
+              }
+            }
+
             return new Promise((resolve, reject) => {
               const reader = new FileReader();
               reader.onloadend = () => resolve(reader.result);
@@ -1541,52 +1603,100 @@ function checkWeeklyUpdates() {
           .then(base64Data => {
             safeStorage.setItem(`local_image_${img}`, base64Data);
             loadedImages.push(img);
-          });
-        tasks.push(task);
-      });
-
-      return Promise.all(tasks).then(() => {
-        if (remoteVersion) {
-          safeStorage.setItem(`local_${learnerGrade}_manifest_version`, remoteVersion);
-        }
-        buildWeekSelector();
-        
-        if (loadedWeeks.includes(currentWeek)) {
-          loadWeekData(currentWeek);
-        }
-
-        const gradeNames = { 'g1': 'Grade 1', 'g2': 'Grade 2', 'g3': 'Grade 3' };
-        const gradeFriendly = gradeNames[learnerGrade] || learnerGrade.toUpperCase();
-        let successMsg = `Update successful for ${gradeFriendly}!\n`;
-        if (loadedWeeks.length > 0) {
-          successMsg += `\n• Downloaded Weeks: ${loadedWeeks.sort((a,b)=>a-b).join(', ')}`;
-        }
-        if (loadedReviews.length > 0) {
-          successMsg += `\n• Downloaded Reviews: ${loadedReviews.map(formatReviewDate).join(', ')}`;
-        }
-        if (loadedImages.length > 0) {
-          successMsg += `\n• Downloaded Images: ${loadedImages.join(', ')}`;
-        }
-        alert(successMsg);
-        resetButton();
-      });
-    })
-    .catch(err => {
-      console.error(err);
-      alert(`Update failed: ${err.message}\n\nPlease check your internet connection or GitHub repository setup.`);
-      resetButton();
+            reportProgress();
+          })
+      );
     });
 
-  function resetButton() {
-    if (btn) {
-      btn.disabled = false;
-      btn.innerText = "📥 Update Weekly Topics";
+    await Promise.all(tasks);
+
+    if (remoteVersion) {
+      safeStorage.setItem(`local_${learnerGrade}_manifest_version`, remoteVersion);
     }
-    if (headerBtn) {
-      headerBtn.disabled = false;
-      headerBtn.innerText = "📥 Update";
+    buildWeekSelector();
+    
+    if (loadedWeeks.includes(currentWeek)) {
+      loadWeekData(currentWeek);
+    }
+
+    if (reporter && typeof reporter.onSuccess === 'function') {
+      reporter.onSuccess({
+        learnerGrade,
+        loadedWeeks,
+        loadedReviews,
+        loadedImages
+      });
+    }
+  } catch (err) {
+    console.error(err);
+    if (reporter && typeof reporter.onError === 'function') {
+      reporter.onError(err);
     }
   }
+}
+
+// Function to check online updates from the GitHub repository (Option B)
+function checkWeeklyUpdates() {
+  const btn = document.getElementById('update-topics-btn');
+  const headerBtn = document.getElementById('header-update-btn');
+
+  const settingsReporter = {
+    onStart() {
+      if (btn) {
+        btn.disabled = true;
+        btn.innerText = "⏳ Checking Updates...";
+      }
+      if (headerBtn) {
+        headerBtn.disabled = true;
+        headerBtn.innerText = "⏳ Updating...";
+      }
+    },
+    onNoUpdate() {
+      alert("There is no available update.");
+      this.onFinished();
+    },
+    onProgress(completed, total) {
+      if (btn) {
+        btn.innerText = `⏳ Updating (${completed}/${total})...`;
+      }
+      if (headerBtn) {
+        headerBtn.innerText = `⏳ (${completed}/${total})...`;
+      }
+    },
+    onSuccess(details) {
+      const { learnerGrade, loadedWeeks, loadedReviews, loadedImages } = details;
+      const gradeNames = { 'g1': 'Grade 1', 'g2': 'Grade 2', 'g3': 'Grade 3' };
+      const gradeFriendly = gradeNames[learnerGrade] || learnerGrade.toUpperCase();
+      let successMsg = `Update successful for ${gradeFriendly}!\n`;
+      if (loadedWeeks.length > 0) {
+        successMsg += `\n• Downloaded Weeks: ${loadedWeeks.sort((a,b)=>a-b).join(', ')}`;
+      }
+      if (loadedReviews.length > 0) {
+        successMsg += `\n• Downloaded Reviews: ${loadedReviews.map(formatReviewDate).join(', ')}`;
+      }
+      if (loadedImages.length > 0) {
+        successMsg += `\n• Downloaded Images: ${loadedImages.join(', ')}`;
+      }
+      alert(successMsg);
+      this.onFinished();
+    },
+    onError(err) {
+      alert(`Update failed: ${err.message || err}\n\nPlease check your internet connection or GitHub repository setup.`);
+      this.onFinished();
+    },
+    onFinished() {
+      if (btn) {
+        btn.disabled = false;
+        btn.innerText = "📥 Update Weekly Topics";
+      }
+      if (headerBtn) {
+        headerBtn.disabled = false;
+        headerBtn.innerText = "📥 Update";
+      }
+    }
+  };
+
+  downloadWeeklyTopics(settingsReporter);
 }
 
 // Show/hide monthly DepEd Competency checklist button
@@ -2092,11 +2202,18 @@ function renderQuizQuestion(questionsList, qBody) {
   const q = questionsList[currentQuestionIndex];
 
   if (q.type === 'choice' || q.type === 'verify') {
+    // Generate shuffled indices for choices
+    const originalIndices = q.options.map((_, idx) => idx);
+    for (let i = originalIndices.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [originalIndices[i], originalIndices[j]] = [originalIndices[j], originalIndices[i]];
+    }
+
     let choicesHTML = '';
-    q.options.forEach((opt, idx) => {
+    originalIndices.forEach((origIdx) => {
       choicesHTML += `
-        <button class="choice-btn" id="choice-${idx}" onclick="selectChoice(${idx})">
-          <span>${opt}</span>
+        <button class="choice-btn" id="choice-${origIdx}" onclick="selectChoice(${origIdx})">
+          <span>${q.options[origIdx]}</span>
         </button>
       `;
     });
@@ -5869,11 +5986,17 @@ function renderPatternQuestion(container) {
   }
   
   const question = gamePatternQuestions[gamePatternQuestionIdx];
+  const originalIndices = question.choices.map((_, idx) => idx);
+  for (let i = originalIndices.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [originalIndices[i], originalIndices[j]] = [originalIndices[j], originalIndices[i]];
+  }
+  
   let choicesHTML = '';
-  question.choices.forEach((choice, idx) => {
+  originalIndices.forEach((origIdx) => {
     choicesHTML += `
-      <button class="ws-btn-action" onclick="answerPatternQuestion(${idx})" style="padding: 14px 20px; font-size: 16px; min-width: 120px; border-radius: 12px;">
-        ${choice}
+      <button class="ws-btn-action" onclick="answerPatternQuestion(${origIdx})" style="padding: 14px 20px; font-size: 16px; min-width: 120px; border-radius: 12px;">
+        ${question.choices[origIdx]}
       </button>
     `;
   });
@@ -6528,141 +6651,46 @@ function runOnboardingUpdate() {
   const statusEl = document.getElementById('onboarding-update-status');
   const skipBtn = document.getElementById('onboarding-update-skip-btn');
   const updateBtn = document.getElementById('onboarding-update-now-btn');
-  
-  if (updateBtn) updateBtn.disabled = true;
-  if (skipBtn) skipBtn.disabled = true;
-  if (statusEl) {
-    statusEl.innerHTML = "⏳ Checking for updates...";
-    statusEl.style.color = "var(--text-main)";
-  }
 
-  const learnerGrade = getLearnerGrade();
-  const manifestUrl = `${REMOTE_UPDATE_URL}/data/${learnerGrade}/manifest.json`;
-
-  fetch(manifestUrl, { cache: 'no-store' })
-    .then(response => {
-      if (!response.ok) {
-        throw new Error(`Failed to fetch manifest for ${learnerGrade.toUpperCase()} (HTTP ${response.status})`);
-      }
-      return response.json();
-    })
-    .then(manifest => {
-      const localVersion = safeStorage.getItem(`local_${learnerGrade}_manifest_version`);
-      const remoteVersion = manifest.version || '';
-
-      if (localVersion && localVersion === remoteVersion) {
-        if (statusEl) {
-          statusEl.style.color = "var(--correct)";
-          statusEl.innerHTML = "✅ There is no available update.";
-        }
-        setTimeout(() => showOnboardingPINStep(), 1500);
-        return;
-      }
-
-      const weeksToDownload = manifest.weeks || [];
-      const imagesToDownload = manifest.images || [];
-      const reviewsToDownload = manifest.reviews || [];
-
-      if (weeksToDownload.length === 0 && imagesToDownload.length === 0 && reviewsToDownload.length === 0) {
-        if (statusEl) {
-          statusEl.style.color = "var(--correct)";
-          statusEl.innerHTML = "✅ There is no available update.";
-        }
-        setTimeout(() => showOnboardingPINStep(), 1500);
-        return;
-      }
-
-      let totalTasks = weeksToDownload.length + reviewsToDownload.length + imagesToDownload.length;
+  const onboardingReporter = {
+    onStart() {
+      if (updateBtn) updateBtn.disabled = true;
+      if (skipBtn) skipBtn.disabled = true;
       if (statusEl) {
-        statusEl.innerHTML = `⏳ Downloading content (0/${totalTasks})...`;
+        statusEl.innerHTML = "⏳ Checking for updates...";
+        statusEl.style.color = "var(--text-main)";
       }
-
-      let tasks = [];
-      let loadedWeeks = [];
-      let completedCount = 0;
-
-      function updateProgress() {
-        completedCount++;
-        if (statusEl) {
-          statusEl.innerHTML = `⏳ Downloading content (${completedCount}/${totalTasks})...`;
-        }
+    },
+    onNoUpdate() {
+      if (statusEl) {
+        statusEl.style.color = "var(--correct)";
+        statusEl.innerHTML = "✅ There is no available update.";
       }
-
-      // Download week JSON files
-      weeksToDownload.forEach(w => {
-        const url = `${REMOTE_UPDATE_URL}/data/${learnerGrade}/week${w}.json`;
-        const task = fetch(url, { cache: 'no-store' })
-          .then(res => {
-            if (!res.ok) throw new Error(`Week ${w} download failed`);
-            return res.json();
-          })
-          .then(jsonData => {
-            safeStorage.setItem(`local_${learnerGrade}_week_data_${w}`, JSON.stringify(jsonData));
-            loadedWeeks.push(w);
-            updateProgress();
-          });
-        tasks.push(task);
-      });
-
-      // Download review JSON files
-      reviewsToDownload.forEach(r => {
-        const url = `${REMOTE_UPDATE_URL}/data/${learnerGrade}/review_${r}.json`;
-        const task = fetch(url, { cache: 'no-store' })
-          .then(res => {
-            if (!res.ok) throw new Error(`Review ${r} download failed`);
-            return res.json();
-          })
-          .then(jsonData => {
-            safeStorage.setItem(`local_${learnerGrade}_review_data_${r}`, JSON.stringify(jsonData));
-            updateProgress();
-          });
-        tasks.push(task);
-      });
-
-      // Download images
-      imagesToDownload.forEach(img => {
-        const url = `${REMOTE_UPDATE_URL}/images/${img}`;
-        const task = fetch(url, { cache: 'no-store' })
-          .then(res => {
-            if (!res.ok) throw new Error(`Image ${img} download failed`);
-            return res.blob();
-          })
-          .then(blob => {
-            return new Promise((resolve, reject) => {
-              const reader = new FileReader();
-              reader.onloadend = () => resolve(reader.result);
-              reader.onerror = reject;
-              reader.readAsDataURL(blob);
-            });
-          })
-          .then(base64Data => {
-            safeStorage.setItem(`local_image_${img}`, base64Data);
-            updateProgress();
-          });
-        tasks.push(task);
-      });
-
-      return Promise.all(tasks).then(() => {
-        if (remoteVersion) {
-          safeStorage.setItem(`local_${learnerGrade}_manifest_version`, remoteVersion);
-        }
-        buildWeekSelector();
-        if (statusEl) {
-          statusEl.style.color = "var(--correct)";
-          statusEl.innerHTML = "✅ Update successful!";
-        }
-        setTimeout(() => showOnboardingPINStep(), 1500);
-      });
-    })
-    .catch(err => {
-      console.error(err);
+      setTimeout(() => showOnboardingPINStep(), 1500);
+    },
+    onProgress(completed, total) {
+      if (statusEl) {
+        statusEl.innerHTML = `⏳ Downloading content (${completed}/${total})...`;
+      }
+    },
+    onSuccess(details) {
+      if (statusEl) {
+        statusEl.style.color = "var(--correct)";
+        statusEl.innerHTML = "✅ Update successful!";
+      }
+      setTimeout(() => showOnboardingPINStep(), 1500);
+    },
+    onError(err) {
       if (statusEl) {
         statusEl.style.color = "var(--incorrect)";
         statusEl.innerHTML = `❌ Update failed: ${err.message || 'No connection'}`;
       }
       if (updateBtn) updateBtn.disabled = false;
       if (skipBtn) skipBtn.disabled = false;
-    });
+    }
+  };
+
+  downloadWeeklyTopics(onboardingReporter);
 }
 
 function renderOnboardingScheduleGrid() {
@@ -8238,11 +8266,17 @@ function renderOddOneOutQuestion(container) {
   
   const question = gameOddOneOutQuestions[gameOddOneOutIndex];
   
+  const originalIndices = question.list.map((_, idx) => idx);
+  for (let i = originalIndices.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [originalIndices[i], originalIndices[j]] = [originalIndices[j], originalIndices[i]];
+  }
+  
   let choicesHTML = '';
-  question.list.forEach((choice, idx) => {
+  originalIndices.forEach((origIdx) => {
     choicesHTML += `
-      <button class="ws-btn-action" onclick="answerOddOneOut(${idx})" style="padding: 14px; font-size: 16px; font-weight: 600; width: 100%; border-radius: 12px;">
-        ${choice}
+      <button class="ws-btn-action" onclick="answerOddOneOut(${origIdx})" style="padding: 14px; font-size: 16px; font-weight: 600; width: 100%; border-radius: 12px;">
+        ${question.list[origIdx]}
       </button>
     `;
   });
@@ -8420,11 +8454,17 @@ function renderEmpathyScenariosQuestion(container) {
   
   const question = gameEmpathyScenariosQuestions[gameEmpathyScenariosIndex];
   
+  const originalIndices = question.choices.map((_, idx) => idx);
+  for (let i = originalIndices.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [originalIndices[i], originalIndices[j]] = [originalIndices[j], originalIndices[i]];
+  }
+  
   let choicesHTML = '';
-  question.choices.forEach((choice, idx) => {
+  originalIndices.forEach((origIdx) => {
     choicesHTML += `
-      <button class="ws-btn-action" onclick="answerEmpathyScenarios(${idx})" style="padding: 12px; font-size: 14px; text-align: left; width: 100%; border-radius: 10px; margin-bottom: 8px;">
-        ❤️ ${choice}
+      <button class="ws-btn-action" onclick="answerEmpathyScenarios(${origIdx})" style="padding: 12px; font-size: 14px; text-align: left; width: 100%; border-radius: 10px; margin-bottom: 8px;">
+        ❤️ ${question.choices[origIdx]}
       </button>
     `;
   });

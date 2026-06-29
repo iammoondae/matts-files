@@ -58,6 +58,8 @@ jobs:
         
         cp -r data "$ASSETS_DIR/"
         cp -r images "$ASSETS_DIR/"
+        find "$ASSETS_DIR/images" -type f ! -name "mascot_*" -delete
+        rm -rf "$ASSETS_DIR/images/nanobanana"
         cp -r Worksheets "$ASSETS_DIR/"
         
         # Inject build metadata

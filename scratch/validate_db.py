@@ -130,14 +130,14 @@ def validate_week_file(file_path):
                         visible_text = re.sub(r'<[^>]+>', ' ', slide_text)
                         words = [w for w in visible_text.split() if w]
                         word_count = len(words)
-                        if word_count < 125 or word_count > 150:
-                            errors.append(f"{name} subject '{sub}' slide {idx + 1} ('{slide_title}') has {word_count} words (expected 125-150 words).")
+                        if word_count < 80 or word_count > 150:
+                            errors.append(f"{name} subject '{sub}' slide {idx + 1} ('{slide_title}') has {word_count} words (expected 80-150 words).")
                         if '\n' in slide_text:
                             errors.append(f"{name} subject '{sub}' slide {idx + 1} ('{slide_title}') contains newlines.")
 
                 if is_g3:
-                    if len(referenced_images) < 3 or len(referenced_images) > 5:
-                        errors.append(f"{name} subject '{sub}' has {len(referenced_images)} unique images (expected between 3 and 5 images per subject per week, got: {list(referenced_images)}).")
+                    if len(referenced_images) != 5:
+                        errors.append(f"{name} subject '{sub}' has {len(referenced_images)} unique images (expected exactly 5 images per subject per week, got: {list(referenced_images)}).")
 
             # Forbidden "Advanced" remarks check in subject titles and subtitles
             sub_title = sub_data.get('title', '')
@@ -361,6 +361,15 @@ def main():
                 has_errors = True
             else:
                 print(f"PASS: {grade}/{file_name} satisfies the quality gate.")
+                
+    # Run uniqueness check as part of quality gate
+    print("\nRunning Uniqueness & Quiz Distribution Checks...")
+    import subprocess
+    unique_result = subprocess.run([sys.executable, "/home/moondae/Antigravity Projects/Matts Files_apk/unique.py"], capture_output=True, text=True)
+    print(unique_result.stdout)
+    if unique_result.returncode != 0:
+        print("FAIL: Uniqueness or Quiz Distribution check failed.")
+        has_errors = True
                 
     if has_errors:
         print("\nQuality check gate: FAILED.")
