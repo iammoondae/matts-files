@@ -177,7 +177,9 @@ const PARENT_LEARNER_ACTIVITIES = [
   }
 ];
 
-const REMOTE_UPDATE_URL = "https://raw.githubusercontent.com/iammoondae/matts-files/main";
+const REMOTE_UPDATE_URL = (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')
+  ? window.location.origin
+  : "https://raw.githubusercontent.com/iammoondae/matts-files/main";
 
 // PASSING SCORE THRESHOLDS
 const QUIZ_PASSING_SCORE = 15;       // 60% of 25
@@ -2202,11 +2204,18 @@ function renderQuizQuestion(questionsList, qBody) {
   const q = questionsList[currentQuestionIndex];
 
   if (q.type === 'choice' || q.type === 'verify') {
+    // Generate shuffled indices for choices
+    const originalIndices = q.options.map((_, idx) => idx);
+    for (let i = originalIndices.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [originalIndices[i], originalIndices[j]] = [originalIndices[j], originalIndices[i]];
+    }
+
     let choicesHTML = '';
-    q.options.forEach((opt, idx) => {
+    originalIndices.forEach((origIdx) => {
       choicesHTML += `
-        <button class="choice-btn" id="choice-${idx}" onclick="selectChoice(${idx})">
-          <span>${opt}</span>
+        <button class="choice-btn" id="choice-${origIdx}" onclick="selectChoice(${origIdx})">
+          <span>${q.options[origIdx]}</span>
         </button>
       `;
     });
@@ -5979,11 +5988,17 @@ function renderPatternQuestion(container) {
   }
   
   const question = gamePatternQuestions[gamePatternQuestionIdx];
+  const originalIndices = question.choices.map((_, idx) => idx);
+  for (let i = originalIndices.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [originalIndices[i], originalIndices[j]] = [originalIndices[j], originalIndices[i]];
+  }
+  
   let choicesHTML = '';
-  question.choices.forEach((choice, idx) => {
+  originalIndices.forEach((origIdx) => {
     choicesHTML += `
-      <button class="ws-btn-action" onclick="answerPatternQuestion(${idx})" style="padding: 14px 20px; font-size: 16px; min-width: 120px; border-radius: 12px;">
-        ${choice}
+      <button class="ws-btn-action" onclick="answerPatternQuestion(${origIdx})" style="padding: 14px 20px; font-size: 16px; min-width: 120px; border-radius: 12px;">
+        ${question.choices[origIdx]}
       </button>
     `;
   });
@@ -6934,8 +6949,8 @@ function removeProfilePic() {
 // ==========================================================================
 // APP VERSION, BUILD INFO & CHANGELOG TIMELINE
 // ==========================================================================
-const RAW_APP_VERSION = "v26.06.25.1452";
-const RAW_BUILD_DATE = "June 25, 2026";
+const RAW_APP_VERSION = "__APP_BUILD_VERSION__";
+const RAW_BUILD_DATE = "__APP_BUILD_DATE__";
 
 function isPlaceholder(val) {
   return !val || val.startsWith("__APP_") || val.startsWith("__") || val.includes("PLACEHOLDER");
@@ -8253,11 +8268,17 @@ function renderOddOneOutQuestion(container) {
   
   const question = gameOddOneOutQuestions[gameOddOneOutIndex];
   
+  const originalIndices = question.list.map((_, idx) => idx);
+  for (let i = originalIndices.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [originalIndices[i], originalIndices[j]] = [originalIndices[j], originalIndices[i]];
+  }
+  
   let choicesHTML = '';
-  question.list.forEach((choice, idx) => {
+  originalIndices.forEach((origIdx) => {
     choicesHTML += `
-      <button class="ws-btn-action" onclick="answerOddOneOut(${idx})" style="padding: 14px; font-size: 16px; font-weight: 600; width: 100%; border-radius: 12px;">
-        ${choice}
+      <button class="ws-btn-action" onclick="answerOddOneOut(${origIdx})" style="padding: 14px; font-size: 16px; font-weight: 600; width: 100%; border-radius: 12px;">
+        ${question.list[origIdx]}
       </button>
     `;
   });
@@ -8435,11 +8456,17 @@ function renderEmpathyScenariosQuestion(container) {
   
   const question = gameEmpathyScenariosQuestions[gameEmpathyScenariosIndex];
   
+  const originalIndices = question.choices.map((_, idx) => idx);
+  for (let i = originalIndices.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [originalIndices[i], originalIndices[j]] = [originalIndices[j], originalIndices[i]];
+  }
+  
   let choicesHTML = '';
-  question.choices.forEach((choice, idx) => {
+  originalIndices.forEach((origIdx) => {
     choicesHTML += `
-      <button class="ws-btn-action" onclick="answerEmpathyScenarios(${idx})" style="padding: 12px; font-size: 14px; text-align: left; width: 100%; border-radius: 10px; margin-bottom: 8px;">
-        ❤️ ${choice}
+      <button class="ws-btn-action" onclick="answerEmpathyScenarios(${origIdx})" style="padding: 12px; font-size: 14px; text-align: left; width: 100%; border-radius: 10px; margin-bottom: 8px;">
+        ❤️ ${question.choices[origIdx]}
       </button>
     `;
   });

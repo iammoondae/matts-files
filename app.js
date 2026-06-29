@@ -177,7 +177,9 @@ const PARENT_LEARNER_ACTIVITIES = [
   }
 ];
 
-const REMOTE_UPDATE_URL = "https://raw.githubusercontent.com/iammoondae/matts-files/main";
+const REMOTE_UPDATE_URL = (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1')
+  ? window.location.origin
+  : "https://raw.githubusercontent.com/iammoondae/matts-files/main";
 
 // PASSING SCORE THRESHOLDS
 const QUIZ_PASSING_SCORE = 15;       // 60% of 25
